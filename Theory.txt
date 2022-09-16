@@ -1,0 +1,136 @@
+————————————————————————————————————————
+15 September 2022
+————————————————————————————————————————
+
+Supervised Learning::
+
+Regression:
+Classification:
+
+Unsupervised Learning::
+Unsupervised classification technique is a fully automated method that does not leverage training data.
+Read more at: https://viso.ai/computer-vision/image-classification/
+
+
+K-means is an unsupervised classification algorithm that groups objects into k groups based on their characteristics. It is also called “clusterization.” K-means clustering is one of the simplest and very popular unsupervised machine learning algorithms.
+Read more at: https://viso.ai/computer-vision/image-classification/
+
+—————————————
+Test Data:
+—————————————
+Represent the actual dataset 
+
+
+—————————————————
+Training Data: 
+—————————————————
+Training data is typically larger than testing data. This is because we want to feed the model with as much data as possible to find and learn meaningful patterns. 
+
+Algorithms enable machines to solve problems based on past observations. Kind of like learning from example, just like humans. The only difference is that machines require a lot more examples in order to be able to see patterns and learn. 
+
+
+
+—————————————————
+Machine Learning
+—————————————————
+ML is predictive Analysis.
+
+
+———————————————————
+Statistical Model
+———————————————————
+Relationship between variabls. if x change then how much y change. Effect
+
+———————————————————
+Data Mining
+———————————————————
+Discover unknown properties from previous data. Descriptive Analytics
+
+
+———————————————————
+Deep Learning
+———————————————————
+
+
+All ML is AI but AI is not ML.
+
+
+ML is a subset of Artifical Intelligence.
+
+
+Mahcine Learning
+——————————————————————
+Supervised Learning
+——————————————————————
+
+Classification
+	-
+Regression
+   Continuous variable
+
+ Decision Tree
+
+Ensembling
+
+labeled Data
+Direct Feedback
+Predict >> Future Outcome 
+——————————————————————
+Unsupervised Learning
+——————————————————————
+
+No Input data, Extract Hidden patterns
+
+ - Clustering
+   Customer segmentaiton
+ - Association
+   Relation
+ - Dimensional 
+
+
+ No Labels
+ No Feedback
+ Find Hidden structure/pattern in data
+
+
+
+
+
+Most difficult part is to collect training data set
+
+Ground truth >> Training Data
+
+
+
+K- Means
+
+Elbow Method is used to get k value
+
+Ecucleadian Distance is used
+
+——————
+Use
+——————
++ Simple and flexible 
+- Wcss = sum of square
+
+Social network
+
+Income and Age
+
+
+—————————————————
+Normalizing Data
+—————————————————
+https://www.linkedin.com/learning/machine-learning-with-python-foundations/normalizing-your-data?autoplay=true&resume=false&u=76281980
+
+
+Z score normalization
+Mean 0 and SD 1.
+
+
+
+Min-max normalization
+
+
+Log transform

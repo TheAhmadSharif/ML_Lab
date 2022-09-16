@@ -1,0 +1,35 @@
+https://www.youtube.com/watch?v=DAFljjxmyZw
+
+5
+2
+————————————————————————————————————————————————————
+Simple Binary classification
+————————————————————————————————————————————————————
+Positive review
+Negative review
+
+
+Train the data
+
+
+Class Label 
+
+Positive Review
+Negative Review
+
+Rating > 3 Positive
+Rating < 3 Negative
+
+
+
+
+————————————————————————————————————————————————————
+Multiple Class Classification
+————————————————————————————————————————————————————
+Lots of Data
+
+
+
+Image classification methods Two of the most common methods to classify the overall image through training data are ‘maximum likelihood’ and ‘minimum distance.’ For instance, ‘maximum likelihood’ classification uses the statistical traits of the data where the standard deviation and mean values of each textural and spectral indices of the picture are analyzed first.
+Read more at: https://viso.ai/computer-vision/image-classification/
+
