@@ -1,0 +1,38 @@
+————————————————————————
+Anaconda Install
+————————————————————————
+apt-get install libgl1-mesa-glx libegl1-mesa libxrandr2 libxrandr2 libxss1 libxcursor1 libxcomposite1 libasound2 libxi6 libxtst6
+
+
+
+https://www.how2shout.com/linux/how-to-install-anacondaon-ubuntu-22-04-lts-jammy/
+
+
+echo "export PATH=$PATH:/home/ahmad/anaconda3/bin">> ~/.bashrc
+source ~/.bashrc
+conda init
+
+
+pip3 install --user -U nltk
+
+pip3 install numpy
+
+
+————————————————————————
+Install R Studio
+————————————————————————
+
+sudo apt-get remove rstudio
+
+
+R Package
+install.packages("caret")
+library(caret)
+
+
+install.packages("e1071")
+library(e1071)
+
+
+install.packages("mlr3")
+library(mlr3)

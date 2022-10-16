@@ -1,0 +1,31 @@
+https://www.youtube.com/watch?v=FW2BF6jbHBk
+
+
+* means current operation
+
+Keranl >> Restart and Clear output
+
+
+pip install jupyter
+
+
+Shift + Enter >> Execute Code
+
+————————————————————————
+Command Mode >> Esc
+————————————————————————
+Esc >>  B >> Insert new line
+A> Above
+B> Below
+
+Shift + M >> Merge Together
+DD Delete Cel
+————————————————————————
+Edit Mode >> Enter
+————————————————————————
+
+
+
+
+
+**Bold**

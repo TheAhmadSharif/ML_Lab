@@ -1,0 +1,9 @@
+Linear Regression
+Naive Bayes
+K-Means Algorithm
+K-NN Algorithm
+Decision Tree
+Random Forest
+Neural Network
+Logistic Regression
+Dimensionality reduction algorithms

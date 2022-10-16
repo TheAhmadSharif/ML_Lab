@@ -1,0 +1,21 @@
+https://instacalc.com/
+
+
+		Cancer  No Cancer
++ ve      80%      9.6%
+- ve      20%     90.4% 
+
+
+Bayes Theorem
+
+Total Population = 10000                                             = 10,000 
+Cancer = 1% * 10000                                                  = 100 
+No Cancer = 99% * 1000                                               = 990 
+True Positive  = 80% * Cancer                                        = 80 
+False Negative = 20%                                                 = 0.2 
+False Positive = 9.6% * 9900                                         = 950.4 
+True Negative = 90.4% * 9900                                         = 8,949.6 
+True Positive = True positive/(True Positive +  False Positive )     = 0.07763975155 
+True Positive * 100                                                  = 7.76397515528 
+
+https://instacalc.com/55950
