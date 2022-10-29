@@ -20,6 +20,8 @@ B> Below
 
 Shift + M >> Merge Together
 DD Delete Cel
+
+Duplicate Line >> Ctrl + C >> Ctrl + V
 ————————————————————————
 Edit Mode >> Enter
 ————————————————————————
