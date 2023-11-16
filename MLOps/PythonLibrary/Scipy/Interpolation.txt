@@ -1,0 +1,6 @@
+Interpolation
+
+Interpolation is a method for generating points between given points.
+
+
+https://www.w3schools.com/python/scipy/scipy_interpolation.php

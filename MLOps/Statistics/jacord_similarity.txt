@@ -1,0 +1,20 @@
+https://www.statisticshowto.com/jaccard-index/
+
+Jaccard Similarity is commonly used to evaluate how similar two pieces of texts are.
+
+
+No highs, no lows, only Doge
+One word: Doge
+
+
+l1 = ["no", "high", "no", "low", "only", "doge"]
+l2 = ["one", "word", "doge"]
+
+jaccard_similarity(l1, l2)
+
+https://datascienceparichay.com/article/jaccard-similarity-python/
+
+https://www.youtube.com/watch?v=YotbvhndSf4
+
+
+

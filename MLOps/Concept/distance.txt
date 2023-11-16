@@ -1,0 +1,3 @@
+https://www.omnicalculator.com/math/manhattan-distance
+
+Data cleansing, also known as data cleaning or scrubbing, identifies and fixes errors, duplicates, and irrelevant data from a raw dataset. Part of the data preparation process, data cleansing allows for accurate, defensible data that generates reliable visualizations, models, and business decisions.

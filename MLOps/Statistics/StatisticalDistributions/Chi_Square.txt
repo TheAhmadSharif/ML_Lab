@@ -1,0 +1,10 @@
+https://www.youtube.com/watch?v=GG7dFnvbMKI
+
+
+Chisquare Tests
+
+
+
+
+Determine if sample data matches a population.
+Compares two variables in a contingency table

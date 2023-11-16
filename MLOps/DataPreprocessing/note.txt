@@ -1,0 +1,22 @@
+https://vitalflux.com/minmaxscaler-standardscaler-python-examples/
+
+https://sparkbyexamples.com/pandas/pandas-select-columns-by-name-or-index/
+
+specific_outlook_data = dataset[dataset["outlook"] == "sunny"]
+specific_outlook_data
+
+
+specific_outlook_data = dataset.loc[:, "outlook": "temperature"]
+specific_outlook_data
+
+
+
+Missing Data
+NA
+https://www.youtube.com/watch?v=PPeaRc-r1OI&t=5s
+
+
+Inplace
+https://www.geeksforgeeks.org/what-does-inplace-mean-in-pandas/
+
+In the appropriate or usual position or order.

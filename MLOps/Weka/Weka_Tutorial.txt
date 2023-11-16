@@ -1,0 +1,13 @@
+Weka
+————————————————————————
+Arff Format
+
+Attribute-Relation File Format
+
+The header describes the attribute types.
+The data section contains a comma separated list of data.
+
+
+Build with Java
+
+Attribute 7 means === Column

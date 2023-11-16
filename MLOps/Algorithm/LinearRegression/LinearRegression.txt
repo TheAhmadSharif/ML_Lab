@@ -1,0 +1,2 @@
+If you are familiar with statistics, you may recognise β as simply
+Cov(X, Y) / Var(X).

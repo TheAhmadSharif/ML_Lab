@@ -1,0 +1,25 @@
+How Do We Know it is a Maximum (or Minimum)?
+
+https://www.mathsisfun.com/calculus/maxima-minima.html
+
+
+https://www.youtube.com/watch?v=XepXtl9YKwc
+
+Maximum likelihood estimation
+Find the optimal value for the mean or SD for a distribution given a bunch of observed measurements. 
+
+In statistics, maximum likelihood estimation (MLE) is a method of estimating the parameters of an assumed probability distribution, given some observed data.
+
+partial derivative to calculate paremeter mle
+
+https://www.mathsisfun.com/calculus/maxima-minima.html
+
+This site can’t be reachedmoodle.tuni.fi took too long to respond.
+
+
+What is an estimator
+
+
+What is an unbiased estimator?  
+
+

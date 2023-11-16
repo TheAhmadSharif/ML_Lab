@@ -1,0 +1,22 @@
+https://www.youtube.com/watch?v=x29A26UrPkA
+
+
+Geometric Distributions
+
+NUmber of failure before you get a success in a series of Bernoulli Distributions
+
+A discrete distributions.
+
+
+Example: 
+
+Certain  number of failure before you got first success.
+
+If you had to ask 3 people then X = 3.
+If you had to ask 4 people then X = 4.
+
+
+How many attempts to make a sale will end in asuccess.
+
+
+The probability that the ith item on a production line is defective.

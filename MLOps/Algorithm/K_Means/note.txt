@@ -1,0 +1,36 @@
+https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_digits.html#sphx-glr-auto-examples-cluster-plot-kmeans-digits-py
+
+https://www.youtube.com/watch?v=EItlUEPCIzM&t=615s
+
+KMeans
+
+Pros
+1. Simple to understand.
+2. Fast to cluster
+3. Widely available
+4. Easy to implement
+
+
+
+
+Cons
+1. Calculate K. It is not scientific. Elbow method is not scientific.
+
+
+
+K-means++
+
+
+
+KMeans(n_clusters=3)
+
+Inertia actually calculates the sum of distances of all the points within a cluster from the centroid of that cluster. 
+
+
+https://queirozf.com/entries/add-labels-and-text-to-matplotlib-plots-annotation-examples
+
+plt.annotate("label", # this is the text
+                 (5,99), # these are the coordinates to position the label
+                 textcoords="offset points", # how to position the text
+                 xytext=(0,10), # distance from text to points (x,y)
+                 ha='center')

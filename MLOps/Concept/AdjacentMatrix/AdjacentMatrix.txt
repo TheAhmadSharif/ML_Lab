@@ -1,0 +1,8 @@
+An adjacency matrix is also called as connection matrix. Sometimes it is also called a Vertex matrix.
+
+A B C
+A:[0 1 2]  
+B:[1 0 0]
+C:[2 0 0]
+
+https://www.w3schools.com/python/scipy/scipy_graphs.php

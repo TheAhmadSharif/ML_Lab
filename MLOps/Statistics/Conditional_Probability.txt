@@ -1,0 +1,4 @@
+https://www.youtube.com/watch?v=_IgyaD7vOOA
+
+
+p(what_do_we_want_to_know | what_we_know) = p(what_do_we_want_to_know)/p(what_we_know)

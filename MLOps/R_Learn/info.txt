@@ -1,0 +1,6 @@
+https://www.guru99.com/r-tutorial.html
+
+————————————————————————————————————————
+R shortcut
+————————————————————————————————————————
+Duplicate Line > Alt + Shift + Arrow

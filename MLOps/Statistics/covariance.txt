@@ -1,0 +1,10 @@
+https://www.youtube.com/watch?v=TPcAnExkWwQ
+
+Covariacne
+How two variables change together.
+
+
+Covariance is a measure of the relationship between two random variables and to what extent, they change together. Or we can say, in other words, it defines the changes between the two variables, such that change in one variable is equal to change in another variable.
+
+
+Covariance shows you how the two variables differ, whereas correlation shows you how the two variables are related.

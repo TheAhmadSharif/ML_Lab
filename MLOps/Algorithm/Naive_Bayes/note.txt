@@ -1,0 +1,22 @@
+https://www.youtube.com/watch?v=PPeaRc-r1OI
+https://www.youtube.com/watch?v=CPqOCI0ahss
+https://www.youtube.com/watch?v=VQl5_K7V44g
+
+
+Conditional Probability:
+
+P(A/B) === P(B/A) x P(A)/ P(B)
+
+jupyter nbextension enable ScrollDown
+http://localhost:8888/notebooks/Desktop/MLOps/Algorithm/Naive_Bayes/index.ipynb
+
+
+train_spam = ['send us your password', 'review our website', 'send your password', 'send us your account']
+train_ham = ['Your activity report','benefits physical activity', 'the importance vows']
+test_emails = {'spam':['renew your password', 'renew your vows'], 'ham':['benefits of our account', 'the importance of physical activity']}
+
+
+
+
+Entropy
+https://www.youtube.com/watch?v=YtebGVx-Fxw

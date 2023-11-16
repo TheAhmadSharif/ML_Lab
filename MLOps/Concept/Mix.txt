@@ -1,0 +1,31 @@
+Bayesian Decision Theory is the statistical approach to pattern classification.
+
+
+Nominal
+
+Gender
+
+Ordinal
+Good
+Excellent
+Average
+
+Nominal: the data can only be categorized
+Ordinal: the data can be categorized and ranked
+Interval: the data can be categorized, ranked, and evenly spaced
+Ratio: the data can be categorized, ranked, evenly spaced, and has a natural zero.
+
+
+What Is Principal Component Analysis? Principal component analysis, or PCA, is a dimensionality-reduction method that is often used to reduce the dimensionality of large data sets, by transforming a large set of variables into a smaller one that still contains most of the information in the large set.
+
+
+
+An interval scale is one where there is order and the difference between two values is meaningful. Examples of interval variables include: temperature (Farenheit), temperature (Celcius), pH, SAT score (200-800), credit score (300-850).
+
+Tesla.369#
+theahmadsharif@gmail.com
+theahmadsharif@gmail.com
+
+
+
+Where you cannot imply that the temperature is twice as warm outside because it’s an interval scale, you can say you are twice another’s age because it’s a ratio variable.

@@ -1,0 +1,3 @@
+Entropy is defined as the randomness or measuring the disorder of the information being processed in Machine Learning. Further, in other words, we can say that entropy is the machine learning metric that measures the unpredictability or impurity in the system
+
+In the context of Decision Trees, entropy is a measure of disorder or impurity in a node.

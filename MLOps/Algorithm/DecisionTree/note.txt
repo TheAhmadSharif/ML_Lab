@@ -1,0 +1,31 @@
+ID3 stands for Iterative Dichotomiser 3 
+
+https://towardsdatascience.com/decision-trees-for-classification-id3-algorithm-explained-89df76e72df1
+
+
+Entropy is defined as the randomness or measuring the disorder of the information being processed in Machine Learning. Further, in other words, we can say that entropy is the machine learning metric that measures the unpredictability or impurity in the system
+
+In the context of Decision Trees, entropy is a measure of disorder or impurity in a node.
+
+
+
+https://medium.datadriveninvestor.com/decision-tree-algorithm-with-hands-on-example-e6c2afb40d38
+
+https://iq.opengenus.org/id3-algorithm/
+
+
+Lack of order or predictability; gradual decline into disorder.
+
+
+http://localhost:8889/tree/Desktop/MLOps/Algorithm/DecisionTree
+
+
+E_Outlook = (4/14)[-(4/4)*log2(4/14) - (0/4)*log2(0/4)]+
+(5/14)[-(2/5)*log2(2/5) - (3/5)*log2(3/5)]
++
+(5/14)[-(3/5)*log2(3/5) - (2/5)*log2(2/5)]
+
+
+
+
+E_Outlook = (4/14)*(-(4/4)*log2(4/14) - 0) + (5/14)(-(2/5)*log2(2/5) - (3/5)*log2(3/5)) + (5/14)(-(3/5)*log2(3/5) -(2/5)*log2(2/5))

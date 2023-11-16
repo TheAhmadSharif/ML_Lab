@@ -1,0 +1,19 @@
+from sklearn.metrics.pairwise import cosine_similarity, cosine_distances
+
+
+
+Cosine similarity is a measure of similarity between two non-zero vectors. It is calculated as the angle between these vectors (which is also the same as their inner product).
+
+
+https://towardsdatascience.com/cosine-similarity-explained-using-python-machine-learning-pyshark-5c5d6b9c18fa
+
+https://blogs.sas.com/content/iml/2019/09/03/cosine-similarity.html
+
+
+Some of the popular similarity measures are –
+
+Euclidean Distance.
+Manhattan Distance.
+Jaccard Similarity.
+Minkowski Distance.
+Cosine Similarity.

@@ -1,0 +1,13 @@
+Panda is pyhton library for working with datas.
+
+Panda = Python Data Analysis 
+
+
+
+Data Frame
+
+
+A DataFrame is a data structure that organizes data into a 2-dimensional table of rows and columns,
+
+
+df.drop_duplicates(inplace = True)

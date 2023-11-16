@@ -1,0 +1,7 @@
+Probability Distributions
+
+Probability distributions are functions that calculates the probabilities of the outcomes of random variables.
+
+
+
+https://www.w3schools.com/statistics/statistics_normal_distribution.php

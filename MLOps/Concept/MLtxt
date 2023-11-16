@@ -1,0 +1,9 @@
+https://cnvrg.io/reinforcement-learning/
+
+Supervised Learning – the data is labeled and you need to learn a function that maps an input to an output based on example input-output pairs
+
+Unsupervised Learning – the data is not labeled and you need to find some structure in your data to formulate conclusions about it
+
+Reinforcement Learning – you have an environment, an agent, a set of actions and you need to learn dynamically by adjusting the agent’s actions based on continuous feedback to maximize the overall reward
+
+Semi-Supervised Learning – you need to solve some problem having a data set with both labeled and unlabeled data

@@ -1,0 +1,8 @@
+
+An observation is a fact or figure we collect about a given variable. It can be expressed as a number or as a quality. An example of a number is the observation "25" for the age of a mother at the birth of her first child.
+
+
+https://datagy.io/pandas-describe/
+
+
+A pivot table is a table of grouped values that aggregates the individual items of a more extensive table within one or more discrete categories.

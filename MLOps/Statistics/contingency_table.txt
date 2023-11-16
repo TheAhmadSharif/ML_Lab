@@ -1,0 +1,12 @@
+
+https://www.youtube.com/watch?v=Tat_2NX2I_M
+Summarize large data set
+
+
+Frequency Table
+
+Gender Smoker   Non-Smoker Total
+Male   72 			44		116
+Female 34 			53		87
+
+Total 106           97      203
