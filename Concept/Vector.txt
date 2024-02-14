@@ -1,0 +1,2 @@
+Vector is 1 dimentional array.
+It has direction and magnitude.

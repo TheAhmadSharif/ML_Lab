@@ -1,0 +1,32 @@
+I am using the same regression as Bouman & Jacobsen (2002). Studying the Halloween effect. If the α 1  coefficient is positive and statistically significant the effect exists. The regression's task is to compare the mean returns in the summer (May-October) and winter (November-April)
+
+
+
+
+
+Hi,
+
+According to superprof platform the first zoom session(Introductory: Free) was on 15.12 at 10:00. However, I took the session in advance on 12.12 unoffcially. So can you please add 2 hours for my effort. 
+
+15.12  zoom session + Exercise R code : 2 Hours.
+
+
+
+
+The Superprof platform scheduled the first Zoom session (Introductory: Free) for December 15th at 10:00. But I actually joined an unofficial session on December 12th beforehand. Could you please acknowledge my effort by adding 2 extra hours for that session?
+
+So, including the Zoom session on December 15th and working on the R code exercise, it totals 2 hours.
+
+setwd("/home/ahmad/Desktop/Madlen")
+
+
+sure, we can schedule another session either tomorrow (25.12 - Christmas holiday) or the day after (26.12) at 22:00.
+
+Could you kindly provide me with the topics for the upcoming session?
+
+1. Will this session focus on R code or the task you previously mentioned or Regression Analysis?
+
+
+Note: I'm not interested in enrolling in a course.
+
+8376021+001+002+003+004 / Hervanta A

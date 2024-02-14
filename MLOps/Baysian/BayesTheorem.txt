@@ -1,0 +1,18 @@
+https://courses.lumenlearning.com/waymakermath4libarts/chapter/bayes-theorem/
+
+A certain disease has an incidence rate of 0.8%. If the false negative rate is 5% and the false positive rate is 3%, compute the probability that a person who tests positive actually has the disease.
+
+
+			Disease   		No Disease
+Test +ve    True Positive   False Positive
+Test -ve    True Negative   False Negative
+
+
+P(Disease/Test + ve) = P(Disease) x P(Test+ve/ Disease)/ True Positve + False Positive
+
+
+
+
+AB.Pi.3.1416#
+
+0,178956089

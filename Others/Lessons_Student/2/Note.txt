@@ -1,0 +1,107 @@
+Could we have one more session where we go through my task, how the regressions work, how they work in R and how to analyze the results for my task specifically? 
+
+––––––––––––––––––––––––––––––––––––––––––––––––––
+
+
+The topic would be going through the specific task. How do I perform Bouman and Jacobsen's study on my data? Calculating the important and relevant values for my data (standard deviation etc) How does their regressions work? Have I understood the regressions correctly? Do my regressions work as they should? How do I test for autocorrelation and heteroscedasticity for the specific regressions? Basically going through the task step by step, in order for me to fully understand it and so my task does the same purpose as Bouman and Jacobsen (2002) regressions.
+
+
+––––––––––––––––––––––––––––––––––––––––––––––––––
+
+Correlation Coefficient
+R-Squared (R² or the coefficient of determination)
+
+
+Multiple linear regression
+Example: 
+
+House Rent = Interest Rate + Inflation + Location + Facilities/Amenities + Space size
+
+Yearly Rice yield = Soli + Water + Fertilizer 
+
+
+Ice Cream Sales = Temperature + School Holidays + Daily Rainfalls + ? (Unexplained)
+
+
+R Square = 0.61 it can explain 61 percent of the variation in size.
+
+R-square value tells you how much variation is explained by your model.
+
+
+
+Simple Linear Regression:
+Test Score = β0 + β1 * Study Hours + ε
+
+Multiple Linear Regression:
+Test Score = β0 + β1 * Study Hours + β2 * Prep Classes + β3 * GPA + ε
+
+
+––––––––––––––––––––––––––––
+I am using the same regression as Bouman & Jacobsen (2002). Studying the Halloween effect. If the α 1  coefficient is positive and statistically significant the effect exists. The regression's task is to compare the mean returns in the summer (May-October) and winter (November-April)
+––––––––––––––––––––––––––––
+
+––––––––––––––––––––––––––––
+ Studying the Halloween effect. If the α 1  coefficient is positive and statistically significant the effect exists. The regression's task is to compare the mean returns in the summer (May-October) and winter (November-April)
+––––––––––––––––––––––––––––
+
+
+Durbin Watson Test
+
+What Is Heteroskedasticity?
+In statistics, heteroskedasticity (or heteroscedasticity) happens when the standard deviations of a predicted variable, monitored over different values of an independent variable or as related to prior time periods, are non-constant. 
+
+
+
+Adjusted R²
+
+
+If useless predictors are added to the model. Adjusted R square will decrease.
+If useful predictors are added to the model. Adjusted R square will decrease.
+
+
+Autocorrelation, also known as serial correlation
+Durbin Watson Test
+
+
+
+
+Autocorrelation is used to measure the degree of similarity between a time series and a lagged version of itself over the given range of time intervals. We can also call autocorrelation as  “serial correlation” or “lagged correlation”. It is mainly used to measure the relationship between the actual values and the previous values.
+
+
+
+
+How to Calculate the Durbin Watson Statistic
+The hypotheses followed for the Durbin Watson statistic:
+
+H(0) = First-order autocorrelation does not exist.
+
+H(1) = First-order autocorrelation exists.
+
+
+
+first-order autocorrelation, occurs when the consecutive errors are correlated. Second-order autocorrelation occurs when error terms two periods apart are correlated, 
+
+Have you forgotten, or is there an issue?
+
+
+
+
+
+
+
+Example: Durbin-Watson Test in R
+
+
+Breusch-Pagan test
+
+
+If you reject the null hypothesis and conclude that autocorrelation is present in the residuals, then you have a few different options to correct this problem if you deem it to be serious enough:
+
+What Is Heteroskedasticity? In statistics, heteroskedasticity (or heteroscedasticity) happens when the standard deviations of a predicted variable, monitored over different values of an independent variable or as related to prior time periods, are non-constant.
+
+
+
+If you faced any issues or need help catching up, feel free to reach out. I'm here to assist you.
+
+
+Did you forget Do you have any issue joing Is everything okay

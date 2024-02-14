@@ -1,0 +1,95 @@
+Could we have one more session where we go through my task, how the regressions work, how they work in R and how to analyze the results for my task specifically? 
+
+
+
+
+Correlation Coefficient
+R-Squared (R² or the coefficient of determination)
+
+
+Multiple linear regression
+Example: 
+
+House Rent = Interest Rate + Inflation + Location + Facilities/Amenities + Space size
+
+Yearly Rice yield = Soli + Water + Fertilizer 
+
+
+Ice Cream Sales = Temperature + School Holidays + Daily Rainfalls + ? (Unexplained)
+
+
+R Square = 0.61 it can explain 61 percent of the variation in size.
+
+R-square value tells you how much variation is explained by your model.
+
+
+
+Simple Linear Regression:
+Test Score = β0 + β1 * Study Hours + ε
+
+Multiple Linear Regression:
+Test Score = β0 + β1 * Study Hours + β2 * Prep Classes + β3 * GPA + ε
+
+
+
+Durbin-Watson:
+
+
+
+It is believed thayt a candy machine makes chocholate bars that are on average 5g. A worker claims that the machine after maintenance no longer makes 5g bars. 
+
+
+Ho: mu = 5g
+H1: mu not equal to 5g.  It could be greater than 5 or less than 5.
+
+
+Null hypothesis existing belief
+New thigns is true.
+
+
+Significant difference found = Reject the null hypothesis
+No Significant difference found = Accept the null hypothesis
+
+
+
+Null Hypothesis:  H0: There is no difference in the salary of factory workers based on gender.
+Alternative Hypothesis:  Ha: Male factory workers have a higher salary than female factory workers.
+
+
+Null Hypothesis:  H0: There is no relationship between height and shoe size.
+Alternative Hypothesis:  Ha: There is a positive relationship between height and shoe size.
+
+
+Null Hypothesis:  H0: Experience on the job has no impact on the quality of a brick mason’s work.
+Alternative Hypothesis:  Ha: The quality of a brick mason’s work is influenced by on-the-job experience.'
+
+
+
+
+The average height is 175 cm.
+
+
+20 studenrs 174 cm
+20 studenrs 168 cm
+
+Autocorrelation, also known as serial correlation
+
+Durbin Watson Test
+
+What Is Heteroskedasticity?
+In statistics, heteroskedasticity (or heteroscedasticity) happens when the standard deviations of a predicted variable, monitored over different values of an independent variable or as related to prior time periods, are non-constant. 
+
+
+
+Adjusted R²
+
+
+If useless predictors are added to the model. Adjusted R square will decrease.
+If useful predictors are added to the model. Adjusted R square will decrease.
+
+
+Should I Use Adjusted R-Squared or R-Squared?
+Using adjusted R-squared over R-squared may be favored because of its ability to make a more accurate view of the correlation between one variable and another. Adjusted R-squared does this by taking into account how many independent variables are added to a particular model against which the stock index is measured.
+
+
+Breusch-Pagan test

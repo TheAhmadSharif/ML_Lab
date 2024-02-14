@@ -1,0 +1,40 @@
+Regression two sample mean compare Bouman
+
+Bouman & jacobsen Regression
+
+P value is the probanility of getting a sample that is extreme.
+
+
+
+Null hypothesis is opposite of our experimental hypothesis.
+
+
+All people are innocent.
+
+
+Ho = Earth is flat.
+H1 = Always requries proof
+
+
+The notion Halloween effect refers to higher returns during the period November
+until April than the period May until October.
+
+
+Halloween effect in our different sectors through linear regression models with dummy
+variables.
+
+
+There has long been the idea that the months during the winter have performed better than the
+months during the summer in terms of returns from the stock market.
+
+Bouman and Jacobsen (2002) proved that the period November to April give consistent higher returns
+than the period May until October.
+
+Page 28
+
+
+
+The p-value for the intercept thus test whether intercept is significantly different from zero;
+
+H0 : mu = 0
+H1: mu not equal to zero

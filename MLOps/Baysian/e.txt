@@ -1,0 +1,47 @@
+# Population and cases data
+import numpy as np
+import matplotlib.pyplot as plt
+from scipy.stats import gamma
+
+population_data = [120342, 235967, 243745, 197452, 276935, 157222]
+cases_data = [2, 5, 3, 5, 3, 1]
+
+# Prior distribution parameters
+alpha_prior = 1
+beta_prior = 1/3
+
+# Posterior distribution parameters (updated from the data)
+alpha_posterior = alpha_prior + sum(cases_data)
+beta_posterior = beta_prior + sum(population_data) / 10000
+
+# Values for θ
+theta_values = np.linspace(0, 10, 1000)
+
+# Prior and posterior PDFs
+prior_pdf = gamma.pdf(theta_values, a=alpha_prior, scale=1/beta_prior)
+posterior_pdf = gamma.pdf(theta_values, a=alpha_posterior, scale=1/beta_posterior)
+
+# Plotting
+plt.figure(figsize=(10, 6))
+plt.plot(theta_values, prior_pdf, label='Prior', color='blue')
+plt.plot(theta_values, posterior_pdf, label='Posterior', color='green')
+plt.title('Prior and Posterior Distributions of θ')
+plt.xlabel('θ')
+plt.ylabel('Probability Density')
+plt.legend()
+plt.show()
+
+
+
+from scipy.stats import gamma
+
+# Posterior distribution parameters (updated from the data)
+alpha_posterior = alpha_prior + sum(cases_data)
+beta_posterior = beta_prior + sum(population_data) / 10000
+
+# Calculate the CDF at θ = 2.0
+posterior_cdf_at_2 = gamma.cdf(2.0, a=alpha_posterior, scale=1/beta_posterior)
+
+# Print the result
+print("Posterior probability that θ < 2.0:", posterior_cdf_at_2)
+

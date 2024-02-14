@@ -1,0 +1,13 @@
+Correlation Coefficient
+R-Squared (R² or the coefficient of determination)
+
+
+Multiple linear regression
+Example: 
+
+House Rent = Interest Rate + Inflation + Location + Facilities/Amenities + Space size
+
+Yearly Rice yield = Soli + Water + Fertilizer 
+
+
+Ice Cream Sales = Temperature + School Holidays + Daily Rainfalls + ? (Unexplained)

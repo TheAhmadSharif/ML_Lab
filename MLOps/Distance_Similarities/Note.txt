@@ -1,0 +1,7 @@
+Euclidean Distance
+––––––––––––––––––––––––
+The Manhattan distance or the cityblock distance is used to calculate the distance between two coordinates in a grid-like path.
+
+
+
+Thus, Manhattan Distance is preferred over the Euclidean distance metric as the dimension of the data increases.

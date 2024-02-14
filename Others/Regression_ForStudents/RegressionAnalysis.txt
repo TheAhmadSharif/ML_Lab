@@ -1,0 +1,174 @@
+https://www.javatpoint.com/regression-analysis-in-machine-learning
+
+Breusch-pagan
+Regression Analysis
+
+
+Height Vs Weight
+Study Hour Vs CGPA
+Fertilizer Vs Yield
+
+Heteroscedasticity
+https://www.w3schools.com/python/python_ml_multiple_regression.asp
+
+https://www.investopedia.com/terms/a/autocorrelation.asp
+
+https://www.w3schools.com/python/python_ml_multiple_regression.asp
+
+https://www.datacamp.com/tutorial/linear-regression-R
+Weight = slope x Height + c 
+
+
+https://sceweb.sce.uhcl.edu/helm/WEBPAGE-R/my_files/StatisticExamples/Module-2/R%20-%20Linear%20Regression.html
+
+
+x <- c(1, 2, 3)
+y <- c(2, 4, 6)
+relation <- lm(y ~ x )
+print(relation)
+
+
+https://sceweb.sce.uhcl.edu/helm/WEBPAGE-R/my_files/StatisticExamples/Module-2/R%20-%20Linear%20Regression.html
+
+
+
+
+codedata <- read.csv("data.csv")
+
+
+
+Correlation
+
+
+
+Regression Analysis is an extension of correlation.
+
+
+
+
+Coefficient of correlation
+Pearson correlation 
+
+
+
+Regression is the measure of the average relationship between two or more variables
+
+
+
+Multinomial Vs polynomial
+
+
+Ordinary least squares (OLS) 
+
+
+
+Numeracy, Maths and Statistics - Academic Skills Kit
+Definition. Simple linear regression aims to find a linear relationship to describe the correlation between an independent and possibly dependent variable. The regression line can be used to predict or estimate missing values, this is known as interpolation.
+
+
+Co-efficient of Determination (R2)
+
+
+
+Multinomial Regression
+
+Multiple regression is like linear regression, but with more than one independent value, meaning that we try to predict a value based on two or more variables.
+
+
+
+Regression Vs Simple Linear Regression
+
+
+
+Co-efficient of Determination (R2)
+
+
+Total Sum of Squares (TSS)
+Sum of the squared deviations of the sample values of Y from the mean of Y.
+
+TSS = SUM ( Yi − Y)2
+
+Ordinary least squares
+––––––––––––––––––––––––––––––
+https://www.youtube.com/watch?v=RdvKNJzUWyo
+https://www.youtube.com/watch?v=jEEJNz0RK4Q
+
+
+Residual
+
+
+SSE
+
+
+Time Series
+Arima Modeling
+
+
+Autocorrelations
+––––––––––––––––––––––––––––––
+Autocorrelations are statistical measure that indicate how a time series is related to itself over time.
+
+
+Partial Autocorrelations
+––––––––––––––––––––––––––––––
+
+
+
+White noise
+––––––––––––––––––––––––––––––
+Error term
+
+
+
+Autoregressive Integrated Moving Average
+
+
+Stationary 
+
+That do not change over time
+
+Durbin Watson Test
+
+0-4
+
+
+Autocorrelation, also known as serial correlation
+
+https://www.youtube.com/watch?v=sNM0hLxzgfY
+
+Some other topics I mentioned were the Breusch-pagan and Durbin-Watson test.
+https://www.youtube.com/watch?v=hqDfyndtp8U
+
+
+
+What Is Heteroskedasticity?
+In statistics, heteroskedasticity (or heteroscedasticity) happens when the standard deviations of a predicted variable, monitored over different values of an independent variable or as related to prior time periods, are non-constant. W
+
+
+
+66.00	140
+72.00	145
+73.50	160
+73.00	190
+
+
+Cross-section data is collected in a single time period and is characterized by individual units - people, companies, countries, etc. Some examples include: Student grades at the end of the current semester; 
+
+
+Cross sectional data | Definition & Examples | Time Series Data
+Say, suppose you want to measure current blood pressure levels in a population
+
+
+
+
+An estimator of a given parameter is said to be unbiased if its expected value is equal to the true value of the parameter. In other words, an estimator is unbiased if it produces parameter estimates that are on average correct.
+
+
+
+Correlation is the extent to which two variables are related to each other. Typically, people who use this correlation want to know if one or both variables are dependent on or independent of one another. A dependent variable changes whenever the other variable changes, whereas an independent variable doesn't.
+
+Okay, I'll share the R code later. My advice is to start with basic R tasks first to get comfortable before exploring further.
+
+
+
+During my past two sessions, I dedicated time to lesson preparation, ensuring students received the anticipated assistance. Students arrive with specific, concise topics, expecting to cover them within a one-hour lesson. To effectively teach a particular subject, I tailor my preparations to meet their expectations. Despite investing significant effort, I haven't earned any compensation, as students avail themselves of the first hour at no cost. I believe there ought to be a system in place where teachers are remunerated when students achieve their goals during lessons.

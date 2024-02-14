@@ -1,0 +1,9 @@
+I am using the same regression as Bouman & Jacobsen (2002). Studying the Halloween effect. If the α 1  coefficient is positive and statistically significant the effect exists. The regression's task is to compare the mean returns in the summer (May-October) and winter (November-April)
+
+
+=MONTH(A2:A289)
+=COUNTIF(D$3:D$289, F3)
+=AVERAGEIF(F2, F289, G2, D2, D289)
+
+
+Due to personal circumstances, I would like to take todays lesson at tomorrow at the same time. Apologies for any inconvenience.

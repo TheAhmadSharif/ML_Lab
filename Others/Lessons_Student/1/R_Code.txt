@@ -1,0 +1,22 @@
+
+Certainly! To test for the Halloween effect using regression as Bouman & Jacobsen did, we'll use the provided data in the data.csv file. Here's an example R code that performs this analysis:
+
+R
+Copy code
+# Load necessary libraries
+library(dplyr)
+library(lmtest)
+library(lubridate)
+
+data <- read.csv("data.csv")
+
+data$Date <- as.Date(data$Date, format = "%m/%d/%Y")
+
+data$Month <- month(data$Date)
+data$Season <- ifelse(data$Month %in% c(11, 12, 1, 2, 3, 4), "Winter", "Summer")
+
+data$Winter <- ifelse(data$Season == "Winter", 1, 0)
+
+model <- lm(Compounded.return ~ Winter, data = data)
+
+coeftest(model)[2,]

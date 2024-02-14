@@ -1,0 +1,16 @@
+We consider events,
+
+A = Sunny
+B = Rain
+
+P(A) = Probability of sunny = 0.3
+P(B) = Probability of rain = 0.4 = Prior Probability
+
+P(B|A) = Probability of rain occurring given that mornings are sunny 
+∴ P(B|A) = 0.45 = Likelihood probability.
+
+P(A|B) = Probability of sunny given that its rain
+∴ P(A|B) = Posterior probability = ? 
+
+P(A|B) = (0.45 x 0.3 ) / 0.4
+P(A|B) = 0.34

@@ -1,0 +1,81 @@
+data.csv
+––––––––––––––––––––––
+
+Date,Closing.price,,CompoundedReturn,St_Dummy
+12/30/2022,31604.54,,-0.0235153831883623,1
+11/30/2022,32356.54,,0.0628332010297626,1
+10/31/2022,30386.03,,0.0468295572663054,0
+9/30/2022,28995.87,,-0.0694551982704775,0
+8/31/2022,31081.37,,-0.0272690104294713,0
+7/29/2022,31940.59,,0.0718975826389664,0
+6/30/2022,29724.75,,-0.0767143027084509,0
+5/31/2022,32094.81,,-0.00077677091469631,0
+4/29/2022,32119.75,,-0.00070336951116558,1
+3/31/2022,32142.35,,0.0210568314799064,1
+2/28/2022,31472.61,,-0.0823264083885021,1
+1/31/2022,34173.28,,-0.0511172056486728,1
+12/30/2021,35965.54,,0.0475640195571231,1
+11/30/2021,34294.92,,-0.0241231277180405,1
+10/29/2021,35132.28,,0.0186611669694126,0
+9/30/2021,34482.75,,-0.0546940202106777,0
+8/31/2021,36421.28,,0.00973497446373062,0
+7/30/2021,36068.44,,0.0513915918854739,0
+
+
+
+Hints: 
+–––––––––––––––––––
+y = b0 + b1x1 + e
+
+y = CompoundedReturn 
+b1 = Intercept
+b1 = Coefficient estimate
+e = Error term
+
+St_Dummy = The dummy variables will test whether the average mean of the winter period is significant. If the mean of the winter period is significant then it indicates that the winter period has significantly higher return than the summer period and thus the Halloween
+effect exists.
+
+
+The dummy variable x1 takes the value of 1 during November to April and value 0 during
+May-October.
+
+The dummy variable x1
+takes the value of 1 during November to April and value 0 during
+May-October. The regression measures whether the returns during the period November to
+April are different from the period May-October. Without the dummy variable the equation is
+a random walk model
+
+
+
+Due to the structure of the dummy variable the regression becomes a simple mean test, which
+tests whether the mean return for November to April is higher than the mean return for the
+period April to October. If the mean is higher for November to April this is indicated by the
+coefficient estimate for the dummy variable being positive and significant.
+
+
+
+The p-value for the intercept thus test whether intercept is significantly different from zero;
+
+H0 : mu = 0
+H1: mu not equal to zero
+
+Instructions
+–––––––––––––––––––
+Studying the Halloween effect. If the α 1  coefficient is positive and statistically significant the effect exists. The regression's task is to compare the mean returns in the summer (May-October) and winter (November-April)
+
+1. Share code in R
+
+
+
+
+Give me few examples of logarithmic return to understand this concept
+
+Why St_Dummy dependent variable as it has binary value. Please enlighten me
+
+
+
+data$Log_Return <- log(data$Closing.price) - lag(log(data$Closing.price))
+data$Log_Return <- diff(log(data$Closing.price))
+
+
+Does both calculate same

@@ -1,0 +1,82 @@
+Gradient descen
+Boostrap aggregating
+
+Unsupervised Learning
+––––––––––––––––––––––––––––
+Association and Clustering
+Dimensionality Reduction
+
+Customer segmentation
+
+
+Apriori
+
+
+
+Supervised Machine Learning
+––––––––––––––––––––––––––––
+
+
+
+
+Train and Split
+––––––––––––––––––––––––––––
+https://www.youtube.com/watch?v=NQifPki6tGE
+
+
+Classification Vs Regression
+
+https://www.youtube.com/watch?v=lTWB3qqA2mE
+
+
+
+
+Gradient Descent
+–––––––––––
+Minimize the loss
+Loss function
+
+
+Actual/Predicted value
+
+Gradient Descent is an optimization algorithm for finding a local minimum of a differentiable function.
+
+Momentum Gradient Descent
+–––––––––––
+
+
+
+
+Support Vector Machine
+––––––––––––––––––––––
+Convex Optimization Problem
+
+Pros: Easy to understand and implemtn
+
+Kernel Trick
+
+
+Link
+––––––––––––––––––––––
+https://shiny.rit.albany.edu/stat/corrsim/
+
+
+https://news.lunartech.ai/fundamentals-of-statistics-for-data-scientists-and-data-analysts-69d93a05aae7
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+- Random variables
+- Probability distribution functions (PDFs)
+- Mean, Variance, Standard Deviation
+- Covariance and Correlation 
+- Bayes Theorem
+- Linear Regression and Ordinary Least Squares (OLS)
+- Gauss-Markov Theorem
+- Parameter properties (Bias, Consistency, Efficiency)
+- Confidence intervals
+- Hypothesis testing
+- Statistical significance 
+- Type I & Type II Errors
+- Statistical tests (Student's t-test, F-test)
+- p-value and its limitations
+- Inferential Statistics 
+- Central Limit Theorem & Law of Large Numbers
+- Dimensionality reduction techniques (PCA, FA)

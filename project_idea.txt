@@ -1,0 +1,14 @@
+ Sentiment Analysis for Text: Create a sentiment analysis model to determine whether a given text is positive, negative, or neutral.
+
+
+ Road Accident Vs Location Vs Day/Night Vs Vehicle Type Vs Speed
+
+
+Language Detection
+Gender Detection
+House Price Prediction
+Energy Consumtion
+Urine Test
+
+
+https://pxdata.stat.fi/PxWeb/pxweb/en/StatFin/StatFin__ton/statfin_ton_pxt_12sc.px/table/tableViewLayout1/
