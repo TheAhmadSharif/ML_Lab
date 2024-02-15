@@ -1,0 +1,32 @@
+————————————————————————————————————————————————
+
+
+Arrays
+Linear Algebra
+Random Number Generation
+Broadcasting
+
+
+
+
+List is mutable
+
+List vs Numpy
+
+List: Different data type
+Array: Similar Data Type
+
+
+Array Vs List
+
+
+Array takes less memory
+Fast
+
+https://www.youtube.com/watch?v=rNMFtbWmbhE&list
+
+
+
+
+An array consumes less memory than a list
+A list can store different data types

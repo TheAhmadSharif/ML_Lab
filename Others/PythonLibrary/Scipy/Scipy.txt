@@ -1,0 +1,19 @@
+SciPy stands for Scientific Python.
+————————————————————————————————————————————————
+
+https://www.w3schools.com/python/scipy/scipy_intro.php
+SciPy has optimized and added functions that are frequently used in NumPy and Data Science.
+
+
+https://www.javatpoint.com/scipy-sub-packages
+
+Scipy
+clustering
+classification
+regression
+model selection
+dimensionality reduction
+
+
+K Means is Exploratory data analysis. 
+Exploratory data analysis is the visual way to analyze the data. 

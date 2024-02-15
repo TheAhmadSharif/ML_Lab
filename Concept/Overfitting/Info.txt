@@ -1,0 +1,5 @@
+https://www.youtube.com/watch?v=Anq4PgdASsc
+
+Green is overfitting
+
+Overfitting: Model is too accurate, when the model is not generalized well enough. For model overfit, it is difficult to predict new data.
