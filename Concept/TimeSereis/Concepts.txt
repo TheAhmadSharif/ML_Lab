@@ -1,0 +1,22 @@
+https://towardsdatascience.com/time-series-from-scratch-autocorrelation-and-partial-autocorrelation-explained-1dd641e3076f
+
+
+https://www.quora.com/What-is-the-difference-among-auto-correlation-partial-auto-correlation-and-inverse-auto-correlation-while-modelling-an-ARIMA-series/answer/Aslam-Bhai-79s
+
+1. Autocorrelation
+2. Partial Autocorrelation
+
+
+Partial Autocorrelation: 
+–––––––––––––––––––––––––––––––
+Partial autocorrelation — Theory and implementation
+This one is a bit tougher to understand. It does the same as regular autocorrelation — shows the correlation of a sequence with itself lagged by some number of time units. But there’s a twist. Only the direct effect is shown, and all intermediary effects are removed.
+
+For example, you want to know the direct relationship between the number of passengers today and 12 months ago. You don’t care about anything in between.
+
+The number of passengers 12 months affects the number of passengers 11 months ago — and the whole chain repeats until the most recent period. These indirect effects are neglected in partial autocorrelation calculations.
+
+You should also make the time series stationary before calculations.
+
+
+
