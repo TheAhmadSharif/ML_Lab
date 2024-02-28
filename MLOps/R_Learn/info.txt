@@ -4,3 +4,16 @@ https://www.guru99.com/r-tutorial.html
 R shortcut
 ————————————————————————————————————————
 Duplicate Line > Alt + Shift + Arrow
+
+
+
+2. Analysis of d :
+(a) Display the autocorrelation function of (Yt ) and ∇k Yt , k = 1, 2 where ∇Yt = Yt − Yt−1 .
+Interpret the results:
+(1) What do you observe?
+(2) Using this informal graphical procedure, is there some evidence that the series (Yt ) might
+be non-stationary? Explain carefully.
+(b) To provide more evidence, implement a unit root test, the so-called Augmented DickeyFuller
+test (ADF), to assess whether there exists a root on the unit circle in the autoregressive lag
+polynomial of an AR(p) specification.
+(c) Which order do you suggest for d?
