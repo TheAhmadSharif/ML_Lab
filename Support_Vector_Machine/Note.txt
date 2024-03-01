@@ -1,0 +1,54 @@
+Support vector machine is a supervised machine learning algorithm.
+
+
+It is used to find
+1. Classification
+2. Regression
+
+
+
+The maximum margin linear classifier is the linear classifier. This is the simplest kind of SVM. 
+
+1. In which aspects SVM is different than other classification
+2. What is the advanatges when Marginal difference max, if not 3. What would possible problems we enocounters
+4. How SVM works?
+
+Kernel
+–––––––––––––––––––––––––
+https://www.youtube.com/watch?v=Q7vT0--5VII
+
+Pros
+––––––––––––––––
+It is good when there is Higher Diemensional (More attributes)
+
+
+Cons
+––––––––––––––––
+When dataset is too large
+
+
+Use cases
+––––––––––––––––
+Face Detection
+Text and Hypertext categorization
+Gene Expression Data Classification
+
+
+Resources
+––––––––––––––––
+https://www.youtube.com/watch?v=25aG1CyAHCw
+https://www.youtube.com/watch?v=Q_A6Is-DY50
+
+
+
+Dataset
+––––––––––––––––
+https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset
+
+
+
+Kernals trick
+––––––––––––––––
+https://www.youtube.com/watch?v=Js2oAqEN_h0
+
+Kersns are set of functions used to transform data from lower dimension to higher dimention and to manipulate data using dot product at higher dimentions.
