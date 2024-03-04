@@ -1,0 +1,31 @@
+# Date: 04 March 2024
+from IPython.core.interactiveshell import InteractiveShell
+InteractiveShell.ast_node_interactivity = "all"
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+from sklearn import linear_model
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+data_set= pd.read_csv('../datasets/user-data.csv', sep=",")  
+data_set
+
+test = data_set.iloc[:, [0, 1]].values # 0 Means first column user_id
+x = data_set.iloc[:, [2,3]].values # Select Column, Age, and Estimated Salary 
+y = data_set["purchased"] #  data_set.iloc[:, 4].values
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+from sklearn.model_selection import train_test_split  
+x_train, x_test, y_train, y_test= train_test_split(x, y, test_size= 0.25, random_state=0) 
+
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+from sklearn.preprocessing import StandardScaler    
+st_x= StandardScaler()    
+x_train= st_x.fit_transform(x_train)    
+x_test= st_x.transform(x_test)  

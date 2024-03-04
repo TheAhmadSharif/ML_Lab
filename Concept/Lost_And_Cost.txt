@@ -1,0 +1,5 @@
+https://www.youtube.com/watch?v=O2Mv-yuxTOI&list=PLKdU0fuY4OFfWY36nDJDlI26jXwInSm8f&index=13
+
+
+Lost = | Actual - Predicted |
+Cost = Sum of Lost

@@ -1,0 +1,7 @@
+https://www.youtube.com/watch?v=UCOm-LFKX9E
+
+
+Assumptions for Logistic Regression:
+–––––––––––––––––––––––––––––––––––––––
+The dependent variable must be categorical in nature.
+The independent variable should not have multi-collinearity.
