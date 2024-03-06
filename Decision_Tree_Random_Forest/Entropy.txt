@@ -1,0 +1,20 @@
+Entropy is a measure of disorder or impurity in a node
+
+
+We calculate gain and choose that node as root which gain is higher.
+
+
+Entropy (s) = Sum of - PiLog2Pi 
+
+Gain (S, A) = Entropy (s)
+
+
+Gini Index
+–––––––––––––––––––––––––––––––––––––––
+Gini Index or Gini impurity measures the degree or probability of a particular variable being wrongly classified when it is randomly chosen.
+
+
+Gini Index Vs Entropy
+–––––––––––––––––––––––––––––––––––––––
+Entropy and Gini criterion measure similar performance metrics. Calculating Gini Impurity is much faster as it is less expensive to compute, whereas Entropy does log calculation and is a more expensive computation. However, the results obtained from Entropy are slightly better.
+

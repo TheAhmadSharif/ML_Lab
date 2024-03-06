@@ -1,0 +1,95 @@
+05 March 2024
+––––––––––––––––––––––––
+
+
+Types of Measurement
+
+Nominal
+–––––––––
+
+Nominal that has onle label. No Rank or order.
+
+Gender
+––––––––
+Male
+Female
+
+
+Blood Group
+––––––––
+AB+
+A
+B
+
+
+College Major
+––––––––
+Mathematics
+Statistics
+Biology
+Botany
+
+
+Dichotomous variable
+
+ডাই ক টো মাস ,  Only two option Yes or no.
+
+––––––––––––––––––––––––
+Ordinal
+––––––––––––––––––––––––
+socio economic status (“low income”,”middle income”,”high income”), 
+education level (“high school”,”BS”,”MS”,”PhD”), 
+income level (“less than 50K”, “50K-100K”, “over 100K”), 
+satisfaction rating (“extremely dislike”, “dislike”, “neutral”, “like”, “extremely like”).
+
+Result
+––––––––
+Excellent
+Good
+Average
+Poor
+Fail
+
+
+Income Level
+––––––––––––
+Low
+Medium
+High
+
+––––––––––––––––––––––––
+Interval Scale
+––––––––––––––––––––––––
+An interval scale is one where there is order and the difference between two values is meaningful.
+
+but there is no true zero point. 
+
+An interval scale is a type of measurement scale that not only classifies and orders the data but also specifies the exact differences between the values. 
+
+0°C represents a specific point (the freezing point of water).
+The difference between 10°C and 20°C is the same as the difference between 20°C and 30°C (both are 10°C).
+
+
+
+Certainly! Here are five more examples of data measured on an interval scale:
+
+1. **Fahrenheit Temperature:**
+   Similar to Celsius, the Fahrenheit temperature scale is another example of an interval scale. The intervals between degrees are consistent, but zero does not indicate the absence of temperature; it's an arbitrary point.
+
+2. **IQ Scores:**
+   Intelligence Quotient (IQ) scores are measured on an interval scale. The difference between an IQ score of 100 and 110 is the same as the difference between 110 and 120, but an IQ of 0 does not imply the absence of intelligence.
+
+3. **SAT Scores:**
+   The scores obtained in the Scholastic Assessment Test (SAT) are on an interval scale. The difference between a score of 1500 and 1600 is the same as the difference between 1600 and 1700, but a score of 0 does not mean a complete lack of knowledge or ability.
+
+
+
+––––––––––––––––––––––––
+Ratio Scale
+––––––––––––––––––––––––
+
+A ratio scale is a type of measurement scale that possesses all the characteristics of an interval scale but also has a true zero point, meaning a value of zero indicates the absence of the measured quantity
+
+
+
+For interval scale and ratio scale variables, a mean and standard deviation (and some other) as well as mode and median can be computed. Now actual differences between values can be computed as distances. Thus, several different distance measures (to be presented later) can be applied that are not possible to use for nominal or categorical values.
