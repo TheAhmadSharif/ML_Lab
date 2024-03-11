@@ -1,0 +1,50 @@
+https://www.guru99.com/r-tutorial.html
+
+————————————————————————————————————————
+R shortcut
+————————————————————————————————————————
+Duplicate Line > Alt + Shift + Arrow
+
+
+
+2. Analysis of d :
+(a) Display the autocorrelation function of (Yt ) and ∇k Yt , k = 1, 2 where ∇Yt = Yt − Yt−1 .
+Interpret the results:
+(1) What do you observe?
+(2) Using this informal graphical procedure, is there some evidence that the series (Yt ) might
+be non-stationary? Explain carefully.
+(b) To provide more evidence, implement a unit root test, the so-called Augmented DickeyFuller
+test (ADF), to assess whether there exists a root on the unit circle in the autoregressive lag
+polynomial of an AR(p) specification.
+(c) Which order do you suggest for d?
+
+
+
+10 March 2024
+————————————————————————————————————————
+data<-read.table("tetrahymena.txt", sep="\t", dec=".", header=TRUE)
+
+attach(data)
+
+
+head(x,n=number)
+
+Comment Line
+———————————————
+Ctrl + Shift + C
+
+
+Duplicate Line
+———————————————
+Ctrl + Shift + D
+
+
+
+Coplot
+———————————————
+When examining the relationship between two numeric variables, it is often useful to be able to determine whether a third variable is obscuring or changing any relationship.
+
+
+https://intro2r.com/simple-base-r-plots.html
+
+coplot(flowers ~ weight|leafarea, data = flowers)
