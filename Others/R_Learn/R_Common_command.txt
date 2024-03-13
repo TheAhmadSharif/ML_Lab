@@ -48,3 +48,24 @@ When examining the relationship between two numeric variables, it is often usefu
 https://intro2r.com/simple-base-r-plots.html
 
 coplot(flowers ~ weight|leafarea, data = flowers)
+
+
+
+setwd("/home/ahmad/Desktop/2023_2024/Time_Series/Project")
+##########################################
+packages <- c("ggplot2", "dplyr", "Hmisc", "lme4", "arm", "lattice", "lavaan")
+install.packages(setdiff(packages, rownames(installed.packages())), repos="http://cran.us.r-project.org", dependencies = TRUE)  
+
+
+requiredPackages = c('plyr','ggplot2','ggtern')
+for(p in requiredPackages){
+  if(!require(p,character.only = TRUE)) install.packages(p)
+  library(p,character.only = TRUE)
+}
+
+# install.packages("forecast", repos="http://cran.us.r-project.org", dependencies = TRUE)
+# install.packages("fpp", repos="http://cran.us.r-project.org", dependencies = TRUE)
+# install.packages("tseries", repos="http://cran.us.r-project.org", dependencies = TRUE)
+library(fpp)
+library(forecast)
+library(tseries)

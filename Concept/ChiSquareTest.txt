@@ -1,0 +1,33 @@
+https://www.youtube.com/shorts/jtfWvyZkRjU
+https://www.youtube.com/shorts/fUG-KvCzFWU
+
+
+It is used to determine whether there is a relationship between two categorical variables.
+
+
+Relationship between Gender and Higher Education.
+
+https://online.stat.psu.edu/statprogram/book/export/html/531
+
+
+        High School	 Bachelors	Masters	 Ph.d.	Total
+Female	 60	           54	       46	     41	    201
+Male	   40	           44	       53	     57	    194
+Total	  100	           98	       99	     98	    395
+
+
+Categorical Variable
+––––––––––––––––––––––––––––––
+Also called qualitative variable. Categorical variables can be either nominal or ordinal.
+
+Gender
+–––––––––––
+Male
+Female
+
+
+Eye Color
+–––––––––––
+Black
+Green
+Brown

@@ -20,6 +20,30 @@ plot(1:10, type="l", col="blue")
 
 plot(1:10, type="l")
 
+#########################
+
+
+plot(1:10,1:10, col="blue")
+plot(1:10,1:10, type="l",main="Straight line")
+
+
+x <- rnorm(100)
+hist(x, probability=T, main="Histogram of 100 random normal data points") 
+ndens <- density(x, width=0.9)   
+ndens <- density(x, width=0.9)   
+lines(ndens) 
+par( pty="s")          # set all plots drawn to be square 
+par( cex=.8)    
+par(mfrow=c(2,3)) 
+par(mfrow=c(1,1)) 
+par(mfcol=c(3,2)) 
+set.seed(123)    
+par(mfrow=c(1,2))
+X<- matrix( rnorm(200*3), ncol=3) 
+hist( X[,1]) 
+boxplot( X[,1],X[,2], X[,3])   
+title(main="boxplot function", sub="sub title")
+
 x <- c(5,7,8,7,2,2,9,4,11,12,9,6)
 y <- c(99,86,87,88,111,103,87,94,78,77,85,86)
 plot(x, y, type="l", col="blue")

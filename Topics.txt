@@ -1,5 +1,9 @@
-Gradient descen
-Boostrap aggregating
+How to Identify the Distribution of Your Data
+
+
+
+Gradient descent
+Bootstrap aggregating
 
 Unsupervised Learning
 ––––––––––––––––––––––––––––
@@ -66,17 +70,17 @@ https://news.lunartech.ai/fundamentals-of-statistics-for-data-scientists-and-dat
 - Random variables
 - Probability distribution functions (PDFs)
 - Mean, Variance, Standard Deviation
-- Covariance and Correlation 
+- Covariance and Correlation
 - Bayes Theorem
 - Linear Regression and Ordinary Least Squares (OLS)
 - Gauss-Markov Theorem
 - Parameter properties (Bias, Consistency, Efficiency)
 - Confidence intervals
 - Hypothesis testing
-- Statistical significance 
+- Statistical significance
 - Type I & Type II Errors
 - Statistical tests (Student's t-test, F-test)
 - p-value and its limitations
-- Inferential Statistics 
+- Inferential Statistics
 - Central Limit Theorem & Law of Large Numbers
 - Dimensionality reduction techniques (PCA, FA)

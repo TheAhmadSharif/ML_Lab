@@ -1,0 +1,8 @@
+Probability that user watches video until the end.
+
+It is a continuous uni-variate distribution.
+Probability of an event is not known
+
+
+
+https://www.youtube.com/watch?v=aVCImOiJklM&t=147s

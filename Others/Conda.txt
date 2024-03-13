@@ -1,0 +1,1 @@
+activating a conda environment is not much more than applying settings to your shell to use a specific python interpreter (and the modules and libs associated to that interpreter)

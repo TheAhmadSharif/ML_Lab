@@ -1,0 +1,8 @@
+All outcomes are equally likely.
+
+
+
+There are two types of uniform distributions: discrete and continuous. The possible results of rolling a die provide an example of a discrete uniform distribution: it is possible to roll a 1, 2, 3, 4, 5, or 6, but it is not possible to roll a 2.3, 4.7, or 5.5. Therefore, the roll of a die generates a discrete distribution with p = 1/6 for each outcome. There are only 6 possible values to return and nothing in between.
+
+
+A discrete uniform distribution could be something like {0, 1, 2}. That is, it can contain more than two discrete outcomes, while a Bernoulli is always {0, 1}. 

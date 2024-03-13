@@ -1,0 +1,40 @@
+29 January 2023
+
+Null Hypothesis. Everything is equal
+https://www.youtube.com/watch?v=3viE4s-Xm7U
+
+Fertilizer A  Fertilizer B
+
+
+p value is between 0 to 1.
+
+p = 0.1 
+10 out of 100, null hypothesis is true
+
+
+p = 0.3 
+30 out of 100, null hypothesis is true
+
+
+T test comapres two means
+
+p = 0.03
+
+3 out of 100 hypothesis is true.
+
+
+
+Level of significance can be value between 0 and 1.
+
+
+The p-value tells us how likely it is to get a result like this if the null
+hypothesis is true.
+
+
+httr::GET('https://jsonplaceholder.typicode.com/posts')
+
+req <- request("https://jsonplaceholder.typicode.com/posts")
+
+resp <- req_perform("https://jsonplaceholder.typicode.com/posts")
+
+r <- GET("https://jsonplaceholder.typicode.com/posts")
