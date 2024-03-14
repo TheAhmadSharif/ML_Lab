@@ -3,6 +3,12 @@ https://www.guru99.com/r-tutorial.html
 ————————————————————————————————————————
 R shortcut
 ————————————————————————————————————————
+
+help("install")
+
+packages <- c("ggplot2", "dplyr", "Hmisc", "lme4", "arm", "lattice", "lavaan")
+install.packages(setdiff(packages, rownames(installed.packages())), repos="http://cran.us.r-project.org", dependencies = TRUE)
+
 Duplicate Line > Alt + Shift + Arrow
 
 
@@ -54,7 +60,7 @@ coplot(flowers ~ weight|leafarea, data = flowers)
 setwd("/home/ahmad/Desktop/2023_2024/Time_Series/Project")
 ##########################################
 packages <- c("ggplot2", "dplyr", "Hmisc", "lme4", "arm", "lattice", "lavaan")
-install.packages(setdiff(packages, rownames(installed.packages())), repos="http://cran.us.r-project.org", dependencies = TRUE)  
+install.packages(setdiff(packages, rownames(installed.packages())), repos="http://cran.us.r-project.org", dependencies = TRUE)
 
 
 requiredPackages = c('plyr','ggplot2','ggtern')

@@ -1,4 +1,8 @@
 # This is a comment
+setwd("/home/ahmad/Desktop/2023_2024/2024/StatisticalModeling/Datasets")
+
+packages <- c("ggplot2", "dplyr", "Hmisc", "lme4", "arm", "lattice", "lavaan")
+install.packages(setdiff(packages, rownames(installed.packages())), repos="http://cran.us.r-project.org", dependencies = TRUE)
 
 # No R for multiline comments
 plot(1:10)
