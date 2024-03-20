@@ -1,0 +1,1 @@
+ Imagine you're counting the number of attempts until a specific event happens, like how many times you'll have to toss a coin before you get heads. If the event has a fixed probability of occurring each time, and you're interested in the count of failures before a certain number of successes, the Negative Binomial distribution is your go-to model.

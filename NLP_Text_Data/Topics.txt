@@ -1,0 +1,12 @@
+1. Extract Data From Website
+2. Tokenization
+3. Corpus
+4. Ngrams
+
+
+
+
+Problem Case:
+––––––––––––––––––––––
+Analyze discussion
+Identify Most talked issues

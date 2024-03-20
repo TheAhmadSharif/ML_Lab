@@ -1,0 +1,25 @@
+20 March 2024
+––––––––––––––
+
+Tokenization, in the realm of Natural Language Processing (NLP) and machine learning, refers to the process of converting a sequence of text into smaller parts, known as tokens. These tokens can be as small as characters or as long as words.
+
+
+Lemmatization can be defined as converting words to their base forms. After the conversion, the different “versions” of a word such as cat, cats, cat’s or cats’ would all be simply cat.
+
+
+Corpus:
+–––––––––––––––––––––
+Collection of Text Documents
+
+A corpus can be defined as a collection of text documents. It can be thought as just a bunch of text files in a directory, often alongside many other directories of text files.
+
+
+
+
+
+Corpus > Documents > Paragraph > Sentences > Tokens
+–––––––––––––––––––––
+
+
+A dataset contain news is a corpus.
+Tweets containing Twitter data is a corpus
