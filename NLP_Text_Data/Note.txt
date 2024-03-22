@@ -15,7 +15,7 @@ A corpus can be defined as a collection of text documents. It can be thought as 
 
 
 
-
+Steming is easier than Lemmatization
 
 Corpus > Documents > Paragraph > Sentences > Tokens
 –––––––––––––––––––––
@@ -23,3 +23,28 @@ Corpus > Documents > Paragraph > Sentences > Tokens
 
 A dataset contain news is a corpus.
 Tweets containing Twitter data is a corpus
+
+
+
+WordNet
+–––––––––––––––––––––
+WordNet® is a large lexical database of English. Nouns, verbs, adjectives and adverbs are grouped into sets of cognitive synonyms (synsets), each expressing a distinct concept.
+
+
+tokenize Vs  word_tokenize
+
+
+
+Tagging
+–––––––––––––––––––––
+Part-of-Speech (POS) tagging is a natural language processing technique that involves assigning specific grammatical categories or labels (such as nouns, verbs, adjectives, adverbs, pronouns, etc.) to individual words within a sentence.
+
+
+21 March 2024
+
+Zips Law
+–––––––––––––––––––––
+https://www.youtube.com/watch?v=4dofBw9r0P4
+https://www.youtube.com/watch?v=jRa3okU4X1o
+https://www.youtube.com/watch?v=fCn8zs912OE ***
+Word Frequency proportion 1/word rank

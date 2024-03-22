@@ -2,6 +2,7 @@
 2. Tokenization
 3. Corpus
 4. Ngrams
+5. Sentiment Analysis
 
 
 
@@ -10,3 +11,11 @@ Problem Case:
 ––––––––––––––––––––––
 Analyze discussion
 Identify Most talked issues
+
+Next Word Prediction
+
+Resources
+––––––––––––––––––––––
+
+
+https://github.com/shivamms/books/tree/master
