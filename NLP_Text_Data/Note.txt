@@ -48,3 +48,14 @@ https://www.youtube.com/watch?v=4dofBw9r0P4
 https://www.youtube.com/watch?v=jRa3okU4X1o
 https://www.youtube.com/watch?v=fCn8zs912OE ***
 Word Frequency proportion 1/word rank
+
+
+
+Lecture 04 29 March 2024
+–––––––––––––––––––––––––
+TF-IDF
+
+Mixture of K Gaussians
+Document Clustering
+
+Expectation maximization Algorithm

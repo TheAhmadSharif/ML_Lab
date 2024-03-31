@@ -1,0 +1,3 @@
+https://github.com/PacktPublishing/Hands-On-Data-Science-and-Python-Machine-Learning
+
+https://github.com/PacktPublishing/Matplotlib-3.0-Cookbook/tree/master
