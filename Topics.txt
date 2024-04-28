@@ -1,7 +1,15 @@
+–––––––––––– weka ––––––––––––
+
+https://waikato.github.io/weka-wiki/downloading_weka/#linux
+
+./weka.sh
+
+https://prdownloads.sourceforge.net/weka/weka-3-8-6.zip
+––––––––––––––––––––––––––––
 How to Identify the Distribution of Your Data
 
 
-
+––––––––––––––––––––––––––––
 Gradient descent
 Bootstrap aggregating
 

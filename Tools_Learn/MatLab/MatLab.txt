@@ -1,0 +1,101 @@
+–––––––––– 24 April 2024 ––––––––––
+It only assign values in workplace
+x = 2;
+
+x = 2
+It assign also print
+
+–––––––––– Keyboard Shortcut ––––––––––
+
+Ctrl + y = Paste
+
+–––––––––– Commands ––––––––––
+1. save
+   save('FileName')
+It saves in current folder
+
+2. clear
+   clear variable_name // It removes only particular variable.
+   It remove all variable from workplace
+
+3. load
+   load('FileName')
+It loads the last saved files with variables.
+
+
+4. diary 'name_of_the_diary'
+   diary off
+
+   It saves the commands with response until it offs.
+
+
+–––––––––– Matrix ––––––––––
+
+https://www.youtube.com/watch?v=JRWu2JCwQyc&list
+A = [4 6 8 12 -2 0] % Comma or space can be used.
+A(1) % 4 MatLab matrix are 1 index based.
+
+Semicolon denote column
+
+A[1:2] % 4 6
+1:4:12 % 1 5 9
+5:-1:2 % 5 4 3 2
+
+
+size(A)
+
+A = rand(2,3)
+
+diag(A)
+sum(diag(A))
+
+Linspace
+
+linspace(1, 20, 10)
+––––––––––––––––––––––––––––
+––––––––––––––––––––––––––––
+
+x = [0:0.1:10];
+plot(x, sin(x))
+
+
+x = [2, 4, 6]
+Y
+x = [0:0.1:10];
+plot(x, sin(x))
+–––––––––– Plot ––––––––––
+https://www.youtube.com/watch?v=z2c_8qxThW8
+
+
+t = linspace(-pi,2*pi,121);
+x = 1.15*square(2*t);
+
+
+
+
+Tutorial Links
+https://ctms.engin.umich.edu/CTMS/index.php?aux=Basics_Matlab
+
+https://www.youtube.com/watch?v=N9ehUHZbJ9M
+http://cs103.net/video-lectures/
+–––––––––– XDF EEG ––––––––––
+streams = load_xdf('/home/ahmad/Documents/CurrentStudy/sub-P001/ses-S001/eeg/01.xdf')
+
+[streams, fileheader] = load_xdf('/home/ahmad/Documents/CurrentStudy/sub-P001/ses-S001/eeg/01.xdf')
+[streams, fileheader] = load_xdf('/home/ahmad/Documents/CurrentStudy/sub-P001/ses-S001/eeg/03.xdf')
+
+set(gca, 'YLim', [0 0.004])
+mean(ts)
+
+tdif = ts(2:end) - ts(1:end-1)
+mean(tdif)
+
+streams{1, 1}.time_series
+
+x = [2 5 8 2 11 3 6];
+ts_1 = timeseries(x,1:7);
+ts_short = timeseries(ts1,1:7);
+
+
+plot(streams{1, 1}.time_series)
+––––––––––––––––––––––––––––––––––––––––
