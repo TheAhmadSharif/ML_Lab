@@ -1,3 +1,7 @@
+https://www.khanacademy.org/math/ap-statistics/xfb5d8e68:inference-categorical-proportions/idea-significance-tests/v/idea-behind-hypothesis-testing
+
+
+https://www.khanacademy.org/math/statistics-probability/random-variables-stats-library/random-variables-discrete/v/constructing-probability-model-from-observations
 –––––––––––– weka ––––––––––––
 
 https://waikato.github.io/weka-wiki/downloading_weka/#linux

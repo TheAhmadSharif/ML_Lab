@@ -1,3 +1,61 @@
+–––––––––– 30 April 2024 ––––––––––
+some command
+
+Duplicate Line // Ctrl + Shift + C
+Clear Window // clc
+
+clock
+date
+ver
+
+csvwrite('filename.csv', stream)
+
+streams{1, 1}.info
+writematrix(x,'x_tab.txt')
+
+x = streams{1, 1}.info
+ts = streams{1, 1}.time_series
+plot(ts(1,:))
+
+
+
+A  = rand(10,1);
+B = rand(10,1);
+% Create a table with the data and variable names
+T = table(A, B, 'VariableNames', { 'A', 'B'} )
+% Write data to text file
+writetable(T, 'MyFile.txt')
+
+
+writetable(struct2table(x), 'somefile.txt')
+
+json_data = jsonencode(x);
+writematrix(json_data, "dddd.csv");
+
+
+**** Effective ****
+temp_table = struct2table(x);
+writetable(temp_table,'data.csv')
+**** Effective ****
+
+
+x.first_timestamp
+x.last_timestamp
+
+
+x = streams{1, 2}.info;
+first_timestamp = str2num(x.first_timestamp);
+last_timestamp = str2num(x.last_timestamp);
+
+
+ first = datetime(first_timestamp,'ConvertFrom','posixtime', 'Format', 'yyyy-MM-dd HH:mm:ss');
+ last = datetime(last_timestamp,'ConvertFrom','posixtime', 'Format', 'yyyy-MM-dd HH:mm:ss');
+ first
+ last
+
+
+
+Preference > Keyboard > Active Settings > Windows
 –––––––––– 24 April 2024 ––––––––––
 It only assign values in workplace
 x = 2;

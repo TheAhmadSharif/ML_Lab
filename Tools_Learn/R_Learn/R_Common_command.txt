@@ -6,8 +6,12 @@ R shortcut
 
 help("install")
 
-packages <- c("ggplot2", "dplyr", "Hmisc", "lme4", "arm", "lattice", "lavaan")
-install.packages(setdiff(packages, rownames(installed.packages())), repos="http://cran.us.r-project.org", dependencies = TRUE)
+requiredPackages = c('plyr','ggplot2','ggtern')
+for(p in requiredPackages){
+  if(!require(p,character.only = TRUE)) install.packages(p)
+  library(p,character.only = TRUE)
+}
+
 
 Duplicate Line > Alt + Shift + Arrow
 
@@ -63,11 +67,6 @@ packages <- c("ggplot2", "dplyr", "Hmisc", "lme4", "arm", "lattice", "lavaan")
 install.packages(setdiff(packages, rownames(installed.packages())), repos="http://cran.us.r-project.org", dependencies = TRUE)
 
 
-requiredPackages = c('plyr','ggplot2','ggtern')
-for(p in requiredPackages){
-  if(!require(p,character.only = TRUE)) install.packages(p)
-  library(p,character.only = TRUE)
-}
 
 # install.packages("forecast", repos="http://cran.us.r-project.org", dependencies = TRUE)
 # install.packages("fpp", repos="http://cran.us.r-project.org", dependencies = TRUE)
