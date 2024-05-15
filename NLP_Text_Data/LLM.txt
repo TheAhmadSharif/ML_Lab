@@ -1,0 +1,9 @@
+import ntlk.corpus
+sentences = nltk.corpus.brown.sents()
+
+
+SELECT * FROM list_wrecker WHERE towed_date BETWEEN '2024-04-01' AND '2024-04-10' ORDER BY created_at DESC
+SELECT * FROM list_wrecker WHERE towed_date BETWEEN '2024-05-14' AND '2024-05-14' ORDER BY created_at DESC
+
+
+console.log(window.location.href);
