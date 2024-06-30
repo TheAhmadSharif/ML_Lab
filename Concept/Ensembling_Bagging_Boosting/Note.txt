@@ -1,1 +1,13 @@
+https://www.youtube.com/watch?v=HRBMlBiOo7Q
 
+
+Ensemble Learning is basically a learning technique that combines multiple individual model into a single master model and this process is callled Ensembling. 
+
+
+Bagging and Boosting are technique and ways to implement Ensemble Models.
+
+
+Random Forest is a technique for implement Bagging and Boosting.
+
+
+Random Forest Vs AdaBoost
