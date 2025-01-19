@@ -1,0 +1,19 @@
+Dropout is used to avoid over-fitting
+
+
+Randomly kill each neuron in layer of a training set with probability p
+
+
+Image Augmentation: Taking Images in training data set and manipulating them create many version of the same image
+
+
+Image manipulating make our model more robust
+
+
+–––––––– Optimization and Tuning  ––––––––
+
+https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning/
+
+Learn regularization
+Hop field Neural Networks
+Gradient Descent***
