@@ -1,0 +1,57 @@
+–––––––––– 22 January 2025
+
+A random variable is a variable whose value is unknown or a function that assigns values to each of an experiment's outcomes. 
+
+
+A random variable is different from an algebraic variable. The variable in an algebraic equation is an unknown value that can be calculated. The equation 10 + x = 13 shows that we can calculate the specific value for x which is 3. On the other hand, a random variable has a set of values, and any of those values could be the resulting outcome as seen in the example of the dice above.
+
+
+
+––––– Example: 
+Discrete 
+Random variable X : amount of snow in a year
+Random variable X : Drawing a king from deck of 52 cards
+
+
+Continuous
+Random variable X : Kilograms of steel produced in a year.
+Random variable X : Average test scores a class receives
+
+––––––––––––– Types of Random Variables
+A random variable has a probability distribution that represents the likelihood that any of the possible values would occur. Let’s say that the random variable, Z, is the number on the top face of a die when it is rolled once. The possible values for Z will thus be 1, 2, 3, 4, 5, and 6. The probability of each of these values is 1/6 as they are all equally likely to be the value of Z.
+
+
+
+It allows to know the likelihood that a specific value will occur.
+
+
+––––––––– Probability Distribution
+Mathematical function that shows all possible outcomes and their associated probabilities for an experiment.
+
+–––––––– Distribution Types
+1. Discrete 
+2. Continuous
+3. Cumulative 
+4. Joint
+
+
+Cumulative and Joint distribution are special case of discrete and Continuous distribution.
+
+
+–––––––– Probability Mass Function
+Its for discrete
+
+–––––––– Probability Density Function
+Its for Continuous
+
+Uniform
+Exponential
+Gamma
+Pareto
+Standard Normal
+Chi-square
+t (Must be lower case)
+F (Must be Upper case)
+
+
+Cumulative Distribution Function
