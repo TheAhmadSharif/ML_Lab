@@ -1,0 +1,23 @@
+Muse: Relax Vs Game :: Random Cross Validation
+Avg Sensitivity_Game	0.9538 ± 0.0174
+Avg Specificity_Game	0.8838 ± 0.0364
+Avg Accuracy_Game	    0.9398 ± 0.0122
+
+
+––––––––– Shoulder Linkedin Code
+Epoch =  20 
+accuracy: 0.4937
+
+
+
+––––––––– Shoulder My Code
+accuracy:0.7397
+Sensitivity: 0.0000
+Specificity: 0.9643
+
+
+
+–––– Augumented 
+accuracy: 0.7312 
+Sensitivity: 0.3571, 
+Specificity: 0.7966

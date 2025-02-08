@@ -1,0 +1,449 @@
+––––––––––––––––––––––––––––––––––––––––––––––––––
+No 1 
+––––––––––––––––––––––––––––––––––––––––––––––––––
+
+import os
+from sklearn import preprocessing
+import pandas as pd
+import matplotlib.pyplot as plt
+import numpy as np
+import PIL
+import tensorflow as tf
+
+from tensorflow import keras
+from tensorflow.keras import layers
+from tensorflow.keras.models import Sequential
+
+from keras.applications.resnet_v2 import ResNet50V2
+from keras.layers import Dropout, Dense, Input
+from keras.models import Model, load_model
+from sklearn.metrics import classification_report, confusion_matrix
+from pprint import pprint 
+from sklearn.metrics import confusion_matrix, classification_report
+import re
+
+
+dir = 'Classified_Dataset/_Data'
+                                                                  
+                                                                                    
+Relaxation_filepaths = [
+    os.path.join(dir, file_name)
+    for file_name in os.listdir(os.path.join(dir))
+    if 'Relaxation' in file_name
+]                                                                                  
+
+
+Game_filepaths = [
+    os.path.join(dir, file_name)
+    for file_name in os.listdir(os.path.join(dir))
+    if 'Game' in file_name
+] 
+
+
+pprint(Relaxation_filepaths, width=1)
+pprint(Game_filepaths, width=1)
+
+
+
+Relaxation_filepaths_train = Relaxation_filepaths[:int(len(Relaxation_filepaths)*0.8)]
+Relaxation_filepaths_test = Relaxation_filepaths[int(len(Relaxation_filepaths)*0.8):]
+
+
+Game_filepaths_train = Game_filepaths[:int(len(Game_filepaths)*0.8)]
+Game_filepaths_test = Game_filepaths[int(len(Game_filepaths)*0.8):]
+
+
+Train_data_filepaths = Relaxation_filepaths_train + Game_filepaths_train
+Test_data_filepaths = Relaxation_filepaths_test + Game_filepaths_test
+print(len(Train_data_filepaths))
+print(len(Test_data_filepaths))
+
+
+Train_data_label = []
+for filepath in Train_data_filepaths:
+    t = filepath.split('.')[0].rsplit('/')[2]
+    label = t.split('_')[4]
+    Train_data_label.append(label)
+    
+    
+Test_data_label = []
+for filepath in Test_data_filepaths:
+    t = filepath.split('.')[0].rsplit('/')[2]
+    label = t.split('_')[4]
+    Test_data_label.append(label)
+    
+    
+Train_df = pd.DataFrame({'Train_data_filepaths':Train_data_filepaths,'Train_data_label':Train_data_label})
+Test_df = pd.DataFrame({'Test_data_filepaths':Test_data_filepaths,'Test_data_label':Test_data_label})
+
+Train_df
+
+
+
+train_generator = tf.keras.preprocessing.image.ImageDataGenerator(rescale=1./255.).flow_from_dataframe(
+    dataframe=Train_df,
+    x_col='Train_data_filepaths', # Relative file paths
+    y_col='Train_data_label',     # Labels
+    target_size=(10, 91),         # Resize images to 10x91
+    color_mode='grayscale',       # Grayscale images
+    class_mode='categorical',     # Categorical labels
+    batch_size=32,                # Batch size
+    shuffle=True,                 # Shuffle data
+    seed=124                      # Reproducibility
+)
+
+test_generator = tf.keras.preprocessing.image.ImageDataGenerator(rescale = 1./255.).flow_from_dataframe(
+    dataframe=Test_df,
+    x_col='Test_data_filepaths',
+    y_col='Test_data_label',
+    target_size=(10, 91),
+    color_mode='grayscale',
+    class_mode='binary',
+    batch_size=32,
+    shuffle=True,
+    seed=124
+)
+
+
+    plt.figure(figsize=(20, 15))
+images, encoded_labels = next(train_generator)
+labels = np.argmax(encoded_labels, axis=1)
+
+# ✅ Define key_list before using it
+# key_list = {v: k for k, v in train_generator.class_indices.items()}
+key_list = {0: "Relaxation", 1: "Game"}
+
+key_list
+
+
+
+for image_batch, labels_batch in train_generator:
+  print(image_batch.shape)
+  print(labels_batch.shape)
+  break
+
+# ✅ Get the number of classes correctly
+num_classes = len(train_generator.class_indices)  
+
+model = Sequential([
+  layers.Rescaling(1./255, input_shape=(10, 91, 1)),  # ✅ Update for grayscale images
+  layers.Conv2D(16, 3, padding='same', activation='relu'),
+  layers.MaxPooling2D(),
+  layers.Conv2D(32, 3, padding='same', activation='relu'),
+  layers.MaxPooling2D(),
+  layers.Conv2D(64, 3, padding='same', activation='relu'),
+  layers.MaxPooling2D(),
+  layers.Flatten(),
+  layers.Dense(128, activation='relu'),
+  layers.Dense(num_classes)  # ✅ Use corrected num_classes
+])
+
+
+
+
+
+model.compile(optimizer='adam',
+              loss=tf.keras.losses.CategoricalCrossentropy(from_logits=True),
+              metrics=['accuracy'])
+
+model.summary()
+
+
+epochs=120
+history = model.fit(train_generator,epochs=epochs)
+
+––––––––––––––––––––––––––––––––––––––––––––––––––
+No 2 
+––––––––––––––––––––––––––––––––––––––––––––––––––
+
+
+index_value = 0 ########################################################################### Just Change it ####################
+
+epoch_number = 120
+from pprint import pprint 
+
+# Initialize an empty list to hold the configurations
+configurations = []
+
+# Create 12 configurations with size and classification_type conditions based on index
+for i in range(12):
+    # Determine the size and category based on the index
+    if 0 <= i <= 3:
+        size = (10, 91)
+        category = "Muse"
+    elif 4 <= i <= 7:
+        size = (136, 91)
+        category = "Unicorn"
+    elif 8 <= i <= 11:
+        size = (64, 91)
+        category = "Unicorn_Cross_Coherence"
+
+    # Determine classification_type based on the two-gap pattern
+    if i % 4 < 2:  # First two in each set of four indices (0, 1, 4, 5, 8, 9)
+        classification_type = "RG"
+    else:  # Second two in each set of four indices (2, 3, 6, 7, 10, 11)
+        classification_type = "GG"
+    
+    # Get the first character of the category
+    category_initial = category[0]
+
+    # Set loss function and activation name based on classification_type
+    if classification_type == "RG":
+        loss_function_name = 'binary_crossentropy'
+        activation_name = 'sigmoid'
+    else:
+        loss_function_name = 'categorical_crossentropy'
+        activation_name = 'softmax'
+    
+    # Determine the suffix ("Random" or "LOSO") for get_filename based on index
+    if i in {0, 1, 4, 5, 8, 9}:
+        suffix = "Random"
+    else:
+        suffix = "LOSO"
+
+    # Create the configuration dictionary
+    config = {
+        "name": f"{category}_{i + 1:03}",  # Example name format: "Muse_001", "Unicorn_005", etc.
+        "category": category,
+        "classification_type": classification_type,
+        "size": size,
+        "get_filename": f"{i + 1:03}_{category_initial}_{classification_type}_{suffix}_Summary.csv",
+        "folder_name": f"{i + 1:03}_{category_initial}_{classification_type}_{suffix}_EPOCH_{epoch_number}",
+        "test_category": f"{category}::{classification_type}::{suffix}::{epoch_number}",
+        "directory_path": "Classified_Dataset/" if category != "Unicorn_Cross_Coherence" else "Cross_Coherence_Dataset/",
+        "loss_function_name": loss_function_name,
+        "activation_name": activation_name
+    }
+    
+    # Append the configuration to the list
+    configurations.append(config)
+
+pprint(configurations[index_value])
+
+print()
+print()
+print()
+
+
+from sklearn.model_selection import ShuffleSplit
+import numpy as np
+import os, cv2
+import matplotlib.pyplot as plt
+from tensorflow.keras.utils import to_categorical
+from keras.models import Sequential
+from keras.layers import Conv2D, MaxPooling2D, Dropout, Flatten, Dense
+from keras.optimizers import Adam
+from sklearn.metrics import confusion_matrix
+from datetime import datetime
+
+# Start timer
+start_time = datetime.now()
+
+####################  Parameters #########################
+epoch_number = 120
+loop_number = 2   #######################################################################
+n_splits = 10   ###############################################################################
+splitter_test_size = 0.2   
+
+size = configurations[index_value]["size"]
+total_feature_size = size + (1,)
+get_filename = configurations[index_value]["get_filename"]
+folder_name = configurations[index_value]["folder_name"]
+test_category = configurations[index_value]["test_category"]
+directory_path = configurations[index_value]["directory_path"]
+loss_function_name = configurations[index_value]["loss_function_name"]
+activation_name = configurations[index_value]["activation_name"]
+optimizer_name = 'adam'
+
+get_font = 'monospace'
+# Text annotation settings
+x_distance = 0.72
+y_distance = 0.30
+transparency_level = 0.4
+get_font_size = 9
+#################### Hyperparameters ####################
+validation_size = 0.2
+get_dropout_rate = 0.5
+filter_size_1 = 10
+filter_size_2 = 20
+get_batch_size = 200
+model_padding_size = 'same' 
+model_kernel_size = (5,5)
+
+# Create folder to save results
+if not os.path.exists(folder_name):
+    os.makedirs(folder_name)
+
+# Initialize metrics lists
+accuracy_list = []
+sensitivity_list = []
+specificity_list = []
+
+# Function to save performance summary
+def save_performance_summary(epoch_number, sensitivity, specificity, accuracy_score):
+    directory = "Excel_Files"
+    filename = os.path.join(directory, get_filename)
+    if not os.path.exists(directory):
+        os.makedirs(directory)
+    if not os.path.exists(filename):
+        with open(filename, 'w') as file:
+            file.write("Epochs,Sensitivity,Specificity,Accuracy,Date_Time\n")
+    current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    with open(filename, 'a') as file:
+        file.write(f"{epoch_number},{sensitivity:.2f},{specificity:.2f},{accuracy_score:.2f},{current_time}\n")
+
+# Function to create the CNN model
+def create_model():
+    model = Sequential()
+    model.add(Conv2D(filters=filter_size_1, kernel_size=model_kernel_size, padding=model_padding_size, input_shape=total_feature_size, activation='relu'))
+    model.add(MaxPooling2D(pool_size=(2, 2)))
+    model.add(Dropout(get_dropout_rate))
+    model.add(Conv2D(filters=filter_size_2, kernel_size=model_kernel_size, padding=model_padding_size, activation='relu'))
+    model.add(MaxPooling2D(pool_size=(2, 2)))
+    model.add(Dropout(get_dropout_rate))
+    model.add(Flatten())
+    model.add(Dense(512, activation='relu'))
+    model.add(Dense(2, activation=activation_name))
+    return model
+
+# Load images and labels
+images = []
+labels = []
+
+Relaxation_folder = os.path.join(directory_path, 'Relaxation')
+Game_folder = os.path.join(directory_path, 'Game')
+
+# Helper function to load images and assign labels
+def getData(folder, label):
+    file_names = os.listdir(folder)
+    for file_name in file_names:
+        path = os.path.join(folder, file_name)
+        img = cv2.imread(path, cv2.IMREAD_GRAYSCALE)
+        if img is not None:
+            img = cv2.resize(img, dsize=size)
+            images.append(img)
+            labels.append(label)
+
+# Load relaxation and game images
+getData(Relaxation_folder, 0)  # Label 0 for Relaxation
+getData(Game_folder, 1)        # Label 1 for Game
+
+print(f"Loaded {len(images)} images with corresponding labels.")
+
+# ShuffleSplit configuration
+splitter = ShuffleSplit(n_splits = n_splits, test_size=splitter_test_size, random_state=42)
+for x in range(loop_number):
+    for split_num, (train_idx, test_idx) in enumerate(splitter.split(images)):
+        print(f"\nRandom Split {split_num + 1}/{n_splits}: Running model training and evaluation")
+
+        # Prepare training and testing datasets
+        train_feature, test_feature = np.array(images)[train_idx], np.array(images)[test_idx]
+        train_label, test_label = np.array(labels)[train_idx], np.array(labels)[test_idx]
+
+        # Reshape and normalize
+        train_feature_vector = train_feature.reshape(-1, *total_feature_size).astype('float32') / 255
+        test_feature_vector = test_feature.reshape(-1, *total_feature_size).astype('float32') / 255
+        train_label_onehot = to_categorical(train_label, num_classes=2)
+        test_label_onehot = to_categorical(test_label, num_classes=2)
+
+        # Create and compile the model
+        model = create_model()
+        model.compile(loss=loss_function_name, optimizer=optimizer_name, metrics=['accuracy'])
+
+        # Train the model
+        history = model.fit(train_feature_vector, train_label_onehot, 
+                            validation_split=validation_size, 
+                            epochs=epoch_number, 
+                            batch_size=get_batch_size, verbose=0)
+
+        # Evaluate the model
+        scores = model.evaluate(test_feature_vector, test_label_onehot)
+        accuracy_score = scores[1]
+        print(f"Test accuracy for split {split_num + 1}: {accuracy_score:.4f}")
+
+        # Confusion matrix and metrics
+        predicted_classes = np.argmax(model.predict(test_feature_vector), axis=1)
+        cm = confusion_matrix(test_label, predicted_classes)
+        print(f"Confusion Matrix for split {split_num + 1}:\n{cm}")
+
+        print(test_label, '____________ test_label')
+        print(predicted_classes, '____________ predicted_classes')
+        print()
+        print()
+        print()
+        TN, FP, FN, TP = cm.ravel()
+
+        # Calculate sensitivity and specificity
+        sensitivity = TP / (TP + FN) if (TP + FN) > 0 else 0
+        specificity = TN / (TN + FP) if (TN + FP) > 0 else 0
+        print(f"Sensitivity: {sensitivity:.4f}, Specificity: {specificity:.4f}")
+
+        # Save metrics
+        save_performance_summary(epoch_number, sensitivity, specificity, accuracy_score)
+        accuracy_list.append(accuracy_score)
+        sensitivity_list.append(sensitivity)
+        specificity_list.append(specificity)
+
+        # Plot training & validation accuracy and loss
+        fig, ax1 = plt.subplots(2, 1, figsize=(10, 10))
+        ax1[0].plot(history.history['accuracy'], label='Training Accuracy')
+        ax1[0].plot(history.history['val_accuracy'], label='Validation Accuracy')
+        ax1[0].set_title(f'Model Accuracy :: Epochs :: {epoch_number}     Split No: {split_num + 1}')
+        ax1[0].set_ylabel('Accuracy')
+        ax1[0].set_xlabel('Epoch')
+        ax1[0].legend(loc='upper left')
+
+        ax1[1].plot(history.history['loss'], label='Training Loss')
+        ax1[1].plot(history.history['val_loss'], label='Validation Loss')
+        ax1[1].set_title(f'Model Loss :: Epochs :: {epoch_number}')
+        ax1[1].set_ylabel('Loss')
+        ax1[1].set_xlabel('Epoch')
+        ax1[1].legend(loc='upper left')
+
+        annotation_text = (
+            f"{test_category}\n"
+            f"{'Accuracy '.ljust(18)}:  {accuracy_score:9.2f}\n"
+            f"{'Sensitivity '.ljust(18)}: {sensitivity:10.2f}\n"
+            f"{'Specificity'.ljust(18)}: {specificity:10.2f}\n"
+            "\n"
+            f"{'Avg. Accuracy'.ljust(18)}: {np.mean(accuracy_list):10.2f}\n"
+            f"{'Avg. Sensitivity'.ljust(18)}: {np.mean(sensitivity_list):10.2f}\n"
+            f"{'Avg. Specificity'.ljust(18)}: {np.mean(specificity_list):10.2f}\n"
+        )
+
+        ax1[0].text(x_distance, 
+                    y_distance, 
+                    annotation_text, transform=ax1[0].transAxes, 
+                    fontsize = get_font_size, 
+                    fontfamily= get_font, 
+                    bbox=dict(facecolor='white', alpha=transparency_level))
+        
+        os.makedirs(folder_name, exist_ok=True)  # Ensure folder exists
+        plt.tight_layout()
+        current_time = datetime.now().strftime("%H_%M_%S")
+        plt.savefig(os.path.join(folder_name, f'{folder_name}_{current_time}.png'))
+        plt.close()
+
+# Calculate and display average metrics
+average_accuracy = np.mean(accuracy_list)
+average_sensitivity = np.mean(sensitivity_list)
+average_specificity = np.mean(specificity_list)
+print(f"\nAverage Accuracy: {average_accuracy:.2f}")
+print(f"Average Sensitivity: {average_sensitivity:.2f}")
+print(f"Average Specificity: {average_specificity:.2f}")
+
+# End time
+end_time = datetime.now()
+print(f"Total Duration: {end_time - start_time}")
+
+
+print()
+print()
+print()
+
+
+––––––––––––––––––––––––––––––––––––––––––––––––––
+
+Question 1: What is the difference between two Methods ? 
+
+Question 2: What is the standard method to follow for Image Classification With Convolutional Neural Network

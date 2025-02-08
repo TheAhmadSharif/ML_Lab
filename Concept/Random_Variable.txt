@@ -54,4 +54,24 @@ t (Must be lower case)
 F (Must be Upper case)
 
 
-Cumulative Distribution Function
+–––––––– Cumulative Distribution Function
+
+
+–––––––––––– Use 
+
+Example Use Case: Exam Scores
+Suppose the CDF of students' exam scores shows 
+𝐹(70) = 0.85
+F(70)=0.85. This means 85% of students scored less than or equal to 70.
+
+You can use this information to assess performance thresholds, e.g., setting passing scores or grading curves.
+
+
+For example, if you're looking at the CDF for a test score of 80, and it gives you 0.75, this means there's a 75% chance that a random student's score will be 80 or less.
+
+In short, the CDF helps you understand the likelihood of a random value being within a certain range by summing up probabilities as you go along.
+
+
+
+Explain Joint probability distribution
+Share some real-life example of joint probability distribution

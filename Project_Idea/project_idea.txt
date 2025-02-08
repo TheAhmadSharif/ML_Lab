@@ -7,7 +7,7 @@
 Language Detection
 Gender Detection
 House Price Prediction
-Energy Consumtion
+Energy Consumption
 Urine Test
 
 
@@ -18,3 +18,23 @@ OneTwo34#
 Gps.1995#
 
 https://pxdata.stat.fi/PxWeb/pxweb/en/StatFin/StatFin__ton/statfin_ton_pxt_12sc.px/table/tableViewLayout1/
+
+
+–––––––––––––––– 3 February 2025
+
+
+3. Principal Component Analysis (PCA) for Dimensions Reduction – learn eigenvalues and eigenvectors (used in feature extraction) – Reduce the dimensionality of a dataset of face images for facial recognition.
+
+4. Implementing a Simple k-Means Clustering Algorithm – learn euclidean distances (optimization through distance minimization) – Group customer data into clusters based on shopping behaviors.
+
+5. Creating a Support Vector Machine (SVM) Classifier – learn the optimization and Lagrange multipliers (constrained optimization techniques) – Classify tumors as malignant or benign using a medical dataset.
+
+6. Training a Deep Neural Network with Backpropagation – learn gradient descent (calculation of gradients and optimization) – Train a deep network to recognize handwritten digits using the MNIST dataset.
+
+7. Time Series Forecasting with Recurrent Neural Networks (RNNs) – learn differential equations usage (temporal dependencies and time derivatives) – Predict future stock prices based on historical data.
+
+8. Natural Language Processing with Word2Vec Embeddings – learn cosine similarity and tensors (measuring similarity between word vectors) – Build a recommendation system for books based on similarities in reviews.
+
+9. Building a Bayesian Classifier for Text Classification – learn bayesian probabilities (prior and posterior probabilities) – Classify email messages as spam or not spam.
+
+10. Implementing a Generative Adversarial Network (GAN) – learn about game theory (min-max optimization problem between generator and discriminator) 

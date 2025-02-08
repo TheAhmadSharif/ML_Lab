@@ -1,0 +1,259 @@
+index_value = 0 ########################################################################### Just Change it ####################
+get_img_size = (250, 250)
+epoch_number = 120
+loop_number = 1
+
+from pprint import pprint 
+
+# Initialize an empty list to hold the configurations
+configurations = []
+category = "Muse"
+i = 0
+
+classification_type = "RG"
+loss_function_name = 'binary_crossentropy'  # categorical_crossentropy
+activation_name = 'sigmoid' # softmax
+suffix = "Random"
+classification_type = "RG"
+category = "RG"
+category_initial = category[0]
+config = {
+    "name": f"{category}_{i + 1:03}",  # Example name format: "Muse_001", "Unicorn_005", etc.
+    "category": category,
+    "classification_type": classification_type,
+    "set_img_size": get_img_size,
+    "get_filename": f"{i + 1:03}_{category_initial}_{classification_type}_{suffix}_Summary.csv",
+    "folder_name": f"{i + 1:03}_{category_initial}_{classification_type}_{suffix}_EPOCH_{epoch_number}",
+    "test_category": f"{category}::{classification_type}::{suffix}::{epoch_number}",
+    "directory_path": "Classified_Dataset/",
+    "loss_function_name": loss_function_name,
+    "activation_name": activation_name
+}
+
+configurations.append(config)
+pprint(configurations[index_value])
+
+print()
+print()
+print()
+
+
+from sklearn.model_selection import ShuffleSplit
+import numpy as np
+import os, cv2
+import matplotlib.pyplot as plt
+from tensorflow.keras.utils import to_categorical
+from keras.models import Sequential
+from keras.layers import Conv2D, MaxPooling2D, Dropout, Flatten, Dense
+from keras.optimizers import Adam
+from sklearn.metrics import confusion_matrix
+from datetime import datetime
+
+# Start timer
+start_time = datetime.now()
+
+####################  Parameters #########################
+ 
+n_splits = 10   ###############################################################################
+splitter_test_size = 0.2   
+
+get_config_size = configurations[index_value]["set_img_size"]
+total_feature_size = get_img_size + (1,)
+get_filename = configurations[index_value]["get_filename"]
+folder_name = configurations[index_value]["folder_name"]
+test_category = configurations[index_value]["test_category"]
+directory_path = configurations[index_value]["directory_path"]
+loss_function_name = configurations[index_value]["loss_function_name"]
+activation_name = configurations[index_value]["activation_name"]
+optimizer_name = 'adam'
+
+get_font = 'monospace'
+# Text annotation settings
+x_distance = 0.72
+y_distance = 0.30
+transparency_level = 0.4
+get_font_size = 9
+#################### Hyperparameters ####################
+validation_size = 0.2
+get_dropout_rate = 0.5
+filter_size_1 = 10
+filter_size_2 = 20
+get_batch_size = 200
+model_padding_size = 'same' 
+model_kernel_size = (5,5)
+
+# Create folder to save results
+if not os.path.exists(folder_name):
+    os.makedirs(folder_name)
+
+# Initialize metrics lists
+accuracy_list = []
+sensitivity_list = []
+specificity_list = []
+
+# Function to save performance summary
+def save_performance_summary(epoch_number, sensitivity, specificity, accuracy_score):
+    directory = "Excel_Files"
+    filename = os.path.join(directory, get_filename)
+    if not os.path.exists(directory):
+        os.makedirs(directory)
+    if not os.path.exists(filename):
+        with open(filename, 'w') as file:
+            file.write("Epochs,Sensitivity,Specificity,Accuracy,Date_Time\n")
+    current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    with open(filename, 'a') as file:
+        file.write(f"{epoch_number},{sensitivity:.2f},{specificity:.2f},{accuracy_score:.2f},{current_time}\n")
+
+# Function to create the CNN model
+def create_model():
+    model = Sequential()
+    model.add(Conv2D(filters=filter_size_1, kernel_size=model_kernel_size, padding=model_padding_size, input_shape=total_feature_size, activation='relu'))
+    model.add(MaxPooling2D(pool_size=(2, 2)))
+    model.add(Dropout(get_dropout_rate))
+    model.add(Conv2D(filters=filter_size_2, kernel_size=model_kernel_size, padding=model_padding_size, activation='relu'))
+    model.add(MaxPooling2D(pool_size=(2, 2)))
+    model.add(Dropout(get_dropout_rate))
+    model.add(Flatten())
+    model.add(Dense(512, activation='relu'))
+    model.add(Dense(2, activation=activation_name))
+    return model
+
+# Load images and labels
+images = []
+labels = []
+
+Folder_1 = os.path.join(directory_path, 'Depuy')
+Folder_2 = os.path.join(directory_path, 'Tornier')
+
+# Helper function to load images and assign labels
+def getData(folder, label):
+    file_names = os.listdir(folder)
+    for file_name in file_names:
+        path = os.path.join(folder, file_name)
+        img = cv2.imread(path, cv2.IMREAD_GRAYSCALE)
+        if img is not None:
+            img = cv2.resize(img, dsize=get_config_size)
+            images.append(img)
+            labels.append(label)
+
+# Load relaxation and game images
+getData(Folder_1, 0)  # Label 0 for Relaxation
+getData(Folder_2, 1)        # Label 1 for Game
+
+print(f"Loaded {len(images)} images with corresponding labels.")
+
+# ShuffleSplit configuration
+splitter = ShuffleSplit(n_splits = n_splits, test_size=splitter_test_size, random_state=42)
+for x in range(loop_number):
+    for split_num, (train_idx, test_idx) in enumerate(splitter.split(images)):
+        print(f"\nRandom Split {split_num + 1}/{n_splits}: Running model training and evaluation")
+
+        # Prepare training and testing datasets
+        train_feature, test_feature = np.array(images)[train_idx], np.array(images)[test_idx]
+        train_label, test_label = np.array(labels)[train_idx], np.array(labels)[test_idx]
+
+        # Reshape and normalize
+        train_feature_vector = train_feature.reshape(-1, *total_feature_size).astype('float32') / 255
+        test_feature_vector = test_feature.reshape(-1, *total_feature_size).astype('float32') / 255
+        train_label_onehot = to_categorical(train_label, num_classes=2)
+        test_label_onehot = to_categorical(test_label, num_classes=2)
+
+        # Create and compile the model
+        model = create_model()
+        model.compile(loss=loss_function_name, optimizer=optimizer_name, metrics=['accuracy'])
+
+        # Train the model
+        history = model.fit(train_feature_vector, train_label_onehot, 
+                            validation_split=validation_size, 
+                            epochs=epoch_number, 
+                            batch_size=get_batch_size, verbose=0)
+
+        # Evaluate the model
+        scores = model.evaluate(test_feature_vector, test_label_onehot)
+        accuracy_score = scores[1]
+        print(f"Test accuracy for split {split_num + 1}: {accuracy_score:.4f}")
+
+        # Confusion matrix and metrics
+        predicted_classes = np.argmax(model.predict(test_feature_vector), axis=1)
+        cm = confusion_matrix(test_label, predicted_classes)
+        print(f"Confusion Matrix for split {split_num + 1}:\n{cm}")
+
+        print(test_label, '____________ test_label')
+        print(predicted_classes, '____________ predicted_classes')
+        print()
+        print()
+        print()
+        TN, FP, FN, TP = cm.ravel()
+
+        # Calculate sensitivity and specificity
+        sensitivity = TP / (TP + FN) if (TP + FN) > 0 else 0
+        specificity = TN / (TN + FP) if (TN + FP) > 0 else 0
+        print(f"Sensitivity: {sensitivity:.4f}, Specificity: {specificity:.4f}")
+
+        # Save metrics
+        save_performance_summary(epoch_number, sensitivity, specificity, accuracy_score)
+        accuracy_list.append(accuracy_score)
+        sensitivity_list.append(sensitivity)
+        specificity_list.append(specificity)
+
+        # Plot training & validation accuracy and loss
+        fig, ax1 = plt.subplots(2, 1, figsize=(10, 10))
+        ax1[0].plot(history.history['accuracy'], label='Training Accuracy')
+        ax1[0].plot(history.history['val_accuracy'], label='Validation Accuracy')
+        ax1[0].set_title(f'Model Accuracy :: Epochs :: {epoch_number}     Split No: {split_num + 1}')
+        ax1[0].set_ylabel('Accuracy')
+        ax1[0].set_xlabel('Epoch')
+        ax1[0].legend(loc='upper left')
+
+        ax1[1].plot(history.history['loss'], label='Training Loss')
+        ax1[1].plot(history.history['val_loss'], label='Validation Loss')
+        ax1[1].set_title(f'Model Loss :: Epochs :: {epoch_number}')
+        ax1[1].set_ylabel('Loss')
+        ax1[1].set_xlabel('Epoch')
+        ax1[1].legend(loc='upper left')
+
+        annotation_text = (
+            f"{test_category}\n"
+            f"{'Accuracy '.ljust(18)}:  {accuracy_score:9.2f}\n"
+            f"{'Sensitivity '.ljust(18)}: {sensitivity:10.2f}\n"
+            f"{'Specificity'.ljust(18)}: {specificity:10.2f}\n"
+            "\n"
+            f"{'Avg. Accuracy'.ljust(18)}: {np.mean(accuracy_list):10.2f}\n"
+            f"{'Avg. Sensitivity'.ljust(18)}: {np.mean(sensitivity_list):10.2f}\n"
+            f"{'Avg. Specificity'.ljust(18)}: {np.mean(specificity_list):10.2f}\n"
+        )
+
+        ax1[0].text(x_distance, 
+                    y_distance, 
+                    annotation_text, transform=ax1[0].transAxes, 
+                    fontsize = get_font_size, 
+                    fontfamily= get_font, 
+                    bbox=dict(facecolor='white', alpha=transparency_level))
+        
+        os.makedirs(folder_name, exist_ok=True)  # Ensure folder exists
+        plt.tight_layout()
+        current_time = datetime.now().strftime("%H_%M_%S")
+        plt.savefig(os.path.join(folder_name, f'{folder_name}_{current_time}.png'))
+        plt.close()
+
+# Calculate and display average metrics
+average_accuracy = np.mean(accuracy_list)
+average_sensitivity = np.mean(sensitivity_list)
+average_specificity = np.mean(specificity_list)
+print(f"\nAverage Accuracy: {average_accuracy:.2f}")
+print(f"Average Sensitivity: {average_sensitivity:.2f}")
+print(f"Average Specificity: {average_specificity:.2f}")
+
+# End time
+end_time = datetime.now()
+print(f"Total Duration: {end_time - start_time}")
+
+
+print()
+print()
+print()
+
+
+
+It is noted that Depuy has 294 jpg images
+It is noted that Tornier has 71 jpg images
