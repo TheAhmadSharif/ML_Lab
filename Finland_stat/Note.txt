@@ -1,0 +1,246 @@
+Personal injury accidents in road traffic by Year, Area and Information
+Personal_Injury_Accidents_In_Road_Traffic
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––
+12vm -- Electricity consumption by sector, 1960-2023
+Electricity_Consumption_By_Sector_1960_2023
+
+
+License: https://stat.fi/meta/tietosuoja/kayttolupa_en.html
+
+
+
+Title Finland_Electricity_Production
+Subtitle Finland Electricity Production from 2014 to 2025 by FinGrid
+
+
+
+
+Electricity_production_Finland
+
+### Electricity Production 2014-2025
+Electricity production in Finland are based on Fingrid's measurements. 
+Source Fingrid / data.fingrid.fi, 
+
+License CC 4.0  Creative Commons Attribution
+
+https://data.fingrid.fi/en/datasets/74
+
+Operation control system, Real time measurement, Production, Electricity production, Electricity production data
+
+
+
+–––––––––––––––––––––––––––––––––––––––––––––
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+
+data_file = "Electricity_Production_Finland_1914_2025_trim.csv"
+# Load the CSV file into a DataFrame
+df = data = pd.read_csv(data_file)
+
+# Display the first few rows of the DataFrame
+# print(df.head())
+
+df_data = pd.DataFrame(data)
+df_data.shape
+
+
+
+summary = column_2.describe()
+print(summary)
+––––––––––––––––––––––––––––––––
+How to Find the average production of year (2014) monthly basis ?
+
+
+
+–––––––––––––––––––––––––––––––––––––––––––––
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+
+data_file = "Electricity_Production_Finland_1914_2025_trim.csv"
+# Load the CSV file into a DataFrame
+df = data = pd.read_csv(data_file)
+
+# Display the first few rows of the DataFrame
+# print(df.head())
+
+df_data = pd.DataFrame(data)
+df_data.shape
+
+
+df_data['startTime'] = pd.to_datetime(df_data['startTime'])
+df_data['Year'] = df_data['startTime'].dt.year
+df_data['Month'] = df_data['startTime'].dt.month
+
+monthly_avg_by_year = df_data.groupby(['Year', 'Month'])['Electricity production in Finland'].mean().reset_index()
+
+# Pivot the data to create a month-by-month comparison
+monthly_comparison = monthly_avg_by_year.pivot(index='Year', columns='Month', values='Electricity production in Finland')
+
+# Rename the columns to month names for better readability
+monthly_comparison.columns = [
+    'January', 'February', 'March', 'April', 'May', 'June',
+    'July', 'August', 'September', 'October', 'November', 'December'
+]
+
+print(monthly_comparison)
+
+
+
+
+
+
+
+
+
+
+
+monthly_stats = df_data.groupby('Month')['Electricity production in Finland'].agg(['mean', 'std']).reset_index()
+
+# Rename the Month column to month names for better readability
+monthly_stats['Month'] = monthly_stats['Month'].map({
+    1: 'January', 2: 'February', 3: 'March', 4: 'April', 5: 'May', 6: 'June',
+    7: 'July', 8: 'August', 9: 'September', 10: 'October', 11: 'November', 12: 'December'
+})
+
+print(monthly_stats)
+import matplotlib.pyplot as plt
+
+# Plot the monthly mean with error bars (std)
+plt.figure(figsize=(10, 6))
+plt.bar(monthly_stats['Month'], monthly_stats['mean'], yerr=monthly_stats['std'], capsize=5, color='skyblue', alpha=0.7)
+plt.title('Monthly Electricity Production (Mean ± Std)')
+plt.xlabel('Month')
+plt.ylabel('Electricity Production')
+plt.xticks(rotation=45)
+plt.grid(True, axis='y', linestyle='--', alpha=0.7)
+plt.show()
+
+
+import pandas as pd
+
+# Assuming df_data is your DataFrame
+df_data['startTime'] = pd.to_datetime(df_data['startTime'])
+
+# Extract day of the year (1 to 365) from the datetime column
+df_data['DayOfYear'] = df_data['startTime'].dt.dayofyear
+
+# Group by DayOfYear and calculate mean and std
+daily_stats = df_data.groupby('DayOfYear')['Electricity production in Finland'].agg(['mean', 'std']).reset_index()
+
+print(daily_stats)
+
+
+
+––––––––––––––––––––– 
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import os 
+
+cwd = os.getcwd() 
+env_name = os.environ.get('KAGGLE_KERNEL_RUN_TYPE', 'Localhost')
+
+print("Current working directory:", cwd) 
+
+if(env_name == "Localhost"):
+    data_files = ["Personal_Injuries_With_Population.csv", "Road_Traffic_Accidents_Personal_Injuries.csv"]
+else: 
+    data_files = [
+                "/kaggle/input/personal-injuries-with-population/Personal_Injuries_With_Population.csv",
+                "/kaggle/input/road-traffic-accidents-personal-injuries/Road_Traffic_Accidents_Personal_Injuries.csv",
+                 ]
+
+
+df = pd.read_csv(data_files[0])
+df.head(2)
+
+
+
+
+# Load the data and calculate area_data
+area_data = df.groupby('Area').agg({'Personal_Injury_Traffic': 'mean', 'Population': 'mean'})
+area_data['Ratio'] = area_data['Personal_Injury_Traffic'] / area_data['Population']
+
+# --- 3-Bar Style Horizontal Bar Chart with Reversed Order and Ratio First ---
+fig, ax1 = plt.subplots(figsize=(12, 10))
+width = 0.2
+
+# Reverse the order of area_data
+area_data = area_data[::-1]  # Reverse DataFrame rows
+
+y_indexes = np.arange(len(area_data.index))
+
+scaling_factor_ratio = 1e5
+scaling_factor_population = 1e3
+
+# Corrected bar plotting and offsets (Ratio, Injuries, Population order):
+ax1.barh(y_indexes, area_data['Personal_Injury_Traffic'], height=width, label='Average Injuries', color='skyblue')
+ax1.barh(y_indexes + width, area_data['Population'] / scaling_factor_population, height=width, label='Average Population', color='lightcoral')
+
+ax1.set_xlabel('Average Count')
+ax1.set_title('Ratio, Injuries, and Population by Area') # Changed Title
+
+# Remove y-axis ticks and labels
+ax1.set_yticks([])
+ax1.set_yticklabels([])
+
+# Add Area labels manually
+for i, area in enumerate(area_data.index):
+    ax1.text(-0.01, y_indexes[i], area, va='center', ha='right', transform=ax1.get_yaxis_transform())
+
+ax1.legend(loc='upper right')
+
+fig.tight_layout()
+
+# Adjust x-axis to show count in millions
+ax1.set_xticklabels([f'{x/1e6:.0f}' for x in ax1.get_xticks()])
+ax1.set_xlabel('Average Count', position=(1, 0))
+ax1.xaxis.set_label_coords(1, -0.025)
+
+# Add annotations for scaling
+ax1.text(0.95, 0.9, f'Population scaled by {scaling_factor_population}', transform=ax1.transAxes, ha='right', va='top', fontsize=8)
+ax1.text(0.95, 0.85, f'Ratio scaled by {scaling_factor_ratio}', transform=ax1.transAxes, ha='right', va='top', fontsize=8)
+
+plt.show()
+
+
+
+# --- Plotting the Ratio ---
+plt.figure(figsize=(12, 6))
+
+# Get the sorted data for plotting
+x = area_data_sorted.index  # Areas (regions)
+y = area_data_sorted['Ratio']
+
+plt.bar(x, y, color='skyblue')  # Use bar chart for the ratio
+
+plt.xlabel('Area (Region)')
+plt.ylabel('Injury/Population Ratio')
+plt.title('Injury/Population Ratio by Area (Sorted)')
+plt.xticks(rotation=45, ha='right')  # Rotate x-axis labels for readability
+plt.tight_layout() # Adjust layout to prevent labels from overlapping
+plt.show()
+
+
+–––––––––––––––––––––
+
+
+<Figure size 1200x600 with 0 Axes>
+---------------------------------------------------------------------------
+NameError                                 Traceback (most recent call last)
+Cell In[15], line 5
+      2 plt.figure(figsize=(12, 6))
+      4 # Get the sorted data for plotting
+----> 5 x = area_data_sorted.index  # Areas (regions)
+      6 y = area_data_sorted['Ratio']
+      8 plt.bar(x, y, color='skyblue')  # Use bar chart for the ratio
+
+NameError: name 'area_data_sorted' is not defined
+<Figure size 1200x600 with 0 Axes>

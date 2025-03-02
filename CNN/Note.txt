@@ -1,0 +1,81 @@
+Dataset
+    - Training
+        glioma_tumor
+        no_tumor
+        meningioma_tumor
+        pituitary_tumor
+
+ - Testing
+        glioma_tumor
+        no_tumor
+        meningioma_tumor
+        pituitary_tumor
+
+
+
+
+–––––––––––––––––––––––––––
+fruits = ["Apple", "Orange", "Mango"]
+
+f_list = ["Mango", "Orange", "Mango", "Mango", "Mango", "Orange"]
+
+y_train_new = []
+
+
+What is Transfer Learning in Deep Learning ?
+
+––––––––––––––––––––––––––––––––––
+
+Is it the correct structure while make a Convolutional Neural Network
+
+Convolutional Neural Network Steps 
+
+1. Load Dataset
+2. Preprocessing Data
+    a. Resize Image
+    b. Separate Train and Test Data 
+3. Train Data 
+4. Build CNN Model 
+5. Compile Model 
+6. Fit Model 
+7. Calculate different performance metrics
+    a. Accuracy
+    b. Recall
+    c. F1-Score
+    d. Sensitivity
+    e. Specificity
+
+OneTwo34#
+The biggest issue was the order of steps 3 and 4. You must build the model before you can train it. Your original ordering implied training before building, which is not possible.
+
+
+Convolutional Neural Network Steps 
+
+1. Load Dataset
+2. Preprocessing Data
+    a. Resize Image
+    b. Separate Train and Test Data 
+    c. Normalize Pixel Values
+    d. One-Hot Encode Labels (if needed)
+    e. Data Augmentation (apply to the training data)
+
+3. Build CNN Model 
+    a. Transfer Learning (load a pre-trained model as a starting point)   
+    b. Add new layers as needed
+4. Compile Model 
+5. Train/Fit Model 
+6. Calculate different performance metrics
+    a. Accuracy
+    b. Recall
+    c. F1-Score
+    d. Sensitivity
+    e. Specificity
+
+
+What is one hot encoding ?
+
+
+
+What is the difference or relation between Convolutional Neural Network and Deep Learning ? 
+
+What are other type of Neural network in Deep Learning ?

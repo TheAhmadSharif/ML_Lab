@@ -1,0 +1,63 @@
+https://local-government-history.fandom.com/wiki/Sub-regions_of_Finland
+
+https://www.statista.com/statistics/524679/total-population-of-finland-by-region/
+Uusima
+
+
+Helsinki sub-region (Greater Helsinki)
+Loviisa sub-region         14,458
+Porvoo sub-region          59,485
+Raseborg sub-region        27,209
+Former sub-regions
+Lohja sub-region           45,645
+
+
+Pirkanmaa (9)
+North Western Pirkanmaa
+South Western Pirkanmaa
+Southern Pirkanmaa
+Tampere sub-region
+Upper Pirkanmaa
+Former sub-regions
+South Eastern Pirkanmaa
+
+Satakunta (10)
+Northern Satakunta
+Pori sub-region
+Rauma sub-region
+
+
+14458
+59485
+27209
+45645
+
+
+––––––––––––––––––––––––––––––––––––– 
+Population By Region 
+
+
+https://pxdata.stat.fi/PxWeb/pxweb/en/StatFin/StatFin__vaerak/statfin_vaerak_pxt_11s5.px/
+
+
+MA1 MAINLAND FINLAND
+MK01 Uusimaa
+MK02 Southwest Finland
+MK04 Satakunta
+MK05 Kanta-Häme
+MK06 Pirkanmaa
+MK07 Päijät-Häme
+MK08 Kymenlaakso
+MK09 South Karelia
+MK10 South Savo
+MK11 North Savo
+MK12 North Karelia
+MK13 Central Finland
+MK14 South Ostrobothnia
+MK15 Ostrobothnia
+MK16 Central Ostrobothnia
+MK17 North Ostrobothnia
+MK18 Kainuu
+MK19 Lapland
+MA2 Åland
+MK21 Åland

@@ -1,0 +1,175 @@
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{geometry} % Add this package to adjust margins
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+\section*{Statistical Modeling}
+
+16 February 2025
+\newline
+In statistical modeling, the goal is to understand and quantify the relationship between a set of explanatory variables \( X_1, X_2, \dots, X_p \) and a response variable \( Y \). The response variable \( Y \) is typically modeled as a random variable whose distribution depends on the explanatory variables and an unknown parameter vector \( \beta \).
+
+\subsection*{Key Components of the Model:}
+
+\begin{enumerate}
+    \item \textbf{Response Variable (\( Y \))}:
+    \begin{itemize}
+        \item \( Y \) is the variable of interest that we aim to predict or explain.
+        \item It is assumed to be a random variable with a probability distribution that depends on the explanatory variables \( X_1, X_2, \dots, X_p \) and the parameter vector \( \beta \).
+    \end{itemize}
+
+    \item \textbf{Explanatory Variables (\( X_1, X_2, \dots, X_p \))}:
+    \begin{itemize}
+        \item These are the variables used to explain or predict the response variable \( Y \).
+        \item They can be continuous, categorical, or a mix of both.
+    \end{itemize}
+
+    \item \textbf{Parameter Vector (\( \beta \))}:
+    \begin{itemize}
+        \item \( \beta = (\beta_0, \beta_1, \dots, \beta_p)' \) is a vector of unknown parameters that need to be estimated from the data.
+        \item \( \beta_0 \) is typically the intercept term, and \( \beta_1, \beta_2, \dots, \beta_p \) are the coefficients associated with each explanatory variable.
+    \end{itemize}
+
+    \item \textbf{Probability Distribution of \( Y \)}:
+    \begin{itemize}
+        \item The distribution of \( Y \) is defined by the density function \( f_Y(y | x, \beta) \), where \( x = (X_1, X_2, \dots, X_p)' \) is the vector of explanatory variables.
+        \item The form of \( f_Y(y | x, \beta) \) depends on the type of statistical model being used (e.g., linear regression, logistic regression, Poisson regression, etc.).
+    \end{itemize}
+\end{enumerate}
+
+\subsection*{Common Types of Statistical Models:}
+
+\begin{enumerate}
+    \item \textbf{Linear Regression}:
+    \begin{itemize}
+        \item Assumes that the response variable \( Y \) is normally distributed.
+        \item The mean of \( Y \) is a linear combination of the explanatory variables:
+        \[
+        Y = \beta_0 + \beta_1 X_1 + \beta_2 X_2 + \dots + \beta_p X_p + \epsilon
+        \]
+        where \( \epsilon \) is the error term, typically assumed to be normally distributed with mean 0 and constant variance \( \sigma^2 \).
+    \end{itemize}
+
+    \item \textbf{Logistic Regression}:
+    \begin{itemize}
+        \item Used when the response variable \( Y \) is binary (e.g., 0 or 1).
+        \item The log-odds of \( Y \) are modeled as a linear combination of the explanatory variables:
+        \[
+        \log\left(\frac{P(Y=1 | x)}{1 - P(Y=1 | x)}\right) = \beta_0 + \beta_1 X_1 + \beta_2 X_2 + \dots + \beta_p X_p
+        \]
+    \end{itemize}
+
+    \item \textbf{Poisson Regression}:
+    \begin{itemize}
+        \item Used when the response variable \( Y \) is a count (e.g., number of events).
+        \item The log of the expected value of \( Y \) is modeled as a linear combination of the explanatory variables:
+        \[
+        \log(E[Y | x]) = \beta_0 + \beta_1 X_1 + \beta_2 X_2 + \dots + \beta_p X_p
+        \]
+    \end{itemize}
+\end{enumerate}
+
+\subsection*{Estimation of Parameters:}
+
+\begin{itemize}
+    \item The parameters \( \beta \) are typically estimated using methods such as \textbf{Maximum Likelihood Estimation (MLE)} or \textbf{Least Squares Estimation (LSE)}, depending on the model.
+    \item The goal is to find the values of \( \beta \) that make the observed data most likely under the assumed model.
+\end{itemize}
+
+\subsection*{Model Evaluation:}
+
+\begin{itemize}
+    \item Once the model is fitted, it is important to evaluate its performance using metrics such as:
+    \begin{itemize}
+        \item \textbf{R-squared} (for linear regression)
+        \item \textbf{AIC} (Akaike Information Criterion)
+        \item \textbf{BIC} (Bayesian Information Criterion)
+        \item \textbf{Residual Analysis} (to check assumptions)
+        \item \textbf{Cross-Validation} (to assess predictive performance)
+    \end{itemize}
+\end{itemize}
+
+\subsection*{Conclusion:}
+
+Statistical modeling is a powerful tool for understanding the relationship between variables and making predictions. The choice of model depends on the nature of the response variable and the assumptions about its distribution. Proper model selection, estimation, and evaluation are crucial for obtaining reliable and interpretable results.
+
+\section*{Naive Example: Error Term \( \epsilon \)}
+
+Let's consider a simple example where we want to model the relationship between the number of hours studied (\( X \)) and the exam score (\( Y \)) for a group of students.
+
+\subsection*{Data:}
+
+Suppose we have the following data for 5 students:
+
+\begin{center}
+\begin{tabular}{|c|c|c|}
+\hline
+Student & Hours Studied (\( X \)) & Exam Score (\( Y \)) \\
+\hline
+1 & 2 & 50 \\
+2 & 4 & 60 \\
+3 & 6 & 70 \\
+4 & 8 & 80 \\
+5 & 10 & 90 \\
+\hline
+\end{tabular}
+\end{center}
+
+\subsection*{Model:}
+
+We fit a simple linear regression model to this data:
+
+\[
+Y = \beta_0 + \beta_1 X + \epsilon
+\]
+
+Suppose the estimated model is:
+
+\[
+Y = 40 + 5X + \epsilon
+\]
+
+Here, \( \beta_0 = 40 \) and \( \beta_1 = 5 \).
+
+\subsection*{Predictions:}
+
+Using the model, we can predict the exam score for each student:
+
+\begin{itemize}
+    \item For \( X = 2 \): \( \hat{Y} = 40 + 5(2) = 50 \)
+    \item For \( X = 4 \): \( \hat{Y} = 40 + 5(4) = 60 \)
+    \item For \( X = 6 \): \( \hat{Y} = 40 + 5(6) = 70 \)
+    \item For \( X = 8 \): \( \hat{Y} = 40 + 5(8) = 80 \)
+    \item For \( X = 10 \): \( \hat{Y} = 40 + 5(10) = 90 \)
+\end{itemize}
+
+\subsection*{Error Term \( \epsilon \):}
+
+The error term \( \epsilon \) is the difference between the observed exam score (\( Y \)) and the predicted exam score (\( \hat{Y} \)):
+
+\begin{itemize}
+    \item For \( X = 2 \): \( \epsilon = 50 - 50 = 0 \)
+    \item For \( X = 4 \): \( \epsilon = 60 - 60 = 0 \)
+    \item For \( X = 6 \): \( \epsilon = 70 - 70 = 0 \)
+    \item For \( X = 8 \): \( \epsilon = 80 - 80 = 0 \)
+    \item For \( X = 10 \): \( \epsilon = 90 - 90 = 0 \)
+\end{itemize}
+
+In this idealized example, the error term \( \epsilon \) is zero for all observations, meaning the model perfectly predicts the exam scores. However, in real-world data, the error term is rarely zero due to various unaccounted factors (e.g., student's prior knowledge, study quality, etc.).
+
+\subsection*{Interpretation:}
+
+\begin{itemize}
+    \item \textbf{Mean Zero}: On average, the errors are zero, meaning the model's predictions are unbiased.
+    \item \textbf{Constant Variance}: The spread of the errors is the same across all levels of \( X \). In our example, since all errors are zero, the variance is zero, which is a trivial case.
+    \item \textbf{Normality}: The errors are normally distributed around zero. In real data, we would expect the errors to follow a normal distribution, allowing us to make statistical inferences.
+\end{itemize}
+
+\subsection*{Conclusion:}
+
+The error term \( \epsilon \) captures the randomness and variability in the response variable \( Y \) that cannot be explained by the explanatory variable \( X \). Understanding and checking the assumptions about \( \epsilon \) are crucial for validating the model and ensuring reliable predictions.
+
+\end{document}

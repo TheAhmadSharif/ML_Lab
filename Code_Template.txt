@@ -40,3 +40,12 @@ plt.axhline(y=0, color='r', linestyle='--')
 plt.plot(time, keystroke)
 plt.show()
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+
+
+–––––––––––––––––– Install jupyter extension ––––––––––––––––––
+https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/install.html
+pip install jupyter_contrib_nbextensions
+
+
+jupyter nbextension enable jupyter_contrib_nbextensions/main
