@@ -1,0 +1,15 @@
+Can you Explain Beta Distribution with naive examples ?
+
+
+What is the use case of Probability distribution like Gamma, Beta, Uniform Distribution ? 
+
+
+
+
+Beta Distribution: The Click-Through Rate of the advertisement
+Can you please share the details ?
+
+
+
+Binomial Distribution
+Can you please share the details with examples ?

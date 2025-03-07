@@ -1,0 +1,8 @@
+––––––– 04 March 2025
+Can you Explain Gamma Distribution with naive examples 
+When is it used and share some examples use cases?
+What is the difference ans similarity between Gamma and Poisson ?
+Share some real life problem with Poisson distribution
+
+
+What is the use case of different probability distribution like Poisson, Gamma, Beta and other Distribution
