@@ -1,5 +1,0 @@
-Chi-Square Test:
-A chi-squared test (also chi-square or χ2 test) is a statistical hypothesis test used in the analysis of contingency tables when the sample sizes are large.
-
-
-Non parametric test
