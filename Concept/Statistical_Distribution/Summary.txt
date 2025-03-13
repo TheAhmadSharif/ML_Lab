@@ -1,3 +1,13 @@
+Probability Distributions
+
+Probability distributions are functions that calculates the probabilities of the outcomes of random variables.
+
+
+
+https://www.w3schools.com/statistics/statistics_normal_distribution.php
+
+
+
 Can you Explain Beta Distribution with naive examples ?
 
 
@@ -13,3 +23,8 @@ Can you please share the details ?
 
 Binomial Distribution
 Can you please share the details with examples ?
+
+
+
+
+Joint Probability Distribution

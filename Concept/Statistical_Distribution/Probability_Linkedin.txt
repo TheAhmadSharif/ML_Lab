@@ -1,0 +1,183 @@
+# Probability
+07 March 2025
+
+
+
+## Experiment And Trials
+Any procedures that can be infinitely repeated
+
+Example: Flipping a coin
+
+
+Sample Space: All possible outcomes of an experiment 
+
+Event: Subset of sample space
+
+Example: Roll six-sided die
+
+Event of odd rolls : A = {1, 3, 5}
+
+
+## Random Variable
+
+Random Variable X: Amount of snow in a year. 
+Values: 0 to maximum amount of snow
+
+
+
+Discrete Random Variable
+Probability distribution that contains a finite or countable number of values, represented by this equation. 
+
+
+## Probability Distribution
+
+Mathematical function that shows all possible outcomes and their associated probabilities for an experiment.
+
+
+Coin Toss Example 
+
+Random variable X: outcome of one fair coin toss.
+Values: Heads or Tails
+
+
+
+––––––––– Distribution Types 
+Discrete
+Continuous 
+Cumulative
+Joint
+
+Probability Function
+Mathematical function that denotes the probabilities for the possible outcomes of a random variable, represented by f(x)
+
+
+
+A PMF is a subset of Probability Functions.
+Specifically, it's the Probability Function used for discrete random variables
+
+Probability Mass function
+
+Distribution
+————————————————————————
+The possible values a variable can take and how frequently they occur.
+
+
+https://www.statlect.com/probability-distributions/
+
+
+
+The Cumulative Distribution Function (CDF) is a function that represents the probability that a random variable 
+X. X will take a value less than or equal to a specific value  x. In other words, it gives the cumulative probability up to a certain point.
+
+Mathematically, the CDF is defined as:
+
+F(x)= P(X≤x)
+
+
+Example of CDF
+Let’s consider a simple example with a discrete random variable:
+
+Suppose you roll a fair six-sided die. The possible outcomes are 
+X = { 1, 2, 3, 4, 5, 6 }
+X={1,2,3,4,5,6}, each with a probability of 
+
+The CDF for this die roll would be:
+
+F(x) = P(X ≤ x )
+F(x) = P(X≤x)
+For  x = 1
+
+F(1) = P(X≤1)=1/6
+
+ 
+For x =2:
+
+F(2) = P(X≤2) = 1/6 + 1/6 = 2/6 = 1/3
+
+ 
+For x= 3 
+F(3) = P(X≤3) = 1/6 + 1/6 + 1/6 = 3/6 = 1/2
+
+​
+ 
+––––––––––––––––––––––––––
+
+A small bakery sells cupcakes. The number of cupcakes sold each day (X) is a random variable with the following probability distribution:
+
+P(X = 0) = 0.1 (No cupcakes sold)
+P(X = 1) = 0.2 (One cupcake sold)
+P(X = 2) = 0.3 (Two cupcakes sold)
+P(X = 3) = 0.25 (Three cupcakes sold)
+P(X = 4) = 0.15 (Four cupcakes sold)
+Verify that this is a valid PMF.
+What is the probability of selling at least two cupcakes?
+What is the probability of selling between 1 and 3 cupcakes, inclusive?
+Solution:
+
+Verification of a Valid PMF:
+
+All probabilities are non-negative (0.1, 0.2, 0.3, 0.25, 0.15).
+The sum of the probabilities is: 0.1 + 0.2 + 0.3 + 0.25 + 0.15 = 1.0.
+Therefore, this is a valid PMF.
+Probability of Selling at Least Two Cupcakes:
+
+"At least two" means 2, 3, or 4 cupcakes.
+P(X ≥ 2) = P(X = 2) + P(X = 3) + P(X = 4)
+(X ≥ 2) = 0.3 + 0.25 + 0.15 = 0.7
+
+
+ The Cumulative Distribution Function (CDF): Probability that random variable X is less than or equal to x.
+
+
+
+ ––––––– Monte Carlo Simulations
+
+Applications of Monte Carlo Simulations
+Finance: Risk analysis, option pricing, and portfolio optimization.
+
+Engineering: Reliability testing, stress analysis, and system design.
+
+Physics: Particle transport, nuclear reactions, and fluid dynamics.
+
+Project Management: Estimating project timelines and costs.
+
+Artificial Intelligence: Reinforcement learning and optimization problems.
+Share example with data
+
+
+––––––––––––– Binomial Distribution
+
+Share some examples
+
+
+
+––––––––––––– Uniform Distribution
+Share concept with some examples
+
+
+
+––––––––––––– Geometric Distribution
+Share concept with some examples
+
+
+
+––––––––––––– Marginal Probability Distribution
+
+––––––––––––– Joint Probability Distribution
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––
+
+            New York       California       Total   
+T-Shirts    30                  50           80
+Trousers    40                  20           60
+Shoes       50                  40           90
+––––––––––––––––––––––––––––––––––––––––––––––––––
+            120                 110         230
+
+
+            New York       California       Total   
+T-Shirts       0.13            0.22           0.35
+Trousers       0.17            0.09           0.26
+Shoes          0.22            0.17           0.39
+––––––––––––––––––––––––––––––––––––––––––––––––––
+               0.52             0.48            1
