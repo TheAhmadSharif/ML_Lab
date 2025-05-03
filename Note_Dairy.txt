@@ -1,3 +1,11 @@
+urheilu tilastot
+
+
+Clustering Algorithm 
+K-Means
+DBSCAN
+Hierarchical Clustering
+
 Iris Dataset
 
 –––––––––– 10 February 2025

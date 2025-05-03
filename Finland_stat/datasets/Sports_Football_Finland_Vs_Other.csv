@@ -1,0 +1,867 @@
+Serial,Match Number,Date,Date_STD,Venue,Venue_Country,Score,Score_Transform,Result,Match_Type
+1,1,22 Oct 1911 13:30 (+1:40),22-10-1911,"Helsingfors, Eläintarha Stadion",Finland,2-5 Finland vs Sweden,2-5 Finland vs Sweden,Lost,Friendly International
+2,2,27 Jun 1912 20:00 (+1:00),27-06-1912,"Solna, Råsunda Idrottsplats",Sweden,7-1 Sweden vs Finland,1-7 Finland vs Sweden,Lost,Friendly International
+3,3,29 Jun 1912 11:00 (+1:00),29-06-1912,"Traneberg, Tranebergs Idrottsplats",Sweden,3-2 Finland vs Italy,3-2 Finland vs Italy,Won,"V. Olympic Games Final Tournament 1912, First round"
+4,4,30 Jun 1912 10:00 (+1:00),30-06-1912,"Traneberg, Tranebergs Idrottsplats",Sweden,2-1 Finland vs Russia,2-1 Finland vs Russia,Won,"V. Olympic Games Final Tournament 1912, Quarterfinal"
+5,5,02 Jul 1912 15:00 (+1:00),02-07-1912,"Stockholm, Stockholms Olympiastadion",Sweden,0-4 Finland vs Great Britain*,0-4 Finland vs Great Britain*,Lost,"V. Olympic Games Final Tournament 1912, Semifinal"
+6,6,04 Jul 1912 15:00 (+1:00),04-07-1912,"Solna, Råsunda Idrottsplats",Sweden,0-9 Finland vs Netherlands,0-9 Finland vs Netherlands,Lost,"V. Olympic Games Final Tournament 1912, For 3rd place"
+7,7,24 May 1914 14:00 (+1:00),24-05-1914,"Solna, Råsunda Idrottsplats",Sweden,4-3 Sweden vs Finland,3-4 Finland vs Sweden,Lost,Friendly International
+8,8,29 May 1919 13:30 (+1:00),29-05-1919,"Stockholm, Stockholms Olympiastadion",Sweden,1-0 Sweden vs Finland,0-1 Finland vs Sweden,Lost,Friendly International
+9,9,28 Sep 1919 13:00 (+1:40),28-09-1919,"Helsinki, Töölön Pallokenttä",Finland,3-3 Finland vs Sweden,3-3 Finland vs Sweden,Draw,Friendly International
+10,10,30 May 1920 14:00 (+1:00),30-05-1920,"Stockholm, Stockholms Olympiastadion",Sweden,4-0 Sweden vs Finland,0-4 Finland vs Sweden,Lost,Friendly International
+11,11,19 Sep 1920 14:00 (+1:40),19-09-1920,"Helsinki, Töölön Pallokenttä",Finland,1-0 Finland vs Sweden,1-0 Finland vs Sweden,Won,Friendly International
+12,12,17 Oct 1920 13:00 (+1:40),17-10-1920,"Helsinki, Töölön Pallokenttä",Finland,6-0 Finland vs Estonia,6-0 Finland vs Estonia,Won,Friendly International
+13,13,25 May 1921 19:00 (+1:00),25-05-1921,"Kristiania, Gressbanen ved Holmen i Aker",Norway,3-2 Norway vs Finland,2-3 Finland vs Norway,Lost,Friendly International
+14,14,29 May 1921 13:30 (+1:00),29-05-1921,"Stockholm, Stockholms Olympiastadion",Sweden,0-3 Sweden vs Finland,3-0 Finland vs Sweden,Won,Friendly International
+15,15,31 Jul 1921 13:00 (+2:00),31-07-1921,"Helsinki, Töölön Pallokenttä",Finland,2-3 Finland vs Austria,2-3 Finland vs Austria,Lost,Friendly International
+16,16,28 Aug 1921 18:00 (+2:00),28-08-1921,"Tallinn, Tiigiveski Spordiplats",Estonia,0-3 Estonia vs Finland,3-0 Finland vs Estonia,Won,Friendly International
+17,17,18 Sep 1921 13:00 (+2:00),18-09-1921,"Helsinki, Töölön Pallokenttä",Finland,3-3 Finland vs Germany,3-3 Finland vs Germany,Draw,Friendly International
+18,18,05 Jun 1922 18:00 (+2:00),05-06-1922,"Helsinki, Töölön Pallokenttä",Finland,1-4 Finland vs Sweden,1-4 Finland vs Sweden,Lost,Friendly International
+19,19,13 Jul 1922 18:30 (+2:00),13-07-1922,"Helsinki, Töölön Pallokenttä",Finland,1-5 Finland vs Hungary,1-5 Finland vs Hungary,Lost,Friendly International
+20,20,11 Aug 1922 18:30 (+2:00),11-08-1922,"Helsinki, Töölön Pallokenttä",Finland,10-2 Finland vs Estonia,10-2 Finland vs Estonia,Won,Friendly International
+21,21,26 Aug 1922 17:30 (+2:00),26-08-1922,"Helsinki, Töölön Pallokenttä",Finland,1-3 Finland vs Norway,1-3 Finland vs Norway,Lost,Friendly International
+22,22,17 Jun 1923 12:30 (+1:00),17-06-1923,"Kristiania, Gressbanen ved Holmen i Aker",Norway,3-0 Norway vs Finland,0-3 Finland vs Norway,Lost,Friendly International
+23,23,20 Jun 1923 19:15 (+1:00),20-06-1923,"Gävle, Strömvallen",Sweden,5-4 Sweden vs Finland,4-5 Finland vs Sweden,Lost,Friendly International
+24,24,12 Aug 1923 16:00 (+1:00),12-08-1923,"Dresden, Ilgen Kampfbahn",Germany,1-2 Germany vs Finland,2-1 Finland vs Germany,Won,Friendly International
+25,25,15 Aug 1923 17:00 (+1:00),15-08-1923,"Vienna, Hohe Warte",Austria,2-1 Austria vs Finland,1-2 Finland vs Austria,Lost,Friendly International
+26,26,19 Aug 1923 17:00 (+1:00),19-08-1923,"Budapest, Üllői út",Hungary,3-1 Hungary vs Finland,1-3 Finland vs Hungary,Lost,Friendly International
+27,27,23 Sep 1923 12:00 (+2:00),23-09-1923,"Helsinki, Töölön Pallokenttä",Finland,5-3 Finland vs Poland,5-3 Finland vs Poland,Won,Friendly International
+28,28,30 Sep 1923 15:00 (+2:00),30-09-1923,"Tallinn, Spordi Staadion",Estonia,2-1 Estonia vs Finland,1-2 Finland vs Estonia,Lost,Friendly International
+29,29,17 Jun 1924 19:00 (+2:00),17-06-1924,"Helsinki, Töölön Pallokenttä",Finland,2-4 Finland vs Turkey,2-4 Finland vs Turkey,Lost,Friendly International
+30,30,28 Jul 1924 19:00 (+2:00),28-07-1924,"Helsinki, Töölön Pallokenttä",Finland,5-7 Finland vs Sweden,5-7 Finland vs Sweden,Lost,Friendly International
+31,31,10 Aug 1924 17:00 (+1:00),10-08-1924,"Warsaw, Stadion Agrykola",Poland,1-0 Poland vs Finland,0-1 Finland vs Poland,Lost,Friendly International
+32,32,14 Aug 1924 18:00 (+1:37),14-08-1924,"Rīga, L.S.B. Stadions",Latvia,0-2 Latvia vs Finland,2-0 Finland vs Latvia,Won,Friendly International
+33,33,23 Aug 1924 17:30 (+2:00),23-08-1924,"Helsinki, Töölön Pallokenttä",Finland,2-0 Finland vs Norway,2-0 Finland vs Norway,Won,Friendly International
+34,34,14 Sep 1924 13:30 (+2:00),14-09-1924,"Helsinki, Töölön Pallokenttä",Finland,4-0 Finland vs Estonia,4-0 Finland vs Estonia,Won,Friendly International
+35,35,07 Jun 1925 12:30 (+1:00),07-06-1925,"Oslo, Gressbanen ved Holmen i Aker",Norway,1-0 Norway vs Finland,0-1 Finland vs Norway,Lost,Friendly International
+36,36,09 Jun 1925 19:15 (+1:00),09-06-1925,"Gothenburg, Slottsskogsvallen",Sweden,4-0 Sweden vs Finland,0-4 Finland vs Sweden,Lost,Friendly International
+37,37,26 Jun 1925 19:00 (+2:00),26-06-1925,"Helsinki, Töölön Pallokenttä",Finland,3-5 Finland vs Germany,3-5 Finland vs Germany,Lost,Friendly International
+38,38,05 Jul 1925 19:00 (+2:00),05-07-1925,"Tallinn, Kalevi Staadion",Estonia,2-0 Estonia vs Finland,0-2 Finland vs Estonia,Lost,Friendly International
+39,39,10 Jul 1925 19:00 (+2:00),10-07-1925,"Helsinki, Töölön Pallokenttä",Finland,1-2 Finland vs Austria,1-2 Finland vs Austria,Lost,Friendly International
+40,40,09 Aug 1925 18:00 (+2:00),09-08-1925,"Helsinki, Töölön Pallokenttä",Finland,3-1 Finland vs Latvia,3-1 Finland vs Latvia,Won,Friendly International
+41,41,30 Aug 1925 13:00 (+2:00),30-08-1925,"Helsinki, Töölön Pallokenttä",Finland,2-2 Finland vs Poland,2-2 Finland vs Poland,Draw,Friendly International
+42,42,27 Sep 1925 14:00 (+1:00),27-09-1925,"Aarhus, Aarhus Stadion",Denmark,3-3 Denmark vs Finland,3-3 Finland vs Denmark,Draw,Friendly International
+43,43,29 May 1926 18:00 (+2:00),29-05-1926,"Helsinki, Töölön Pallokenttä",Finland,2-5 Finland vs Norway,2-5 Finland vs Norway,Lost,Friendly International
+44,44,20 Jun 1926 18:00 (+2:00),20-06-1926,"Helsinki, Töölön Pallokenttä",Finland,3-2 Finland vs Denmark,3-2 Finland vs Denmark,Won,Friendly International
+45,45,26 Jul 1926 18:15 (+2:00),26-07-1926,"Helsinki, Töölön Pallokenttä",Finland,2-3 Finland vs Sweden,2-3 Finland vs Sweden,Lost,Friendly International
+46,46,08 Aug 1926 16:00 (+1:00),08-08-1926,"Poznań, Stadion Warty",Poland,7-1 Poland vs Finland,1-7 Finland vs Poland,Lost,Friendly International
+47,47,12 Aug 1926 18:30 (+2:00),12-08-1926,"Rīga, A.S.K. Stadions",Latvia,1-4 Latvia vs Finland,4-1 Finland vs Latvia,Won,Friendly International
+48,48,05 Sep 1926 12:30 (+2:00),05-09-1926,"Helsinki, Töölön Pallokenttä",Finland,1-1 Finland vs Estonia,1-1 Finland vs Estonia,Draw,Friendly International
+49,49,12 Jun 1927 13:15 (+1:00),12-06-1927,"Stockholm, Stockholms Olympiastadion",Sweden,6-2 Sweden vs Finland,2-6 Finland vs Sweden,Lost,Friendly International
+50,50,15 Jun 1927 19:30 (+1:00),15-06-1927,"Aker, Ullevaal Stadion",Norway,3-1 Norway vs Finland,1-3 Finland vs Norway,Lost,Friendly International
+51,51,10 Aug 1927 18:30 (+2:00),10-08-1927,"Tallinn, Kadrioru Staadion",Estonia,2-1 Estonia vs Finland,1-2 Finland vs Estonia,Lost,Friendly International
+52,52,11 Sep 1927 13:00 (+2:00),11-09-1927,"Helsinki, Töölön Pallokenttä",Finland,3-1 Finland vs Latvia,3-1 Finland vs Latvia,Won,Friendly International
+53,53,03 Jun 1928 14:30 (+2:00),03-06-1928,"Helsinki, Töölön Pallokenttä",Finland,0-6 Finland vs Norway,0-6 Finland vs Norway,Lost,Friendly International
+54,54,12 Aug 1928 13:00 (+2:00),12-08-1928,"Helsinki, Töölön Pallokenttä",Finland,2-2 Finland vs Estonia,2-2 Finland vs Estonia,Draw,Friendly International
+55,55,19 Aug 1928 17:00 (+2:00),19-08-1928,"Rīga, L.S.B. Stadions",Latvia,2-1 Latvia vs Finland,1-2 Finland vs Latvia,Lost,Friendly International
+56,56,02 Sep 1928 13:00 (+2:00),02-09-1928,"Helsinki, Töölön Pallokenttä",Finland,2-3 Finland vs Sweden,2-3 Finland vs Sweden,Lost,Friendly International
+57,57,14 Jun 1929 19:15 (+1:00),14-06-1929,"Stockholm, Stockholms Olympiastadion",Sweden,3-1 Sweden vs Finland,1-3 Finland vs Sweden,Lost,Nordic Football Championship 1929-1932
+58,58,18 Jun 1929 19:30 (+1:00),18-06-1929,"Aker, Ullevaal Stadion",Norway,4-0 Norway vs Finland,0-4 Finland vs Norway,Lost,Nordic Football Championship 1929-1932
+59,59,25 Jul 1929 19:00 (+2:00),25-07-1929,"Tallinn, Kadrioru Staadion",Estonia,1-1 Estonia vs Finland,1-1 Finland vs Estonia,Draw,Friendly International
+60,60,27 Aug 1929 17:45 (+1:00),27-08-1929,"Helsinki, Töölön Pallokenttä",Finland,2-1 Finland vs Estonia,2-1 Finland vs Estonia,Won,Friendly International
+61,61,15 Sep 1929 13:00 (+2:00),15-09-1929,"Helsinki, Töölön Pallokenttä",Finland,3-1 Finland vs Latvia,3-1 Finland vs Latvia,Won,Friendly International
+62,62,13 Oct 1929 13:30 (+1:00),13-10-1929,"Copenhagen, Københavns Idrætspark",Denmark,8-0 Denmark vs Finland,0-8 Finland vs Denmark,Lost,Nordic Football Championship 1929-1932
+63,63,20 Oct 1929 15:00 (+1:00),20-10-1929,"Altona, Altonaer Stadion",Germany,4-0 Germany vs Finland,0-4 Finland vs Germany,Lost,Friendly International
+64,64,01 Jun 1930 13:00 (+1:00),01-06-1930,"Aker, Ullevaal Stadion",Norway,6-2 Norway vs Finland,2-6 Finland vs Norway,Lost,Nordic Football Championship 1929-1932
+65,65,16 Jun 1930 19:00 (+2:00),16-06-1930,"Helsinki, Töölön Pallokenttä",Finland,1-6 Finland vs Denmark,1-6 Finland vs Denmark,Lost,Nordic Football Championship 1929-1932
+66,66,04 Aug 1930 18:00 (+2:00),04-08-1930,"Rīga, J.K.S. Stadions",Latvia,3-0 Latvia vs Finland,0-3 Finland vs Latvia,Lost,Friendly International
+67,67,06 Aug 1930 18:00 (+2:00),06-08-1930,"Tallinn, Kadrioru Staadion",Estonia,4-0 Estonia vs Finland,0-4 Finland vs Estonia,Lost,Friendly International
+68,68,28 Sep 1930 13:00 (+2:00),28-09-1930,"Helsinki, Töölön Pallokenttä",Finland,4-4 Finland vs Sweden,4-4 Finland vs Sweden,Draw,Nordic Football Championship 1929-1932
+69,69,17 Jun 1931 19:00 (+2:00),17-06-1931,"Helsinki, Töölön Pallokenttä",Finland,3-1 Finland vs Estonia,3-1 Finland vs Estonia,Won,Friendly International
+70,70,03 Jul 1931 19:00 (+1:00),03-07-1931,"Stockholm, Stockholms Olympiastadion",Sweden,8-2 Sweden vs Finland,2-8 Finland vs Sweden,Lost,Nordic Football Championship 1929-1932
+71,71,19 Aug 1931 18:30 (+2:00),19-08-1931,"Helsinki, Töölön Pallokenttä",Finland,4-0 Finland vs Latvia,4-0 Finland vs Latvia,Won,Friendly International
+72,72,06 Sep 1931 15:15 (+2:00),06-09-1931,"Helsinki, Töölön Pallokenttä",Finland,4-4 Finland vs Norway,4-4 Finland vs Norway,Draw,Nordic Football Championship 1929-1932
+73,73,11 Oct 1931 13:30 (+1:00),11-10-1931,"Copenhagen, Københavns Idrætspark",Denmark,2-3 Denmark vs Finland,3-2 Finland vs Denmark,Won,Nordic Football Championship 1929-1932
+74,74,16 May 1932 14:00 (+1:00),16-05-1932,"Stockholm, Stockholms Olympiastadion",Sweden,7-1 Sweden vs Finland,1-7 Finland vs Sweden,Lost,Friendly International
+75,75,10 Jun 1932 15:30 (+2:00),10-06-1932,"Helsinki, Töölön Pallokenttä",Finland,1-3 Finland vs Sweden,1-3 Finland vs Sweden,Lost,Nordic Football Championship 1929-1932
+76,76,17 Jun 1932 19:30 (+1:00),17-06-1932,"Aker, Ullevaal Stadion",Norway,2-1 Norway vs Finland,1-2 Finland vs Norway,Lost,Nordic Football Championship 1929-1932
+77,77,01 Jul 1932 19:00 (+2:00),01-07-1932,"Helsinki, Töölön Pallokenttä",Finland,1-4 Finland vs Germany,1-4 Finland vs Germany,Lost,Friendly International
+78,78,17 Aug 1932 18:30 (+2:00),17-08-1932,"Tallinn, Kadrioru Staadion",Estonia,0-3 Estonia vs Finland,3-0 Finland vs Estonia,Won,Friendly International
+79,79,30 Aug 1932 18:00 (+2:00),30-08-1932,"Helsinki, Töölön Pallokenttä",Finland,4-2 Finland vs Denmark,4-2 Finland vs Denmark,Won,Nordic Football Championship 1929-1932
+80,80,14 Jul 1933 19:00 (+1:00),14-07-1933,"Stockholm, Stockholms Olympiastadion",Sweden,2-0 Sweden vs Finland,0-2 Finland vs Sweden,Lost,Nordic Football Championship 1933-1936
+81,81,09 Aug 1933 18:30 (+2:00),09-08-1933,"Helsinki, Töölön Pallokenttä",Finland,9-2 Finland vs Lithuania,9-2 Finland vs Lithuania,Won,Friendly International
+82,82,16 Aug 1933 18:15 (+2:00),16-08-1933,"Helsinki, Töölön Pallokenttä",Finland,2-1 Finland vs Estonia,2-1 Finland vs Estonia,Won,Friendly International
+83,83,03 Sep 1933 13:00 (+2:00),03-09-1933,"Helsinki, Töölön Pallokenttä",Finland,1-5 Finland vs Norway,1-5 Finland vs Norway,Lost,Nordic Football Championship 1933-1936
+84,84,08 Oct 1933 13:30 (+1:00),08-10-1933,"Copenhagen, Københavns Idrætspark",Denmark,2-0 Denmark vs Finland,0-2 Finland vs Denmark,Lost,Nordic Football Championship 1933-1936
+85,85,03 Jul 1934 19:00 (+2:00),03-07-1934,"Helsinki, Töölön Pallokenttä",Finland,2-1 Finland vs Denmark,2-1 Finland vs Denmark,Won,Nordic Football Championship 1933-1936
+86,86,08 Aug 1934 18:30 (+2:00),08-08-1934,"Tallinn, Kadrioru Staadion",Estonia,1-1 Estonia vs Finland,1-1 Finland vs Estonia,Draw,Turaani Turniir 1934
+87,87,09 Aug 1934 18:30 (+2:00),09-08-1934,"Tallinn, Kadrioru Staadion",Estonia,4-3 Finland vs Hungary*,4-3 Finland vs Hungary*,Won,Turaani Turniir 1934
+88,88,14 Aug 1934 18:00 (+2:00),14-08-1934,"Rīga, J.K.S. Stadions",Latvia,1-1 Latvia vs Finland,1-1 Finland vs Latvia,Draw,Friendly International
+89,89,16 Aug 1934 17:00 (+2:00),16-08-1934,"Kaunas, Kariuomenės Stadionas",Lithuania,1-0 Lithuania vs Finland,0-1 Finland vs Lithuania,Lost,Friendly International
+90,90,02 Sep 1934 13:15 (+1:00),02-09-1934,"Aker, Ullevaal Stadion",Norway,4-2 Norway vs Finland,2-4 Finland vs Norway,Lost,Nordic Football Championship 1933-1936
+91,91,23 Sep 1934 14:15 (+2:00),23-09-1934,"Helsinki, Töölön Pallokenttä",Finland,5-4 Finland vs Sweden,5-4 Finland vs Sweden,Won,Nordic Football Championship 1933-1936
+92,92,06 Jun 1935 19:00 (+2:00),06-06-1935,"Helsinki, Töölön Pallokenttä",Finland,4-1 Finland vs Latvia,4-1 Finland vs Latvia,Won,Friendly International
+93,93,12 Jun 1935 19:15 (+1:00),12-06-1935,"Stockholm, Stockholms Olympiastadion",Sweden,2-2 Sweden vs Finland,2-2 Finland vs Sweden,Draw,Nordic Football Championship 1933-1936
+94,94,07 Aug 1935 18:30 (+2:00),07-08-1935,"Helsinki, Töölön Pallokenttä",Finland,2-2 Finland vs Estonia,2-2 Finland vs Estonia,Draw,Friendly International
+95,95,18 Aug 1935 16:00 (+1:00),18-08-1935,"Munich, 1860 Heinrich Zisch Stadion",Germany,6-0 Germany vs Finland,0-6 Finland vs Germany,Lost,Friendly International
+96,96,08 Sep 1935 13:00 (+2:00),08-09-1935,"Helsinki, Töölön Pallokenttä",Finland,1-5 Finland vs Norway,1-5 Finland vs Norway,Lost,Nordic Football Championship 1933-1936
+97,97,06 Oct 1935 13:30 (+1:00),06-10-1935,"Copenhagen, Københavns Idrætspark",Denmark,5-1 Denmark vs Finland,1-5 Finland vs Denmark,Lost,Nordic Football Championship 1933-1936
+98,98,30 Jun 1936 19:00 (+2:00),30-06-1936,"Helsinki, Töölön Pallokenttä",Finland,1-4 Finland vs Denmark,1-4 Finland vs Denmark,Lost,Nordic Football Championship 1933-1936
+99,99,06 Aug 1936 17:30 (+1:00),06-08-1936,"Berlin, Stadion am Gesundbrunnen (Plumpe)",Germany,7-3 Peru vs Finland,3-7 Finland vs Peru,Lost,"XI. Olympic Games Final Tournament 1936, First round"
+100,100,20 Aug 1936 18:00 (+2:00),20-08-1936,"Tallinn, Kadrioru Staadion",Estonia,2-2 Estonia vs Finland,2-2 Finland vs Estonia,Draw,Friendly International
+101,101,06 Sep 1936 13:15 (+1:00),06-09-1936,"Aker, Ullevaal Stadion",Norway,0-2 Norway vs Finland,2-0 Finland vs Norway,Won,Nordic Football Championship 1933-1936
+102,102,27 Sep 1936 13:00 (+2:00),27-09-1936,"Helsinki, Töölön Pallokenttä",Finland,1-2 Finland vs Sweden,1-2 Finland vs Sweden,Lost,Nordic Football Championship 1933-1936
+103,103,20 May 1937 18:30 (+2:00),20-05-1937,"Helsinki, Töölön Pallokenttä",Finland,0-8 Finland vs England,0-8 Finland vs England,Lost,Friendly International
+104,104,16 Jun 1937 19:30 (+1:00),16-06-1937,"Solna, Råsunda Fotbollstadion",Sweden,4-0 Sweden vs Finland,0-4 Finland vs Sweden,Lost,"1938 FIFA World Cup Qualification, Nordic Football Championship 1937-1947, Group 1"
+105,105,29 Jun 1937 19:00 (+2:00),29-06-1937,"Helsinki, Töölön Pallokenttä",Finland,0-2 Finland vs Germany,0-2 Finland vs Germany,Lost,"1938 FIFA World Cup Qualification, Group 1"
+106,106,19 Aug 1937 18:00 (+2:00),19-08-1937,"Turku, Urheilupuisto",Finland,0-1 Finland vs Estonia,0-1 Finland vs Estonia,Lost,"1938 FIFA World Cup Qualification, Group 1"
+107,107,05 Sep 1937 12:30 (+2:00),05-09-1937,"Helsinki, Töölön Pallokenttä",Finland,0-2 Finland vs Norway,0-2 Finland vs Norway,Lost,Nordic Football Championship 1937-1947
+108,108,17 Oct 1937 13:30 (+1:00),17-10-1937,"Copenhagen, Københavns Idrætspark",Denmark,2-1 Denmark vs Finland,1-2 Finland vs Denmark,Lost,Nordic Football Championship 1937-1947
+109,109,15 Jun 1938 19:30 (+1:00),15-06-1938,"Solna, Råsunda Fotbollstadion",Sweden,2-0 Sweden vs Finland,0-2 Finland vs Sweden,Lost,Friendly International
+110,110,17 Jun 1938 19:30 (+1:00),17-06-1938,"Aker, Ullevaal Stadion",Norway,9-0 Norway vs Finland,0-9 Finland vs Norway,Lost,Nordic Football Championship 1937-1947
+111,111,04 Jul 1938 19:00 (+2:00),04-07-1938,"Helsinki, Helsingin Olympiastadion",Finland,2-4 Finland vs Sweden,2-4 Finland vs Sweden,Lost,Nordic Football Championship 1937-1947
+112,112,17 Aug 1938 18:30 (+2:00),17-08-1938,"Tallinn, Kadrioru Staadion",Estonia,1-3 Estonia vs Finland,3-1 Finland vs Estonia,Won,Friendly International
+113,113,31 Aug 1938 18:00 (+2:00),31-08-1938,"Helsinki, Töölön Pallokenttä",Finland,2-1 Finland vs Denmark,2-1 Finland vs Denmark,Won,Nordic Football Championship 1937-1947
+114,114,18 Sep 1938 14:00 (+2:00),18-09-1938,"Helsinki, Helsingin Olympiastadion",Finland,3-1 Finland vs Lithuania,3-1 Finland vs Lithuania,Won,Friendly International
+115,115,09 Jun 1939 19:30 (+1:00),09-06-1939,"Solna, Råsunda Fotbollstadion",Sweden,5-1 Sweden vs Finland,1-5 Finland vs Sweden,Lost,Nordic Football Championship 1937-1947
+116,116,15 Jun 1939 19:00 (+1:00),15-06-1939,"Copenhagen, Københavns Idrætspark",Denmark,5-0 Denmark vs Finland,0-5 Finland vs Denmark,Lost,"Dansk Boldspil-Union 50th Anniversary Tournament, Semifinal"
+117,117,20 Jul 1939 19:00 (+2:00),20-07-1939,"Helsinki, Helsingin Olympiastadion",Finland,2-3 Finland vs Italy,2-3 Finland vs Italy,Lost,Friendly International
+118,118,04 Aug 1939 19:00 (+2:00),04-08-1939,"Helsinki, Helsingin Olympiastadion",Finland,4-2 Finland vs Estonia,4-2 Finland vs Estonia,Won,Friendly International
+119,119,03 Sep 1939 17:00 (+2:00),03-09-1939,"Helsinki, Helsingin Olympiastadion",Finland,1-2 Finland vs Norway,1-2 Finland vs Norway,Lost,Nordic Football Championship 1937-1947
+120,120,17 Sep 1939 13:30 (+1:00),17-09-1939,"Copenhagen, Københavns Idrætspark",Denmark,8-1 Denmark vs Finland,1-8 Finland vs Denmark,Lost,Nordic Football Championship 1937-1947
+121,121,24 Sep 1939 14:00 (+2:00),24-09-1939,"Helsinki, Helsingin Olympiastadion",Finland,0-3 Finland vs Latvia,0-3 Finland vs Latvia,Lost,Friendly International
+122,122,29 Aug 1940 18:10 (+2:00),29-08-1940,"Helsinki, Helsingin Olympiastadion",Finland,2-3 Finland vs Sweden,2-3 Finland vs Sweden,Lost,Friendly International
+123,123,01 Sep 1940 15:30 (+2:00),01-09-1940,"Leipzig, Probstheidaer Stadion",Germany,13-0 Germany vs Finland,0-13 Finland vs Germany,Lost,Friendly International
+124,124,22 Sep 1940 14:00 (+1:00),22-09-1940,"Solna, Råsunda Fotbollstadion",Sweden,5-0 Sweden vs Finland,0-5 Finland vs Sweden,Lost,Friendly International
+125,125,05 Oct 1941 14:00 (+2:00),05-10-1941,"Helsinki, Helsingin Olympiastadion",Finland,0-6 Finland vs Germany,0-6 Finland vs Germany,Lost,Friendly International
+126,126,15 Sep 1943 17:30 (+2:00),15-09-1943,"Helsinki, Helsingin Olympiastadion",Finland,0-3 Finland vs Hungary,0-3 Finland vs Hungary,Lost,Friendly International
+127,127,03 Oct 1943 14:00 (+2:00),03-10-1943,"Helsinki, Helsingin Olympiastadion",Finland,1-1 Finland vs Sweden,1-1 Finland vs Sweden,Draw,Friendly International
+128,128,26 Aug 1945 15:00 (+1:00),26-08-1945,"Gothenburg, Ullevi Stadion",Sweden,7-2 Sweden vs Finland,2-7 Finland vs Sweden,Lost,Friendly International
+129,129,30 Sep 1945 15:00 (+2:00),30-09-1945,"Helsinki, Helsingin Olympiastadion",Finland,1-6 Finland vs Sweden,1-6 Finland vs Sweden,Lost,Friendly International
+130,130,28 Jun 1946 18:00 (+1:00),28-06-1946,"Bergen, Brann Stadion",Norway,12-0 Norway vs Finland,0-12 Finland vs Norway,Lost,Friendly International
+131,131,01 Sep 1946 14:00 (+2:00),01-09-1946,"Helsinki, Helsingin Olympiastadion",Finland,2-5 Finland vs Denmark,2-5 Finland vs Denmark,Lost,Friendly International
+132,132,15 Sep 1946 13:15 (+2:00),15-09-1946,"Helsinki, Helsingin Olympiastadion",Finland,0-7 Finland vs Sweden,0-7 Finland vs Sweden,Lost,Friendly International
+133,133,26 Jun 1947 19:00 (+2:00),26-06-1947,"Helsinki, Helsingin Olympiastadion",Finland,1-2 Finland vs Norway,1-2 Finland vs Norway,Lost,"Suomen Palloliitto 40th Anniversary Tournament, Semifinal"
+134,134,24 Aug 1947 13:30 (+1:00),24-08-1947,"Borås, Ryavallen",Sweden,7-0 Sweden vs Finland,0-7 Finland vs Sweden,Lost,Nordic Football Championship 1937-1947
+135,135,07 Sep 1947 15:00 (+2:00),07-09-1947,"Helsinki, Helsingin Olympiastadion",Finland,3-3 Finland vs Norway,3-3 Finland vs Norway,Draw,Nordic Football Championship 1937-1947
+136,136,17 Sep 1947 15:30 (+2:00),17-09-1947,"Helsinki, Helsingin Olympiastadion",Finland,1-4 Finland vs Poland,1-4 Finland vs Poland,Lost,Friendly International
+137,137,05 Oct 1947 13:30 (+1:00),05-10-1947,"Aarhus, Aarhus Stadion",Denmark,4-1 Denmark vs Finland,1-4 Finland vs Denmark,Lost,Nordic Football Championship 1937-1947
+138,138,15 Jun 1948 19:00 (+2:00),15-06-1948,"Helsinki, Helsingin Olympiastadion",Finland,0-3 Finland vs Denmark,0-3 Finland vs Denmark,Lost,Nordic Football Championship 1948-1951
+139,139,02 Jul 1948 20:30,02-07-1948,"Reykjavík, Melavöllur",Iceland,2-0 Iceland vs Finland,0-2 Finland vs Iceland,Lost,Friendly International
+140,140,05 Sep 1948 13:15 (+1:00),05-09-1948,"Oslo, Ullevaal Stadion",Norway,2-0 Norway vs Finland,0-2 Finland vs Norway,Lost,Nordic Football Championship 1948-1951
+141,141,19 Sep 1948 14:00 (+2:00),19-09-1948,"Helsinki, Helsingin Olympiastadion",Finland,2-2 Finland vs Sweden,2-2 Finland vs Sweden,Draw,Nordic Football Championship 1948-1951
+142,142,17 Oct 1948 14:00 (+1:00),17-10-1948,"Warsaw, Stadion Wojska Polskiego",Poland,1-0 Poland vs Finland,0-1 Finland vs Poland,Lost,Friendly International
+143,143,15 May 1949 14:00 (+2:00),15-05-1949,"Helsinki, Helsingin Olympiastadion",Finland,0-4 Finland vs England*,0-4 Finland vs England*,Lost,Friendly International
+144,144,16 Jun 1949 18:00 (+2:00),16-06-1949,"Helsinki, Helsingin Olympiastadion",Finland,1-4 Finland vs Netherlands,1-4 Finland vs Netherlands,Lost,Friendly International
+145,145,08 Jul 1949 19:00 (+2:00),08-07-1949,"Helsinki, Helsingin Olympiastadion",Finland,1-1 Finland vs Norway,1-1 Finland vs Norway,Draw,Nordic Football Championship 1948-1951
+146,146,08 Sep 1949 18:30 (+1:00),08-09-1949,"Dublin, Dalymount Park",Ireland,3-0 Rep. of Ireland vs Finland,0-3 Finland vs Rep. of Ireland,Lost,"1950 FIFA World Cup Qualification, Group 5"
+147,147,11 Sep 1949 13:30 (+1:00),11-09-1949,"Copenhagen, Københavns Idrætspark",Denmark,0-2 Denmark vs Finland,2-0 Finland vs Denmark,Won,Nordic Football Championship 1948-1951
+148,148,02 Oct 1949 13:30 (+1:00),02-10-1949,"Malmö, Malmö Idrottsplats",Sweden,8-1 Sweden vs Finland,1-8 Finland vs Sweden,Lost,Nordic Football Championship 1948-1951
+149,149,09 Oct 1949 14:00 (+2:00),09-10-1949,"Helsinki, Helsingin Olympiastadion",Finland,1-1 Finland vs Rep. of Ireland,1-1 Finland vs Rep. of Ireland,Draw,"1950 FIFA World Cup Qualification, Group 5"
+150,150,11 Jun 1950 12:30 (+2:00),11-06-1950,"Helsinki, Helsingin Olympiastadion",Finland,4-1 Finland vs Netherlands,4-1 Finland vs Netherlands,Won,Friendly International
+151,151,27 Aug 1950 15:00 (+2:00),27-08-1950,"Helsinki, Helsingin Olympiastadion",Finland,1-2 Finland vs Denmark,1-2 Finland vs Denmark,Lost,Nordic Football Championship 1948-1951
+152,152,07 Sep 1950 17:30 (+2:00),07-09-1950,"Helsinki, Helsingin Olympiastadion",Finland,3-2 Finland vs Yugoslavia,3-2 Finland vs Yugoslavia,Won,Friendly International
+153,153,10 Sep 1950 13:15 (+1:00),10-09-1950,"Oslo, Ullevaal Stadion",Norway,4-1 Norway vs Finland,1-4 Finland vs Norway,Lost,Nordic Football Championship 1948-1951
+154,154,24 Sep 1950 14:00 (+2:00),24-09-1950,"Helsinki, Helsingin Olympiastadion",Finland,0-1 Finland vs Sweden,0-1 Finland vs Sweden,Lost,Nordic Football Championship 1948-1951
+155,155,10 May 1951 18:30 (+1:00),10-05-1951,"Swindon, County Ground",United Kingdom,3-2 England* vs Finland,2-3 Finland vs England*,Lost,Friendly International
+156,156,16 Aug 1951 18:30 (+2:00),16-08-1951,"Helsinki, Helsingin Olympiastadion",Finland,1-1 Finland vs Norway,1-1 Finland vs Norway,Draw,Nordic Football Championship 1948-1951
+157,157,02 Sep 1951 15:00 (+2:00),02-09-1951,"Solna, Råsunda Fotbollstadion",Sweden,3-2 Sweden vs Finland,2-3 Finland vs Sweden,Lost,Nordic Football Championship 1948-1951
+158,158,30 Sep 1951 13:30 (+1:00),30-09-1951,"Copenhagen, Københavns Idrætspark",Denmark,1-0 Denmark vs Finland,0-1 Finland vs Denmark,Lost,Nordic Football Championship 1948-1951
+159,159,27 Oct 1951 15:30 (+1:00),27-10-1951,"Rotterdam, Stadion de Kuip (Feijenoord)",Netherlands,4-4 Netherlands vs Finland,4-4 Finland vs Netherlands,Draw,Friendly International
+160,160,04 Nov 1951 15:00 (+1:00),04-11-1951,"Luxembourg City, Stade Municipal",Luxembourg,3-0 Luxembourg vs Finland,0-3 Finland vs Luxembourg,Lost,Friendly International
+161,161,18 Nov 1951 13:30 (+1:00),18-11-1951,"Budapest, Megyeri úti Stadion",Hungary,8-0 Hungary vs Finland,0-8 Finland vs Hungary,Lost,Friendly International
+162,162,10 Jun 1952 19:00 (+1:00),10-06-1952,"Oslo, Bislett Stadion",Norway,1-2 Norway vs Finland,2-1 Finland vs Norway,Won,"Norges Fotballforbund 50th Anniversary Match, Semifinal"
+163,163,13 Jun 1952,13-06-1952,"Oslo, Ullevaal Stadion",Norway,3-1 Finland vs Sweden,3-1 Finland vs Sweden,Won,"Norges Fotballforbund 50th Anniversary Match, Final"
+164,164,22 Jun 1952 15:00 (+2:00),22-06-1952,"Helsinki, Helsingin Olympiastadion",Finland,1-6 Finland vs Hungary,1-6 Finland vs Hungary,Lost,Friendly International
+165,165,19 Jul 1952 19:00 (+2:00),19-07-1952,"Helsinki, Helsingin Olympiastadion",Finland,3-4 Finland vs Austria*,3-4 Finland vs Austria*,Lost,"XV. Olympic Games Final Tournament 1952, First round"
+166,166,04 Aug 1952 18:00 (+2:00),04-08-1952,"Helsinki, Töölön Pallokenttä",Finland,4-0 Finland vs China,4-0 Finland vs China,Won,Friendly International
+167,167,31 Aug 1952 13:15 (+1:00),31-08-1952,"Oslo, Ullevaal Stadion",Norway,7-2 Norway vs Finland,2-7 Finland vs Norway,Lost,Nordic Football Championship 1952-1955
+168,168,21 Sep 1952 14:00 (+2:00),21-09-1952,"Helsinki, Helsingin Olympiastadion",Finland,1-8 Finland vs Sweden,1-8 Finland vs Sweden,Lost,Nordic Football Championship 1952-1955
+169,169,05 Oct 1952 14:00 (+2:00),05-10-1952,"Helsinki, Helsingin Olympiastadion",Finland,2-1 Finland vs Denmark,2-1 Finland vs Denmark,Won,Nordic Football Championship 1952-1955
+170,170,25 May 1953 19:00 (+2:00),25-05-1953,"Helsinki, Helsingin Olympiastadion",Finland,2-4 Finland vs Belgium,2-4 Finland vs Belgium,Lost,"1954 FIFA World Cup Qualification, Group 2"
+171,171,05 Aug 1953 18:30 (+2:00),05-08-1953,"Helsinki, Helsingin Olympiastadion",Finland,3-3 Finland vs Sweden,3-3 Finland vs Sweden,Draw,"1954 FIFA World Cup Qualification, Group 2"
+172,172,16 Aug 1953 15:00 (+1:00),16-08-1953,"Solna, Råsunda Fotbollstadion",Sweden,4-0 Sweden vs Finland,0-4 Finland vs Sweden,Lost,"1954 FIFA World Cup Qualification, Nordic Football Championship 1952-1955, Group 2"
+173,173,30 Aug 1953 14:00 (+2:00),30-08-1953,"Helsinki, Helsingin Olympiastadion",Finland,1-4 Finland vs Norway,1-4 Finland vs Norway,Lost,Nordic Football Championship 1952-1955
+174,174,23 Sep 1953 17:00 (+1:00),23-09-1953,"Brussels, Stade du Heysel",Belgium,2-2 Belgium vs Finland,2-2 Finland vs Belgium,Draw,"1954 FIFA World Cup Qualification, Group 2"
+175,175,04 Oct 1953 13:30 (+1:00),04-10-1953,"Copenhagen, Københavns Idrætspark",Denmark,6-1 Denmark vs Finland,1-6 Finland vs Denmark,Lost,Nordic Football Championship 1952-1955
+176,176,25 May 1954 19:00 (+2:00),25-05-1954,"Helsinki, Helsingin Olympiastadion",Finland,1-2 Finland vs Scotland,1-2 Finland vs Scotland,Lost,Friendly International
+177,177,04 Jun 1954 19:00 (+1:00),04-06-1954,"Gothenburg, Ullevi Stadion",Sweden,6-0 Sweden vs Finland,0-6 Finland vs Sweden,Lost,"Svenska Fotbollförbundet 50th Anniversary Tournament, Semifinal"
+178,178,13 Jun 1954 18:00 (+2:00),13-06-1954,"Helsinki, Helsingin Olympiastadion",Finland,2-2 Finland vs Denmark,2-2 Finland vs Denmark,Draw,Nordic Football Championship 1952-1955
+179,179,15 Aug 1954 17:00 (+2:00),15-08-1954,"Helsinki, Helsingin Olympiastadion",Finland,1-10 Finland vs Sweden,1-10 Finland vs Sweden,Lost,Nordic Football Championship 1952-1955
+180,180,29 Aug 1954 13:15 (+1:00),29-08-1954,"Oslo, Ullevaal Stadion",Norway,3-1 Norway vs Finland,1-3 Finland vs Norway,Lost,Nordic Football Championship 1952-1955
+181,181,19 May 1955 14:00 (+2:00),19-05-1955,"Helsinki, Helsingin Olympiastadion",Finland,1-9 Finland vs Hungary,1-9 Finland vs Hungary,Lost,Friendly International
+182,182,19 Jun 1955 13:30 (+1:00),19-06-1955,"Copenhagen, Københavns Idrætspark",Denmark,2-1 Denmark vs Finland,1-2 Finland vs Denmark,Lost,Nordic Football Championship 1952-1955
+183,183,14 Aug 1955 19:00 (+2:00),14-08-1955,"Helsinki, Helsingin Olympiastadion",Finland,1-3 Finland vs Norway,1-3 Finland vs Norway,Lost,Nordic Football Championship 1952-1955
+184,184,28 Aug 1955 13:30 (+1:00),28-08-1955,"Hälsingborg, Olympia Stadion",Sweden,3-0 Sweden vs Finland,0-3 Finland vs Sweden,Lost,Nordic Football Championship 1952-1955
+185,185,11 Sep 1955 15:30 (+2:00),11-09-1955,"Helsinki, Helsingin Olympiastadion",Finland,1-3 Finland vs Poland,1-3 Finland vs Poland,Lost,Friendly International
+186,186,13 Nov 1955,13-11-1955,"Split, Hajdukove Igralište",Croatia,8-0 Yugoslavia* vs Finland,0-8 Finland vs Yugoslavia*,Lost,Friendly International
+187,187,20 May 1956 14:00 (+2:00),20-05-1956,"Helsinki, Helsingin Olympiastadion",Finland,1-5 Finland vs England,1-5 Finland vs England,Lost,Friendly International
+188,188,10 Jun 1956 14:00 (+2:00),10-06-1956,"Helsinki, Helsingin Olympiastadion",Finland,1-3 Finland vs Sweden,1-3 Finland vs Sweden,Lost,Nordic Football Championship 1956-1959
+189,189,29 Jun 1956 19:00 (+2:00),29-06-1956,"Helsinki, Helsingin Olympiastadion",Finland,2-1 Finland vs Iceland,2-1 Finland vs Iceland,Won,Friendly International
+190,190,26 Aug 1956 13:15 (+1:00),26-08-1956,"Oslo, Ullevaal Stadion",Norway,1-1 Norway vs Finland,1-1 Finland vs Norway,Draw,Nordic Football Championship 1956-1959
+191,191,16 Sep 1956 14:00 (+2:00),16-09-1956,"Helsinki, Helsingin Olympiastadion",Finland,0-4 Finland vs Denmark,0-4 Finland vs Denmark,Lost,Nordic Football Championship 1956-1959
+192,192,04 Nov 1956 12:00 (+1:00),04-11-1956,"Kraków, Stadion Wisły",Poland,5-0 Poland vs Finland,0-5 Finland vs Poland,Lost,Friendly International
+193,193,18 Jun 1957 19:00 (+2:00),18-06-1957,"Helsinki, Helsingin Olympiastadion",Finland,2-0 Finland vs Denmark,2-0 Finland vs Denmark,Won,"Suomen Palloliitto 50th Anniversary Tournament, Semifinal"
+194,194,19 Jun 1957 19:00 (+2:00),19-06-1957,"Helsinki, Helsingin Olympiastadion",Finland,1-5 Finland vs Sweden,1-5 Finland vs Sweden,Lost,"Suomen Palloliitto 50th Anniversary Tournament, Final"
+195,195,05 Jul 1957 19:00 (+2:00),05-07-1957,"Helsinki, Helsingin Olympiastadion",Finland,1-3 Finland vs Poland,1-3 Finland vs Poland,Lost,"1958 FIFA World Cup Qualification, Group 6"
+196,196,27 Jul 1957 17:00 (+3:00),27-07-1957,"Moscow, Dynamo Stadium",Russia,2-1 Soviet Union vs Finland,1-2 Finland vs Soviet Union,Lost,"1958 FIFA World Cup Qualification, Group 6"
+197,197,15 Aug 1957 18:30 (+2:00),15-08-1957,"Helsinki, Helsingin Olympiastadion",Finland,0-10 Finland vs Soviet Union,0-10 Finland vs Soviet Union,Lost,"1958 FIFA World Cup Qualification, Group 6"
+198,198,01 Sep 1957 14:00 (+2:00),01-09-1957,"Helsinki, Helsingin Olympiastadion",Finland,0-4 Finland vs Norway,0-4 Finland vs Norway,Lost,Nordic Football Championship 1956-1959
+199,199,15 Sep 1957 14:00 (+2:00),15-09-1957,"Helsinki, Helsingin Olympiastadion",Finland,4-3 Finland vs England*,4-3 Finland vs England*,Won,Friendly International
+200,200,22 Sep 1957 14:00 (+1:00),22-09-1957,"Solna, Råsunda Fotbollstadion",Sweden,5-1 Sweden vs Finland,1-5 Finland vs Sweden,Lost,Nordic Football Championship 1956-1959
+201,201,13 Oct 1957 13:30 (+1:00),13-10-1957,"Copenhagen, Københavns Idrætspark",Denmark,3-0 Denmark vs Finland,0-3 Finland vs Denmark,Lost,Nordic Football Championship 1956-1959
+202,202,03 Nov 1957 12:00 (+1:00),03-11-1957,"Warsaw, Stadion Dziesięciolecia Manifestu Lipcowego",Poland,4-0 Poland vs Finland,0-4 Finland vs Poland,Lost,"1958 FIFA World Cup Qualification, Group 6"
+203,203,15 Jun 1958 18:00 (+1:00),15-06-1958,"Oslo, Ullevaal Stadion",Norway,2-0 Norway vs Finland,0-2 Finland vs Norway,Lost,Nordic Football Championship 1956-1959
+204,204,20 Aug 1958 18:15 (+2:00),20-08-1958,"Helsinki, Helsingin Olympiastadion",Finland,1-7 Finland vs Sweden,1-7 Finland vs Sweden,Lost,Nordic Football Championship 1956-1959
+205,205,14 Sep 1958 14:00 (+2:00),14-09-1958,"Helsinki, Helsingin Olympiastadion",Finland,1-4 Finland vs Denmark,1-4 Finland vs Denmark,Lost,Nordic Football Championship 1956-1959
+206,206,11 Oct 1958,11-10-1958,"Dulwich, Champion Hill",United Kingdom,3-2 England* vs Finland,2-3 Finland vs England*,Lost,Friendly International
+207,207,28 Jun 1959 19:00 (+2:00),28-06-1959,"Helsinki, Helsingin Olympiastadion",Finland,2-4 Finland vs Norway,2-4 Finland vs Norway,Lost,Nordic Football Championship 1956-1959
+208,208,02 Aug 1959 18:00 (+1:00),02-08-1959,"Malmö, Malmö Stadion",Sweden,3-1 Sweden vs Finland,1-3 Finland vs Sweden,Lost,Nordic Football Championship 1956-1959
+209,209,06 Sep 1959 14:00 (+2:00),06-09-1959,"Helsinki, Helsingin Olympiastadion",Finland,3-2 Finland vs East Germany,3-2 Finland vs East Germany,Won,Friendly International
+210,210,04 Oct 1959 13:30 (+1:00),04-10-1959,"Copenhagen, Københavns Idrætspark",Denmark,4-0 Denmark vs Finland,0-4 Finland vs Denmark,Lost,Nordic Football Championship 1956-1959
+211,211,18 Oct 1959 14:00 (+2:00),18-10-1959,"Helsinki, Helsingin Olympiastadion",Finland,1-3 Finland vs Poland,1-3 Finland vs Poland,Lost,"XVII. Olympic Games Qualifying Tournament, Group 2"
+212,212,08 Nov 1959 12:00 (+1:00),08-11-1959,"Chorzów, Stadion Śląski",Poland,6-2 Poland vs Finland,2-6 Finland vs Poland,Lost,"XVII. Olympic Games Qualifying Tournament, Group 2"
+213,213,11 Nov 1959 14:30 (+1:00),11-11-1959,"Siegen, Leimbachstadion",Germany,2-1 West Germany* vs Finland,1-2 Finland vs West Germany*,Lost,"XVII. Olympic Games Qualifying Tournament, Group 2"
+214,214,18 May 1960 18:30 (+2:00),18-05-1960,"Helsinki, Helsingin Olympiastadion",Finland,3-2 Finland vs West Germany*,3-2 Finland vs West Germany*,Won,"XVII. Olympic Games Qualifying Tournament, Group 2"
+215,215,22 Jun 1960 19:00 (+2:00),22-06-1960,"Helsinki, Helsingin Olympiastadion",Finland,0-3 Finland vs Sweden,0-3 Finland vs Sweden,Lost,Nordic Football Championship 1960-1963
+216,216,10 Aug 1960 18:00 (+1:00),10-08-1960,"Copenhagen, Københavns Idrætspark",Denmark,2-1 Denmark vs Finland,1-2 Finland vs Denmark,Lost,Nordic Football Championship 1960-1963
+217,217,28 Aug 1960 13:15 (+2:00),28-08-1960,"Oslo, Ullevaal Stadion",Norway,6-3 Norway vs Finland,3-6 Finland vs Norway,Lost,Nordic Football Championship 1960-1963
+218,218,25 Sep 1960 14:00 (+2:00),25-09-1960,"Helsinki, Helsingin Olympiastadion",Finland,1-2 Finland vs France,1-2 Finland vs France,Lost,"1962 FIFA World Cup Qualification, Group 2"
+219,219,30 Oct 1960 14:00 (+1:00),30-10-1960,"Rostock, Ostseestadion",Germany,5-1 East Germany vs Finland,1-5 Finland vs East Germany,Lost,Friendly International
+220,220,16 Jun 1961 19:00 (+2:00),16-06-1961,"Helsinki, Helsingin Olympiastadion",Finland,0-2 Finland vs Bulgaria,0-2 Finland vs Bulgaria,Lost,"1962 FIFA World Cup Qualification, Group 2"
+221,221,27 Jun 1961 18:00 (+2:00),27-06-1961,"Helsinki, Helsingin Olympiastadion",Finland,4-1 Finland vs Norway,4-1 Finland vs Norway,Won,Nordic Football Championship 1960-1963
+222,222,09 Aug 1961 18:30 (+1:00),09-08-1961,"Norrköping, Norrköpings Idrottspark",Sweden,4-0 Sweden vs Finland,0-4 Finland vs Sweden,Lost,Nordic Football Championship 1960-1963
+223,223,28 Sep 1961 17:00 (+1:00),28-09-1961,"Paris, Parc des Princes",France,5-1 France vs Finland,1-5 Finland vs France,Lost,"1962 FIFA World Cup Qualification, Group 2"
+224,224,15 Oct 1961 13:30 (+1:00),15-10-1961,"Copenhagen, Københavns Idrætspark",Denmark,9-1 Denmark vs Finland,1-9 Finland vs Denmark,Lost,Nordic Football Championship 1960-1963
+225,225,29 Oct 1961 15:30 (+2:00),29-10-1961,"Sofia, National Stadium Vasil Levski",Bulgaria,3-1 Bulgaria vs Finland,1-3 Finland vs Bulgaria,Lost,"1962 FIFA World Cup Qualification, Group 2"
+226,226,19 Jun 1962 19:00 (+2:00),19-06-1962,"Helsinki, Helsingin Olympiastadion",Finland,0-3 Finland vs Sweden,0-3 Finland vs Sweden,Lost,Nordic Football Championship 1960-1963
+227,227,26 Aug 1962 13:15 (+2:00),26-08-1962,"Bergen, Brann Stadion",Norway,2-1 Norway vs Finland,1-2 Finland vs Norway,Lost,Nordic Football Championship 1960-1963
+228,228,16 Sep 1962 13:30 (+2:00),16-09-1962,"Helsinki, Helsingin Olympiastadion",Finland,1-6 Finland vs Denmark,1-6 Finland vs Denmark,Lost,Nordic Football Championship 1960-1963
+229,229,03 Jun 1963 13:30 (+1:00),03-06-1963,"Copenhagen, Københavns Idrætspark",Denmark,1-1 Denmark vs Finland,1-1 Finland vs Denmark,Draw,Nordic Football Championship 1960-1963
+230,230,27 Jun 1963 19:00 (+2:00),27-06-1963,"Helsinki, Helsingin Olympiastadion",Finland,2-0 Finland vs Norway,2-0 Finland vs Norway,Won,Nordic Football Championship 1960-1963
+231,231,22 Jul 1963 18:30 (+3:00),22-07-1963,"Kiev, Central Stadium",Ukraine,7-0 Soviet Union* vs Finland,0-7 Finland vs Soviet Union*,Lost,"XVIII. Olympic Games Qualifying Tournament, First round"
+232,232,01 Aug 1963 19:00 (+2:00),01-08-1963,"Helsinki, Helsingin Olympiastadion",Finland,0-4 Finland vs Soviet Union*,0-4 Finland vs Soviet Union*,Lost,"XVIII. Olympic Games Qualifying Tournament, First round"
+233,233,14 Aug 1963 19:00 (+1:00),14-08-1963,"Solna, Råsunda Fotbollstadion",Sweden,0-0 Sweden vs Finland,0-0 Finland vs Sweden,Draw,Nordic Football Championship 1960-1963
+234,234,07 Jun 1964 14:00 (+2:00),07-06-1964,"Helsinki, Helsingin Olympiastadion",Finland,1-4 Finland vs West Germany,1-4 Finland vs West Germany,Lost,Friendly International
+235,235,02 Aug 1964 18:00 (+2:00),02-08-1964,"Helsinki, Helsingin Olympiastadion",Finland,1-0 Finland vs Sweden,1-0 Finland vs Sweden,Won,Nordic Football Championship 1964-1967
+236,236,20 Aug 1964 18:30 (+2:00),20-08-1964,"Trondheim, Lerkendal Stadion",Norway,2-0 Norway vs Finland,0-2 Finland vs Norway,Lost,Nordic Football Championship 1964-1967
+237,237,23 Aug 1964 16:00,23-08-1964,"Reykjavík, Laugardalsvöllur",Iceland,0-2 Iceland vs Finland,2-0 Finland vs Iceland,Won,Friendly International
+238,238,06 Sep 1964 15:00 (+2:00),06-09-1964,"Helsinki, Helsingin Olympiastadion",Finland,2-1 Finland vs Denmark,2-1 Finland vs Denmark,Won,Nordic Football Championship 1964-1967
+239,239,21 Oct 1964 19:30 (+1:00),21-10-1964,"Glasgow, Hampden Park",United Kingdom (Scotland),3-1 Scotland vs Finland,1-3 Finland vs Scotland,Lost,"1966 FIFA World Cup Qualification, Group 8"
+240,240,04 Nov 1964 14:45 (+1:00),04-11-1964,"Genoa, Stadio Comunale Luigi Ferraris (Marassi)",Italy,6-1 Italy vs Finland,1-6 Finland vs Italy,Lost,"1966 FIFA World Cup Qualification, Group 8"
+241,241,27 May 1965 17:00 (+2:00),27-05-1965,"Helsinki, Helsingin Olympiastadion",Finland,1-2 Finland vs Scotland,1-2 Finland vs Scotland,Lost,"1966 FIFA World Cup Qualification, Group 8"
+242,242,09 Jun 1965 19:00 (+1:00),09-06-1965,"Copenhagen, Københavns Idrætspark",Denmark,3-1 Denmark vs Finland,1-3 Finland vs Denmark,Lost,Nordic Football Championship 1964-1967
+243,243,23 Jun 1965 19:00 (+2:00),23-06-1965,"Helsinki, Helsingin Olympiastadion",Finland,0-2 Finland vs Italy,0-2 Finland vs Italy,Lost,"1966 FIFA World Cup Qualification, Group 8"
+244,244,08 Aug 1965 18:30 (+2:00),08-08-1965,"Helsinki, Helsingin Olympiastadion",Finland,4-0 Finland vs Norway,4-0 Finland vs Norway,Won,Nordic Football Championship 1964-1967
+245,245,22 Aug 1965 13:30 (+1:00),22-08-1965,"Luleå, Skogsvallen",Sweden,2-2 Sweden vs Finland,2-2 Finland vs Sweden,Draw,Nordic Football Championship 1964-1967
+246,246,26 Sep 1965 14:00 (+2:00),26-09-1965,"Helsinki, Helsingin Olympiastadion",Finland,2-0 Finland vs Poland,2-0 Finland vs Poland,Won,"1966 FIFA World Cup Qualification, Group 8"
+247,247,24 Oct 1965 12:00 (+1:00),24-10-1965,"Szczecin, Stadion Miejski",Poland,7-0 Poland vs Finland,0-7 Finland vs Poland,Lost,"1966 FIFA World Cup Qualification, Group 8"
+248,248,27 Oct 1965,27-10-1965,"Wiesbaden, Stadion an der Berliner Strasse",Germany,6-2 West Germany* vs Finland,2-6 Finland vs West Germany*,Lost,Friendly International
+249,249,08 May 1966 17:00 (+2:00),08-05-1966,"Helsinki, Helsingin Olympiastadion",Finland,0-3 Finland vs Israel,0-3 Finland vs Israel,Lost,Friendly International
+250,250,04 Jun 1966 19:00 (+2:00),04-06-1966,"Helsinki, Helsingin Olympiastadion",Finland,1-0 Finland vs Sweden,1-0 Finland vs Sweden,Won,Nordic Football Championship 1964-1967
+251,251,26 Jun 1966 19:00 (+2:00),26-06-1966,"Helsinki, Helsingin Olympiastadion",Finland,0-3 Finland vs England,0-3 Finland vs England,Lost,Friendly International
+252,252,14 Aug 1966 13:15 (+1:00),14-08-1966,"Stavanger, Stavanger Stadion",Norway,1-1 Norway vs Finland,1-1 Finland vs Norway,Draw,Nordic Football Championship 1964-1967
+253,253,18 Sep 1966 14:00 (+2:00),18-09-1966,"Helsinki, Helsingin Olympiastadion",Finland,2-1 Finland vs Denmark,2-1 Finland vs Denmark,Won,Nordic Football Championship 1964-1967
+254,254,02 Oct 1966 14:00 (+2:00),02-10-1966,"Helsinki, Helsingin Olympiastadion",Finland,0-0 Finland vs Austria,0-0 Finland vs Austria,Draw,"UEFA Euro 1968 Qualifying, Group 3"
+255,255,16 Oct 1966 15:30 (+2:00),16-10-1966,"Thessaloniki, National Kaftanzogleio Stadium",Greece,2-1 Greece vs Finland,1-2 Finland vs Greece,Lost,"UEFA Euro 1968 Qualifying, Group 3"
+256,256,10 May 1967 18:00 (+2:00),10-05-1967,"Helsinki, Helsingin Olympiastadion",Finland,1-1 Finland vs Greece,1-1 Finland vs Greece,Draw,"UEFA Euro 1968 Qualifying, Group 3"
+257,257,24 May 1967 19:00 (+2:00),24-05-1967,"Helsinki, Helsingin Olympiastadion",Finland,0-0 Finland vs Netherlands*,0-0 Finland vs Netherlands*,Draw,"XIX. Olympic Games Qualifying Tournament, First round"
+258,258,01 Jun 1967 19:00 (+2:00),01-06-1967,"Helsinki, Helsingin Olympiastadion",Finland,0-2 Finland vs Norway,0-2 Finland vs Norway,Lost,Nordic Football Championship 1964-1967
+259,259,14 Jun 1967,14-06-1967,"Arnhem, Stadion Nieuw Monnikenhuize",Netherlands,0-1 Netherlands* vs Finland,1-0 Finland vs Netherlands*,Won,"XIX. Olympic Games Qualifying Tournament, First round"
+260,260,10 Aug 1967 19:00 (+1:00),10-08-1967,"Solna, Råsunda Fotbollstadion",Sweden,2-0 Sweden vs Finland,0-2 Finland vs Sweden,Lost,Nordic Football Championship 1964-1967
+261,261,30 Aug 1967 19:00 (+3:00),30-08-1967,"Moscow, Lenin Central Stadium",Russia,2-0 Soviet Union vs Finland,0-2 Finland vs Soviet Union,Lost,"UEFA Euro 1968 Qualifying, Group 3"
+262,262,06 Sep 1967,06-09-1967,"Turku, Kupittaan Jalkapallostadion",Finland,2-5 Finland vs Soviet Union,2-5 Finland vs Soviet Union,Lost,"UEFA Euro 1968 Qualifying, Group 3"
+263,263,24 Sep 1967 15:00 (+1:00),24-09-1967,"Vienna, Praterstadion (Wiener Stadion)",Austria,2-1 Austria vs Finland,1-2 Finland vs Austria,Lost,"UEFA Euro 1968 Qualifying, Group 3"
+264,264,15 Oct 1967 14:00 (+2:00),15-10-1967,"Helsinki, Helsingin Olympiastadion",Finland,1-1 Finland vs France*,1-1 Finland vs France*,Draw,"XIX. Olympic Games Qualifying Tournament, Second round"
+265,265,22 Oct 1967 13:30 (+1:00),22-10-1967,"Copenhagen, Københavns Idrætspark",Denmark,3-0 Denmark vs Finland,0-3 Finland vs Denmark,Lost,Nordic Football Championship 1964-1967
+266,266,29 Oct 1967,29-10-1967,"Paris, Parc des Princes",France,3-1 France* vs Finland,1-3 Finland vs France*,Lost,"XIX. Olympic Games Qualifying Tournament, Second round"
+267,267,04 Jun 1968 19:00 (+2:00),04-06-1968,"Helsinki, Helsingin Olympiastadion",Finland,1-3 Finland vs Denmark,1-3 Finland vs Denmark,Lost,Nordic Football Championship 1968-1971
+268,268,19 Jun 1968 19:00 (+2:00),19-06-1968,"Helsinki, Helsingin Olympiastadion",Finland,1-2 Finland vs Belgium,1-2 Finland vs Belgium,Lost,"1970 FIFA World Cup Qualification, Group 6"
+269,269,18 Aug 1968 18:00 (+1:00),18-08-1968,"Oslo, Ullevaal Stadion",Norway,4-1 Norway vs Finland,1-4 Finland vs Norway,Lost,Nordic Football Championship 1968-1971
+270,270,11 Sep 1968 18:30 (+2:00),11-09-1968,"Helsinki, Helsingin Olympiastadion",Finland,0-3 Finland vs Sweden,0-3 Finland vs Sweden,Lost,Nordic Football Championship 1968-1971
+271,271,25 Sep 1968 18:15 (+1:00),25-09-1968,"Belgrade, Stadion Jugoslovenska Narodna Armija",Serbia (former Yugoslavia),9-1 Yugoslavia vs Finland,1-9 Finland vs Yugoslavia,Lost,"1970 FIFA World Cup Qualification, Group 6"
+272,272,09 Oct 1968 20:00 (+1:00),09-10-1968,"Waregem, Regenboogstadion",Belgium,6-1 Belgium vs Finland,1-6 Finland vs Belgium,Lost,"1970 FIFA World Cup Qualification, Group 6"
+273,273,02 Apr 1969,02-04-1969,"Rotterdam, Stadion de Kuip (Feijenoord)",Netherlands,2-0 Netherlands vs Finland,0-2 Finland vs Netherlands,Lost,Friendly International
+274,274,15 May 1969 14:00 (+2:00),15-05-1969,"Helsinki, Helsingin Olympiastadion",Finland,3-1 Finland vs Netherlands,3-1 Finland vs Netherlands,Won,Friendly International
+275,275,22 May 1969 19:00 (+1:00),22-05-1969,"Växjö, Värendsvallen",Sweden,4-0 Sweden vs Finland,0-4 Finland vs Sweden,Lost,Nordic Football Championship 1968-1971
+276,276,04 Jun 1969 19:00 (+2:00),04-06-1969,"Helsinki, Helsingin Olympiastadion",Finland,1-5 Finland vs Yugoslavia,1-5 Finland vs Yugoslavia,Lost,"1970 FIFA World Cup Qualification, Group 6"
+277,277,25 Jun 1969 19:00 (+2:00),25-06-1969,"Helsinki, Helsingin Olympiastadion",Finland,2-0 Finland vs Spain,2-0 Finland vs Spain,Won,"1970 FIFA World Cup Qualification, Group 6"
+278,278,24 Jul 1969 19:00 (+2:00),24-07-1969,"Helsinki, Helsingin Olympiastadion",Finland,3-1 Finland vs Iceland,3-1 Finland vs Iceland,Won,Friendly International
+279,279,24 Aug 1969 18:30 (+2:00),24-08-1969,"Helsinki, Helsingin Olympiastadion",Finland,2-2 Finland vs Norway,2-2 Finland vs Norway,Draw,Nordic Football Championship 1968-1971
+280,280,10 Sep 1969 19:00 (+1:00),10-09-1969,"Copenhagen, Københavns Idrætspark",Denmark,5-2 Denmark vs Finland,2-5 Finland vs Denmark,Lost,Nordic Football Championship 1968-1971
+281,281,15 Oct 1969 17:00 (+1:00),15-10-1969,"La Línea de la Concepción, Estadio Municipal José Antonio",Spain,6-0 Spain vs Finland,0-6 Finland vs Spain,Lost,"1970 FIFA World Cup Qualification, Group 6"
+282,282,21 May 1970 19:00 (+2:00),21-05-1970,"Helsinki, Helsingin Olympiastadion",Finland,0-0 Finland vs West Germany,0-0 Finland vs West Germany,Draw,Friendly International
+283,283,03 Jun 1970 19:00 (+2:00),03-06-1970,"Helsinki, Helsingin Olympiastadion",Finland,1-1 Finland vs Denmark,1-1 Finland vs Denmark,Draw,Nordic Football Championship 1968-1971
+284,284,17 Jun 1970 18:30 (+1:00),17-06-1970,"Bergen, Brann Stadion",Norway,2-0 Norway vs Finland,0-2 Finland vs Norway,Lost,Nordic Football Championship 1968-1971
+285,285,26 Aug 1970 19:00 (+2:00),26-08-1970,"Helsinki, Helsingin Olympiastadion",Finland,1-2 Finland vs Sweden,1-2 Finland vs Sweden,Lost,Nordic Football Championship 1968-1971
+286,286,23 Sep 1970 19:00 (+2:00),23-09-1970,"Helsinki, Helsingin Olympiastadion",Finland,1-3 Finland vs England,1-3 Finland vs England,Lost,Friendly International
+287,287,07 Oct 1970 18:00 (+1:00),07-10-1970,"Prague, Letenský Stadion (Sparty)",Czech Republic,1-1 Czechoslovakia vs Finland,1-1 Finland vs Czechoslovakia,Draw,"UEFA Euro 1972 Qualifying, Group 1"
+288,288,11 Oct 1970 15:30 (+2:00),11-10-1970,"Bucharest, Stadionul 23 August",Romania,3-0 Romania vs Finland,0-3 Finland vs Romania,Lost,"UEFA Euro 1972 Qualifying, Group 1"
+289,289,20 May 1971 14:00 (+1:00),20-05-1971,"Borås, Ryavallen",Sweden,4-1 Sweden vs Finland,1-4 Finland vs Sweden,Lost,Nordic Football Championship 1968-1971
+290,290,26 May 1971 19:00 (+2:00),26-05-1971,"Helsinki, Helsingin Olympiastadion",Finland,0-1 Finland vs Wales,0-1 Finland vs Wales,Lost,"UEFA Euro 1972 Qualifying, Group 1"
+291,291,16 Jun 1971 19:00 (+2:00),16-06-1971,"Helsinki, Helsingin Olympiastadion",Finland,0-4 Finland vs Czechoslovakia,0-4 Finland vs Czechoslovakia,Lost,"UEFA Euro 1972 Qualifying, Group 1"
+292,292,25 Aug 1971 19:00 (+2:00),25-08-1971,"Helsinki, Helsingin Olympiastadion",Finland,1-1 Finland vs Norway,1-1 Finland vs Norway,Draw,Nordic Football Championship 1968-1971
+293,293,08 Sep 1971 19:00 (+1:00),08-09-1971,"Copenhagen, Københavns Idrætspark",Denmark,0-0 Denmark vs Finland,0-0 Finland vs Denmark,Draw,Nordic Football Championship 1968-1971
+294,294,22 Sep 1971 18:30 (+2:00),22-09-1971,"Helsinki, Helsingin Olympiastadion",Finland,0-4 Finland vs Romania,0-4 Finland vs Romania,Lost,"UEFA Euro 1972 Qualifying, Group 1"
+295,295,13 Oct 1971,13-10-1971,"Swansea, Vetch Field",United Kingdom (Wales),3-0 Wales vs Finland,0-3 Finland vs Wales,Lost,"UEFA Euro 1972 Qualifying, Group 1"
+296,296,07 Mar 1972,07-03-1972,"The Hague, Zuiderpark Stadion",Netherlands,2-1 Netherlands* vs Finland,1-2 Finland vs Netherlands*,Lost,Friendly International
+297,297,28 May 1972 15:00 (+2:00),28-05-1972,"Turku, Kupittaan Jalkapallostadion",Finland,0-0 Finland vs Norway,0-0 Finland vs Norway,Draw,Nordic Football Championship 1972-1977
+298,298,07 Jun 1972 19:00 (+1:00),07-06-1972,"Copenhagen, Københavns Idrætspark",Denmark,3-0 Denmark vs Finland,0-3 Finland vs Denmark,Lost,Nordic Football Championship 1972-1977
+299,299,21 Jun 1972 19:00 (+2:00),21-06-1972,"Helsinki, Helsingin Olympiastadion",Finland,1-0 Finland vs Albania,1-0 Finland vs Albania,Won,"1974 FIFA World Cup Qualification, Group 4"
+300,300,16 Jul 1972,16-07-1972,"Vaasa, Hietalahden Jalkapallostadion",Finland,1-1 Finland vs Soviet Union,1-1 Finland vs Soviet Union,Draw,Friendly International
+301,301,30 Jul 1972,30-07-1972,"Lübeck, Stadion an der Lohmühle",Germany,1-2 West Germany* vs Finland,2-1 Finland vs West Germany*,Won,Friendly International
+302,302,20 Sep 1972 18:30 (+2:00),20-09-1972,"Helsinki, Helsingin Olympiastadion",Finland,1-1 Finland vs Romania,1-1 Finland vs Romania,Draw,"1974 FIFA World Cup Qualification, Group 4"
+303,303,07 Oct 1972 16:00 (+1:00),07-10-1972,"Dresden, Dynamo Stadion",Germany,5-0 East Germany vs Finland,0-5 Finland vs East Germany,Lost,"1974 FIFA World Cup Qualification, Group 4"
+304,304,04 Apr 1973,04-04-1973,"Plymouth, Home Park",United Kingdom,3-0 England* vs Finland,0-3 Finland vs England*,Lost,Friendly International
+305,305,24 May 1973 19:00 (+2:00),24-05-1973,"Helsinki, Helsingin Olympiastadion",Finland,1-0 Finland vs Netherlands*,1-0 Finland vs Netherlands*,Won,Friendly International
+306,306,06 Jun 1973 19:00 (+2:00),06-06-1973,"Tampere, Tampereen (Ratinan) Stadion",Finland,1-5 Finland vs East Germany,1-5 Finland vs East Germany,Lost,"1974 FIFA World Cup Qualification, Group 4"
+307,307,08 Jul 1973 18:00 (+1:00),08-07-1973,"Halmstad, Örjans Vall",Sweden,1-1 Sweden vs Finland,1-1 Finland vs Sweden,Draw,Nordic Football Championship 1972-1977
+308,308,29 Aug 1973 19:00 (+2:00),29-08-1973,"Helsinki, Helsingin Olympiastadion",Finland,1-2 Finland vs Sweden,1-2 Finland vs Sweden,Lost,Nordic Football Championship 1972-1977
+309,309,10 Oct 1973,10-10-1973,"Tirana, Stadiumi Kombëtar Qemal Stafa",Albania,1-0 Albania vs Finland,0-1 Finland vs Albania,Lost,"1974 FIFA World Cup Qualification, Group 4"
+310,310,14 Oct 1973 15:30 (+2:00),14-10-1973,"Bucharest, Stadionul 23 August",Romania,9-0 Romania vs Finland,0-9 Finland vs Romania,Lost,"1974 FIFA World Cup Qualification, Group 4"
+311,311,06 Jun 1974 19:30 (+2:00),06-06-1974,"Oulu, Raatti Stadion",Finland,1-1 Finland vs Denmark,1-1 Finland vs Denmark,Draw,Nordic Football Championship 1972-1977
+312,312,15 Aug 1974 19:00 (+1:00),15-08-1974,"Oslo, Ullevaal Stadion",Norway,1-2 Norway vs Finland,2-1 Finland vs Norway,Won,Nordic Football Championship 1972-1977
+313,313,19 Aug 1974 19:00,19-08-1974,"Reykjavík, Laugardalsvöllur",Iceland,2-2 Iceland vs Finland,2-2 Finland vs Iceland,Draw,Friendly International
+314,314,01 Sep 1974 15:00 (+2:00),01-09-1974,"Helsinki, Helsingin Olympiastadion",Finland,1-2 Finland vs Poland,1-2 Finland vs Poland,Lost,"UEFA Euro 1976 Qualifying, Group 5"
+315,315,25 Sep 1974 18:30 (+2:00),25-09-1974,"Helsinki, Helsingin Olympiastadion",Finland,1-3 Finland vs Netherlands,1-3 Finland vs Netherlands,Lost,"UEFA Euro 1976 Qualifying, Group 5"
+316,316,09 Oct 1974 14:30 (+1:00),09-10-1974,"Poznań, Stadion im. 22 lipca",Poland,3-0 Poland vs Finland,0-3 Finland vs Poland,Lost,"UEFA Euro 1976 Qualifying, Group 5"
+317,317,16 Apr 1975,16-04-1975,"The Hague, Zuiderpark Stadion",Netherlands,3-0 Netherlands vs Finland,0-3 Finland vs Netherlands,Lost,"UEFA Euro 1976 Qualifying, Group 5"
+318,318,15 May 1975 18:30 (+2:00),15-05-1975,"Helsinki, Helsingin Olympiastadion",Finland,3-5 Finland vs Norway,3-5 Finland vs Norway,Lost,"XXI. Olympic Games Qualifying Tournament, Nordic Football Championship 1972-1977, First round"
+319,319,05 Jun 1975 19:00 (+2:00),05-06-1975,"Helsinki, Helsingin Olympiastadion",Finland,0-1 Finland vs Italy,0-1 Finland vs Italy,Lost,"UEFA Euro 1976 Qualifying, Group 5"
+320,320,18 Jun 1975 19:00 (+1:00),18-06-1975,"Stavanger, Stavanger Stadion",Norway,1-1 Norway vs Finland,1-1 Finland vs Norway,Draw,"XXI. Olympic Games Qualifying Tournament, First round"
+321,321,25 Jun 1975 19:00 (+1:00),25-06-1975,"Copenhagen, Københavns Idrætspark",Denmark,2-0 Denmark vs Finland,0-2 Finland vs Denmark,Lost,Nordic Football Championship 1972-1977
+322,322,03 Sep 1975 20:00 (+1:00),03-09-1975,"Nijmegen, Goffertstadion",Netherlands,4-1 Netherlands vs Finland,1-4 Finland vs Netherlands,Lost,"UEFA Euro 1976 Qualifying, Group 5"
+323,323,27 Sep 1975 16:30 (+2:00),27-09-1975,"Rome, Stadio Olimpico",Italy,0-0 Italy vs Finland,0-0 Finland vs Italy,Draw,"UEFA Euro 1976 Qualifying, Group 5"
+324,324,19 May 1976 18:30 (+2:00),19-05-1976,"Kuopio, Väinölänniemen Stadion (Vänäri)",Finland,1-0 Finland vs Switzerland,1-0 Finland vs Switzerland,Won,Friendly International
+325,325,01 Jun 1976 19:00 (+2:00),01-06-1976,"Helsinki, Helsingin Olympiastadion",Finland,0-2 Finland vs Sweden,0-2 Finland vs Sweden,Lost,Nordic Football Championship 1972-1977
+326,326,13 Jun 1976 19:30 (+2:00),13-06-1976,"Helsinki, Helsingin Olympiastadion",Finland,1-4 Finland vs England,1-4 Finland vs England,Lost,"1978 FIFA World Cup Qualification, Group 2"
+327,327,14 Jul 1976 19:00 (+2:00),14-07-1976,"Helsinki, Helsingin Olympiastadion",Finland,1-0 Finland vs Iceland,1-0 Finland vs Iceland,Won,Friendly International
+328,328,11 Aug 1976 19:00 (+1:00),11-08-1976,"Malmö, Malmö Stadion",Sweden,6-0 Sweden vs Finland,0-6 Finland vs Sweden,Lost,Nordic Football Championship 1972-1977
+329,329,25 Aug 1976 19:00 (+2:00),25-08-1976,"Helsinki, Helsingin Olympiastadion",Finland,2-1 Finland vs Turkey,2-1 Finland vs Turkey,Won,Friendly International
+330,330,08 Sep 1976 20:00 (+1:00),08-09-1976,"Glasgow, Hampden Park",United Kingdom (Scotland),6-0 Scotland vs Finland,0-6 Finland vs Scotland,Lost,Friendly International
+331,331,22 Sep 1976 18:30 (+2:00),22-09-1976,"Helsinki, Helsingin Olympiastadion",Finland,7-1 Finland vs Luxembourg,7-1 Finland vs Luxembourg,Won,"1978 FIFA World Cup Qualification, Group 2"
+332,332,13 Oct 1976 20:00 (+1:00),13-10-1976,"London, British Empire Exhibition Stadium (Wembley)",United Kingdom,2-1 England vs Finland,1-2 Finland vs England,Lost,"1978 FIFA World Cup Qualification, Group 2"
+333,333,06 Apr 1977 15:00 (+3:00),06-04-1977,"Ankara, 19 Mayıs Stadı",Turkey,1-2 Turkey vs Finland,2-1 Finland vs Turkey,Won,Friendly International
+334,334,26 May 1977 19:15 (+2:00),26-05-1977,"Luxembourg City, Stade Municipal",Luxembourg,0-1 Luxembourg vs Finland,1-0 Finland vs Luxembourg,Won,"1978 FIFA World Cup Qualification, Group 2"
+335,335,08 Jun 1977 19:00 (+2:00),08-06-1977,"Helsinki, Helsingin Olympiastadion",Finland,0-3 Finland vs Italy,0-3 Finland vs Italy,Lost,"1978 FIFA World Cup Qualification, Group 2"
+336,336,22 Jun 1977 20:00 (+2:00),22-06-1977,"Helsinki, Helsingin Olympiastadion",Finland,1-2 Finland vs Denmark,1-2 Finland vs Denmark,Lost,Nordic Football Championship 1972-1977
+337,337,18 Aug 1977 19:00 (+1:00),18-08-1977,"Oslo, Ullevaal Stadion",Norway,1-1 Norway vs Finland,1-1 Finland vs Norway,Draw,Nordic Football Championship 1972-1977
+338,338,07 Sep 1977 19:00 (+2:00),07-09-1977,"Helsinki, Helsingin Olympiastadion",Finland,0-1 Finland vs West Germany,0-1 Finland vs West Germany,Lost,Friendly International
+339,339,05 Oct 1977 20:00 (+1:00),05-10-1977,"Zurich, Hardturm",Switzerland,2-0 Switzerland vs Finland,0-2 Finland vs Switzerland,Lost,Friendly International
+340,340,15 Oct 1977 15:00 (+1:00),15-10-1977,"Turin, Stadio Comunale",Italy,6-1 Italy vs Finland,1-6 Finland vs Italy,Lost,"1978 FIFA World Cup Qualification, Group 2"
+341,341,05 Apr 1978,05-04-1978,"Yerevan, Hrazdan Central Stadium",Armenia,10-2 Soviet Union vs Finland,2-10 Finland vs Soviet Union,Lost,Friendly International
+342,342,03 May 1978 18:30 (+2:00),03-05-1978,"Helsinki, Helsingin Olympiastadion",Finland,0-1 Finland vs Mexico,0-1 Finland vs Mexico,Lost,Friendly International
+343,343,24 May 1978 19:00 (+2:00),24-05-1978,"Helsinki, Helsingin Olympiastadion",Finland,3-0 Finland vs Greece,3-0 Finland vs Greece,Won,"UEFA Euro 1980 Qualifying, Group 6"
+344,344,28 Jun 1978 19:00 (+1:00),28-06-1978,"Borås, Ryavallen",Sweden,2-1 Sweden vs Finland,1-2 Finland vs Sweden,Lost,Nordic Football Championship 1978-1980
+345,345,09 Aug 1978 19:00 (+2:00),09-08-1978,"Helsinki, Helsingin Olympiastadion",Finland,1-1 Finland vs Norway,1-1 Finland vs Norway,Draw,Nordic Football Championship 1978-1980
+346,346,30 Aug 1978 16:00 (+2:00),30-08-1978,"Helsinki, Helsingin Olympiastadion",Finland,0-1 Finland vs Poland,0-1 Finland vs Poland,Lost,Friendly International
+347,347,20 Sep 1978 18:30 (+2:00),20-09-1978,"Helsinki, Helsingin Olympiastadion",Finland,2-1 Finland vs Hungary,2-1 Finland vs Hungary,Won,"UEFA Euro 1980 Qualifying, Group 6"
+348,348,11 Oct 1978 15:30 (+2:00),11-10-1978,"Athens, Leoforos Alexandras Stadium",Greece,8-1 Greece vs Finland,1-8 Finland vs Greece,Lost,"UEFA Euro 1980 Qualifying, Group 6"
+349,349,05 Feb 1979,05-02-1979,"Baghdad, Al-Shaab Stadium",Iraq,1-0 Iraq vs Finland,0-1 Finland vs Iraq,Lost,Friendly International
+350,350,07 Feb 1979,07-02-1979,"Baghdad, Al-Shaab Stadium",Iraq,2-0 Iraq vs Finland,0-2 Finland vs Iraq,Lost,Friendly International
+351,351,09 Feb 1979,09-02-1979,"Manama, Isa Town Stadium",Bahrain,0-1 Bahrain vs Finland,1-0 Finland vs Bahrain,Won,Friendly International
+352,352,10 May 1979,10-05-1979,"Ålborg, Ålborg Stadion",Denmark,1-1 Denmark* vs Finland,1-1 Finland vs Denmark*,Draw,"XXII. Olympic Games Qualifying Tournament, First round"
+353,353,07 Jun 1979,07-06-1979,"Kotka, Kotkan Urheilukeskus",Finland,4-1 Finland vs Denmark*,4-1 Finland vs Denmark*,Won,"XXII. Olympic Games Qualifying Tournament, First round"
+354,354,04 Jul 1979 19:00 (+2:00),04-07-1979,"Helsinki, Helsingin Olympiastadion",Finland,1-1 Finland vs Soviet Union,1-1 Finland vs Soviet Union,Draw,"UEFA Euro 1980 Qualifying, Group 6"
+355,355,09 Aug 1979 18:30 (+2:00),09-08-1979,"Kuopio, Väinölänniemen Stadion (Vänäri)",Finland,0-1 Finland vs Norway,0-1 Finland vs Norway,Lost,"XXII. Olympic Games Qualifying Tournament, Group 4"
+356,356,29 Aug 1979 18:00 (+2:00),29-08-1979,"Mikkeli, Mikkelin Urheilupuisto (Urski)",Finland,0-0 Finland vs Denmark,0-0 Finland vs Denmark,Draw,Nordic Football Championship 1978-1980
+357,357,13 Sep 1979,13-09-1979,"Oberhausen, Stadion Niederrhein",Germany,2-0 West Germany* vs Finland,0-2 Finland vs West Germany*,Lost,"XXII. Olympic Games Qualifying Tournament, Group 4"
+358,358,26 Sep 1979,26-09-1979,"Copenhagen, Københavns Idrætspark",Denmark,1-0 Denmark vs Finland,0-1 Finland vs Denmark,Lost,Nordic Football Championship 1978-1980
+359,359,10 Oct 1979 18:30 (+2:00),10-10-1979,"Helsinki, Helsingin Olympiastadion",Finland,0-0 Finland vs West Germany*,0-0 Finland vs West Germany*,Draw,"XXII. Olympic Games Qualifying Tournament, Group 4"
+360,360,17 Oct 1979 14:00 (+1:00),17-10-1979,"Debrecen, Nagyerdei Stadion",Hungary,3-1 Hungary vs Finland,1-3 Finland vs Hungary,Lost,"UEFA Euro 1980 Qualifying, Group 6"
+361,361,26 Oct 1979 19:00 (+1:00),26-10-1979,"Stavanger, Stavanger Stadion",Norway,1-1 Norway vs Finland,1-1 Finland vs Norway,Draw,"XXII. Olympic Games Qualifying Tournament, Group 4"
+362,362,31 Oct 1979 19:00 (+3:00),31-10-1979,"Moscow, Lenin Central Stadium",Russia,2-2 Soviet Union vs Finland,2-2 Finland vs Soviet Union,Draw,"UEFA Euro 1980 Qualifying, Group 6"
+363,363,20 Nov 1979,20-11-1979,"Mexico City, Estadio Azteca",Mexico,1-1 Mexico vs Finland,1-1 Finland vs Mexico,Draw,Friendly International
+364,364,25 Nov 1979,25-11-1979,"Hamilton, National Stadium, Devonshire",Bermuda,0-2 Bermuda vs Finland,2-0 Finland vs Bermuda,Won,Friendly International
+365,365,22 May 1980 18:30 (+2:00),22-05-1980,"Helsinki, Helsingin Olympiastadion",Finland,0-2 Finland vs Sweden,0-2 Finland vs Sweden,Lost,Nordic Football Championship 1978-1980
+366,366,04 Jun 1980 19:00 (+2:00),04-06-1980,"Helsinki, Helsingin Olympiastadion",Finland,0-2 Finland vs Bulgaria,0-2 Finland vs Bulgaria,Lost,"1982 FIFA World Cup Qualification, Group 1"
+367,367,25 Jun 1980 20:00,25-06-1980,"Reykjavík, Laugardalsvöllur",Iceland,1-1 Iceland vs Finland,1-1 Finland vs Iceland,Draw,Friendly International
+368,368,21 Jul 1980 19:00 (+3:00),21-07-1980,"Minsk, Dinamo Stadium",Belarus,2-0 Yugoslavia* vs Finland,0-2 Finland vs Yugoslavia*,Lost,"XXII. Olympic Games Final Tournament 1980, Group D"
+369,369,23 Jul 1980 19:00 (+3:00),23-07-1980,"Kiev, Republican Stadium",Ukraine,0-0 Iraq vs Finland,0-0 Finland vs Iraq,Draw,"XXII. Olympic Games Final Tournament 1980, Group D"
+370,370,25 Jul 1980 19:00 (+3:00),25-07-1980,"Kiev, Republican Stadium",Ukraine,0-3 Costa Rica vs Finland,3-0 Finland vs Costa Rica,Won,"XXII. Olympic Games Final Tournament 1980, Group D"
+371,371,21 Aug 1980 19:00 (+2:00),21-08-1980,"Oslo, Ullevaal Stadion",Norway,6-1 Norway vs Finland,1-6 Finland vs Norway,Lost,Nordic Football Championship 1978-1980
+372,372,03 Sep 1980,03-09-1980,"Tirana, Stadiumi Kombëtar Qemal Stafa",Albania,2-0 Albania vs Finland,0-2 Finland vs Albania,Lost,"1982 FIFA World Cup Qualification, Group 1"
+373,373,24 Sep 1980 18:30 (+2:00),24-09-1980,"Helsinki, Helsingin Olympiastadion",Finland,0-2 Finland vs Austria,0-2 Finland vs Austria,Lost,"1982 FIFA World Cup Qualification, Group 1"
+374,374,30 Nov 1980,30-11-1980,"La Paz, Estadio Hernando Siles Zuazo",Bolivia,3-0 Bolivia vs Finland,0-3 Finland vs Bolivia,Lost,Friendly International
+375,375,04 Dec 1980,04-12-1980,"Santa Cruz de la Sierra, Estadio Ramón Tahuichi Aguilera",Bolivia,2-2 Bolivia vs Finland,2-2 Finland vs Bolivia,Draw,Friendly International
+376,376,08 Dec 1980 17:30 (-3:00),08-12-1980,"Montevideo, Estadio Luis Tróccoli",Uruguay,6-0 Uruguay vs Finland,0-6 Finland vs Uruguay,Lost,Friendly International
+377,377,01 Mar 1981,01-03-1981,"Lahti, Lahden Suurhalli",Finland,2-1 Finland vs Sweden,2-1 Finland vs Sweden,Won,"Lahti Cup 1981, Final"
+378,378,13 May 1981 18:00 (+3:00),13-05-1981,"Sofia, National Stadium Vasil Levski",Bulgaria,4-0 Bulgaria vs Finland,0-4 Finland vs Bulgaria,Lost,"1982 FIFA World Cup Qualification, Group 1"
+379,379,24 May 1981 15:00 (+3:00),24-05-1981,"Lahti, Keskusurheilukenttä (Lahden Stadion)",Finland,0-4 Finland vs West Germany,0-4 Finland vs West Germany,Lost,"1982 FIFA World Cup Qualification, Group 1"
+380,380,17 Jun 1981 19:00 (+2:00),17-06-1981,"Linz, Sportstadion der Stadt Linz (auf der Gugl)",Austria,5-1 Austria vs Finland,1-5 Finland vs Austria,Lost,"1982 FIFA World Cup Qualification, Group 1"
+381,381,02 Jul 1981 19:00 (+2:00),02-07-1981,"Helsinki, Helsingin Olympiastadion",Finland,3-1 Finland vs Norway,3-1 Finland vs Norway,Won,Nordic Football Championship 1981-1983
+382,382,29 Jul 1981,29-07-1981,"Halmstad, Örjans Vall",Sweden,1-0 Sweden vs Finland,0-1 Finland vs Sweden,Lost,Nordic Football Championship 1981-1983
+383,383,12 Aug 1981 18:30 (+3:00),12-08-1981,"Tampere, Tammelan Stadion",Finland,1-2 Finland vs Denmark,1-2 Finland vs Denmark,Lost,Nordic Football Championship 1981-1983
+384,384,02 Sep 1981 18:00 (+2:00),02-09-1981,"Kotka, Kotkan Urheilukeskus",Finland,2-1 Finland vs Albania,2-1 Finland vs Albania,Won,"1982 FIFA World Cup Qualification, Group 1"
+385,385,23 Sep 1981 20:15 (+2:00),23-09-1981,"Bochum, Ruhrstadion",Germany,7-1 West Germany vs Finland,1-7 Finland vs West Germany,Lost,"1982 FIFA World Cup Qualification, Group 1"
+386,386,20 Feb 1982,20-02-1982,"Lahti, Lahden Suurhalli",Finland,2-2 Finland vs Sweden,2-2 Finland vs Sweden,Draw,Friendly International
+387,387,21 Feb 1982,21-02-1982,"Lahti, Lahden Suurhalli",Finland,2-1 Finland vs Sweden,2-1 Finland vs Sweden,Won,Friendly International
+388,388,28 Apr 1982,28-04-1982,"Stavanger, Stavanger Stadion",Norway,1-1 Norway vs Finland,1-1 Finland vs Norway,Draw,Nordic Football Championship 1981-1983
+389,389,03 Jun 1982 19:00 (+3:00),03-06-1982,"Helsinki, Helsingin Olympiastadion",Finland,1-4 Finland vs England,1-4 Finland vs England,Lost,Suomen Palloliitto 75th Anniversary Match
+390,390,11 Jul 1982 18:30 (+3:00),11-07-1982,"Helsinki, Helsingin Olympiastadion",Finland,3-2 Finland vs Iceland,3-2 Finland vs Iceland,Won,Suomen Palloliitto 75th Anniversary Match
+391,391,11 Aug 1982 19:00 (+2:00),11-08-1982,"Copenhagen, Københavns Idrætspark",Denmark,3-2 Denmark vs Finland,2-3 Finland vs Denmark,Won,Nordic Football Championship 1981-1983
+392,392,08 Sep 1982 18:00 (+3:00),08-09-1982,"Kuopio, Väinölänniemen Stadion (Vänäri)",Finland,2-3 Finland vs Poland,2-3 Finland vs Poland,Lost,"UEFA Euro 1984 Qualifying, Group 2"
+393,393,22 Sep 1982 18:30 (+3:00),22-09-1982,"Helsinki, Helsingin Olympiastadion",Finland,0-2 Finland vs Portugal,0-2 Finland vs Portugal,Lost,"UEFA Euro 1984 Qualifying, Group 2"
+394,394,13 Oct 1982 19:00 (+3:00),13-10-1982,"Moscow, Lenin Central Stadium",Russia,2-0 Soviet Union vs Finland,0-2 Finland vs Soviet Union,Lost,"UEFA Euro 1984 Qualifying, Group 2"
+395,395,16 Mar 1983 17:00 (+1:00),16-03-1983,"Magdeburg, Ernst Grube Stadion",Germany,3-1 East Germany vs Finland,1-3 Finland vs East Germany,Lost,Friendly International
+396,396,17 Apr 1983 16:00 (+2:00),17-04-1983,"Warsaw, Stadion Dziesięciolecia Manifestu Lipcowego",Poland,1-1 Poland vs Finland,1-1 Finland vs Poland,Draw,"UEFA Euro 1984 Qualifying, Group 2"
+397,397,04 May 1983 18:30 (+3:00),04-05-1983,"Helsinki, Helsingin Olympiastadion",Finland,0-4 Finland vs Poland*,0-4 Finland vs Poland*,Lost,"XXIII. Olympic Games Qualifying Tournament, Group 2"
+398,398,18 May 1983,18-05-1983,"Kokkola, Kokkolan Keskuskenttä",Finland,0-1 Finland vs East Germany*,0-1 Finland vs East Germany*,Lost,"XXIII. Olympic Games Qualifying Tournament, Group 2"
+399,399,25 May 1983,25-05-1983,"Białystok, Stadion Hetman",Poland,3-2 Poland* vs Finland,2-3 Finland vs Poland*,Won,"XXIII. Olympic Games Qualifying Tournament, Group 2"
+400,400,01 Jun 1983 19:00 (+3:00),01-06-1983,"Helsinki, Helsingin Olympiastadion",Finland,0-1 Finland vs Soviet Union,0-1 Finland vs Soviet Union,Lost,"UEFA Euro 1984 Qualifying, Group 2"
+401,401,15 Jun 1983 18:30 (+3:00),15-06-1983,"Kuopio, Kuopion Keskuskenttä",Finland,1-1 Finland vs Norway,1-1 Finland vs Norway,Draw,"XXIII. Olympic Games Qualifying Tournament, Group 2"
+402,402,22 Jun 1983 19:00 (+2:00),22-06-1983,"Aarhus, Aarhus Stadion",Denmark,3-0 Denmark vs Finland,0-3 Finland vs Denmark,Lost,"XXIII. Olympic Games Qualifying Tournament, Group 2"
+403,403,24 Aug 1983,24-08-1983,"Rovaniemi, Rovaniemen Keskuskenttä",Finland,0-0 Finland vs Denmark,0-0 Finland vs Denmark,Draw,"XXIII. Olympic Games Qualifying Tournament, Group 2"
+404,404,07 Sep 1983 18:30 (+3:00),07-09-1983,"Helsinki, Helsingin Olympiastadion",Finland,0-3 Finland vs Sweden,0-3 Finland vs Sweden,Lost,Nordic Football Championship 1981-1983
+405,405,21 Sep 1983 21:00 (+1:00),21-09-1983,"Lisbon, Estádio José Alvalade",Portugal,5-0 Portugal vs Finland,0-5 Finland vs Portugal,Lost,"UEFA Euro 1984 Qualifying, Group 2"
+406,406,05 Oct 1983,05-10-1983,"Rostock, Ostseestadion",Germany,1-0 East Germany* vs Finland,0-1 Finland vs East Germany*,Lost,"XXIII. Olympic Games Qualifying Tournament, Group 2"
+407,407,26 Oct 1983 19:00 (+1:00),26-10-1983,"Moss, Melløs Stadion",Norway,4-2 Norway vs Finland,2-4 Finland vs Norway,Won,"XXIII. Olympic Games Qualifying Tournament, Group 2"
+408,408,20 Feb 1984,20-02-1984,"Lahti, Lahden Suurhalli",Finland,0-1 Finland vs United States*,0-1 Finland vs United States*,Lost,Friendly International
+409,409,09 Mar 1984,09-03-1984,"Adiliya, Al-Sadaqua Walsalam Stadium",Kuwait,1-0 Kuwait vs Finland,0-1 Finland vs Kuwait,Lost,Friendly International
+410,410,15 May 1984 18:00 (+3:00),15-05-1984,"Kouvola, Kouvolan Keskuskenttä",Finland,1-3 Finland vs Soviet Union,1-3 Finland vs Soviet Union,Lost,Friendly International
+411,411,27 May 1984 14:00 (+3:00),27-05-1984,"Pori, Porin Stadion",Finland,1-0 Finland vs Northern Ireland,1-0 Finland vs Northern Ireland,Won,"1986 FIFA World Cup Qualification, Group 3"
+412,412,16 Aug 1984 18:30 (+3:00),16-08-1984,"Helsinki, Helsingin Olympiastadion",Finland,0-3 Finland vs Mexico,0-3 Finland vs Mexico,Lost,Friendly International
+413,413,12 Sep 1984 18:30 (+3:00),12-09-1984,"Helsinki, Helsingin Olympiastadion",Finland,0-2 Finland vs Poland,0-2 Finland vs Poland,Lost,Friendly International
+414,414,17 Oct 1984 19:45 (+1:00),17-10-1984,"London, British Empire Exhibition Stadium (Wembley)",United Kingdom,5-0 England vs Finland,0-5 Finland vs England,Lost,"1986 FIFA World Cup Qualification, Group 3"
+415,415,31 Oct 1984 15:15 (+3:00),31-10-1984,"Antalya, Atatürk Stadyumu",Turkey,1-2 Turkey vs Finland,2-1 Finland vs Turkey,Won,"1986 FIFA World Cup Qualification, Group 3"
+416,416,14 Nov 1984 20:00,14-11-1984,"Belfast, Windsor Park",United Kingdom (Northern Ireland),2-1 Northern Ireland vs Finland,1-2 Finland vs Northern Ireland,Lost,"1986 FIFA World Cup Qualification, Group 3"
+417,417,20 Nov 1984,20-11-1984,"Jubail, Jubail Club Stadium",Saudi Arabia,2-1 Saudi Arabia vs Finland,1-2 Finland vs Saudi Arabia,Lost,Friendly International
+418,418,22 Nov 1984,22-11-1984,"Al Rayyan, Khalifa International Stadium",Qatar,2-2 Qatar vs Finland,2-2 Finland vs Qatar,Draw,Friendly International
+419,419,24 Nov 1984,24-11-1984,"Al Rayyan, Khalifa International Stadium",Qatar,1-1 Qatar vs Finland,1-1 Finland vs Qatar,Draw,Friendly International
+420,420,23 Jan 1985 20:30 (+1:00),23-01-1985,"Alicante, Estadio José Rico Pérez",Spain,3-1 Spain vs Finland,1-3 Finland vs Spain,Lost,Friendly International
+421,421,08 Feb 1985,08-02-1985,"Viña del Mar, Estadio Sausalito",Chile,2-0 Chile vs Finland,0-2 Finland vs Chile,Lost,Friendly International
+422,422,14 Feb 1985 21:30 (-3:00),14-02-1985,"Montevideo, Estadio Centenario",Uruguay,2-1 Uruguay vs Finland,1-2 Finland vs Uruguay,Lost,Friendly International
+423,423,17 Feb 1985,17-02-1985,"Ambato, Estadio Bellavista",Ecuador,3-1 Ecuador vs Finland,1-3 Finland vs Ecuador,Lost,Friendly International
+424,424,26 Feb 1985,26-02-1985,"Acapulco de Juarez, Unidad Deportiva Renacimiento",Mexico,2-1 Mexico vs Finland,1-2 Finland vs Mexico,Lost,Friendly International
+425,425,17 Apr 1985 16:30 (+2:00),17-04-1985,"Opole, Stadion Miejski",Poland,2-1 Poland vs Finland,1-2 Finland vs Poland,Lost,Friendly International
+426,426,22 May 1985 18:00 (+3:00),22-05-1985,"Helsinki, Helsingin Olympiastadion",Finland,1-1 Finland vs England,1-1 Finland vs England,Draw,"1986 FIFA World Cup Qualification, Group 3"
+427,427,06 Jun 1985 19:00 (+3:00),06-06-1985,"Helsinki, Helsingin Olympiastadion",Finland,1-1 Finland vs Romania,1-1 Finland vs Romania,Draw,"1986 FIFA World Cup Qualification, Group 3"
+428,428,28 Aug 1985 17:30 (+3:00),28-08-1985,"Timişoara, Stadionul 1 Mai",Romania,2-0 Romania vs Finland,0-2 Finland vs Romania,Lost,"1986 FIFA World Cup Qualification, Group 3"
+429,429,25 Sep 1985 19:00 (+3:00),25-09-1985,"Tampere, Tampereen (Ratinan) Stadion",Finland,1-0 Finland vs Turkey,1-0 Finland vs Turkey,Won,"1986 FIFA World Cup Qualification, Group 3"
+430,430,22 Jan 1986 21:00,22-01-1986,"Leiria, Estádio Municipal",Portugal,1-1 Portugal vs Finland,1-1 Finland vs Portugal,Draw,Friendly International
+431,431,21 Feb 1986,21-02-1986,"Manama, Al Ahli Stadium",Bahrain,0-0 Bahrain vs Finland,0-0 Finland vs Bahrain,Draw,Friendly International
+432,432,24 Feb 1986,24-02-1986,"Manama, Al Ahli Stadium",Bahrain,0-4 Bahrain vs Finland,4-0 Finland vs Bahrain,Won,Friendly International
+433,433,28 Feb 1986,28-02-1986,"Al Khobar, Prince Saud Bin Jalawi Sport City Stadium",Saudi Arabia,0-1 Saudi Arabia vs Finland,1-0 Finland vs Saudi Arabia,Won,Friendly International
+434,434,17 Apr 1986 21:30 (-3:00),17-04-1986,"Brasília, Estádio Mané Garrincha",Brazil,3-0 Brazil vs Finland,0-3 Finland vs Brazil,Lost,Friendly International
+435,435,07 May 1986 19:00 (+4:00),07-05-1986,"Moscow, Lenin Central Stadium",Russia,0-0 Soviet Union vs Finland,0-0 Finland vs Soviet Union,Draw,Friendly International
+436,436,05 Aug 1986,05-08-1986,"Iisalmi, Sankariniemen Stadion",Finland,1-3 Finland vs Sweden*,1-3 Finland vs Sweden*,Lost,Friendly International
+437,437,06 Aug 1986 19:00 (+3:00),06-08-1986,"Helsinki, Helsingin Olympiastadion",Finland,1-3 Finland vs Sweden,1-3 Finland vs Sweden,Lost,Friendly International
+438,438,20 Aug 1986 19:00 (+3:00),20-08-1986,"Lahti, Lahden Kisapuisto",Finland,1-0 Finland vs East Germany,1-0 Finland vs East Germany,Won,Friendly International
+439,439,09 Sep 1986,09-09-1986,"Lappeenranta, Kimpisen urheilukeskus",Finland,1-0 Finland vs East Germany*,1-0 Finland vs East Germany*,Won,Friendly International
+440,440,10 Sep 1986 19:00 (+3:00),10-09-1986,"Helsinki, Helsingin Olympiastadion",Finland,1-1 Finland vs Wales,1-1 Finland vs Wales,Draw,"UEFA Euro 1988 Qualifying, Group 6"
+441,441,14 Oct 1986,14-10-1986,"Tampere, Tampereen (Ratinan) Stadion",Finland,0-2 Finland vs Belgium*,0-2 Finland vs Belgium*,Lost,"XXIV. Olympic Games Qualifying Tournament, Group 5"
+442,442,15 Oct 1986 17:00 (+1:00),15-10-1986,"Brno, Stadion za Lužánkami",Czech Republic,3-0 Czechoslovakia vs Finland,0-3 Finland vs Czechoslovakia,Lost,"UEFA Euro 1988 Qualifying, Group 6"
+443,443,29 Oct 1986 19:00 (+1:00),29-10-1986,"Copenhagen, Københavns Idrætspark",Denmark,1-0 Denmark vs Finland,0-1 Finland vs Denmark,Lost,"UEFA Euro 1988 Qualifying, Group 6"
+444,444,18 Mar 1987 15:30 (+1:00),18-03-1987,"Rybnik, Stadion Miejski",Poland,3-1 Poland vs Finland,1-3 Finland vs Poland,Lost,Friendly International
+445,445,01 Apr 1987 19:30 (+1:00),01-04-1987,"Wrexham, The Racecourse",United Kingdom (Wales),4-0 Wales vs Finland,0-4 Finland vs Wales,Lost,"UEFA Euro 1988 Qualifying, Group 6"
+446,446,29 Apr 1987 19:00 (+3:00),29-04-1987,"Helsinki, Helsingin Olympiastadion",Finland,0-1 Finland vs Denmark,0-1 Finland vs Denmark,Lost,"UEFA Euro 1988 Qualifying, Group 6"
+447,447,12 May 1987 18:00 (+3:00),12-05-1987,"Pori, Porin Stadion",Finland,2-1 Finland vs Austria*,2-1 Finland vs Austria*,Won,"XXIV. Olympic Games Qualifying Tournament, Group 5"
+448,448,28 May 1987 19:00 (+3:00),28-05-1987,"Helsinki, Helsingin Olympiastadion",Finland,2-3 Finland vs Brazil,2-3 Finland vs Brazil,Lost,Friendly International
+449,449,10 Jun 1987 19:00 (+3:00),10-06-1987,"Äänekoski, Äänekosken Urheilupuisto",Finland,0-2 Finland vs Czechoslovakia*,0-2 Finland vs Czechoslovakia*,Lost,"XXIV. Olympic Games Qualifying Tournament, Group 5"
+450,450,02 Sep 1987,02-09-1987,"Banja Luka, Gradski Stadion",Bosnia and Herzegovina,5-0 Yugoslavia* vs Finland,0-5 Finland vs Yugoslavia*,Lost,"XXIV. Olympic Games Qualifying Tournament, Group 5"
+451,451,09 Sep 1987 19:00 (+3:00),09-09-1987,"Helsinki, Helsingin Olympiastadion",Finland,3-0 Finland vs Czechoslovakia,3-0 Finland vs Czechoslovakia,Won,"UEFA Euro 1988 Qualifying, Group 6"
+452,452,23 Sep 1987,23-09-1987,"Dunajská Streda, D.A.C. Stadion",Slovakia,2-0 Czechoslovakia* vs Finland,0-2 Finland vs Czechoslovakia*,Lost,"XXIV. Olympic Games Qualifying Tournament, Group 5"
+453,453,28 Oct 1987,28-10-1987,"Liège, Stade Jules Georges",Belgium,1-0 Belgium* vs Finland,0-1 Finland vs Belgium*,Lost,"XXIV. Olympic Games Qualifying Tournament, Group 5"
+454,454,11 Jan 1988,11-01-1988,"Maspalomas, Estadio Municipal",Spain,2-0 Finland vs Czechoslovakia*,2-0 Finland vs Czechoslovakia*,Won,"Maspalomas Tournament 1988, Semifinal"
+455,455,15 Jan 1988,15-01-1988,"Maspalomas, Estadio Municipal",Spain,0-1 Finland vs Sweden,0-1 Finland vs Sweden,Lost,"Maspalomas Tournament 1988, Final"
+456,456,07 Feb 1988 15:15 (+1:00),07-02-1988,"Attard, Ta`Qali National Stadium",Malta,2-0 Malta vs Finland,0-2 Finland vs Malta,Lost,Rothmans Tournament 1988
+457,457,13 Feb 1988 13:15 (+1:00),13-02-1988,"Attard, Ta`Qali National Stadium",Malta,3-0 Finland vs Tunisia,3-0 Finland vs Tunisia,Won,Rothmans Tournament 1988
+458,458,18 May 1988,18-05-1988,"Mikkeli, Mikkelin Urheilupuisto (Urski)",Finland,1-2 Finland vs Yugoslavia*,1-2 Finland vs Yugoslavia*,Lost,"XXIV. Olympic Games Qualifying Tournament, Group 5"
+459,459,19 May 1988 19:00 (+3:00),19-05-1988,"Helsinki, Helsingin Olympiastadion",Finland,1-3 Finland vs Colombia,1-3 Finland vs Colombia,Lost,Friendly International
+460,460,31 May 1988,31-05-1988,"Wolfsberg, Sportstadion",Austria,0-2 Austria* vs Finland,2-0 Finland vs Austria*,Won,"XXIV. Olympic Games Qualifying Tournament, Group 5"
+461,461,04 Aug 1988,04-08-1988,"Vaasa, Hietalahden Jalkapallostadion",Finland,1-1 Finland vs Bulgaria,1-1 Finland vs Bulgaria,Draw,Friendly International
+462,462,17 Aug 1988 19:00 (+3:00),17-08-1988,"Turku, Kupittaan Jalkapallostadion",Finland,0-0 Finland vs Soviet Union,0-0 Finland vs Soviet Union,Draw,Friendly International
+463,463,31 Aug 1988 20:00 (+3:00),31-08-1988,"Helsinki, Helsingin Olympiastadion",Finland,0-4 Finland vs West Germany,0-4 Finland vs West Germany,Lost,"1990 FIFA World Cup Qualification, Group 4"
+464,464,19 Oct 1988 19:30 (+1:00),19-10-1988,"Swansea, Vetch Field",United Kingdom (Wales),2-2 Wales vs Finland,2-2 Finland vs Wales,Draw,"1990 FIFA World Cup Qualification, Group 4"
+465,465,03 Nov 1988,03-11-1988,"Mansūriya, Sabah Al Salem Stadium",Kuwait,0-0 Kuwait vs Finland,0-0 Finland vs Kuwait,Draw,Friendly International
+466,466,06 Nov 1988,06-11-1988,"Adiliya, Al-Sadaqua Walsalam Stadium",Kuwait,0-0 Kuwait vs Finland,0-0 Finland vs Kuwait,Draw,Friendly International
+467,467,11 Jan 1989,11-01-1989,"El Mahalla El Kubra, El Mahalla Stadium",Egypt,2-1 Egypt vs Finland,1-2 Finland vs Egypt,Lost,Friendly International
+468,468,13 Jan 1989,13-01-1989,"Cairo, Cairo International Stadium",Egypt,2-1 Egypt vs Finland,1-2 Finland vs Egypt,Lost,Friendly International
+469,469,08 Feb 1989 13:15 (+1:00),08-02-1989,"Attard, Ta`Qali National Stadium",Malta,2-0 Algeria vs Finland,0-2 Finland vs Algeria,Lost,Rothmans Tournament 1989
+470,470,10 Feb 1989 13:15 (+1:00),10-02-1989,"Attard, Ta`Qali National Stadium",Malta,0-0 Denmark vs Finland,0-0 Finland vs Denmark,Draw,Rothmans Tournament 1989
+471,471,12 Feb 1989 15:15 (+1:00),12-02-1989,"Attard, Ta`Qali National Stadium",Malta,0-0 Malta vs Finland,0-0 Finland vs Malta,Draw,Rothmans Tournament 1989
+472,472,22 Mar 1989 18:00 (+1:00),22-03-1989,"Dresden, Dynamo Stadion",Germany,1-1 East Germany vs Finland,1-1 Finland vs East Germany,Draw,Friendly International
+473,473,31 May 1989 19:00 (+3:00),31-05-1989,"Helsinki, Helsingin Olympiastadion",Finland,0-1 Finland vs Netherlands,0-1 Finland vs Netherlands,Lost,"1990 FIFA World Cup Qualification, Group 4"
+474,474,23 Aug 1989 19:00 (+3:00),23-08-1989,"Kuopio, Väinölänniemen Stadion (Vänäri)",Finland,2-2 Finland vs Yugoslavia,2-2 Finland vs Yugoslavia,Draw,Friendly International
+475,475,06 Sep 1989 19:00 (+3:00),06-09-1989,"Helsinki, Helsingin Olympiastadion",Finland,1-0 Finland vs Wales,1-0 Finland vs Wales,Won,"1990 FIFA World Cup Qualification, Group 4"
+476,476,04 Oct 1989 20:15 (+1:00),04-10-1989,"Dortmund, Westfalenstadion",Germany,6-1 West Germany vs Finland,1-6 Finland vs West Germany,Lost,"1990 FIFA World Cup Qualification, Group 4"
+477,477,22 Oct 1989,22-10-1989,"Port of Spain, Hasely Crawford Stadium",Trinidad and Tobago,0-1 Trinidad & Tobago vs Finland,1-0 Finland vs Trinidad & Tobago,Won,Friendly International
+478,478,25 Oct 1989,25-10-1989,"Port of Spain, Hasely Crawford Stadium",Trinidad and Tobago,2-0 Trinidad & Tobago vs Finland,0-2 Finland vs Trinidad & Tobago,Lost,Friendly International
+479,479,15 Nov 1989 20:00 (+1:00),15-11-1989,"Rotterdam, Stadion de Kuip (Feijenoord)",Netherlands,3-0 Netherlands vs Finland,0-3 Finland vs Netherlands,Lost,"1990 FIFA World Cup Qualification, Group 4"
+480,480,12 Feb 1990,12-02-1990,"Dubai, Maktoum bin Rashid Stadium",United Arab Emirates,1-1 U.A.E. vs Finland,1-1 Finland vs U.A.E.,Draw,Friendly International
+481,481,15 Feb 1990,15-02-1990,"Cairo, Cairo International Stadium",Egypt,0-1 Kuwait vs Finland,1-0 Finland vs Kuwait,Won,Friendly International
+482,482,10 Mar 1990 19:30 (-5:00),10-03-1990,"Tampa, Tampa Stadium",United States,2-1 United States vs Finland,1-2 Finland vs United States,Lost,Friendly International
+483,483,16 May 1990 16:45 (+1:00),16-05-1990,"Dublin, Lansdowne Road",Ireland,1-1 Rep. of Ireland vs Finland,1-1 Finland vs Rep. of Ireland,Draw,Friendly International
+484,484,27 May 1990 18:00 (+2:00),27-05-1990,"Solna, Råsunda Fotbollstadion",Sweden,6-0 Sweden vs Finland,0-6 Finland vs Sweden,Lost,Friendly International
+485,485,29 Aug 1990 18:00 (+3:00),29-08-1990,"Kuusankoski, Kuusankosken Urheilupuisto",Finland,1-1 Finland vs Czecho-Slovakia,1-1 Finland vs Czecho-Slovakia,Draw,Friendly International
+486,486,12 Sep 1990 19:00 (+3:00),12-09-1990,"Helsinki, Helsingin Olympiastadion",Finland,0-0 Finland vs Portugal,0-0 Finland vs Portugal,Draw,"UEFA Euro 1992 Qualifying, Group 6"
+487,487,11 Nov 1990,11-11-1990,"Tunis, Stade Olympique El Menzah",Tunisia,1-2 Tunisia vs Finland,2-1 Finland vs Tunisia,Won,Friendly International
+488,488,25 Nov 1990 14:30 (+1:00),25-11-1990,"Attard, Ta`Qali National Stadium",Malta,1-1 Malta vs Finland,1-1 Finland vs Malta,Draw,"UEFA Euro 1992 Qualifying, Group 6"
+489,489,13 Mar 1991 17:00 (+1:00),13-03-1991,"Warsaw, Stadion Wojska Polskiego imienia Marszałka Józefa Piłsudskiego",Poland,1-1 Poland vs Finland,1-1 Finland vs Poland,Draw,Friendly International
+490,490,17 Apr 1991 20:00 (+2:00),17-04-1991,"Rotterdam, Stadion de Kuip (Feijenoord)",Netherlands,2-0 Netherlands vs Finland,0-2 Finland vs Netherlands,Lost,"UEFA Euro 1992 Qualifying, Group 6"
+491,491,16 May 1991 19:00 (+3:00),16-05-1991,"Helsinki, Helsingin Olympiastadion",Finland,2-0 Finland vs Malta,2-0 Finland vs Malta,Won,"UEFA Euro 1992 Qualifying, Group 6"
+492,492,05 Jun 1991 19:00 (+3:00),05-06-1991,"Helsinki, Helsingin Olympiastadion",Finland,1-1 Finland vs Netherlands,1-1 Finland vs Netherlands,Draw,"UEFA Euro 1992 Qualifying, Group 6"
+493,493,11 Sep 1991 21:30 (+1:00),11-09-1991,"Porto, Estádio do Futebol Clube do Porto (das Antas)",Portugal,1-0 Portugal vs Finland,0-1 Finland vs Portugal,Lost,"UEFA Euro 1992 Qualifying, Group 6"
+494,494,09 Oct 1991 19:00 (+2:00),09-10-1991,"Helsinki, Helsingin Olympiastadion",Finland,1-1 Finland vs Greece,1-1 Finland vs Greece,Draw,"UEFA Euro 1992 Qualifying, Group 6"
+495,495,30 Oct 1991 18:00 (+2:00),30-10-1991,"Marousi, Olympic Stadium of Athens \""Spyros Louis\"",""2-0 Greece vs Finland",Greece,0-2 Finland vs Greece,Lost,"UEFA Euro 1992 Qualifying, Group 6",
+496,496,12 Feb 1992 14:00 (+2:00),12-02-1992,"Adana, 5 Ocak Stadı",Turkey,1-1 Turkey vs Finland,1-1 Finland vs Turkey,Draw,Friendly International
+497,497,25 Mar 1992 20:00,25-03-1992,"Glasgow, Hampden Park",United Kingdom (Scotland),1-1 Scotland vs Finland,1-1 Finland vs Scotland,Draw,Friendly International
+498,498,15 Apr 1992 20:30 (-4:00),15-04-1992,"Cuiabá, Estádio José Fragelli",Brazil,3-1 Brazil vs Finland,1-3 Finland vs Brazil,Lost,Friendly International
+499,499,14 May 1992 19:00 (+3:00),14-05-1992,"Helsinki, Helsingin Olympiastadion",Finland,0-3 Finland vs Bulgaria,0-3 Finland vs Bulgaria,Lost,"1994 FIFA World Cup Qualification, Group 6"
+500,500,03 Jun 1992 19:00 (+3:00),03-06-1992,"Helsinki, Helsingin Olympiastadion",Finland,1-2 Finland vs England,1-2 Finland vs England,Lost,Friendly International
+501,501,26 Aug 1992 18:30 (+3:00),26-08-1992,"Jakobstad, Pietarsaaren Keskuskenttä",Finland,0-0 Finland vs Poland,0-0 Finland vs Poland,Draw,Friendly International
+502,502,09 Sep 1992 19:00 (+3:00),09-09-1992,"Helsinki, Helsingin Olympiastadion",Finland,0-1 Finland vs Sweden,0-1 Finland vs Sweden,Lost,"1994 FIFA World Cup Qualification, Group 6"
+503,503,07 Nov 1992,07-11-1992,"Tunis, Stade Olympique El Menzah",Tunisia,1-1 Tunisia vs Finland,1-1 Finland vs Tunisia,Draw,Friendly International
+504,504,14 Nov 1992 20:45 (+1:00),14-11-1992,"Paris, Parc des Princes",France,2-1 France vs Finland,1-2 Finland vs France,Lost,"1994 FIFA World Cup Qualification, Group 6"
+505,505,20 Jan 1993 16:45 (+5:30),20-01-1993,"Madras, Jawaharlal Nehru Stadium",India,0-0 India vs Finland,0-0 Finland vs India,Draw,"Nehru Cup 1993, Group B"
+506,506,22 Jan 1993 17:15 (+5:30),22-01-1993,"Madras, Jawaharlal Nehru Stadium",India,0-0 Cameroon vs Finland,0-0 Finland vs Cameroon,Draw,"Nehru Cup 1993, Group B"
+507,507,26 Jan 1993 17:15 (+5:30),26-01-1993,"Madras, Jawaharlal Nehru Stadium",India,0-2 India vs Finland,2-0 Finland vs India,Won,"Nehru Cup 1993, Group B"
+508,508,28 Jan 1993 17:15 (+5:30),28-01-1993,"Madras, Jawaharlal Nehru Stadium",India,2-0 Cameroon vs Finland,0-2 Finland vs Cameroon,Lost,"Nehru Cup 1993, Group B"
+509,509,31 Jan 1993 16:45 (+5:30),31-01-1993,"Madras, Jawaharlal Nehru Stadium",India,3-2 North Korea vs Finland,2-3 Finland vs North Korea,Lost,"Nehru Cup 1993, Semifinal"
+510,510,20 Feb 1993 17:00 (+2:00),20-02-1993,"Vantaa, Myyrmäki Indoor Hall",Finland,0-0 Finland vs Estonia,0-0 Finland vs Estonia,Draw,"Baltic Indoor Cup 1993, Semifinal"
+511,511,21 Feb 1993 16:00 (+2:00),21-02-1993,"Vantaa, Myyrmäki Indoor Hall",Finland,3-0 Finland vs Lithuania*,3-0 Finland vs Lithuania*,Won,"Baltic Indoor Cup 1993, Final"
+512,512,13 Apr 1993 16:30 (+2:00),13-04-1993,"Radom, Stadion Radomiaka",Poland,2-1 Poland vs Finland,1-2 Finland vs Poland,Lost,Friendly International
+513,513,28 Apr 1993,28-04-1993,"Sofia, National Stadium Vasil Levski",Bulgaria,2-0 Bulgaria vs Finland,0-2 Finland vs Bulgaria,Lost,"1994 FIFA World Cup Qualification, Group 6"
+514,514,13 May 1993 19:00 (+3:00),13-05-1993,"Turku, Urheilupuisto",Finland,3-1 Finland vs Austria,3-1 Finland vs Austria,Won,"1994 FIFA World Cup Qualification, Group 6"
+515,515,16 Jun 1993,16-06-1993,"Lahti, Keskusurheilukenttä (Lahden Stadion)",Finland,0-0 Finland vs Israel,0-0 Finland vs Israel,Draw,"1994 FIFA World Cup Qualification, Group 6"
+516,516,25 Aug 1993,25-08-1993,"Vienna, Ernst Happel Stadion",Austria,3-0 Austria vs Finland,0-3 Finland vs Austria,Lost,"1994 FIFA World Cup Qualification, Group 6"
+517,517,08 Sep 1993 19:00 (+3:00),08-09-1993,"Tampere, Tampereen (Ratinan) Stadion",Finland,0-2 Finland vs France,0-2 Finland vs France,Lost,"1994 FIFA World Cup Qualification, Group 6"
+518,518,13 Oct 1993 19:00 (+1:00),13-10-1993,"Solna, Råsunda Fotbollstadion",Sweden,3-2 Sweden vs Finland,2-3 Finland vs Sweden,Lost,"1994 FIFA World Cup Qualification, Group 6"
+519,519,10 Nov 1993,10-11-1993,"Ramat Gan, National Stadium",Israel,1-3 Israel vs Finland,3-1 Finland vs Israel,Won,"1994 FIFA World Cup Qualification, Group 6"
+520,520,25 Jan 1994,25-01-1994,"Doha, Hamad bin Khalifa (Al-Ahly S.C.) Stadium",Qatar,1-0 Qatar vs Finland,0-1 Finland vs Qatar,Lost,Friendly International
+521,521,27 Jan 1994,27-01-1994,"Doha, Hamad bin Khalifa (Al-Ahly S.C.) Stadium",Qatar,0-0 Qatar vs Finland,0-0 Finland vs Qatar,Draw,Friendly International
+522,522,30 Jan 1994,30-01-1994,"Muscat, El Shorta Stadium",Oman,0-2 Oman vs Finland,2-0 Finland vs Oman,Won,Friendly International
+523,523,01 Feb 1994,01-02-1994,"Muscat, El Shorta Stadium",Oman,1-1 Oman vs Finland,1-1 Finland vs Oman,Draw,Friendly International
+524,524,23 Feb 1994,23-02-1994,"Casablanca, Stade Mohamed V",Morocco,0-0 Morocco vs Finland,0-0 Finland vs Morocco,Draw,Friendly International
+525,525,27 May 1994 20:30 (+2:00),27-05-1994,"Parma, Stadio Ennio Tardini",Italy,2-0 Italy vs Finland,0-2 Finland vs Italy,Lost,Friendly International
+526,526,02 Jun 1994 19:00 (+3:00),02-06-1994,"Tampere, Tampereen (Ratinan) Stadion",Finland,1-2 Finland vs Spain,1-2 Finland vs Spain,Lost,Friendly International
+527,527,17 Aug 1994 19:15 (+2:00),17-08-1994,"Copenhagen, Parken",Denmark,2-1 Denmark vs Finland,1-2 Finland vs Denmark,Lost,Friendly International
+528,528,07 Sep 1994 19:00 (+3:00),07-09-1994,"Helsinki, Helsingin Olympiastadion",Finland,0-2 Finland vs Scotland,0-2 Finland vs Scotland,Lost,"UEFA Euro 1996 Qualifying, Group 8"
+529,529,12 Oct 1994 20:00 (+2:00),12-10-1994,"Thessaloniki, National Kaftanzogleio Stadium",Greece,4-0 Greece vs Finland,0-4 Finland vs Greece,Lost,"UEFA Euro 1996 Qualifying, Group 8"
+530,530,26 Oct 1994 14:00 (+2:00),26-10-1994,"Tallinn, Kadrioru Staadion",Estonia,0-7 Estonia vs Finland,7-0 Finland vs Estonia,Won,Friendly International
+531,531,16 Nov 1994 19:00 (+2:00),16-11-1994,"Helsinki, Helsingin Olympiastadion",Finland,5-0 Finland vs Faroe Islands,5-0 Finland vs Faroe Islands,Won,"UEFA Euro 1996 Qualifying, Group 8"
+532,532,30 Nov 1994 21:30 (+1:00),30-11-1994,"Málaga, Estadio La Rosaleda",Spain,2-0 Spain vs Finland,0-2 Finland vs Spain,Lost,Friendly International
+533,533,14 Dec 1994 19:00 (+2:00),14-12-1994,"Helsinki, Helsingin Olympiastadion",Finland,4-1 Finland vs San Marino,4-1 Finland vs San Marino,Won,"UEFA Euro 1996 Qualifying, Group 8"
+534,534,16 Feb 1995,16-02-1995,"Port of Spain, Queen`s Park Oval",Trinidad and Tobago,2-2 Trinidad & Tobago vs Finland,2-2 Finland vs Trinidad & Tobago,Draw,Friendly International
+535,535,08 Mar 1995 16:15 (+1:00),08-03-1995,"Brno, Stadion za Lužánkami",Czech Republic,4-1 Czech Republic vs Finland,1-4 Finland vs Czech Republic,Lost,Friendly International
+536,536,29 Mar 1995 19:00 (+3:00),29-03-1995,"Serravalle, Stadio Olimpico",San Marino,0-2 San Marino vs Finland,2-0 Finland vs San Marino,Won,"UEFA Euro 1996 Qualifying, Group 8"
+537,537,26 Apr 1995 19:00 (+1:00),26-04-1995,"Toftir, Svangaskarð",Faroe Islands,0-4 Faroe Islands vs Finland,4-0 Finland vs Faroe Islands,Won,"UEFA Euro 1996 Qualifying, Group 8"
+538,538,31 May 1995 19:30 (+3:00),31-05-1995,"Helsinki, Helsingin Olympiastadion",Finland,0-1 Finland vs Denmark,0-1 Finland vs Denmark,Lost,Friendly International
+539,539,11 Jun 1995 19:00 (+3:00),11-06-1995,"Helsinki, Helsingin Olympiastadion",Finland,2-1 Finland vs Greece,2-1 Finland vs Greece,Won,"UEFA Euro 1996 Qualifying, Group 8"
+540,540,16 Aug 1995 19:00 (+3:00),16-08-1995,"Helsinki, Helsingin Olympiastadion",Finland,0-6 Finland vs Russia,0-6 Finland vs Russia,Lost,"UEFA Euro 1996 Qualifying, Group 8"
+541,541,06 Sep 1995 20:00 (+1:00),06-09-1995,"Glasgow, Hampden Park",United Kingdom (Scotland),1-0 Scotland vs Finland,0-1 Finland vs Scotland,Lost,"UEFA Euro 1996 Qualifying, Group 8"
+542,542,04 Oct 1995 19:00 (+3:00),04-10-1995,"Helsinki, Helsingin Olympiastadion",Finland,0-0 Finland vs Turkey,0-0 Finland vs Turkey,Draw,Friendly International
+543,543,15 Nov 1995 20:00 (+3:00),15-11-1995,"Moscow, Grand Sports Arena of the Luzhniki Olympic Complex",Russia,3-1 Russia vs Finland,1-3 Finland vs Russia,Lost,"UEFA Euro 1996 Qualifying, Group 8"
+544,544,09 Feb 1996,09-02-1996,"Bangkok, Rajamangala National Stadium",Thailand,1-0 Thailand vs Finland,0-1 Finland vs Thailand,Lost,King`s Cup 1996
+545,545,11 Feb 1996,11-02-1996,"Bangkok, Rajamangala National Stadium",Thailand,0-0 Denmark* vs Finland,0-0 Finland vs Denmark*,Draw,King`s Cup 1996
+546,546,13 Feb 1996,13-02-1996,"Bangkok, Rajamangala National Stadium",Thailand,1-1 Romania* vs Finland,1-1 Finland vs Romania*,Draw,King`s Cup 1996
+547,547,16 Feb 1996,16-02-1996,"Bangkok, Rajamangala National Stadium",Thailand,5-2 Thailand vs Finland,2-5 Finland vs Thailand,Lost,"King`s Cup 1996, For 3rd place"
+548,548,16 Mar 1996,16-03-1996,"Adiliya, Al-Sadaqua Walsalam Stadium",Kuwait,0-1 Kuwait vs Finland,1-0 Finland vs Kuwait,Won,Friendly International
+549,549,29 May 1996 20:45 (+2:00),29-05-1996,"Strasbourg, Stade de la Meinau",France,2-0 France vs Finland,0-2 Finland vs France,Lost,Friendly International
+550,550,02 Jun 1996 19:00 (+3:00),02-06-1996,"Helsinki, Helsingin Olympiastadion",Finland,1-2 Finland vs Turkey,1-2 Finland vs Turkey,Lost,Friendly International
+551,551,14 Aug 1996 18:30 (+3:00),14-08-1996,"Rīga, Daugavas Stadions",Latvia,0-0 Latvia vs Finland,0-0 Finland vs Latvia,Draw,Friendly International
+552,552,01 Sep 1996 18:30 (+2:00),01-09-1996,"Budapest, Népstadion",Hungary,1-0 Hungary vs Finland,0-1 Finland vs Hungary,Lost,"1998 FIFA World Cup Qualification, Group 3"
+553,553,06 Oct 1996 19:00 (+3:00),06-10-1996,"Helsinki, Helsingin Olympiastadion",Finland,2-3 Finland vs Switzerland,2-3 Finland vs Switzerland,Lost,"1998 FIFA World Cup Qualification, Group 3"
+554,554,30 Oct 1996,30-10-1996,"Kotka, Kotkan Urheilukeskus",Finland,2-2 Finland vs Estonia,2-2 Finland vs Estonia,Draw,Friendly International
+555,555,12 Feb 1997 20:00 (+2:00),12-02-1997,"Denizli, Denizli Atatürk Stadyumu",Turkey,1-1 Turkey vs Finland,1-1 Finland vs Turkey,Draw,Friendly International
+556,556,21 Feb 1997 21:30 (+8:00),21-02-1997,"Kuala Lumpur, Stadium Merdeka",Malaysia,2-1 Malaysia vs Finland,1-2 Finland vs Malaysia,Lost,"Dunhill Cup 1997, Group A"
+557,557,23 Feb 1997 19:30 (+8:00),23-02-1997,"Kuala Lumpur, Stadium Merdeka",Malaysia,2-1 China vs Finland,1-2 Finland vs China,Lost,"Dunhill Cup 1997, Group A"
+558,558,25 Feb 1997 19:30 (+8:00),25-02-1997,"Kuala Lumpur, Stadium Merdeka",Malaysia,0-1 Singapore vs Finland,1-0 Finland vs Singapore,Won,"Dunhill Cup 1997, Group A"
+559,559,02 Apr 1997 20:00 (+5:00),02-04-1997,"Baku, Tofiq Bəhramov adına Respublika Stadionu",Azerbaijan,1-2 Azerbaijan vs Finland,2-1 Finland vs Azerbaijan,Won,"1998 FIFA World Cup Qualification, Group 3"
+560,560,30 Apr 1997 20:00 (+2:00),30-04-1997,"Oslo, Ullevaal Stadion",Norway,1-1 Norway vs Finland,1-1 Finland vs Norway,Draw,"1998 FIFA World Cup Qualification, Group 3"
+561,561,08 Jun 1997 19:00 (+3:00),08-06-1997,"Helsinki, Helsingin Olympiastadion",Finland,3-0 Finland vs Azerbaijan,3-0 Finland vs Azerbaijan,Won,"1998 FIFA World Cup Qualification, Group 3"
+562,562,20 Aug 1997 19:00 (+3:00),20-08-1997,"Helsinki, Helsingin Olympiastadion",Finland,0-4 Finland vs Norway,0-4 Finland vs Norway,Lost,"1998 FIFA World Cup Qualification, Group 3"
+563,563,06 Sep 1997 20:15 (+2:00),06-09-1997,"Lausanne, Stade Olympique de La Pontaise",Switzerland,1-2 Switzerland vs Finland,2-1 Finland vs Switzerland,Won,"1998 FIFA World Cup Qualification, Group 3"
+564,564,11 Oct 1997 19:00 (+3:00),11-10-1997,"Helsinki, Helsingin Olympiastadion",Finland,1-1 Finland vs Hungary,1-1 Finland vs Hungary,Draw,"1998 FIFA World Cup Qualification, Group 3"
+565,565,05 Feb 1998 15:00 (+2:00),05-02-1998,"Limassol, Tsirion Athletic Center",Cyprus,1-1 Cyprus vs Finland,1-1 Finland vs Cyprus,Draw,"Cyprus International Tournament 1998, Group A"
+566,566,09 Feb 1998 15:00 (+2:00),09-02-1998,"Larnaca, G.S.Z. Stadium",Cyprus,0-2 Finland vs Slovakia,0-2 Finland vs Slovakia,Lost,"Cyprus International Tournament 1998, For 3rd place"
+567,567,25 Mar 1998 20:00 (+1:00),25-03-1998,"Attard, Ta`Qali National Stadium",Malta,0-2 Malta vs Finland,2-0 Finland vs Malta,Won,Friendly International
+568,568,22 Apr 1998 20:00 (+1:00),22-04-1998,"Edinburgh, Easter Road Stadium",United Kingdom (Scotland),1-1 Scotland vs Finland,1-1 Finland vs Scotland,Draw,Friendly International
+569,569,27 May 1998 20:30 (+3:00),27-05-1998,"Helsinki, Helsingin Olympiastadion",Finland,0-0 Finland vs Germany,0-0 Finland vs Germany,Draw,Friendly International
+570,570,05 Jun 1998 19:00 (+3:00),05-06-1998,"Helsinki, Helsingin Olympiastadion",Finland,0-1 Finland vs France,0-1 Finland vs France,Lost,Friendly International
+571,571,19 Aug 1998 20:15 (+2:00),19-08-1998,"Košice, Štadión Lokomotívy v Čermeli",Slovakia,0-0 Slovakia vs Finland,0-0 Finland vs Slovakia,Draw,Friendly International
+572,572,05 Sep 1998 19:00 (+3:00),05-09-1998,"Helsinki, Helsingin Olympiastadion",Finland,3-2 Finland vs Moldova,3-2 Finland vs Moldova,Won,"UEFA Euro 2000 Qualifying, Group 3"
+573,573,10 Oct 1998 15:00 (+1:00),10-10-1998,"Belfast, Windsor Park",United Kingdom (Northern Ireland),1-0 Northern Ireland vs Finland,0-1 Finland vs Northern Ireland,Lost,"UEFA Euro 2000 Qualifying, Group 3"
+574,574,14 Oct 1998 20:30 (+3:00),14-10-1998,"Istanbul, Ali Sami Yen Stadı",Turkey,1-3 Turkey vs Finland,3-1 Finland vs Turkey,Won,"UEFA Euro 2000 Qualifying, Group 3"
+575,575,03 Feb 1999 20:00 (+2:00),03-02-1999,"Larnaca, G.S.Z. Stadium",Cyprus,1-2 Finland vs Greece,1-2 Finland vs Greece,Lost,"Cyprus International Tournament 1999, Semifinal"
+576,576,05 Feb 1999 18:00 (+2:00),05-02-1999,"Paralimni, Municipal Stadium Tasos Markou",Cyprus,2-1 Cyprus vs Finland,1-2 Finland vs Cyprus,Lost,"Cyprus International Tournament 1999, For 3rd place"
+577,577,10 Feb 1999 17:30 (+1:00),10-02-1999,"Attard, Ta`Qali National Stadium",Malta,1-1 Finland vs Poland,1-1 Finland vs Poland,Draw,Friendly International
+578,578,31 Mar 1999 20:30 (+2:00),31-03-1999,"Nuremberg, Frankenstadion",Germany,2-0 Germany vs Finland,0-2 Finland vs Germany,Lost,"UEFA Euro 2000 Qualifying, Group 3"
+579,579,28 Apr 1999 18:00 (+2:00),28-04-1999,"Ljubljana, Železničarsko Športno Društvo (Ž.Š.D.) Stadion",Slovenia,1-1 Slovenia vs Finland,1-1 Finland vs Slovenia,Draw,Friendly International
+580,580,05 Jun 1999 19:00 (+3:00),05-06-1999,"Helsinki, Helsingin Olympiastadion",Finland,2-4 Finland vs Turkey,2-4 Finland vs Turkey,Lost,"UEFA Euro 2000 Qualifying, Group 3"
+581,581,09 Jun 1999 19:00 (+3:00),09-06-1999,"Chișinău, Stadionul Republican",Moldova,0-0 Moldova vs Finland,0-0 Finland vs Moldova,Draw,"UEFA Euro 2000 Qualifying, Group 3"
+582,582,18 Aug 1999 20:00 (+2:00),18-08-1999,"Bruges, Jan Breydelstadion",Belgium,3-4 Belgium vs Finland,4-3 Finland vs Belgium,Won,Friendly International
+583,583,04 Sep 1999 20:00 (+3:00),04-09-1999,"Helsinki, Helsingin Olympiastadion",Finland,1-2 Finland vs Germany,1-2 Finland vs Germany,Lost,"UEFA Euro 2000 Qualifying, Group 3"
+584,584,09 Oct 1999 19:00 (+3:00),09-10-1999,"Helsinki, Helsingin Olympiastadion",Finland,4-1 Finland vs Northern Ireland,4-1 Finland vs Northern Ireland,Won,"UEFA Euro 2000 Qualifying, Group 3"
+585,585,31 Jan 2000,31-01-2000,"La Manga del Mar Menor, La Manga Club Centro de Fútbol Profesional",Spain,0-1 Faroe Islands vs Finland,1-0 Finland vs Faroe Islands,Won,Nordic Football Championship 2000-2001
+586,586,02 Feb 2000,02-02-2000,"La Manga del Mar Menor, La Manga Club Centro de Fútbol Profesional",Spain,0-1 Finland vs Iceland,0-1 Finland vs Iceland,Lost,Nordic Football Championship 2000-2001
+587,587,04 Feb 2000,04-02-2000,"La Manga del Mar Menor, La Manga Club Centro de Fútbol Profesional",Spain,1-2 Denmark* vs Finland,2-1 Finland vs Denmark*,Won,Nordic Football Championship 2000-2001
+588,588,20 Feb 2000,20-02-2000,"Bangkok, Rajamangala National Stadium",Thailand,0-0 Thailand vs Finland,0-0 Finland vs Thailand,Draw,King`s Cup 2000
+589,589,23 Feb 2000,23-02-2000,"Bangkok, Rajamangala National Stadium",Thailand,2-4 Estonia vs Finland,4-2 Finland vs Estonia,Won,King`s Cup 2000
+590,590,27 Feb 2000,27-02-2000,"Bangkok, Rajamangala National Stadium",Thailand,5-1 Thailand vs Finland,1-5 Finland vs Thailand,Lost,"King`s Cup 2000, Final"
+591,591,29 Mar 2000 19:00 (+1:00),29-03-2000,"Cardiff, Millennium Stadium",United Kingdom (Wales),1-2 Wales vs Finland,2-1 Finland vs Wales,Won,Friendly International
+592,592,26 Apr 2000 20:00 (+2:00),26-04-2000,"Poznań, Stadion Miejski",Poland,0-0 Poland vs Finland,0-0 Finland vs Poland,Draw,Friendly International
+593,593,03 Jun 2000 18:30 (+2:00),03-06-2000,"Rīga, Daugavas Stadions",Latvia,1-0 Latvia vs Finland,0-1 Finland vs Latvia,Lost,Friendly International
+594,594,16 Aug 2000 20:00 (+3:00),16-08-2000,"Helsinki, FinnAir Stadium",Finland,3-1 Finland vs Norway,3-1 Finland vs Norway,Won,Nordic Football Championship 2000-2001
+595,595,02 Sep 2000 15:00 (+3:00),02-09-2000,"Helsinki, FinnAir Stadium",Finland,2-1 Finland vs Albania,2-1 Finland vs Albania,Won,"2002 FIFA World Cup Qualification, Group 9"
+596,596,07 Oct 2000 20:00 (+3:00),07-10-2000,"Marousi, Olympic Stadium of Athens \""Spyros Louis\"",""1-0 Greece vs Finland",Greece,0-1 Finland vs Greece,Lost,"2002 FIFA World Cup Qualification, Group 9",
+597,597,11 Oct 2000 19:00 (+3:00),11-10-2000,"Helsinki, Helsingin Olympiastadion",Finland,0-0 Finland vs England,0-0 Finland vs England,Draw,"2002 FIFA World Cup Qualification, Group 9"
+598,598,15 Nov 2000 19:30,15-11-2000,"Dublin, Lansdowne Road",Ireland,3-0 Rep. of Ireland vs Finland,0-3 Finland vs Rep. of Ireland,Lost,Friendly International
+599,599,01 Feb 2001 19:00 (+1:00),01-02-2001,"Jönköping, Tipshallen",Sweden,0-1 Sweden vs Finland,1-0 Finland vs Sweden,Won,Nordic Football Championship 2000-2001
+600,600,15 Feb 2001,15-02-2001,"Adiliya, Al-Sadaqua Walsalam Stadium",Kuwait,4-3 Kuwait vs Finland,3-4 Finland vs Kuwait,Lost,Friendly International
+601,601,18 Feb 2001,18-02-2001,"Muscat, Sultan Qaboos Sports Complex",Oman,1-2 Oman vs Finland,2-1 Finland vs Oman,Won,Friendly International
+602,602,20 Feb 2001,20-02-2001,"Muscat, Sultan Qaboos Sports Complex",Oman,0-2 Oman vs Finland,2-0 Finland vs Oman,Won,Friendly International
+603,603,28 Feb 2001,28-02-2001,"Luxembourg City, Stade Josy Barthel",Luxembourg,0-1 Luxembourg vs Finland,1-0 Finland vs Luxembourg,Won,Friendly International
+604,604,24 Mar 2001 15:00,24-03-2001,"Liverpool, Anfield Road",United Kingdom (England),2-1 England vs Finland,1-2 Finland vs England,Lost,"2002 FIFA World Cup Qualification, Group 9"
+605,605,25 Apr 2001 20:30 (+2:00),25-04-2001,"Budapest, Üllői úti Stadion",Hungary,0-0 Hungary vs Finland,0-0 Finland vs Hungary,Draw,Friendly International
+606,606,09 May 2001,09-05-2001,"Kuressaare, Kuressaare Linnastaadion",Estonia,1-1 Estonia vs Finland,1-1 Finland vs Estonia,Draw,Friendly International
+607,607,02 Jun 2001 20:00 (+3:00),02-06-2001,"Helsinki, Helsingin Olympiastadion",Finland,2-2 Finland vs Germany,2-2 Finland vs Germany,Draw,"2002 FIFA World Cup Qualification, Group 9"
+608,608,15 Aug 2001 19:00 (+3:00),15-08-2001,"Helsinki, FinnAir Stadium",Finland,4-1 Finland vs Belgium,4-1 Finland vs Belgium,Won,Friendly International
+609,609,01 Sep 2001 19:00 (+2:00),01-09-2001,"Tirana, Stadiumi Kombëtar Qemal Stafa",Albania,0-2 Albania vs Finland,2-0 Finland vs Albania,Won,"2002 FIFA World Cup Qualification, Group 9"
+610,610,05 Sep 2001 19:00 (+3:00),05-09-2001,"Helsinki, Helsingin Olympiastadion",Finland,5-1 Finland vs Greece,5-1 Finland vs Greece,Won,"2002 FIFA World Cup Qualification, Group 9"
+611,611,06 Oct 2001 16:00 (+2:00),06-10-2001,"Gelsenkirchen, Arena AufSchalke",Germany,0-0 Germany vs Finland,0-0 Finland vs Germany,Draw,"2002 FIFA World Cup Qualification, Group 9"
+612,612,04 Jan 2002,04-01-2002,"Riffa, Bahrain National Stadium",Bahrain,0-2 Bahrain vs Finland,2-0 Finland vs Bahrain,Won,Bahrain Shoot Soccer Tournament 2002
+613,613,07 Jan 2002,07-01-2002,"Riffa, Bahrain National Stadium",Bahrain,1-1 Albania vs Finland,1-1 Finland vs Albania,Draw,Bahrain Shoot Soccer Tournament 2002
+614,614,10 Jan 2002 18:15 (+3:00),10-01-2002,"Riffa, Bahrain National Stadium",Bahrain,3-0 Finland vs Macedonia,3-0 Finland vs Macedonia,Won,Bahrain Shoot Soccer Tournament 2002
+615,615,20 Mar 2002 15:00 (+1:00),20-03-2002,"Cartagena, Estadio Cartagonova",Spain,2-0 South Korea vs Finland,0-2 Finland vs South Korea,Lost,Friendly International
+616,616,27 Mar 2002 21:00,27-03-2002,"Porto, Estádio do Bessa",Portugal,1-4 Portugal vs Finland,4-1 Finland vs Portugal,Won,Friendly International
+617,617,17 Apr 2002 16:00 (+2:00),17-04-2002,"Prilep, Gradski Stadion Goce Delčev",North Macedonia,1-0 Macedonia vs Finland,0-1 Finland vs Macedonia,Lost,Friendly International
+618,618,22 May 2002 19:00 (+3:00),22-05-2002,"Helsinki, Helsingin Olympiastadion",Finland,2-1 Finland vs Latvia,2-1 Finland vs Latvia,Won,Friendly International
+619,619,21 Aug 2002 20:00 (+3:00),21-08-2002,"Helsinki, Helsingin Olympiastadion",Finland,0-3 Finland vs Rep. of Ireland,0-3 Finland vs Rep. of Ireland,Lost,Friendly International
+620,620,07 Sep 2002 19:00 (+3:00),07-09-2002,"Helsinki, Helsingin Olympiastadion",Finland,0-2 Finland vs Wales,0-2 Finland vs Wales,Lost,"UEFA Euro 2004 Qualifying, Group 9"
+621,621,12 Oct 2002 19:00 (+3:00),12-10-2002,"Helsinki, Helsingin Olympiastadion",Finland,3-0 Finland vs Azerbaijan,3-0 Finland vs Azerbaijan,Won,"UEFA Euro 2004 Qualifying, Group 9"
+622,622,16 Oct 2002 19:00 (+2:00),16-10-2002,"Belgrade, Stadion Crvene Zvezde",Serbia,2-0 Yugoslavia vs Finland,0-2 Finland vs Yugoslavia,Lost,"UEFA Euro 2004 Qualifying, Group 9"
+623,623,26 Jan 2003,26-01-2003,"Waterford, Barbados National Stadium",Barbados,0-0 Barbados vs Finland,0-0 Finland vs Barbados,Draw,Friendly International
+624,624,29 Jan 2003,29-01-2003,"Port of Spain, Hasely Crawford Stadium",Trinidad and Tobago,1-2 Trinidad & Tobago vs Finland,2-1 Finland vs Trinidad & Tobago,Won,Friendly International
+625,625,12 Feb 2003 20:00,12-02-2003,"Belfast, Windsor Park",United Kingdom (Northern Ireland),0-1 Northern Ireland vs Finland,1-0 Finland vs Northern Ireland,Won,Friendly International
+626,626,29 Mar 2003 21:00 (+1:00),29-03-2003,"Palermo, Stadio Renzo Barbera",Italy,2-0 Italy vs Finland,0-2 Finland vs Italy,Lost,"UEFA Euro 2004 Qualifying, Group 9"
+627,627,30 Apr 2003 17:00 (+3:00),30-04-2003,"Vantaa, Pohjola Stadion",Finland,3-0 Finland vs Iceland,3-0 Finland vs Iceland,Won,Friendly International
+628,628,22 May 2003 19:00 (+2:00),22-05-2003,"Oslo, Ullevaal Stadion",Norway,2-0 Norway vs Finland,0-2 Finland vs Norway,Lost,Friendly International
+629,629,07 Jun 2003 19:00 (+3:00),07-06-2003,"Helsinki, Helsingin Olympiastadion",Finland,3-0 Finland vs Serbia & Montenegro,3-0 Finland vs Serbia & Montenegro,Won,"UEFA Euro 2004 Qualifying, Group 9"
+630,630,11 Jun 2003 21:00 (+3:00),11-06-2003,"Helsinki, Helsingin Olympiastadion",Finland,0-2 Finland vs Italy,0-2 Finland vs Italy,Lost,"UEFA Euro 2004 Qualifying, Group 9"
+631,631,20 Aug 2003 19:15 (+2:00),20-08-2003,"Copenhagen, Parken",Denmark,1-1 Denmark vs Finland,1-1 Finland vs Denmark,Draw,Friendly International
+632,632,06 Sep 2003 19:00 (+5:00),06-09-2003,"Baku, Şəfa Stadionu",Azerbaijan,1-2 Azerbaijan vs Finland,2-1 Finland vs Azerbaijan,Won,"UEFA Euro 2004 Qualifying, Group 9"
+633,633,10 Sep 2003 19:45 (+1:00),10-09-2003,"Cardiff, Millennium Stadium",United Kingdom (Wales),1-1 Wales vs Finland,1-1 Finland vs Wales,Draw,"UEFA Euro 2004 Qualifying, Group 9"
+634,634,11 Oct 2003 17:00 (+3:00),11-10-2003,"Tampere, Tampereen (Ratinan) Stadion",Finland,3-2 Finland vs Canada,3-2 Finland vs Canada,Won,Friendly International
+635,635,16 Nov 2003,16-11-2003,"Houston, Robertson Stadium (The Bob)",United States,2-1 Finland vs Honduras,2-1 Finland vs Honduras,Won,Friendly International
+636,636,19 Nov 2003 20:00 (-6:00),19-11-2003,"Alajuela, Estadio Alejandro Morera Soto",Costa Rica,2-1 Costa Rica vs Finland,1-2 Finland vs Costa Rica,Lost,Friendly International
+637,637,03 Feb 2004 19:45 (+8:00),03-02-2004,"Guangzhou, Tianhe Stadium",China,2-1 China PR vs Finland,1-2 Finland vs China PR,Lost,Friendly International
+638,638,07 Feb 2004 15:30 (+8:00),07-02-2004,"Shenzhen, Shenzhen Stadium",China,2-1 China PR vs Finland,1-2 Finland vs China PR,Lost,Friendly International
+639,639,31 Mar 2004 16:00 (+2:00),31-03-2004,"Attard, Ta`Qali National Stadium",Malta,1-2 Malta vs Finland,2-1 Finland vs Malta,Won,Friendly International
+640,640,28 Apr 2004 20:00 (+2:00),28-04-2004,"Zenica, Stadion Bilino Polje",Bosnia and Herzegovina,1-0 Bosnia & Herzegovina vs Finland,0-1 Finland vs Bosnia & Herzegovina,Lost,Friendly International
+641,641,28 May 2004 20:00 (+3:00),28-05-2004,"Tampere, Tampereen (Ratinan) Stadion",Finland,1-3 Finland vs Sweden,1-3 Finland vs Sweden,Lost,Friendly International
+642,642,18 Aug 2004 20:30 (+3:00),18-08-2004,"Bucharest, Stadionul Giulești - Valentin Stănescu",Romania,2-1 Romania vs Finland,1-2 Finland vs Romania,Lost,"2006 FIFA World Cup Qualification, Group 1"
+643,643,04 Sep 2004 17:00 (+3:00),04-09-2004,"Tampere, Tampereen (Ratinan) Stadion",Finland,3-0 Finland vs Andorra,3-0 Finland vs Andorra,Won,"2006 FIFA World Cup Qualification, Group 1"
+644,644,08 Sep 2004 21:00 (+5:00),08-09-2004,"Yerevan, Republican Vazgen Sargsyan Stadium",Armenia,0-2 Armenia vs Finland,2-0 Finland vs Armenia,Won,"2006 FIFA World Cup Qualification, Group 1"
+645,645,09 Oct 2004 17:00 (+3:00),09-10-2004,"Tampere, Tampereen (Ratinan) Stadion",Finland,3-1 Finland vs Armenia,3-1 Finland vs Armenia,Won,"2006 FIFA World Cup Qualification, Group 1"
+646,646,13 Oct 2004 20:30 (+2:00),13-10-2004,"Amsterdam, Amsterdam ArenA",Netherlands,3-1 Netherlands vs Finland,1-3 Finland vs Netherlands,Lost,"2006 FIFA World Cup Qualification, Group 1"
+647,647,17 Nov 2004 20:45 (+1:00),17-11-2004,"Messina, Stadio San Filippo",Italy,1-0 Italy vs Finland,0-1 Finland vs Italy,Lost,Friendly International
+648,648,01 Dec 2004 18:00 (+3:00),01-12-2004,"Riffa, Bahrain National Stadium",Bahrain,1-2 Bahrain vs Finland,2-1 Finland vs Bahrain,Won,"Prime Minister`s Cup 2004, Semifinal"
+649,649,03 Dec 2004,03-12-2004,"Riffa, Bahrain National Stadium",Bahrain,0-0 Oman vs Finland,0-0 Finland vs Oman,Draw,"Prime Minister`s Cup 2004, Final"
+650,650,08 Feb 2005 18:45 (+2:00),08-02-2005,"Strovolos, G.S.P. Stadium",Cyprus,2-1 Finland vs Latvia,2-1 Finland vs Latvia,Won,"Cyprus International Tournament 2005, Semifinal"
+651,651,09 Feb 2005 18:45 (+2:00),09-02-2005,"Strovolos, G.S.P. Stadium",Cyprus,1-2 Cyprus vs Finland,2-1 Finland vs Cyprus,Won,"Cyprus International Tournament 2005, Final"
+652,652,12 Mar 2005 20:00 (+3:00),12-03-2005,"Kaifan, Al Kuwait Sports Club Stadium",Kuwait,0-1 Kuwait vs Finland,1-0 Finland vs Kuwait,Won,Friendly International
+653,653,18 Mar 2005 19:45 (+3:00),18-03-2005,"Dammam, Prince Mohamed bin Fahd Stadium",Saudi Arabia,1-4 Saudi Arabia vs Finland,4-1 Finland vs Saudi Arabia,Won,Friendly International
+654,654,26 Mar 2005 17:00 (+1:00),26-03-2005,"Teplice, Stadion Na Stínadlech",Czech Republic,4-3 Czech Republic vs Finland,3-4 Finland vs Czech Republic,Lost,"2006 FIFA World Cup Qualification, Group 1"
+655,655,02 Jun 2005 20:00 (+3:00),02-06-2005,"Tampere, Tampereen (Ratinan) Stadion",Finland,0-1 Finland vs Denmark,0-1 Finland vs Denmark,Lost,Friendly International
+656,656,08 Jun 2005 21:00 (+3:00),08-06-2005,"Helsinki, Helsingin Olympiastadion",Finland,0-4 Finland vs Netherlands,0-4 Finland vs Netherlands,Lost,"2006 FIFA World Cup Qualification, Group 1"
+657,657,17 Aug 2005 20:00 (+2:00),17-08-2005,"Skopje, Gradski Stadion",North Macedonia,0-3 Macedonia vs Finland,3-0 Finland vs Macedonia,Won,"2006 FIFA World Cup Qualification, Group 1"
+658,658,03 Sep 2005 16:00 (+2:00),03-09-2005,"Andorra la Vella, Estadi Comunal d`Andorra la Vella",Andorra,0-0 Andorra vs Finland,0-0 Finland vs Andorra,Draw,"2006 FIFA World Cup Qualification, Group 1"
+659,659,07 Sep 2005 19:00 (+3:00),07-09-2005,"Tampere, Tampereen (Ratinan) Stadion",Finland,5-1 Finland vs Macedonia,5-1 Finland vs Macedonia,Won,"2006 FIFA World Cup Qualification, Group 1"
+660,660,08 Oct 2005 17:00 (+3:00),08-10-2005,"Helsinki, Helsingin Olympiastadion",Finland,0-1 Finland vs Romania,0-1 Finland vs Romania,Lost,"2006 FIFA World Cup Qualification, Group 1"
+661,661,12 Oct 2005 18:30 (+3:00),12-10-2005,"Helsinki, Helsingin Olympiastadion",Finland,0-3 Finland vs Czech Republic,0-3 Finland vs Czech Republic,Lost,"2006 FIFA World Cup Qualification, Group 1"
+662,662,12 Nov 2005 14:30 (+2:00),12-11-2005,"Helsinki, FinnAir Stadium",Finland,2-2 Finland vs Estonia,2-2 Finland vs Estonia,Draw,Friendly International
+663,663,21 Jan 2006 20:10 (+3:00),21-01-2006,"Riyadh, Prince Faisal Bin Fahd Stadium",Saudi Arabia,1-1 Saudi Arabia vs Finland,1-1 Finland vs Saudi Arabia,Draw,LG Cup 2006
+664,664,25 Jan 2006 18:40 (+3:00),25-01-2006,"Riyadh, Prince Faisal Bin Fahd Stadium",Saudi Arabia,1-0 South Korea vs Finland,0-1 Finland vs South Korea,Lost,LG Cup 2006
+665,665,18 Feb 2006 19:15 (+9:00),18-02-2006,"Fukuroi, Shizuoka Stadium Ecopa",Japan,2-0 Japan vs Finland,0-2 Finland vs Japan,Lost,Friendly International
+666,666,28 Feb 2006 17:00 (+2:00),28-02-2006,"Larnaca, G.S.Z. Stadium",Cyprus,0-0 Finland vs Kazakhstan,0-0 Finland vs Kazakhstan,Draw,"Cyprus International Tournament 2006, Semifinal A"
+667,667,01 Mar 2006 19:00 (+2:00),01-03-2006,"Paphos, Pafiako Stadium",Cyprus,2-2 Belarus vs Finland,2-2 Finland vs Belarus,Draw,"Cyprus International Tournament 2006, For 3rd place"
+668,668,25 May 2006 15:00 (+2:00),25-05-2006,"Gothenburg, Ullevi Stadion",Sweden,0-0 Sweden vs Finland,0-0 Finland vs Sweden,Draw,Friendly International
+669,669,16 Aug 2006 19:00 (+3:00),16-08-2006,"Helsinki, Helsingin Olympiastadion",Finland,1-2 Finland vs Northern Ireland,1-2 Finland vs Northern Ireland,Lost,Friendly International
+670,670,02 Sep 2006 20:30 (+2:00),02-09-2006,"Bydgoszcz, Stadion im. Zdzisława Krzyszkowiaka",Poland,1-3 Poland vs Finland,3-1 Finland vs Poland,Won,"UEFA Euro 2008 Qualifying, Group A"
+671,671,06 Sep 2006 20:00 (+3:00),06-09-2006,"Helsinki, Helsingin Olympiastadion",Finland,1-1 Finland vs Portugal,1-1 Finland vs Portugal,Draw,"UEFA Euro 2008 Qualifying, Group A"
+672,672,07 Oct 2006 21:00 (+5:00),07-10-2006,"Yerevan, Republican Vazgen Sargsyan Stadium",Armenia,0-0 Armenia vs Finland,0-0 Finland vs Armenia,Draw,"UEFA Euro 2008 Qualifying, Group A"
+673,673,11 Oct 2006 22:00 (+6:00),11-10-2006,"Almaty, Almaty Central Stadium",Kazakhstan,0-2 Kazakhstan vs Finland,2-0 Finland vs Kazakhstan,Won,"UEFA Euro 2008 Qualifying, Group A"
+674,674,15 Nov 2006 19:00 (+2:00),15-11-2006,"Helsinki, FinnAir Stadium",Finland,1-0 Finland vs Armenia,1-0 Finland vs Armenia,Won,"UEFA Euro 2008 Qualifying, Group A"
+675,675,28 Mar 2007 20:00 (+5:00),28-03-2007,"Baku, Tofiq Bəhramov adına Respublika Stadionu",Azerbaijan,1-0 Azerbaijan vs Finland,0-1 Finland vs Azerbaijan,Lost,"UEFA Euro 2008 Qualifying, Group A"
+676,676,02 Jun 2007 19:15 (+3:00),02-06-2007,"Helsinki, Helsingin Olympiastadion",Finland,0-2 Finland vs Serbia,0-2 Finland vs Serbia,Lost,"UEFA Euro 2008 Qualifying, Group A"
+677,677,06 Jun 2007 20:15 (+3:00),06-06-2007,"Helsinki, Helsingin Olympiastadion",Finland,2-0 Finland vs Belgium,2-0 Finland vs Belgium,Won,"UEFA Euro 2008 Qualifying, Group A"
+678,678,22 Aug 2007 19:00 (+3:00),22-08-2007,"Tampere, Tampereen (Ratinan) Stadion",Finland,2-1 Finland vs Kazakhstan,2-1 Finland vs Kazakhstan,Won,"UEFA Euro 2008 Qualifying, Group A"
+679,679,08 Sep 2007 20:15 (+2:00),08-09-2007,"Belgrade, Stadion Crvene Zvezde",Serbia,0-0 Serbia vs Finland,0-0 Finland vs Serbia,Draw,"UEFA Euro 2008 Qualifying, Group A"
+680,680,12 Sep 2007 19:00 (+3:00),12-09-2007,"Helsinki, Helsingin Olympiastadion",Finland,0-0 Finland vs Poland,0-0 Finland vs Poland,Draw,"UEFA Euro 2008 Qualifying, Group A"
+681,681,13 Oct 2007 20:45 (+2:00),13-10-2007,"Brussels, Stade Roi Baudouin",Belgium,0-0 Belgium vs Finland,0-0 Finland vs Belgium,Draw,"UEFA Euro 2008 Qualifying, Group A"
+682,682,17 Oct 2007 20:30 (+3:00),17-10-2007,"Helsinki, Helsingin Olympiastadion",Finland,0-0 Finland vs Spain,0-0 Finland vs Spain,Draw,Friendly International
+683,683,17 Nov 2007 16:00 (+2:00),17-11-2007,"Helsinki, Helsingin Olympiastadion",Finland,2-1 Finland vs Azerbaijan,2-1 Finland vs Azerbaijan,Won,"UEFA Euro 2008 Qualifying, Group A"
+684,684,21 Nov 2007 19:45,21-11-2007,"Porto, Estádio do Dragão",Portugal,0-0 Portugal vs Finland,0-0 Finland vs Portugal,Draw,"UEFA Euro 2008 Qualifying, Group A"
+685,685,06 Feb 2008 21:00 (+2:00),06-02-2008,"Strovolos, G.S.P. Stadium",Cyprus,1-2 Finland vs Greece,1-2 Finland vs Greece,Lost,Cyprus International Tournament 2008
+686,686,26 Mar 2008 18:00 (+2:00),26-03-2008,"Sofia, National Stadium Vasil Levski",Bulgaria,2-1 Bulgaria vs Finland,1-2 Finland vs Bulgaria,Lost,Friendly International
+687,687,29 May 2008 20:30 (+2:00),29-05-2008,"Duisburg, M.S.V. Arena",Germany,0-2 Finland vs Turkey,0-2 Finland vs Turkey,Lost,Friendly International
+688,688,02 Jun 2008 19:00 (+3:00),02-06-2008,"Turku, Veritas Stadion",Finland,1-1 Finland vs Belarus,1-1 Finland vs Belarus,Draw,Friendly International
+689,689,20 Aug 2008 19:00 (+3:00),20-08-2008,"Tampere, Tampereen (Ratinan) Stadion",Finland,2-0 Finland vs Israel,2-0 Finland vs Israel,Won,Friendly International
+690,690,10 Sep 2008 20:30 (+3:00),10-09-2008,"Helsinki, Helsingin Olympiastadion",Finland,3-3 Finland vs Germany,3-3 Finland vs Germany,Draw,"2010 FIFA World Cup Qualification, Group 4"
+691,691,11 Oct 2008 17:00 (+3:00),11-10-2008,"Helsinki, Helsingin Olympiastadion",Finland,1-0 Finland vs Azerbaijan,1-0 Finland vs Azerbaijan,Won,"2010 FIFA World Cup Qualification, Group 4"
+692,692,15 Oct 2008 19:00 (+4:00),15-10-2008,"Moscow, Central Stadium Lokomotiv",Russia,3-0 Russia vs Finland,0-3 Finland vs Russia,Lost,"2010 FIFA World Cup Qualification, Group 4"
+693,693,19 Nov 2008 20:30 (+1:00),19-11-2008,"St. Gallen, A.F.G. Arena",Switzerland,1-0 Switzerland vs Finland,0-1 Finland vs Switzerland,Lost,Friendly International
+694,694,04 Feb 2009 19:20 (+9:00),04-02-2009,"Tokyo, National Olympic Stadium",Japan,5-1 Japan vs Finland,1-5 Finland vs Japan,Lost,Friendly International
+695,695,11 Feb 2009 20:45,11-02-2009,"Loulé, Estádio Algarve",Portugal,1-0 Portugal vs Finland,0-1 Finland vs Portugal,Lost,Friendly International
+696,696,28 Mar 2009 15:00,28-03-2009,"Cardiff, Millennium Stadium",United Kingdom (Wales),0-2 Wales vs Finland,2-0 Finland vs Wales,Won,"2010 FIFA World Cup Qualification, Group 4"
+697,697,01 Apr 2009 19:00 (+2:00),01-04-2009,"Oslo, Ullevaal Stadion",Norway,3-2 Norway vs Finland,2-3 Finland vs Norway,Lost,Friendly International
+698,698,06 Jun 2009 19:00 (+3:00),06-06-2009,"Helsinki, Helsingin Olympiastadion",Finland,2-1 Finland vs Liechtenstein,2-1 Finland vs Liechtenstein,Won,"2010 FIFA World Cup Qualification, Group 4"
+699,699,10 Jun 2009 20:30 (+3:00),10-06-2009,"Helsinki, Helsingin Olympiastadion",Finland,0-3 Finland vs Russia,0-3 Finland vs Russia,Lost,"2010 FIFA World Cup Qualification, Group 4"
+700,700,12 Aug 2009 20:00 (+2:00),12-08-2009,"Solna, Råsunda Fotbollstadion",Sweden,1-0 Sweden vs Finland,0-1 Finland vs Sweden,Lost,Friendly International
+701,701,05 Sep 2009 20:00 (+5:00),05-09-2009,"Lankaran, Şəhər Stadionu",Azerbaijan,1-2 Azerbaijan vs Finland,2-1 Finland vs Azerbaijan,Won,"2010 FIFA World Cup Qualification, Group 4"
+702,702,09 Sep 2009 19:30 (+2:00),09-09-2009,"Vaduz, Rheinpark Stadion",Liechtenstein,1-1 Liechtenstein vs Finland,1-1 Finland vs Liechtenstein,Draw,"2010 FIFA World Cup Qualification, Group 4"
+703,703,10 Oct 2009 17:00 (+3:00),10-10-2009,"Helsinki, Helsingin Olympiastadion",Finland,2-1 Finland vs Wales,2-1 Finland vs Wales,Won,"2010 FIFA World Cup Qualification, Group 4"
+704,704,14 Oct 2009 18:00 (+2:00),14-10-2009,"Hamburg, H.S.H. Nordbank Arena",Germany,1-1 Germany vs Finland,1-1 Finland vs Germany,Draw,"2010 FIFA World Cup Qualification, Group 4"
+705,705,18 Jan 2010 15:30 (+1:00),18-01-2010,"Málaga, Estadio Ciudad de Málaga",Spain,2-0 South Korea vs Finland,0-2 Finland vs South Korea,Lost,Friendly International
+706,706,03 Mar 2010 19:00 (+1:00),03-03-2010,"Attard, Ta`Qali National Stadium",Malta,1-2 Malta vs Finland,2-1 Finland vs Malta,Won,Friendly International
+707,707,21 May 2010 19:00 (+3:00),21-05-2010,"Tallinn, A. Le Coq Arena",Estonia,2-0 Estonia vs Finland,0-2 Finland vs Estonia,Lost,Friendly International
+708,708,29 May 2010 17:00 (+2:00),29-05-2010,"Kielce, Stadion Miejski Arena Kielc",Poland,0-0 Poland vs Finland,0-0 Finland vs Poland,Draw,Friendly International
+709,709,11 Aug 2010 18:00 (+2:00),11-08-2010,"Turku, Veritas Stadion",Finland,1-0 Finland vs Belgium,1-0 Finland vs Belgium,Won,Friendly International
+710,710,03 Sep 2010 19:30 (+3:00),03-09-2010,"Chișinău, Stadionul Zimbru",Moldova,2-0 Moldova vs Finland,0-2 Finland vs Moldova,Lost,"UEFA Euro 2012 Qualifying, Group E"
+711,711,07 Sep 2010 20:30 (+2:00),07-09-2010,"Rotterdam, Stadion de Kuip",Netherlands,2-1 Netherlands vs Finland,1-2 Finland vs Netherlands,Lost,"UEFA Euro 2012 Qualifying, Group E"
+712,712,12 Oct 2010 18:30 (+3:00),12-10-2010,"Helsinki, Helsingin Olympiastadion",Finland,1-2 Finland vs Hungary,1-2 Finland vs Hungary,Lost,"UEFA Euro 2012 Qualifying, Group E"
+713,713,17 Nov 2010 18:30 (+2:00),17-11-2010,"Helsinki, Helsingin Olympiastadion",Finland,8-0 Finland vs San Marino,8-0 Finland vs San Marino,Won,"UEFA Euro 2012 Qualifying, Group E"
+714,714,09 Feb 2011 20:30 (+1:00),09-02-2011,"Ghent, Jules Ottenstadion",Belgium,1-1 Belgium vs Finland,1-1 Finland vs Belgium,Draw,Friendly International
+715,715,29 Mar 2011 20:45 (+1:00),29-03-2011,"Aveiro, Estádio Municipal de Aveiro",Portugal,2-0 Portugal vs Finland,0-2 Finland vs Portugal,Lost,Friendly International
+716,716,03 Jun 2011 20:30 (+2:00),03-06-2011,"Serravalle, Stadio Olimpico",San Marino,0-1 San Marino vs Finland,1-0 Finland vs San Marino,Won,"UEFA Euro 2012 Qualifying, Group E"
+717,717,07 Jun 2011 20:00 (+2:00),07-06-2011,"Solna, Råsunda Fotbollstadion",Sweden,5-0 Sweden vs Finland,0-5 Finland vs Sweden,Lost,"UEFA Euro 2012 Qualifying, Group E"
+718,718,10 Aug 2011 19:30 (+3:00),10-08-2011,"Rīga, Skonto Stadium",Latvia,0-2 Latvia vs Finland,2-0 Finland vs Latvia,Won,Friendly International
+719,719,02 Sep 2011 18:30 (+3:00),02-09-2011,"Helsinki, Helsingin Olympiastadion",Finland,4-1 Finland vs Moldova,4-1 Finland vs Moldova,Won,"UEFA Euro 2012 Qualifying, Group E"
+720,720,06 Sep 2011 20:00 (+3:00),06-09-2011,"Helsinki, Helsingin Olympiastadion",Finland,0-2 Finland vs Netherlands,0-2 Finland vs Netherlands,Lost,"UEFA Euro 2012 Qualifying, Group E"
+721,721,07 Oct 2011 19:15 (+3:00),07-10-2011,"Helsinki, Helsingin Olympiastadion",Finland,1-2 Finland vs Sweden,1-2 Finland vs Sweden,Lost,"UEFA Euro 2012 Qualifying, Group E"
+722,722,11 Oct 2011 20:00 (+2:00),11-10-2011,"Budapest, Puskás Ferenc Stadion",Hungary,0-0 Hungary vs Finland,0-0 Finland vs Hungary,Draw,"UEFA Euro 2012 Qualifying, Group E"
+723,723,15 Nov 2011 20:15 (+1:00),15-11-2011,"Esbjerg, Blue Water Arena",Denmark,2-1 Denmark vs Finland,1-2 Finland vs Denmark,Lost,Friendly International
+724,724,22 Jan 2012 17:00 (-4:00),22-01-2012,"Port of Spain, Hasely Crawford Stadium",Trinidad and Tobago,2-3 Trinidad & Tobago vs Finland,3-2 Finland vs Trinidad & Tobago,Won,Friendly International
+725,725,29 Feb 2012 20:30 (+1:00),29-02-2012,"Klagenfurt am Wörthersee, Wörthersee Stadion",Austria,3-1 Austria vs Finland,1-3 Finland vs Austria,Lost,Friendly International
+726,726,26 May 2012 20:00 (+2:00),26-05-2012,"Wals-Siezenheim, Red Bull Arena",Austria,3-2 Finland vs Turkey,3-2 Finland vs Turkey,Won,Friendly International
+727,727,01 Jun 2012 20:30 (+3:00),01-06-2012,"Tartu, Tamme Staadion",Estonia,1-2 Estonia vs Finland,2-1 Finland vs Estonia,Won,"Baltic Cup 2012, Semifinal"
+728,728,03 Jun 2012 13:30 (+3:00),03-06-2012,"Võru, Võru Linnastaadion",Estonia,1-1 Finland vs Latvia,1-1 Finland vs Latvia,Draw,"Baltic Cup 2012, Final"
+729,729,15 Aug 2012 19:45 (+1:00),15-08-2012,"Belfast, Windsor Park",United Kingdom (Northern Ireland),3-3 Northern Ireland vs Finland,3-3 Finland vs Northern Ireland,Draw,Friendly International
+730,730,07 Sep 2012 21:30 (+3:00),07-09-2012,"Helsinki, Helsingin Olympiastadion",Finland,0-1 Finland vs France,0-1 Finland vs France,Lost,"2014 FIFA World Cup Qualification, Group I"
+731,731,11 Sep 2012 18:00 (+2:00),11-09-2012,"Teplice, Stadion Na Stínadlech",Czech Republic,0-1 Czech Republic vs Finland,1-0 Finland vs Czech Republic,Won,Friendly International
+732,732,12 Oct 2012 18:30 (+3:00),12-10-2012,"Helsinki, Helsingin Olympiastadion",Finland,1-1 Finland vs Georgia,1-1 Finland vs Georgia,Draw,"2014 FIFA World Cup Qualification, Group I"
+733,733,14 Nov 2012 19:00 (+2:00),14-11-2012,"Strovolos, G.S.P. Stadium",Cyprus,0-3 Cyprus vs Finland,3-0 Finland vs Cyprus,Won,Friendly International
+734,734,23 Jan 2013 19:00 (+7:00),23-01-2013,"Chiang Mai, 700th Anniversary Stadium",Thailand,1-3 Thailand vs Finland,3-1 Finland vs Thailand,Won,"King's Cup 2013, Semifinal"
+735,735,26 Jan 2013 17:00 (+7:00),26-01-2013,"Chiang Mai, 700th Anniversary Stadium",Thailand,0-3 Finland vs Sweden,0-3 Finland vs Sweden,Lost,"King's Cup 2013, Final"
+736,736,06 Feb 2013 20:00 (+2:00),06-02-2013,"Netanya, Netanya Stadium",Israel,2-1 Israel vs Finland,1-2 Finland vs Israel,Lost,Friendly International
+737,737,22 Mar 2013 20:45 (+1:00),22-03-2013,"Gijón, Estadio Municipal El Molinón",Spain,1-1 Spain vs Finland,1-1 Finland vs Spain,Draw,"2014 FIFA World Cup Qualification, Group I"
+738,738,26 Mar 2013 19:30 (+1:00),26-03-2013,"Luxembourg City, Stade Josy Barthel",Luxembourg,0-3 Luxembourg vs Finland,3-0 Finland vs Luxembourg,Won,Friendly International
+739,739,07 Jun 2013 19:00 (+3:00),07-06-2013,"Helsinki, Helsingin Olympiastadion",Finland,1-0 Finland vs Belarus,1-0 Finland vs Belarus,Won,"2014 FIFA World Cup Qualification, Group I"
+740,740,11 Jun 2013 20:00 (+3:00),11-06-2013,"Gomel, Central Stadium",Belarus,1-1 Belarus vs Finland,1-1 Finland vs Belarus,Draw,"2014 FIFA World Cup Qualification, Group I"
+741,741,14 Aug 2013 19:00 (+3:00),14-08-2013,"Turku, Veritas Stadion",Finland,2-0 Finland vs Slovenia,2-0 Finland vs Slovenia,Won,Friendly International
+742,742,06 Sep 2013 21:30 (+3:00),06-09-2013,"Helsinki, Helsingin Olympiastadion",Finland,0-2 Finland vs Spain,0-2 Finland vs Spain,Lost,"2014 FIFA World Cup Qualification, Group I"
+743,743,10 Sep 2013 21:00 (+4:00),10-09-2013,"Tbilisi, Dinamo Arena",Georgia,0-1 Georgia vs Finland,1-0 Finland vs Georgia,Won,"2014 FIFA World Cup Qualification, Group I"
+744,744,15 Oct 2013 21:00 (+2:00),15-10-2013,"Saint-Denis, Stade de France",France,3-0 France vs Finland,0-3 Finland vs France,Lost,"2014 FIFA World Cup Qualification, Group I"
+745,745,16 Nov 2013 18:00,16-11-2013,"Cardiff, Cardiff City Stadium",United Kingdom (Wales),1-1 Wales vs Finland,1-1 Finland vs Wales,Draw,Friendly International
+746,746,24 Jan 2014 18:30 (+4:00),24-01-2014,"Nizwa, Nizwa Sports Complex",Oman,0-0 Oman vs Finland,0-0 Finland vs Oman,Draw,Friendly International
+747,747,05 Mar 2014 18:00 (+1:00),05-03-2014,"Győr, E.T.O. Park",Hungary,1-2 Hungary vs Finland,2-1 Finland vs Hungary,Won,Friendly International
+748,748,21 May 2014 19:00 (+3:00),21-05-2014,"Helsinki, Helsingin Olympiastadion",Finland,2-2 Finland vs Czech Republic,2-2 Finland vs Czech Republic,Draw,Friendly International
+749,749,29 May 2014 17:00 (+3:00),29-05-2014,"Ventspils, Olimpiskais Centrs Ventspils",Latvia,1-0 Lithuania vs Finland,0-1 Finland vs Lithuania,Lost,"Baltic Cup 2014, Semifinal"
+750,750,31 May 2014 15:00 (+3:00),31-05-2014,"Ventspils, Olimpiskais Centrs Ventspils",Latvia,2-0 Finland vs Estonia,2-0 Finland vs Estonia,Won,"Baltic Cup 2014, For 3rd place"
+751,751,07 Sep 2014 19:45 (+1:00),07-09-2014,"Tórshavn, Tórsvøllur",Faroe Islands,1-3 Faroe Islands vs Finland,3-1 Finland vs Faroe Islands,Won,"UEFA Euro 2016 Qualifying, Group F"
+752,752,11 Oct 2014 21:45 (+3:00),11-10-2014,"Helsinki, Helsingin Olympiastadion",Finland,1-1 Finland vs Greece,1-1 Finland vs Greece,Draw,"UEFA Euro 2016 Qualifying, Group F"
+753,753,14 Oct 2014 21:45 (+3:00),14-10-2014,"Helsinki, Helsingin Olympiastadion",Finland,0-2 Finland vs Romania,0-2 Finland vs Romania,Lost,"UEFA Euro 2016 Qualifying, Group F"
+754,754,14 Nov 2014 20:45 (+2:00),14-11-2014,"Budapest, Groupama Aréna",Hungary,1-0 Hungary vs Finland,0-1 Finland vs Hungary,Lost,"UEFA Euro 2016 Qualifying, Group F"
+755,755,18 Nov 2014 17:00 (+1:00),18-11-2014,"Žilina, Štadión Pod Dubňom",Slovakia,2-1 Slovakia vs Finland,1-2 Finland vs Slovakia,Lost,Friendly International
+756,756,19 Jan 2015 22:30 (+4:00),19-01-2015,"Abu Dhabi, Zayed Sports City Stadium",United Arab Emirates,0-1 Sweden vs Finland,1-0 Finland vs Sweden,Won,Friendly International
+757,757,22 Jan 2015 18:15 (+4:00),22-01-2015,"Dubai, The Sevens Stadium",United Arab Emirates,0-0 Yemen vs Finland,0-0 Finland vs Yemen,Draw,Friendly International
+758,758,29 Mar 2015 17:00 (+1:00),29-03-2015,"Belfast, Windsor Park",United Kingdom (Northern Ireland),2-1 Northern Ireland vs Finland,1-2 Finland vs Northern Ireland,Lost,"UEFA Euro 2016 Qualifying, Group F"
+759,759,09 Jun 2015 19:00 (+3:00),09-06-2015,"Turku, Veritas Stadion",Finland,0-2 Finland vs Estonia,0-2 Finland vs Estonia,Lost,Friendly International
+760,760,13 Jun 2015 19:00 (+3:00),13-06-2015,"Helsinki, Helsingin Olympiastadion",Finland,0-1 Finland vs Hungary,0-1 Finland vs Hungary,Lost,"UEFA Euro 2016 Qualifying, Group F"
+761,761,04 Sep 2015 21:45 (+3:00),04-09-2015,"Piraeus, Georgios Karaiskakis Stadium",Greece,0-1 Greece vs Finland,1-0 Finland vs Greece,Won,"UEFA Euro 2016 Qualifying, Group F"
+762,762,07 Sep 2015 21:45 (+3:00),07-09-2015,"Helsinki, Helsingin Olympiastadion",Finland,1-0 Finland vs Faroe Islands,1-0 Finland vs Faroe Islands,Won,"UEFA Euro 2016 Qualifying, Group F"
+763,763,08 Oct 2015 21:45 (+3:00),08-10-2015,"Bucharest, Arena Națională",Romania,1-1 Romania vs Finland,1-1 Finland vs Romania,Draw,"UEFA Euro 2016 Qualifying, Group F"
+764,764,11 Oct 2015 19:00 (+3:00),11-10-2015,"Helsinki, Helsingin Olympiastadion",Finland,1-1 Finland vs Northern Ireland,1-1 Finland vs Northern Ireland,Draw,"UEFA Euro 2016 Qualifying, Group F"
+765,765,10 Jan 2016 18:45 (+4:00),10-01-2016,"Abu Dhabi, Armed Forces Sport Club Stadium",United Arab Emirates,3-0 Sweden vs Finland,0-3 Finland vs Sweden,Lost,Friendly International
+766,766,13 Jan 2016 20:00 (+4:00),13-01-2016,"Abu Dhabi, Armed Forces Sport Club Stadium",United Arab Emirates,0-1 Finland vs Iceland,0-1 Finland vs Iceland,Lost,Friendly International
+767,767,26 Mar 2016 17:30 (+1:00),26-03-2016,"Wrocław, Stadion Miejski we Wrocławiu",Poland,5-0 Poland vs Finland,0-5 Finland vs Poland,Lost,Friendly International
+768,768,29 Mar 2016 20:00 (+2:00),29-03-2016,"Oslo, Ullevaal Stadion",Norway,2-0 Norway vs Finland,0-2 Finland vs Norway,Lost,Friendly International
+769,769,01 Jun 2016 20:45 (+2:00),01-06-2016,"Brussels, Stade Roi Baudouin",Belgium,1-1 Belgium vs Finland,1-1 Finland vs Belgium,Draw,Friendly International
+770,770,06 Jun 2016 20:45 (+2:00),06-06-2016,"Verona, Stadio Marcantonio Bentegodi",Italy,2-0 Italy vs Finland,0-2 Finland vs Italy,Lost,Friendly International
+771,771,31 Aug 2016 20:45 (+2:00),31-08-2016,"Mönchengladbach, Stadion im Borussia-Park",Germany,2-0 Germany vs Finland,0-2 Finland vs Germany,Lost,Friendly International
+772,772,05 Sep 2016 21:45 (+3:00),05-09-2016,"Turku, Veritas Stadion",Finland,1-1 Finland vs Kosovo,1-1 Finland vs Kosovo,Draw,"2018 FIFA World Cup Qualification, Group I"
+773,773,06 Oct 2016 18:45,06-10-2016,"Reykjavík, Laugardalsvöllur",Iceland,3-2 Iceland vs Finland,2-3 Finland vs Iceland,Lost,"2018 FIFA World Cup Qualification, Group I"
+774,774,09 Oct 2016 19:00 (+3:00),09-10-2016,"Tampere, Tampereen (Ratinan) Stadion",Finland,0-1 Finland vs Croatia,0-1 Finland vs Croatia,Lost,"2018 FIFA World Cup Qualification, Group I"
+775,775,12 Nov 2016 21:45 (+2:00),12-11-2016,"Odesa, Chornomorets Stadium",Ukraine,1-0 Ukraine vs Finland,0-1 Finland vs Ukraine,Lost,"2018 FIFA World Cup Qualification, Group I"
+776,776,09 Jan 2017 18:00 (+4:00),09-01-2017,"Al Ain, Tahnoun bin Mohammed Stadium",United Arab Emirates,0-1 Morocco vs Finland,1-0 Finland vs Morocco,Won,Friendly International
+777,777,13 Jan 2017 19:00 (+4:00),13-01-2017,"Abu Dhabi, Armed Forces Sport Club Stadium",United Arab Emirates,2-0 Slovenia vs Finland,0-2 Finland vs Slovenia,Lost,Friendly International
+778,778,24 Mar 2017 19:00 (+2:00),24-03-2017,"Antalya, Antalya Stadyumu",Turkey,2-0 Turkey vs Finland,0-2 Finland vs Turkey,Lost,"2018 FIFA World Cup Qualification, Group I"
+779,779,28 Mar 2017 20:45 (+2:00),28-03-2017,"Innsbruck, Tivoli Stadion",Austria,1-1 Austria vs Finland,1-1 Finland vs Austria,Draw,Friendly International
+780,780,07 Jun 2017 19:00 (+3:00),07-06-2017,"Turku, Veritas Stadion",Finland,1-1 Finland vs Liechtenstein,1-1 Finland vs Liechtenstein,Draw,Friendly International
+781,781,11 Jun 2017 19:00 (+3:00),11-06-2017,"Tampere, Tampereen (Ratinan) Stadion",Finland,1-2 Finland vs Ukraine,1-2 Finland vs Ukraine,Lost,"2018 FIFA World Cup Qualification, Group I"
+782,782,02 Sep 2017 19:00 (+3:00),02-09-2017,"Tampere, Tampereen (Ratinan) Stadion",Finland,1-0 Finland vs Iceland,1-0 Finland vs Iceland,Won,"2018 FIFA World Cup Qualification, Group I"
+783,783,05 Sep 2017 20:45 (+2:00),05-09-2017,"Shkodër, Loro Boriçi Stadiumi",Albania,0-1 Kosovo vs Finland,1-0 Finland vs Kosovo,Won,"2018 FIFA World Cup Qualification, Group I"
+784,784,06 Oct 2017 20:45 (+2:00),06-10-2017,"Rijeka, Stadion H.N.K. Rijeka (Rujevica)",Croatia,1-1 Croatia vs Finland,1-1 Finland vs Croatia,Draw,"2018 FIFA World Cup Qualification, Group I"
+785,785,09 Oct 2017 21:45 (+3:00),09-10-2017,"Turku, Veritas Stadion",Finland,2-2 Finland vs Turkey,2-2 Finland vs Turkey,Draw,"2018 FIFA World Cup Qualification, Group I"
+786,786,09 Nov 2017 19:00 (+2:00),09-11-2017,"Helsinki, Telia 5G Areena",Finland,3-0 Finland vs Estonia,3-0 Finland vs Estonia,Won,Friendly International
+787,787,11 Jan 2018 16:30 (+4:00),11-01-2018,"Abu Dhabi, Zayed Sports City Stadium",United Arab Emirates,1-2 Jordan vs Finland,2-1 Finland vs Jordan,Won,Friendly International
+788,788,23 Mar 2018 18:00 (+2:00),23-03-2018,"Belek, Gloria Sports Arena",Turkey,0-0 Finland vs Macedonia,0-0 Finland vs Macedonia,Draw,Friendly International
+789,789,26 Mar 2018 19:00 (+3:00),26-03-2018,"Belek, Gloria Sports Arena",Turkey,5-0 Finland vs Malta,5-0 Finland vs Malta,Won,Friendly International
+790,790,05 Jun 2018 20:30 (+3:00),05-06-2018,"Ploiești, Stadionul Ilie Oană",Romania,2-0 Romania vs Finland,0-2 Finland vs Romania,Lost,Friendly International
+791,791,09 Jun 2018 19:00 (+3:00),09-06-2018,"Tampere, Tampereen (Ratinan) Stadion",Finland,2-0 Finland vs Belarus,2-0 Finland vs Belarus,Won,Friendly International
+792,792,08 Sep 2018 19:00 (+3:00),08-09-2018,"Tampere, Tampereen (Ratinan) Stadion",Finland,1-0 Finland vs Hungary,1-0 Finland vs Hungary,Won,"2018-19 UEFA Nations League, Group C2"
+793,793,11 Sep 2018 21:45 (+3:00),11-09-2018,"Turku, Veritas Stadion",Finland,1-0 Finland vs Estonia,1-0 Finland vs Estonia,Won,"2018-19 UEFA Nations League, Group C2"
+794,794,12 Oct 2018 21:45 (+3:00),12-10-2018,"Tallinn, A. Le Coq Arena",Estonia,0-1 Estonia vs Finland,1-0 Finland vs Estonia,Won,"2018-19 UEFA Nations League, Group C2"
+795,795,15 Oct 2018 21:45 (+3:00),15-10-2018,"Tampere, Tampereen (Ratinan) Stadion",Finland,2-0 Finland vs Greece,2-0 Finland vs Greece,Won,"2018-19 UEFA Nations League, Group C2"
+796,796,15 Nov 2018 21:45 (+2:00),15-11-2018,"Marousi, Olympic Stadium of Athens \""Spyros Louis\"",""1-0 Greece vs Finland",Greece,0-1 Finland vs Greece,Lost,"2018-19 UEFA Nations League, Group C2",
+797,797,18 Nov 2018 21:45 (+2:00),18-11-2018,"Budapest, Groupama Aréna",Hungary,2-0 Hungary vs Finland,0-2 Finland vs Hungary,Lost,"2018-19 UEFA Nations League, Group C2"
+798,798,08 Jan 2019 19:45 (+3:00),08-01-2019,"Doha, Sheikh Jassim Bin Hamad (Al-Sadd) Stadium",Qatar,1-0 Finland vs Sweden,1-0 Finland vs Sweden,Won,Friendly International
+799,799,11 Jan 2019 15:00 (+3:00),11-01-2019,"Al Rayyan, Khalifa International Stadium",Qatar,2-1 Estonia vs Finland,1-2 Finland vs Estonia,Lost,Friendly International
+800,800,23 Mar 2019 20:45 (+1:00),23-03-2019,"Udine, Stadio Friuli",Italy,2-0 Italy vs Finland,0-2 Finland vs Italy,Lost,"UEFA Euro 2020 Qualifying, Group J"
+801,801,26 Mar 2019 21:00 (+4:00),26-03-2019,"Yerevan, Republican Vazgen Sargsyan Stadium",Armenia,0-2 Armenia vs Finland,2-0 Finland vs Armenia,Won,"UEFA Euro 2020 Qualifying, Group J"
+802,802,08 Jun 2019 18:00 (+2:00),08-06-2019,"Tampere, Tampereen (Ratinan) Stadion",Finland,2-0 Finland vs Bosnia & Herzegovina,2-0 Finland vs Bosnia & Herzegovina,Won,"UEFA Euro 2020 Qualifying, Group J"
+803,803,11 Jun 2019 20:45 (+2:00),11-06-2019,"Vaduz, Rheinpark Stadion",Liechtenstein,0-2 Liechtenstein vs Finland,2-0 Finland vs Liechtenstein,Won,"UEFA Euro 2020 Qualifying, Group J"
+804,804,05 Sep 2019 21:45 (+3:00),05-09-2019,"Tampere, Tampereen (Ratinan) Stadion",Finland,1-0 Finland vs Greece,1-0 Finland vs Greece,Won,"UEFA Euro 2020 Qualifying, Group J"
+805,805,08 Sep 2019 21:45 (+3:00),08-09-2019,"Tampere, Tampereen (Ratinan) Stadion",Finland,1-2 Finland vs Italy,1-2 Finland vs Italy,Lost,"UEFA Euro 2020 Qualifying, Group J"
+806,806,12 Oct 2019 18:00 (+2:00),12-10-2019,"Zenica, Stadion Bilino Polje",Bosnia and Herzegovina,4-1 Bosnia & Herzegovina vs Finland,1-4 Finland vs Bosnia & Herzegovina,Lost,"UEFA Euro 2020 Qualifying, Group J"
+807,807,15 Oct 2019 19:00 (+3:00),15-10-2019,"Turku, Veritas Stadion",Finland,3-0 Finland vs Armenia,3-0 Finland vs Armenia,Won,"UEFA Euro 2020 Qualifying, Group J"
+808,808,15 Nov 2019 19:00 (+2:00),15-11-2019,"Helsinki, Telia 5G Areena",Finland,3-0 Finland vs Liechtenstein,3-0 Finland vs Liechtenstein,Won,"UEFA Euro 2020 Qualifying, Group J"
+809,809,18 Nov 2019 21:45 (+2:00),18-11-2019,"Marousi, Olympic Stadium of Athens \""Spyros Louis\"",""2-1 Greece vs Finland",Greece,1-2 Finland vs Greece,Lost,"UEFA Euro 2020 Qualifying, Group J",
+810,810,03 Sep 2020 21:45 (+3:00),03-09-2020,"Helsinki, Helsingin Olympiastadion",Finland,0-1 Finland vs Wales,0-1 Finland vs Wales,Lost,"2020-21 UEFA Nations League, Group B4"
+811,811,06 Sep 2020 17:00 (+1:00),06-09-2020,"Dublin, Aviva Stadium",Ireland,0-1 Rep. of Ireland vs Finland,1-0 Finland vs Rep. of Ireland,Won,"2020-21 UEFA Nations League, Group B4"
+812,812,07 Oct 2020 20:45 (+2:00),07-10-2020,"Gdańsk, Stadion Energa",Poland,5-1 Poland vs Finland,1-5 Finland vs Poland,Lost,Friendly International
+813,813,11 Oct 2020 19:00 (+3:00),11-10-2020,"Helsinki, Helsingin Olympiastadion",Finland,2-0 Finland vs Bulgaria,2-0 Finland vs Bulgaria,Won,"2020-21 UEFA Nations League, Group B4"
+814,814,14 Oct 2020 19:00 (+3:00),14-10-2020,"Helsinki, Helsingin Olympiastadion",Finland,1-0 Finland vs Rep. of Ireland,1-0 Finland vs Rep. of Ireland,Won,"2020-21 UEFA Nations League, Group B4"
+815,815,11 Nov 2020 21:10 (+1:00),11-11-2020,"Saint-Denis, Stade de France",France,0-2 France vs Finland,2-0 Finland vs France,Won,Friendly International
+816,816,15 Nov 2020 19:00 (+2:00),15-11-2020,"Sofia, National Stadium Vasil Levski",Bulgaria,1-2 Bulgaria vs Finland,2-1 Finland vs Bulgaria,Won,"2020-21 UEFA Nations League, Group B4"
+817,817,18 Nov 2020 19:45,18-11-2020,"Cardiff, Cardiff City Stadium",United Kingdom (Wales),3-1 Wales vs Finland,1-3 Finland vs Wales,Lost,"2020-21 UEFA Nations League, Group B4"
+818,818,24 Mar 2021 21:45 (+2:00),24-03-2021,"Helsinki, Helsingin Olympiastadion",Finland,2-2 Finland vs Bosnia & Herzegovina,2-2 Finland vs Bosnia & Herzegovina,Draw,"2022 FIFA World Cup Qualification, Group D"
+819,819,28 Mar 2021 21:45 (+3:00),28-03-2021,"Kyiv, Olimpiysky National Sports Complex",Ukraine,1-1 Ukraine vs Finland,1-1 Finland vs Ukraine,Draw,"2022 FIFA World Cup Qualification, Group D"
+820,820,31 Mar 2021 20:45 (+2:00),31-03-2021,"St. Gallen, Kybunpark",Switzerland,3-2 Switzerland vs Finland,2-3 Finland vs Switzerland,Lost,Friendly International
+821,821,29 May 2021 19:00 (+2:00),29-05-2021,"Solna, Friends Arena",Sweden,2-0 Sweden vs Finland,0-2 Finland vs Sweden,Lost,Friendly International
+822,822,04 Jun 2021 19:00 (+3:00),04-06-2021,"Helsinki, Helsingin Olympiastadion",Finland,0-1 Finland vs Estonia,0-1 Finland vs Estonia,Lost,Friendly International
+823,823,12 Jun 2021 18:00 (+2:00),12-06-2021,"Copenhagen, Parken",Denmark,0-1 Denmark vs Finland,1-0 Finland vs Denmark,Won,"2020 UEFA European Championship, Group B"
+824,824,16 Jun 2021 16:00 (+3:00),16-06-2021,"Saint Petersburg, Gazprom Arena",Russia,0-1 Finland vs Russia,0-1 Finland vs Russia,Lost,"2020 UEFA European Championship, Group B"
+825,825,21 Jun 2021 22:00 (+3:00),21-06-2021,"Saint Petersburg, Gazprom Arena",Russia,0-2 Finland vs Belgium,0-2 Finland vs Belgium,Lost,"2020 UEFA European Championship, Group B"
+826,826,01 Sep 2021 19:00 (+3:00),01-09-2021,"Helsinki, Helsingin Olympiastadion",Finland,0-0 Finland vs Wales,0-0 Finland vs Wales,Draw,Friendly International
+827,827,04 Sep 2021 16:00 (+3:00),04-09-2021,"Helsinki, Helsingin Olympiastadion",Finland,1-0 Finland vs Kazakhstan,1-0 Finland vs Kazakhstan,Won,"2022 FIFA World Cup Qualification, Group D"
+828,828,07 Sep 2021 20:45 (+2:00),07-09-2021,"Décines-Charpieu, Groupama Stadium",France,2-0 France vs Finland,0-2 Finland vs France,Lost,"2022 FIFA World Cup Qualification, Group D"
+829,829,09 Oct 2021 19:00 (+3:00),09-10-2021,"Helsinki, Helsingin Olympiastadion",Finland,1-2 Finland vs Ukraine,1-2 Finland vs Ukraine,Lost,"2022 FIFA World Cup Qualification, Group D"
+830,830,12 Oct 2021 20:00 (+6:00),12-10-2021,"Nur-Sultan, Astana Arena",Kazakhstan,0-2 Kazakhstan vs Finland,2-0 Finland vs Kazakhstan,Won,"2022 FIFA World Cup Qualification, Group D"
+831,831,13 Nov 2021 15:00 (+1:00),13-11-2021,"Zenica, Stadion Bilino Polje",Bosnia and Herzegovina,1-3 Bosnia & Herzegovina vs Finland,3-1 Finland vs Bosnia & Herzegovina,Won,"2022 FIFA World Cup Qualification, Group D"
+832,832,16 Nov 2021 21:45 (+2:00),16-11-2021,"Helsinki, Helsingin Olympiastadion",Finland,0-2 Finland vs France,0-2 Finland vs France,Lost,"2022 FIFA World Cup Qualification, Group D"
+833,833,26 Mar 2022 17:00 (+1:00),26-03-2022,"Murcia, Estadio Enrique Roca de Murcia",Spain,1-1 Finland vs Iceland,1-1 Finland vs Iceland,Draw,Friendly International
+834,834,29 Mar 2022 18:00 (+2:00),29-03-2022,"Murcia, Estadio Enrique Roca de Murcia",Spain,0-2 Finland vs Slovakia,0-2 Finland vs Slovakia,Lost,Friendly International
+835,835,04 Jun 2022 19:00 (+3:00),04-06-2022,"Helsinki, Helsingin Olympiastadion",Finland,1-1 Finland vs Bosnia & Herzegovina,1-1 Finland vs Bosnia & Herzegovina,Draw,"2022-23 UEFA Nations League, Group B3"
+836,836,07 Jun 2022 19:00 (+3:00),07-06-2022,"Helsinki, Helsingin Olympiastadion",Finland,2-0 Finland vs Montenegro,2-0 Finland vs Montenegro,Won,"2022-23 UEFA Nations League, Group B3"
+837,837,11 Jun 2022 21:45 (+3:00),11-06-2022,"Bucharest, Stadionul Rapid-Giulești",Romania,1-0 Romania vs Finland,0-1 Finland vs Romania,Lost,"2022-23 UEFA Nations League, Group B3"
+838,838,14 Jun 2022 20:45 (+2:00),14-06-2022,"Zenica, Stadion Bilino Polje",Bosnia and Herzegovina,3-2 Bosnia & Herzegovina vs Finland,2-3 Finland vs Bosnia & Herzegovina,Lost,"2022-23 UEFA Nations League, Group B3"
+839,839,23 Sep 2022 21:45 (+3:00),23-09-2022,"Helsinki, Helsingin Olympiastadion",Finland,1-1 Finland vs Romania,1-1 Finland vs Romania,Draw,"2022-23 UEFA Nations League, Group B3"
+840,840,26 Sep 2022 20:45 (+2:00),26-09-2022,"Podgorica, Stadion Pod Goricom",Montenegro,0-2 Montenegro vs Finland,2-0 Finland vs Montenegro,Won,"2022-23 UEFA Nations League, Group B3"
+841,841,17 Nov 2022 18:00 (+1:00),17-11-2022,"Skopje, Nacionalna Arena Toše Proeski",North Macedonia,1-1 North Macedonia vs Finland,1-1 Finland vs North Macedonia,Draw,Friendly International
+842,842,20 Nov 2022 14:00 (+1:00),20-11-2022,"Oslo, Ullevaal Stadion",Norway,1-1 Norway vs Finland,1-1 Finland vs Norway,Draw,Friendly International
+843,843,09 Jan 2023 18:45,09-01-2023,"Loulé, Estádio Algarve",Portugal,2-0 Sweden vs Finland,0-2 Finland vs Sweden,Lost,Friendly International
+844,844,12 Jan 2023 16:00,12-01-2023,"Albufeira, Estadio da Nora",Portugal,0-1 Finland vs Estonia,0-1 Finland vs Estonia,Lost,Friendly International
+845,845,23 Mar 2023 20:45 (+1:00),23-03-2023,"Copenhagen, Parken",Denmark,3-1 Denmark vs Finland,1-3 Finland vs Denmark,Lost,"UEFA Euro 2024 Qualifying, Group H"
+846,846,26 Mar 2023 19:45 (+1:00),26-03-2023,"Belfast, National Football Stadium at Windsor Park",Denmark,0-1 Northern Ireland vs Finland,1-0 Finland vs Northern Ireland,Won,"UEFA Euro 2024 Qualifying, Group H"
+847,847,16 Jun 2023 19:00 (+3:00),16-06-2023,"Helsinki, Helsingin Olympiastadion",Finland,2-0 Finland vs Slovenia,2-0 Finland vs Slovenia,Won,"UEFA Euro 2024 Qualifying, Group H"
+848,848,19 Jun 2023 19:00 (+3:00),19-06-2023,"Helsinki, Helsingin Olympiastadion",Finland,6-0 Finland vs San Marino,6-0 Finland vs San Marino,Won,"UEFA Euro 2024 Qualifying, Group H"
+849,849,07 Sep 2023 20:00 (+6:00),07-09-2023,"Astana, Astana Arena",Kazakhstan,0-1 Kazakhstan vs Finland,1-0 Finland vs Kazakhstan,Won,"UEFA Euro 2024 Qualifying, Group H"
+850,850,10 Sep 2023 19:00 (+3:00),10-09-2023,"Helsinki, Helsingin Olympiastadion",Finland,0-1 Finland vs Denmark,0-1 Finland vs Denmark,Lost,"UEFA Euro 2024 Qualifying, Group H"
+851,851,14 Oct 2023 18:00 (+2:00),14-10-2023,"Ljubljana, Stadion Stožice",Slovenia,3-0 Slovenia vs Finland,0-3 Finland vs Slovenia,Lost,"UEFA Euro 2024 Qualifying, Group H"
+852,852,17 Oct 2023 19:00 (+3:00),17-10-2023,"Helsinki, Helsingin Olympiastadion",Finland,1-2 Finland vs Kazakhstan,1-2 Finland vs Kazakhstan,Lost,"UEFA Euro 2024 Qualifying, Group H"
+853,853,17 Nov 2023 19:00 (+2:00),17-11-2023,"Helsinki, Helsingin Olympiastadion",Finland,4-0 Finland vs Northern Ireland,4-0 Finland vs Northern Ireland,Won,"UEFA Euro 2024 Qualifying, Group H"
+854,854,20 Nov 2023 20:45 (+1:00),20-11-2023,"Serravalle, San Marino Stadium",San Marino,1-2 San Marino vs Finland,2-1 Finland vs San Marino,Won,"UEFA Euro 2024 Qualifying, Group H"
+855,855,21 Mar 2024 19:45,21-03-2024,"Cardiff, Cardiff City Stadium",United Kingdom (Wales),4-1 Wales vs Finland,1-4 Finland vs Wales,Lost,"UEFA Euro 2024 Qualifying, Play-off"
+856,856,26 Mar 2024 19:00 (+2:00),26-03-2024,"Helsinki, Helsingin Olympiastadion",Finland,2-1 Finland vs Estonia,2-1 Finland vs Estonia,Won,Friendly International
+857,857,04 Jun 2024 19:45 (+1:00),04-06-2024,"Lisbon, Estádio José Alvalade",Portugal,4-2 Portugal vs Finland,2-4 Finland vs Portugal,Lost,Friendly International
+858,858,07 Jun 2024 19:45 (+1:00),07-06-2024,"Glasgow, Hampden Park",United Kingdom (Scotland),2-2 Scotland vs Finland,2-2 Finland vs Scotland,Draw,Friendly International
+859,859,07 Sep 2024 21:45 (+3:00),07-09-2024,"Nea Filadelfeia, O.P.A.P. Arena",Greece,3-0 Greece vs Finland,0-3 Finland vs Greece,Lost,"2024-25 UEFA Nations League, Group B2"
+860,860,10 Sep 2024 19:45 (+1:00),10-09-2024,"London, Wembley Stadium",United Kingdom (England),2-0 England vs Finland,0-2 Finland vs England,Lost,"2024-25 UEFA Nations League, Group B2"
+861,861,10 Oct 2024 21:45 (+3:00),10-10-2024,"Helsinki, Helsingin Olympiastadion",Finland,1-2 Finland vs Rep. of Ireland,1-2 Finland vs Rep. of Ireland,Lost,"2024-25 UEFA Nations League, Group B2"
+862,862,13 Oct 2024 19:00 (+3:00),13-10-2024,"Helsinki, Helsingin Olympiastadion",Finland,1-3 Finland vs England,1-3 Finland vs England,Lost,"2024-25 UEFA Nations League, Group B2"
+863,863,14 Nov 2024 19:45,14-11-2024,"Dublin, Aviva Stadium",Ireland,1-0 Rep. of Ireland vs Finland,0-1 Finland vs Rep. of Ireland,Lost,"2024-25 UEFA Nations League, Group B2"
+864,864,17 Nov 2024 19:00 (+2:00),17-11-2024,"Helsinki, Helsingin Olympiastadion",Finland,0-2 Finland vs Greece,0-2 Finland vs Greece,Lost,"2024-25 UEFA Nations League, Group B2"
+865,865,21 Mar 2025 20:45 (+1:00),21-03-2025,"Attard, Ta'Qali National Stadium",Malta,0-1 Malta vs Finland,1-0 Finland vs Malta,Won,"2026 FIFA World Cup Qualification, Group G"
+866,866,24 Mar 2025 19:00 (+2:00),24-03-2025,"Kaunas, Steponas Darius ir Stasys Girėnas Stadionas",Lithuania,2-2 Lithuania vs Finland,2-2 Finland vs Lithuania,Draw,"2026 FIFA World Cup Qualification, Group G"

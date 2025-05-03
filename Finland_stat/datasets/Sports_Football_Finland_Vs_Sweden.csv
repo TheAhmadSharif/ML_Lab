@@ -1,0 +1,92 @@
+Serial,Match Number,Date,Date_STD,Venue,Venue_Country,Score,Score_Transform,Result,Match_Type
+1,1,22 Oct 1911 13:30 (+1:40),22-10-1911,Helsingfors Eläintarha Stadion,Finland,2-5 Finland vs Sweden,2-5 Finland vs Sweden,Lost,Friendly International
+2,2,27 Jun 1912 20:00 (+1:00),27-06-1912,Solna Råsunda Idrottsplats,Sweden,7-1 Sweden vs Finland,1-7 Finland vs Sweden,Lost,Friendly International
+3,7,24 May 1914 14:00 (+1:00),24-05-1914,Solna Råsunda Idrottsplats,Sweden,4-3 Sweden vs Finland,3-4 Finland vs Sweden,Lost,Friendly International
+4,8,29 May 1919 13:30 (+1:00),29-05-1919,Stockholm Stockholms Olympiastadion,Sweden,1-0 Sweden vs Finland,0-1 Finland vs Sweden,Lost,Friendly International
+5,9,28 Sep 1919 13:00 (+1:40),28-09-1919,Helsinki Töölön Pallokenttä,Finland,3-3 Finland vs Sweden,3-3 Finland vs Sweden,Tie,Friendly International
+6,10,30 May 1920 14:00 (+1:00),30-05-1920,Stockholm Stockholms Olympiastadion,Sweden,4-0 Sweden vs Finland,0-4 Finland vs Sweden,Lost,Friendly International
+7,11,19 Sep 1920 14:00 (+1:40),19-09-1920,Helsinki Töölön Pallokenttä,Finland,1-0 Finland vs Sweden,1-0 Finland vs Sweden,Won,Friendly International
+8,14,29 May 1921 13:30 (+1:00),29-05-1921,Stockholm Stockholms Olympiastadion,Sweden,0-3 Sweden vs Finland,3-0 Finland vs Sweden,Won,Friendly International
+9,18,05 Jun 1922 18:00 (+2:00),05-06-1922,Helsinki Töölön Pallokenttä,Finland,1-4 Finland vs Sweden,1-4 Finland vs Sweden,Lost,Friendly International
+10,23,20 Jun 1923 19:15 (+1:00),20-06-1923,Gävle Strömvallen,Sweden,5-4 Sweden vs Finland,4-5 Finland vs Sweden,Lost,Friendly International
+11,30,28 Jul 1924 19:00 (+2:00),28-07-1924,Helsinki Töölön Pallokenttä,Finland,5-7 Finland vs Sweden,5-7 Finland vs Sweden,Lost,Friendly International
+12,36,09 Jun 1925 19:15 (+1:00),09-06-1925,Gothenburg Slottsskogsvallen,Sweden,4-0 Sweden vs Finland,0-4 Finland vs Sweden,Lost,Friendly International
+13,45,26 Jul 1926 18:15 (+2:00),26-07-1926,Helsinki Töölön Pallokenttä,Finland,2-3 Finland vs Sweden,2-3 Finland vs Sweden,Lost,Friendly International
+14,49,12 Jun 1927 13:15 (+1:00),12-06-1927,Stockholm Stockholms Olympiastadion,Sweden,6-2 Sweden vs Finland,2-6 Finland vs Sweden,Lost,Friendly International
+15,56,02 Sep 1928 13:00 (+2:00),02-09-1928,Helsinki Töölön Pallokenttä,Finland,2-3 Finland vs Sweden,2-3 Finland vs Sweden,Lost,Friendly International
+16,57,14 Jun 1929 19:15 (+1:00),14-06-1929,Stockholm Stockholms Olympiastadion,Sweden,3-1 Sweden vs Finland,1-3 Finland vs Sweden,Lost,Nordic Football Championship 1929-1932
+17,68,28 Sep 1930 13:00 (+2:00),28-09-1930,Helsinki Töölön Pallokenttä,Finland,4-4 Finland vs Sweden,4-4 Finland vs Sweden,Tie,Nordic Football Championship 1929-1932
+18,70,03 Jul 1931 19:00 (+1:00),03-07-1931,Stockholm Stockholms Olympiastadion,Sweden,8-2 Sweden vs Finland,2-8 Finland vs Sweden,Lost,Nordic Football Championship 1929-1932
+19,74,16 May 1932 14:00 (+1:00),16-05-1932,Stockholm Stockholms Olympiastadion,Sweden,7-1 Sweden vs Finland,1-7 Finland vs Sweden,Lost,Friendly International
+20,75,10 Jun 1932 15:30 (+2:00),10-06-1932,Helsinki Töölön Pallokenttä,Finland,1-3 Finland vs Sweden,1-3 Finland vs Sweden,Lost,Nordic Football Championship 1929-1932
+21,80,14 Jul 1933 19:00 (+1:00),14-07-1933,Stockholm Stockholms Olympiastadion,Sweden,2-0 Sweden vs Finland,0-2 Finland vs Sweden,Lost,Nordic Football Championship 1933-1936
+22,91,23 Sep 1934 14:15 (+2:00),23-09-1934,Helsinki Töölön Pallokenttä,Finland,5-4 Finland vs Sweden,5-4 Finland vs Sweden,Won,Nordic Football Championship 1933-1936
+23,93,12 Jun 1935 19:15 (+1:00),12-06-1935,Stockholm Stockholms Olympiastadion,Sweden,2-2 Sweden vs Finland,2-2 Finland vs Sweden,Tie,Nordic Football Championship 1933-1936
+24,102,27 Sep 1936 13:00 (+2:00),27-09-1936,Helsinki Töölön Pallokenttä,Finland,1-2 Finland vs Sweden,1-2 Finland vs Sweden,Lost,Nordic Football Championship 1933-1936
+25,104,16 Jun 1937 19:30 (+1:00),16-06-1937,Solna Råsunda Fotbollstadion,Sweden,4-0 Sweden vs Finland,0-4 Finland vs Sweden,Lost,1938 FIFA World Cup Qualification Nordic Football Championship 1937-1947 Group 1
+26,109,15 Jun 1938 19:30 (+1:00),15-06-1938,Solna Råsunda Fotbollstadion,Sweden,2-0 Sweden vs Finland,0-2 Finland vs Sweden,Lost,Friendly International
+27,111,04 Jul 1938 19:00 (+2:00),04-07-1938,Helsinki Helsingin Olympiastadion,Finland,2-4 Finland vs Sweden,4-2 Finland vs Sweden,Won,Nordic Football Championship 1937-1947
+28,115,09 Jun 1939 19:30 (+1:00),09-06-1939,Solna Råsunda Fotbollstadion,Sweden,5-1 Sweden vs Finland,1-5 Finland vs Sweden,Lost,Nordic Football Championship 1937-1947
+29,122,29 Aug 1940 18:10 (+2:00),29-08-1940,Helsinki Helsingin Olympiastadion,Finland,2-3 Finland vs Sweden,2-3 Finland vs Sweden,Lost,Friendly International
+30,124,22 Sep 1940 14:00 (+1:00),22-09-1940,Solna Råsunda Fotbollstadion,Sweden,5-0 Sweden vs Finland,0-5 Finland vs Sweden,Lost,Friendly International
+31,127,03 Oct 1943 14:00 (+2:00),03-10-1943,Helsinki Helsingin Olympiastadion,Finland,1-1 Finland vs Sweden,1-1 Finland vs Sweden,Tie,Friendly International
+32,128,26 Aug 1945 15:00 (+1:00),26-08-1945,Gothenburg Ullevi Stadion,Sweden,7-2 Sweden vs Finland,2-7 Finland vs Sweden,Lost,Friendly International
+33,129,30 Sep 1945 15:00 (+2:00),30-09-1945,Helsinki Helsingin Olympiastadion,Finland,1-6 Finland vs Sweden,1-6 Finland vs Sweden,Lost,Friendly International
+34,132,15 Sep 1946 13:15 (+2:00),15-09-1946,Helsinki Helsingin Olympiastadion,Finland,0-7 Finland vs Sweden,0-7 Finland vs Sweden,Lost,Friendly International
+35,134,24 Aug 1947 13:30 (+1:00),24-08-1947,Borås Ryavallen,Sweden,7-0 Sweden vs Finland,0-7 Finland vs Sweden,Lost,Nordic Football Championship 1937-1947
+36,141,19 Sep 1948 14:00 (+2:00),19-09-1948,Helsinki Helsingin Olympiastadion,Finland,2-2 Finland vs Sweden,2-2 Finland vs Sweden,Tie,Nordic Football Championship 1948-1951
+37,148,02 Oct 1949 13:30 (+1:00),02-10-1949,Malmö Malmö Idrottsplats,Sweden,8-1 Sweden vs Finland,1-8 Finland vs Sweden,Lost,Nordic Football Championship 1948-1951
+38,154,24 Sep 1950 14:00 (+2:00),24-09-1950,Helsinki Helsingin Olympiastadion,Finland,0-1 Finland vs Sweden,0-1 Finland vs Sweden,Lost,Nordic Football Championship 1948-1951
+39,157,02 Sep 1951 15:00 (+2:00),02-09-1951,Solna Råsunda Fotbollstadion,Sweden,3-2 Sweden vs Finland,2-3 Finland vs Sweden,Lost,Nordic Football Championship 1948-1951
+40,163,13 Jun 1952,13-06-1952,Oslo Ullevaal Stadion,Norway,3-1 Finland vs Sweden,1-3 Finland vs Sweden,Lost,Norges Fotballforbund 50th Anniversary Match Final
+41,168,21 Sep 1952 14:00 (+2:00),21-09-1952,Helsinki Helsingin Olympiastadion,Finland,1-8 Finland vs Sweden,8-1 Finland vs Sweden,Won,Nordic Football Championship 1952-1955
+42,171,05 Aug 1953 18:30 (+2:00),05-08-1953,Helsinki Helsingin Olympiastadion,Finland,3-3 Finland vs Sweden,3-3 Finland vs Sweden,Tie,1954 FIFA World Cup Qualification Group 2
+43,172,16 Aug 1953 15:00 (+1:00),16-08-1953,Solna Råsunda Fotbollstadion,Sweden,4-0 Sweden vs Finland,0-4 Finland vs Sweden,Lost,1954 FIFA World Cup Qualification Nordic Football Championship 1952-1955 Group 2
+44,177,04 Jun 1954 19:00 (+1:00),04-06-1954,Gothenburg Ullevi Stadion,Sweden,6-0 Sweden vs Finland,0-6 Finland vs Sweden,Lost,Svenska Fotbollförbundet 50th Anniversary Tournament Semifinal
+45,179,15 Aug 1954 17:00 (+2:00),15-08-1954,Helsinki Helsingin Olympiastadion,Finland,1-10 Finland vs Sweden,1-10 Finland vs Sweden,Lost,Nordic Football Championship 1952-1955
+46,184,28 Aug 1955 13:30 (+1:00),28-08-1955,Hälsingborg Olympia Stadion,Sweden,3-0 Sweden vs Finland,0-3 Finland vs Sweden,Lost,Nordic Football Championship 1952-1955
+47,188,10 Jun 1956 14:00 (+2:00),10-06-1956,Helsinki Helsingin Olympiastadion,Finland,1-3 Finland vs Sweden,1-3 Finland vs Sweden,Lost,Nordic Football Championship 1956-1959
+48,194,19 Jun 1957 19:00 (+2:00),19-06-1957,Helsinki Helsingin Olympiastadion,Finland,1-5 Finland vs Sweden,1-5 Finland vs Sweden,Lost,Suomen Palloliitto 50th Anniversary Tournament Final
+49,200,22 Sep 1957 14:00 (+1:00),22-09-1957,Solna Råsunda Fotbollstadion,Sweden,5-1 Sweden vs Finland,1-5 Finland vs Sweden,Lost,Nordic Football Championship 1956-1959
+50,204,20 Aug 1958 18:15 (+2:00),20-08-1958,Helsinki Helsingin Olympiastadion,Finland,1-7 Finland vs Sweden,1-7 Finland vs Sweden,Lost,Nordic Football Championship 1956-1959
+51,208,02 Aug 1959 18:00 (+1:00),02-08-1959,Malmö Malmö Stadion,Sweden,3-1 Sweden vs Finland,1-3 Finland vs Sweden,Lost,Nordic Football Championship 1956-1959
+52,215,22 Jun 1960 19:00 (+2:00),22-06-1960,Helsinki Helsingin Olympiastadion,Finland,0-3 Finland vs Sweden,3-0 Finland vs Sweden,Won,Nordic Football Championship 1960-1963
+53,222,09 Aug 1961 18:30 (+1:00),09-08-1961,Norrköping Norrköpings Idrottspark,Sweden,4-0 Sweden vs Finland,0-4 Finland vs Sweden,Lost,Nordic Football Championship 1960-1963
+54,226,19 Jun 1962 19:00 (+2:00),19-06-1962,Helsinki Helsingin Olympiastadion,Finland,0-3 Finland vs Sweden,3-0 Finland vs Sweden,Won,Nordic Football Championship 1960-1963
+55,233,14 Aug 1963 19:00 (+1:00),14-08-1963,Solna Råsunda Fotbollstadion,Sweden,0-0 Sweden vs Finland,0-0 Finland vs Sweden,Tie,Nordic Football Championship 1960-1963
+56,235,02 Aug 1964 18:00 (+2:00),02-08-1964,Helsinki Helsingin Olympiastadion,Finland,1-0 Finland vs Sweden,1-0 Finland vs Sweden,Won,Nordic Football Championship 1964-1967
+57,245,22 Aug 1965 13:30 (+1:00),22-08-1965,Luleå Skogsvallen,Sweden,2-2 Sweden vs Finland,2-2 Finland vs Sweden,Tie,Nordic Football Championship 1964-1967
+58,250,04 Jun 1966 19:00 (+2:00),04-06-1966,Helsinki Helsingin Olympiastadion,Finland,1-0 Finland vs Sweden,1-0 Finland vs Sweden,Won,Nordic Football Championship 1964-1967
+59,260,10 Aug 1967 19:00 (+1:00),10-08-1967,Solna Råsunda Fotbollstadion,Sweden,2-0 Sweden vs Finland,0-2 Finland vs Sweden,Lost,Nordic Football Championship 1964-1967
+60,270,11 Sep 1968 18:30 (+2:00),11-09-1968,Helsinki Helsingin Olympiastadion,Finland,0-3 Finland vs Sweden,3-0 Finland vs Sweden,Won,Nordic Football Championship 1968-1971
+61,275,22 May 1969 19:00 (+1:00),22-05-1969,Växjö Värendsvallen,Sweden,4-0 Sweden vs Finland,0-4 Finland vs Sweden,Lost,Nordic Football Championship 1968-1971
+62,285,26 Aug 1970 19:00 (+2:00),26-08-1970,Helsinki Helsingin Olympiastadion,Finland,1-2 Finland vs Sweden,1-2 Finland vs Sweden,Lost,Nordic Football Championship 1968-1971
+63,289,20 May 1971 14:00 (+1:00),20-05-1971,Borås Ryavallen,Sweden,4-1 Sweden vs Finland,1-4 Finland vs Sweden,Lost,Nordic Football Championship 1968-1971
+64,307,08 Jul 1973 18:00 (+1:00),08-07-1973,Halmstad Örjans Vall,Sweden,1-1 Sweden vs Finland,1-1 Finland vs Sweden,Tie,Nordic Football Championship 1972-1977
+65,308,29 Aug 1973 19:00 (+2:00),29-08-1973,Helsinki Helsingin Olympiastadion,Finland,1-2 Finland vs Sweden,2-1 Finland vs Sweden,Won,Nordic Football Championship 1972-1977
+66,325,01 Jun 1976 19:00 (+2:00),01-06-1976,Helsinki Helsingin Olympiastadion,Finland,0-2 Finland vs Sweden,2-0 Finland vs Sweden,Won,Nordic Football Championship 1972-1977
+67,328,11 Aug 1976 19:00 (+1:00),11-08-1976,Malmö Malmö Stadion,Sweden,6-0 Sweden vs Finland,0-6 Finland vs Sweden,Lost,Nordic Football Championship 1972-1977
+68,344,28 Jun 1978 19:00 (+1:00),28-06-1978,Borås Ryavallen,Sweden,2-1 Sweden vs Finland,1-2 Finland vs Sweden,Lost,Nordic Football Championship 1978-1980
+69,365,22 May 1980 18:30 (+2:00),22-05-1980,Helsinki Helsingin Olympiastadion,Finland  ,0-2 Finland vs Sweden,0-2 Finland vs Sweden,Lost,Nordic Football Championship 1978-1980
+70,377,01 Mar 1981,01-03-1981,Lahti Lahden Suurhalli,Finland  ,2-1 Finland vs Sweden,2-1 Finland vs Sweden,Won,Lahti Cup 1981 Final
+71,382,29 Jul 1981,29-07-1981,Halmstad Örjans Vall,Sweden  ,1-0 Sweden vs Finland,0-1 Finland vs Sweden,Lost,Nordic Football Championship 1981-1983
+72,386,20 Feb 1982,20-02-1982,Lahti Lahden Suurhalli,Finland  ,2-2 Finland vs Sweden,2-2 Finland vs Sweden,Tie,Friendly International
+73,387,21 Feb 1982,21-02-1982,Lahti Lahden Suurhalli,Finland  ,2-1 Finland vs Sweden,2-1 Finland vs Sweden,Won,Friendly International
+74,404,07 Sep 1983 18:30 (+3:00),07-09-1983,Helsinki Helsingin Olympiastadion,Finland  ,0-3 Finland vs Sweden,0-3 Finland vs Sweden,Lost,Nordic Football Championship 1981-1983
+75,437,06 Aug 1986 19:00 (+3:00),06-08-1986,Helsinki Helsingin Olympiastadion,Finland  ,1-3 Finland vs Sweden,1-3 Finland vs Sweden,Lost,Friendly International
+76,455,15 Jan 1988,15-01-1988,Maspalomas Estadio Municipal,Spain  ,0-1 Finland vs Sweden,0-1 Finland vs Sweden,Lost,Maspalomas Tournament 1988 Final
+77,484,27 May 1990 18:00 (+2:00),27-05-1990,Solna Råsunda Fotbollstadion,Sweden  ,6-0 Sweden vs Finland,0-6 Finland vs Sweden,Lost,Friendly International
+78,502,09 Sep 1992 19:00 (+3:00),09-09-1992,Helsinki Helsingin Olympiastadion,Finland  ,0-1 Finland vs Sweden,0-1 Finland vs Sweden,Lost,1994 FIFA World Cup Qualification Group 6
+79,518,13 Oct 1993 19:00 (+1:00),13-10-1993,Solna Råsunda Fotbollstadion,Sweden  ,3-2 Sweden vs Finland,2-3 Finland vs Sweden,Lost,1994 FIFA World Cup Qualification Group 6
+80,599,01 Feb 2001 19:00 (+1:00),01-02-2001,Jönköping Tipshallen,Sweden  ,0-1 Sweden vs Finland,1-0 Finland vs Sweden,Won,Nordic Football Championship 2000-2001
+81,641,28 May 2004 20:00 (+3:00),28-05-2004,Tampere Tampereen (Ratinan) Stadion,Finland  ,1-3 Finland vs Sweden,1-3 Finland vs Sweden,Lost,Friendly International
+82,668,25 May 2006 15:00 (+2:00),25-05-2006,Gothenburg Ullevi Stadion,Sweden  ,0-0 Sweden vs Finland,0-0 Finland vs Sweden,Tie,Friendly International
+83,700,12 Aug 2009 20:00 (+2:00),12-08-2009,Solna Råsunda Fotbollstadion,Sweden  ,1-0 Sweden vs Finland,0-1 Finland vs Sweden,Lost,Friendly International
+84,717,07 Jun 2011 20:00 (+2:00),07-06-2011,Solna Råsunda Fotbollstadion,Sweden  ,5-0 Sweden vs Finland,0-5 Finland vs Sweden,Lost,UEFA Euro 2012 Qualifying Group E
+85,721,07 Oct 2011 19:15 (+3:00),07-10-2011,Helsinki Helsingin Olympiastadion,Finland  ,1-2 Finland vs Sweden,1-2 Finland vs Sweden,Lost,UEFA Euro 2012 Qualifying Group E
+86,735,26 Jan 2013 17:00 (+7:00),26-01-2013,Chiang Mai 700th Anniversary Stadium,Thailand  ,0-3 Finland vs Sweden,3-0 Finland vs Sweden,Won,King`s Cup 2013 Final
+87,756,19 Jan 2015 22:30 (+4:00),19-01-2015,Abu Dhabi Zayed Sports City (Sheikh Zayed) Stadium,United Arab Emirates  ,0-1 Sweden vs Finland,1-0 Finland vs Sweden,Won,Friendly International
+88,765,10 Jan 2016 18:45 (+4:00),10-01-2016,Abu Dhabi Armed Forces Sport Club Stadium,United Arab Emirates  ,3-0 Sweden vs Finland,0-3 Finland vs Sweden,Lost,Friendly International
+89,798,08 Jan 2019 19:45 (+3:00),08-01-2019,Doha Sheikh Jassim Bin Hamad (Al-Sadd) Stadium,Qatar  ,1-0 Finland vs Sweden,1-0 Finland vs Sweden,Won,Friendly International
+90,821,29 May 2021 19:00 (+2:00),29-05-2021,Solna Friends Arena,Sweden  ,2-0 Sweden vs Finland,0-2 Finland vs Sweden,Lost,Friendly International
+91,843,09 Jan 2023 18:45,09-01-2023,Loulé Estádio Algarve,Portugal,2-0 Sweden vs Finland,0-2 Finland vs Sweden,Lost,Friendly International

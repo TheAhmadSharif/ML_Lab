@@ -1,3 +1,5 @@
+A random variable is a Mathematical expression or formula that represents potential outcomes of a random event.
+
 –––––––––– 22 January 2025
 
 A random variable is a variable whose value is unknown or a function that assigns values to each of an experiment's outcomes. 
