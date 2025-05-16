@@ -1,0 +1,231 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1950-04-16,South Korea,Taiwan,3,1,Friendly,Wan Chai,Hong Kong,True
+1953-04-08,South Korea,Taiwan,2,4,Friendly,So Kon Po,Hong Kong,True
+1954-05-01,Taiwan,Vietnam,3,2,Asian Games,Manila,Philippines,True
+1954-05-06,Philippines,Taiwan,0,4,Asian Games,Manila,Philippines,False
+1954-05-07,Taiwan,Indonesia,4,2,Asian Games,Manila,Philippines,True
+1954-05-08,Taiwan,South Korea,5,2,Asian Games,Manila,Philippines,True
+1954-06-02,Hong Kong,Taiwan,2,2,Friendly,Victoria,Hong Kong,False
+1956-08-26,South Korea,Taiwan,2,0,AFC Asian Cup qualification,Seoul,South Korea,False
+1958-05-14,Hong Kong,Taiwan,2,1,Friendly,Victoria,Hong Kong,False
+1958-05-25,Taiwan,Malaysia,2,1,Asian Games,Tokyo,Japan,True
+1958-05-27,Pakistan,Taiwan,1,3,Asian Games,Tokyo,Japan,True
+1958-05-30,Taiwan,Israel,2,0,Asian Games,Tokyo,Japan,True
+1958-05-31,Taiwan,Indonesia,1,0,Asian Games,Tokyo,Japan,True
+1958-06-01,Taiwan,South Korea,3,2,Asian Games,Tokyo,Japan,True
+1959-03-31,Philippines,Taiwan,4,7,AFC Asian Cup qualification,Manila,Philippines,False
+1959-08-22,Hong Kong,Taiwan,1,3,Friendly,Victoria,Hong Kong,False
+1960-10-16,Taiwan,Vietnam Republic,2,0,AFC Asian Cup,Seoul,South Korea,True
+1960-10-21,South Korea,Taiwan,1,0,AFC Asian Cup,Seoul,South Korea,False
+1960-10-23,Israel,Taiwan,1,0,AFC Asian Cup,Seoul,South Korea,True
+1962-07-14,Vietnam Republic,Taiwan,1,1,Friendly,Saigon,Vietnam Republic,False
+1962-07-25,Thailand,Taiwan,4,0,Friendly,Bangkok,Thailand,False
+1962-07-27,Singapore,Taiwan,2,2,Friendly,Kallang,Singapore,False
+1963-08-09,Taiwan,Vietnam Republic,1,1,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1963-08-12,Malaysia,Taiwan,2,3,Merdeka Tournament,Kuala Lumpur,Malaya,False
+1963-08-15,Taiwan,Japan,2,0,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1963-08-16,Taiwan,Thailand,2,2,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1963-08-18,Taiwan,South Korea,1,0,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1963-12-16,Philippines,Taiwan,0,7,Friendly,Manila,Philippines,False
+1964-08-23,Cambodia,Taiwan,0,4,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1964-08-28,Taiwan,Vietnam Republic,0,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1964-08-30,Myanmar,Taiwan,2,4,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1964-09-02,Malaysia,Taiwan,5,2,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1964-09-08,India,Taiwan,6,4,Friendly,Kuala Lumpur,Malaysia,True
+1965-08-15,Vietnam Republic,Taiwan,5,2,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1965-08-18,Japan,Taiwan,0,4,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1965-08-20,Thailand,Taiwan,2,3,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1965-08-24,Myanmar,Taiwan,3,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1965-08-28,South Korea,Taiwan,1,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1965-12-03,Australia,Taiwan,3,1,Friendly,So Kon Po,Hong Kong,True
+1966-08-15,Taiwan,Thailand,2,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1966-08-17,Taiwan,Vietnam Republic,0,3,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1966-08-20,Singapore,Taiwan,4,1,Merdeka Tournament,Ipoh,Malaysia,True
+1966-08-20,Japan,Taiwan,5,2,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1966-08-23,India,Taiwan,1,0,Merdeka Tournament,Ipoh,Malaysia,True
+1966-12-12,Vietnam Republic,Taiwan,2,1,Asian Games,Bangkok,Thailand,True
+1966-12-13,Singapore,Taiwan,3,3,Asian Games,Bangkok,Thailand,True
+1966-12-14,Taiwan,Indonesia,1,3,Asian Games,Bangkok,Thailand,True
+1967-08-11,Singapore,Taiwan,3,3,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1967-08-15,Indonesia,Taiwan,2,1,Merdeka Tournament,Ipoh,Malaysia,True
+1967-08-18,South Korea,Taiwan,2,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1967-08-20,Myanmar,Taiwan,1,2,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1967-08-22,India,Taiwan,1,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1967-08-25,Hong Kong,Taiwan,2,4,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1968-05-11,Myanmar,Taiwan,1,1,AFC Asian Cup,Tehran,Iran,True
+1968-05-13,Iran,Taiwan,4,0,AFC Asian Cup,Tehran,Iran,False
+1968-05-15,Hong Kong,Taiwan,1,1,AFC Asian Cup,Tehran,Iran,True
+1968-05-17,Israel,Taiwan,4,1,AFC Asian Cup,Tehran,Iran,True
+1968-08-11,Singapore,Taiwan,0,2,Merdeka Tournament,Ipoh,Malaysia,True
+1968-08-14,South Korea,Taiwan,2,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1968-08-15,Western Australia,Taiwan,3,2,Merdeka Tournament,Ipoh,Malaysia,True
+1968-08-19,Indonesia,Taiwan,10,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1970-07-30,India,Taiwan,0,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1970-08-01,Taiwan,Vietnam Republic,2,1,Merdeka Tournament,Ipoh,Malaysia,True
+1970-08-04,Malaysia,Taiwan,3,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1970-08-07,Myanmar,Taiwan,1,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1970-08-09,Taiwan,Western Australia,1,3,Merdeka Tournament,Ipoh,Malaysia,True
+1970-08-16,Japan,Taiwan,3,2,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1971-05-03,Myanmar,Taiwan,2,0,Korea Cup,Seoul,South Korea,True
+1971-08-07,Malaysia,Taiwan,0,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1971-08-09,Taiwan,Thailand,4,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1971-08-12,Taiwan,Vietnam Republic,3,2,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1971-08-18,Indonesia,Taiwan,1,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1974-11-03,Malaysia,Taiwan,0,0,Vietnam Independence Cup,Saigon,Vietnam Republic,True
+1974-11-05,Laos,Taiwan,1,2,Vietnam Independence Cup,Saigon,Vietnam Republic,True
+1974-11-07,Vietnam Republic,Taiwan,1,1,Vietnam Independence Cup,Saigon,Vietnam Republic,False
+1977-03-13,Australia,Taiwan,3,0,FIFA World Cup qualification,Ba,Fiji,True
+1977-03-16,Taiwan,Australia,1,2,FIFA World Cup qualification,Ba,Fiji,True
+1977-03-20,New Zealand,Taiwan,6,0,FIFA World Cup qualification,Auckland,New Zealand,False
+1977-03-23,New Zealand,Taiwan,6,0,FIFA World Cup qualification,Auckland,New Zealand,False
+1979-11-21,Malaysia,Taiwan,0,3,Friendly,Bangkok,Thailand,True
+1981-05-07,Taiwan,New Zealand,0,0,FIFA World Cup qualification,Taipei,Taiwan,False
+1981-05-30,New Zealand,Taiwan,2,0,FIFA World Cup qualification,Auckland,New Zealand,False
+1981-06-06,Fiji,Taiwan,2,1,FIFA World Cup qualification,Suva,Fiji,False
+1981-06-10,Australia,Taiwan,3,2,FIFA World Cup qualification,Adelaide,Australia,False
+1981-06-15,Indonesia,Taiwan,1,0,FIFA World Cup qualification,Jakarta,Indonesia,False
+1981-06-28,Taiwan,Indonesia,2,0,FIFA World Cup qualification,Taipei,Taiwan,False
+1983-05-06,Indonesia,Taiwan,0,2,Friendly,Jakarta,Indonesia,False
+1985-09-03,Israel,Taiwan,6,0,FIFA World Cup qualification,Ramat Gan,Israel,False
+1985-09-08,Israel,Taiwan,5,0,FIFA World Cup qualification,Ramat Gan,Israel,False
+1985-10-05,New Zealand,Taiwan,5,1,FIFA World Cup qualification,Auckland,New Zealand,False
+1985-10-12,New Zealand,Taiwan,5,0,FIFA World Cup qualification,Christchurch,New Zealand,False
+1985-10-23,Australia,Taiwan,7,0,FIFA World Cup qualification,Adelaide,Australia,False
+1985-10-27,Australia,Taiwan,8,0,FIFA World Cup qualification,Sydney,Australia,False
+1988-12-11,New Zealand,Taiwan,4,0,FIFA World Cup qualification,Wellington,New Zealand,False
+1988-12-15,New Zealand,Taiwan,4,1,FIFA World Cup qualification,Auckland,New Zealand,False
+1992-06-03,North Korea,Taiwan,6,0,AFC Asian Cup qualification,Pyongyang,North Korea,False
+1992-06-05,Hong Kong,Taiwan,0,0,AFC Asian Cup qualification,Pyongyang,North Korea,True
+1992-06-07,Macau,Taiwan,2,0,AFC Asian Cup qualification,Pyongyang,North Korea,True
+1993-06-23,Taiwan,Syria,0,2,FIFA World Cup qualification,Tehran,Iran,True
+1993-06-25,Iran,Taiwan,6,0,FIFA World Cup qualification,Tehran,Iran,False
+1993-06-27,Oman,Taiwan,2,1,FIFA World Cup qualification,Tehran,Iran,True
+1993-07-02,Syria,Taiwan,8,1,FIFA World Cup qualification,Damascus,Syria,False
+1993-07-04,Taiwan,Iran,0,6,FIFA World Cup qualification,Damascus,Syria,True
+1993-07-07,Taiwan,Oman,1,7,FIFA World Cup qualification,Damascus,Syria,True
+1996-08-04,Vietnam,Taiwan,4,1,AFC Asian Cup qualification,Ho Chi Minh City,Vietnam,False
+1996-08-08,South Korea,Taiwan,4,0,AFC Asian Cup qualification,Ho Chi Minh City,Vietnam,True
+1997-03-16,Taiwan,Saudi Arabia,0,2,FIFA World Cup qualification,Shah Alam,Malaysia,True
+1997-03-18,Bangladesh,Taiwan,1,3,FIFA World Cup qualification,Kuala Lumpur,Malaysia,True
+1997-03-20,Malaysia,Taiwan,2,0,FIFA World Cup qualification,Kuala Lumpur,Malaysia,False
+1997-03-29,Taiwan,Bangladesh,1,2,FIFA World Cup qualification,Jeddah,Saudi Arabia,True
+1997-03-31,Saudi Arabia,Taiwan,6,0,FIFA World Cup qualification,Jeddah,Saudi Arabia,False
+2000-03-25,Malaysia,Taiwan,3,0,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,False
+2000-03-27,Thailand,Taiwan,2,0,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,True
+2000-04-04,Malaysia,Taiwan,2,3,AFC Asian Cup qualification,Bangkok,Thailand,True
+2000-04-06,Thailand,Taiwan,1,0,AFC Asian Cup qualification,Bangkok,Thailand,False
+2000-08-28,Iraq,Taiwan,3,0,Friendly,Jakarta,Indonesia,True
+2000-08-30,Indonesia,Taiwan,1,0,Friendly,Jakarta,Indonesia,False
+2001-04-23,Uzbekistan,Taiwan,7,0,FIFA World Cup qualification,Tashkent,Uzbekistan,False
+2001-04-25,Taiwan,Jordan,0,2,FIFA World Cup qualification,Tashkent,Uzbekistan,True
+2001-04-27,Taiwan,Turkmenistan,0,5,FIFA World Cup qualification,Tashkent,Uzbekistan,True
+2001-05-03,Jordan,Taiwan,6,0,FIFA World Cup qualification,Amman,Jordan,False
+2001-05-05,Taiwan,Uzbekistan,0,4,FIFA World Cup qualification,Amman,Jordan,True
+2001-05-07,Turkmenistan,Taiwan,1,0,FIFA World Cup qualification,Amman,Jordan,True
+2002-07-25,Saint Kitts and Nevis,Taiwan,3,0,SKN Football Festival,Basseterre,Saint Kitts and Nevis,False
+2002-07-30,Grenada,Taiwan,5,2,Friendly,St. George's,Grenada,False
+2003-02-22,Hong Kong,Taiwan,2,0,EAFF Championship,So Kon Po,Hong Kong,False
+2003-02-28,Guam,Taiwan,0,7,EAFF Championship,So Kon Po,Hong Kong,True
+2003-03-02,Macau,Taiwan,1,2,EAFF Championship,So Kon Po,Hong Kong,True
+2003-03-25,Sri Lanka,Taiwan,2,1,AFC Asian Cup qualification,Colombo,Sri Lanka,False
+2003-11-23,Taiwan,Macau,3,0,FIFA World Cup qualification,Taipei,Taiwan,False
+2003-11-29,Macau,Taiwan,1,3,FIFA World Cup qualification,Macau,Macau,False
+2004-02-18,Palestine,Taiwan,8,0,FIFA World Cup qualification,Al Wakrah,Qatar,True
+2004-03-31,Taiwan,Uzbekistan,0,1,FIFA World Cup qualification,Taipei,Taiwan,False
+2004-06-09,Iraq,Taiwan,6,1,FIFA World Cup qualification,Amman,Jordan,True
+2004-09-08,Taiwan,Iraq,1,4,FIFA World Cup qualification,Taipei,Taiwan,False
+2004-10-14,Taiwan,Palestine,0,1,FIFA World Cup qualification,Taipei,Taiwan,False
+2004-11-17,Uzbekistan,Taiwan,6,1,FIFA World Cup qualification,Tashkent,Uzbekistan,False
+2006-02-22,Iran,Taiwan,4,0,AFC Asian Cup qualification,Tehran,Iran,False
+2006-04-03,Afghanistan,Taiwan,2,2,AFC Challenge Cup,Chittagong,Bangladesh,True
+2006-04-08,Sri Lanka,Taiwan,3,0,AFC Challenge Cup,Chittagong,Bangladesh,True
+2006-08-09,Macau,Taiwan,0,1,Friendly,Macau,Macau,False
+2006-09-06,South Korea,Taiwan,8,0,AFC Asian Cup qualification,Suwon,South Korea,False
+2006-11-09,Kuwait,Taiwan,10,0,Friendly,Al Ain,United Arab Emirates,True
+2006-11-15,Syria,Taiwan,3,0,AFC Asian Cup qualification,Damascus,Syria,False
+2007-06-17,Guam,Taiwan,0,10,EAFF Championship,Macau,Macau,True
+2007-06-19,Hong Kong,Taiwan,1,1,EAFF Championship,Macau,Macau,True
+2007-10-13,Uzbekistan,Taiwan,9,0,FIFA World Cup qualification,Tashkent,Uzbekistan,False
+2007-10-28,Taiwan,Uzbekistan,0,2,FIFA World Cup qualification,Taipei,Taiwan,False
+2008-04-04,Taiwan,Guam,4,1,AFC Challenge Cup qualification,Taipei,Taiwan,False
+2008-04-06,Taiwan,Sri Lanka,2,2,AFC Challenge Cup qualification,Taipei,Taiwan,False
+2008-05-24,India,Taiwan,3,0,Friendly,Margao,India,False
+2008-05-27,India,Taiwan,2,2,Friendly,Chennai,India,False
+2009-04-04,Pakistan,Taiwan,1,1,AFC Challenge Cup qualification,Colombo,Sri Lanka,True
+2010-11-24,Indonesia,Taiwan,2,0,Friendly,Palembang,Indonesia,False
+2011-02-16,Laos,Taiwan,1,1,AFC Challenge Cup qualification,Vientiane,Laos,False
+2011-03-21,India,Taiwan,3,0,AFC Challenge Cup qualification,Petaling Jaya,Malaysia,True
+2011-06-29,Malaysia,Taiwan,2,1,FIFA World Cup qualification,Kuala Lumpur,Malaysia,False
+2011-07-03,Taiwan,Malaysia,3,2,FIFA World Cup qualification,Taipei,Taiwan,False
+2011-07-18,Singapore,Taiwan,3,2,Friendly,Singapore,Singapore,False
+2012-02-29,Hong Kong,Taiwan,5,1,Friendly,Kowloon,Hong Kong,False
+2012-09-29,Philippines,Taiwan,3,1,Friendly,Manila,Philippines,False
+2012-12-07,Hong Kong,Taiwan,2,0,EAFF Championship,So Kon Po,Hong Kong,False
+2012-12-09,Australia,Taiwan,8,0,EAFF Championship,So Kon Po,Hong Kong,True
+2013-03-02,India,Taiwan,2,1,AFC Challenge Cup qualification,Yangon,Myanmar,True
+2013-10-11,Philippines,Taiwan,1,2,Friendly,Bacolod,Philippines,False
+2014-09-03,Philippines,Taiwan,5,1,Friendly,Manila,Philippines,False
+2014-09-06,Palestine,Taiwan,7,3,Friendly,Manila,Philippines,True
+2015-03-12,Taiwan,Brunei,0,1,FIFA World Cup qualification,Kaohsiung,Taiwan,False
+2015-03-17,Brunei,Taiwan,0,2,FIFA World Cup qualification,Bandar Seri Begawan,Brunei,False
+2015-06-16,Taiwan,Thailand,0,2,FIFA World Cup qualification,Taipei,Taiwan,False
+2015-09-03,Iraq,Taiwan,5,1,FIFA World Cup qualification,Tehran,Iran,True
+2015-09-08,Taiwan,Vietnam,1,2,FIFA World Cup qualification,Taipei,Taiwan,False
+2015-11-12,Thailand,Taiwan,4,2,FIFA World Cup qualification,Bangkok,Thailand,False
+2015-11-17,Taiwan,Iraq,0,2,FIFA World Cup qualification,Kaohsiung,Taiwan,False
+2016-03-24,Vietnam,Taiwan,4,1,FIFA World Cup qualification,Hanoi,Vietnam,False
+2016-06-07,Cambodia,Taiwan,2,0,AFC Asian Cup qualification,Phnom Penh,Cambodia,False
+2016-07-02,Mongolia,Taiwan,0,2,EAFF Championship,Dededo,Guam,True
+2016-10-08,Taiwan,Timor-Leste,2,1,AFC Asian Cup qualification,Kaohsiung,Taiwan,False
+2016-11-06,North Korea,Taiwan,2,0,EAFF Championship,Kowloon,Hong Kong,True
+2016-11-09,Hong Kong,Taiwan,4,2,EAFF Championship,Kowloon,Hong Kong,False
+2017-03-22,Vietnam,Taiwan,1,1,Friendly,Hanoi,Vietnam,False
+2017-06-10,Singapore,Taiwan,1,2,AFC Asian Cup qualification,Kallang,Singapore,False
+2017-09-05,Bahrain,Taiwan,5,0,AFC Asian Cup qualification,Riffa,Bahrain,False
+2017-10-05,Taiwan,Mongolia,4,2,Friendly,Taipei,Taiwan,False
+2017-10-10,Taiwan,Bahrain,2,1,AFC Asian Cup qualification,Taipei,Taiwan,False
+2017-11-14,Turkmenistan,Taiwan,2,1,AFC Asian Cup qualification,Balkanabat,Turkmenistan,False
+2017-12-03,Taiwan,Philippines,3,0,Friendly,Taipei,Taiwan,False
+2017-12-04,Taiwan,Timor-Leste,3,1,Friendly,Taipei,Taiwan,False
+2017-12-05,Taiwan,Laos,2,0,Friendly,Taipei,Taiwan,False
+2018-03-27,Taiwan,Singapore,1,0,AFC Asian Cup qualification,Taipei,Taiwan,False
+2018-06-01,India,Taiwan,5,0,Intercontinental Cup,Mumbai,India,False
+2018-06-05,Taiwan,New Zealand,0,1,Intercontinental Cup,Mumbai,India,True
+2018-06-08,Taiwan,Kenya,0,4,Intercontinental Cup,Mumbai,India,True
+2018-09-07,Taiwan,Malaysia,2,0,Friendly,Taipei,Taiwan,False
+2018-11-11,Taiwan,Hong Kong,1,2,EAFF Championship,Taipei,Taiwan,False
+2018-11-13,Taiwan,Mongolia,2,1,EAFF Championship,Taipei,Taiwan,False
+2018-11-16,Taiwan,North Korea,0,2,EAFF Championship,Taipei,Taiwan,False
+2019-03-19,Myanmar,Taiwan,0,0,Friendly,Mandalay,Myanmar,False
+2019-03-24,Taiwan,Solomon Islands,0,1,Friendly,Taipei,Taiwan,False
+2019-06-06,Taiwan,Nepal,1,1,Friendly,Kaohsiung,Taiwan,False
+2019-06-11,Hong Kong,Taiwan,0,2,Friendly,Hong Kong,Hong Kong,False
+2019-08-28,Taiwan,Guam,3,0,Friendly,Kaohsiung,Taiwan,False
+2019-09-05,Taiwan,Jordan,1,2,FIFA World Cup qualification,Taipei,Taiwan,False
+2019-09-10,Taiwan,Nepal,0,2,FIFA World Cup qualification,Taipei,Taiwan,False
+2019-10-15,Taiwan,Australia,1,7,FIFA World Cup qualification,Kaohsiung,Taiwan,False
+2019-11-14,Kuwait,Taiwan,9,0,FIFA World Cup qualification,Kuwait City,Kuwait,False
+2019-11-19,Jordan,Taiwan,5,0,FIFA World Cup qualification,Amman,Jordan,False
+2021-06-03,Nepal,Taiwan,2,0,FIFA World Cup qualification,Kuwait City,Kuwait,True
+2021-06-07,Australia,Taiwan,5,1,FIFA World Cup qualification,Kuwait City,Kuwait,True
+2021-06-15,Kuwait,Taiwan,2,1,FIFA World Cup qualification,Kuwait City,Kuwait,False
+2021-10-07,Indonesia,Taiwan,2,1,AFC Asian Cup qualification,Buriram,Thailand,True
+2021-10-11,Taiwan,Indonesia,0,3,AFC Asian Cup qualification,Buriram,Thailand,True
+2022-12-14,Thailand,Taiwan,0,1,Friendly,Pathum Thani,Thailand,False
+2023-06-16,Taiwan,Thailand,2,2,Friendly,Kaohsiung,Taiwan,False
+2023-06-19,Philippines,Taiwan,2,3,Friendly,Manila,Philippines,False
+2023-09-08,Taiwan,Philippines,1,1,Friendly,Kaohsiung,Taiwan,False
+2023-09-12,Singapore,Taiwan,3,1,Friendly,Bishan,Singapore,False
+2023-10-12,Taiwan,Timor-Leste,4,0,FIFA World Cup qualification,Kaohsiung,Taiwan,False
+2023-10-17,Taiwan,Timor-Leste,3,0,FIFA World Cup qualification,Kaohsiung,Taiwan,False
+2023-11-16,Oman,Taiwan,3,0,FIFA World Cup qualification,Muscat,Oman,False
+2023-11-21,Taiwan,Malaysia,0,1,FIFA World Cup qualification,Taipei,Taiwan,False
+2024-03-21,Taiwan,Kyrgyzstan,0,2,FIFA World Cup qualification,Taipei,Taiwan,False
+2024-03-26,Kyrgyzstan,Taiwan,5,1,FIFA World Cup qualification,Bishkek,Kyrgyzstan,False
+2024-06-06,Taiwan,Oman,0,3,FIFA World Cup qualification,Taipei,Taiwan,False
+2024-06-11,Malaysia,Taiwan,3,1,FIFA World Cup qualification,Kuala Lumpur,Malaysia,False
+2024-10-11,Cambodia,Taiwan,3,2,Friendly,Phnom Penh,Cambodia,False
+2024-11-18,Singapore,Taiwan,2,3,Friendly,Kallang,Singapore,False
+2024-12-11,Taiwan,Mongolia,4,0,EAFF Championship qualification,Hong Kong,Hong Kong,True
+2024-12-14,Hong Kong,Taiwan,2,1,EAFF Championship qualification,Hong Kong,Hong Kong,False
+2025-03-25,Taiwan,Turkmenistan,1,2,AFC Asian Cup qualification,Kaohsiung,Taiwan,False

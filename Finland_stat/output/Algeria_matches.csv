@@ -1,0 +1,594 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1963-01-06,Algeria,Bulgaria,2,1,Friendly,Algiers,Algeria,False
+1963-07-07,Algeria,Egypt,2,2,Friendly,Oran,Algeria,False
+1963-12-15,Tunisia,Algeria,0,0,Friendly,Tunis,Tunisia,False
+1964-01-01,Algeria,Germany,2,0,Friendly,Algiers,Algeria,False
+1964-03-20,Egypt,Algeria,1,0,Friendly,Cairo,Egypt,False
+1964-11-04,Algeria,Russia,2,2,Friendly,Algiers,Algeria,False
+1965-06-17,Algeria,Brazil,0,3,Friendly,Oran,Algeria,False
+1965-07-19,Ivory Coast,Algeria,1,0,All-African Games,Brazzaville,Congo,True
+1965-07-20,Algeria,DR Congo,4,1,All-African Games,Brazzaville,Congo,True
+1965-07-21,Algeria,Madagascar,1,0,All-African Games,Brazzaville,Congo,True
+1965-07-23,Mali,Algeria,2,1,All-African Games,Brazzaville,Congo,True
+1965-07-25,Ivory Coast,Algeria,2,0,All-African Games,Brazzaville,Congo,True
+1965-10-31,Algeria,Morocco,0,0,Friendly,Algiers,Algeria,False
+1966-03-06,Morocco,Algeria,1,0,Friendly,Casablanca,Morocco,False
+1966-11-24,Algeria,Morocco,2,2,Friendly,Algiers,Algeria,False
+1967-02-05,Mali,Algeria,0,3,African Cup of Nations qualification,Bamako,Mali,False
+1967-02-12,Burkina Faso,Algeria,1,2,African Cup of Nations qualification,Ouagadougou,Upper Volta,False
+1967-03-12,Algeria,Mali,1,0,African Cup of Nations qualification,Oran,Algeria,False
+1967-03-22,Algeria,Hungary,0,1,Friendly,Algiers,Algeria,False
+1967-04-09,Algeria,Burkina Faso,3,1,African Cup of Nations qualification,Algiers,Algeria,False
+1968-01-12,Algeria,Ivory Coast,0,3,African Cup of Nations,Addis Ababa,Ethiopia,True
+1968-01-14,Algeria,Uganda,4,0,African Cup of Nations,Addis Ababa,Ethiopia,True
+1968-01-16,Ethiopia,Algeria,3,1,African Cup of Nations,Addis Ababa,Ethiopia,False
+1968-03-17,Morocco,Algeria,0,0,Friendly,Casablanca,Morocco,False
+1968-11-17,Algeria,Tunisia,1,2,FIFA World Cup qualification,Algiers,Algeria,False
+1968-12-29,Tunisia,Algeria,0,0,FIFA World Cup qualification,Tunis,Tunisia,False
+1969-03-09,Algeria,Morocco,2,0,African Cup of Nations qualification,Algiers,Algeria,False
+1969-03-22,Morocco,Algeria,2,0,African Cup of Nations qualification,Agadir,Morocco,False
+1969-09-19,Egypt,Algeria,1,0,African Cup of Nations qualification,Cairo,Egypt,False
+1969-09-28,Algeria,Egypt,1,1,African Cup of Nations qualification,Algiers,Algeria,False
+1969-10-23,Algeria,Palestine,2,0,Friendly,Algiers,Algeria,False
+1969-10-30,Algeria,Morocco,1,0,Friendly,Algiers,Algeria,False
+1969-12-05,Algeria,North Korea,1,3,Friendly,Algiers,Algeria,False
+1970-12-10,Algeria,Morocco,3,1,African Cup of Nations qualification,Algiers,Algeria,False
+1970-12-27,Morocco,Algeria,3,0,African Cup of Nations qualification,Casablanca,Morocco,False
+1971-11-24,Libya,Algeria,0,0,Friendly,Tripoli,Libya,False
+1971-12-08,Malta,Algeria,1,1,Friendly,Gżira,Malta,False
+1972-01-01,Algeria,Palestine,2,0,Palestine Cup,Baghdad,Iraq,True
+1972-01-04,Algeria,Qatar,3,0,Palestine Cup,Baghdad,Iraq,True
+1972-01-08,Algeria,Syria,0,1,Palestine Cup,Baghdad,Iraq,True
+1972-01-10,Algeria,Yemen DPR,4,1,Palestine Cup,Baghdad,Iraq,True
+1972-01-12,Iraq,Algeria,3,1,Palestine Cup,Baghdad,Iraq,False
+1972-01-13,Algeria,Syria,3,1,Palestine Cup,Baghdad,Iraq,True
+1972-03-02,Algeria,Guinea,1,0,FIFA World Cup qualification,Algiers,Algeria,False
+1972-03-12,Guinea,Algeria,5,1,FIFA World Cup qualification,Conakry,Guinea,False
+1972-03-15,Algeria,Malta,1,0,Friendly,Algiers,Algeria,False
+1972-06-05,Tunisia,Algeria,3,1,Friendly,Tunis,Tunisia,False
+1972-10-04,Algeria,Turkey,1,0,Friendly,Algiers,Algeria,False
+1972-11-16,Tunisia,Algeria,1,2,Friendly,Tunis,Tunisia,False
+1973-01-08,Algeria,Tanzania,4,2,All-African Games,Lagos,Nigeria,True
+1973-01-10,Nigeria,Algeria,2,2,All-African Games,Lagos,Nigeria,False
+1973-01-12,Ghana,Algeria,2,0,All-African Games,Lagos,Nigeria,True
+1973-02-14,Turkey,Algeria,4,0,Friendly,İzmir,Turkey,False
+1973-05-27,Uganda,Algeria,2,1,African Cup of Nations qualification,Kampala,Uganda,False
+1973-06-03,Algeria,Brazil,0,2,Friendly,Algiers,Algeria,False
+1973-06-14,Algeria,Uganda,1,1,African Cup of Nations qualification,Algiers,Algeria,False
+1973-08-13,Algeria,United Arab Emirates,2,0,Palestine Cup,Benghazi,Libya,True
+1973-08-15,Algeria,Iraq,0,0,Palestine Cup,Benghazi,Libya,True
+1973-08-17,Algeria,Yemen,15,1,Palestine Cup,Benghazi,Libya,True
+1973-08-21,Libya,Algeria,0,2,Palestine Cup,Benghazi,Libya,False
+1973-08-23,Algeria,Syria,0,0,Palestine Cup,Benghazi,Libya,True
+1973-08-25,Algeria,Iraq,0,0,Palestine Cup,Tripoli,Libya,True
+1973-10-31,Algeria,Morocco,2,0,Friendly,Algiers,Algeria,False
+1974-02-28,Algeria,German DR,1,3,Friendly,Algiers,Algeria,False
+1974-04-07,Morocco,Algeria,2,0,Friendly,Casablanca,Morocco,False
+1974-09-27,Algeria,Lebanon,4,1,Kuneitra Cup,Damascus,Syria,True
+1974-09-29,Algeria,Jordan,6,0,Kuneitra Cup,Damascus,Syria,True
+1974-10-03,Algeria,Tunisia,0,1,Kuneitra Cup,Damascus,Syria,True
+1974-10-31,Algeria,Morocco,0,0,Friendly,Algiers,Algeria,False
+1975-03-23,Tunisia,Algeria,1,1,African Cup of Nations qualification,Tunis,Tunisia,False
+1975-04-06,Algeria,Tunisia,1,2,African Cup of Nations qualification,Oran,Algeria,False
+1975-05-19,Sweden,Algeria,4,0,Friendly,Halmstad,Sweden,False
+1976-01-09,Saudi Arabia,Algeria,1,3,Friendly,Riyadh,Saudi Arabia,False
+1976-02-24,Algeria,Yugoslavia,1,2,Friendly,Algiers,Algeria,False
+1976-03-02,Algeria,Sweden,0,2,Friendly,Algiers,Algeria,False
+1976-04-01,Algeria,Libya,1,0,FIFA World Cup qualification,Algiers,Algeria,False
+1976-04-16,Libya,Algeria,0,0,FIFA World Cup qualification,Tripoli,Libya,False
+1976-04-21,German DR,Algeria,5,0,Friendly,Cottbus,German DR,False
+1976-05-02,Algeria,Guinea,1,2,Friendly,Algiers,Algeria,False
+1976-09-08,Libya,Algeria,0,1,Friendly,Benghazi,Libya,False
+1976-09-10,Libya,Algeria,1,0,Friendly,Tripoli,Libya,False
+1976-10-10,Albania,Algeria,3,0,Friendly,Tirana,Albania,False
+1976-11-01,Algeria,Libya,2,0,Friendly,Algiers,Algeria,False
+1977-01-11,Algeria,Bulgaria,1,1,Friendly,Algiers,Algeria,False
+1977-02-06,Tunisia,Algeria,2,0,FIFA World Cup qualification,Tunis,Tunisia,False
+1977-02-17,Algeria,Kenya,4,1,African Cup of Nations qualification,Algiers,Algeria,False
+1977-02-28,Algeria,Tunisia,1,1,FIFA World Cup qualification,Algiers,Algeria,False
+1977-03-13,Kenya,Algeria,2,1,African Cup of Nations qualification,Mombasa,Kenya,False
+1977-05-01,Algeria,Senegal,2,0,Friendly,Algiers,Algeria,False
+1977-06-09,Algeria,Zambia,2,0,African Cup of Nations qualification,Algiers,Algeria,False
+1977-06-26,Zambia,Algeria,2,0,African Cup of Nations qualification,Lusaka,Zambia,False
+1978-02-21,Iraq,Algeria,3,0,Friendly,Baghdad,Iraq,False
+1978-02-23,Iraq,Algeria,1,0,Friendly,Baghdad,Iraq,False
+1978-02-26,Syria,Algeria,0,1,Friendly,Damascus,Syria,False
+1978-03-12,Libya,Algeria,1,0,Friendly,Tripoli,Libya,False
+1978-07-02,Algeria,Iraq,1,1,Friendly,Algiers,Algeria,False
+1978-07-04,Algeria,Iraq,0,0,Friendly,Algiers,Algeria,False
+1978-07-13,Algeria,Egypt,1,1,All-African Games,Algiers,Algeria,False
+1978-07-18,Algeria,Libya,2,1,All-African Games,Algiers,Algeria,False
+1978-07-22,Algeria,Malawi,3,0,All-African Games,Algiers,Algeria,False
+1978-07-25,Algeria,Ghana,2,0,All-African Games,Algiers,Algeria,False
+1978-07-28,Algeria,Nigeria,1,0,All-African Games,Algiers,Algeria,False
+1978-10-22,Malawi,Algeria,1,1,Friendly,Blantyre,Malawi,False
+1978-10-24,Malawi,Algeria,2,1,Friendly,Lilongwe,Malawi,False
+1978-10-28,Zambia,Algeria,0,3,Friendly,Lusaka,Zambia,False
+1978-11-17,Algeria,Congo,3,0,Friendly,Constantine,Algeria,False
+1979-02-28,Turkey,Algeria,0,1,Friendly,Bursa,Turkey,False
+1979-03-21,Algeria,Poland,0,1,Friendly,Algiers,Algeria,False
+1979-06-24,Algeria,Libya,3,1,African Cup of Nations qualification,Algiers,Algeria,False
+1979-07-08,Libya,Algeria,1,0,African Cup of Nations qualification,Tripoli,Libya,False
+1980-03-09,Algeria,Ghana,0,0,African Cup of Nations,Ibadan,Nigeria,True
+1980-03-13,Algeria,Morocco,1,0,African Cup of Nations,Ibadan,Nigeria,True
+1980-03-16,Algeria,Guinea,3,2,African Cup of Nations,Ibadan,Nigeria,True
+1980-03-19,Algeria,Egypt,2,2,African Cup of Nations,Ibadan,Nigeria,True
+1980-03-22,Nigeria,Algeria,3,0,African Cup of Nations,Lagos,Nigeria,False
+1980-05-31,Sierra Leone,Algeria,2,2,FIFA World Cup qualification,Freetown,Sierra Leone,False
+1980-06-13,Algeria,Sierra Leone,3,1,FIFA World Cup qualification,Oran,Algeria,False
+1980-11-19,Poland,Algeria,5,1,Friendly,Kraków,Poland,False
+1980-12-12,Algeria,Sudan,2,0,FIFA World Cup qualification,Constantine,Algeria,False
+1980-12-28,Sudan,Algeria,1,1,FIFA World Cup qualification,Khartoum,Sudan,False
+1981-04-03,Algeria,Senegal,2,0,Friendly,Oran,Algeria,False
+1981-04-10,Algeria,Mali,5,1,African Cup of Nations qualification,Oran,Algeria,False
+1981-04-19,Mali,Algeria,3,0,African Cup of Nations qualification,Bamako,Mali,False
+1981-05-01,Algeria,Niger,4,0,FIFA World Cup qualification,Constantine,Algeria,False
+1981-05-31,Niger,Algeria,1,0,FIFA World Cup qualification,Niamey,Niger,False
+1981-08-30,Algeria,Burkina Faso,7,0,African Cup of Nations qualification,Oran,Algeria,False
+1981-09-20,Burkina Faso,Algeria,1,1,African Cup of Nations qualification,Ouagadougou,Upper Volta,False
+1981-10-10,Nigeria,Algeria,0,2,FIFA World Cup qualification,Lagos,Nigeria,False
+1981-10-30,Algeria,Nigeria,2,1,FIFA World Cup qualification,Constantine,Algeria,False
+1982-02-07,Tunisia,Algeria,0,1,Friendly,Tunis,Tunisia,False
+1982-03-07,Algeria,Zambia,1,0,African Cup of Nations,Benghazi,Libya,True
+1982-03-10,Algeria,Nigeria,2,1,African Cup of Nations,Benghazi,Libya,True
+1982-03-13,Algeria,Ethiopia,0,0,African Cup of Nations,Benghazi,Libya,True
+1982-03-16,Algeria,Ghana,2,3,African Cup of Nations,Benghazi,Libya,True
+1982-03-18,Algeria,Zambia,0,2,African Cup of Nations,Tripoli,Libya,True
+1982-04-25,Algeria,Peru,1,1,Friendly,Algiers,Algeria,False
+1982-04-28,Algeria,Republic of Ireland,2,0,Friendly,Algiers,Algeria,False
+1982-06-16,Germany,Algeria,1,2,FIFA World Cup,Gijón,Spain,True
+1982-06-21,Algeria,Austria,0,2,FIFA World Cup,Oviedo,Spain,True
+1982-06-24,Algeria,Chile,3,2,FIFA World Cup,Oviedo,Spain,True
+1982-12-19,Tunisia,Algeria,0,1,Friendly,Tunis,Tunisia,False
+1983-04-08,Algeria,Benin,6,2,African Cup of Nations qualification,Algiers,Algeria,False
+1983-04-26,Benin,Algeria,6,2,African Cup of Nations qualification,Cotonou,Benin,False
+1983-08-07,Algeria,Bulgaria,2,3,Friendly,Saint-Denis,France,True
+1983-08-13,Senegal,Algeria,1,1,African Cup of Nations qualification,Dakar,Senegal,False
+1983-08-25,Algeria,Ivory Coast,3,0,Friendly,Algiers,Algeria,False
+1983-08-28,Algeria,Senegal,2,0,African Cup of Nations qualification,Algiers,Algeria,False
+1983-11-30,Algeria,Switzerland,1,2,Friendly,Algiers,Algeria,False
+1984-02-07,Algeria,Romania,1,1,Friendly,Algiers,Algeria,False
+1984-02-21,Saudi Arabia,Algeria,4,2,Friendly,Riyadh,Saudi Arabia,False
+1984-03-05,Algeria,Malawi,3,0,African Cup of Nations,Bouaké,Ivory Coast,True
+1984-03-08,Algeria,Ghana,2,0,African Cup of Nations,Bouaké,Ivory Coast,True
+1984-03-11,Algeria,Nigeria,0,0,African Cup of Nations,Bouaké,Ivory Coast,True
+1984-03-14,Algeria,Cameroon,0,0,African Cup of Nations,Bouaké,Ivory Coast,True
+1984-03-17,Algeria,Egypt,3,1,African Cup of Nations,Abidjan,Ivory Coast,True
+1984-10-10,German DR,Algeria,5,2,Friendly,Aue,German DR,False
+1984-10-16,Algeria,Canada,1,0,Friendly,Algiers,Algeria,False
+1984-12-28,Algeria,Ghana,1,2,Friendly,Abidjan,Ivory Coast,True
+1984-12-30,Algeria,Tunisia,3,1,Friendly,Abidjan,Ivory Coast,True
+1985-01-01,Ivory Coast,Algeria,1,1,Friendly,Abidjan,Ivory Coast,False
+1985-03-08,Algeria,Mauritania,4,0,African Cup of Nations qualification,Algiers,Algeria,False
+1985-03-12,Algeria,German DR,1,1,Friendly,Batna,Algeria,False
+1985-03-22,Mauritania,Algeria,1,1,African Cup of Nations qualification,Nouakchott,Mauritania,False
+1985-03-31,Angola,Algeria,0,0,FIFA World Cup qualification,Luanda,Angola,False
+1985-04-19,Algeria,Angola,3,2,FIFA World Cup qualification,Algiers,Algeria,False
+1985-05-01,Tunisia,Algeria,1,0,Friendly,Tunis,Tunisia,False
+1985-07-13,Algeria,Zambia,2,0,FIFA World Cup qualification,Algiers,Algeria,False
+1985-07-28,Zambia,Algeria,0,1,FIFA World Cup qualification,Lusaka,Zambia,False
+1985-08-04,Kenya,Algeria,0,0,African Cup of Nations qualification,Nairobi,Kenya,False
+1985-08-13,Algeria,Kenya,3,0,African Cup of Nations qualification,Algiers,Algeria,False
+1985-10-06,Tunisia,Algeria,1,4,FIFA World Cup qualification,Tunis,Tunisia,False
+1985-10-18,Algeria,Tunisia,3,0,FIFA World Cup qualification,Algiers,Algeria,False
+1985-12-07,Mexico,Algeria,2,0,Friendly,Mexico City,Mexico,False
+1985-12-11,Algeria,Hungary,1,3,Friendly,Monterrey,Mexico,True
+1985-12-13,Algeria,South Korea,0,2,Friendly,Nezahualcóyotl,Mexico,True
+1986-02-17,Saudi Arabia,Algeria,0,0,Friendly,Khobar,Saudi Arabia,False
+1986-02-21,Saudi Arabia,Algeria,1,1,Friendly,Khobar,Saudi Arabia,False
+1986-02-25,Algeria,Mozambique,4,1,Friendly,Algiers,Algeria,False
+1986-03-08,Algeria,Morocco,0,0,African Cup of Nations,Alexandria,Egypt,True
+1986-03-11,Algeria,Zambia,0,0,African Cup of Nations,Alexandria,Egypt,True
+1986-03-14,Algeria,Cameroon,2,3,African Cup of Nations,Alexandria,Egypt,True
+1986-05-06,Switzerland,Algeria,2,0,Friendly,Geneva,Switzerland,False
+1986-05-11,Japan,Algeria,2,1,Kirin Cup,Matsuyama,Japan,False
+1986-06-03,Algeria,Northern Ireland,1,1,FIFA World Cup,Guadalajara,Mexico,True
+1986-06-06,Brazil,Algeria,1,0,FIFA World Cup,Guadalajara,Mexico,True
+1986-06-12,Algeria,Spain,0,3,FIFA World Cup,Monterrey,Mexico,True
+1986-08-20,Indonesia,Algeria,0,1,Indonesia Tournament,Jakarta,Indonesia,False
+1986-08-23,Malaysia,Algeria,2,2,Friendly,Kuala Lumpur,Malaysia,False
+1986-12-11,Algeria,Ivory Coast,2,1,Friendly,Algiers,Algeria,False
+1986-12-14,Algeria,Ivory Coast,2,1,Friendly,Mascara,Algeria,False
+1987-02-16,Kuwait,Algeria,2,0,Friendly,Kuwait City,Kuwait,False
+1987-03-27,Algeria,Tunisia,1,0,African Cup of Nations qualification,Algiers,Algeria,False
+1987-04-14,Tunisia,Algeria,1,1,African Cup of Nations qualification,Tunis,Tunisia,False
+1987-08-04,Indonesia,Algeria,2,1,Indonesia Tournament,Jakarta,Indonesia,False
+1987-08-07,Algeria,South Korea,2,0,Indonesia Tournament,Jakarta,Indonesia,True
+1987-08-09,Indonesia,Algeria,2,1,Indonesia Tournament,Jakarta,Indonesia,False
+1987-12-11,Algeria,Tunisia,0,0,Arab Cup qualification,Algiers,Algeria,False
+1987-12-15,Algeria,Mauritania,3,0,Arab Cup qualification,Algiers,Algeria,False
+1988-01-05,Algeria,Congo,4,1,Friendly,Annaba,Algeria,False
+1988-03-13,Algeria,Ivory Coast,1,1,African Cup of Nations,Casablanca,Morocco,True
+1988-03-16,Morocco,Algeria,1,0,African Cup of Nations,Casablanca,Morocco,False
+1988-03-19,Algeria,DR Congo,1,0,African Cup of Nations,Casablanca,Morocco,True
+1988-03-23,Algeria,Nigeria,1,1,African Cup of Nations,Rabat,Morocco,True
+1988-03-26,Morocco,Algeria,1,1,African Cup of Nations,Casablanca,Morocco,False
+1988-10-29,Algeria,Angola,1,1,Friendly,Mascara,Algeria,False
+1988-11-13,Algeria,Mali,7,0,Friendly,Algiers,Algeria,False
+1988-11-24,United Arab Emirates,Algeria,1,1,Friendly,Dubai,United Arab Emirates,False
+1989-01-06,Algeria,Zimbabwe,3,0,FIFA World Cup qualification,Annaba,Algeria,False
+1989-02-08,Algeria,Finland,2,0,Malta International Tournament,Attard,Malta,True
+1989-02-10,Malta,Algeria,0,1,Malta International Tournament,Attard,Malta,False
+1989-02-12,Algeria,Denmark,0,0,Malta International Tournament,Attard,Malta,True
+1989-03-22,Algeria,Morocco,1,1,Friendly,Bejaia,Algeria,False
+1989-04-04,Algeria,Tunisia,2,0,Friendly,Algiers,Algeria,False
+1989-05-24,Morocco,Algeria,1,0,Friendly,Rabat,Morocco,False
+1989-05-31,Sweden,Algeria,2,0,Friendly,Örebro,Sweden,False
+1989-06-11,Ivory Coast,Algeria,0,0,FIFA World Cup qualification,Abidjan,Ivory Coast,False
+1989-06-25,Zimbabwe,Algeria,1,2,FIFA World Cup qualification,Harare,Zimbabwe,False
+1989-07-26,Algeria,Qatar,1,1,Friendly,Tlemcen,Algeria,False
+1989-08-25,Algeria,Ivory Coast,1,0,FIFA World Cup qualification,Annaba,Algeria,False
+1989-10-08,Algeria,Egypt,0,0,FIFA World Cup qualification,Constantine,Algeria,False
+1989-11-01,Tunisia,Algeria,0,0,Friendly,Tunis,Tunisia,False
+1989-11-11,Italy,Algeria,1,0,Friendly,Vicenza,Italy,False
+1989-11-17,Egypt,Algeria,1,0,FIFA World Cup qualification,Cairo,Egypt,False
+1989-12-31,Senegal,Algeria,0,0,Friendly,Dakar,Senegal,False
+1990-01-12,Algeria,Mali,5,0,Friendly,Paris,France,True
+1990-01-14,Algeria,Cameroon,3,1,Friendly,Paris,France,True
+1990-02-04,Algeria,Romania,0,0,Friendly,Algiers,Algeria,False
+1990-03-02,Algeria,Nigeria,5,1,African Cup of Nations,Algiers,Algeria,False
+1990-03-05,Algeria,Ivory Coast,3,0,African Cup of Nations,Algiers,Algeria,False
+1990-03-08,Algeria,Egypt,2,0,African Cup of Nations,Algiers,Algeria,False
+1990-03-12,Algeria,Senegal,2,1,African Cup of Nations,Algiers,Algeria,False
+1990-03-16,Algeria,Nigeria,1,0,African Cup of Nations,Algiers,Algeria,False
+1990-04-11,Algeria,Sweden,1,1,Friendly,Algiers,Algeria,False
+1990-12-18,Algeria,Senegal,1,0,Friendly,Constantine,Algeria,False
+1991-01-21,Cameroon,Algeria,0,0,Dakar Tournament,Dakar,Senegal,True
+1991-01-22,Senegal,Algeria,2,2,Dakar Tournament,Dakar,Senegal,False
+1991-02-15,Algeria,Cameroon,0,0,Friendly,Dakar,Senegal,True
+1991-02-17,Senegal,Algeria,1,3,Friendly,Dakar,Senegal,False
+1991-03-05,Algeria,Tunisia,2,1,Friendly,Annaba,Algeria,False
+1991-04-03,Algeria,Morocco,2,2,Friendly,Annaba,Algeria,False
+1991-04-07,Tunisia,Algeria,0,0,Friendly,Tunis,Tunisia,False
+1991-10-13,Algeria,Iran,1,0,Friendly,Algiers,Algeria,False
+1991-12-16,Algeria,Senegal,3,1,Friendly,Algiers,Algeria,False
+1991-12-26,Morocco,Algeria,1,1,Friendly,Casablanca,Morocco,False
+1992-01-13,Algeria,Ivory Coast,0,3,African Cup of Nations,Ziguinchor,Senegal,True
+1992-01-17,Algeria,Congo,1,1,African Cup of Nations,Ziguinchor,Senegal,True
+1992-05-19,Bahrain,Algeria,0,0,Friendly,Manama,Bahrain,False
+1992-08-14,Algeria,Guinea-Bissau,3,1,African Cup of Nations qualification,Oran,Algeria,False
+1992-08-29,Sierra Leone,Algeria,1,0,African Cup of Nations qualification,Freetown,Sierra Leone,False
+1992-10-09,Algeria,Burundi,3,1,FIFA World Cup qualification,Tlemcen,Algeria,False
+1992-11-24,Algeria,United Arab Emirates,0,0,Friendly,Manama,Bahrain,True
+1992-12-20,Ghana,Algeria,2,0,FIFA World Cup qualification,Accra,Ghana,False
+1993-01-10,Senegal,Algeria,1,2,African Cup of Nations qualification,Dakar,Senegal,False
+1993-01-17,Burundi,Algeria,0,0,FIFA World Cup qualification,Bujumbura,Burundi,False
+1993-01-23,Guinea-Bissau,Algeria,1,4,African Cup of Nations qualification,Bissau,Guinea-Bissau,False
+1993-02-26,Algeria,Ghana,2,1,FIFA World Cup qualification,Tlemcen,Algeria,False
+1993-04-09,Algeria,Sierra Leone,0,0,African Cup of Nations qualification,Annaba,Algeria,False
+1993-04-16,Algeria,Ivory Coast,1,1,FIFA World Cup qualification,Tlemcen,Algeria,False
+1993-07-03,Nigeria,Algeria,4,1,FIFA World Cup qualification,Lagos,Nigeria,False
+1993-07-18,Ivory Coast,Algeria,1,0,FIFA World Cup qualification,Abidjan,Ivory Coast,False
+1993-07-25,Algeria,Senegal,4,0,African Cup of Nations qualification,Tlemcen,Algeria,False
+1993-10-08,Algeria,Nigeria,1,1,FIFA World Cup qualification,Algiers,Algeria,False
+1994-09-04,Ethiopia,Algeria,0,0,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+1994-10-14,Algeria,Sudan,1,1,African Cup of Nations qualification,Algiers,Algeria,False
+1994-11-12,Uganda,Algeria,1,1,African Cup of Nations qualification,Kampala,Uganda,False
+1994-12-16,Tunisia,Algeria,1,0,Friendly,Sfax,Tunisia,False
+1995-01-08,Algeria,Egypt,1,0,African Cup of Nations qualification,Algiers,Algeria,False
+1995-01-21,Tanzania,Algeria,2,1,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+1995-04-07,Algeria,Ethiopia,2,0,African Cup of Nations qualification,Algiers,Algeria,False
+1995-04-24,Sudan,Algeria,0,2,African Cup of Nations qualification,Khartoum,Sudan,False
+1995-06-02,Algeria,Uganda,1,1,African Cup of Nations qualification,Algiers,Algeria,False
+1995-07-14,Egypt,Algeria,1,1,African Cup of Nations qualification,Cairo,Egypt,False
+1995-07-22,Algeria,Tunisia,2,1,Friendly,Algiers,Algeria,False
+1995-07-30,Algeria,Tanzania,2,1,African Cup of Nations qualification,Algiers,Algeria,False
+1995-10-21,Mali,Algeria,0,2,Friendly,Bamako,Mali,False
+1995-11-03,Algeria,Mauritania,4,0,Friendly,Tunis,Tunisia,True
+1995-11-05,Tunisia,Algeria,2,0,Friendly,Tunis,Tunisia,False
+1995-11-26,Algeria,Ivory Coast,0,0,Friendly,Libreville,Gabon,True
+1995-11-28,Algeria,Cameroon,4,0,Friendly,Libreville,Gabon,True
+1995-11-30,Gabon,Algeria,2,1,Friendly,Libreville,Gabon,False
+1995-12-02,Algeria,Ivory Coast,0,0,Friendly,Libreville,Gabon,True
+1996-01-14,Zambia,Algeria,0,0,African Cup of Nations,Bloemfontein,South Africa,True
+1996-01-18,Algeria,Sierra Leone,2,0,African Cup of Nations,Bloemfontein,South Africa,True
+1996-01-24,Burkina Faso,Algeria,1,2,African Cup of Nations,Port Elizabeth,South Africa,True
+1996-01-27,South Africa,Algeria,2,1,African Cup of Nations,Johannesburg,South Africa,False
+1996-06-02,Kenya,Algeria,3,1,FIFA World Cup qualification,Nairobi,Kenya,False
+1996-06-14,Algeria,Kenya,1,0,FIFA World Cup qualification,Algiers,Algeria,False
+1996-10-06,Algeria,Ivory Coast,4,1,African Cup of Nations qualification,Algiers,Algeria,False
+1997-01-04,Tunisia,Algeria,0,0,Friendly,Sfax,Tunisia,False
+1997-01-12,Lebanon,Algeria,2,2,Friendly,Beirut,Lebanon,False
+1997-01-26,Mali,Algeria,1,0,African Cup of Nations qualification,Bamako,Mali,False
+1997-02-23,Benin,Algeria,1,1,African Cup of Nations qualification,Cotonou,Benin,False
+1997-05-31,Tunisia,Algeria,0,1,Friendly,Tunis,Tunisia,False
+1997-06-05,Senegal,Algeria,0,0,Friendly,Dakar,Senegal,False
+1997-06-22,Ivory Coast,Algeria,2,1,African Cup of Nations qualification,Bouaké,Ivory Coast,False
+1997-07-13,Algeria,Mali,1,0,African Cup of Nations qualification,Algiers,Algeria,False
+1997-07-27,Algeria,Benin,2,0,African Cup of Nations qualification,Algiers,Algeria,False
+1997-09-28,Algeria,Kenya,0,1,Friendly,Dar es Salaam,Tanzania,True
+1997-09-30,Algeria,Zambia,0,1,Friendly,Dar es Salaam,Tanzania,True
+1997-10-04,Tanzania,Algeria,0,1,Friendly,Dar es Salaam,Tanzania,False
+1997-12-20,Egypt,Algeria,1,2,Friendly,Aswan,Egypt,False
+1997-12-22,Algeria,Togo,0,1,Friendly,Cairo,Egypt,True
+1997-12-24,Egypt,Algeria,1,2,Friendly,Cairo,Egypt,False
+1998-02-08,Algeria,Guinea,0,1,African Cup of Nations,Ouagadougou,Burkina Faso,True
+1998-02-11,Burkina Faso,Algeria,2,1,African Cup of Nations,Ouagadougou,Burkina Faso,False
+1998-02-15,Cameroon,Algeria,2,1,African Cup of Nations,Ouagadougou,Burkina Faso,True
+1998-06-05,Bulgaria,Algeria,2,0,Friendly,Sofia,Bulgaria,False
+1998-07-31,Libya,Algeria,0,2,African Cup of Nations qualification,Tripoli,Libya,False
+1998-08-14,Algeria,Libya,3,0,African Cup of Nations qualification,Algiers,Algeria,False
+1998-11-04,Bulgaria,Algeria,0,0,Friendly,Sofia,Bulgaria,False
+1999-02-28,Liberia,Algeria,1,1,African Cup of Nations qualification,Monrovia,Liberia,False
+1999-04-09,Algeria,Liberia,4,1,African Cup of Nations qualification,Annaba,Algeria,False
+1999-06-06,Tunisia,Algeria,2,0,African Cup of Nations qualification,Tunis,Tunisia,False
+1999-06-20,Algeria,Uganda,2,0,African Cup of Nations qualification,Annaba,Algeria,False
+2000-01-20,Burkina Faso,Algeria,1,0,Friendly,Ouagadougou,Burkina Faso,False
+2000-01-24,DR Congo,Algeria,0,0,African Cup of Nations,Kumasi,Ghana,True
+2000-01-29,Algeria,Gabon,3,1,African Cup of Nations,Kumasi,Ghana,True
+2000-02-02,South Africa,Algeria,1,1,African Cup of Nations,Kumasi,Ghana,True
+2000-02-06,Cameroon,Algeria,2,1,African Cup of Nations,Accra,Ghana,True
+2000-04-09,Cape Verde,Algeria,0,0,FIFA World Cup qualification,Mindelo,Cape Verde,False
+2000-04-21,Algeria,Cape Verde,2,0,FIFA World Cup qualification,Annaba,Algeria,False
+2000-05-26,Algeria,Burkina Faso,2,0,Friendly,Algiers,Algeria,False
+2000-06-03,Algeria,Guinea,4,0,Friendly,Annaba,Algeria,False
+2000-06-16,Algeria,Senegal,1,1,FIFA World Cup qualification,Annaba,Algeria,False
+2000-06-28,Tunisia,Algeria,2,2,Friendly,Tunis,Tunisia,False
+2000-07-09,Morocco,Algeria,2,1,FIFA World Cup qualification,Fez,Morocco,False
+2000-09-03,Algeria,Burkina Faso,1,1,African Cup of Nations qualification,Algiers,Algeria,False
+2000-10-08,Angola,Algeria,2,2,African Cup of Nations qualification,Luanda,Angola,False
+2000-11-14,Algeria,Bulgaria,1,2,Friendly,Algiers,Algeria,False
+2000-12-05,Algeria,Romania,3,2,Friendly,Annaba,Algeria,False
+2000-12-08,Algeria,Romania,2,3,Friendly,Annaba,Algeria,False
+2001-01-12,Algeria,Burundi,2,1,African Cup of Nations qualification,Algiers,Algeria,False
+2001-01-26,Algeria,Namibia,1,0,FIFA World Cup qualification,Algiers,Algeria,False
+2001-02-27,Algeria,Slovakia,1,1,Friendly,Algiers,Algeria,False
+2001-03-11,Egypt,Algeria,5,2,FIFA World Cup qualification,Cairo,Egypt,False
+2001-03-25,Burundi,Algeria,0,1,African Cup of Nations qualification,Bujumbura,Burundi,False
+2001-04-21,Senegal,Algeria,3,0,FIFA World Cup qualification,Dakar,Senegal,False
+2001-05-04,Algeria,Morocco,1,2,FIFA World Cup qualification,Algiers,Algeria,False
+2001-06-01,Algeria,Angola,3,2,African Cup of Nations qualification,Algiers,Algeria,False
+2001-06-17,Burkina Faso,Algeria,1,0,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+2001-06-30,Namibia,Algeria,0,4,FIFA World Cup qualification,Windhoek,Namibia,False
+2001-07-21,Algeria,Egypt,1,1,FIFA World Cup qualification,Annaba,Algeria,False
+2001-10-06,France,Algeria,4,1,Friendly,Saint-Denis,France,False
+2001-10-15,Algeria,Burkina Faso,2,0,Friendly,Annaba,Algeria,False
+2001-12-05,Algeria,Ghana,1,1,Friendly,Algiers,Algeria,False
+2001-12-30,Senegal,Algeria,1,0,Friendly,Dakar,Senegal,False
+2002-01-14,Algeria,Benin,4,0,Friendly,Algiers,Algeria,False
+2002-01-21,Algeria,Nigeria,0,1,African Cup of Nations,Bamako,Mali,True
+2002-01-25,Liberia,Algeria,2,2,African Cup of Nations,Bamako,Mali,True
+2002-01-28,Mali,Algeria,2,0,African Cup of Nations,Bamako,Mali,False
+2002-05-14,Belgium,Algeria,0,0,Friendly,Brussels,Belgium,False
+2002-08-20,Algeria,DR Congo,1,1,Friendly,Blida,Algeria,False
+2002-09-07,Namibia,Algeria,0,1,African Cup of Nations qualification,Windhoek,Namibia,False
+2002-09-24,Algeria,Uganda,1,1,Friendly,Annaba,Algeria,False
+2002-10-11,Algeria,Chad,4,1,African Cup of Nations qualification,Annaba,Algeria,False
+2003-01-25,Uganda,Algeria,0,1,Friendly,Kampala,Uganda,False
+2003-02-12,Algeria,Belgium,1,3,Friendly,Annaba,Algeria,False
+2003-03-29,Angola,Algeria,1,1,Friendly,Luanda,Angola,False
+2003-04-24,Algeria,Madagascar,3,1,Friendly,Amiens,France,True
+2003-05-29,Algeria,Burkina Faso,0,1,Friendly,Amiens,France,True
+2003-06-20,Algeria,Namibia,1,0,African Cup of Nations qualification,Blida,Algeria,False
+2003-07-06,Chad,Algeria,0,0,African Cup of Nations qualification,N'Djamena,Chad,False
+2003-09-04,Algeria,Qatar,1,0,Friendly,Dinard,France,True
+2003-09-24,Algeria,Gabon,2,2,Friendly,Algiers,Algeria,False
+2003-09-26,Algeria,Burkina Faso,0,0,Friendly,Algiers,Algeria,False
+2003-10-11,Niger,Algeria,0,1,FIFA World Cup qualification,Niamey,Niger,False
+2003-11-14,Algeria,Niger,6,0,FIFA World Cup qualification,Algiers,Algeria,False
+2004-01-15,Algeria,Mali,0,2,Friendly,Algiers,Algeria,False
+2004-01-25,Cameroon,Algeria,1,1,African Cup of Nations,Sousse,Tunisia,True
+2004-01-29,Algeria,Egypt,2,1,African Cup of Nations,Sousse,Tunisia,True
+2004-02-03,Algeria,Zimbabwe,1,2,African Cup of Nations,Sousse,Tunisia,True
+2004-02-08,Morocco,Algeria,3,1,African Cup of Nations,Sfax,Tunisia,True
+2004-04-28,Algeria,China PR,0,1,Friendly,Clermont-Ferrand,France,True
+2004-05-30,Algeria,Jordan,1,1,Friendly,Annaba,Algeria,False
+2004-06-05,Algeria,Angola,0,0,FIFA World Cup qualification,Annaba,Algeria,False
+2004-06-20,Zimbabwe,Algeria,1,1,FIFA World Cup qualification,Harare,Zimbabwe,False
+2004-07-03,Nigeria,Algeria,1,0,FIFA World Cup qualification,Abuja,Nigeria,False
+2004-08-17,Algeria,Burkina Faso,2,2,Friendly,Blida,Algeria,False
+2004-09-05,Algeria,Gabon,0,3,FIFA World Cup qualification,Annaba,Algeria,False
+2004-10-09,Rwanda,Algeria,1,1,FIFA World Cup qualification,Kigali,Rwanda,False
+2004-11-17,Algeria,Senegal,1,2,Friendly,Toulon,France,True
+2005-02-09,Algeria,Burkina Faso,3,0,Friendly,Algiers,Algeria,False
+2005-03-27,Algeria,Rwanda,1,0,FIFA World Cup qualification,Oran,Algeria,False
+2005-06-05,Angola,Algeria,2,1,FIFA World Cup qualification,Luanda,Angola,False
+2005-06-12,Algeria,Mali,0,3,Friendly,Arles,France,True
+2005-06-19,Algeria,Zimbabwe,2,2,FIFA World Cup qualification,Oran,Algeria,False
+2005-09-04,Algeria,Nigeria,2,5,FIFA World Cup qualification,Oran,Algeria,False
+2005-10-08,Gabon,Algeria,0,0,FIFA World Cup qualification,Port-Gentil,Gabon,False
+2006-02-28,Algeria,Burkina Faso,0,0,Friendly,Rouen,France,True
+2006-06-04,Algeria,Sudan,1,0,Friendly,Algiers,Algeria,False
+2006-08-15,Algeria,Gabon,0,2,Friendly,Aix-en-Provence,France,True
+2006-09-03,Guinea,Algeria,0,0,African Cup of Nations qualification,Conakry,Guinea,False
+2006-10-07,Algeria,Gambia,1,0,African Cup of Nations qualification,Algiers,Algeria,False
+2006-11-15,Algeria,Burkina Faso,1,2,Friendly,Aix-en-Provence,France,True
+2007-02-07,Algeria,Libya,2,1,Friendly,Algiers,Algeria,False
+2007-03-24,Algeria,Cape Verde,2,0,African Cup of Nations qualification,Algiers,Algeria,False
+2007-06-02,Cape Verde,Algeria,2,2,African Cup of Nations qualification,Praia,Cape Verde,False
+2007-06-05,Algeria,Argentina,3,4,Friendly,Barcelona,Spain,True
+2007-06-16,Algeria,Guinea,0,2,African Cup of Nations qualification,Algiers,Algeria,False
+2007-08-22,Algeria,Brazil,0,2,Friendly,Montpellier,France,True
+2007-09-09,Gambia,Algeria,2,1,African Cup of Nations qualification,Bakau,Gambia,False
+2007-11-20,Algeria,Mali,3,2,Friendly,Rouen,France,True
+2008-03-26,Algeria,DR Congo,1,1,Friendly,Nanterre,France,True
+2008-05-31,Senegal,Algeria,1,0,FIFA World Cup qualification,Dakar,Senegal,False
+2008-06-06,Algeria,Liberia,3,0,FIFA World Cup qualification,Blida,Algeria,False
+2008-06-14,Gambia,Algeria,1,0,FIFA World Cup qualification,Bakau,Gambia,False
+2008-06-20,Algeria,Gambia,1,0,FIFA World Cup qualification,Blida,Algeria,False
+2008-08-20,Algeria,United Arab Emirates,1,0,Friendly,Le Touquet-Paris-Plage,France,True
+2008-09-05,Algeria,Senegal,3,2,FIFA World Cup qualification,Blida,Algeria,False
+2008-10-11,Liberia,Algeria,0,0,FIFA World Cup qualification,Paynesville,Liberia,False
+2008-11-18,Algeria,Mali,1,1,Friendly,Rouen,France,True
+2009-02-11,Algeria,Benin,2,1,Friendly,Algiers,Algeria,False
+2009-03-28,Rwanda,Algeria,0,0,FIFA World Cup qualification,Kigali,Rwanda,False
+2009-06-07,Algeria,Egypt,3,1,FIFA World Cup qualification,Blida,Algeria,False
+2009-06-20,Zambia,Algeria,0,2,FIFA World Cup qualification,Chililabombwe,Zambia,False
+2009-08-12,Algeria,Uruguay,1,0,Friendly,Algiers,Algeria,False
+2009-09-06,Algeria,Zambia,1,0,FIFA World Cup qualification,Blida,Algeria,False
+2009-10-11,Algeria,Rwanda,3,1,FIFA World Cup qualification,Blida,Algeria,False
+2009-11-14,Egypt,Algeria,2,0,FIFA World Cup qualification,Cairo,Egypt,False
+2009-11-18,Algeria,Egypt,1,0,FIFA World Cup qualification,Omdurman,Sudan,True
+2010-01-11,Malawi,Algeria,3,0,African Cup of Nations,Luanda,Angola,True
+2010-01-14,Mali,Algeria,0,1,African Cup of Nations,Luanda,Angola,True
+2010-01-18,Angola,Algeria,0,0,African Cup of Nations,Luanda,Angola,False
+2010-01-24,Ivory Coast,Algeria,2,3,African Cup of Nations,Cabinda,Angola,True
+2010-01-28,Algeria,Egypt,0,4,African Cup of Nations,Benguela,Angola,True
+2010-01-30,Nigeria,Algeria,1,0,African Cup of Nations,Benguela,Angola,True
+2010-03-03,Algeria,Serbia,0,3,Friendly,Algiers,Algeria,False
+2010-05-28,Republic of Ireland,Algeria,3,0,Friendly,Dublin,Republic of Ireland,False
+2010-06-05,Algeria,United Arab Emirates,1,0,Friendly,Fürth,Germany,True
+2010-06-13,Algeria,Slovenia,0,1,FIFA World Cup,Polokwane,South Africa,True
+2010-06-18,England,Algeria,0,0,FIFA World Cup,Cape Town,South Africa,True
+2010-06-23,United States,Algeria,1,0,FIFA World Cup,Pretoria,South Africa,True
+2010-08-11,Algeria,Gabon,1,2,Friendly,Algiers,Algeria,False
+2010-09-03,Algeria,Tanzania,1,1,African Cup of Nations qualification,Blida,Algeria,False
+2010-10-10,Central African Republic,Algeria,2,0,African Cup of Nations qualification,Bangui,Central African Republic,False
+2010-11-17,Luxembourg,Algeria,0,0,Friendly,Luxembourg,Luxembourg,False
+2011-03-27,Algeria,Morocco,1,0,African Cup of Nations qualification,Annaba,Algeria,False
+2011-06-04,Morocco,Algeria,4,0,African Cup of Nations qualification,Marrakech,Morocco,False
+2011-09-03,Tanzania,Algeria,1,1,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+2011-10-09,Algeria,Central African Republic,2,0,African Cup of Nations qualification,Algiers,Algeria,False
+2011-11-12,Algeria,Tunisia,1,0,Friendly,Algiers,Algeria,False
+2012-02-29,Gambia,Algeria,1,2,African Cup of Nations qualification,Bakau,Gambia,False
+2012-05-26,Algeria,Niger,3,0,Friendly,Blida,Algeria,False
+2012-06-02,Algeria,Rwanda,4,0,FIFA World Cup qualification,Blida,Algeria,False
+2012-06-10,Mali,Algeria,2,1,FIFA World Cup qualification,Ouagadougou,Burkina Faso,True
+2012-06-15,Algeria,Gambia,4,1,African Cup of Nations qualification,Blida,Algeria,False
+2012-09-09,Libya,Algeria,0,1,African Cup of Nations qualification,Casablanca,Morocco,True
+2012-10-14,Algeria,Libya,2,0,African Cup of Nations qualification,Blida,Algeria,False
+2012-11-14,Algeria,Bosnia and Herzegovina,0,1,Friendly,Algiers,Algeria,False
+2013-01-12,South Africa,Algeria,0,0,Friendly,Johannesburg,South Africa,False
+2013-01-22,Tunisia,Algeria,1,0,African Cup of Nations,Rustenburg,South Africa,True
+2013-01-26,Algeria,Togo,0,2,African Cup of Nations,Rustenburg,South Africa,True
+2013-01-30,Algeria,Ivory Coast,2,2,African Cup of Nations,Rustenburg,South Africa,True
+2013-03-26,Algeria,Benin,3,1,FIFA World Cup qualification,Blida,Algeria,False
+2013-05-25,Algeria,Mauritania,1,0,Friendly,Blida,Algeria,False
+2013-06-02,Algeria,Burkina Faso,2,0,Friendly,Blida,Algeria,False
+2013-06-09,Benin,Algeria,1,3,FIFA World Cup qualification,Porto-Novo,Benin,False
+2013-06-16,Rwanda,Algeria,0,1,FIFA World Cup qualification,Kigali,Rwanda,False
+2013-08-14,Algeria,Guinea,2,2,Friendly,Blida,Algeria,False
+2013-09-10,Algeria,Mali,1,0,FIFA World Cup qualification,Blida,Algeria,False
+2013-10-12,Burkina Faso,Algeria,3,2,FIFA World Cup qualification,Ouagadougou,Burkina Faso,False
+2013-11-19,Algeria,Burkina Faso,1,0,FIFA World Cup qualification,Blida,Algeria,False
+2014-03-05,Algeria,Slovenia,2,0,Friendly,Blida,Algeria,False
+2014-05-31,Armenia,Algeria,1,3,Friendly,Sion,Switzerland,True
+2014-06-04,Romania,Algeria,1,2,Friendly,Lancy,Switzerland,True
+2014-06-17,Belgium,Algeria,2,1,FIFA World Cup,Belo Horizonte,Brazil,True
+2014-06-22,South Korea,Algeria,2,4,FIFA World Cup,Porto Alegre,Brazil,True
+2014-06-26,Algeria,Russia,1,1,FIFA World Cup,Curitiba,Brazil,True
+2014-06-30,Germany,Algeria,2,1,FIFA World Cup,Porto Alegre,Brazil,True
+2014-09-06,Ethiopia,Algeria,1,2,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+2014-09-10,Algeria,Mali,1,0,African Cup of Nations qualification,Blida,Algeria,False
+2014-10-11,Malawi,Algeria,0,2,African Cup of Nations qualification,Blantyre,Malawi,False
+2014-10-15,Algeria,Malawi,3,0,African Cup of Nations qualification,Blida,Algeria,False
+2014-11-15,Algeria,Ethiopia,3,1,African Cup of Nations qualification,Blida,Algeria,False
+2014-11-19,Mali,Algeria,2,0,African Cup of Nations qualification,Bamako,Mali,False
+2015-01-11,Tunisia,Algeria,1,1,Friendly,Radès,Tunisia,False
+2015-01-19,Algeria,South Africa,3,1,African Cup of Nations,Mongomo,Equatorial Guinea,True
+2015-01-23,Ghana,Algeria,1,0,African Cup of Nations,Mongomo,Equatorial Guinea,True
+2015-01-27,Senegal,Algeria,0,2,African Cup of Nations,Malabo,Equatorial Guinea,True
+2015-02-01,Ivory Coast,Algeria,3,1,African Cup of Nations,Malabo,Equatorial Guinea,True
+2015-03-26,Qatar,Algeria,1,0,Friendly,Doha,Qatar,False
+2015-03-30,Oman,Algeria,1,4,Friendly,Doha,Qatar,True
+2015-06-13,Algeria,Seychelles,4,0,African Cup of Nations qualification,Blida,Algeria,False
+2015-09-06,Lesotho,Algeria,1,3,African Cup of Nations qualification,Maseru,Lesotho,False
+2015-10-09,Algeria,Guinea,1,2,Friendly,Algiers,Algeria,False
+2015-10-13,Algeria,Senegal,1,0,Friendly,Algiers,Algeria,False
+2015-11-14,Tanzania,Algeria,2,2,FIFA World Cup qualification,Dar es Salaam,Tanzania,False
+2015-11-17,Algeria,Tanzania,7,0,FIFA World Cup qualification,Blida,Algeria,False
+2016-03-25,Algeria,Ethiopia,7,1,African Cup of Nations qualification,Blida,Algeria,False
+2016-03-29,Ethiopia,Algeria,3,3,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+2016-06-02,Seychelles,Algeria,0,2,African Cup of Nations qualification,Victoria,Seychelles,False
+2016-09-04,Algeria,Lesotho,6,0,African Cup of Nations qualification,Blida,Algeria,False
+2016-10-09,Algeria,Cameroon,1,1,FIFA World Cup qualification,Blida,Algeria,False
+2016-11-12,Nigeria,Algeria,3,1,FIFA World Cup qualification,Uyo,Nigeria,False
+2017-01-07,Algeria,Mauritania,3,1,Friendly,Blida,Algeria,False
+2017-01-10,Algeria,Mauritania,6,0,Friendly,Sidi Moussa,Algeria,False
+2017-01-15,Algeria,Zimbabwe,2,2,African Cup of Nations,Franceville,Gabon,True
+2017-01-19,Algeria,Tunisia,1,2,African Cup of Nations,Franceville,Gabon,True
+2017-01-23,Senegal,Algeria,2,2,African Cup of Nations,Franceville,Gabon,True
+2017-06-06,Algeria,Guinea,2,1,Friendly,Blida,Algeria,False
+2017-06-11,Algeria,Togo,1,0,African Cup of Nations qualification,Blida,Algeria,False
+2017-09-02,Zambia,Algeria,3,1,FIFA World Cup qualification,Lusaka,Zambia,False
+2017-09-05,Algeria,Zambia,0,1,FIFA World Cup qualification,Constantine,Algeria,False
+2017-10-07,Cameroon,Algeria,2,0,FIFA World Cup qualification,Yaoundé,Cameroon,False
+2017-11-10,Algeria,Nigeria,3,0,FIFA World Cup qualification,Constantine,Algeria,False
+2017-11-14,Algeria,Central African Republic,3,0,Friendly,Algiers,Algeria,False
+2018-03-22,Algeria,Tanzania,4,1,Friendly,Algiers,Algeria,False
+2018-03-27,Algeria,Iran,1,2,Friendly,Graz,Austria,True
+2018-05-09,Algeria,Saudi Arabia,0,2,Friendly,Cádiz,Spain,True
+2018-06-01,Algeria,Cape Verde,2,3,Friendly,Algiers,Algeria,False
+2018-06-07,Portugal,Algeria,3,0,Friendly,Lisbon,Portugal,False
+2018-09-08,Gambia,Algeria,1,1,African Cup of Nations qualification,Bakau,Gambia,False
+2018-10-12,Algeria,Benin,2,0,African Cup of Nations qualification,Blida,Algeria,False
+2018-10-16,Benin,Algeria,1,0,African Cup of Nations qualification,Cotonou,Benin,False
+2018-11-18,Togo,Algeria,1,4,African Cup of Nations qualification,Lomé,Togo,False
+2018-12-27,Qatar,Algeria,0,1,Friendly,Doha,Qatar,False
+2019-03-22,Algeria,Gambia,1,1,African Cup of Nations qualification,Blida,Algeria,False
+2019-03-26,Algeria,Tunisia,1,0,Friendly,Blida,Algeria,False
+2019-06-11,Algeria,Burundi,1,1,Friendly,Doha,Qatar,True
+2019-06-16,Algeria,Mali,3,2,Friendly,Doha,Qatar,True
+2019-06-23,Algeria,Kenya,2,0,African Cup of Nations,Cairo,Egypt,True
+2019-06-27,Senegal,Algeria,0,1,African Cup of Nations,Cairo,Egypt,True
+2019-07-01,Tanzania,Algeria,0,3,African Cup of Nations,Cairo,Egypt,True
+2019-07-07,Algeria,Guinea,3,0,African Cup of Nations,Cairo,Egypt,True
+2019-07-11,Ivory Coast,Algeria,1,1,African Cup of Nations,Suez,Egypt,True
+2019-07-14,Algeria,Nigeria,2,1,African Cup of Nations,Cairo,Egypt,True
+2019-07-19,Senegal,Algeria,0,1,African Cup of Nations,Cairo,Egypt,True
+2019-09-09,Algeria,Benin,1,0,Friendly,Algiers,Algeria,False
+2019-10-10,Algeria,DR Congo,1,1,Friendly,Blida,Algeria,False
+2019-10-15,Algeria,Colombia,3,0,Friendly,Villeneuve D'Ascq,Algeria,False
+2019-11-14,Algeria,Zambia,5,0,African Cup of Nations qualification,Blida,Algeria,False
+2019-11-18,Botswana,Algeria,0,1,African Cup of Nations qualification,Gaborone,Botswana,False
+2020-10-09,Nigeria,Algeria,0,1,Friendly,Klagenfurt,Austria,True
+2020-10-13,Mexico,Algeria,2,2,Friendly,The Hague,Netherlands,True
+2020-11-12,Algeria,Zimbabwe,3,1,African Cup of Nations qualification,Algiers,Algeria,False
+2020-11-16,Zimbabwe,Algeria,2,2,African Cup of Nations qualification,Harare,Zimbabwe,False
+2021-03-25,Zambia,Algeria,3,3,African Cup of Nations qualification,Lusaka,Zambia,False
+2021-03-29,Algeria,Botswana,5,0,African Cup of Nations qualification,Algiers,Algeria,False
+2021-06-03,Algeria,Mauritania,4,1,Friendly,Blida,Algeria,False
+2021-06-06,Algeria,Mali,1,0,Friendly,Blida,Algeria,False
+2021-06-11,Tunisia,Algeria,0,2,Friendly,Radès,Tunisia,False
+2021-06-17,Algeria,Liberia,5,1,Friendly,Oran,Algeria,False
+2021-09-02,Algeria,Djibouti,8,0,FIFA World Cup qualification,Blida,Algeria,False
+2021-09-07,Burkina Faso,Algeria,1,1,FIFA World Cup qualification,Marrakech,Morocco,True
+2021-10-08,Algeria,Niger,6,1,FIFA World Cup qualification,Algiers,Algeria,False
+2021-10-12,Niger,Algeria,0,4,FIFA World Cup qualification,Niamey,Niger,False
+2021-11-12,Djibouti,Algeria,0,4,FIFA World Cup qualification,Cairo,Egypt,True
+2021-11-16,Algeria,Burkina Faso,2,2,FIFA World Cup qualification,Blida,Algeria,False
+2021-12-01,Algeria,Sudan,4,0,Arab Cup,Al Rayyan,Qatar,True
+2021-12-04,Lebanon,Algeria,0,2,Arab Cup,Al Wakrah,Qatar,True
+2021-12-07,Algeria,Egypt,1,1,Arab Cup,Al Wakrah,Qatar,True
+2021-12-11,Morocco,Algeria,2,2,Arab Cup,Doha,Qatar,True
+2021-12-15,Qatar,Algeria,1,2,Arab Cup,Doha,Qatar,False
+2021-12-18,Tunisia,Algeria,0,2,Arab Cup,Al Khor,Qatar,True
+2022-01-05,Algeria,Ghana,3,0,Friendly,Al Rayyan,Qatar,True
+2022-01-11,Algeria,Sierra Leone,0,0,African Cup of Nations,Douala,Cameroon,True
+2022-01-16,Algeria,Equatorial Guinea,0,1,African Cup of Nations,Douala,Cameroon,True
+2022-01-20,Ivory Coast,Algeria,3,1,African Cup of Nations,Douala,Cameroon,True
+2022-03-25,Cameroon,Algeria,0,1,FIFA World Cup qualification,Douala,Cameroon,False
+2022-03-29,Algeria,Cameroon,1,2,FIFA World Cup qualification,Blida,Algeria,False
+2022-06-04,Algeria,Uganda,2,0,African Cup of Nations qualification,Algiers,Algeria,False
+2022-06-08,Tanzania,Algeria,0,2,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+2022-06-12,Iran,Algeria,1,2,Friendly,Doha,Qatar,True
+2022-09-23,Algeria,Guinea,1,0,Friendly,Oran,Algeria,False
+2022-09-27,Algeria,Nigeria,2,1,Friendly,Oran,Algeria,False
+2022-11-13,Syria,Algeria,0,1,Friendly,Sharjah,United Arab Emirates,True
+2022-11-16,Algeria,Mali,1,1,Friendly,Oran,Algeria,False
+2022-11-19,Sweden,Algeria,2,0,Friendly,Malmö,Sweden,False
+2023-03-23,Algeria,Niger,2,1,African Cup of Nations qualification,Algiers,Algeria,False
+2023-03-27,Niger,Algeria,0,1,African Cup of Nations qualification,Radès,Tunisia,True
+2023-06-18,Uganda,Algeria,1,2,African Cup of Nations qualification,Douala,Cameroon,True
+2023-06-20,Algeria,Tunisia,1,1,Friendly,Annaba,Algeria,False
+2023-09-07,Algeria,Tanzania,0,0,African Cup of Nations qualification,Annaba,Algeria,False
+2023-09-12,Senegal,Algeria,0,1,Friendly,Diamniadio,Senegal,False
+2023-10-12,Algeria,Cape Verde,5,1,Friendly,Constantine,Algeria,False
+2023-10-16,Algeria,Egypt,1,1,Friendly,Al Ain,United Arab Emirates,True
+2023-11-16,Algeria,Somalia,3,1,FIFA World Cup qualification,Algiers,Algeria,False
+2023-11-19,Mozambique,Algeria,0,2,FIFA World Cup qualification,Maputo,Mozambique,False
+2024-01-05,Togo,Algeria,0,3,Friendly,Lomé,Togo,False
+2024-01-09,Burundi,Algeria,0,4,Friendly,Lomé,Togo,True
+2024-01-15,Algeria,Angola,1,1,African Cup of Nations,Bouaké,Ivory Coast,True
+2024-01-20,Algeria,Burkina Faso,2,2,African Cup of Nations,Bouaké,Ivory Coast,True
+2024-01-23,Mauritania,Algeria,1,0,African Cup of Nations,Bouaké,Ivory Coast,True
+2024-03-22,Algeria,Bolivia,3,2,FIFA Series,Algiers,Algeria,False
+2024-03-26,Algeria,South Africa,3,3,FIFA Series,Algiers,Algeria,False
+2024-06-06,Algeria,Guinea,1,2,FIFA World Cup qualification,Algiers,Algeria,False
+2024-06-10,Uganda,Algeria,1,2,FIFA World Cup qualification,Kira,Uganda,False
+2024-09-05,Algeria,Equatorial Guinea,2,0,African Cup of Nations qualification,Oran,Algeria,False
+2024-09-10,Liberia,Algeria,0,3,African Cup of Nations qualification,Monrovia,Liberia,False
+2024-10-10,Algeria,Togo,5,1,African Cup of Nations qualification,Annaba,Algeria,False
+2024-10-14,Togo,Algeria,0,1,African Cup of Nations qualification,Lomé,Togo,False
+2025-03-21,Botswana,Algeria,1,3,FIFA World Cup qualification,Francistown,Botswana,False
+2025-03-25,Algeria,Mozambique,5,1,FIFA World Cup qualification,Tizi Ouzou,Algeria,False

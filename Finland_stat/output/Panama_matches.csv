@@ -1,0 +1,520 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1938-02-12,Panama,Venezuela,2,1,Central American and Caribbean Games,Panama City,Panama,False
+1938-02-14,Panama,Colombia,2,4,Central American and Caribbean Games,Panama City,Panama,False
+1938-02-16,Panama,Costa Rica,0,11,Central American and Caribbean Games,Panama City,Panama,False
+1938-02-20,Panama,Mexico,2,2,Central American and Caribbean Games,Panama City,Panama,False
+1938-02-23,Panama,El Salvador,1,2,Central American and Caribbean Games,Panama City,Panama,False
+1939-03-15,Haiti,Panama,1,0,Friendly,Port-au-Prince,Haiti,False
+1939-03-19,Haiti,Panama,1,1,Friendly,Port-au-Prince,Haiti,False
+1939-03-24,Haiti,Panama,3,0,Friendly,Port-au-Prince,Haiti,False
+1939-08-06,Panama,Cuba,0,4,Friendly,Panama City,Panama,False
+1941-05-08,Curaçao,Panama,3,3,CCCF Championship,San José,Costa Rica,True
+1941-05-11,Costa Rica,Panama,7,0,CCCF Championship,San José,Costa Rica,False
+1941-05-15,El Salvador,Panama,4,3,CCCF Championship,San José,Costa Rica,True
+1941-05-18,Nicaragua,Panama,2,5,CCCF Championship,San José,Costa Rica,True
+1946-02-23,Panama,Honduras,1,0,CCCF Championship,San José,Costa Rica,True
+1946-02-26,Costa Rica,Panama,7,0,CCCF Championship,San José,Costa Rica,False
+1946-03-07,El Salvador,Panama,4,1,CCCF Championship,San José,Costa Rica,True
+1946-03-10,Panama,Nicaragua,0,2,CCCF Championship,San José,Costa Rica,True
+1946-03-13,Panama,Guatemala,3,3,CCCF Championship,San José,Costa Rica,True
+1946-11-05,El Salvador,Panama,2,3,Friendly,San Salvador,El Salvador,False
+1946-11-10,El Salvador,Panama,3,3,Friendly,San Salvador,El Salvador,False
+1946-12-09,Panama,Guatemala,4,2,Central American and Caribbean Games,Barranquilla,Colombia,True
+1946-12-13,Panama,Puerto Rico,12,1,Central American and Caribbean Games,Barranquilla,Colombia,True
+1946-12-16,Panama,Venezuela,2,1,Central American and Caribbean Games,Barranquilla,Colombia,True
+1946-12-17,Panama,Curaçao,2,2,Central American and Caribbean Games,Barranquilla,Colombia,True
+1946-12-20,Colombia,Panama,2,1,Central American and Caribbean Games,Barranquilla,Colombia,False
+1946-12-21,Panama,Costa Rica,2,0,Central American and Caribbean Games,Barranquilla,Colombia,True
+1948-03-04,Panama,Curaçao,1,3,CCCF Championship,Guatemala City,Guatemala,True
+1948-03-07,El Salvador,Panama,1,2,CCCF Championship,Guatemala City,Guatemala,True
+1948-03-09,Guatemala,Panama,4,3,CCCF Championship,Guatemala City,Guatemala,False
+1948-03-11,Costa Rica,Panama,3,1,CCCF Championship,Guatemala City,Guatemala,True
+1948-03-14,Curaçao,Panama,2,5,CCCF Championship,Guatemala City,Guatemala,True
+1948-03-16,Panama,El Salvador,2,0,CCCF Championship,Guatemala City,Guatemala,True
+1948-03-21,Guatemala,Panama,4,5,CCCF Championship,Guatemala City,Guatemala,False
+1949-08-03,El Salvador,Panama,3,1,Friendly,San Salvador,El Salvador,False
+1949-08-04,El Salvador,Panama,2,3,Friendly,San Salvador,El Salvador,False
+1951-02-27,Panama,Costa Rica,2,0,CCCF Championship,Panama City,Panama,False
+1951-02-28,Panama,Nicaragua,4,0,CCCF Championship,Panama City,Panama,False
+1951-03-02,Panama,Costa Rica,1,1,CCCF Championship,Panama City,Panama,False
+1951-03-04,Panama,Nicaragua,6,2,CCCF Championship,Panama City,Panama,False
+1951-12-08,Venezuela,Panama,4,1,Friendly,Caracas,Venezuela,False
+1952-03-16,Chile,Panama,6,1,Pan American Championship,Santiago,Chile,False
+1952-03-23,Panama,Peru,1,7,Pan American Championship,Santiago,Chile,True
+1952-04-06,Panama,Uruguay,1,6,Pan American Championship,Santiago,Chile,True
+1952-04-10,Mexico,Panama,4,2,Pan American Championship,Santiago,Chile,True
+1952-04-13,Brazil,Panama,5,0,Pan American Championship,Santiago,Chile,True
+1953-03-10,Costa Rica,Panama,3,0,CCCF Championship,San José,Costa Rica,False
+1953-03-12,Panama,Curaçao,2,4,CCCF Championship,San José,Costa Rica,True
+1953-03-14,Panama,Nicaragua,0,2,CCCF Championship,San José,Costa Rica,True
+1953-03-17,Panama,Guatemala,2,2,CCCF Championship,San José,Costa Rica,True
+1953-03-19,El Salvador,Panama,2,1,CCCF Championship,San José,Costa Rica,True
+1953-03-21,Honduras,Panama,3,1,CCCF Championship,San José,Costa Rica,True
+1956-03-08,Haiti,Panama,3,2,Friendly,Port-au-Prince,Haiti,False
+1956-03-09,Panama,Venezuela,0,1,Friendly,Port-au-Prince,Haiti,True
+1956-03-12,Haiti,Panama,2,1,Friendly,Port-au-Prince,Haiti,False
+1956-03-14,Panama,Venezuela,2,4,Friendly,Port-au-Prince,Haiti,True
+1957-08-14,Cuba,Panama,0,1,CCCF Championship,Willemstad,Curaçao,True
+1957-08-21,Curaçao,Panama,3,0,CCCF Championship,Willemstad,Curaçao,False
+1957-08-26,Aruba,Panama,2,2,Friendly,Oranjestad,Aruba,False
+1961-03-10,Cuba,Panama,0,1,CCCF Championship,San José,Costa Rica,True
+1961-03-13,Haiti,Panama,3,1,CCCF Championship,San José,Costa Rica,True
+1961-03-19,Panama,Paraguay,0,0,Friendly,Panama City,Panama,False
+1961-03-22,Panama,Haiti,0,3,Friendly,Panama City,Panama,False
+1961-03-23,Panama,Haiti,0,2,Friendly,Panama City,Panama,False
+1961-12-04,Panama,Venezuela,2,6,Friendly,Barranquilla,Colombia,True
+1961-12-12,Panama,Venezuela,0,3,Friendly,Barranquilla,Colombia,True
+1963-03-23,Guatemala,Panama,2,2,CONCACAF Championship,San Salvador,El Salvador,True
+1963-03-25,El Salvador,Panama,1,1,CONCACAF Championship,San Salvador,El Salvador,False
+1963-03-29,Nicaragua,Panama,0,5,CONCACAF Championship,San Salvador,El Salvador,True
+1963-03-31,Panama,Honduras,0,1,CONCACAF Championship,San Salvador,El Salvador,True
+1966-02-08,Panama,Nicaragua,3,1,Friendly,Panama City,Panama,False
+1966-02-28,Panama,Guatemala,0,1,Friendly,Panama City,Panama,False
+1966-03-25,Panama,El Salvador,1,0,Friendly,Panama City,Panama,False
+1967-02-09,Nicaragua,Panama,3,1,CONCACAF Championship qualification,Guatemala City,Guatemala,True
+1967-02-12,Guatemala,Panama,3,1,CONCACAF Championship qualification,Guatemala City,Guatemala,False
+1969-11-03,Jamaica,Panama,1,1,CONCACAF Championship qualification,Kingston,Jamaica,False
+1969-11-05,Jamaica,Panama,2,1,CONCACAF Championship qualification,Kingston,Jamaica,False
+1970-06-13,Honduras,Panama,1,0,Friendly,El Progreso,Honduras,False
+1972-06-01,Puerto Rico,Panama,0,0,Friendly,San Juan,Puerto Rico,False
+1972-12-14,Panama,Puerto Rico,5,0,Friendly,Panama City,Panama,False
+1972-12-16,Panama,Puerto Rico,0,1,Friendly,Panama City,Panama,False
+1973-04-23,Peru,Panama,4,0,Friendly,Lima,Peru,False
+1973-12-02,Panama,Nicaragua,2,0,Friendly,Panama City,Panama,False
+1974-01-25,Panama,El Salvador,1,0,Friendly,Panama City,Panama,False
+1974-03-14,Puerto Rico,Panama,0,1,Friendly,San Juan,Puerto Rico,False
+1975-04-04,Macau,Panama,2,1,Friendly,Macau,Macau,False
+1975-06-13,Panama,Costa Rica,1,1,Friendly,Panama City,Panama,False
+1975-08-01,Panama,Guatemala,2,0,Friendly,Panama City,Panama,False
+1975-08-15,Panama,Haiti,2,0,Friendly,Panama City,Panama,False
+1975-08-17,Panama,Haiti,1,1,Friendly,La Chorrera,Panama,False
+1975-09-05,Panama,Cuba,0,1,Friendly,Panama City,Panama,False
+1975-09-07,Panama,Cuba,2,2,Friendly,La Chorrera,Panama,False
+1975-09-16,Panama,Cuba,2,3,Friendly,Panama City,Panama,False
+1976-04-04,Panama,Costa Rica,3,2,CONCACAF Championship qualification,Panama City,Panama,False
+1976-05-02,Panama,El Salvador,1,1,CONCACAF Championship qualification,Panama City,Panama,False
+1976-07-11,Costa Rica,Panama,3,0,CONCACAF Championship qualification,San José,Costa Rica,False
+1976-08-11,El Salvador,Panama,4,1,CONCACAF Championship qualification,San Salvador,El Salvador,False
+1976-09-17,Panama,Guatemala,2,4,CONCACAF Championship qualification,Panama City,Panama,False
+1976-09-26,Guatemala,Panama,7,0,CONCACAF Championship qualification,Guatemala City,Guatemala,False
+1976-12-23,Panama,Cuba,0,5,Friendly,Panama City,Panama,False
+1977-02-20,Panama,Paraguay,0,4,Friendly,Panama City,Panama,False
+1977-06-06,Honduras,Panama,1,0,Friendly,Tegucigalpa,Honduras,False
+1980-05-09,Panama,El Salvador,0,0,Friendly,Panama City,Panama,False
+1980-06-13,Honduras,Panama,0,0,Friendly,Tegucigalpa,Honduras,False
+1980-06-15,Honduras,Panama,2,0,Friendly,Tegucigalpa,Honduras,False
+1980-07-02,Panama,Guatemala,0,2,CONCACAF Championship qualification,Panama City,Panama,False
+1980-07-30,Panama,Honduras,0,2,CONCACAF Championship qualification,Panama City,Panama,False
+1980-08-10,Panama,Costa Rica,1,1,CONCACAF Championship qualification,Panama City,Panama,False
+1980-08-24,Panama,El Salvador,1,3,CONCACAF Championship qualification,Panama City,Panama,False
+1980-10-05,El Salvador,Panama,4,1,CONCACAF Championship qualification,San Salvador,El Salvador,False
+1980-11-05,Costa Rica,Panama,2,0,CONCACAF Championship qualification,San José,Costa Rica,False
+1980-11-16,Guatemala,Panama,5,0,CONCACAF Championship qualification,Guatemala City,Guatemala,False
+1980-12-14,Honduras,Panama,5,0,CONCACAF Championship qualification,Tegucigalpa,Honduras,False
+1983-07-27,Panama,Cuba,0,0,Friendly,Panama City,Panama,False
+1983-07-31,Panama,Cuba,1,0,Friendly,La Chorrera,Panama,False
+1984-03-13,Panama,Cuba,1,1,Friendly,Panama City,Panama,False
+1984-03-18,Panama,Cuba,0,1,Friendly,Panama City,Panama,False
+1984-03-24,Panama,Costa Rica,1,1,Friendly,Panama City,Panama,False
+1984-04-27,Panama,Nicaragua,2,0,Friendly,Panama City,Panama,False
+1984-05-29,El Salvador,Panama,2,1,Friendly,San Salvador,El Salvador,False
+1984-06-15,Panama,Honduras,0,3,CONCACAF Championship qualification,Colón,Panama,False
+1984-06-24,Honduras,Panama,1,0,CONCACAF Championship qualification,Tegucigalpa,Honduras,False
+1985-03-29,Panama,Guatemala,0,0,Friendly,Panama City,Panama,False
+1985-04-14,Panama,Trinidad and Tobago,0,0,Friendly,Panama City,Panama,False
+1985-04-17,Panama,Trinidad and Tobago,1,1,Friendly,David,Panama,False
+1986-05-21,Panama,Dominican Republic,2,1,Friendly,Panama City,Panama,False
+1986-10-28,Honduras,Panama,1,0,Friendly,Managua,Nicaragua,True
+1986-10-30,Cuba,Panama,1,1,Friendly,Managua,Nicaragua,True
+1987-02-20,Panama,Cuba,1,0,Friendly,Panama City,Panama,False
+1987-02-22,Panama,Cuba,1,3,Friendly,Panama City,Panama,False
+1987-02-25,Dominican Republic,Panama,0,2,Friendly,Santo Domingo,Dominican Republic,False
+1987-02-27,Dominican Republic,Panama,1,2,Friendly,Santo Domingo,Dominican Republic,False
+1987-02-28,Dominican Republic,Panama,1,1,Friendly,Santo Domingo,Dominican Republic,False
+1987-03-03,Dominican Republic,Panama,0,1,Friendly,Santo Domingo,Dominican Republic,False
+1987-03-25,Panama,Cuba,0,0,Friendly,Panama City,Panama,False
+1988-07-17,Costa Rica,Panama,1,1,CONCACAF Championship qualification,Alajuela,Costa Rica,False
+1988-07-31,Panama,Costa Rica,0,2,CONCACAF Championship qualification,Panama City,Panama,False
+1989-09-01,Trinidad and Tobago,Panama,2,0,Friendly,Port of Spain,Trinidad and Tobago,False
+1991-05-12,Panama,Honduras,2,0,UNCAF Cup,Panama City,Panama,False
+1991-05-18,Honduras,Panama,3,0,UNCAF Cup,San Pedro Sula,Honduras,False
+1992-06-28,Honduras,Panama,4,0,Friendly,Tegucigalpa,Honduras,False
+1992-06-30,Honduras,Panama,4,0,Friendly,San Pedro Sula,Honduras,False
+1992-08-16,Panama,Costa Rica,1,0,FIFA World Cup qualification,Panama City,Panama,False
+1992-08-23,Costa Rica,Panama,5,1,FIFA World Cup qualification,San José,Costa Rica,False
+1993-03-05,Honduras,Panama,2,0,UNCAF Cup,Tegucigalpa,Honduras,False
+1993-03-07,El Salvador,Panama,1,1,UNCAF Cup,Tegucigalpa,Honduras,True
+1993-03-09,Costa Rica,Panama,2,0,UNCAF Cup,Tegucigalpa,Honduras,True
+1993-06-23,Costa Rica,Panama,3,1,Friendly,San José,Costa Rica,False
+1993-07-10,Honduras,Panama,5,1,Gold Cup,Dallas,United States,True
+1993-07-14,United States,Panama,2,1,Gold Cup,Dallas,United States,False
+1993-07-17,Jamaica,Panama,1,1,Gold Cup,Dallas,United States,True
+1995-10-22,Panama,Nicaragua,2,0,UNCAF Cup,Panama City,Panama,False
+1995-10-29,Nicaragua,Panama,0,5,UNCAF Cup,Diriamba,Nicaragua,False
+1995-11-29,Honduras,Panama,2,0,UNCAF Cup,Santa Ana,El Salvador,True
+1995-12-01,Guatemala,Panama,1,0,UNCAF Cup,Santa Ana,El Salvador,True
+1996-06-02,Belize,Panama,1,2,FIFA World Cup qualification,Belize City,Belize,False
+1996-06-09,Panama,Belize,4,1,FIFA World Cup qualification,Panama City,Panama,False
+1996-07-21,Panama,Venezuela,0,2,Friendly,Panama City,Panama,False
+1996-07-24,Honduras,Panama,1,1,Friendly,Tegucigalpa,Honduras,False
+1996-07-28,Jamaica,Panama,0,0,Friendly,Kingston,Jamaica,False
+1996-07-30,Panama,Trinidad and Tobago,1,0,Friendly,Panama City,Panama,False
+1996-08-04,Guatemala,Panama,1,0,Friendly,Guatemala City,Guatemala,False
+1996-08-07,Panama,Honduras,2,1,Friendly,Panama City,Panama,False
+1996-08-14,Panama,Guatemala,1,0,Friendly,Panama City,Panama,False
+1996-08-24,Panama,Jamaica,2,0,Friendly,Panama City,Panama,False
+1996-08-30,Canada,Panama,3,1,FIFA World Cup qualification,Edmonton,Canada,False
+1996-09-22,Panama,Cuba,1,3,FIFA World Cup qualification,Panama City,Panama,False
+1996-10-06,Panama,El Salvador,1,1,FIFA World Cup qualification,Panama City,Panama,False
+1996-10-27,Panama,Canada,0,0,FIFA World Cup qualification,Panama City,Panama,False
+1996-11-07,Costa Rica,Panama,2,0,Friendly,San Isidro de El General,Costa Rica,False
+1996-11-10,El Salvador,Panama,3,2,FIFA World Cup qualification,San Salvador,El Salvador,False
+1996-12-15,Panama,Cuba,3,1,FIFA World Cup qualification,Panama City,Panama,False
+1997-03-23,Panama,Belize,1,1,UNCAF Cup,Panama City,Panama,False
+1997-03-30,Belize,Panama,0,1,UNCAF Cup,San Ignacio,Belize,False
+1997-04-16,Honduras,Panama,5,0,UNCAF Cup,Guatemala City,Guatemala,True
+1997-04-20,El Salvador,Panama,2,0,UNCAF Cup,Guatemala City,Guatemala,True
+1999-10-12,Panama,Trinidad and Tobago,2,2,Friendly,Panama City,Panama,False
+1999-12-05,Panama,Cuba,1,0,Friendly,Panama City,Panama,False
+2000-01-19,Panama,Guatemala,2,0,Friendly,Panama City,Panama,False
+2000-01-26,Guatemala,Panama,1,1,Friendly,Guatemala City,Guatemala,False
+2000-02-16,Panama,El Salvador,4,1,Friendly,Panama City,Panama,False
+2000-02-29,El Salvador,Panama,3,1,Friendly,San Salvador,El Salvador,False
+2000-03-19,Nicaragua,Panama,0,2,FIFA World Cup qualification,Diriamba,Nicaragua,False
+2000-04-02,Panama,Honduras,1,0,FIFA World Cup qualification,Panama City,Panama,False
+2000-05-07,Honduras,Panama,3,1,FIFA World Cup qualification,Tegucigalpa,Honduras,False
+2000-05-14,Jamaica,Panama,0,1,Friendly,Montego Bay,Jamaica,False
+2000-05-21,Panama,Nicaragua,4,0,FIFA World Cup qualification,Panama City,Panama,False
+2000-05-31,Venezuela,Panama,3,1,Friendly,San Cristóbal,Venezuela,False
+2000-06-25,Ecuador,Panama,5,0,Friendly,Quito,Ecuador,False
+2000-07-01,Costa Rica,Panama,5,1,Friendly,Alajuela,Costa Rica,False
+2000-07-16,Panama,Mexico,0,1,FIFA World Cup qualification,Panama City,Panama,False
+2000-07-23,Panama,Canada,0,0,FIFA World Cup qualification,Panama City,Panama,False
+2000-08-11,Panama,Ecuador,0,0,Friendly,Panama City,Panama,False
+2000-08-16,Trinidad and Tobago,Panama,6,0,FIFA World Cup qualification,Port of Spain,Trinidad and Tobago,False
+2000-09-03,Mexico,Panama,7,1,FIFA World Cup qualification,Mexico City,Mexico,False
+2000-10-09,Canada,Panama,1,0,FIFA World Cup qualification,Winnipeg,Canada,False
+2000-11-15,Trinidad and Tobago,Panama,1,0,FIFA World Cup qualification,Port of Spain,Trinidad and Tobago,False
+2001-02-21,Panama,Guatemala,2,2,Friendly,Panama City,Panama,False
+2001-03-14,Panama,El Salvador,1,0,Friendly,Panama City,Panama,False
+2001-04-05,Haiti,Panama,1,1,Friendly,Port-au-Prince,Haiti,False
+2001-04-07,Haiti,Panama,0,0,Friendly,Cap-Haïtien,Haiti,False
+2001-04-24,Panama,Haiti,2,0,Friendly,Panama City,Panama,False
+2001-05-23,Honduras,Panama,1,2,UNCAF Cup,San Pedro Sula,Honduras,False
+2001-05-25,El Salvador,Panama,2,1,UNCAF Cup,Tegucigalpa,Honduras,True
+2001-05-27,Panama,Nicaragua,6,0,UNCAF Cup,Puerto Cortés,Honduras,True
+2001-05-30,Panama,Costa Rica,1,2,UNCAF Cup,San Pedro Sula,Honduras,True
+2001-06-01,El Salvador,Panama,1,1,UNCAF Cup,Tegucigalpa,Honduras,True
+2001-06-03,Guatemala,Panama,3,1,UNCAF Cup,San Pedro Sula,Honduras,True
+2001-06-10,Panama,Trinidad and Tobago,0,0,Friendly,La Chorrera,Panama,False
+2001-07-29,Panama,Cuba,0,0,Gold Cup qualification,Panama City,Panama,False
+2001-08-05,Cuba,Panama,1,0,Gold Cup qualification,Havana,Cuba,False
+2001-08-09,Brazil,Panama,5,0,Friendly,Curitiba,Brazil,False
+2003-02-09,Panama,El Salvador,1,2,UNCAF Cup,Panama City,Panama,False
+2003-02-16,Panama,Guatemala,2,0,UNCAF Cup,Panama City,Panama,False
+2003-02-18,Panama,Honduras,1,1,UNCAF Cup,Panama City,Panama,False
+2003-02-21,Panama,Nicaragua,0,1,UNCAF Cup,Panama City,Panama,False
+2003-02-23,Panama,Costa Rica,0,1,UNCAF Cup,Panama City,Panama,False
+2003-06-27,Panama,Cuba,2,0,Friendly,Panama City,Panama,False
+2003-06-29,Panama,Cuba,1,0,Friendly,Panama City,Panama,False
+2003-08-20,Panama,Paraguay,1,2,Friendly,Panama City,Panama,False
+2003-08-31,Bolivia,Panama,3,0,Friendly,La Paz,Bolivia,False
+2004-01-28,El Salvador,Panama,1,1,Friendly,San Salvador,El Salvador,False
+2004-03-16,Cuba,Panama,1,1,Friendly,Havana,Cuba,False
+2004-03-18,Cuba,Panama,3,0,Friendly,Havana,Cuba,False
+2004-04-07,Honduras,Panama,0,0,Friendly,La Ceiba,Honduras,False
+2004-04-28,Panama,Bermuda,4,1,Friendly,Panama City,Panama,False
+2004-05-01,Guatemala,Panama,1,2,Friendly,Guatemala City,Guatemala,False
+2004-06-13,Panama,Saint Lucia,4,0,FIFA World Cup qualification,Panama City,Panama,False
+2004-06-20,Saint Lucia,Panama,0,3,FIFA World Cup qualification,Vieux Fort,Saint Lucia,False
+2004-07-23,Panama,Guatemala,1,1,Friendly,Panama City,Panama,False
+2004-07-28,Honduras,Panama,0,0,Friendly,Tegucigalpa,Honduras,False
+2004-08-18,El Salvador,Panama,2,1,FIFA World Cup qualification,San Salvador,El Salvador,False
+2004-09-04,Jamaica,Panama,1,2,FIFA World Cup qualification,Kingston,Jamaica,False
+2004-09-08,Panama,United States,1,1,FIFA World Cup qualification,Panama City,Panama,False
+2004-10-09,Panama,Jamaica,1,1,FIFA World Cup qualification,Panama City,Panama,False
+2004-10-13,United States,Panama,6,0,FIFA World Cup qualification,"Washington, D.C.",United States,False
+2004-11-17,Panama,El Salvador,3,0,FIFA World Cup qualification,Panama City,Panama,False
+2004-12-18,Iran,Panama,1,0,Friendly,Tehran,Iran,False
+2005-01-26,Ecuador,Panama,2,0,Friendly,Ambato,Ecuador,False
+2005-01-29,Ecuador,Panama,2,0,Friendly,Babahoyo,Ecuador,False
+2005-02-09,Panama,Guatemala,0,0,FIFA World Cup qualification,Panama City,Panama,False
+2005-02-19,El Salvador,Panama,0,1,UNCAF Cup,Guatemala City,Guatemala,True
+2005-02-23,Panama,Costa Rica,0,1,UNCAF Cup,Guatemala City,Guatemala,True
+2005-02-25,Honduras,Panama,1,0,UNCAF Cup,Guatemala City,Guatemala,True
+2005-02-27,Guatemala,Panama,3,0,UNCAF Cup,Guatemala City,Guatemala,False
+2005-03-26,Costa Rica,Panama,2,1,FIFA World Cup qualification,San José,Costa Rica,False
+2005-03-30,Panama,Mexico,1,1,FIFA World Cup qualification,Panama City,Panama,False
+2005-05-25,Venezuela,Panama,1,1,Friendly,Caracas,Venezuela,False
+2005-06-04,Trinidad and Tobago,Panama,2,0,FIFA World Cup qualification,Port of Spain,Trinidad and Tobago,False
+2005-06-08,Panama,United States,0,3,FIFA World Cup qualification,Panama City,Panama,False
+2005-07-06,Colombia,Panama,0,1,Gold Cup,Miami,United States,True
+2005-07-10,Panama,Trinidad and Tobago,2,2,Gold Cup,Miami,United States,True
+2005-07-12,Honduras,Panama,1,0,Gold Cup,Miami,United States,True
+2005-07-17,South Africa,Panama,1,1,Gold Cup,Houston,United States,True
+2005-07-21,Colombia,Panama,2,3,Gold Cup,East Rutherford,United States,True
+2005-07-24,United States,Panama,0,0,Gold Cup,East Rutherford,United States,False
+2005-08-17,Guatemala,Panama,2,1,FIFA World Cup qualification,Guatemala City,Guatemala,False
+2005-09-03,Panama,Costa Rica,1,3,FIFA World Cup qualification,Panama City,Panama,False
+2005-09-07,Mexico,Panama,5,0,FIFA World Cup qualification,Mexico City,Mexico,False
+2005-10-08,Panama,Trinidad and Tobago,0,1,FIFA World Cup qualification,Panama City,Panama,False
+2005-10-12,United States,Panama,2,0,FIFA World Cup qualification,Foxborough,United States,False
+2005-10-27,Bahrain,Panama,5,0,Friendly,Riffa,Bahrain,False
+2006-08-16,Peru,Panama,0,2,Friendly,Lima,Peru,False
+2006-09-06,Guatemala,Panama,1,2,Friendly,Guatemala City,Guatemala,False
+2006-10-07,Panama,El Salvador,1,0,Friendly,Panama City,Panama,False
+2006-10-11,Trinidad and Tobago,Panama,2,1,Friendly,Port of Spain,Trinidad and Tobago,False
+2006-11-19,Panama,Peru,1,2,Friendly,Panama City,Panama,False
+2006-11-29,El Salvador,Panama,0,0,Friendly,San Salvador,El Salvador,False
+2007-01-14,Panama,Armenia,1,1,Friendly,Monterey Park,United States,True
+2007-01-31,Panama,Trinidad and Tobago,2,1,Friendly,Panama City,Panama,False
+2007-02-11,Honduras,Panama,1,1,UNCAF Cup,San Salvador,El Salvador,True
+2007-02-13,Panama,Costa Rica,1,0,UNCAF Cup,San Salvador,El Salvador,True
+2007-02-16,Panama,Guatemala,2,0,UNCAF Cup,San Salvador,El Salvador,True
+2007-02-18,Costa Rica,Panama,1,1,UNCAF Cup,San Salvador,El Salvador,True
+2007-03-24,Haiti,Panama,3,0,Friendly,Miami,United States,True
+2007-03-26,Jamaica,Panama,1,1,Friendly,Kingston,Jamaica,False
+2007-05-09,Panama,Colombia,0,4,Friendly,Panama City,Panama,False
+2007-06-08,Panama,Honduras,3,2,Gold Cup,East Rutherford,United States,True
+2007-06-10,Panama,Cuba,2,2,Gold Cup,East Rutherford,United States,True
+2007-06-13,Mexico,Panama,1,0,Gold Cup,Houston,United States,True
+2007-06-16,United States,Panama,2,1,Gold Cup,Foxborough,United States,False
+2007-08-22,Panama,Guatemala,2,1,Friendly,Panama City,Panama,False
+2007-09-09,Mexico,Panama,1,0,Friendly,Puebla,Mexico,False
+2007-09-12,Venezuela,Panama,1,1,Friendly,Puerto la Cruz,Venezuela,False
+2007-10-14,Honduras,Panama,1,0,Friendly,Tegucigalpa,Honduras,False
+2007-11-21,Panama,Costa Rica,1,1,Friendly,Panama City,Panama,False
+2008-06-01,Guatemala,Panama,0,1,Friendly,Fort Lauderdale,United States,True
+2008-06-04,Panama,Canada,2,2,Friendly,Fort Lauderdale,United States,True
+2008-06-07,Chile,Panama,0,0,Friendly,Valparaíso,Chile,False
+2008-06-15,Panama,El Salvador,1,0,FIFA World Cup qualification,Panama City,Panama,False
+2008-06-22,El Salvador,Panama,3,1,FIFA World Cup qualification,San Salvador,El Salvador,False
+2008-08-20,Bolivia,Panama,1,0,Friendly,Santa Cruz,Bolivia,False
+2009-01-23,Costa Rica,Panama,3,0,UNCAF Cup,Tegucigalpa,Honduras,True
+2009-01-27,Panama,Guatemala,1,0,UNCAF Cup,Tegucigalpa,Honduras,True
+2009-01-30,Honduras,Panama,0,1,UNCAF Cup,Tegucigalpa,Honduras,False
+2009-02-01,Costa Rica,Panama,0,0,UNCAF Cup,Tegucigalpa,Honduras,True
+2009-03-18,Trinidad and Tobago,Panama,1,0,Friendly,San Fernando,Trinidad and Tobago,False
+2009-03-31,Panama,Haiti,4,0,Friendly,La Chorrera,Panama,False
+2009-05-20,Argentina,Panama,3,1,Friendly,Santa Fe,Argentina,False
+2009-06-07,Jamaica,Panama,3,2,Friendly,Kingston,Jamaica,False
+2009-06-19,Haiti,Panama,1,1,Friendly,Port-au-Prince,Haiti,False
+2009-06-28,Panama,Honduras,0,2,Friendly,Cary,United States,True
+2009-07-05,Panama,Guadeloupe,1,2,Gold Cup,Oakland,United States,True
+2009-07-09,Mexico,Panama,1,1,Gold Cup,Houston,United States,True
+2009-07-12,Panama,Nicaragua,4,0,Gold Cup,Glendale,United States,True
+2009-07-18,United States,Panama,2,1,Gold Cup,Philadelphia,United States,False
+2010-01-20,Chile,Panama,2,1,Friendly,Coquimbo,Chile,False
+2010-03-03,Venezuela,Panama,1,2,Friendly,Barquisimeto,Venezuela,False
+2010-08-11,Panama,Venezuela,3,1,Friendly,Panama City,Panama,False
+2010-09-03,Panama,Costa Rica,2,2,Friendly,Panama City,Panama,False
+2010-09-07,Panama,Trinidad and Tobago,3,0,Friendly,Panama City,Panama,False
+2010-10-08,Panama,El Salvador,1,0,Friendly,Panama City,Panama,False
+2010-10-12,Panama,Peru,1,0,Friendly,Panama City,Panama,False
+2010-10-26,Panama,Cuba,0,3,Friendly,Panama City,Panama,False
+2010-11-17,Panama,Honduras,2,0,Friendly,Panama City,Panama,False
+2010-12-18,Honduras,Panama,2,1,Friendly,San Pedro Sula,Honduras,False
+2011-01-14,Panama,Belize,2,0,UNCAF Cup,Panama City,Panama,False
+2011-01-16,Panama,Nicaragua,2,0,UNCAF Cup,Panama City,Panama,False
+2011-01-18,Panama,El Salvador,2,0,UNCAF Cup,Panama City,Panama,False
+2011-01-21,Panama,Costa Rica,1,1,UNCAF Cup,Panama City,Panama,False
+2011-01-23,Panama,El Salvador,0,0,UNCAF Cup,Panama City,Panama,False
+2011-02-08,Peru,Panama,1,0,Friendly,Moquegua,Peru,False
+2011-03-25,Panama,Bolivia,2,0,Friendly,Panama City,Panama,False
+2011-03-29,Cuba,Panama,0,2,Friendly,Havana,Cuba,False
+2011-05-29,Panama,Grenada,2,0,Friendly,Panama City,Panama,False
+2011-06-07,Panama,Guadeloupe,3,2,Gold Cup,Detroit,United States,True
+2011-06-11,United States,Panama,1,2,Gold Cup,Tampa,United States,False
+2011-06-14,Canada,Panama,1,1,Gold Cup,Kansas City,United States,True
+2011-06-19,Panama,El Salvador,1,1,Gold Cup,"Washington, D.C.",United States,True
+2011-06-22,United States,Panama,1,0,Gold Cup,Houston,United States,False
+2011-08-10,Bolivia,Panama,1,3,Friendly,Santa Cruz,Bolivia,False
+2011-09-02,Panama,Paraguay,0,2,Friendly,Panama City,Panama,False
+2011-09-06,Nicaragua,Panama,1,2,FIFA World Cup qualification,Managua,Nicaragua,False
+2011-10-07,Dominica,Panama,0,5,FIFA World Cup qualification,Roseau,Dominica,False
+2011-10-11,Panama,Nicaragua,5,1,FIFA World Cup qualification,Panama City,Panama,False
+2011-11-11,Panama,Costa Rica,2,0,Friendly,Panama City,Panama,False
+2011-11-15,Panama,Dominica,3,0,FIFA World Cup qualification,Panama City,Panama,False
+2012-01-25,Panama,United States,0,1,Friendly,Panama City,Panama,False
+2012-02-29,Paraguay,Panama,1,0,Friendly,Asunción,Paraguay,False
+2012-05-20,Panama,Guyana,2,0,Friendly,Panama City,Panama,False
+2012-05-27,Jamaica,Panama,0,1,Friendly,Kingston,Jamaica,False
+2012-06-01,Panama,Jamaica,2,1,Friendly,Panama City,Panama,False
+2012-06-08,Honduras,Panama,0,2,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2012-06-12,Panama,Cuba,1,0,FIFA World Cup qualification,Panama City,Panama,False
+2012-08-15,Portugal,Panama,2,0,Friendly,Faro,Portugal,False
+2012-09-07,Canada,Panama,1,0,FIFA World Cup qualification,Toronto,Canada,False
+2012-09-11,Panama,Canada,2,0,FIFA World Cup qualification,Panama City,Panama,False
+2012-10-12,Panama,Honduras,0,0,FIFA World Cup qualification,Panama City,Panama,False
+2012-10-16,Cuba,Panama,1,1,FIFA World Cup qualification,Havana,Cuba,False
+2012-11-14,Panama,Spain,1,5,Friendly,Panama City,Panama,False
+2013-01-10,Panama,Guatemala,3,0,Friendly,Panama City,Panama,False
+2013-01-13,Panama,Guatemala,2,0,Friendly,Panama City,Panama,False
+2013-01-20,El Salvador,Panama,0,0,UNCAF Cup,San José,Costa Rica,True
+2013-01-22,Panama,Honduras,1,1,UNCAF Cup,San José,Costa Rica,True
+2013-01-25,Guatemala,Panama,1,3,UNCAF Cup,San José,Costa Rica,True
+2013-02-06,Panama,Costa Rica,2,2,FIFA World Cup qualification,Panama City,Panama,False
+2013-03-22,Jamaica,Panama,1,1,FIFA World Cup qualification,Kingston,Jamaica,False
+2013-03-26,Panama,Honduras,2,0,FIFA World Cup qualification,Panama City,Panama,False
+2013-06-01,Panama,Peru,1,2,Friendly,Panama City,Panama,False
+2013-06-07,Panama,Mexico,0,0,FIFA World Cup qualification,Panama City,Panama,False
+2013-06-11,United States,Panama,2,0,FIFA World Cup qualification,Seattle,United States,False
+2013-06-18,Costa Rica,Panama,2,0,FIFA World Cup qualification,San José,Costa Rica,False
+2013-07-07,Mexico,Panama,1,2,Gold Cup,Pasadena,United States,True
+2013-07-11,Panama,Martinique,1,0,Gold Cup,Seattle,United States,True
+2013-07-14,Panama,Canada,0,0,Gold Cup,Denver,United States,True
+2013-07-20,Panama,Cuba,6,1,Gold Cup,Atlanta,United States,True
+2013-07-24,Panama,Mexico,2,1,Gold Cup,Arlington,United States,True
+2013-07-28,United States,Panama,1,0,Gold Cup,Chicago,United States,False
+2013-09-06,Panama,Jamaica,0,0,FIFA World Cup qualification,Panama City,Panama,False
+2013-09-10,Honduras,Panama,2,2,FIFA World Cup qualification,Tegucigalpa,Honduras,False
+2013-10-11,Mexico,Panama,2,1,FIFA World Cup qualification,Mexico City,Mexico,False
+2013-10-15,Panama,United States,2,3,FIFA World Cup qualification,Panama City,Panama,False
+2014-06-03,Brazil,Panama,4,0,Friendly,Goiânia,Brazil,False
+2014-08-06,Peru,Panama,3,0,Friendly,Lima,Peru,False
+2014-08-20,Panama,Cuba,4,0,Friendly,Panama City,Panama,False
+2014-09-07,Costa Rica,Panama,2,2,UNCAF Cup,Dallas,United States,True
+2014-10-12,Mexico,Panama,1,0,Friendly,Querétaro,Mexico,False
+2014-11-18,Panama,Canada,0,0,Friendly,Panama City,Panama,False
+2015-02-08,United States,Panama,2,0,Friendly,Carson,United States,False
+2015-03-27,Trinidad and Tobago,Panama,0,1,Friendly,Couva,Trinidad and Tobago,False
+2015-03-31,Panama,Costa Rica,2,1,Friendly,Panama City,Panama,False
+2015-06-03,Panama,Ecuador,1,1,Friendly,Panama City,Panama,False
+2015-06-06,Ecuador,Panama,4,0,Friendly,Portoviejo,Ecuador,False
+2015-07-07,Panama,Haiti,1,1,Gold Cup,Frisco,United States,True
+2015-07-10,Honduras,Panama,1,1,Gold Cup,Foxborough,United States,True
+2015-07-13,United States,Panama,1,1,Gold Cup,Kansas City,United States,False
+2015-07-19,Trinidad and Tobago,Panama,1,1,Gold Cup,East Rutherford,United States,True
+2015-07-22,Panama,Mexico,1,2,Gold Cup,Atlanta,United States,True
+2015-07-25,United States,Panama,1,1,Gold Cup,Chester,United States,False
+2015-09-08,Venezuela,Panama,1,1,Friendly,Puerto Ordaz,Venezuela,False
+2015-11-13,Jamaica,Panama,0,2,FIFA World Cup qualification,Kingston,Jamaica,False
+2015-11-17,Panama,Costa Rica,1,2,FIFA World Cup qualification,Panama City,Panama,False
+2016-01-08,Panama,Cuba,4,0,Copa América qualification,Panama City,Panama,False
+2016-03-25,Haiti,Panama,0,0,FIFA World Cup qualification,Port-au-Prince,Haiti,False
+2016-03-29,Panama,Haiti,1,0,FIFA World Cup qualification,Panama City,Panama,False
+2016-04-27,Martinique,Panama,0,2,Friendly,Fort-de-France,Martinique,False
+2016-06-06,Panama,Bolivia,2,1,Copa América,Orlando,United States,True
+2016-06-10,Argentina,Panama,5,0,Copa América,Chicago,United States,True
+2016-06-14,Chile,Panama,4,2,Copa América,Philadelphia,United States,True
+2016-09-02,Panama,Jamaica,2,0,FIFA World Cup qualification,Panama City,Panama,False
+2016-09-06,Costa Rica,Panama,3,1,FIFA World Cup qualification,San José,Costa Rica,False
+2016-10-11,Mexico,Panama,1,0,Friendly,Bridgeview,United States,True
+2016-11-11,Honduras,Panama,0,1,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2016-11-15,Panama,Mexico,0,0,FIFA World Cup qualification,Panama City,Panama,False
+2017-01-22,Panama,Costa Rica,1,0,UNCAF Cup,Panama City,Panama,False
+2017-03-24,Trinidad and Tobago,Panama,1,0,FIFA World Cup qualification,Port of Spain,Trinidad and Tobago,False
+2017-03-28,Panama,United States,1,1,FIFA World Cup qualification,Panama City,Panama,False
+2017-06-08,Costa Rica,Panama,0,0,FIFA World Cup qualification,San José,Costa Rica,False
+2017-06-13,Panama,Honduras,2,2,FIFA World Cup qualification,Panama City,Panama,False
+2017-07-08,United States,Panama,1,1,Gold Cup,Nashville,United States,False
+2017-07-12,Panama,Nicaragua,2,1,Gold Cup,Tampa,United States,True
+2017-07-15,Panama,Martinique,3,0,Gold Cup,Cleveland,United States,True
+2017-07-19,Costa Rica,Panama,1,0,Gold Cup,Philadelphia,United States,True
+2017-09-01,Mexico,Panama,1,0,FIFA World Cup qualification,Mexico City,Mexico,False
+2017-09-05,Panama,Trinidad and Tobago,3,0,FIFA World Cup qualification,Panama City,Panama,False
+2017-10-06,United States,Panama,4,0,FIFA World Cup qualification,Orlando,United States,False
+2017-10-10,Panama,Costa Rica,2,1,FIFA World Cup qualification,Panama City,Panama,False
+2017-10-24,Grenada,Panama,0,5,Friendly,St. George's,Grenada,False
+2017-11-09,Iran,Panama,2,1,Friendly,Graz,Austria,True
+2017-11-14,Wales,Panama,1,1,Friendly,Cardiff,Wales,False
+2018-03-22,Denmark,Panama,1,0,Friendly,Brøndby,Denmark,False
+2018-03-27,Switzerland,Panama,6,0,Friendly,Lucerne,Switzerland,False
+2018-04-18,Trinidad and Tobago,Panama,0,1,Friendly,Couva,Trinidad and Tobago,False
+2018-05-29,Panama,Northern Ireland,0,0,Friendly,Panama City,Panama,False
+2018-06-06,Norway,Panama,1,0,Friendly,Oslo,Norway,False
+2018-06-18,Belgium,Panama,3,0,FIFA World Cup,Sochi,Russia,True
+2018-06-24,England,Panama,6,1,FIFA World Cup,Nizhny Novgorod,Russia,True
+2018-06-28,Panama,Tunisia,1,2,FIFA World Cup,Saransk,Russia,True
+2018-09-11,Panama,Venezuela,0,2,Friendly,Panama City,Panama,False
+2018-10-12,Japan,Panama,3,0,Kirin Challenge Cup,Niigata,Japan,False
+2018-10-16,South Korea,Panama,2,2,Friendly,Cheonan,South Korea,False
+2018-11-16,Honduras,Panama,1,0,Friendly,Tegucigalpa,Honduras,False
+2018-11-20,Panama,Ecuador,1,2,Friendly,Panama City,Panama,False
+2019-01-27,United States,Panama,3,0,Friendly,Glendale,United States,False
+2019-03-23,Brazil,Panama,1,1,Friendly,Porto,Portugal,True
+2019-05-29,Panama,Basque Country,0,0,Friendly,Panama City,Panama,False
+2019-06-03,Colombia,Panama,3,0,Friendly,Bogotá,Colombia,False
+2019-06-07,Uruguay,Panama,3,0,Friendly,Montevideo,Uruguay,False
+2019-06-18,Panama,Trinidad and Tobago,2,0,Gold Cup,Saint Paul,United States,True
+2019-06-22,Guyana,Panama,2,4,Gold Cup,Cleveland,United States,True
+2019-06-26,United States,Panama,1,0,Gold Cup,Kansas City,United States,False
+2019-06-30,Jamaica,Panama,1,0,Gold Cup,Philadelphia,United States,True
+2019-09-05,Bermuda,Panama,1,4,CONCACAF Nations League,Hamilton,Bermuda,False
+2019-09-08,Panama,Bermuda,0,2,CONCACAF Nations League,Panama City,Panama,False
+2019-10-15,Mexico,Panama,3,1,CONCACAF Nations League,Mexico City,Mexico,False
+2019-11-15,Panama,Mexico,0,3,CONCACAF Nations League,Panama City,Panama,False
+2020-10-10,Costa Rica,Panama,0,1,Friendly,San José,Costa Rica,False
+2020-10-13,Costa Rica,Panama,0,1,Friendly,San José,Costa Rica,False
+2020-11-13,Japan,Panama,1,0,Friendly,Graz,Austria,True
+2020-11-16,United States,Panama,6,2,Friendly,Wiener Neustadt,Austria,True
+2021-01-28,Panama,Serbia,0,0,Friendly,Panama City,Panama,False
+2021-03-25,Panama,Barbados,1,0,FIFA World Cup qualification,Santo Domingo,Dominican Republic,True
+2021-03-28,Dominica,Panama,1,2,FIFA World Cup qualification,Santo Domingo,Dominican Republic,True
+2021-06-05,Panama,Anguilla,13,0,FIFA World Cup qualification,Panama City,Panama,False
+2021-06-08,Panama,Dominican Republic,3,0,FIFA World Cup qualification,Panama City,Panama,False
+2021-06-12,Panama,Curaçao,2,1,FIFA World Cup qualification,Panama City,Panama,False
+2021-06-15,Curaçao,Panama,0,0,FIFA World Cup qualification,Willemstad,Curaçao,False
+2021-06-30,Mexico,Panama,3,0,Friendly,Nashville,United States,True
+2021-07-13,Qatar,Panama,3,3,Gold Cup,Houston,United States,True
+2021-07-17,Panama,Honduras,2,3,Gold Cup,Houston,United States,True
+2021-07-20,Panama,Grenada,3,1,Gold Cup,Orlando,United States,True
+2021-09-02,Panama,Costa Rica,0,0,FIFA World Cup qualification,Panama City,Panama,False
+2021-09-05,Jamaica,Panama,0,3,FIFA World Cup qualification,Kingston,Jamaica,False
+2021-09-08,Panama,Mexico,1,1,FIFA World Cup qualification,Panama City,Panama,False
+2021-10-07,El Salvador,Panama,1,0,FIFA World Cup qualification,San Salvador,El Salvador,False
+2021-10-10,Panama,United States,1,0,FIFA World Cup qualification,Panama City,Panama,False
+2021-10-13,Canada,Panama,4,1,FIFA World Cup qualification,Toronto,Canada,False
+2021-11-12,Honduras,Panama,2,3,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2021-11-16,Panama,El Salvador,2,1,FIFA World Cup qualification,Panama City,Panama,False
+2022-01-16,Peru,Panama,1,1,Friendly,Lima,Peru,False
+2022-01-27,Costa Rica,Panama,1,0,FIFA World Cup qualification,San José,Costa Rica,False
+2022-01-30,Panama,Jamaica,3,2,FIFA World Cup qualification,Panama City,Panama,False
+2022-02-02,Mexico,Panama,1,0,FIFA World Cup qualification,Mexico City,Mexico,False
+2022-03-24,Panama,Honduras,1,1,FIFA World Cup qualification,Panama City,Panama,False
+2022-03-27,United States,Panama,5,1,FIFA World Cup qualification,Orlando,United States,False
+2022-03-30,Panama,Canada,1,0,FIFA World Cup qualification,Panama City,Panama,False
+2022-06-02,Panama,Costa Rica,2,0,CONCACAF Nations League,Panama City,Panama,False
+2022-06-09,Panama,Martinique,5,0,CONCACAF Nations League,Panama City,Panama,False
+2022-06-11,Uruguay,Panama,5,0,Friendly,Montevideo,Uruguay,False
+2022-06-12,Martinique,Panama,0,0,CONCACAF Nations League,Fort-de-France,Martinique,False
+2022-09-27,Bahrain,Panama,0,2,Friendly,Riffa,Bahrain,False
+2022-11-07,Qatar,Panama,2,1,Friendly,Marbella,Spain,True
+2022-11-10,Saudi Arabia,Panama,1,1,Friendly,Abu Dhabi,United Arab Emirates,True
+2022-11-15,Venezuela,Panama,2,2,Friendly,Al Hamriyah,United Arab Emirates,True
+2022-11-18,Cameroon,Panama,1,1,Friendly,Abu Dhabi,United Arab Emirates,True
+2023-03-12,Guatemala,Panama,1,1,Friendly,San Jose,United States,True
+2023-03-23,Argentina,Panama,2,0,Friendly,Buenos Aires,Argentina,False
+2023-03-28,Costa Rica,Panama,0,1,CONCACAF Nations League,San José,Costa Rica,False
+2023-06-10,Panama,Nicaragua,3,2,Friendly,Penonomé,Panama,False
+2023-06-15,Panama,Canada,0,2,CONCACAF Nations League,Las Vegas,United States,True
+2023-06-18,Panama,Mexico,0,1,CONCACAF Nations League,Las Vegas,United States,True
+2023-06-26,Costa Rica,Panama,1,2,Gold Cup,Fort Lauderdale,United States,True
+2023-06-30,Martinique,Panama,1,2,Gold Cup,Harrison,United States,True
+2023-07-04,Panama,El Salvador,2,2,Gold Cup,Houston,United States,True
+2023-07-08,Panama,Qatar,4,0,Gold Cup,Arlington,United States,True
+2023-07-12,United States,Panama,1,1,Gold Cup,San Diego,United States,False
+2023-07-16,Mexico,Panama,1,0,Gold Cup,Inglewood,United States,True
+2023-08-27,Bolivia,Panama,1,2,Friendly,Cochabamba,Bolivia,False
+2023-09-07,Panama,Martinique,3,0,CONCACAF Nations League,Panama City,Panama,False
+2023-09-10,Guatemala,Panama,1,1,CONCACAF Nations League,Guatemala City,Guatemala,False
+2023-10-13,Curaçao,Panama,1,2,CONCACAF Nations League,Willemstad,Curaçao,False
+2023-10-17,Panama,Guatemala,3,0,CONCACAF Nations League,Panama City,Panama,False
+2023-11-16,Costa Rica,Panama,0,3,CONCACAF Nations League,San José,Costa Rica,False
+2023-11-20,Panama,Costa Rica,3,1,CONCACAF Nations League,Panama City,Panama,False
+2024-03-21,Panama,Mexico,0,3,CONCACAF Nations League,Arlington,United States,True
+2024-03-24,Jamaica,Panama,1,0,CONCACAF Nations League,Arlington,United States,True
+2024-06-06,Panama,Guyana,2,0,FIFA World Cup qualification,Panama City,Panama,False
+2024-06-09,Montserrat,Panama,1,3,FIFA World Cup qualification,Managua,Nicaragua,True
+2024-06-16,Panama,Paraguay,0,1,Friendly,Panama City,Panama,False
+2024-06-23,Uruguay,Panama,3,1,Copa América,Miami Gardens,United States,True
+2024-06-27,United States,Panama,1,2,Copa América,Atlanta,United States,False
+2024-07-01,Bolivia,Panama,1,3,Copa América,Orlando,United States,True
+2024-07-06,Colombia,Panama,5,0,Copa América,Glendale,United States,True
+2024-10-12,United States,Panama,2,0,Friendly,Austin,United States,False
+2024-10-15,Canada,Panama,2,1,Friendly,Toronto,Canada,False
+2024-11-14,Costa Rica,Panama,0,1,CONCACAF Nations League,San José,Costa Rica,False
+2024-11-18,Panama,Costa Rica,2,2,CONCACAF Nations League,Panama City,Panama,False
+2025-02-08,Chile,Panama,6,1,Friendly,Santiago,Chile,False
+2025-03-20,United States,Panama,0,1,CONCACAF Nations League,Inglewood,United States,False
+2025-03-23,Panama,Mexico,1,2,CONCACAF Nations League,Inglewood,United States,True

@@ -1,0 +1,618 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1961-12-05,Senegal,Gambia,2,3,Friendly,Dakar,Senegal,False
+1961-12-25,Senegal,Gabon,3,2,African Friendship Games,Abidjan,Ivory Coast,True
+1961-12-27,Senegal,Cameroon,4,0,African Friendship Games,Abidjan,Ivory Coast,True
+1961-12-29,Ivory Coast,Senegal,1,1,African Friendship Games,Abidjan,Ivory Coast,False
+1961-12-31,Benin,Senegal,4,3,African Friendship Games,Abidjan,Ivory Coast,True
+1962-11-30,Senegal,Ivory Coast,1,1,Friendly,Dakar,Senegal,False
+1963-02-24,Mali,Senegal,3,1,Friendly,Kumasi,Ghana,True
+1963-02-27,Nigeria,Senegal,4,0,Friendly,Kumasi,Ghana,True
+1963-04-12,Senegal,Cameroon,1,0,African Friendship Games,Dakar,Senegal,False
+1963-04-14,Senegal,Nigeria,5,1,African Friendship Games,Dakar,Senegal,False
+1963-04-16,Senegal,Niger,3,1,African Friendship Games,Dakar,Senegal,False
+1963-04-18,Senegal,France,2,0,African Friendship Games,Dakar,Senegal,False
+1963-04-20,Senegal,Tunisia,1,1,African Friendship Games,Dakar,Senegal,False
+1963-11-21,Senegal,Ethiopia,1,2,Friendly,Dakar,Senegal,False
+1963-12-15,Senegal,Guinea,1,1,Friendly,Dakar,Senegal,False
+1965-02-25,Senegal,Guinea,2,0,African Cup of Nations qualification,Dakar,Senegal,False
+1965-03-31,Guinea,Senegal,3,1,African Cup of Nations qualification,Conakry,Guinea,False
+1965-04-18,Mali,Senegal,0,2,African Cup of Nations qualification,Bamako,Mali,False
+1965-05-05,Senegal,Mali,3,1,African Cup of Nations qualification,Dakar,Senegal,False
+1965-11-14,Tunisia,Senegal,0,0,African Cup of Nations,Tunis,Tunisia,False
+1965-11-19,Ethiopia,Senegal,1,5,African Cup of Nations,Tunis,Tunisia,True
+1965-11-21,Ivory Coast,Senegal,1,0,African Cup of Nations,Tunis,Tunisia,True
+1966-03-06,Guinea,Senegal,5,0,Friendly,Conakry,Guinea,False
+1967-02-25,Guinea,Senegal,3,0,African Cup of Nations qualification,Conakry,Guinea,False
+1967-03-19,Senegal,Guinea,4,1,African Cup of Nations qualification,Dakar,Senegal,False
+1967-04-09,Liberia,Senegal,1,1,African Cup of Nations qualification,Monrovia,Liberia,False
+1967-07-02,Senegal,Liberia,4,1,African Cup of Nations qualification,Dakar,Senegal,False
+1967-11-22,Senegal,Guinea,2,1,African Cup of Nations qualification,Dakar,Senegal,False
+1968-01-12,Ghana,Senegal,2,2,African Cup of Nations,Asmara,Ethiopia,True
+1968-01-14,Congo,Senegal,1,2,African Cup of Nations,Asmara,Ethiopia,True
+1968-01-16,DR Congo,Senegal,2,1,African Cup of Nations,Asmara,Ethiopia,True
+1968-11-03,Morocco,Senegal,1,0,FIFA World Cup qualification,Casablanca,Morocco,False
+1968-12-01,Ghana,Senegal,2,0,Friendly,Accra,Ghana,False
+1969-01-05,Senegal,Morocco,2,1,FIFA World Cup qualification,Dakar,Senegal,False
+1969-01-22,Congo,Senegal,1,0,Friendly,Brazzaville,Congo,False
+1969-01-24,Senegal,Cameroon,3,2,Friendly,Dakar,Senegal,False
+1969-01-26,DR Congo,Senegal,4,0,Friendly,Kinshasa,Congo-Kinshasa,False
+1969-02-13,Morocco,Senegal,2,0,FIFA World Cup qualification,Las Palmas,Spain,True
+1969-10-12,Guinea,Senegal,4,3,African Cup of Nations qualification,Conakry,Guinea,False
+1969-10-26,Senegal,Guinea,1,1,African Cup of Nations qualification,Dakar,Senegal,False
+1970-05-14,Guinea,Senegal,3,1,Friendly,Conakry,Guinea,False
+1970-05-17,Guinea,Senegal,4,0,Friendly,Conakry,Guinea,False
+1970-10-11,Sierra Leone,Senegal,1,0,Friendly,Freetown,Sierra Leone,False
+1970-10-18,Ivory Coast,Senegal,0,1,Friendly,Abidjan,Ivory Coast,False
+1970-10-25,Togo,Senegal,3,0,Friendly,Lomé,Togo,False
+1970-11-15,Guinea,Senegal,1,0,Friendly,Conakry,Guinea,False
+1970-12-19,Senegal,Malawi,4,1,Friendly,Dakar,Senegal,False
+1971-03-04,Cameroon,Senegal,1,1,Friendly,Yaoundé,Cameroon,False
+1971-03-07,Cameroon,Senegal,1,2,Friendly,Yaoundé,Cameroon,False
+1971-03-10,Senegal,Cameroon,3,0,Friendly,Dakar,Senegal,False
+1971-07-25,Senegal,Sierra Leone,2,1,Friendly,Dakar,Senegal,False
+1971-08-18,Guinea,Senegal,1,0,African Cup of Nations qualification,Conakry,Guinea,False
+1971-09-01,Senegal,Guinea,0,0,African Cup of Nations qualification,Dakar,Senegal,False
+1971-12-19,Senegal,Mali,4,1,Friendly,Dakar,Senegal,False
+1972-01-09,Senegal,Congo,0,2,Friendly,Dakar,Senegal,False
+1972-02-17,Senegal,Morocco,1,3,Friendly,Dakar,Senegal,False
+1972-11-19,Morocco,Senegal,0,0,FIFA World Cup qualification,Rabat,Morocco,False
+1972-11-29,Senegal,China PR,0,0,Friendly,Dakar,Senegal,False
+1972-12-03,Senegal,Morocco,1,2,FIFA World Cup qualification,Dakar,Senegal,False
+1973-01-01,Gambia,Senegal,2,1,Friendly,Banjul,Gambia,False
+1973-02-17,Morocco,Senegal,3,1,Friendly,Casablanca,Morocco,False
+1973-04-08,Ghana,Senegal,3,2,African Cup of Nations qualification,Accra,Ghana,False
+1973-04-21,Senegal,Ghana,1,0,African Cup of Nations qualification,Dakar,Senegal,False
+1974-08-11,China PR,Senegal,5,2,Friendly,Beijing,China PR,False
+1975-02-02,Senegal,Nigeria,0,1,Friendly,Dakar,Senegal,False
+1975-02-16,Mali,Senegal,2,1,Friendly,Bamako,Mali,False
+1975-02-22,Nigeria,Senegal,1,1,Friendly,Lagos,Nigeria,False
+1975-03-22,Morocco,Senegal,4,0,African Cup of Nations qualification,Fez,Morocco,False
+1975-03-22,Senegal,Morocco,2,1,African Cup of Nations qualification,Kaolack,Senegal,False
+1975-04-26,Senegal,Ivory Coast,1,0,Friendly,Dakar,Senegal,False
+1975-04-27,Senegal,Nigeria,1,0,Friendly,Dakar,Senegal,False
+1976-01-15,Mauritania,Senegal,1,4,Friendly,Banjul,Gambia,True
+1976-01-16,Guinea,Senegal,2,2,Friendly,Banjul,Gambia,True
+1976-03-21,Ivory Coast,Senegal,4,1,Friendly,Abidjan,Ivory Coast,False
+1976-10-17,Togo,Senegal,1,0,FIFA World Cup qualification,Lomé,Togo,False
+1976-10-31,Senegal,Togo,1,1,FIFA World Cup qualification,Dakar,Senegal,False
+1977-02-02,Senegal,Denmark,2,3,Friendly,Kaolack,Senegal,False
+1977-03-05,Senegal,Guinea,1,0,Friendly,Dakar,Senegal,False
+1977-03-13,Senegal,Togo,2,1,African Cup of Nations qualification,Dakar,Senegal,False
+1977-03-26,Togo,Senegal,0,1,African Cup of Nations qualification,Lomé,Togo,False
+1977-05-01,Algeria,Senegal,2,0,Friendly,Algiers,Algeria,False
+1977-05-28,Senegal,Morocco,3,2,Friendly,Dakar,Senegal,False
+1977-06-05,Mauritania,Senegal,1,2,Friendly,Nouakchott,Mauritania,False
+1977-06-12,Senegal,Nigeria,3,1,African Cup of Nations qualification,Dakar,Senegal,False
+1977-06-26,Nigeria,Senegal,3,0,African Cup of Nations qualification,Lagos,Nigeria,False
+1979-01-09,Cape Verde,Senegal,0,1,Amílcar Cabral Cup,Bissau,Guinea-Bissau,True
+1979-01-11,Guinea-Bissau,Senegal,0,2,Amílcar Cabral Cup,Bissau,Guinea-Bissau,False
+1979-01-13,Guinea,Senegal,1,3,Amílcar Cabral Cup,Bissau,Guinea-Bissau,True
+1979-01-14,Mali,Senegal,0,1,Amílcar Cabral Cup,Bissau,Guinea-Bissau,True
+1979-01-30,Guinea,Senegal,1,1,Friendly,Monrovia,Liberia,True
+1979-02-01,Liberia,Senegal,1,1,Friendly,Monrovia,Liberia,False
+1979-02-03,Senegal,Togo,0,1,Friendly,Monrovia,Liberia,True
+1979-03-10,Senegal,Mali,2,1,Friendly,Dakar,Senegal,False
+1979-03-25,Mali,Senegal,2,1,Friendly,Bamako,Mali,False
+1979-09-29,Senegal,Nigeria,0,2,Friendly,Dakar,Senegal,False
+1979-11-03,Sierra Leone,Senegal,1,0,Friendly,Freetown,Sierra Leone,False
+1979-12-26,Tunisia,Senegal,3,1,Friendly,Tunis,Tunisia,False
+1980-02-10,Mali,Senegal,1,0,Amílcar Cabral Cup,Banjul,Gambia,True
+1980-02-14,Mauritania,Senegal,1,2,Amílcar Cabral Cup,Banjul,Gambia,True
+1980-02-16,Guinea,Senegal,1,2,Amílcar Cabral Cup,Banjul,Gambia,True
+1980-02-18,Gambia,Senegal,0,1,Amílcar Cabral Cup,Banjul,Gambia,False
+1980-02-25,Morocco,Senegal,3,2,Friendly,Casablanca,Morocco,False
+1980-04-05,Senegal,Tunisia,0,2,Friendly,Dakar,Senegal,False
+1980-05-01,Senegal,Guinea,1,0,Friendly,Dakar,Senegal,False
+1980-06-22,Senegal,Morocco,0,1,FIFA World Cup qualification,Dakar,Senegal,False
+1980-07-02,Mauritania,Senegal,1,3,Friendly,Nouakchott,Mauritania,False
+1980-07-06,Morocco,Senegal,0,0,FIFA World Cup qualification,Casablanca,Morocco,False
+1980-11-09,Senegal,Mauritania,3,0,Friendly,Dakar,Senegal,False
+1980-11-17,Senegal,Sierra Leone,2,0,African Cup of Nations qualification,Dakar,Senegal,False
+1980-11-30,Sierra Leone,Senegal,1,2,African Cup of Nations qualification,Freetown,Sierra Leone,False
+1981-02-03,Cape Verde,Senegal,0,1,Amílcar Cabral Cup,Bamako,Mali,True
+1981-02-05,Guinea-Bissau,Senegal,0,1,Amílcar Cabral Cup,Bamako,Mali,True
+1981-02-10,Guinea,Senegal,1,0,Amílcar Cabral Cup,Bamako,Mali,True
+1981-02-12,Cape Verde,Senegal,1,5,Amílcar Cabral Cup,Bamako,Mali,True
+1981-03-25,Senegal,Guinea,0,1,Friendly,Dakar,Senegal,False
+1981-04-03,Algeria,Senegal,2,0,Friendly,Oran,Algeria,False
+1981-04-12,Tunisia,Senegal,1,0,African Cup of Nations qualification,Tunis,Tunisia,False
+1981-04-26,Senegal,Tunisia,0,0,African Cup of Nations qualification,Dakar,Senegal,False
+1981-11-01,Senegal,Morocco,2,0,Friendly,Dakar,Senegal,False
+1982-01-24,Burkina Faso,Senegal,0,0,Friendly,Bobo Dioulasso,Upper Volta,False
+1982-01-31,Senegal,Benin,1,0,Friendly,Dakar,Senegal,False
+1982-02-11,Guinea,Senegal,1,1,Amílcar Cabral Cup,Praia,Cape Verde,True
+1982-02-13,Guinea-Bissau,Senegal,0,1,Amílcar Cabral Cup,Praia,Cape Verde,True
+1982-02-15,Senegal,Sierra Leone,2,0,Amílcar Cabral Cup,Praia,Cape Verde,True
+1982-02-17,Mali,Senegal,0,1,Amílcar Cabral Cup,Praia,Cape Verde,True
+1982-02-19,Guinea,Senegal,3,0,Amílcar Cabral Cup,Praia,Cape Verde,True
+1982-05-01,Cameroon,Senegal,2,1,Friendly,Douala,Cameroon,False
+1982-05-04,Ghana,Senegal,0,0,Friendly,Yaoundé,Cameroon,True
+1982-05-05,Guinea,Senegal,1,1,Friendly,Yaoundé,Cameroon,True
+1982-05-12,Morocco,Senegal,2,1,Friendly,Casablanca,Morocco,False
+1982-08-06,South Korea,Senegal,0,2,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1982-08-09,Senegal,United Arab Emirates,3,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1982-08-11,Indonesia,Senegal,2,2,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1982-08-13,Malaysia,Senegal,1,0,Merdeka Tournament,Kuantan,Malaysia,False
+1982-08-20,Ghana,Senegal,2,2,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1982-10-27,Senegal,Togo,1,2,Friendly,Dakar,Senegal,False
+1982-11-14,Niger,Senegal,0,0,African Cup of Nations qualification,Niamey,Niger,False
+1982-11-28,Senegal,Niger,1,0,African Cup of Nations qualification,Dakar,Senegal,False
+1983-01-23,Niger,Senegal,2,0,Friendly,Niamey,Niger,False
+1983-02-01,Senegal,Guinea,1,0,Friendly,Dakar,Senegal,False
+1983-02-06,Senegal,Niger,2,0,Friendly,Dakar,Senegal,False
+1983-03-09,Senegal,Morocco,1,0,Friendly,Dakar,Senegal,False
+1983-03-10,Senegal,Morocco,0,0,Friendly,Dakar,Senegal,False
+1983-04-08,Libya,Senegal,2,1,African Cup of Nations qualification,Tripoli,Libya,False
+1983-04-24,Senegal,Libya,1,0,African Cup of Nations qualification,Dakar,Senegal,False
+1983-07-20,Guinea-Bissau,Senegal,1,1,Amílcar Cabral Cup,Nouakchott,Mauritania,True
+1983-07-23,Gambia,Senegal,1,2,Amílcar Cabral Cup,Nouakchott,Mauritania,True
+1983-07-24,Guinea,Senegal,1,1,Amílcar Cabral Cup,Nouakchott,Mauritania,True
+1983-07-27,Mali,Senegal,1,2,Amílcar Cabral Cup,Nouakchott,Mauritania,True
+1983-07-29,Guinea-Bissau,Senegal,0,3,Amílcar Cabral Cup,Nouakchott,Mauritania,True
+1983-08-13,Senegal,Algeria,1,1,African Cup of Nations qualification,Dakar,Senegal,False
+1983-08-28,Algeria,Senegal,2,0,African Cup of Nations qualification,Algiers,Algeria,False
+1983-11-15,Nigeria,Senegal,1,0,Friendly,Lagos,Nigeria,False
+1983-11-19,Senegal,Nigeria,0,1,Friendly,Dakar,Senegal,False
+1984-01-02,Gambia,Senegal,2,2,Friendly,Banjul,Gambia,False
+1984-01-04,Mauritania,Senegal,0,2,Friendly,Banjul,Gambia,True
+1984-01-18,Senegal,Guinea,1,0,Friendly,Dakar,Senegal,False
+1984-01-29,Liberia,Senegal,0,0,Friendly,Abidjan,Ivory Coast,True
+1984-01-31,Ivory Coast,Senegal,1,0,Friendly,Abidjan,Ivory Coast,False
+1984-02-02,Mali,Senegal,1,1,Friendly,Abidjan,Ivory Coast,True
+1984-02-05,Ivory Coast,Senegal,4,3,Friendly,Abidjan,Ivory Coast,False
+1984-02-09,Guinea-Bissau,Senegal,2,3,Amílcar Cabral Cup,Freetown,Sierra Leone,True
+1984-02-11,Mali,Senegal,1,0,Amílcar Cabral Cup,Freetown,Sierra Leone,True
+1984-02-13,Mauritania,Senegal,0,6,Amílcar Cabral Cup,Freetown,Sierra Leone,True
+1984-02-15,Gambia,Senegal,0,1,Amílcar Cabral Cup,Freetown,Sierra Leone,True
+1984-02-19,Sierra Leone,Senegal,0,0,Amílcar Cabral Cup,Freetown,Sierra Leone,False
+1984-06-23,Morocco,Senegal,2,1,Friendly,Casablanca,Morocco,False
+1984-07-01,Angola,Senegal,1,0,FIFA World Cup qualification,Luanda,Angola,False
+1984-07-15,Senegal,Angola,1,0,FIFA World Cup qualification,Dakar,Senegal,False
+1985-02-12,Guinea,Senegal,0,2,Amílcar Cabral Cup,Bakau,Gambia,True
+1985-02-14,Mauritania,Senegal,0,2,Amílcar Cabral Cup,Bakau,Gambia,True
+1985-02-16,Mali,Senegal,2,2,Amílcar Cabral Cup,Bakau,Gambia,True
+1985-02-19,Cape Verde,Senegal,0,1,Amílcar Cabral Cup,Bakau,Gambia,True
+1985-02-22,Gambia,Senegal,0,1,Amílcar Cabral Cup,Bakau,Gambia,False
+1985-03-31,Togo,Senegal,0,1,African Cup of Nations qualification,Tsévié,Togo,False
+1985-04-14,Senegal,Togo,1,1,African Cup of Nations qualification,Dakar,Senegal,False
+1985-05-10,Mauritania,Senegal,0,0,Friendly,Nouakchott,Mauritania,False
+1985-08-18,Zimbabwe,Senegal,1,0,African Cup of Nations qualification,Harare,Zimbabwe,False
+1985-09-01,Senegal,Zimbabwe,3,0,African Cup of Nations qualification,Dakar,Senegal,False
+1985-12-25,Senegal,Guinea,3,1,Friendly,Dakar,Senegal,False
+1985-12-29,Senegal,Ivory Coast,2,0,Friendly,Dakar,Senegal,False
+1986-01-22,Gabon,Senegal,0,1,Friendly,Libreville,Gabon,False
+1986-02-01,Senegal,Guinea,2,1,Amílcar Cabral Cup,Dakar,Senegal,False
+1986-02-05,Senegal,Mali,1,0,Amílcar Cabral Cup,Dakar,Senegal,False
+1986-02-08,Senegal,Gambia,1,0,Amílcar Cabral Cup,Dakar,Senegal,False
+1986-02-10,Senegal,Sierra Leone,3,1,Amílcar Cabral Cup,Dakar,Senegal,False
+1986-03-07,Egypt,Senegal,0,1,African Cup of Nations,Cairo,Egypt,False
+1986-03-10,Mozambique,Senegal,0,2,African Cup of Nations,Cairo,Egypt,True
+1986-03-13,Ivory Coast,Senegal,1,0,African Cup of Nations,Cairo,Egypt,True
+1986-08-13,Senegal,Gabon,1,0,Friendly,Dakar,Senegal,False
+1987-02-23,Senegal,Sierra Leone,0,1,Amílcar Cabral Cup,Conakry,Guinea,True
+1987-02-25,Cape Verde,Senegal,0,2,Amílcar Cabral Cup,Conakry,Guinea,True
+1987-03-01,Guinea,Senegal,1,0,Amílcar Cabral Cup,Conakry,Guinea,False
+1987-03-02,Senegal,Sierra Leone,0,0,Amílcar Cabral Cup,Conakry,Guinea,True
+1987-03-29,Senegal,Guinea,4,0,African Cup of Nations qualification,Dakar,Senegal,False
+1987-04-12,Guinea,Senegal,0,0,African Cup of Nations qualification,Conakry,Guinea,False
+1987-05-27,Japan,Senegal,2,2,Kirin Cup,Hiroshima,Japan,False
+1987-07-05,Senegal,DR Congo,0,0,African Cup of Nations qualification,Dakar,Senegal,False
+1987-07-19,DR Congo,Senegal,0,0,African Cup of Nations qualification,Kinshasa,Zaïre,False
+1987-08-02,Egypt,Senegal,1,0,All-African Games,Nairobi,Kenya,True
+1987-08-04,Malawi,Senegal,2,0,All-African Games,Nairobi,Kenya,True
+1987-08-06,Ivory Coast,Senegal,1,0,All-African Games,Nairobi,Kenya,True
+1987-08-08,Senegal,Tunisia,1,0,All-African Games,Nairobi,Kenya,True
+1987-12-19,Ivory Coast,Senegal,1,0,Friendly,Monrovia,Liberia,True
+1987-12-22,Burkina Faso,Senegal,0,1,Friendly,Monrovia,Liberia,True
+1988-04-28,Gambia,Senegal,0,4,Amílcar Cabral Cup,Bissau,Guinea-Bissau,True
+1988-04-30,Guinea-Bissau,Senegal,1,1,Amílcar Cabral Cup,Bissau,Guinea-Bissau,False
+1988-05-02,Senegal,Sierra Leone,2,2,Amílcar Cabral Cup,Bissau,Guinea-Bissau,True
+1988-05-05,Mali,Senegal,1,1,Amílcar Cabral Cup,Bissau,Guinea-Bissau,True
+1988-05-07,Senegal,Sierra Leone,2,1,Amílcar Cabral Cup,Bissau,Guinea-Bissau,True
+1988-11-17,Cape Verde,Senegal,0,1,Friendly,Praia,Cape Verde,False
+1988-11-18,Angola,Senegal,1,2,Friendly,Praia,Cape Verde,True
+1989-01-29,Senegal,DR Congo,1,1,Friendly,Dakar,Senegal,False
+1989-01-31,Senegal,DR Congo,2,1,Friendly,Dakar,Senegal,False
+1989-05-24,Guinea-Bissau,Senegal,0,0,Amílcar Cabral Cup,Bamako,Mali,True
+1989-05-27,Mali,Senegal,2,2,Amílcar Cabral Cup,Bamako,Mali,False
+1989-05-30,Cape Verde,Senegal,2,1,Amílcar Cabral Cup,Bamako,Mali,True
+1989-07-16,Senegal,Tunisia,3,0,African Cup of Nations qualification,Dakar,Senegal,False
+1989-07-30,Tunisia,Senegal,0,1,African Cup of Nations qualification,Tunis,Tunisia,False
+1989-11-21,Senegal,Central African Republic,3,0,Friendly,Dakar,Senegal,False
+1989-12-24,Senegal,Sierra Leone,1,0,Friendly,Dakar,Senegal,False
+1989-12-31,Senegal,Algeria,0,0,Friendly,Dakar,Senegal,False
+1990-01-24,Liberia,Senegal,0,1,Friendly,Bauchi,Nigeria,True
+1990-01-28,Nigeria,Senegal,1,1,Friendly,Bauchi,Nigeria,False
+1990-03-03,Senegal,Kenya,0,0,African Cup of Nations,Annaba,Algeria,True
+1990-03-06,Cameroon,Senegal,0,2,African Cup of Nations,Annaba,Algeria,True
+1990-03-09,Zambia,Senegal,0,0,African Cup of Nations,Annaba,Algeria,True
+1990-03-12,Algeria,Senegal,2,1,African Cup of Nations,Algiers,Algeria,False
+1990-03-15,Senegal,Zambia,0,1,African Cup of Nations,Algiers,Algeria,True
+1990-12-18,Algeria,Senegal,1,0,Friendly,Constantine,Algeria,False
+1991-01-21,Senegal,Ivory Coast,0,0,Dakar Tournament,Dakar,Senegal,False
+1991-01-22,Senegal,Algeria,2,2,Dakar Tournament,Dakar,Senegal,False
+1991-02-15,Senegal,Ivory Coast,0,0,Friendly,Dakar,Senegal,False
+1991-02-17,Senegal,Algeria,1,3,Friendly,Dakar,Senegal,False
+1991-05-05,Senegal,Ivory Coast,0,0,Friendly,Dakar,Senegal,False
+1991-06-09,Ivory Coast,Senegal,2,0,Friendly,Abidjan,Ivory Coast,False
+1991-10-31,Ghana,Senegal,2,3,Friendly,Abidjan,Ivory Coast,True
+1991-11-02,Ivory Coast,Senegal,1,0,Friendly,Abidjan,Ivory Coast,False
+1991-11-24,Senegal,Guinea-Bissau,4,0,Amílcar Cabral Cup,Dakar,Senegal,False
+1991-11-27,Senegal,Cape Verde,0,0,Amílcar Cabral Cup,Dakar,Senegal,False
+1991-11-30,Senegal,Gambia,2,0,Amílcar Cabral Cup,Dakar,Senegal,False
+1991-12-02,Senegal,Cape Verde,1,0,Amílcar Cabral Cup,Dakar,Senegal,False
+1991-12-16,Algeria,Senegal,3,1,Friendly,Algiers,Algeria,False
+1992-01-12,Senegal,Nigeria,1,2,African Cup of Nations,Dakar,Senegal,False
+1992-01-16,Senegal,Kenya,3,0,African Cup of Nations,Dakar,Senegal,False
+1992-01-19,Senegal,Cameroon,0,1,African Cup of Nations,Dakar,Senegal,False
+1992-08-30,Senegal,Guinea-Bissau,3,0,African Cup of Nations qualification,Dakar,Senegal,False
+1992-10-25,Mozambique,Senegal,0,1,FIFA World Cup qualification,Maputo,Mozambique,False
+1992-11-08,Sierra Leone,Senegal,2,0,African Cup of Nations qualification,Freetown,Sierra Leone,False
+1992-11-17,United Arab Emirates,Senegal,1,1,Friendly,Abu Dhabi,United Arab Emirates,False
+1992-11-19,United Arab Emirates,Senegal,2,2,Friendly,Abu Dhabi,United Arab Emirates,False
+1992-12-19,Gabon,Senegal,3,2,FIFA World Cup qualification,Libreville,Gabon,False
+1993-01-10,Senegal,Algeria,1,2,African Cup of Nations qualification,Dakar,Senegal,False
+1993-01-30,Senegal,Mozambique,6,1,FIFA World Cup qualification,Dakar,Senegal,False
+1993-02-27,Senegal,Gabon,1,0,FIFA World Cup qualification,Dakar,Senegal,False
+1993-04-11,Guinea-Bissau,Senegal,0,3,African Cup of Nations qualification,Bissau,Guinea-Bissau,False
+1993-04-18,Morocco,Senegal,1,0,FIFA World Cup qualification,Casablanca,Morocco,False
+1993-06-20,Mali,Senegal,0,2,Friendly,Bamako,Mali,False
+1993-07-11,Senegal,Sierra Leone,1,1,African Cup of Nations qualification,Dakar,Senegal,False
+1993-07-17,Senegal,Morocco,1,3,FIFA World Cup qualification,Dakar,Senegal,False
+1993-07-25,Algeria,Senegal,4,0,African Cup of Nations qualification,Tlemcen,Algeria,False
+1993-08-07,Senegal,Zambia,0,0,FIFA World Cup qualification,Abidjan,Ivory Coast,True
+1993-09-19,Zimbabwe,Senegal,2,0,Friendly,Harare,Zimbabwe,False
+1993-09-26,Zambia,Senegal,4,0,FIFA World Cup qualification,Lusaka,Zambia,False
+1993-11-27,Senegal,Mali,0,1,Amílcar Cabral Cup,Freetown,Sierra Leone,True
+1993-11-29,Senegal,Mauritania,4,0,Amílcar Cabral Cup,Freetown,Sierra Leone,True
+1993-12-01,Senegal,Guinea-Bissau,0,0,Amílcar Cabral Cup,Freetown,Sierra Leone,True
+1993-12-03,Gambia,Senegal,0,2,Amílcar Cabral Cup,Freetown,Sierra Leone,True
+1993-12-05,Sierra Leone,Senegal,2,0,Amílcar Cabral Cup,Freetown,Sierra Leone,False
+1994-01-23,Mali,Senegal,1,0,Friendly,Bamako,Mali,False
+1994-01-30,Senegal,Mali,0,0,Friendly,Dakar,Senegal,False
+1994-02-07,Gambia,Senegal,0,0,Friendly,Banjul,Gambia,False
+1994-02-27,Gabon,Senegal,0,0,Friendly,Moanda,Gabon,False
+1994-03-29,Senegal,Guinea,2,1,African Cup of Nations,Sousse,Tunisia,True
+1994-03-31,Ghana,Senegal,1,0,African Cup of Nations,Sousse,Tunisia,True
+1994-04-03,Zambia,Senegal,1,0,African Cup of Nations,Sousse,Tunisia,True
+1994-09-03,Senegal,Mauritania,0,0,African Cup of Nations qualification,Dakar,Senegal,False
+1994-10-09,Senegal,Niger,3,1,Friendly,Dakar,Senegal,False
+1994-10-16,Togo,Senegal,2,0,African Cup of Nations qualification,Lomé,Togo,False
+1994-10-23,Oman,Senegal,0,1,Friendly,Muscat,Oman,False
+1994-10-25,Oman,Senegal,2,1,Friendly,Muscat,Oman,False
+1994-10-28,United Arab Emirates,Senegal,3,2,Friendly,Abu Dhabi,United Arab Emirates,False
+1995-01-07,Senegal,Tunisia,0,0,African Cup of Nations qualification,Ziguinchor,Senegal,False
+1995-01-22,Liberia,Senegal,1,1,African Cup of Nations qualification,Monrovia,Liberia,False
+1995-03-01,Morocco,Senegal,2,0,Friendly,Casablanca,Morocco,False
+1995-04-07,Mauritania,Senegal,0,1,African Cup of Nations qualification,Nouakchott,Mauritania,False
+1995-04-22,Senegal,Togo,5,1,African Cup of Nations qualification,Dakar,Senegal,False
+1995-07-15,Tunisia,Senegal,4,0,African Cup of Nations qualification,Tunis,Tunisia,False
+1995-07-30,Senegal,Liberia,3,0,African Cup of Nations qualification,Dakar,Senegal,False
+1995-11-18,Guinea-Bissau,Senegal,2,1,Amílcar Cabral Cup,Nouakchott,Mauritania,True
+1995-11-20,Senegal,Guinea,3,0,Amílcar Cabral Cup,Nouakchott,Mauritania,True
+1995-11-22,Senegal,Sierra Leone,1,1,Amílcar Cabral Cup,Nouakchott,Mauritania,True
+1996-04-21,Gambia,Senegal,1,2,Friendly,Banjul,Gambia,False
+1996-05-17,Mauritania,Senegal,0,0,Friendly,Nouakchott,Mauritania,False
+1996-05-26,Tunisia,Senegal,2,0,Friendly,Tunis,Tunisia,False
+1996-06-02,Togo,Senegal,2,1,FIFA World Cup qualification,Lomé,Togo,False
+1996-06-16,Senegal,Togo,1,1,FIFA World Cup qualification,Dakar,Senegal,False
+1996-09-15,Senegal,Mali,1,0,Friendly,Saint-Louis,Senegal,False
+1996-10-06,Ethiopia,Senegal,1,2,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+1997-02-16,Senegal,Mali,1,1,Friendly,Dakar,Senegal,False
+1997-03-29,Sierra Leone,Senegal,2,1,Friendly,Freetown,Sierra Leone,False
+1997-05-08,Ivory Coast,Senegal,4,1,Friendly,Bouaké,Ivory Coast,False
+1997-06-05,Senegal,Algeria,0,0,Friendly,Dakar,Senegal,False
+1997-06-22,Senegal,Ethiopia,3,0,African Cup of Nations qualification,Dakar,Senegal,False
+1997-07-13,Egypt,Senegal,2,0,African Cup of Nations qualification,Cairo,Egypt,False
+1997-07-27,Morocco,Senegal,3,0,African Cup of Nations qualification,Rabat,Morocco,False
+1997-11-19,Senegal,Mali,1,2,Friendly,Dakar,Senegal,False
+1997-11-28,Mauritania,Senegal,1,1,Amílcar Cabral Cup,Banjul,Gambia,True
+1997-11-30,Senegal,Cape Verde,2,0,Amílcar Cabral Cup,Banjul,Gambia,True
+1997-12-02,Gambia,Senegal,0,0,Amílcar Cabral Cup,Banjul,Gambia,False
+1997-12-05,Guinea,Senegal,1,2,Amílcar Cabral Cup,Banjul,Gambia,True
+1997-12-07,Mali,Senegal,1,0,Amílcar Cabral Cup,Banjul,Gambia,True
+1998-07-22,Senegal,Cape Verde,1,0,Friendly,Dakar,Senegal,False
+1998-07-26,Senegal,Mali,3,1,Friendly,Dakar,Senegal,False
+1998-08-31,Burkina Faso,Senegal,1,1,Friendly,Ouagadougou,Burkina Faso,False
+1998-09-02,Morocco,Senegal,2,0,Friendly,Tangier,Morocco,False
+1998-09-17,Saudi Arabia,Senegal,3,2,Friendly,Dammam,Saudi Arabia,False
+1998-12-13,Burundi,Senegal,1,0,African Cup of Nations qualification,Bujumbura,Burundi,False
+1999-01-10,Senegal,Guinea,1,0,Friendly,Dakar,Senegal,False
+1999-01-13,Senegal,Guinea,1,0,Friendly,Dakar,Senegal,False
+1999-01-23,Senegal,Burkina Faso,1,1,African Cup of Nations qualification,Dakar,Senegal,False
+1999-05-16,Libya,Senegal,2,1,Friendly,Tripoli,Libya,False
+1999-06-01,Mali,Senegal,1,1,Friendly,Bamako,Mali,False
+1999-06-06,Burkina Faso,Senegal,2,2,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+1999-06-19,Senegal,Burundi,1,0,African Cup of Nations qualification,Dakar,Senegal,False
+1999-07-18,Senegal,Eritrea,6,2,African Cup of Nations qualification,Dakar,Senegal,False
+1999-08-08,Senegal,Zimbabwe,2,0,African Cup of Nations qualification,Dakar,Senegal,False
+1999-11-20,Senegal,Ivory Coast,3,0,Friendly,Dakar,Senegal,False
+1999-12-12,Senegal,Gambia,3,0,Friendly,Dakar,Senegal,False
+1999-12-21,Morocco,Senegal,0,0,Friendly,Agadir,Morocco,False
+2000-01-13,Senegal,Cameroon,0,0,Friendly,Dakar,Senegal,False
+2000-01-25,Burkina Faso,Senegal,1,3,African Cup of Nations,Kano,Nigeria,True
+2000-01-28,Egypt,Senegal,1,0,African Cup of Nations,Kano,Nigeria,True
+2000-02-01,Zambia,Senegal,2,2,African Cup of Nations,Lagos,Nigeria,True
+2000-02-07,Nigeria,Senegal,2,1,African Cup of Nations,Lagos,Nigeria,False
+2000-04-09,Benin,Senegal,1,1,FIFA World Cup qualification,Cotonou,Benin,False
+2000-04-23,Senegal,Benin,1,0,FIFA World Cup qualification,Dakar,Senegal,False
+2000-05-06,Gambia,Senegal,1,1,Amílcar Cabral Cup,Praia,Cape Verde,True
+2000-05-08,Cape Verde,Senegal,2,2,Amílcar Cabral Cup,Praia,Cape Verde,False
+2000-05-11,Senegal,Mali,2,2,Amílcar Cabral Cup,Praia,Cape Verde,True
+2000-05-14,Cape Verde,Senegal,1,0,Amílcar Cabral Cup,Praia,Cape Verde,False
+2000-06-04,Senegal,Zambia,0,0,Friendly,Dakar,Senegal,False
+2000-06-06,Senegal,Zambia,0,0,Friendly,Dakar,Senegal,False
+2000-06-11,Tunisia,Senegal,4,1,Friendly,Tunis,Tunisia,False
+2000-06-16,Algeria,Senegal,1,1,FIFA World Cup qualification,Annaba,Algeria,False
+2000-07-09,Senegal,Egypt,0,0,FIFA World Cup qualification,Dakar,Senegal,False
+2000-09-24,Senegal,Togo,0,0,African Cup of Nations qualification,Dakar,Senegal,False
+2001-01-13,Uganda,Senegal,1,1,African Cup of Nations qualification,Kampala,Uganda,False
+2001-02-04,Senegal,Mali,1,0,Friendly,Dakar,Senegal,False
+2001-02-24,Morocco,Senegal,0,0,FIFA World Cup qualification,Rabat,Morocco,False
+2001-03-10,Senegal,Namibia,4,0,FIFA World Cup qualification,Dakar,Senegal,False
+2001-03-24,Senegal,Uganda,3,0,African Cup of Nations qualification,Dakar,Senegal,False
+2001-04-21,Senegal,Algeria,3,0,FIFA World Cup qualification,Dakar,Senegal,False
+2001-05-06,Egypt,Senegal,1,0,FIFA World Cup qualification,Cairo,Egypt,False
+2001-06-03,Gambia,Senegal,0,0,Friendly,Banjul,Gambia,False
+2001-06-17,Togo,Senegal,1,0,African Cup of Nations qualification,Lomé,Togo,False
+2001-07-14,Senegal,Morocco,1,0,FIFA World Cup qualification,Dakar,Senegal,False
+2001-07-21,Namibia,Senegal,0,5,FIFA World Cup qualification,Windhoek,Namibia,False
+2001-10-04,Japan,Senegal,0,2,Friendly,Lens,France,True
+2001-11-08,South Korea,Senegal,0,1,Friendly,Jeonju,South Korea,False
+2001-12-26,Senegal,Burkina Faso,2,4,Friendly,Dakar,Senegal,False
+2001-12-30,Senegal,Algeria,1,0,Friendly,Dakar,Senegal,False
+2002-01-20,Egypt,Senegal,0,1,African Cup of Nations,Bamako,Mali,True
+2002-01-26,Senegal,Zambia,1,0,African Cup of Nations,Bamako,Mali,True
+2002-01-31,Senegal,Tunisia,0,0,African Cup of Nations,Kayes,Mali,True
+2002-02-04,Senegal,DR Congo,2,0,African Cup of Nations,Bamako,Mali,True
+2002-02-07,Nigeria,Senegal,1,2,African Cup of Nations,Bamako,Mali,True
+2002-02-10,Senegal,Cameroon,0,0,African Cup of Nations,Bamako,Mali,True
+2002-03-27,Senegal,Bolivia,2,1,Friendly,Dakar,Senegal,False
+2002-05-14,Saudi Arabia,Senegal,3,2,Friendly,Riyadh,Saudi Arabia,False
+2002-05-23,Ecuador,Senegal,0,1,Friendly,Tottori,Japan,True
+2002-05-31,France,Senegal,0,1,FIFA World Cup,Seoul,South Korea,True
+2002-06-06,Denmark,Senegal,1,1,FIFA World Cup,Daegu,South Korea,True
+2002-06-11,Senegal,Uruguay,3,3,FIFA World Cup,Suwon,South Korea,True
+2002-06-16,Sweden,Senegal,1,2,FIFA World Cup,Ōita,Japan,True
+2002-06-22,Senegal,Turkey,0,1,FIFA World Cup,Osaka,Japan,True
+2002-09-08,Lesotho,Senegal,0,1,African Cup of Nations qualification,Maseru,Lesotho,False
+2002-10-12,Senegal,Nigeria,2,2,Friendly,Dakar,Senegal,False
+2002-11-19,South Africa,Senegal,1,1,Friendly,Johannesburg,South Africa,False
+2003-02-12,Morocco,Senegal,1,0,Friendly,Paris,France,True
+2003-03-30,Gambia,Senegal,0,0,African Cup of Nations qualification,Bakau,Gambia,False
+2003-04-30,Tunisia,Senegal,1,0,Friendly,Tunis,Tunisia,False
+2003-05-31,Senegal,Cape Verde,2,1,Friendly,Dakar,Senegal,False
+2003-06-07,Senegal,Gambia,3,1,African Cup of Nations qualification,Dakar,Senegal,False
+2003-06-14,Senegal,Lesotho,3,0,African Cup of Nations qualification,Dakar,Senegal,False
+2003-09-10,Japan,Senegal,0,1,Friendly,Niigata,Japan,False
+2003-10-10,Egypt,Senegal,1,0,Friendly,Cairo,Egypt,False
+2003-11-15,Senegal,Ivory Coast,1,0,Friendly,Dakar,Senegal,False
+2004-01-18,Senegal,South Africa,2,1,Friendly,Dakar,Senegal,False
+2004-01-26,Senegal,Burkina Faso,0,0,African Cup of Nations,Tunis,Tunisia,True
+2004-01-30,Senegal,Kenya,3,0,African Cup of Nations,Bizerte,Tunisia,True
+2004-02-02,Senegal,Mali,1,1,African Cup of Nations,Tunis,Tunisia,True
+2004-02-07,Tunisia,Senegal,1,0,African Cup of Nations,Radès,Tunisia,False
+2004-05-29,Senegal,Guinea,1,1,Friendly,Paris,France,True
+2004-06-05,Senegal,Congo,2,0,FIFA World Cup qualification,Dakar,Senegal,False
+2004-06-13,Cape Verde,Senegal,1,3,Friendly,Praia,Cape Verde,False
+2004-06-20,Togo,Senegal,3,1,FIFA World Cup qualification,Lomé,Togo,False
+2004-07-03,Senegal,Zambia,1,0,FIFA World Cup qualification,Dakar,Senegal,False
+2004-08-18,Senegal,Ivory Coast,1,2,Friendly,Avignon,France,True
+2004-09-05,Mali,Senegal,2,2,FIFA World Cup qualification,Bamako,Mali,False
+2004-10-10,Liberia,Senegal,0,3,FIFA World Cup qualification,Paynesville,Liberia,False
+2004-11-17,Algeria,Senegal,1,2,Friendly,Toulon,France,True
+2005-02-09,Cameroon,Senegal,1,0,Friendly,Créteil,France,True
+2005-03-26,Senegal,Liberia,6,1,FIFA World Cup qualification,Dakar,Senegal,False
+2005-06-05,Congo,Senegal,0,0,FIFA World Cup qualification,Brazzaville,Congo,False
+2005-06-18,Senegal,Togo,2,2,FIFA World Cup qualification,Dakar,Senegal,False
+2005-08-17,Senegal,Ghana,0,0,Friendly,London,England,True
+2005-09-03,Zambia,Senegal,0,1,FIFA World Cup qualification,Chililabombwe,Zambia,False
+2005-10-08,Senegal,Mali,3,0,FIFA World Cup qualification,Dakar,Senegal,False
+2005-11-12,South Africa,Senegal,2,3,Friendly,Port Elizabeth,South Africa,False
+2005-12-27,Ecuador,Senegal,1,2,Friendly,Cairo,Egypt,True
+2005-12-29,Egypt,Senegal,4,2,Friendly,Cairo,Egypt,False
+2006-01-14,Senegal,DR Congo,0,0,Friendly,Dakar,Senegal,False
+2006-01-23,Zimbabwe,Senegal,0,2,African Cup of Nations,Port Said,Egypt,True
+2006-01-27,Ghana,Senegal,1,0,African Cup of Nations,Port Said,Egypt,True
+2006-01-31,Nigeria,Senegal,2,1,African Cup of Nations,Port Said,Egypt,True
+2006-02-03,Guinea,Senegal,2,3,African Cup of Nations,Alexandria,Egypt,True
+2006-02-07,Egypt,Senegal,2,1,African Cup of Nations,Cairo,Egypt,False
+2006-02-09,Senegal,Nigeria,0,1,African Cup of Nations,Cairo,Egypt,True
+2006-03-01,Senegal,Norway,2,1,Friendly,Dakar,Senegal,False
+2006-05-23,South Korea,Senegal,1,1,Friendly,Seoul,South Korea,False
+2006-08-16,Ivory Coast,Senegal,0,1,Friendly,Tours,France,True
+2006-09-02,Senegal,Mozambique,2,0,African Cup of Nations qualification,Dakar,Senegal,False
+2006-10-07,Burkina Faso,Senegal,1,0,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+2007-02-07,Senegal,Benin,2,1,Friendly,Rouen,France,True
+2007-03-24,Senegal,Tanzania,4,0,African Cup of Nations qualification,Dakar,Senegal,False
+2007-06-02,Tanzania,Senegal,1,1,African Cup of Nations qualification,Mwanza,Tanzania,False
+2007-06-10,Malawi,Senegal,2,3,Friendly,Blantyre,Malawi,False
+2007-06-17,Mozambique,Senegal,0,0,African Cup of Nations qualification,Maputo,Mozambique,False
+2007-08-21,Ghana,Senegal,1,1,Friendly,London,England,True
+2007-09-08,Senegal,Burkina Faso,5,1,African Cup of Nations qualification,Dakar,Senegal,False
+2007-10-14,Senegal,Guinea,3,1,Friendly,Rouen,France,True
+2007-11-17,Senegal,Mali,3,2,Friendly,Bondoufle,France,True
+2007-11-21,Morocco,Senegal,3,0,Friendly,Bondoufle,France,True
+2008-01-12,Senegal,Namibia,3,1,Friendly,Dakar,Senegal,False
+2008-01-16,Benin,Senegal,1,2,Friendly,Ouagadougou,Burkina Faso,True
+2008-01-23,Tunisia,Senegal,2,2,African Cup of Nations,Tamale,Ghana,True
+2008-01-27,Senegal,Angola,1,3,African Cup of Nations,Tamale,Ghana,True
+2008-01-31,Senegal,South Africa,1,1,African Cup of Nations,Kumasi,Ghana,True
+2008-05-31,Senegal,Algeria,1,0,FIFA World Cup qualification,Dakar,Senegal,False
+2008-06-08,Gambia,Senegal,0,0,FIFA World Cup qualification,Bakau,Gambia,False
+2008-06-15,Liberia,Senegal,2,2,FIFA World Cup qualification,Paynesville,Liberia,False
+2008-06-21,Senegal,Liberia,3,1,FIFA World Cup qualification,Dakar,Senegal,False
+2008-08-20,Libya,Senegal,0,0,Friendly,Tripoli,Libya,False
+2008-09-05,Algeria,Senegal,3,2,FIFA World Cup qualification,Blida,Algeria,False
+2008-10-11,Senegal,Gambia,1,1,FIFA World Cup qualification,Dakar,Senegal,False
+2009-03-28,Oman,Senegal,2,0,Friendly,Muscat,Oman,False
+2009-04-01,Iran,Senegal,1,1,Friendly,Tehran,Iran,False
+2009-08-12,DR Congo,Senegal,1,2,Friendly,Blois,France,True
+2009-09-05,Angola,Senegal,1,1,Friendly,Lisbon,Portugal,True
+2009-10-14,South Korea,Senegal,2,0,Friendly,Seoul,South Korea,False
+2010-03-03,Greece,Senegal,0,2,Friendly,Vólos,Greece,False
+2010-05-10,Mexico,Senegal,1,0,Friendly,Chicago,United States,True
+2010-05-27,Denmark,Senegal,2,0,Friendly,Aalborg,Denmark,False
+2010-08-11,Senegal,Cape Verde,1,0,Friendly,Dakar,Senegal,False
+2010-09-05,DR Congo,Senegal,2,4,African Cup of Nations qualification,Lubumbashi,DR Congo,False
+2010-10-09,Senegal,Mauritius,7,0,African Cup of Nations qualification,Dakar,Senegal,False
+2010-11-17,Gabon,Senegal,1,2,Friendly,Saint-Gratien,France,True
+2011-02-09,Senegal,Guinea,3,0,Friendly,Dakar,Senegal,False
+2011-03-26,Senegal,Cameroon,1,0,African Cup of Nations qualification,Dakar,Senegal,False
+2011-06-04,Cameroon,Senegal,0,0,African Cup of Nations qualification,Yaoundé,Cameroon,False
+2011-06-25,Colombia,Senegal,2,0,Friendly,Medellín,Colombia,False
+2011-06-28,Peru,Senegal,1,0,Friendly,Lima,Peru,False
+2011-08-10,Senegal,Morocco,0,2,Friendly,Dakar,Senegal,False
+2011-09-03,Senegal,DR Congo,2,0,African Cup of Nations qualification,Dakar,Senegal,False
+2011-10-09,Mauritius,Senegal,0,2,African Cup of Nations qualification,Mapou,Mauritius,False
+2012-01-12,Senegal,Sudan,1,0,Friendly,Dakar,Senegal,False
+2012-01-21,Senegal,Zambia,1,2,African Cup of Nations,Bata,Equatorial Guinea,True
+2012-01-25,Equatorial Guinea,Senegal,2,1,African Cup of Nations,Bata,Equatorial Guinea,False
+2012-01-29,Libya,Senegal,2,1,African Cup of Nations,Bata,Equatorial Guinea,True
+2012-02-29,South Africa,Senegal,0,0,Friendly,Durban,South Africa,False
+2012-05-25,Morocco,Senegal,0,1,Friendly,Marrakech,Morocco,False
+2012-06-02,Senegal,Liberia,3,1,FIFA World Cup qualification,Dakar,Senegal,False
+2012-06-09,Uganda,Senegal,1,1,FIFA World Cup qualification,Kampala,Uganda,False
+2012-09-08,Ivory Coast,Senegal,4,2,African Cup of Nations qualification,Abidjan,Ivory Coast,False
+2012-10-13,Senegal,Ivory Coast,0,2,African Cup of Nations qualification,Dakar,Senegal,False
+2012-11-14,Niger,Senegal,1,1,Friendly,Niamey,Niger,False
+2013-03-16,Senegal,Libya,0,4,Friendly,Casablanca,Morocco,True
+2013-03-23,Senegal,Angola,1,1,FIFA World Cup qualification,Conakry,Guinea,True
+2013-06-08,Angola,Senegal,1,1,FIFA World Cup qualification,Luanda,Angola,False
+2013-06-16,Liberia,Senegal,0,2,FIFA World Cup qualification,Paynesville,Liberia,False
+2013-08-14,Zambia,Senegal,1,1,Friendly,Saint-Leu-la-Forêt,France,True
+2013-09-07,Senegal,Uganda,1,0,FIFA World Cup qualification,Marrakech,Morocco,True
+2013-10-12,Ivory Coast,Senegal,3,1,FIFA World Cup qualification,Abidjan,Ivory Coast,False
+2013-11-16,Senegal,Ivory Coast,1,1,FIFA World Cup qualification,Casablanca,Morocco,True
+2014-03-05,Mali,Senegal,1,1,Friendly,Saint-Leu-la-Forêt,France,True
+2014-05-21,Burkina Faso,Senegal,1,1,Friendly,Ouagadougou,Burkina Faso,False
+2014-05-25,Kosovo,Senegal,1,3,Friendly,Lancy,Switzerland,True
+2014-05-31,Colombia,Senegal,2,2,Friendly,Buenos Aires,Argentina,True
+2014-09-05,Senegal,Egypt,2,0,African Cup of Nations qualification,Dakar,Senegal,False
+2014-09-10,Botswana,Senegal,0,2,African Cup of Nations qualification,Gaborone,Botswana,False
+2014-10-10,Senegal,Tunisia,0,0,African Cup of Nations qualification,Dakar,Senegal,False
+2014-10-15,Tunisia,Senegal,1,0,African Cup of Nations qualification,Monastir,Tunisia,False
+2014-11-15,Egypt,Senegal,0,1,African Cup of Nations qualification,Cairo,Egypt,False
+2014-11-19,Senegal,Botswana,3,0,African Cup of Nations qualification,Dakar,Senegal,False
+2015-01-09,Senegal,Gabon,1,0,Friendly,Casablanca,Morocco,True
+2015-01-13,Senegal,Guinea,5,2,Friendly,Casablanca,Morocco,True
+2015-01-19,Ghana,Senegal,1,2,African Cup of Nations,Mongomo,Equatorial Guinea,True
+2015-01-23,South Africa,Senegal,1,1,African Cup of Nations,Mongomo,Equatorial Guinea,True
+2015-01-27,Senegal,Algeria,0,2,African Cup of Nations,Malabo,Equatorial Guinea,True
+2015-03-28,Ghana,Senegal,1,2,Friendly,Le Havre,France,True
+2015-06-13,Senegal,Burundi,3,1,African Cup of Nations qualification,Dakar,Senegal,False
+2015-09-05,Namibia,Senegal,0,2,African Cup of Nations qualification,Windhoek,Namibia,False
+2015-09-08,South Africa,Senegal,1,0,Friendly,Johannesburg,South Africa,False
+2015-10-13,Algeria,Senegal,1,0,Friendly,Algiers,Algeria,False
+2015-11-13,Madagascar,Senegal,2,2,FIFA World Cup qualification,Antananarivo,Madagascar,False
+2015-11-17,Senegal,Madagascar,3,0,FIFA World Cup qualification,Dakar,Senegal,False
+2016-03-26,Senegal,Niger,2,0,African Cup of Nations qualification,Dakar,Senegal,False
+2016-03-29,Niger,Senegal,1,2,African Cup of Nations qualification,Niamey,Niger,False
+2016-05-28,Rwanda,Senegal,0,2,Friendly,Kigali,Rwanda,False
+2016-06-04,Burundi,Senegal,0,2,African Cup of Nations qualification,Bujumbura,Burundi,False
+2016-09-03,Senegal,Namibia,2,0,African Cup of Nations qualification,Dakar,Senegal,False
+2016-10-08,Senegal,Cape Verde,2,0,FIFA World Cup qualification,Dakar,Senegal,False
+2017-01-08,Libya,Senegal,1,2,Friendly,Brazzaville,Congo,True
+2017-01-11,Congo,Senegal,0,2,Friendly,Brazzaville,Congo,False
+2017-01-15,Tunisia,Senegal,0,2,African Cup of Nations,Franceville,Gabon,True
+2017-01-19,Senegal,Zimbabwe,2,0,African Cup of Nations,Franceville,Gabon,True
+2017-01-23,Senegal,Algeria,2,2,African Cup of Nations,Franceville,Gabon,True
+2017-01-28,Senegal,Cameroon,0,0,African Cup of Nations,Franceville,Gabon,True
+2017-03-23,Nigeria,Senegal,1,1,Friendly,London,England,True
+2017-03-27,Ivory Coast,Senegal,1,1,Friendly,Paris,France,True
+2017-05-11,Senegal,Mauritania,2,0,Friendly,Dakar,Senegal,False
+2017-06-05,Senegal,Uganda,0,0,Friendly,Dakar,Senegal,False
+2017-06-10,Senegal,Equatorial Guinea,3,0,African Cup of Nations qualification,Dakar,Senegal,False
+2017-09-02,Senegal,Burkina Faso,0,0,FIFA World Cup qualification,Dakar,Senegal,False
+2017-09-05,Burkina Faso,Senegal,2,2,FIFA World Cup qualification,Ouagadougou,Burkina Faso,False
+2017-10-07,Cape Verde,Senegal,0,2,FIFA World Cup qualification,Praia,Cape Verde,False
+2017-11-10,South Africa,Senegal,0,2,FIFA World Cup qualification,Polokwane,South Africa,False
+2017-11-14,Senegal,South Africa,2,1,FIFA World Cup qualification,Dakar,Senegal,False
+2018-03-23,Senegal,Uzbekistan,1,1,Friendly,Casablanca,Morocco,True
+2018-03-27,Bosnia and Herzegovina,Senegal,0,0,Friendly,Le Havre,France,True
+2018-05-31,Luxembourg,Senegal,0,0,Friendly,Luxembourg,Luxembourg,False
+2018-06-08,Croatia,Senegal,2,1,Friendly,Osijek,Croatia,False
+2018-06-11,South Korea,Senegal,0,2,Friendly,Grödig,Austria,True
+2018-06-19,Poland,Senegal,1,2,FIFA World Cup,Moscow,Russia,True
+2018-06-24,Japan,Senegal,2,2,FIFA World Cup,Ekaterinburg,Russia,True
+2018-06-28,Senegal,Colombia,0,1,FIFA World Cup,Samara,Russia,True
+2018-09-09,Madagascar,Senegal,2,2,African Cup of Nations qualification,Antananarivo,Madagascar,False
+2018-10-13,Senegal,Sudan,3,0,African Cup of Nations qualification,Dakar,Senegal,False
+2018-10-16,Sudan,Senegal,0,1,African Cup of Nations qualification,Khartoum,Sudan,False
+2018-11-17,Equatorial Guinea,Senegal,0,1,African Cup of Nations qualification,Bata,Equatorial Guinea,False
+2019-03-23,Senegal,Madagascar,2,0,African Cup of Nations qualification,Thiès,Senegal,False
+2019-03-26,Senegal,Mali,2,1,Friendly,Dakar,Senegal,False
+2019-06-16,Senegal,Nigeria,1,0,Friendly,Ismailia,Egypt,True
+2019-06-23,Senegal,Tanzania,2,0,African Cup of Nations,Cairo,Egypt,True
+2019-06-27,Senegal,Algeria,0,1,African Cup of Nations,Cairo,Egypt,True
+2019-07-01,Kenya,Senegal,0,3,African Cup of Nations,Cairo,Egypt,True
+2019-07-05,Uganda,Senegal,0,1,African Cup of Nations,Cairo,Egypt,True
+2019-07-10,Senegal,Benin,1,0,African Cup of Nations,Cairo,Egypt,True
+2019-07-14,Senegal,Tunisia,1,0,African Cup of Nations,Cairo,Egypt,True
+2019-07-19,Senegal,Algeria,0,1,African Cup of Nations,Cairo,Egypt,True
+2019-10-10,Brazil,Senegal,1,1,Friendly,Kallang,Singapore,True
+2019-11-13,Senegal,Congo,2,0,African Cup of Nations qualification,Thiès,Senegal,False
+2019-11-17,Eswatini,Senegal,1,4,African Cup of Nations qualification,Manzini,Eswatini,False
+2020-10-09,Morocco,Senegal,3,1,Friendly,Rabat,Morocco,False
+2020-11-11,Senegal,Guinea-Bissau,2,0,African Cup of Nations qualification,Thiès,Senegal,False
+2020-11-15,Guinea-Bissau,Senegal,0,1,African Cup of Nations qualification,Bissau,Guinea-Bissau,False
+2021-03-26,Congo,Senegal,0,0,African Cup of Nations qualification,Brazzaville,Congo,False
+2021-03-30,Senegal,Eswatini,1,1,African Cup of Nations qualification,Thiès,Senegal,False
+2021-06-05,Senegal,Zambia,3,1,Friendly,Thiès,Senegal,False
+2021-06-08,Senegal,Cape Verde,2,0,Friendly,Thiès,Senegal,False
+2021-07-07,Senegal,Namibia,1,2,COSAFA Cup,Port Elizabeth,South Africa,True
+2021-07-09,Senegal,Mozambique,1,0,COSAFA Cup,Port Elizabeth,South Africa,True
+2021-07-13,Senegal,Zimbabwe,2,1,COSAFA Cup,Port Elizabeth,South Africa,True
+2021-07-14,Senegal,Malawi,2,1,COSAFA Cup,Port Elizabeth,South Africa,True
+2021-07-16,Senegal,Eswatini,2,2,COSAFA Cup,Port Elizabeth,South Africa,True
+2021-07-18,South Africa,Senegal,0,0,COSAFA Cup,Port Elizabeth,South Africa,False
+2021-09-01,Senegal,Togo,2,0,FIFA World Cup qualification,Thiès,Senegal,False
+2021-09-07,Congo,Senegal,1,3,FIFA World Cup qualification,Brazzaville,Congo,False
+2021-10-09,Senegal,Namibia,4,1,FIFA World Cup qualification,Thiès,Senegal,False
+2021-10-12,Namibia,Senegal,1,3,FIFA World Cup qualification,Johannesburg,South Africa,True
+2021-11-11,Togo,Senegal,1,1,FIFA World Cup qualification,Lomé,Togo,False
+2021-11-14,Senegal,Congo,2,0,FIFA World Cup qualification,Thiès,Senegal,False
+2022-01-10,Senegal,Zimbabwe,1,0,African Cup of Nations,Bafoussam,Cameroon,True
+2022-01-14,Senegal,Guinea,0,0,African Cup of Nations,Bafoussam,Cameroon,True
+2022-01-18,Malawi,Senegal,0,0,African Cup of Nations,Bafoussam,Cameroon,True
+2022-01-25,Senegal,Cape Verde,2,0,African Cup of Nations,Bafoussam,Cameroon,True
+2022-01-30,Senegal,Equatorial Guinea,3,1,African Cup of Nations,Yaoundé,Cameroon,True
+2022-02-02,Burkina Faso,Senegal,1,3,African Cup of Nations,Yaoundé,Cameroon,True
+2022-02-06,Senegal,Egypt,0,0,African Cup of Nations,Yaoundé,Cameroon,True
+2022-03-25,Egypt,Senegal,1,0,FIFA World Cup qualification,Cairo,Egypt,False
+2022-03-29,Senegal,Egypt,1,0,FIFA World Cup qualification,Diamniadio,Senegal,False
+2022-06-04,Senegal,Benin,3,1,African Cup of Nations qualification,Diamniadio,Senegal,False
+2022-06-07,Senegal,Rwanda,1,0,African Cup of Nations qualification,Diamniadio,Senegal,False
+2022-07-13,Senegal,Eswatini,1,1,COSAFA Cup,KwaMashu,South Africa,True
+2022-07-15,Zambia,Senegal,4,3,COSAFA Cup,Durban,South Africa,True
+2022-07-17,Mozambique,Senegal,1,1,COSAFA Cup,Moses Mabhida Stadium,South Africa,True
+2022-09-24,Bolivia,Senegal,0,2,Friendly,Orléans,France,True
+2022-09-27,Iran,Senegal,1,1,Friendly,Maria Enzersdorf,Austria,True
+2022-11-21,Senegal,Netherlands,0,2,FIFA World Cup,Doha,Qatar,True
+2022-11-25,Qatar,Senegal,1,3,FIFA World Cup,Doha,Qatar,False
+2022-11-29,Ecuador,Senegal,1,2,FIFA World Cup,Al Rayyan,Qatar,True
+2022-12-04,England,Senegal,3,0,FIFA World Cup,Al Khor,Qatar,True
+2023-03-24,Senegal,Mozambique,5,1,African Cup of Nations qualification,Diamniadio,Senegal,False
+2023-03-28,Mozambique,Senegal,0,1,African Cup of Nations qualification,Maputo,Mozambique,False
+2023-06-17,Benin,Senegal,1,1,African Cup of Nations qualification,Cotonou,Benin,False
+2023-06-20,Brazil,Senegal,2,4,Friendly,Lisbon,Portugal,True
+2023-09-09,Rwanda,Senegal,1,1,African Cup of Nations qualification,Butare,Rwanda,False
+2023-09-12,Senegal,Algeria,0,1,Friendly,Diamniadio,Senegal,False
+2023-10-16,Senegal,Cameroon,1,0,Friendly,Lens,France,True
+2023-11-18,Senegal,South Sudan,4,0,FIFA World Cup qualification,Diamniadio,Senegal,False
+2023-11-21,Togo,Senegal,0,0,FIFA World Cup qualification,Lomé,Togo,False
+2024-01-08,Senegal,Niger,1,0,Friendly,Dakar,Senegal,False
+2024-01-15,Senegal,Gambia,3,0,African Cup of Nations,Yamoussoukro,Ivory Coast,True
+2024-01-19,Senegal,Cameroon,3,1,African Cup of Nations,Yamoussoukro,Ivory Coast,True
+2024-01-23,Guinea,Senegal,0,2,African Cup of Nations,Yamoussoukro,Ivory Coast,True
+2024-01-29,Ivory Coast,Senegal,1,1,African Cup of Nations,Yamoussoukro,Ivory Coast,False
+2024-03-22,Senegal,Gabon,3,0,Friendly,Amiens,France,True
+2024-03-26,Senegal,Benin,1,0,Friendly,Amiens,France,True
+2024-06-06,Senegal,DR Congo,1,1,FIFA World Cup qualification,Diamniadio,Senegal,False
+2024-06-09,Mauritania,Senegal,0,1,FIFA World Cup qualification,Nouakchott,Mauritania,False
+2024-09-06,Senegal,Burkina Faso,1,1,African Cup of Nations qualification,Diamniadio,Senegal,False
+2024-09-09,Burundi,Senegal,0,1,African Cup of Nations qualification,Lilongwe,Malawi,True
+2024-10-11,Senegal,Malawi,4,0,African Cup of Nations qualification,Diamniadio,Senegal,False
+2024-10-15,Malawi,Senegal,0,1,African Cup of Nations qualification,Lilongwe,Malawi,False
+2025-03-22,Sudan,Senegal,0,0,FIFA World Cup qualification,Benghazi,Libya,True
+2025-03-25,Senegal,Togo,2,0,FIFA World Cup qualification,Diamniadio,Senegal,False

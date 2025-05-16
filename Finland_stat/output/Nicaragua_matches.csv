@@ -1,0 +1,211 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1929-05-01,El Salvador,Nicaragua,9,0,Friendly,San Salvador,El Salvador,False
+1941-05-10,Costa Rica,Nicaragua,7,2,CCCF Championship,San José,Costa Rica,False
+1941-05-13,El Salvador,Nicaragua,8,0,CCCF Championship,San José,Costa Rica,True
+1941-05-15,Curaçao,Nicaragua,9,1,CCCF Championship,San José,Costa Rica,True
+1941-05-18,Nicaragua,Panama,2,5,CCCF Championship,San José,Costa Rica,True
+1943-12-05,Costa Rica,Nicaragua,7,0,CCCF Championship,San Salvador,El Salvador,True
+1943-12-07,El Salvador,Nicaragua,8,1,CCCF Championship,San Salvador,El Salvador,False
+1943-12-09,Guatemala,Nicaragua,6,2,CCCF Championship,San Salvador,El Salvador,True
+1943-12-12,Nicaragua,Costa Rica,2,3,CCCF Championship,San Salvador,El Salvador,True
+1943-12-16,El Salvador,Nicaragua,10,1,CCCF Championship,San Salvador,El Salvador,False
+1943-12-19,Nicaragua,Guatemala,1,5,CCCF Championship,San Salvador,El Salvador,True
+1946-02-24,Costa Rica,Nicaragua,7,1,CCCF Championship,San José,Costa Rica,False
+1946-02-28,El Salvador,Nicaragua,7,2,CCCF Championship,San José,Costa Rica,True
+1946-03-07,Guatemala,Nicaragua,7,0,CCCF Championship,San José,Costa Rica,True
+1946-03-10,Panama,Nicaragua,0,2,CCCF Championship,San José,Costa Rica,True
+1946-03-13,Honduras,Nicaragua,10,0,CCCF Championship,San José,Costa Rica,True
+1951-02-25,Costa Rica,Nicaragua,8,1,CCCF Championship,Panama City,Panama,True
+1951-02-28,Panama,Nicaragua,4,0,CCCF Championship,Panama City,Panama,False
+1951-03-03,Nicaragua,Costa Rica,1,4,CCCF Championship,Panama City,Panama,True
+1951-03-04,Panama,Nicaragua,6,2,CCCF Championship,Panama City,Panama,False
+1953-03-08,Honduras,Nicaragua,2,1,CCCF Championship,San José,Costa Rica,True
+1953-03-10,El Salvador,Nicaragua,4,1,CCCF Championship,San José,Costa Rica,True
+1953-03-11,Curaçao,Nicaragua,8,0,CCCF Championship,San José,Costa Rica,True
+1953-03-14,Panama,Nicaragua,0,2,CCCF Championship,San José,Costa Rica,True
+1953-03-17,Costa Rica,Nicaragua,3,0,CCCF Championship,San José,Costa Rica,False
+1953-03-19,Guatemala,Nicaragua,1,0,CCCF Championship,San José,Costa Rica,True
+1961-03-13,Curaçao,Nicaragua,2,1,CCCF Championship,San José,Costa Rica,True
+1963-03-23,El Salvador,Nicaragua,6,1,CONCACAF Championship,San Salvador,El Salvador,False
+1963-03-25,Honduras,Nicaragua,1,0,CONCACAF Championship,San Salvador,El Salvador,True
+1963-03-27,Guatemala,Nicaragua,3,1,CONCACAF Championship,San Salvador,El Salvador,True
+1963-03-29,Nicaragua,Panama,0,5,CONCACAF Championship,San Salvador,El Salvador,True
+1965-03-07,El Salvador,Nicaragua,4,0,CONCACAF Championship qualification,San Salvador,El Salvador,False
+1965-03-11,Honduras,Nicaragua,0,2,CONCACAF Championship qualification,San Salvador,El Salvador,True
+1966-02-08,Panama,Nicaragua,3,1,Friendly,Panama City,Panama,False
+1967-02-09,Nicaragua,Panama,3,1,CONCACAF Championship qualification,Guatemala City,Guatemala,True
+1967-02-14,Guatemala,Nicaragua,3,1,CONCACAF Championship qualification,Guatemala City,Guatemala,False
+1967-03-06,Mexico,Nicaragua,4,0,CONCACAF Championship,Tegucigalpa,Honduras,True
+1967-03-08,Honduras,Nicaragua,1,1,CONCACAF Championship,Tegucigalpa,Honduras,False
+1967-03-10,Haiti,Nicaragua,2,1,CONCACAF Championship,Tegucigalpa,Honduras,True
+1967-03-17,Nicaragua,Trinidad and Tobago,1,3,CONCACAF Championship,Tegucigalpa,Honduras,True
+1967-03-19,Guatemala,Nicaragua,2,0,CONCACAF Championship,Tegucigalpa,Honduras,True
+1971-09-09,El Salvador,Nicaragua,3,2,CONCACAF Championship qualification,San Salvador,El Salvador,False
+1971-09-15,El Salvador,Nicaragua,1,0,CONCACAF Championship qualification,San Salvador,El Salvador,False
+1973-12-02,Panama,Nicaragua,2,0,Friendly,Panama City,Panama,False
+1984-04-27,Panama,Nicaragua,2,0,Friendly,Panama City,Panama,False
+1991-04-14,Nicaragua,El Salvador,2,3,UNCAF Cup,Managua,Nicaragua,False
+1992-06-07,Guatemala,Nicaragua,7,1,Friendly,Guatemala City,Guatemala,False
+1992-07-19,Nicaragua,El Salvador,0,5,FIFA World Cup qualification,Managua,Nicaragua,False
+1992-07-23,El Salvador,Nicaragua,5,1,FIFA World Cup qualification,San Salvador,El Salvador,False
+1993-02-16,Costa Rica,Nicaragua,6,0,UNCAF Cup,San José,Costa Rica,False
+1993-02-19,Costa Rica,Nicaragua,2,0,UNCAF Cup,San José,Costa Rica,False
+1995-10-22,Panama,Nicaragua,2,0,UNCAF Cup,Panama City,Panama,False
+1995-10-29,Nicaragua,Panama,0,5,UNCAF Cup,Diriamba,Nicaragua,False
+1996-03-27,Honduras,Nicaragua,1,0,Friendly,Danlí,Honduras,False
+1996-05-05,Nicaragua,Guatemala,0,1,FIFA World Cup qualification,Diriamba,Nicaragua,False
+1996-05-10,Guatemala,Nicaragua,2,1,FIFA World Cup qualification,Guatemala City,Guatemala,False
+1997-04-18,Costa Rica,Nicaragua,5,1,UNCAF Cup,Guatemala City,Guatemala,True
+1997-04-20,Guatemala,Nicaragua,6,1,UNCAF Cup,Guatemala City,Guatemala,False
+1999-03-17,Guatemala,Nicaragua,1,0,UNCAF Cup,San José,Costa Rica,True
+1999-03-21,El Salvador,Nicaragua,1,0,UNCAF Cup,San José,Costa Rica,True
+2000-03-04,Honduras,Nicaragua,3,0,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2000-03-09,Cuba,Nicaragua,4,0,Friendly,Havana,Cuba,False
+2000-03-19,Nicaragua,Panama,0,2,FIFA World Cup qualification,Diriamba,Nicaragua,False
+2000-04-16,Nicaragua,Honduras,0,1,FIFA World Cup qualification,Diriamba,Nicaragua,False
+2000-05-21,Panama,Nicaragua,4,0,FIFA World Cup qualification,Panama City,Panama,False
+2001-04-24,Belize,Nicaragua,2,0,Friendly,Belize City,Belize,False
+2001-04-26,Belize,Nicaragua,2,1,Friendly,Belize City,Belize,False
+2001-05-23,El Salvador,Nicaragua,3,0,UNCAF Cup,Puerto Cortés,Honduras,True
+2001-05-25,Honduras,Nicaragua,10,2,UNCAF Cup,Tegucigalpa,Honduras,False
+2001-05-27,Panama,Nicaragua,6,0,UNCAF Cup,Puerto Cortés,Honduras,True
+2002-04-17,Belize,Nicaragua,7,1,Friendly,Belize City,Belize,False
+2002-11-17,Cayman Islands,Nicaragua,0,1,Friendly,George Town,Cayman Islands,False
+2003-02-11,Honduras,Nicaragua,2,0,UNCAF Cup,Panama City,Panama,True
+2003-02-13,El Salvador,Nicaragua,3,0,UNCAF Cup,Panama City,Panama,True
+2003-02-15,Costa Rica,Nicaragua,1,0,UNCAF Cup,Panama City,Panama,True
+2003-02-18,Guatemala,Nicaragua,5,0,UNCAF Cup,Panama City,Panama,True
+2003-02-21,Panama,Nicaragua,0,1,UNCAF Cup,Panama City,Panama,False
+2004-01-31,Haiti,Nicaragua,1,1,Friendly,West Palm Beach,United States,True
+2004-02-29,Nicaragua,Haiti,1,1,Friendly,Estelí,Nicaragua,False
+2004-03-31,Bermuda,Nicaragua,3,0,Friendly,Hamilton,Bermuda,False
+2004-04-02,Bermuda,Nicaragua,2,1,Friendly,Hamilton,Bermuda,False
+2004-04-30,Nicaragua,Bermuda,2,0,Friendly,Diriamba,Nicaragua,False
+2004-05-02,Nicaragua,Bermuda,2,0,Friendly,Estelí,Nicaragua,False
+2004-06-04,Costa Rica,Nicaragua,5,1,Friendly,San Carlos,Costa Rica,False
+2004-06-13,Nicaragua,Saint Vincent and the Grenadines,2,2,FIFA World Cup qualification,Diriamba,Nicaragua,False
+2004-06-20,Saint Vincent and the Grenadines,Nicaragua,4,1,FIFA World Cup qualification,Kingstown,Saint Vincent and the Grenadines,False
+2005-02-19,Honduras,Nicaragua,5,1,UNCAF Cup,Guatemala City,Guatemala,True
+2005-02-21,Guatemala,Nicaragua,4,0,UNCAF Cup,Guatemala City,Guatemala,False
+2005-02-23,Nicaragua,Belize,1,0,UNCAF Cup,Guatemala City,Guatemala,True
+2007-01-11,Costa Rica,Nicaragua,2,0,Friendly,San José,Costa Rica,False
+2007-02-08,Guatemala,Nicaragua,1,0,UNCAF Cup,San Salvador,El Salvador,True
+2007-02-10,El Salvador,Nicaragua,2,1,UNCAF Cup,San Salvador,El Salvador,False
+2007-02-12,Nicaragua,Belize,4,2,UNCAF Cup,San Salvador,El Salvador,True
+2007-02-15,Nicaragua,Honduras,1,9,UNCAF Cup,San Salvador,El Salvador,True
+2008-02-06,Nicaragua,Curaçao,0,1,FIFA World Cup qualification,Diriamba,Nicaragua,False
+2008-03-26,Curaçao,Nicaragua,2,0,FIFA World Cup qualification,Willemstad,Curaçao,True
+2009-01-22,El Salvador,Nicaragua,1,1,UNCAF Cup,Tegucigalpa,Honduras,True
+2009-01-24,Honduras,Nicaragua,4,1,UNCAF Cup,Tegucigalpa,Honduras,False
+2009-01-26,Nicaragua,Belize,1,1,UNCAF Cup,Tegucigalpa,Honduras,True
+2009-01-29,Nicaragua,Guatemala,2,0,UNCAF Cup,Tegucigalpa,Honduras,True
+2009-07-05,Nicaragua,Mexico,0,2,Gold Cup,Oakland,United States,True
+2009-07-09,Guadeloupe,Nicaragua,2,0,Gold Cup,Houston,United States,True
+2009-07-12,Panama,Nicaragua,4,0,Gold Cup,Glendale,United States,True
+2010-09-04,Guatemala,Nicaragua,5,0,Friendly,Fort Lauderdale,United States,True
+2011-01-14,El Salvador,Nicaragua,2,0,UNCAF Cup,Panama City,Panama,True
+2011-01-16,Panama,Nicaragua,2,0,UNCAF Cup,Panama City,Panama,False
+2011-01-18,Nicaragua,Belize,1,1,UNCAF Cup,Panama City,Panama,True
+2011-01-21,Nicaragua,Guatemala,1,2,UNCAF Cup,Panama City,Panama,True
+2011-05-26,Cuba,Nicaragua,1,1,Friendly,Havana,Cuba,False
+2011-05-28,Cuba,Nicaragua,2,1,Friendly,Havana,Cuba,False
+2011-09-02,Dominica,Nicaragua,0,2,FIFA World Cup qualification,Roseau,Dominica,False
+2011-09-06,Nicaragua,Panama,1,2,FIFA World Cup qualification,Managua,Nicaragua,False
+2011-10-11,Panama,Nicaragua,5,1,FIFA World Cup qualification,Panama City,Panama,False
+2011-11-11,Nicaragua,Dominica,1,0,FIFA World Cup qualification,Managua,Nicaragua,False
+2012-02-24,Nicaragua,Puerto Rico,1,0,Friendly,Managua,Nicaragua,False
+2012-02-26,Nicaragua,Puerto Rico,4,1,Friendly,Managua,Nicaragua,False
+2012-06-01,Puerto Rico,Nicaragua,3,1,Friendly,Bayamón,Puerto Rico,False
+2012-06-03,Puerto Rico,Nicaragua,1,1,Friendly,Bayamón,Puerto Rico,False
+2013-01-18,Guatemala,Nicaragua,1,1,UNCAF Cup,San José,Costa Rica,True
+2013-01-20,Costa Rica,Nicaragua,2,0,UNCAF Cup,San José,Costa Rica,False
+2013-01-22,Nicaragua,Belize,1,2,UNCAF Cup,San José,Costa Rica,True
+2014-08-14,Guatemala,Nicaragua,3,0,Friendly,Antigua Guatemala City,Guatemala,False
+2014-09-03,Costa Rica,Nicaragua,3,0,UNCAF Cup,"Washington, D.C.",United States,True
+2014-11-18,Nicaragua,El Salvador,0,2,Friendly,Managua,Nicaragua,False
+2015-03-23,Nicaragua,Anguilla,5,0,FIFA World Cup qualification,Managua,Nicaragua,False
+2015-03-29,Anguilla,Nicaragua,0,3,FIFA World Cup qualification,The Valley,Anguilla,False
+2015-06-07,Nicaragua,Suriname,1,0,FIFA World Cup qualification,Managua,Nicaragua,False
+2015-06-16,Suriname,Nicaragua,1,3,FIFA World Cup qualification,Paramaribo,Suriname,False
+2015-09-04,Jamaica,Nicaragua,2,3,FIFA World Cup qualification,Kingston,Jamaica,False
+2015-09-08,Nicaragua,Jamaica,0,2,FIFA World Cup qualification,Managua,Nicaragua,False
+2015-12-08,Nicaragua,Cuba,5,0,Friendly,Managua,Nicaragua,False
+2015-12-11,Nicaragua,Cuba,1,0,Friendly,Estelí,Nicaragua,False
+2016-08-24,Honduras,Nicaragua,1,0,Friendly,San Pedro Sula,Honduras,False
+2016-12-27,Nicaragua,Trinidad and Tobago,2,1,Friendly,Managua,Nicaragua,False
+2016-12-30,Nicaragua,Trinidad and Tobago,1,3,Friendly,Managua,Nicaragua,False
+2017-01-13,Honduras,Nicaragua,2,1,UNCAF Cup,Panama City,Panama,True
+2017-01-20,Nicaragua,Belize,3,1,UNCAF Cup,Panama City,Panama,True
+2017-01-22,El Salvador,Nicaragua,1,0,UNCAF Cup,Panama City,Panama,True
+2017-03-16,Honduras,Nicaragua,2,0,Friendly,San Pedro Sula,Honduras,False
+2017-06-02,Nicaragua,Bolivia,0,1,Friendly,Managua,Nicaragua,False
+2017-06-07,Bolivia,Nicaragua,3,2,Friendly,Yacuiba,Bolivia,False
+2017-06-17,Curaçao,Nicaragua,0,0,Friendly,Willemstad,Curaçao,False
+2017-07-08,Martinique,Nicaragua,2,0,Gold Cup,Nashville,United States,True
+2017-07-12,Panama,Nicaragua,2,1,Gold Cup,Tampa,United States,True
+2017-07-15,United States,Nicaragua,3,0,Gold Cup,Cleveland,United States,False
+2017-11-08,Nicaragua,Dominican Republic,0,3,Friendly,Diriamba,Nicaragua,False
+2017-11-11,Dominican Republic,Nicaragua,1,0,Friendly,San Cristóbal,Dominican Republic,False
+2018-03-22,Nicaragua,Cuba,3,1,Friendly,Managua,Nicaragua,False
+2018-03-25,Nicaragua,Cuba,3,3,Friendly,Managua,Nicaragua,False
+2018-09-08,Saint Vincent and the Grenadines,Nicaragua,0,2,CONCACAF Nations League qualification,Kingstown,Saint Vincent and the Grenadines,False
+2018-10-14,Nicaragua,Anguilla,6,0,CONCACAF Nations League qualification,Heredia,Costa Rica,True
+2018-11-17,Nicaragua,Haiti,0,2,CONCACAF Nations League qualification,Managua,Nicaragua,False
+2019-03-03,Bolivia,Nicaragua,2,2,Friendly,Villa Tunari,Bolivia,False
+2019-03-24,Barbados,Nicaragua,0,1,CONCACAF Nations League qualification,Bridgetown,Barbados,False
+2019-03-26,Nicaragua,Guatemala,0,1,Friendly,Managua,Nicaragua,False
+2019-06-07,Argentina,Nicaragua,5,1,Friendly,San Juan,Argentina,False
+2019-06-16,Costa Rica,Nicaragua,4,0,Gold Cup,San José,Jamaica,True
+2019-06-20,Nicaragua,Haiti,0,2,Gold Cup,Frisco,United States,True
+2019-06-24,Bermuda,Nicaragua,2,0,Gold Cup,New Jersey,United States,True
+2019-09-06,Nicaragua,Saint Vincent and the Grenadines,1,1,CONCACAF Nations League,Managua,Nicaragua,False
+2019-09-08,Suriname,Nicaragua,6,0,CONCACAF Nations League,Paramaribo,Suriname,False
+2019-10-11,Nicaragua,Dominica,3,1,CONCACAF Nations League,Managua,Nicaragua,False
+2019-10-14,Dominica,Nicaragua,0,4,CONCACAF Nations League,Roseau,Dominica,False
+2019-11-07,Nicaragua,Cuba,0,0,Friendly,Managua,Nicaragua,False
+2019-11-10,Nicaragua,Cuba,0,1,Friendly,Managua,Nicaragua,False
+2019-11-15,Saint Vincent and the Grenadines,Nicaragua,1,0,CONCACAF Nations League,Arnos Vale,Saint Vincent and the Grenadines,False
+2019-11-18,Nicaragua,Suriname,1,2,CONCACAF Nations League,Managua,Nicaragua,False
+2020-10-06,Nicaragua,Guatemala,0,0,Friendly,Managua,Nicaragua,False
+2020-10-10,Honduras,Nicaragua,1,1,Friendly,Comayagua,Honduras,False
+2021-02-24,Guatemala,Nicaragua,1,0,Friendly,Guatemala City,Guatemala,False
+2021-03-27,Turks and Caicos Islands,Nicaragua,0,7,FIFA World Cup qualification,San Cristóbal,Dominican Republic,True
+2021-06-04,Nicaragua,Belize,3,0,FIFA World Cup qualification,Managua,Nicaragua,False
+2021-06-08,Haiti,Nicaragua,1,0,FIFA World Cup qualification,Port-au-Prince,Haiti,False
+2021-09-08,Guatemala,Nicaragua,2,2,Friendly,Antigua Guatemala City,Guatemala,False
+2021-11-10,Nicaragua,Cuba,0,3,Friendly,Managua,Nicaragua,False
+2021-11-13,Nicaragua,Cuba,2,0,Friendly,Managua,Nicaragua,False
+2021-11-14,Nicaragua,Cuba,2,0,Friendly,Managua,Nicaragua,False
+2022-01-29,Nicaragua,Belize,4,0,Friendly,Managua,Nicaragua,False
+2022-02-01,Nicaragua,Belize,1,1,Friendly,Managua,Nicaragua,False
+2022-06-03,Nicaragua,Trinidad and Tobago,2,1,CONCACAF Nations League,Managua,Nicaragua,False
+2022-06-06,Saint Vincent and the Grenadines,Nicaragua,2,2,CONCACAF Nations League,Kingstown,Saint Vincent and the Grenadines,False
+2022-06-10,Bahamas,Nicaragua,0,2,CONCACAF Nations League,Nassau,Bahamas,False
+2022-06-13,Nicaragua,Bahamas,4,0,CONCACAF Nations League,Managua,Nicaragua,False
+2022-09-22,Suriname,Nicaragua,2,1,Friendly,Almere,Netherlands,True
+2022-09-27,Ghana,Nicaragua,1,0,Friendly,Lorca,Spain,True
+2022-11-10,Iran,Nicaragua,1,0,Friendly,Tehran,Iran,False
+2022-11-16,Nicaragua,El Salvador,1,0,Friendly,Managua,Nicaragua,False
+2022-11-19,Guatemala,Nicaragua,3,1,Friendly,Carson,United States,True
+2023-03-24,Nicaragua,Saint Vincent and the Grenadines,4,1,CONCACAF Nations League,Managua,Nicaragua,False
+2023-03-27,Trinidad and Tobago,Nicaragua,1,1,CONCACAF Nations League,Bacolet,Trinidad and Tobago,False
+2023-06-10,Panama,Nicaragua,3,2,Friendly,Penonomé,Panama,False
+2023-06-14,Uruguay,Nicaragua,4,1,Friendly,Montevideo,Uruguay,False
+2023-06-18,Paraguay,Nicaragua,2,0,Friendly,Asunción,Paraguay,False
+2023-09-08,Dominican Republic,Nicaragua,0,2,CONCACAF Nations League,Santo Domingo,Dominican Republic,False
+2023-09-11,Nicaragua,Barbados,5,1,CONCACAF Nations League,Managua,Nicaragua,False
+2023-10-13,Montserrat,Nicaragua,0,3,CONCACAF Nations League,Bridgetown,Barbados,True
+2023-10-16,Nicaragua,Montserrat,3,0,CONCACAF Nations League,Managua,Nicaragua,False
+2023-11-17,Barbados,Nicaragua,0,4,CONCACAF Nations League,Bridgetown,Barbados,False
+2023-11-21,Nicaragua,Dominican Republic,0,0,CONCACAF Nations League,Managua,Nicaragua,False
+2024-03-22,Peru,Nicaragua,2,0,Friendly,Lima,Peru,False
+2024-03-26,Nicaragua,Cuba,0,1,Friendly,Managua,Nicaragua,False
+2024-04-26,Guatemala,Nicaragua,1,1,Friendly,San Jose,United States,True
+2024-06-05,Nicaragua,Montserrat,4,1,FIFA World Cup qualification,Managua,Nicaragua,False
+2024-06-08,Belize,Nicaragua,0,4,FIFA World Cup qualification,Belmopan,Belize,False
+2024-09-06,French Guiana,Nicaragua,0,1,CONCACAF Nations League,Cayenne,French Guiana,False
+2024-09-10,Cuba,Nicaragua,1,1,CONCACAF Nations League,Santiago,Cuba,False
+2024-10-10,Nicaragua,Jamaica,0,2,CONCACAF Nations League,Managua,Nicaragua,False
+2024-10-14,Nicaragua,French Guiana,3,2,CONCACAF Nations League,Managua,Nicaragua,False
+2025-03-21,Guadeloupe,Nicaragua,1,0,Gold Cup qualification,Le Gosier,Guadeloupe,False
+2025-03-25,Nicaragua,Guadeloupe,0,1,Gold Cup qualification,Managua,Nicaragua,False

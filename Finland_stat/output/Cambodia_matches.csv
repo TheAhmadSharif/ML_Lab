@@ -1,0 +1,292 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1954-11-01,Cambodia,Thailand,7,1,Friendly,Phnom Penh,Cambodia,False
+1956-03-17,Malaysia,Cambodia,9,2,AFC Asian Cup qualification,Kuala Lumpur,Malaya,True
+1956-04-24,Cambodia,Malaysia,3,2,AFC Asian Cup qualification,Phnom Penh,Cambodia,False
+1957-09-01,Cambodia,Thailand,0,3,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1957-09-03,Myanmar,Cambodia,2,0,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1957-09-05,Cambodia,Singapore,1,1,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1957-10-31,Cambodia,Malaysia,1,3,Friendly,Phnom Penh,Cambodia,False
+1961-12-11,Myanmar,Cambodia,4,0,Southeast Asian Peninsular Games,Rangoon,Burma,False
+1961-12-12,Malaysia,Cambodia,4,0,Southeast Asian Peninsular Games,Rangoon,Burma,True
+1963-04-26,Cambodia,North Vietnam,2,3,Friendly,Jakarta,Indonesia,True
+1963-04-27,Cambodia,China PR,0,6,Friendly,Jakarta,Indonesia,True
+1964-08-23,Cambodia,Taiwan,0,4,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1964-08-27,Cambodia,India,0,4,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1964-09-01,Cambodia,Thailand,0,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1965-08-03,Cambodia,North Vietnam,1,1,Friendly,Pyongyang,North Korea,True
+1965-08-06,Cambodia,Indonesia,0,0,Friendly,Pyongyang,North Korea,True
+1965-08-07,Cambodia,China PR,1,3,Friendly,Pyongyang,North Korea,True
+1965-08-10,North Korea,Cambodia,4,0,Friendly,Pyongyang,North Korea,False
+1965-11-26,Cambodia,Australia,0,0,Friendly,Phnom Penh,Cambodia,False
+1966-11-26,Cambodia,North Korea,0,2,GaNEFo,Phnom Penh,Cambodia,False
+1966-11-27,Cambodia,China PR,0,4,GaNEFo,Phnom Penh,Cambodia,False
+1966-11-29,Cambodia,Yemen,8,0,GaNEFo,Phnom Penh,Cambodia,False
+1966-11-30,Cambodia,North Vietnam,2,2,GaNEFo,Phnom Penh,Cambodia,False
+1967-11-16,Myanmar,Cambodia,1,0,AFC Asian Cup qualification,Yangon,Burma,False
+1970-11-09,Cambodia,Malaysia,1,1,King's Cup,Bangkok,Thailand,True
+1970-11-13,Cambodia,Vietnam Republic,2,2,King's Cup,Bangkok,Thailand,True
+1970-11-15,Indonesia,Cambodia,4,1,King's Cup,Bangkok,Thailand,True
+1970-12-10,Myanmar,Cambodia,2,1,Asian Games,Bangkok,Thailand,True
+1970-12-12,Japan,Cambodia,1,0,Asian Games,Bangkok,Thailand,True
+1970-12-14,Malaysia,Cambodia,0,2,Asian Games,Bangkok,Thailand,True
+1971-05-03,Cambodia,Malaysia,1,3,Korea Cup,Seoul,South Korea,True
+1971-05-05,Cambodia,Thailand,3,4,Korea Cup,Seoul,South Korea,True
+1971-05-09,South Korea,Cambodia,2,0,Korea Cup,Seoul,South Korea,False
+1971-05-21,Thailand,Cambodia,1,1,AFC Asian Cup qualification,Bangkok,Thailand,False
+1971-05-24,Cambodia,Hong Kong,2,1,AFC Asian Cup qualification,Bangkok,Thailand,True
+1971-05-26,Malaysia,Cambodia,2,1,AFC Asian Cup qualification,Bangkok,Thailand,True
+1971-05-30,Cambodia,Indonesia,2,0,AFC Asian Cup qualification,Bangkok,Thailand,True
+1971-06-01,Thailand,Cambodia,4,2,AFC Asian Cup qualification,Bangkok,Thailand,False
+1971-06-06,Cambodia,Western Australia,2,2,Indonesia Tournament,Jakarta,Indonesia,True
+1971-06-08,Cambodia,Malaysia,1,1,Indonesia Tournament,Jakarta,Indonesia,True
+1971-06-12,Cambodia,Thailand,3,0,Indonesia Tournament,Jakarta,Indonesia,True
+1971-06-13,Indonesia,Cambodia,1,0,Indonesia Tournament,Jakarta,Indonesia,False
+1971-06-14,Myanmar,Cambodia,8,0,Indonesia Tournament,Jakarta,Indonesia,True
+1971-06-15,Cambodia,Malaysia,1,2,Indonesia Tournament,Jakarta,Indonesia,True
+1971-12-12,Cambodia,Thailand,1,1,Southeast Asian Peninsular Games,Malaysia,Malaysia,True
+1971-12-14,Laos,Cambodia,0,2,Southeast Asian Peninsular Games,Malaysia,Malaysia,True
+1971-12-14,Malaysia,Cambodia,3,0,Southeast Asian Peninsular Games,Malaysia,Malaysia,False
+1972-05-07,Iran,Cambodia,2,0,AFC Asian Cup,Bangkok,Thailand,True
+1972-05-10,Cambodia,South Korea,1,4,AFC Asian Cup,Bangkok,Thailand,True
+1972-05-14,Cambodia,Kuwait,4,0,AFC Asian Cup,Bangkok,Thailand,True
+1972-05-16,Iran,Cambodia,2,1,AFC Asian Cup,Bangkok,Thailand,True
+1972-05-19,Thailand,Cambodia,2,2,AFC Asian Cup,Bangkok,Thailand,False
+1972-06-06,Cambodia,Singapore,3,0,Indonesia Tournament,Jakarta,Indonesia,True
+1972-06-08,Cambodia,Thailand,2,0,Indonesia Tournament,Jakarta,Indonesia,True
+1972-06-19,Myanmar,Cambodia,0,3,Indonesia Tournament,Jakarta,Indonesia,True
+1972-07-12,Japan,Cambodia,4,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1972-07-16,Cambodia,Philippines,2,2,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1972-07-19,Malaysia,Cambodia,6,1,Merdeka Tournament,Ipoh,Malaysia,False
+1972-07-22,Cambodia,Sri Lanka,6,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1972-07-28,Cambodia,Hong Kong,1,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1972-08-08,Cambodia,Indonesia,0,5,Friendly,Kallang,Singapore,True
+1972-08-10,Hong Kong,Cambodia,2,1,Friendly,Kallang,Singapore,True
+1972-09-20,Cambodia,Malaysia,0,1,Korea Cup,Seoul,South Korea,True
+1972-09-22,South Korea,Cambodia,3,1,Korea Cup,Seoul,South Korea,False
+1972-09-24,Cambodia,Thailand,0,0,Korea Cup,Seoul,South Korea,True
+1972-09-27,Cambodia,Philippines,1,0,Korea Cup,Seoul,South Korea,True
+1972-10-28,Cambodia,Singapore,0,1,Vietnam Independence Cup,Saigon,Vietnam Republic,True
+1972-10-29,Cambodia,Malaysia,1,0,Vietnam Independence Cup,Saigon,Vietnam Republic,True
+1972-11-01,Vietnam Republic,Cambodia,1,2,Vietnam Independence Cup,Saigon,Vietnam Republic,False
+1973-07-26,Cambodia,Singapore,1,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1973-08-03,Cambodia,South Korea,0,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1973-08-03,Malaysia,Cambodia,1,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1973-08-05,India,Cambodia,3,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1973-08-06,Cambodia,Thailand,1,4,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1973-08-10,Cambodia,Singapore,0,3,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1973-09-22,South Korea,Cambodia,6,0,Korea Cup,Seoul,South Korea,False
+1973-09-26,Indonesia,Cambodia,2,3,Korea Cup,Seoul,South Korea,True
+1973-09-28,Cambodia,Malaysia,2,0,Korea Cup,Seoul,South Korea,True
+1973-09-30,Myanmar,Cambodia,0,0,Korea Cup,Seoul,South Korea,True
+1973-12-16,Cambodia,South Korea,0,5,King's Cup,Bangkok,Thailand,True
+1973-12-20,Cambodia,Malaysia,2,3,King's Cup,Bangkok,Thailand,True
+1974-05-13,South Korea,Cambodia,0,1,Korea Cup,Seoul,South Korea,False
+1974-05-20,Myanmar,Cambodia,6,0,Korea Cup,Seoul,South Korea,True
+1974-11-03,Cambodia,Thailand,2,2,Vietnam Independence Cup,Saigon,Vietnam Republic,True
+1974-12-11,Cambodia,Vietnam Republic,3,2,King's Cup,Bangkok,Thailand,True
+1974-12-13,Cambodia,South Korea,1,2,King's Cup,Bangkok,Thailand,True
+1974-12-16,Cambodia,Vietnam Republic,2,0,King's Cup,Bangkok,Thailand,True
+1974-12-18,Thailand,Cambodia,1,0,King's Cup,Bangkok,Thailand,False
+1974-12-20,Cambodia,Malaysia,0,3,King's Cup,Bangkok,Thailand,True
+1995-12-06,Indonesia,Cambodia,10,0,Southeast Asian Games,Chiang Mai,Thailand,True
+1995-12-08,Vietnam,Cambodia,4,0,Southeast Asian Games,Chiang Mai,Thailand,True
+1995-12-10,Malaysia,Cambodia,9,0,Southeast Asian Games,Chiang Mai,Thailand,True
+1995-12-12,Thailand,Cambodia,9,0,Southeast Asian Games,Chiang Mai,Thailand,False
+1996-09-02,Cambodia,Vietnam,1,3,AFF Championship,Singapore,Singapore,True
+1996-09-05,Myanmar,Cambodia,5,0,AFF Championship,Singapore,Singapore,True
+1996-09-07,Indonesia,Cambodia,3,0,AFF Championship,Singapore,Singapore,True
+1996-09-09,Laos,Cambodia,1,0,AFF Championship,Singapore,Singapore,True
+1997-04-06,Indonesia,Cambodia,8,0,FIFA World Cup qualification,Jakarta,Indonesia,False
+1997-04-20,Cambodia,Yemen,0,1,FIFA World Cup qualification,Phnom Penh,Cambodia,False
+1997-04-27,Cambodia,Indonesia,1,1,FIFA World Cup qualification,Phnom Penh,Cambodia,False
+1997-05-16,Yemen,Cambodia,7,0,FIFA World Cup qualification,Sana'a,Yemen,False
+1997-05-25,Uzbekistan,Cambodia,6,0,FIFA World Cup qualification,Tashkent,Uzbekistan,False
+1997-06-29,Cambodia,Uzbekistan,1,4,FIFA World Cup qualification,Phnom Penh,Cambodia,False
+1997-10-05,Brunei,Cambodia,0,4,Southeast Asian Games,Jakarta,Indonesia,True
+1997-10-09,Singapore,Cambodia,2,1,Southeast Asian Games,Jakarta,Indonesia,True
+1997-10-12,Thailand,Cambodia,4,0,Southeast Asian Games,Jakarta,Indonesia,True
+1997-10-14,Myanmar,Cambodia,1,3,Southeast Asian Games,Jakarta,Indonesia,True
+1998-03-26,Cambodia,Philippines,1,1,AFF Championship qualification,Singapore,Singapore,True
+1998-03-28,Singapore,Cambodia,3,0,AFF Championship qualification,Singapore,Singapore,False
+1998-12-02,Cambodia,China PR,1,4,Asian Games,Surat Thani,Thailand,True
+1998-12-04,Lebanon,Cambodia,5,1,Asian Games,Surat Thani,Thailand,True
+1999-07-31,Indonesia,Cambodia,1,0,Southeast Asian Games,Bandar Seri Begawan,Brunei,True
+1999-08-02,Brunei,Cambodia,3,3,Southeast Asian Games,Bandar Seri Begawan,Brunei,False
+1999-08-04,Cambodia,Malaysia,2,7,Southeast Asian Games,Bandar Seri Begawan,Brunei,True
+1999-08-09,Cambodia,Singapore,0,2,Southeast Asian Games,Bandar Seri Begawan,Brunei,True
+1999-10-18,Hong Kong,Cambodia,4,1,AFC Asian Cup qualification,Victoria,Hong Kong,False
+1999-10-30,Cambodia,Indonesia,1,5,AFC Asian Cup qualification,Phnom Penh,Cambodia,False
+1999-11-07,Cambodia,Hong Kong,0,1,AFC Asian Cup qualification,Phnom Penh,Cambodia,False
+1999-11-20,Indonesia,Cambodia,9,2,AFC Asian Cup qualification,Jakarta,Indonesia,False
+2000-10-14,Malaysia,Cambodia,2,0,Friendly,Kuala Lumpur,Malaysia,False
+2000-10-17,Malaysia,Cambodia,1,1,Friendly,Kuala Lumpur,Malaysia,False
+2000-11-05,Singapore,Cambodia,1,0,AFF Championship,Songkhla,Thailand,True
+2000-11-07,Cambodia,Vietnam,0,6,AFF Championship,Songkhla,Thailand,True
+2000-11-09,Malaysia,Cambodia,3,2,AFF Championship,Songkhla,Thailand,True
+2000-11-11,Cambodia,Laos,3,0,AFF Championship,Songkhla,Thailand,True
+2001-03-28,Sri Lanka,Cambodia,1,0,Friendly,Colombo,Sri Lanka,False
+2001-04-01,Maldives,Cambodia,6,0,FIFA World Cup qualification,Malé,Maldives,False
+2001-04-15,Cambodia,Maldives,1,1,FIFA World Cup qualification,Phnom Penh,Cambodia,False
+2001-04-22,Indonesia,Cambodia,6,0,FIFA World Cup qualification,Jakarta,Indonesia,False
+2001-04-29,Cambodia,Indonesia,0,2,FIFA World Cup qualification,Phnom Penh,Cambodia,False
+2001-05-06,Cambodia,China PR,0,4,FIFA World Cup qualification,Phnom Penh,Cambodia,False
+2001-05-20,China PR,Cambodia,3,1,FIFA World Cup qualification,Guangzhou,China PR,False
+2002-12-11,Malaysia,Cambodia,5,0,Friendly,Petaling Jaya,Malaysia,False
+2002-12-15,Vietnam,Cambodia,9,2,AFF Championship,Jakarta,Indonesia,True
+2002-12-17,Indonesia,Cambodia,4,2,AFF Championship,Jakarta,Indonesia,False
+2002-12-19,Myanmar,Cambodia,5,0,AFF Championship,Jakarta,Indonesia,True
+2002-12-21,Cambodia,Philippines,1,0,AFF Championship,Jakarta,Indonesia,True
+2004-12-09,Vietnam,Cambodia,9,1,AFF Championship,Ho Chi Minh City,Vietnam,False
+2004-12-11,Laos,Cambodia,2,1,AFF Championship,Hanoi,Vietnam,True
+2004-12-13,Indonesia,Cambodia,8,0,AFF Championship,Hanoi,Vietnam,True
+2004-12-15,Cambodia,Singapore,0,3,AFF Championship,Haiphong,Vietnam,True
+2005-10-11,Cambodia,Singapore,0,2,Friendly,Phnom Penh,Cambodia,False
+2006-04-01,Bangladesh,Cambodia,2,1,AFC Challenge Cup,Dhaka,Bangladesh,False
+2006-04-03,Cambodia,Palestine,0,4,AFC Challenge Cup,Dhaka,Bangladesh,True
+2006-04-06,Cambodia,Guam,3,0,AFC Challenge Cup,Dhaka,Bangladesh,True
+2006-11-14,Cambodia,Laos,2,2,AFF Championship qualification,Bacolod,Philippines,True
+2006-11-16,Brunei,Cambodia,1,1,AFF Championship qualification,Bacolod,Philippines,True
+2006-11-18,Philippines,Cambodia,1,0,AFF Championship qualification,Bacolod,Philippines,False
+2006-11-20,Cambodia,Timor-Leste,4,1,AFF Championship qualification,Bacolod,Philippines,True
+2007-06-18,Malaysia,Cambodia,6,0,Friendly,Shah Alam,Malaysia,False
+2007-08-17,India,Cambodia,6,0,Nehru Cup,New Delhi,India,False
+2007-08-19,Kyrgyzstan,Cambodia,4,3,Nehru Cup,New Delhi,India,True
+2007-08-22,Bangladesh,Cambodia,1,1,Nehru Cup,New Delhi,India,True
+2007-08-25,Cambodia,Syria,1,5,Nehru Cup,New Delhi,India,True
+2007-10-11,Cambodia,Turkmenistan,0,1,FIFA World Cup qualification,Phnom Penh,Cambodia,False
+2007-10-28,Turkmenistan,Cambodia,4,1,FIFA World Cup qualification,Ashgabat,Turkmenistan,False
+2008-05-26,Cambodia,Nepal,0,1,AFC Challenge Cup qualification,Phnom Penh,Cambodia,False
+2008-05-28,Cambodia,Macau,3,1,AFC Challenge Cup qualification,Phnom Penh,Cambodia,False
+2008-08-21,Indonesia,Cambodia,7,0,Friendly,Jakarta,Indonesia,False
+2008-08-22,Cambodia,Myanmar,1,7,Friendly,Jakarta,Indonesia,True
+2008-10-17,Cambodia,Laos,3,2,AFF Championship qualification,Phnom Penh,Cambodia,False
+2008-10-19,Cambodia,Timor-Leste,2,2,AFF Championship qualification,Phnom Penh,Cambodia,False
+2008-10-23,Cambodia,Philippines,2,3,AFF Championship qualification,Phnom Penh,Cambodia,False
+2008-10-25,Cambodia,Brunei,2,1,AFF Championship qualification,Phnom Penh,Cambodia,False
+2008-12-05,Singapore,Cambodia,5,0,AFF Championship,Jakarta,Indonesia,True
+2008-12-07,Indonesia,Cambodia,4,0,AFF Championship,Jakarta,Indonesia,False
+2008-12-09,Myanmar,Cambodia,3,2,AFF Championship,Bandung,Indonesia,True
+2009-04-26,Bangladesh,Cambodia,1,0,AFC Challenge Cup qualification,Dhaka,Bangladesh,False
+2009-04-28,Macau,Cambodia,1,2,AFC Challenge Cup qualification,Dhaka,Bangladesh,True
+2009-04-30,Myanmar,Cambodia,1,0,AFC Challenge Cup qualification,Dhaka,Bangladesh,True
+2010-10-22,Laos,Cambodia,0,0,AFF Championship qualification,Vientiane,Laos,False
+2010-10-24,Cambodia,Timor-Leste,4,2,AFF Championship qualification,Vientiane,Laos,True
+2010-10-26,Philippines,Cambodia,0,0,AFF Championship qualification,Vientiane,Laos,True
+2011-02-09,Cambodia,Macau,3,1,AFC Challenge Cup qualification,Phnom Penh,Cambodia,False
+2011-02-16,Macau,Cambodia,3,2,AFC Challenge Cup qualification,Macau,Macau,False
+2011-03-21,Maldives,Cambodia,4,0,AFC Challenge Cup qualification,Malé,Maldives,False
+2011-03-23,Cambodia,Tajikistan,0,3,AFC Challenge Cup qualification,Malé,Maldives,True
+2011-03-25,Cambodia,Kyrgyzstan,3,4,AFC Challenge Cup qualification,Malé,Maldives,True
+2011-06-29,Cambodia,Laos,4,2,FIFA World Cup qualification,Phnom Penh,Cambodia,False
+2011-07-03,Laos,Cambodia,6,2,FIFA World Cup qualification,Vientiane,Laos,False
+2012-09-05,Cambodia,Philippines,0,0,Friendly,Phnom Penh,Cambodia,False
+2012-10-05,Cambodia,Timor-Leste,1,5,AFF Championship qualification,Yangon,Myanmar,True
+2012-10-07,Laos,Cambodia,1,0,AFF Championship qualification,Yangon,Myanmar,True
+2012-10-09,Cambodia,Brunei,2,3,AFF Championship qualification,Yangon,Myanmar,True
+2012-10-11,Myanmar,Cambodia,3,0,AFF Championship qualification,Yangon,Myanmar,False
+2013-03-22,Turkmenistan,Cambodia,7,0,AFC Challenge Cup qualification,Manila,Philippines,True
+2013-03-24,Philippines,Cambodia,8,0,AFC Challenge Cup qualification,Manila,Philippines,False
+2013-11-19,Cambodia,Guam,0,2,Friendly,Phnom Penh,Cambodia,False
+2013-11-24,Singapore,Cambodia,1,0,Friendly,Hougang,Singapore,False
+2014-09-20,Malaysia,Cambodia,4,1,Friendly,Shah Alam,Malaysia,False
+2014-09-25,Indonesia,Cambodia,1,0,Friendly,Malang,Indonesia,False
+2014-10-12,Laos,Cambodia,3,2,AFF Championship qualification,Vientiane,Laos,False
+2014-10-16,Timor-Leste,Cambodia,2,3,AFF Championship qualification,Vientiane,Laos,True
+2014-10-18,Cambodia,Myanmar,0,1,AFF Championship qualification,Vientiane,Laos,True
+2014-10-20,Cambodia,Brunei,1,0,AFF Championship qualification,Vientiane,Laos,True
+2014-11-14,Philippines,Cambodia,3,0,Friendly,Manila,Philippines,False
+2014-11-17,Singapore,Cambodia,4,2,Friendly,Yishun,Singapore,False
+2015-03-12,Cambodia,Macau,3,0,FIFA World Cup qualification,Phnom Penh,Cambodia,False
+2015-03-17,Macau,Cambodia,1,1,FIFA World Cup qualification,Taipa,Macau,False
+2015-06-02,Cambodia,Laos,1,1,Friendly,Phnom Penh,Cambodia,False
+2015-06-05,Cambodia,Myanmar,1,0,Friendly,Samut Sakhon,Thailand,True
+2015-06-11,Cambodia,Singapore,0,4,FIFA World Cup qualification,Phnom Penh,Cambodia,False
+2015-06-16,Cambodia,Afghanistan,0,1,FIFA World Cup qualification,Phnom Penh,Cambodia,False
+2015-08-20,Cambodia,Bhutan,2,0,Friendly,Phnom Penh,Cambodia,False
+2015-08-29,Laos,Cambodia,2,1,Friendly,Bangkok,Thailand,True
+2015-09-03,Japan,Cambodia,3,0,FIFA World Cup qualification,Saitama,Japan,False
+2015-09-08,Cambodia,Syria,0,6,FIFA World Cup qualification,Phnom Penh,Cambodia,False
+2015-10-13,Singapore,Cambodia,2,1,FIFA World Cup qualification,Kallang,Singapore,False
+2015-11-03,Cambodia,Brunei,6,1,Friendly,Phnom Penh,Cambodia,False
+2015-11-12,Afghanistan,Cambodia,3,0,FIFA World Cup qualification,Tehran,Iran,True
+2015-11-17,Cambodia,Japan,0,2,FIFA World Cup qualification,Phnom Penh,Cambodia,False
+2016-01-11,Maldives,Cambodia,3,2,Friendly,Jessore,Bangladesh,True
+2016-03-24,Syria,Cambodia,6,0,FIFA World Cup qualification,Seeb,Oman,True
+2016-05-29,Cambodia,Timor-Leste,2,0,Friendly,Phnom Penh,Cambodia,False
+2016-06-07,Cambodia,Taiwan,2,0,AFC Asian Cup qualification,Phnom Penh,Cambodia,False
+2016-07-28,Cambodia,Singapore,2,1,Friendly,Phnom Penh,Cambodia,False
+2016-09-01,Hong Kong,Cambodia,4,2,Friendly,Kowloon,Hong Kong,False
+2016-10-06,Cambodia,Hong Kong,0,2,Friendly,Phnom Penh,Cambodia,False
+2016-10-09,Cambodia,Sri Lanka,4,0,Friendly,Phnom Penh,Cambodia,False
+2016-10-15,Cambodia,Laos,2,1,AFF Championship qualification,Phnom Penh,Cambodia,False
+2016-10-18,Cambodia,Brunei,3,0,AFF Championship qualification,Phnom Penh,Cambodia,False
+2016-10-21,Cambodia,Timor-Leste,3,2,AFF Championship qualification,Phnom Penh,Cambodia,False
+2016-11-13,Singapore,Cambodia,1,0,Friendly,Bishan,Singapore,False
+2016-11-20,Malaysia,Cambodia,3,2,AFF Championship,Yangon,Myanmar,True
+2016-11-23,Myanmar,Cambodia,3,1,AFF Championship,Yangon,Myanmar,False
+2016-11-26,Vietnam,Cambodia,2,1,AFF Championship,Naypyidaw,Myanmar,True
+2017-01-14,Cambodia,Saudi Arabia,2,7,Friendly,Abu Dhabi,United Arab Emirates,True
+2017-03-22,Cambodia,India,2,3,Friendly,Phnom Penh,Cambodia,False
+2017-03-28,Jordan,Cambodia,7,0,AFC Asian Cup qualification,Amman,Jordan,False
+2017-06-08,Cambodia,Indonesia,0,2,Friendly,Phnom Penh,Cambodia,False
+2017-06-13,Cambodia,Afghanistan,1,0,AFC Asian Cup qualification,Phnom Penh,Cambodia,False
+2017-09-05,Cambodia,Vietnam,1,2,AFC Asian Cup qualification,Phnom Penh,Cambodia,False
+2017-10-10,Vietnam,Cambodia,5,0,AFC Asian Cup qualification,Hanoi,Vietnam,False
+2017-11-09,Cambodia,Myanmar,1,2,Friendly,Phnom Penh,Cambodia,False
+2017-11-14,Cambodia,Jordan,0,1,AFC Asian Cup qualification,Phnom Penh,Cambodia,False
+2018-03-21,Laos,Cambodia,0,1,Friendly,Vientiane,Laos,False
+2018-03-27,Afghanistan,Cambodia,2,1,AFC Asian Cup qualification,Dushanbe,Tajikistan,True
+2018-09-10,Cambodia,Malaysia,1,3,Friendly,Phnom Penh,Cambodia,False
+2018-10-12,Cambodia,Timor-Leste,2,2,Friendly,Phnom Penh,Cambodia,False
+2018-10-16,Cambodia,Singapore,1,2,Friendly,Phnom Penh,Cambodia,False
+2018-11-08,Cambodia,Malaysia,0,1,AFF Championship,Phnom Penh,Cambodia,False
+2018-11-12,Myanmar,Cambodia,4,1,AFF Championship,Mandalay,Myanmar,False
+2018-11-20,Cambodia,Laos,3,1,AFF Championship,Phnom Penh,Cambodia,False
+2018-11-24,Vietnam,Cambodia,3,0,AFF Championship,Hanoi,Vietnam,False
+2019-03-09,Cambodia,Bangladesh,0,1,Friendly,Phnom Penh,Cambodia,False
+2019-06-06,Cambodia,Pakistan,2,0,FIFA World Cup qualification,Phnom Penh,Cambodia,False
+2019-06-11,Pakistan,Cambodia,1,2,FIFA World Cup qualification,Doha,Qatar,True
+2019-09-05,Cambodia,Hong Kong,1,1,FIFA World Cup qualification,Phnom Penh,Cambodia,False
+2019-09-10,Cambodia,Bahrain,0,1,FIFA World Cup qualification,Phnom Penh,Cambodia,False
+2019-10-10,Iran,Cambodia,14,0,FIFA World Cup qualification,Tehran,Iran,False
+2019-10-15,Cambodia,Iraq,0,4,FIFA World Cup qualification,Phnom Penh,Cambodia,False
+2019-11-14,Cambodia,Mongolia,1,1,Friendly,Phnom Penh,Cambodia,False
+2019-11-19,Hong Kong,Cambodia,2,0,FIFA World Cup qualification,Hong Kong,Hong Kong,False
+2021-06-03,Bahrain,Cambodia,8,0,FIFA World Cup qualification,Riffa,Bahrain,False
+2021-06-07,Iraq,Cambodia,4,1,FIFA World Cup qualification,Arad,Iran,True
+2021-06-11,Cambodia,Iran,0,10,FIFA World Cup qualification,Isa Town,Bahrain,True
+2021-10-09,Guam,Cambodia,0,1,AFC Asian Cup qualification,Isa Town,Bahrain,True
+2021-10-12,Cambodia,Guam,2,1,AFC Asian Cup qualification,Isa Town,Bahrain,True
+2021-12-06,Cambodia,Malaysia,1,3,AFF Championship,Bishan,Singapore,True
+2021-12-09,Indonesia,Cambodia,4,2,AFF Championship,Bishan,Singapore,True
+2021-12-15,Cambodia,Laos,3,0,AFF Championship,Bishan,Singapore,True
+2021-12-19,Vietnam,Cambodia,4,0,AFF Championship,Bishan,Singapore,True
+2022-06-02,Cambodia,Timor-Leste,2,1,Friendly,Phnom Penh,Cambodia,False
+2022-06-08,India,Cambodia,2,0,AFC Asian Cup qualification,Kolkota,India,False
+2022-06-11,Cambodia,Hong Kong,0,3,AFC Asian Cup qualification,Kolkota,India,True
+2022-06-14,Afghanistan,Cambodia,2,2,AFC Asian Cup qualification,Kolkota,India,True
+2022-09-22,Cambodia,Bangladesh,0,1,Friendly,Phnom Penh,Cambodia,False
+2022-12-09,Malaysia,Cambodia,4,0,Friendly,Kuala Lumpur,Malaysia,False
+2022-12-20,Cambodia,Philippines,3,2,AFF Championship,Phnom Penh,Cambodia,False
+2022-12-23,Indonesia,Cambodia,2,1,AFF Championship,Jakarta,Indonesia,False
+2022-12-29,Cambodia,Brunei,5,1,AFF Championship,Phnom Penh,Cambodia,False
+2023-01-02,Thailand,Cambodia,3,1,AFF Championship,Pathum Thani,Thailand,False
+2023-06-15,Cambodia,Bangladesh,0,1,Friendly,Phnom Penh,Cambodia,False
+2023-09-07,Cambodia,Hong Kong,1,1,Friendly,Phnom Penh,Cambodia,False
+2023-09-11,Cambodia,Macau,4,0,Friendly,Phnom Penh,Cambodia,False
+2023-10-12,Cambodia,Pakistan,0,0,FIFA World Cup qualification,Phnom Penh,Cambodia,False
+2023-10-17,Pakistan,Cambodia,1,0,FIFA World Cup qualification,Islamabad,Pakistan,False
+2024-03-22,Equatorial Guinea,Cambodia,2,0,FIFA Series,Jeddah,Saudi Arabia,True
+2024-03-26,Cambodia,Guyana,1,4,FIFA Series,Jeddah,Saudi Arabia,True
+2024-06-07,Cambodia,Mongolia,2,0,Friendly,Phnom Penh,Cambodia,False
+2024-06-11,Mongolia,Cambodia,2,1,Friendly,Ulaanbaatar,Mongolia,False
+2024-09-05,Sri Lanka,Cambodia,0,0,AFC Asian Cup qualification,Colombo,Sri Lanka,False
+2024-09-10,Cambodia,Sri Lanka,2,2,AFC Asian Cup qualification,Phnom Penh,Cambodia,False
+2024-10-11,Cambodia,Taiwan,3,2,Friendly,Phnom Penh,Cambodia,False
+2024-10-15,Hong Kong,Cambodia,3,0,Friendly,Hong Kong,Hong Kong,False
+2024-12-08,Cambodia,Malaysia,2,2,ASEAN Championship,Phnom Penh,Cambodia,False
+2024-12-11,Singapore,Cambodia,2,1,ASEAN Championship,Singapore,Singapore,False
+2024-12-17,Cambodia,Timor-Leste,2,1,ASEAN Championship,Phnom Penh,Cambodia,False
+2024-12-20,Thailand,Cambodia,3,2,ASEAN Championship,Bangkok,Thailand,False
+2025-03-19,Vietnam,Cambodia,2,1,Friendly,Thu Dau Mot,Vietnam,False
+2025-03-25,Cambodia,Aruba,1,2,Friendly,Phnom Penh,Cambodia,False

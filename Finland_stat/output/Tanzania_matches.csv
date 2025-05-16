@@ -1,0 +1,586 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1945-03-28,Uganda,Tanzania,7,0,Friendly,Kampala,Uganda,False
+1945-08-20,Uganda,Tanzania,7,0,Friendly,Kampala,Uganda,False
+1946-09-18,Kenya,Tanzania,3,0,Friendly,Nairobi,Kenya,False
+1947-09-18,Tanzania,Zanzibar,3,1,Friendly,Dar es Salaam,Tanganyika,False
+1947-09-20,Tanzania,Uganda,2,4,Friendly,Dar es Salaam,Tanganyika,False
+1948-09-23,Uganda,Tanzania,6,0,Friendly,Kampala,Uganda,False
+1949-12-08,Kenya,Tanzania,0,2,Friendly,Zanzibar City,Zanzibar,True
+1950-10-10,Tanzania,Zanzibar,4,0,Friendly,Nairobi,Kenya,True
+1950-10-14,Kenya,Tanzania,1,1,Friendly,Nairobi,Kenya,False
+1950-10-16,Kenya,Tanzania,1,2,Friendly,Nairobi,Kenya,False
+1951-09-26,Tanzania,Zanzibar,1,0,Friendly,Dar es Salaam,Tanganyika,False
+1951-09-29,Tanzania,Kenya,3,2,Friendly,Dar es Salaam,Tanganyika,False
+1952-09-23,Uganda,Tanzania,4,0,Friendly,Kampala,Uganda,False
+1952-09-26,Tanzania,Zanzibar,1,3,Friendly,Kampala,Uganda,True
+1953-09-30,Kenya,Tanzania,7,1,Friendly,Zanzibar City,Zanzibar,True
+1954-10-06,Tanzania,Uganda,3,5,Friendly,Nairobi,Kenya,True
+1955-10-15,Tanzania,Uganda,1,5,Friendly,Dar es Salaam,Tanganyika,False
+1956-11-27,Tanzania,Kenya,0,9,Friendly,Kampala,Uganda,True
+1956-11-30,Tanzania,Zanzibar,2,3,Friendly,Kampala,Uganda,True
+1957-09-03,Tanzania,Uganda,2,4,Friendly,Zanzibar City,Zanzibar,True
+1957-09-05,Zanzibar,Tanzania,3,3,Friendly,Zanzibar City,Zanzibar,False
+1958-10-05,Kenya,Tanzania,3,1,Friendly,Nairobi,Kenya,False
+1958-10-07,Uganda,Tanzania,2,0,Friendly,Nairobi,Kenya,True
+1958-10-10,Tanzania,Zanzibar,3,2,Friendly,Nairobi,Kenya,True
+1959-10-03,Tanzania,Zanzibar,2,2,Friendly,Dar es Salaam,Tanganyika,False
+1959-10-06,Tanzania,Uganda,2,2,Friendly,Dar es Salaam,Tanganyika,False
+1959-10-10,Tanzania,Kenya,0,2,Friendly,Dar es Salaam,Tanganyika,False
+1960-10-08,Uganda,Tanzania,1,0,Friendly,Kampala,Uganda,False
+1960-10-12,Kenya,Tanzania,5,0,Friendly,Kampala,Uganda,True
+1960-10-14,Tanzania,Zanzibar,4,2,Friendly,Kampala,Uganda,True
+1961-10-01,Kenya,Tanzania,0,0,Friendly,Mombasa,Kenya,False
+1961-10-03,Tanzania,Uganda,3,1,Friendly,Mombasa,Kenya,True
+1961-10-06,Tanzania,Zanzibar,3,0,Friendly,Mombasa,Kenya,True
+1961-12-09,Tanzania,Kenya,1,3,Friendly,Dar es Salaam,Tanganyika,False
+1962-07-28,Kenya,Tanzania,4,3,Friendly,Nairobi,Kenya,False
+1962-10-18,Tanzania,Ghana,2,6,Friendly,Dar es Salaam,Tanganyika,False
+1962-11-04,Tanzania,Uganda,3,1,Friendly,Dar es Salaam,Tanganyika,False
+1962-12-08,Tanzania,Malawi,6,2,Friendly,Dar es Salaam,Tanganyika,False
+1962-12-15,Tanzania,Zanzibar,6,0,Friendly,Dar es Salaam,Tanganyika,False
+1963-05-02,Tanzania,Ethiopia,0,2,Friendly,Dar es Salaam,Tanganyika,False
+1963-09-28,Kenya,Tanzania,4,1,Friendly,Nairobi,Kenya,False
+1963-10-02,Tanzania,Uganda,1,1,Friendly,Nairobi,Kenya,True
+1963-10-04,Tanzania,Zanzibar,2,1,Friendly,Nairobi,Kenya,True
+1963-12-07,Kenya,Tanzania,6,2,Friendly,Nairobi,Kenya,False
+1963-12-13,Tanzania,Uganda,0,5,Friendly,Nairobi,Kenya,True
+1964-07-03,Zambia,Tanzania,3,0,Friendly,Zomba,Nyasaland,True
+1964-09-26,Tanzania,Kenya,1,0,Friendly,Dar es Salaam,Tanzania,False
+1964-09-29,Tanzania,Zanzibar,3,1,Friendly,Dar es Salaam,Tanzania,False
+1964-10-03,Tanzania,Uganda,3,0,Friendly,Dar es Salaam,Tanzania,False
+1965-09-26,Kenya,Tanzania,0,2,Friendly,Kampala,Uganda,True
+1965-09-29,Tanzania,Zanzibar,3,0,Friendly,Kampala,Uganda,True
+1965-10-02,Uganda,Tanzania,1,1,Friendly,Kampala,Uganda,False
+1965-10-23,Kenya,Tanzania,4,2,Friendly,Nairobi,Kenya,False
+1966-06-28,China PR,Tanzania,10,4,Friendly,Beijing,China PR,False
+1966-09-25,Tanzania,Uganda,0,3,Friendly,Zanzibar City,Zanzibar,True
+1966-09-28,Zanzibar,Tanzania,0,4,Friendly,Zanzibar City,Zanzibar,False
+1966-09-30,Tanzania,Kenya,2,3,Friendly,Zanzibar,Tanzania,False
+1967-02-21,Sudan,Tanzania,1,0,Friendly,Khartoum,Sudan,False
+1967-02-23,Kenya,Tanzania,2,0,Friendly,Khartoum,Sudan,True
+1967-05-17,Congo,Tanzania,6,1,Friendly,Brazzaville,Congo,False
+1967-07-06,Tanzania,Zambia,2,2,Friendly,Dar es Salaam,Tanzania,False
+1967-07-08,Tanzania,Zambia,2,1,Friendly,Dar es Salaam,Tanzania,False
+1967-08-01,Mauritania,Tanzania,1,1,Friendly,Nouakchott,Mauritania,False
+1967-08-02,Tanzania,Mauritius,1,0,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+1967-08-16,Mauritius,Tanzania,1,1,African Cup of Nations qualification,Curepipe,Mauritius,False
+1967-09-17,DR Congo,Tanzania,1,0,African Cup of Nations qualification,Kinshasa,Congo-Kinshasa,False
+1967-10-03,Tanzania,Uganda,1,2,Friendly,Nairobi,Kenya,True
+1967-10-09,Kenya,Tanzania,5,3,Friendly,Nairobi,Kenya,False
+1967-10-10,Tanzania,Zanzibar,0,3,Friendly,Nairobi,Kenya,True
+1967-10-14,Tanzania,DR Congo,0,1,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+1968-09-28,Tanzania,Uganda,0,2,Friendly,Dar es Salaam,Tanzania,False
+1968-10-01,Tanzania,Kenya,3,3,Friendly,Dar es Salaam,Tanzania,False
+1968-10-05,Tanzania,Zanzibar,3,0,Friendly,Dar es Salaam,Tanzania,False
+1968-10-22,Zambia,Tanzania,7,1,Friendly,Kitwe,Zambia,False
+1968-10-24,Zambia,Tanzania,2,1,Friendly,Lusaka,Zambia,False
+1969-01-06,Kenya,Tanzania,2,1,Friendly,Addis Ababa,Ethiopia,True
+1969-01-10,Sudan,Tanzania,3,0,Friendly,Addis Ababa,Ethiopia,True
+1969-02-16,Kenya,Tanzania,0,1,African Cup of Nations qualification,Nairobi,Kenya,False
+1969-03-01,Tanzania,Kenya,1,1,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+1969-05-25,Ethiopia,Tanzania,7,0,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+1969-05-31,Tanzania,Ethiopia,1,2,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+1969-09-27,Uganda,Tanzania,3,0,Friendly,Kampala,Uganda,False
+1969-10-01,Kenya,Tanzania,0,3,Friendly,Kampala,Uganda,True
+1969-10-03,Tanzania,Zanzibar,3,0,Friendly,Kampala,Uganda,True
+1970-06-06,Uganda,Tanzania,1,1,Friendly,Kampala,Uganda,False
+1970-09-27,Tanzania,Kenya,2,0,Friendly,Zanzibar,Tanzania,False
+1970-09-30,Zanzibar,Tanzania,1,2,Friendly,Zanzibar City,Zanzibar,False
+1970-10-02,Tanzania,Uganda,1,4,Friendly,Zanzibar,Tanzania,False
+1970-10-17,Tanzania,Zambia,1,1,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+1970-11-01,Zambia,Tanzania,5,1,African Cup of Nations qualification,Lusaka,Zambia,False
+1971-04-26,Tanzania,DR Congo,0,1,Friendly,Dar es Salaam,Tanzania,False
+1971-07-14,Tanzania,Guinea,3,2,Friendly,Dar es Salaam,Tanzania,False
+1971-09-25,Kenya,Tanzania,1,1,Friendly,Nairobi,Kenya,False
+1971-09-29,Uganda,Tanzania,0,0,Friendly,Nairobi,Kenya,True
+1971-10-02,Tanzania,Zanzibar,1,1,Friendly,Nairobi,Kenya,True
+1971-11-14,Guinea,Tanzania,3,2,Friendly,Conakry,Guinea,False
+1971-12-05,Tanzania,Burundi,4,1,Friendly,Dar es Salaam,Tanzania,False
+1971-12-09,Tanzania,China PR,1,1,Friendly,Dar es Salaam,Tanzania,False
+1971-12-12,Tanzania,China PR,3,4,Friendly,Dar es Salaam,Tanzania,False
+1972-04-29,Madagascar,Tanzania,0,1,Friendly,Antananarivo,Madagascar,False
+1972-07-04,Tanzania,Sudan,3,0,Friendly,Dar es Salaam,Tanzania,False
+1972-07-06,Tanzania,Nigeria,0,0,Friendly,Dar es Salaam,Tanzania,False
+1972-07-27,Uganda,Tanzania,1,1,Friendly,Kampala,Uganda,False
+1972-11-06,Nigeria,Tanzania,2,1,Friendly,Benin City,Nigeria,False
+1972-11-11,Nigeria,Tanzania,3,2,Friendly,Lagos,Nigeria,False
+1972-11-18,Sierra Leone,Tanzania,2,2,Friendly,Freetown,Sierra Leone,False
+1972-11-25,Tanzania,Ethiopia,1,1,FIFA World Cup qualification,Dar es Salaam,Tanzania,False
+1972-12-03,Ethiopia,Tanzania,0,0,FIFA World Cup qualification,Addis Ababa,Ethiopia,False
+1972-12-10,Ethiopia,Tanzania,3,0,FIFA World Cup qualification,Addis Ababa,Ethiopia,False
+1973-01-08,Algeria,Tanzania,4,2,All-African Games,Lagos,Nigeria,True
+1973-01-10,Ghana,Tanzania,1,0,All-African Games,Lagos,Nigeria,True
+1973-01-12,Nigeria,Tanzania,2,1,All-African Games,Lagos,Nigeria,False
+1973-04-08,Ethiopia,Tanzania,2,1,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+1973-04-08,Tanzania,Ethiopia,3,0,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+1973-05-27,Tanzania,Mauritius,1,1,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+1973-06-14,Mauritius,Tanzania,1,1,African Cup of Nations qualification,Port Louis,Mauritius,False
+1973-07-05,Tanzania,Congo,2,1,Friendly,Dar es Salaam,Tanzania,False
+1973-07-16,Egypt,Tanzania,10,1,Friendly,Tunis,Tunisia,True
+1973-09-25,Tanzania,Zanzibar,1,0,CECAFA Cup,Kampala,Uganda,True
+1973-09-27,Kenya,Tanzania,1,2,CECAFA Cup,Kampala,Uganda,True
+1973-09-29,Uganda,Tanzania,2,1,CECAFA Cup,Kampala,Uganda,False
+1974-07-07,Malawi,Tanzania,1,0,Friendly,Lilongwe,Malawi,False
+1974-07-22,Silesia,Tanzania,7,2,Friendly,Chorzów,Poland,False
+1974-11-07,Tanzania,Uganda,1,1,CECAFA Cup,Zanzibar,Tanzania,False
+1974-12-29,Malawi,Tanzania,1,1,Friendly,Lilongwe,Malawi,False
+1974-12-31,Malawi,Tanzania,3,3,Friendly,Lilongwe,Malawi,False
+1975-02-23,Tanzania,Malawi,3,1,Friendly,Dar es Salaam,Tanzania,False
+1975-02-25,Tanzania,Malawi,2,0,Friendly,Dar es Salaam,Tanzania,False
+1975-06-22,Tanzania,Zambia,1,1,Friendly,Maputo,Mozambique,True
+1975-06-29,Mozambique,Tanzania,2,1,Friendly,Maputo,Mozambique,False
+1975-10-18,Tanzania,Kenya,1,2,Friendly,Dar es Salaam,Tanzania,False
+1975-11-01,Malawi,Tanzania,3,1,CECAFA Cup,Ndola,Zambia,True
+1975-11-05,Tanzania,Zanzibar,4,0,CECAFA Cup,Mufulira,Zambia,True
+1975-11-07,Kenya,Tanzania,3,2,CECAFA Cup,Lusaka,Zambia,True
+1976-02-20,Nigeria,Tanzania,0,0,Friendly,Lagos,Nigeria,False
+1976-11-06,Tanzania,Kenya,1,1,CECAFA Cup,Zanzibar,Tanzania,False
+1976-11-07,Tanzania,Malawi,1,1,CECAFA Cup,Zanzibar,Tanzania,False
+1976-11-16,Tanzania,Zambia,2,3,Friendly,Dar es Salaam,Tanzania,False
+1977-02-01,Tanzania,Mozambique,2,1,Friendly,Dar es Salaam,Tanzania,False
+1977-07-06,Malawi,Tanzania,0,0,Friendly,Zomba,Malawi,False
+1977-07-08,Malawi,Tanzania,1,0,Friendly,Zomba,Malawi,False
+1977-11-27,Tanzania,Zambia,2,4,CECAFA Cup,Mogadishu,Somalia,True
+1977-12-01,Malawi,Tanzania,0,0,CECAFA Cup,Mogadishu,Somalia,True
+1978-10-15,Tanzania,Kenya,1,0,Friendly,Arusha,Tanzania,False
+1978-10-20,Kenya,Tanzania,0,0,Friendly,Nairobi,Kenya,False
+1979-04-16,Mauritius,Tanzania,3,2,African Cup of Nations qualification,Curepipe,Mauritius,False
+1979-04-29,Tanzania,Mauritius,4,0,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+1979-07-15,Malawi,Tanzania,2,0,Friendly,Blantyre,Malawi,False
+1979-07-17,Malawi,Tanzania,2,0,Friendly,Blantyre,Malawi,False
+1979-07-19,Malawi,Tanzania,0,1,Friendly,Blantyre,Malawi,False
+1979-07-29,Madagascar,Tanzania,2,4,Friendly,Antananarivo,Madagascar,False
+1979-08-01,Madagascar,Tanzania,1,0,Friendly,Antananarivo,Madagascar,False
+1979-08-11,Tanzania,Zambia,1,0,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+1979-08-26,Zambia,Tanzania,1,1,African Cup of Nations qualification,Ndola,Zambia,False
+1979-11-03,Kenya,Tanzania,0,0,CECAFA Cup,Nairobi,Kenya,False
+1979-11-06,Tanzania,Zambia,2,2,CECAFA Cup,Nairobi,Kenya,True
+1979-11-09,Tanzania,Uganda,5,3,CECAFA Cup,Nairobi,Kenya,True
+1979-11-13,Malawi,Tanzania,1,1,CECAFA Cup,Mombasa,Kenya,True
+1979-11-14,Malawi,Tanzania,4,0,CECAFA Cup,Nairobi,Kenya,True
+1979-11-16,Tanzania,Zanzibar,2,1,CECAFA Cup,Mombasa,Kenya,True
+1980-03-08,Nigeria,Tanzania,3,1,African Cup of Nations,Lagos,Nigeria,False
+1980-03-12,Egypt,Tanzania,2,1,African Cup of Nations,Lagos,Nigeria,True
+1980-03-15,Ivory Coast,Tanzania,1,1,African Cup of Nations,Lagos,Nigeria,True
+1980-04-20,Tanzania,Zambia,0,2,Friendly,Bulawayo,Zimbabwe,True
+1980-04-21,Mozambique,Tanzania,0,2,Friendly,Bulawayo,Zimbabwe,True
+1980-06-19,Madagascar,Tanzania,2,1,Friendly,Antananarivo,Madagascar,False
+1980-06-22,Madagascar,Tanzania,1,1,Friendly,Antananarivo,Madagascar,False
+1980-07-05,Kenya,Tanzania,3,1,FIFA World Cup qualification,Nairobi,Kenya,False
+1980-07-19,Tanzania,Kenya,5,0,FIFA World Cup qualification,Dar es Salaam,Tanzania,False
+1980-11-01,Tanzania,Madagascar,0,0,Friendly,Dar es Salaam,Tanzania,False
+1980-11-14,Sudan,Tanzania,0,1,CECAFA Cup,Khartoum,Sudan,False
+1980-11-17,Somalia,Tanzania,1,1,CECAFA Cup,Khartoum,Sudan,True
+1980-11-24,Malawi,Tanzania,0,1,CECAFA Cup,Khartoum,Sudan,True
+1980-11-28,Sudan,Tanzania,1,0,CECAFA Cup,Khartoum,Sudan,False
+1980-12-06,Nigeria,Tanzania,1,1,FIFA World Cup qualification,Lagos,Nigeria,False
+1980-12-20,Tanzania,Nigeria,0,2,FIFA World Cup qualification,Dar es Salaam,Tanzania,False
+1981-06-19,Malawi,Tanzania,4,1,Friendly,Blantyre,Malawi,False
+1981-06-21,Malawi,Tanzania,3,1,Friendly,Lilongwe,Malawi,False
+1981-06-23,Malawi,Tanzania,0,0,Friendly,Nchalo,Malawi,False
+1981-10-31,Burundi,Tanzania,1,2,Friendly,Bujumbura,Burundi,False
+1981-11-02,Burundi,Tanzania,0,1,Friendly,Bujumbura,Burundi,False
+1981-11-15,Tanzania,Zanzibar,3,1,CECAFA Cup,Dodoma,Tanzania,False
+1981-11-17,Tanzania,Malawi,2,2,CECAFA Cup,Dar es Salaam,Tanzania,False
+1981-11-20,Tanzania,Kenya,1,0,CECAFA Cup,Dodoma,Tanzania,False
+1981-11-24,Tanzania,Zambia,2,1,CECAFA Cup,Dodoma,Tanzania,False
+1981-11-28,Tanzania,Kenya,0,1,CECAFA Cup,Dar es Salaam,Tanzania,False
+1982-01-17,Ethiopia,Tanzania,0,2,Friendly,Addis Ababa,Ethiopia,False
+1982-01-19,Ethiopia,Tanzania,0,0,Friendly,Addis Ababa,Ethiopia,False
+1982-07-06,Malawi,Tanzania,0,1,Friendly,Blantyre,Malawi,False
+1982-07-08,Malawi,Tanzania,2,0,Friendly,Lilongwe,Malawi,False
+1982-09-12,Tanzania,Uganda,1,1,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+1982-09-26,Uganda,Tanzania,3,2,African Cup of Nations qualification,Kampala,Uganda,False
+1982-11-14,Tanzania,Zimbabwe,0,3,CECAFA Cup,Kampala,Uganda,True
+1982-11-17,Uganda,Tanzania,1,0,CECAFA Cup,Kampala,Uganda,False
+1982-11-19,Malawi,Tanzania,2,0,CECAFA Cup,Kampala,Uganda,True
+1983-10-22,Tanzania,Malawi,1,1,Friendly,Dodoma,Tanzania,False
+1983-10-24,Tanzania,Malawi,0,0,Friendly,Dar es Salaam,Tanzania,False
+1983-10-29,Tanzania,Malawi,1,0,Friendly,Dodoma,Tanzania,False
+1983-11-13,Ethiopia,Tanzania,1,1,CECAFA Cup,Nairobi,Kenya,True
+1983-11-16,Sudan,Tanzania,1,0,CECAFA Cup,Nairobi,Kenya,True
+1983-11-18,Kenya,Tanzania,0,0,CECAFA Cup,Nairobi,Kenya,False
+1983-11-20,Tanzania,Uganda,1,1,CECAFA Cup,Nairobi,Kenya,True
+1984-05-19,Réunion,Tanzania,1,1,Friendly,Saint-Pierre,Réunion,False
+1984-08-04,Tanzania,Uganda,0,1,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+1984-08-18,Uganda,Tanzania,1,3,African Cup of Nations qualification,Kampala,Uganda,False
+1984-10-13,Tanzania,Sudan,1,1,FIFA World Cup qualification,Mwanza,Tanzania,False
+1984-10-27,Sudan,Tanzania,0,0,FIFA World Cup qualification,Khartoum,Sudan,False
+1984-12-01,Uganda,Tanzania,1,1,CECAFA Cup,Kampala,Uganda,False
+1984-12-05,Tanzania,Zambia,1,2,CECAFA Cup,Kampala,Uganda,True
+1984-12-08,Tanzania,Zimbabwe,2,2,CECAFA Cup,Kampala,Uganda,True
+1985-07-06,Malawi,Tanzania,0,0,Friendly,Blantyre,Malawi,False
+1985-07-08,Malawi,Tanzania,2,0,Friendly,Lilongwe,Malawi,False
+1985-07-10,Malawi,Tanzania,0,0,Friendly,Mzuzu,Malawi,False
+1985-10-04,Zimbabwe,Tanzania,1,0,CECAFA Cup,Harare,Zimbabwe,False
+1985-10-08,Kenya,Tanzania,3,2,CECAFA Cup,Harare,Zimbabwe,True
+1986-10-05,Ethiopia,Tanzania,4,2,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+1986-12-07,Angola,Tanzania,1,0,Friendly,Luanda,Angola,False
+1987-03-29,Sudan,Tanzania,1,0,African Cup of Nations qualification,Khartoum,Sudan,False
+1987-04-11,Tanzania,Sudan,1,1,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+1987-12-13,Ethiopia,Tanzania,0,0,CECAFA Cup,Addis Ababa,Ethiopia,False
+1987-12-16,Kenya,Tanzania,3,2,CECAFA Cup,Addis Ababa,Ethiopia,True
+1987-12-19,Tanzania,Zanzibar,0,2,CECAFA Cup,Addis Ababa,Ethiopia,True
+1988-06-09,Seychelles,Tanzania,1,1,Friendly,Victoria,Seychelles,False
+1988-10-01,Tanzania,Eswatini,1,1,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+1988-10-16,Eswatini,Tanzania,1,1,African Cup of Nations qualification,Mbabane,Swaziland,False
+1988-11-06,Malawi,Tanzania,0,0,CECAFA Cup,Lilongwe,Malawi,False
+1988-11-10,Kenya,Tanzania,2,0,CECAFA Cup,Lilongwe,Malawi,True
+1988-11-12,Tanzania,Zanzibar,0,1,CECAFA Cup,Lilongwe,Malawi,True
+1989-12-03,Tanzania,Zimbabwe,0,3,CECAFA Cup,Nairobi,Kenya,True
+1989-12-05,Kenya,Tanzania,2,1,CECAFA Cup,Nairobi,Kenya,False
+1989-12-08,Tanzania,Uganda,1,5,CECAFA Cup,Nairobi,Kenya,True
+1990-01-20,Malawi,Tanzania,2,2,Friendly,Lobamba,Swaziland,True
+1990-01-21,Eswatini,Tanzania,0,1,Friendly,Lobamba,Swaziland,False
+1990-01-23,Botswana,Tanzania,0,0,Friendly,Lobamba,Swaziland,True
+1990-04-01,Zambia,Tanzania,2,0,Friendly,Ndola,Zambia,False
+1990-07-06,Malawi,Tanzania,2,0,Friendly,Blantyre,Malawi,False
+1990-07-09,Malawi,Tanzania,1,1,Friendly,Lilongwe,Malawi,False
+1990-07-11,Malawi,Tanzania,0,0,Friendly,Mzuzu,Malawi,False
+1990-08-19,DR Congo,Tanzania,2,0,African Cup of Nations qualification,Kinshasa,Zaïre,False
+1990-09-01,Tanzania,Gabon,0,0,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+1990-11-29,Tanzania,Uganda,1,1,Friendly,Dar es Salaam,Tanzania,False
+1990-12-08,Zanzibar,Tanzania,0,0,CECAFA Cup,Zanzibar City,Zanzibar,False
+1990-12-11,Malawi,Tanzania,1,0,CECAFA Cup,Zanzibar City,Zanzibar,True
+1990-12-14,Tanzania,Zimbabwe,2,0,CECAFA Cup,Zanzibar City,Zanzibar,True
+1990-12-17,Tanzania,Uganda,1,1,Friendly,Zanzibar City,Zanzibar,True
+1990-12-19,Zanzibar,Tanzania,1,2,CECAFA Cup,Zanzibar City,Zanzibar,False
+1991-04-14,Uganda,Tanzania,3,2,African Cup of Nations qualification,Kampala,Uganda,False
+1991-04-27,Tanzania,DR Congo,1,0,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+1991-07-14,Gabon,Tanzania,1,0,African Cup of Nations qualification,Libreville,Gabon,False
+1991-07-29,Tanzania,Uganda,1,1,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+1991-11-09,Tanzania,Kenya,1,1,Friendly,Dar es Salaam,Tanzania,False
+1991-11-16,Tanzania,Kenya,1,2,Friendly,Dar es Salaam,Tanzania,False
+1991-11-24,Sudan,Tanzania,1,1,CECAFA Cup,Kampala,Uganda,True
+1991-11-30,Uganda,Tanzania,5,0,CECAFA Cup,Kampala,Uganda,False
+1992-10-11,Zambia,Tanzania,2,0,FIFA World Cup qualification,Lusaka,Zambia,False
+1992-10-25,Tanzania,Madagascar,0,0,FIFA World Cup qualification,Zanzibar,Tanzania,False
+1992-11-16,Tanzania,Malawi,1,1,CECAFA Cup,Mwanza,Tanzania,False
+1992-11-18,Tanzania,Zanzibar,0,1,CECAFA Cup,Mwanza,Tanzania,False
+1992-11-20,Tanzania,Ethiopia,2,1,CECAFA Cup,Mwanza,Tanzania,False
+1992-11-23,Tanzania,Zambia,1,2,CECAFA Cup,Mwanza,Tanzania,False
+1992-12-19,Tanzania,Namibia,2,0,FIFA World Cup qualification,Mwanza,Tanzania,False
+1993-01-08,Uganda,Tanzania,3,1,Friendly,Kampala,Uganda,False
+1993-01-10,Uganda,Tanzania,2,0,Friendly,Kampala,Uganda,False
+1993-01-16,Tanzania,Zambia,1,3,FIFA World Cup qualification,Mwanza,Tanzania,False
+1993-12-06,Tanzania,Uganda,1,0,Friendly,Nairobi,Kenya,True
+1993-12-10,Kenya,Tanzania,2,1,Friendly,Nairobi,Kenya,False
+1994-09-03,Tanzania,Uganda,4,0,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+1994-10-14,Egypt,Tanzania,5,1,African Cup of Nations qualification,Cairo,Egypt,False
+1994-11-12,Tanzania,Sudan,2,0,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+1994-11-29,Tanzania,Somalia,4,0,CECAFA Cup,Nairobi,Kenya,True
+1994-12-01,Kenya,Tanzania,0,1,CECAFA Cup,Nairobi,Kenya,False
+1994-12-03,Tanzania,Djibouti,3,0,CECAFA Cup,Nairobi,Kenya,True
+1994-12-05,Tanzania,Eritrea,1,0,CECAFA Cup,Nairobi,Kenya,True
+1994-12-08,Tanzania,Uganda,2,2,Friendly,Nairobi,Kenya,True
+1995-01-08,Ethiopia,Tanzania,1,0,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+1995-01-21,Tanzania,Algeria,2,1,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+1995-04-08,Uganda,Tanzania,2,0,African Cup of Nations qualification,Kampala,Uganda,False
+1995-04-22,Tanzania,Egypt,1,2,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+1995-06-03,Sudan,Tanzania,2,1,African Cup of Nations qualification,Khartoum,Sudan,False
+1995-07-15,Tanzania,Ethiopia,2,0,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+1995-07-30,Algeria,Tanzania,2,1,African Cup of Nations qualification,Algiers,Algeria,False
+1995-11-27,Tanzania,Ethiopia,2,2,CECAFA Cup,Jinja,Uganda,True
+1995-12-01,Tanzania,Somalia,7,0,CECAFA Cup,Jinja,Uganda,True
+1996-05-19,Zambia,Tanzania,1,0,Friendly,Lusaka,Zambia,False
+1996-05-21,Zambia,Tanzania,0,0,Friendly,Kitwe,Zambia,False
+1996-06-08,Tanzania,Ghana,0,0,FIFA World Cup qualification,Dar es Salaam,Tanzania,False
+1996-06-12,Tanzania,Sudan,0,0,Friendly,Dar es Salaam,Tanzania,False
+1996-06-17,Ghana,Tanzania,2,1,FIFA World Cup qualification,Kumasi,Ghana,False
+1996-07-06,Malawi,Tanzania,3,2,Friendly,Blantyre,Malawi,False
+1996-07-08,Malawi,Tanzania,1,0,Friendly,Lilongwe,Malawi,False
+1996-07-10,Malawi,Tanzania,1,1,Friendly,Mzuzu,Malawi,False
+1996-09-29,Zimbabwe,Tanzania,1,0,Friendly,Harare,Zimbabwe,False
+1996-10-05,Togo,Tanzania,2,1,African Cup of Nations qualification,Lomé,Togo,False
+1996-11-22,Tanzania,Uganda,0,1,CECAFA Cup,Khartoum,Sudan,True
+1996-11-24,Sudan,Tanzania,3,2,CECAFA Cup,Khartoum,Sudan,False
+1996-12-21,Zimbabwe,Tanzania,2,2,Friendly,Harare,Zimbabwe,False
+1997-01-26,Tanzania,DR Congo,1,2,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+1997-02-23,Tanzania,Liberia,1,1,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+1997-03-29,Tanzania,Burkina Faso,3,2,Friendly,Arusha,Tanzania,False
+1997-05-31,Tanzania,Namibia,0,0,COSAFA Cup,Mwanza,Tanzania,False
+1997-06-15,Mozambique,Tanzania,3,0,COSAFA Cup,Maputo,Mozambique,False
+1997-06-22,Tanzania,Togo,1,0,African Cup of Nations qualification,Arusha,Tanzania,False
+1997-07-05,Tanzania,Zambia,2,2,COSAFA Cup,Arusha,Tanzania,False
+1997-07-13,DR Congo,Tanzania,1,1,African Cup of Nations qualification,Kinshasa,DR Congo,False
+1997-07-27,Liberia,Tanzania,1,0,African Cup of Nations qualification,Monrovia,Liberia,False
+1997-08-09,Malawi,Tanzania,2,2,COSAFA Cup,Lilongwe,Malawi,False
+1997-09-14,Indonesia,Tanzania,3,1,Friendly,Bandung,Indonesia,False
+1997-09-27,Tanzania,Zambia,0,0,Friendly,Dar es Salaam,Tanzania,False
+1997-10-01,Tanzania,Kenya,0,1,Friendly,Dar es Salaam,Tanzania,False
+1997-10-04,Tanzania,Algeria,0,1,Friendly,Dar es Salaam,Tanzania,False
+1998-07-05,Rwanda,Tanzania,2,0,Friendly,Kigali,Rwanda,False
+1998-07-06,Rwanda,Tanzania,2,2,Friendly,Kigali,Rwanda,False
+1998-07-10,Uganda,Tanzania,3,0,Friendly,Kampala,Uganda,False
+1998-08-02,Burundi,Tanzania,1,0,African Cup of Nations qualification,Bujumbura,Burundi,False
+1998-08-15,Tanzania,Burundi,0,1,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+1998-09-11,Saudi Arabia,Tanzania,8,0,Friendly,Dammam,Saudi Arabia,False
+1999-07-26,Tanzania,Djibouti,2,1,CECAFA Cup,Kigali,Rwanda,True
+1999-07-28,Rwanda,Tanzania,0,0,CECAFA Cup,Kigali,Rwanda,False
+1999-07-31,Burundi,Tanzania,1,0,CECAFA Cup,Kigali,Rwanda,True
+2000-03-25,Tanzania,Malawi,1,1,Friendly,Morogoro,Tanzania,False
+2000-03-26,Tanzania,Malawi,4,3,Friendly,Dar es Salaam,Tanzania,False
+2000-04-08,Tanzania,Ghana,0,1,FIFA World Cup qualification,Arusha,Tanzania,False
+2000-04-23,Ghana,Tanzania,3,2,FIFA World Cup qualification,Accra,Ghana,False
+2000-07-01,Tanzania,Mauritius,0,1,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+2000-07-16,Mauritius,Tanzania,3,2,African Cup of Nations qualification,Curepipe,Mauritius,False
+2000-09-24,Zanzibar,Tanzania,0,1,Friendly,Zanzibar City,Zanzibar,False
+2000-10-15,Kenya,Tanzania,3,0,Friendly,Nairobi,Kenya,False
+2001-10-24,Tanzania,DR Congo,2,2,Friendly,Arusha,Tanzania,False
+2001-10-27,Tanzania,Kenya,3,1,Friendly,Mwanza,Tanzania,False
+2001-12-09,Burundi,Tanzania,1,2,CECAFA Cup,Kigali,Rwanda,True
+2001-12-11,Uganda,Tanzania,0,1,CECAFA Cup,Kigali,Rwanda,True
+2001-12-13,Tanzania,Djibouti,4,1,CECAFA Cup,Kigali,Rwanda,True
+2002-05-04,Malawi,Tanzania,1,0,Friendly,Blantyre,Malawi,False
+2002-05-11,Kenya,Tanzania,1,0,Friendly,Nairobi,Kenya,False
+2002-05-18,Tanzania,Kenya,0,5,Friendly,Arusha,Tanzania,False
+2002-09-02,Tanzania,Zanzibar,1,1,Friendly,Dar es Salaam,Tanzania,False
+2002-09-08,Benin,Tanzania,4,0,African Cup of Nations qualification,Cotonou,Benin,False
+2002-10-12,Tanzania,Sudan,1,2,African Cup of Nations qualification,Mwanza,Tanzania,False
+2002-10-23,Tanzania,Uganda,0,2,Friendly,Arusha,Tanzania,False
+2002-10-26,Tanzania,South Africa,1,1,Friendly,Dar es Salaam,Tanzania,False
+2002-11-30,Tanzania,Kenya,1,0,CECAFA Cup,Mwanza,Tanzania,False
+2002-12-02,Tanzania,Sudan,1,1,CECAFA Cup,Mwanza,Tanzania,False
+2002-12-05,Tanzania,Burundi,2,0,CECAFA Cup,Mwanza,Tanzania,False
+2002-12-08,Tanzania,Eritrea,1,1,CECAFA Cup,Mwanza,Tanzania,False
+2002-12-11,Tanzania,Rwanda,3,0,CECAFA Cup,Mwanza,Tanzania,False
+2002-12-14,Tanzania,Kenya,2,3,CECAFA Cup,Mwanza,Tanzania,False
+2003-03-12,Tanzania,Uganda,0,0,Friendly,Arusha,Tanzania,False
+2003-03-23,Kenya,Tanzania,4,0,Friendly,Nairobi,Kenya,False
+2003-03-29,Tanzania,Zambia,0,1,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+2003-05-31,Uganda,Tanzania,1,0,Friendly,Kampala,Uganda,False
+2003-06-07,Zambia,Tanzania,2,0,African Cup of Nations qualification,Lusaka,Zambia,False
+2003-06-22,Tanzania,Benin,0,1,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+2003-07-06,Sudan,Tanzania,3,0,African Cup of Nations qualification,Omdurman,Sudan,False
+2003-10-11,Tanzania,Kenya,0,0,FIFA World Cup qualification,Dar es Salaam,Tanzania,False
+2003-11-11,Uganda,Tanzania,2,1,Friendly,Kampala,Uganda,False
+2003-11-15,Kenya,Tanzania,3,0,FIFA World Cup qualification,Nairobi,Kenya,False
+2004-12-13,Zanzibar,Tanzania,4,2,CECAFA Cup,Addis Ababa,Ethiopia,True
+2004-12-15,Tanzania,Burundi,0,2,CECAFA Cup,Addis Ababa,Ethiopia,True
+2004-12-17,Ethiopia,Tanzania,2,0,CECAFA Cup,Addis Ababa,Ethiopia,False
+2004-12-19,Tanzania,Rwanda,1,5,CECAFA Cup,Addis Ababa,Ethiopia,True
+2005-11-06,Zanzibar,Tanzania,0,1,Friendly,Zanzibar City,Zanzibar,False
+2005-11-09,Tanzania,Zanzibar,1,0,Friendly,Morogoro,Tanzania,False
+2005-11-28,Burundi,Tanzania,1,2,CECAFA Cup,Kigali,Rwanda,True
+2005-12-02,Tanzania,Zanzibar,1,1,CECAFA Cup,Kigali,Rwanda,True
+2005-12-04,Eritrea,Tanzania,0,1,CECAFA Cup,Kigali,Rwanda,True
+2005-12-06,Rwanda,Tanzania,3,1,CECAFA Cup,Kigali,Rwanda,False
+2006-04-01,Tanzania,Zanzibar,2,2,Friendly,Dar es Salaam,Tanzania,False
+2006-06-26,Mauritius,Tanzania,1,2,Friendly,Victoria,Seychelles,True
+2006-06-30,Seychelles,Tanzania,2,1,Friendly,Victoria,Seychelles,False
+2006-07-30,Tanzania,Rwanda,1,0,Friendly,Dar es Salaam,Tanzania,False
+2006-08-26,Tanzania,Zanzibar,1,0,Friendly,Dar es Salaam,Tanzania,False
+2006-09-02,Tanzania,Burkina Faso,2,1,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+2006-09-30,Tanzania,Kenya,0,0,Friendly,Dar es Salaam,Tanzania,False
+2006-10-08,Mozambique,Tanzania,0,0,African Cup of Nations qualification,Maputo,Mozambique,False
+2006-11-18,Tanzania,Angola,1,1,Friendly,Dar es Salaam,Tanzania,False
+2006-11-25,Ethiopia,Tanzania,1,2,CECAFA Cup,Addis Ababa,Ethiopia,False
+2006-11-28,Malawi,Tanzania,1,2,CECAFA Cup,Addis Ababa,Ethiopia,True
+2006-12-01,Tanzania,Djibouti,3,0,CECAFA Cup,Addis Ababa,Ethiopia,True
+2006-12-05,Tanzania,Rwanda,1,2,CECAFA Cup,Addis Ababa,Ethiopia,True
+2006-12-09,Tanzania,DR Congo,2,0,Friendly,Dar es Salaam,Tanzania,False
+2007-03-24,Senegal,Tanzania,4,0,African Cup of Nations qualification,Dakar,Senegal,False
+2007-05-26,Uganda,Tanzania,1,1,Friendly,Kampala,Uganda,False
+2007-06-02,Tanzania,Senegal,1,1,African Cup of Nations qualification,Mwanza,Tanzania,False
+2007-06-09,Tanzania,Zambia,1,1,Friendly,Morogoro,Tanzania,False
+2007-06-16,Burkina Faso,Tanzania,0,1,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+2007-09-01,Tanzania,Uganda,1,0,Friendly,Dar es Salaam,Tanzania,False
+2007-09-08,Tanzania,Mozambique,0,1,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+2007-11-21,Tanzania,Zambia,1,0,Friendly,Dar es Salaam,Tanzania,False
+2007-12-08,Tanzania,Kenya,2,1,CECAFA Cup,Dar es Salaam,Tanzania,False
+2007-12-12,Tanzania,Somalia,1,0,CECAFA Cup,Dar es Salaam,Tanzania,False
+2007-12-15,Tanzania,Burundi,0,0,CECAFA Cup,Dar es Salaam,Tanzania,False
+2007-12-17,Tanzania,Sudan,1,2,CECAFA Cup,Dar es Salaam,Tanzania,False
+2008-04-04,Yemen,Tanzania,2,1,Friendly,Sana'a,Yemen,False
+2008-05-25,Tanzania,Malawi,1,1,Friendly,Dar es Salaam,Tanzania,False
+2008-05-31,Tanzania,Mauritius,1,1,FIFA World Cup qualification,Dar es Salaam,Tanzania,False
+2008-06-07,Cape Verde,Tanzania,1,0,FIFA World Cup qualification,Praia,Cape Verde,False
+2008-06-14,Tanzania,Cameroon,0,0,FIFA World Cup qualification,Dar es Salaam,Tanzania,False
+2008-06-21,Cameroon,Tanzania,2,1,FIFA World Cup qualification,Yaoundé,Cameroon,False
+2008-08-20,Tanzania,Ghana,1,1,Friendly,Arusha,Tanzania,False
+2008-09-06,Mauritius,Tanzania,1,4,FIFA World Cup qualification,Curepipe,Mauritius,False
+2008-10-11,Tanzania,Cape Verde,3,1,FIFA World Cup qualification,Dar es Salaam,Tanzania,False
+2008-11-19,Tanzania,Mozambique,1,0,Friendly,Dar es Salaam,Tanzania,False
+2009-01-03,Somalia,Tanzania,1,0,CECAFA Cup,Kampala,Uganda,True
+2009-01-05,Tanzania,Zanzibar,2,1,CECAFA Cup,Kampala,Uganda,True
+2009-01-07,Rwanda,Tanzania,0,2,CECAFA Cup,Kampala,Uganda,True
+2009-01-09,Uganda,Tanzania,2,1,CECAFA Cup,Kampala,Uganda,False
+2009-01-11,Kenya,Tanzania,2,1,CECAFA Cup,Kampala,Uganda,True
+2009-01-13,Tanzania,Burundi,3,2,CECAFA Cup,Kampala,Uganda,True
+2009-02-11,Tanzania,Zimbabwe,0,0,Friendly,Dar es Salaam,Tanzania,False
+2009-05-09,Tanzania,DR Congo,0,2,Friendly,Dar es Salaam,Tanzania,False
+2009-06-03,Tanzania,New Zealand,2,1,Friendly,Dar es Salaam,Tanzania,False
+2009-08-12,Rwanda,Tanzania,1,2,Friendly,Kigali,Rwanda,False
+2009-11-05,Egypt,Tanzania,5,1,Friendly,Aswan,Egypt,False
+2009-11-08,Yemen,Tanzania,1,1,Friendly,Sana'a,Yemen,False
+2009-11-11,Yemen,Tanzania,2,1,Friendly,Sana'a,Yemen,False
+2009-11-29,Uganda,Tanzania,2,0,CECAFA Cup,Mumias,Kenya,True
+2009-12-01,Zanzibar,Tanzania,0,1,CECAFA Cup,Mumias,Kenya,True
+2009-12-04,Tanzania,Burundi,1,0,CECAFA Cup,Mumias,Kenya,True
+2009-12-08,Tanzania,Eritrea,4,0,CECAFA Cup,Nairobi,Kenya,True
+2009-12-10,Tanzania,Rwanda,1,2,CECAFA Cup,Nairobi,Kenya,True
+2009-12-13,Zanzibar,Tanzania,1,0,CECAFA Cup,Nairobi,Kenya,True
+2010-01-04,Tanzania,Ivory Coast,0,1,Friendly,Dar es Salaam,Tanzania,False
+2010-03-03,Tanzania,Uganda,2,3,Friendly,Mwanza,Tanzania,False
+2010-06-07,Tanzania,Brazil,1,5,Friendly,Dar es Salaam,Tanzania,False
+2010-08-11,Tanzania,Kenya,1,1,Friendly,Dar es Salaam,Tanzania,False
+2010-09-03,Algeria,Tanzania,1,1,African Cup of Nations qualification,Blida,Algeria,False
+2010-10-09,Tanzania,Morocco,0,1,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+2010-11-23,Tanzania,Kenya,1,0,Friendly,Dar es Salaam,Tanzania,False
+2010-11-27,Tanzania,Zambia,0,1,CECAFA Cup,Dar es Salaam,Tanzania,False
+2010-11-30,Tanzania,Somalia,3,0,CECAFA Cup,Dar es Salaam,Tanzania,False
+2010-12-08,Tanzania,Rwanda,1,0,CECAFA Cup,Dar es Salaam,Tanzania,False
+2010-12-10,Tanzania,Uganda,0,0,CECAFA Cup,Dar es Salaam,Tanzania,False
+2011-01-05,Egypt,Tanzania,5,1,Nile Basin Tournament,Cairo,Egypt,False
+2011-01-08,Tanzania,Burundi,1,1,Nile Basin Tournament,Cairo,Egypt,True
+2011-01-11,Uganda,Tanzania,1,1,Nile Basin Tournament,Cairo,Egypt,True
+2011-01-16,Tanzania,Sudan,0,2,Nile Basin Tournament,Cairo,Egypt,True
+2011-02-09,Tanzania,Palestine,1,0,Friendly,Dar es Salaam,Tanzania,False
+2011-03-26,Tanzania,Central African Republic,2,1,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+2011-04-23,Mozambique,Tanzania,2,0,Friendly,Maputo,Mozambique,False
+2011-05-14,Tanzania,South Africa,0,1,Friendly,Dar es Salaam,Tanzania,False
+2011-06-04,Central African Republic,Tanzania,2,1,African Cup of Nations qualification,Bangui,Central African Republic,False
+2011-09-03,Tanzania,Algeria,1,1,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+2011-10-09,Morocco,Tanzania,3,1,African Cup of Nations qualification,Marrakech,Morocco,False
+2011-11-11,Chad,Tanzania,1,2,FIFA World Cup qualification,N'Djamena,Chad,False
+2011-11-15,Tanzania,Chad,0,1,FIFA World Cup qualification,Dar es Salaam,Tanzania,False
+2011-11-26,Tanzania,Rwanda,0,1,CECAFA Cup,Dar es Salaam,Tanzania,False
+2011-11-29,Tanzania,Djibouti,3,0,CECAFA Cup,Dar es Salaam,Tanzania,False
+2011-12-03,Tanzania,Zimbabwe,1,2,CECAFA Cup,Dar es Salaam,Tanzania,False
+2011-12-06,Tanzania,Malawi,1,0,CECAFA Cup,Dar es Salaam,Tanzania,False
+2011-12-08,Tanzania,Uganda,1,3,CECAFA Cup,Dar es Salaam,Tanzania,False
+2011-12-10,Tanzania,Sudan,0,1,CECAFA Cup,Dar es Salaam,Tanzania,False
+2012-02-23,Tanzania,DR Congo,0,0,Friendly,Dar es Salaam,Tanzania,False
+2012-02-29,Tanzania,Mozambique,1,1,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+2012-05-26,Tanzania,Malawi,0,0,Friendly,Dar es Salaam,Tanzania,False
+2012-06-02,Ivory Coast,Tanzania,2,0,FIFA World Cup qualification,Abidjan,Ivory Coast,False
+2012-06-10,Tanzania,Gambia,2,1,FIFA World Cup qualification,Dar es Salaam,Tanzania,False
+2012-06-17,Mozambique,Tanzania,1,1,African Cup of Nations qualification,Maputo,Mozambique,False
+2012-08-15,Botswana,Tanzania,3,3,Friendly,Molepolole,Botswana,False
+2012-11-14,Tanzania,Kenya,1,0,Friendly,Mwanza,Tanzania,False
+2012-11-25,Tanzania,Sudan,2,0,CECAFA Cup,Kampala,Uganda,True
+2012-11-28,Tanzania,Burundi,0,1,CECAFA Cup,Kampala,Uganda,True
+2012-12-01,Somalia,Tanzania,0,7,CECAFA Cup,Kampala,Uganda,True
+2012-12-03,Rwanda,Tanzania,0,2,CECAFA Cup,Kampala,Uganda,True
+2012-12-06,Uganda,Tanzania,3,0,CECAFA Cup,Kampala,Uganda,False
+2012-12-08,Tanzania,Zanzibar,1,1,CECAFA Cup,Kampala,Uganda,True
+2012-12-22,Tanzania,Zambia,1,0,Friendly,Dar es Salaam,Tanzania,False
+2013-01-11,Ethiopia,Tanzania,2,1,Friendly,Addis Ababa,Ethiopia,False
+2013-02-06,Tanzania,Cameroon,1,0,Friendly,Dar es Salaam,Tanzania,False
+2013-03-24,Tanzania,Morocco,3,1,FIFA World Cup qualification,Dar es Salaam,Tanzania,False
+2013-06-02,Sudan,Tanzania,0,0,Friendly,Addis Ababa,Ethiopia,True
+2013-06-08,Morocco,Tanzania,2,1,FIFA World Cup qualification,Marrakech,Morocco,False
+2013-06-16,Tanzania,Ivory Coast,2,4,FIFA World Cup qualification,Dar es Salaam,Tanzania,False
+2013-09-07,Gambia,Tanzania,2,0,FIFA World Cup qualification,Bakau,Gambia,False
+2013-11-19,Tanzania,Zimbabwe,0,0,Friendly,Dar es Salaam,Tanzania,False
+2013-11-28,Tanzania,Zambia,1,1,CECAFA Cup,Machakos,Kenya,True
+2013-12-01,Somalia,Tanzania,0,1,CECAFA Cup,Nairobi,Kenya,True
+2013-12-04,Tanzania,Burundi,1,0,CECAFA Cup,Nakuru,Kenya,True
+2013-12-07,Uganda,Tanzania,2,2,CECAFA Cup,Mombasa,Kenya,True
+2013-12-10,Kenya,Tanzania,1,0,CECAFA Cup,Nairobi,Kenya,False
+2013-12-12,Tanzania,Zambia,1,1,CECAFA Cup,Nairobi,Kenya,True
+2014-03-05,Namibia,Tanzania,1,1,Friendly,Windhoek,Namibia,False
+2014-04-26,Tanzania,Burundi,0,3,Friendly,Dar es Salaam,Tanzania,False
+2014-05-18,Tanzania,Zimbabwe,1,0,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+2014-05-27,Tanzania,Malawi,1,0,Friendly,Dar es Salaam,Tanzania,False
+2014-06-01,Zimbabwe,Tanzania,2,2,African Cup of Nations qualification,Harare,Zimbabwe,False
+2014-07-20,Tanzania,Mozambique,2,2,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+2014-08-03,Mozambique,Tanzania,2,1,African Cup of Nations qualification,Maputo,Mozambique,False
+2014-09-07,Burundi,Tanzania,2,0,Friendly,Bujumbura,Burundi,False
+2014-10-12,Tanzania,Benin,4,1,Friendly,Dar es Salaam,Tanzania,False
+2014-11-16,Eswatini,Tanzania,1,1,Friendly,Lobamba,Swaziland,False
+2015-03-29,Tanzania,Malawi,1,1,Friendly,Mwanza,Tanzania,False
+2015-05-18,Tanzania,Eswatini,0,1,COSAFA Cup,Phokeng,South Africa,True
+2015-05-20,Madagascar,Tanzania,2,0,COSAFA Cup,Phokeng,South Africa,True
+2015-05-22,Lesotho,Tanzania,1,0,COSAFA Cup,Moruleng-Saulspoort,South Africa,True
+2015-06-07,Rwanda,Tanzania,2,0,Friendly,Kigali,Rwanda,False
+2015-06-14,Egypt,Tanzania,3,0,African Cup of Nations qualification,Alexandria,Egypt,False
+2015-08-28,Tanzania,Libya,1,2,Friendly,Kertepe,Turkey,True
+2015-09-05,Tanzania,Nigeria,0,0,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+2015-10-07,Tanzania,Malawi,2,0,FIFA World Cup qualification,Dar es Salaam,Tanzania,False
+2015-10-11,Malawi,Tanzania,1,0,FIFA World Cup qualification,Blantyre,Malawi,False
+2015-11-14,Tanzania,Algeria,2,2,FIFA World Cup qualification,Dar es Salaam,Tanzania,False
+2015-11-17,Algeria,Tanzania,7,0,FIFA World Cup qualification,Blida,Algeria,False
+2015-11-22,Somalia,Tanzania,0,4,CECAFA Cup,Addis Ababa,Ethiopia,True
+2015-11-24,Rwanda,Tanzania,1,2,CECAFA Cup,Hawassa,Ethiopia,True
+2015-11-28,Ethiopia,Tanzania,1,1,CECAFA Cup,Hawassa,Ethiopia,False
+2015-11-30,Ethiopia,Tanzania,1,1,CECAFA Cup,Addis Ababa,Ethiopia,False
+2016-05-29,Kenya,Tanzania,1,1,Friendly,Nairobi,Kenya,False
+2016-06-04,Tanzania,Egypt,0,2,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+2016-09-03,Nigeria,Tanzania,1,0,African Cup of Nations qualification,Uyo,Nigeria,False
+2016-11-13,Zimbabwe,Tanzania,3,0,Friendly,Harare,Zimbabwe,False
+2017-03-25,Tanzania,Botswana,2,0,Friendly,Dar es Salaam,Tanzania,False
+2017-03-28,Tanzania,Burundi,2,1,Friendly,Dar es Salaam,Tanzania,False
+2017-06-10,Tanzania,Lesotho,1,1,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+2017-06-25,Tanzania,Malawi,2,0,COSAFA Cup,Moruleng,South Africa,True
+2017-06-27,Angola,Tanzania,0,0,COSAFA Cup,Rustenburg,South Africa,True
+2017-06-29,Tanzania,Mauritius,1,1,COSAFA Cup,Moruleng,South Africa,True
+2017-07-02,South Africa,Tanzania,0,1,COSAFA Cup,Rustenburg,South Africa,False
+2017-07-05,Zambia,Tanzania,4,2,COSAFA Cup,Moruleng,South Africa,True
+2017-07-07,Tanzania,Lesotho,0,0,COSAFA Cup,Moruleng,South Africa,True
+2017-10-07,Tanzania,Malawi,1,1,Friendly,Dar es Salaam,Tanzania,False
+2017-11-12,Benin,Tanzania,1,1,Friendly,Cotonou,Benin,False
+2017-12-03,Libya,Tanzania,0,0,CECAFA Cup,Machakos,Kenya,True
+2017-12-07,Tanzania,Zanzibar,1,2,CECAFA Cup,Machakos,Kenya,True
+2017-12-09,Rwanda,Tanzania,2,1,CECAFA Cup,Machakos,Kenya,True
+2017-12-11,Kenya,Tanzania,1,0,CECAFA Cup,Machakos,Kenya,False
+2018-03-22,Algeria,Tanzania,4,1,Friendly,Algiers,Algeria,False
+2018-03-27,Tanzania,DR Congo,2,0,Friendly,Dar es Salaam,Tanzania,False
+2018-09-08,Uganda,Tanzania,0,0,African Cup of Nations qualification,Kira,Uganda,False
+2018-10-12,Cape Verde,Tanzania,3,0,African Cup of Nations qualification,Praia,Cape Verde,False
+2018-10-16,Tanzania,Cape Verde,2,0,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+2018-11-18,Lesotho,Tanzania,1,0,African Cup of Nations qualification,Maseru,Lesotho,False
+2019-03-24,Tanzania,Uganda,3,0,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+2019-06-13,Egypt,Tanzania,1,0,Friendly,Alexandria,Egypt,False
+2019-06-15,Tanzania,Zimbabwe,1,1,Friendly,Cairo,Egypt,True
+2019-06-23,Senegal,Tanzania,2,0,African Cup of Nations,Cairo,Egypt,True
+2019-06-27,Kenya,Tanzania,3,2,African Cup of Nations,Cairo,Egypt,True
+2019-07-01,Tanzania,Algeria,0,3,African Cup of Nations,Cairo,Egypt,True
+2019-09-04,Burundi,Tanzania,1,1,FIFA World Cup qualification,Bujumbura,Burundi,False
+2019-09-08,Tanzania,Burundi,1,1,FIFA World Cup qualification,Dar es Salaam,Tanzania,False
+2019-10-14,Rwanda,Tanzania,0,0,Friendly,Rwanda,Rwanda,False
+2019-11-15,Tanzania,Equatorial Guinea,2,1,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+2019-11-19,Libya,Tanzania,2,1,African Cup of Nations qualification,Monastir,Tunisia,True
+2020-10-11,Tanzania,Burundi,0,1,Friendly,Dar es Salaam,Tanzania,False
+2020-11-13,Tunisia,Tanzania,1,0,African Cup of Nations qualification,Radès,Tunisia,False
+2020-11-17,Tanzania,Tunisia,1,1,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+2021-03-15,Kenya,Tanzania,2,1,Friendly,Nairobi,Kenya,False
+2021-03-25,Equatorial Guinea,Tanzania,1,0,African Cup of Nations qualification,Malabo,Equatorial Guinea,False
+2021-03-28,Tanzania,Libya,1,0,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+2021-06-13,Tanzania,Malawi,2,0,Friendly,Dar es Salaam,Tanzania,False
+2021-09-02,DR Congo,Tanzania,1,1,FIFA World Cup qualification,Lubumbashi,DR Congo,False
+2021-09-07,Tanzania,Madagascar,3,2,FIFA World Cup qualification,Dar es Salaam,Tanzania,False
+2021-10-07,Tanzania,Benin,0,1,FIFA World Cup qualification,Dar es Salaam,Tanzania,False
+2021-10-10,Benin,Tanzania,0,1,FIFA World Cup qualification,Cotonou,Benin,False
+2021-11-11,Tanzania,DR Congo,0,3,FIFA World Cup qualification,Dar es Salaam,Tanzania,False
+2021-11-14,Madagascar,Tanzania,1,1,FIFA World Cup qualification,Antananarivo,Madagascar,False
+2021-12-09,Tanzania,Uganda,0,2,Friendly,Dar es Salaam,Tanzania,False
+2022-03-23,Tanzania,Central African Republic,3,1,Friendly,Dar es Salaam,Tanzania,False
+2022-03-29,Tanzania,Sudan,1,1,Friendly,Dar es Salaam,Tanzania,False
+2022-06-04,Niger,Tanzania,1,1,African Cup of Nations qualification,Cotonou,Benin,True
+2022-06-08,Tanzania,Algeria,0,2,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+2022-09-24,Tanzania,Uganda,1,0,Friendly,Benghazi,Libya,True
+2022-09-27,Libya,Tanzania,2,1,Friendly,Benghazi,Libya,False
+2023-03-24,Uganda,Tanzania,0,1,African Cup of Nations qualification,Ismailia,Egypt,True
+2023-03-28,Tanzania,Uganda,0,1,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+2023-06-18,Tanzania,Niger,1,0,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+2023-09-07,Algeria,Tanzania,0,0,African Cup of Nations qualification,Annaba,Algeria,False
+2023-10-15,Sudan,Tanzania,1,1,Friendly,Taif,Saudi Arabia,True
+2023-11-18,Niger,Tanzania,0,1,FIFA World Cup qualification,Marrakech,Morocco,True
+2023-11-21,Tanzania,Morocco,0,2,FIFA World Cup qualification,Dar es Salaam,Tanzania,False
+2024-01-07,Egypt,Tanzania,2,0,Friendly,Cairo,Egypt,False
+2024-01-17,Morocco,Tanzania,3,0,African Cup of Nations,San-Pédro,Ivory Coast,True
+2024-01-21,Zambia,Tanzania,1,1,African Cup of Nations,San-Pédro,Ivory Coast,True
+2024-01-24,Tanzania,DR Congo,0,0,African Cup of Nations,Korhogo,Ivory Coast,True
+2024-03-22,Bulgaria,Tanzania,1,0,FIFA Series,Baku,Azerbaijan,True
+2024-03-25,Tanzania,Mongolia,3,0,FIFA Series,Baku,Azerbaijan,True
+2024-06-02,Indonesia,Tanzania,0,0,Friendly,Jakarta,Indonesia,False
+2024-06-11,Zambia,Tanzania,0,1,FIFA World Cup qualification,Ndola,Zambia,False
+2024-09-04,Tanzania,Ethiopia,0,0,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+2024-09-10,Guinea,Tanzania,1,2,African Cup of Nations qualification,Yamoussoukro,Ivory Coast,True
+2024-10-10,DR Congo,Tanzania,1,0,African Cup of Nations qualification,Kinshasa,DR Congo,False
+2024-10-15,Tanzania,DR Congo,0,2,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+2025-01-03,Zanzibar,Tanzania,1,0,Mapinduzi Cup,Gombani,Zanzibar,False
+2025-01-07,Tanzania,Kenya,0,2,Mapinduzi Cup,Gombani,Zanzibar,True
+2025-01-09,Tanzania,Burkina Faso,0,2,Mapinduzi Cup,Gombani,Zanzibar,True
+2025-03-25,Morocco,Tanzania,2,0,FIFA World Cup qualification,Oujda,Morocco,False

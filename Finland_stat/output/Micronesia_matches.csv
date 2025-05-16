@@ -1,0 +1,8 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1999-06-05,Guam,Micronesia,3,0,Friendly,Hagätña,Guam,False
+1999-06-10,Guam,Micronesia,4,1,Friendly,Hagätña,Guam,False
+1999-07-12,Micronesia,Northern Mariana Islands,7,0,Friendly,Colonia,Micronesia,False
+2003-06-30,Tahiti,Micronesia,17,0,South Pacific Games,Suva,Fiji,True
+2003-07-01,Micronesia,New Caledonia,0,18,South Pacific Games,Suva,Fiji,True
+2003-07-05,Tonga,Micronesia,7,0,South Pacific Games,Nausori,Fiji,True
+2003-07-07,Papua New Guinea,Micronesia,10,0,South Pacific Games,Lautoka,Fiji,True

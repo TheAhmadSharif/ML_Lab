@@ -1,0 +1,157 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1940-11-12,Cuba,Puerto Rico,1,1,Friendly,Havana,Cuba,False
+1942-01-26,Cuba,Puerto Rico,1,0,Friendly,Havana,Cuba,False
+1942-01-29,Cuba,Puerto Rico,1,0,Friendly,Havana,Cuba,False
+1946-12-10,Costa Rica,Puerto Rico,12,0,Central American and Caribbean Games,Barranquilla,Colombia,True
+1946-12-13,Panama,Puerto Rico,12,1,Central American and Caribbean Games,Barranquilla,Colombia,True
+1946-12-15,Curaçao,Puerto Rico,14,0,Central American and Caribbean Games,Barranquilla,Colombia,True
+1946-12-16,Colombia,Puerto Rico,4,1,Central American and Caribbean Games,Barranquilla,Colombia,False
+1946-12-19,Guatemala,Puerto Rico,4,1,Central American and Caribbean Games,Barranquilla,Colombia,True
+1946-12-20,Venezuela,Puerto Rico,6,0,Central American and Caribbean Games,Barranquilla,Colombia,True
+1947-12-06,Cuba,Puerto Rico,4,0,Friendly,Havana,Cuba,False
+1947-12-10,Cuba,Puerto Rico,0,0,Friendly,Havana,Cuba,False
+1949-05-09,Puerto Rico,Trinidad and Tobago,2,8,Friendly,San Juan,Puerto Rico,False
+1949-05-11,Puerto Rico,Trinidad and Tobago,0,7,Friendly,San Juan,Puerto Rico,False
+1962-11-20,Puerto Rico,Martinique,1,6,Friendly,San Juan,Puerto Rico,False
+1962-11-24,Puerto Rico,Guadeloupe,0,3,Friendly,San Juan,Puerto Rico,False
+1963-04-20,Guadeloupe,Puerto Rico,3,0,Friendly,Basse-Terre,Guadeloupe,False
+1963-09-27,Martinique,Puerto Rico,6,0,Friendly,Basse-Terre,Guadeloupe,True
+1964-09-14,Martinique,Puerto Rico,4,0,Friendly,Fort-de-France,Martinique,False
+1964-09-23,Guadeloupe,Puerto Rico,4,0,Friendly,Fort-de-France,Martinique,True
+1967-11-05,Puerto Rico,Martinique,3,6,Friendly,San Juan,Puerto Rico,False
+1967-11-08,Puerto Rico,Guadeloupe,2,4,Friendly,San Juan,Puerto Rico,False
+1968-11-14,Guadeloupe,Puerto Rico,2,0,Friendly,Basse-Terre,Guadeloupe,False
+1968-11-16,Martinique,Puerto Rico,7,0,Friendly,Basse-Terre,Guadeloupe,True
+1972-04-15,Haiti,Puerto Rico,7,0,CONCACAF Championship qualification,Port-au-Prince,Haiti,False
+1972-04-23,Puerto Rico,Haiti,0,5,CONCACAF Championship qualification,San Juan,Puerto Rico,False
+1972-06-01,Puerto Rico,Panama,0,0,Friendly,San Juan,Puerto Rico,False
+1972-12-14,Panama,Puerto Rico,5,0,Friendly,Panama City,Panama,False
+1972-12-16,Panama,Puerto Rico,0,1,Friendly,Panama City,Panama,False
+1974-03-14,Puerto Rico,Panama,0,1,Friendly,San Juan,Puerto Rico,False
+1975-03-13,Guadeloupe,Puerto Rico,2,1,Friendly,Basse-Terre,Guadeloupe,False
+1977-12-17,Puerto Rico,Martinique,0,2,Friendly,San Juan,Puerto Rico,False
+1978-04-16,Martinique,Puerto Rico,3,1,Friendly,Fort-de-France,Martinique,False
+1978-04-20,Puerto Rico,Martinique,4,1,Friendly,San Juan,Puerto Rico,False
+1978-08-20,Puerto Rico,Haiti,1,1,CFU Caribbean Cup qualification,San Juan,Puerto Rico,False
+1978-08-26,Haiti,Puerto Rico,1,0,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,False
+1981-10-19,Puerto Rico,Guadeloupe,1,1,CFU Caribbean Cup,San Juan,Puerto Rico,False
+1981-10-21,Puerto Rico,Saint Vincent and the Grenadines,0,2,CFU Caribbean Cup,San Juan,Puerto Rico,False
+1984-07-29,El Salvador,Puerto Rico,5,0,CONCACAF Championship qualification,San Salvador,El Salvador,False
+1984-08-05,Puerto Rico,El Salvador,0,3,CONCACAF Championship qualification,San Juan,Puerto Rico,False
+1988-05-12,Jamaica,Puerto Rico,1,0,CONCACAF Championship qualification,Kingston,Jamaica,False
+1988-05-29,Puerto Rico,Jamaica,1,2,CONCACAF Championship qualification,San Juan,Puerto Rico,False
+1991-05-10,Puerto Rico,Haiti,2,3,CFU Caribbean Cup qualification,San Juan,Puerto Rico,False
+1991-05-14,Puerto Rico,Dominican Republic,1,3,CFU Caribbean Cup qualification,San Juan,Puerto Rico,False
+1992-03-21,Dominican Republic,Puerto Rico,1,2,FIFA World Cup qualification,Santo Domingo,Dominican Republic,False
+1992-03-29,Puerto Rico,Dominican Republic,1,1,FIFA World Cup qualification,San Juan,Puerto Rico,False
+1992-05-23,Jamaica,Puerto Rico,2,1,FIFA World Cup qualification,Kingston,Jamaica,False
+1992-05-30,Puerto Rico,Jamaica,0,1,FIFA World Cup qualification,San Juan,Puerto Rico,False
+1993-03-11,Puerto Rico,Barbados,1,0,CFU Caribbean Cup qualification,Georgetown,Guyana,True
+1993-03-12,Guyana,Puerto Rico,0,2,CFU Caribbean Cup qualification,Georgetown,Guyana,False
+1993-03-14,Puerto Rico,Cayman Islands,4,0,CFU Caribbean Cup qualification,Georgetown,Guyana,True
+1993-05-21,Puerto Rico,Sint Maarten,3,0,CFU Caribbean Cup,Kingston,Jamaica,True
+1993-05-23,Saint Kitts and Nevis,Puerto Rico,1,0,CFU Caribbean Cup,Kingston,Jamaica,True
+1993-05-25,Jamaica,Puerto Rico,1,0,CFU Caribbean Cup,Kingston,Jamaica,False
+1994-01-23,Barbados,Puerto Rico,0,1,CFU Caribbean Cup qualification,Bridgetown,Barbados,False
+1994-01-25,Grenada,Puerto Rico,1,0,CFU Caribbean Cup qualification,Bridgetown,Barbados,True
+1995-05-23,Dominican Republic,Puerto Rico,3,1,CFU Caribbean Cup qualification,Santo Domingo,Dominican Republic,False
+1995-05-25,Curaçao,Puerto Rico,2,2,CFU Caribbean Cup qualification,Santo Domingo,Dominican Republic,True
+1995-05-27,Cuba,Puerto Rico,9,0,CFU Caribbean Cup qualification,Santo Domingo,Dominican Republic,True
+1996-05-04,Puerto Rico,Saint Vincent and the Grenadines,1,2,FIFA World Cup qualification,Bayamón,Puerto Rico,False
+1996-05-12,Saint Vincent and the Grenadines,Puerto Rico,7,0,FIFA World Cup qualification,Kingstown,Saint Vincent and the Grenadines,False
+1998-03-11,Haiti,Puerto Rico,4,0,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,False
+1998-03-13,Dominican Republic,Puerto Rico,3,1,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,True
+1999-03-17,Haiti,Puerto Rico,2,0,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,False
+1999-03-19,British Virgin Islands,Puerto Rico,5,0,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,True
+1999-03-21,Dominican Republic,Puerto Rico,2,0,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,True
+2000-03-11,Aruba,Puerto Rico,4,2,FIFA World Cup qualification,Oranjestad,Aruba,False
+2000-03-18,Puerto Rico,Aruba,2,2,FIFA World Cup qualification,San Juan,Puerto Rico,False
+2001-02-03,Puerto Rico,British Virgin Islands,1,2,CFU Caribbean Cup qualification,San Juan,Puerto Rico,False
+2001-02-11,British Virgin Islands,Puerto Rico,0,0,CFU Caribbean Cup qualification,Road Town,British Virgin Islands,False
+2001-05-05,Saint Kitts and Nevis,Puerto Rico,2,0,Friendly,Basseterre,Saint Kitts and Nevis,False
+2002-07-07,Guadeloupe,Puerto Rico,4,0,Gold Cup qualification,Baie-Mahault,Guadeloupe,False
+2002-07-21,Puerto Rico,Guadeloupe,0,2,Gold Cup qualification,San Juan,Puerto Rico,False
+2004-11-24,Trinidad and Tobago,Puerto Rico,5,0,CFU Caribbean Cup qualification,Macoya,Trinidad and Tobago,False
+2004-11-26,Puerto Rico,Suriname,1,1,CFU Caribbean Cup qualification,San Fernando,Trinidad and Tobago,True
+2004-11-28,Grenada,Puerto Rico,5,2,CFU Caribbean Cup qualification,Arima,Trinidad and Tobago,True
+2005-10-30,Puerto Rico,Guadeloupe,1,3,Friendly,Bayamón,Puerto Rico,False
+2008-01-16,Bermuda,Puerto Rico,0,2,Friendly,Hamilton,Bermuda,False
+2008-01-18,Bermuda,Puerto Rico,0,1,Friendly,Hamilton,Bermuda,False
+2008-01-26,Puerto Rico,Trinidad and Tobago,2,2,Friendly,Bayamón,Puerto Rico,False
+2008-03-26,Puerto Rico,Dominican Republic,1,0,FIFA World Cup qualification,Bayamón,Puerto Rico,False
+2008-06-04,Honduras,Puerto Rico,4,0,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2008-06-14,Puerto Rico,Honduras,2,2,FIFA World Cup qualification,Bayamón,Puerto Rico,False
+2010-10-02,Puerto Rico,Anguilla,3,1,CFU Caribbean Cup qualification,Bayamón,Puerto Rico,False
+2010-10-04,Puerto Rico,Saint Martin,2,0,CFU Caribbean Cup qualification,Bayamón,Puerto Rico,False
+2010-10-06,Puerto Rico,Cayman Islands,2,0,CFU Caribbean Cup qualification,Bayamón,Puerto Rico,False
+2010-10-22,Grenada,Puerto Rico,3,1,CFU Caribbean Cup qualification,St. George's,Grenada,False
+2010-10-24,Guadeloupe,Puerto Rico,3,2,CFU Caribbean Cup qualification,St. George's,Grenada,True
+2010-10-26,Puerto Rico,Saint Kitts and Nevis,0,1,CFU Caribbean Cup qualification,St. George's,Grenada,True
+2011-09-02,Saint Kitts and Nevis,Puerto Rico,0,0,FIFA World Cup qualification,Basseterre,Saint Kitts and Nevis,False
+2011-09-06,Puerto Rico,Canada,0,3,FIFA World Cup qualification,Bayamón,Puerto Rico,False
+2011-10-07,Puerto Rico,Saint Kitts and Nevis,1,1,FIFA World Cup qualification,Bayamón,Puerto Rico,False
+2011-10-11,Canada,Puerto Rico,0,0,FIFA World Cup qualification,Toronto,Canada,False
+2011-11-11,Puerto Rico,Saint Lucia,4,0,FIFA World Cup qualification,Bayamón,Puerto Rico,False
+2011-11-14,Puerto Rico,Saint Lucia,3,0,FIFA World Cup qualification,Mayagüez,Puerto Rico,False
+2012-02-24,Nicaragua,Puerto Rico,1,0,Friendly,Managua,Nicaragua,False
+2012-02-26,Nicaragua,Puerto Rico,4,1,Friendly,Managua,Nicaragua,False
+2012-06-01,Puerto Rico,Nicaragua,3,1,Friendly,Bayamón,Puerto Rico,False
+2012-06-03,Puerto Rico,Nicaragua,1,1,Friendly,Bayamón,Puerto Rico,False
+2012-08-15,Puerto Rico,Spain,1,2,Friendly,Bayamón,Puerto Rico,False
+2012-09-07,Bermuda,Puerto Rico,1,2,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,True
+2012-09-09,Puerto Rico,Saint Martin,9,0,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,True
+2012-09-11,Haiti,Puerto Rico,2,1,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,False
+2012-10-23,Martinique,Puerto Rico,2,1,CFU Caribbean Cup qualification,Les Abymes,Guadeloupe,True
+2012-10-25,Guadeloupe,Puerto Rico,4,1,CFU Caribbean Cup qualification,Les Abymes,Guadeloupe,False
+2012-10-27,Puerto Rico,Dominican Republic,1,3,CFU Caribbean Cup qualification,Les Abymes,Guadeloupe,True
+2014-09-03,Puerto Rico,Curaçao,2,2,CFU Caribbean Cup qualification,Bayamón,Puerto Rico,False
+2014-09-05,Puerto Rico,French Guiana,1,2,CFU Caribbean Cup qualification,Bayamón,Puerto Rico,False
+2014-09-07,Puerto Rico,Grenada,2,2,CFU Caribbean Cup qualification,Bayamón,Puerto Rico,False
+2015-06-12,Puerto Rico,Grenada,1,0,FIFA World Cup qualification,Bayamón,Puerto Rico,False
+2015-06-16,Grenada,Puerto Rico,2,0,FIFA World Cup qualification,St. George's,Grenada,False
+2016-03-26,Anguilla,Puerto Rico,0,4,CFU Caribbean Cup qualification,The Valley,Anguilla,False
+2016-05-22,Puerto Rico,United States,1,3,Friendly,Bayamón,Puerto Rico,False
+2016-06-01,Grenada,Puerto Rico,3,3,CFU Caribbean Cup qualification,St. George's,Grenada,False
+2016-08-28,Dominican Republic,Puerto Rico,5,0,Friendly,San Cristóbal,Dominican Republic,False
+2016-09-03,India,Puerto Rico,4,1,Friendly,Bombay,India,False
+2016-10-11,Puerto Rico,Curaçao,2,4,CFU Caribbean Cup qualification,Bayamón,Puerto Rico,False
+2017-06-13,Indonesia,Puerto Rico,0,0,Friendly,Sleman,Indonesia,False
+2018-09-09,Saint Kitts and Nevis,Puerto Rico,1,0,CONCACAF Nations League qualification,Basseterre,Saint Kitts and Nevis,False
+2018-10-13,Puerto Rico,Martinique,0,1,CONCACAF Nations League qualification,Bayamón,Puerto Rico,False
+2018-11-16,Belize,Puerto Rico,1,0,CONCACAF Nations League qualification,Belmopan,Belize,False
+2019-03-24,Puerto Rico,Grenada,0,2,CONCACAF Nations League qualification,Bayamón,Puerto Rico,False
+2019-09-05,Honduras,Puerto Rico,4,0,Friendly,Tegucigalpa,Honduras,False
+2019-09-10,Puerto Rico,Guatemala,0,5,CONCACAF Nations League,Mayagüez,Puerto Rico,False
+2019-10-15,Anguilla,Puerto Rico,2,3,CONCACAF Nations League,The Valley,Anguilla,False
+2019-11-16,Guatemala,Puerto Rico,5,0,CONCACAF Nations League,Guatemala City,Guatemala,False
+2019-11-19,Puerto Rico,Anguilla,3,0,CONCACAF Nations League,Bayamón,Puerto Rico,False
+2021-01-19,Dominican Republic,Puerto Rico,0,1,Friendly,Santo Domingo,Dominican Republic,False
+2021-01-22,Guatemala,Puerto Rico,1,0,Friendly,Guatemala City,Guatemala,False
+2021-03-24,Saint Kitts and Nevis,Puerto Rico,1,0,FIFA World Cup qualification,San Cristóbal,Dominican Republic,True
+2021-03-28,Puerto Rico,Trinidad and Tobago,1,1,FIFA World Cup qualification,Mayagüez,Puerto Rico,False
+2021-06-02,Puerto Rico,Bahamas,7,0,FIFA World Cup qualification,Mayagüez,Puerto Rico,False
+2021-06-08,Guyana,Puerto Rico,0,2,FIFA World Cup qualification,Basseterre,Saint Kitts and Nevis,True
+2022-06-09,Cayman Islands,Puerto Rico,0,3,CONCACAF Nations League,George Town,Cayman Islands,False
+2022-06-12,Puerto Rico,British Virgin Islands,6,0,CONCACAF Nations League,Mayagüez,Puerto Rico,False
+2023-03-23,British Virgin Islands,Puerto Rico,1,3,CONCACAF Nations League,Road Town,British Virgin Islands,False
+2023-03-26,Puerto Rico,Cayman Islands,5,1,CONCACAF Nations League,Bayamón,Puerto Rico,False
+2023-06-17,Suriname,Puerto Rico,0,0,Gold Cup qualification,Fort Lauderdale,United States,True
+2023-06-20,Martinique,Puerto Rico,2,0,Gold Cup qualification,Fort Lauderdale,United States,True
+2023-09-09,Bahamas,Puerto Rico,1,6,CONCACAF Nations League,Nassau,Bahamas,False
+2023-09-12,Puerto Rico,Antigua and Barbuda,5,0,CONCACAF Nations League,Nassau,Bahamas,True
+2023-10-14,Puerto Rico,Guyana,1,3,CONCACAF Nations League,Añasco,Puerto Rico,False
+2023-10-17,Guyana,Puerto Rico,3,1,CONCACAF Nations League,Basseterre,Saint Kitts and Nevis,True
+2023-11-18,Antigua and Barbuda,Puerto Rico,2,3,CONCACAF Nations League,Piggotts,Antigua and Barbuda,False
+2023-11-21,Puerto Rico,Bahamas,6,1,CONCACAF Nations League,Bayamón,Puerto Rico,False
+2024-03-21,Belize,Puerto Rico,1,1,Friendly,Belmopan,Belize,False
+2024-03-24,Belize,Puerto Rico,3,0,Friendly,Belmopan,Belize,False
+2024-06-06,El Salvador,Puerto Rico,0,0,FIFA World Cup qualification,San Salvador,El Salvador,False
+2024-06-11,Puerto Rico,Anguilla,8,0,FIFA World Cup qualification,Bayamón,Puerto Rico,False
+2024-09-06,Puerto Rico,Haiti,1,4,CONCACAF Nations League,Mayagüez,Puerto Rico,False
+2024-09-09,Puerto Rico,Aruba,1,0,CONCACAF Nations League,Mayagüez,Puerto Rico,False
+2024-10-11,Sint Maarten,Puerto Rico,3,2,CONCACAF Nations League,Oranjestad,Aruba,True
+2024-10-14,Puerto Rico,Sint Maarten,2,1,CONCACAF Nations League,Oranjestad,Aruba,True
+2024-11-15,Puerto Rico,Aruba,5,1,CONCACAF Nations League,Mayagüez,Puerto Rico,False
+2024-11-18,Puerto Rico,Haiti,0,3,CONCACAF Nations League,Mayagüez,Puerto Rico,False
+2025-03-21,Puerto Rico,Dominican Republic,2,2,Friendly,Bayamón,Puerto Rico,False
+2025-03-25,Dominican Republic,Puerto Rico,2,0,Friendly,Santiago de los Caballeros,Dominican Republic,False

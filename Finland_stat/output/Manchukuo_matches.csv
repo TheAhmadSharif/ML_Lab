@@ -1,0 +1,4 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1939-09-03,Manchukuo,Japan,0,6,Friendly,Xinjing,Manchuria,False
+1940-06-07,Japan,Manchukuo,7,0,Friendly,Tokyo,Japan,False
+1942-08-09,Manchukuo,Japan,0,3,Friendly,Xinjing,Manchuria,False

@@ -1,0 +1,449 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1960-04-14,Gabon,Burkina Faso,4,5,Friendly,Antananarivo,Madagascar,True
+1960-04-14,Burkina Faso,Gabon,5,4,African Friendship Games,Tananarive,Madagascar,True
+1960-04-15,Madagascar,Burkina Faso,6,1,Friendly,Antananarivo,Madagascar,False
+1960-04-15,Madagascar,Burkina Faso,6,1,African Friendship Games,Tananarive,Madagascar,False
+1961-12-25,Ivory Coast,Burkina Faso,2,1,African Friendship Games,Abidjan,Ivory Coast,False
+1961-12-27,Burkina Faso,Liberia,5,1,African Friendship Games,Abidjan,Ivory Coast,True
+1963-02-01,Mali,Burkina Faso,1,0,Friendly,Bamako,Mali,False
+1963-04-12,Gabon,Burkina Faso,4,0,African Friendship Games,Dakar,Senegal,True
+1963-04-14,Gambia,Burkina Faso,2,2,African Friendship Games,Dakar,Senegal,True
+1963-04-16,France,Burkina Faso,1,0,African Friendship Games,Dakar,Senegal,True
+1967-01-29,Burkina Faso,Niger,3,2,Friendly,Ouagadougou,Upper Volta,False
+1967-02-12,Burkina Faso,Algeria,1,2,African Cup of Nations qualification,Ouagadougou,Upper Volta,False
+1967-04-09,Algeria,Burkina Faso,3,1,African Cup of Nations qualification,Algiers,Algeria,False
+1967-08-01,Niger,Burkina Faso,2,3,Friendly,Niamey,Niger,False
+1967-09-27,Mali,Burkina Faso,4,0,African Cup of Nations qualification,Bamako,Mali,False
+1967-10-01,Ghana,Burkina Faso,5,2,Friendly,Accra,Ghana,False
+1967-11-15,Burkina Faso,Mali,0,1,African Cup of Nations qualification,Ouagadougou,Upper Volta,False
+1967-11-26,Burkina Faso,Ivory Coast,3,2,Friendly,Ouagadougou,Upper Volta,False
+1968-02-25,Burkina Faso,Guinea,2,0,Friendly,Ouagadougou,Upper Volta,False
+1968-03-31,Guinea,Burkina Faso,3,1,Friendly,Conakry,Guinea,False
+1968-04-02,Guinea,Burkina Faso,1,3,Friendly,Conakry,Guinea,False
+1970-03-22,Burkina Faso,Niger,3,3,Friendly,Ouagadougou,Upper Volta,False
+1971-11-27,Nigeria,Burkina Faso,4,0,Friendly,Lagos,Nigeria,False
+1971-11-30,Togo,Burkina Faso,1,0,Friendly,Lomé,Togo,False
+1971-12-12,Burkina Faso,Togo,1,2,Friendly,Ouagadougou,Upper Volta,False
+1972-01-09,Burkina Faso,Nigeria,3,3,Friendly,Ouagadougou,Upper Volta,False
+1973-01-08,Congo,Burkina Faso,3,0,All-African Games,Ibadan,Nigeria,True
+1973-01-10,Guinea,Burkina Faso,3,2,All-African Games,Ibadan,Nigeria,True
+1973-01-12,Egypt,Burkina Faso,4,2,All-African Games,Ibadan,Nigeria,True
+1973-04-15,Burkina Faso,DR Congo,0,5,African Cup of Nations qualification,Ouagadougou,Upper Volta,False
+1973-04-22,DR Congo,Burkina Faso,4,1,African Cup of Nations qualification,Kinshasa,Zaïre,False
+1975-02-23,Burkina Faso,Niger,4,1,Friendly,Ouagadougou,Upper Volta,False
+1975-03-23,Ghana,Burkina Faso,3,1,Friendly,Accra,Ghana,False
+1976-03-13,Burkina Faso,Mauritania,1,1,FIFA World Cup qualification,Ouagadougou,Upper Volta,True
+1976-03-28,Mauritania,Burkina Faso,0,2,FIFA World Cup qualification,Nouakchott,Mauritania,False
+1976-09-04,Burkina Faso,Ivory Coast,1,1,FIFA World Cup qualification,Ouagadougou,Upper Volta,True
+1976-09-26,Ivory Coast,Burkina Faso,2,0,FIFA World Cup qualification,Abidjan,Ivory Coast,False
+1976-11-24,Mali,Burkina Faso,2,1,Friendly,Bamako,Mali,False
+1977-03-20,Burkina Faso,Ivory Coast,0,1,African Cup of Nations qualification,Ouagadougou,Upper Volta,False
+1977-03-27,Ivory Coast,Burkina Faso,4,1,African Cup of Nations qualification,Abidjan,Ivory Coast,False
+1978-02-12,Benin,Burkina Faso,0,2,Friendly,Porto-Novo,Benin,False
+1978-02-19,Gabon,Burkina Faso,2,2,Friendly,Libreville,Gabon,False
+1978-02-26,Burkina Faso,Benin,3,0,Friendly,Ouagadougou,Upper Volta,False
+1978-03-05,Nigeria,Burkina Faso,4,2,African Cup of Nations,Accra,Ghana,True
+1978-03-08,Burkina Faso,Zambia,0,2,African Cup of Nations,Accra,Ghana,True
+1978-03-10,Ghana,Burkina Faso,3,0,African Cup of Nations,Accra,Ghana,False
+1978-11-11,Burkina Faso,Mali,3,1,Friendly,Ouagadougou,Upper Volta,False
+1979-10-21,Benin,Burkina Faso,3,2,Friendly,Abidjan,Ivory Coast,True
+1979-10-23,Togo,Burkina Faso,5,3,Friendly,Abidjan,Ivory Coast,True
+1981-07-18,Nigeria,Burkina Faso,1,0,Friendly,Lagos,Nigeria,False
+1981-08-30,Algeria,Burkina Faso,7,0,African Cup of Nations qualification,Oran,Algeria,False
+1981-09-06,Niger,Burkina Faso,2,1,Friendly,Niamey,Niger,False
+1981-09-20,Burkina Faso,Algeria,1,1,African Cup of Nations qualification,Ouagadougou,Upper Volta,False
+1982-01-24,Burkina Faso,Senegal,0,0,Friendly,Bobo Dioulasso,Upper Volta,False
+1982-02-15,Liberia,Burkina Faso,1,2,West African Cup,Cotonou,Benin,True
+1982-02-17,Togo,Burkina Faso,2,1,West African Cup,Cotonou,Benin,True
+1982-02-19,Ghana,Burkina Faso,1,0,West African Cup,Cotonou,Benin,True
+1982-02-22,Ivory Coast,Burkina Faso,1,1,West African Cup,Cotonou,Benin,True
+1982-10-03,Burkina Faso,Niger,1,1,Friendly,Bobo Dioulasso,Upper Volta,False
+1984-08-01,Burkina Faso,Benin,3,1,Friendly,Ouagadougou,Upper Volta,False
+1984-08-03,Burkina Faso,Ghana,0,2,Friendly,Ouagadougou,Upper Volta,False
+1984-11-11,Burkina Faso,Mali,1,0,Friendly,Ouagadougou,Burkina Faso,False
+1984-11-17,Burkina Faso,Togo,1,1,West African Cup,Ouagadougou,Burkina Faso,False
+1984-11-20,Burkina Faso,Ivory Coast,2,2,West African Cup,Ouagadougou,Burkina Faso,False
+1984-11-22,Burkina Faso,Benin,2,1,West African Cup,Ouagadougou,Burkina Faso,False
+1984-11-24,Burkina Faso,Ghana,1,1,West African Cup,Ouagadougou,Burkina Faso,False
+1984-11-28,Burkina Faso,Ivory Coast,0,2,West African Cup,Ouagadougou,Burkina Faso,False
+1986-02-23,Liberia,Burkina Faso,0,1,West African Cup,Accra,Ghana,True
+1986-02-24,Burkina Faso,Togo,0,1,West African Cup,Accra,Ghana,True
+1986-02-26,Burkina Faso,Niger,0,0,West African Cup,Accra,Ghana,True
+1986-02-27,Ghana,Burkina Faso,2,0,West African Cup,Accra,Ghana,False
+1986-03-01,Ghana,Burkina Faso,2,0,West African Cup,Accra,Ghana,False
+1986-03-02,Burkina Faso,Niger,1,2,West African Cup,Accra,Ghana,True
+1987-01-17,Mali,Burkina Faso,2,0,Friendly,Bamako,Mali,False
+1987-02-01,Liberia,Burkina Faso,2,0,West African Cup,Monrovia,Liberia,False
+1987-02-05,Burkina Faso,Benin,3,2,West African Cup,Monrovia,Liberia,True
+1987-05-21,Burkina Faso,Mauritania,2,1,Friendly,Ouagadougou,Burkina Faso,False
+1987-11-22,Burkina Faso,Nigeria,0,0,Friendly,Ouagadougou,Burkina Faso,False
+1987-12-06,Mali,Burkina Faso,1,2,Friendly,Bamako,Mali,False
+1987-12-10,Burkina Faso,Mali,1,2,Friendly,Ouagadougou,Burkina Faso,False
+1987-12-13,Burkina Faso,Mali,2,1,Friendly,Ouagadougou,Burkina Faso,False
+1987-12-20,Liberia,Burkina Faso,1,0,Friendly,Monrovia,Liberia,False
+1987-12-22,Burkina Faso,Senegal,0,1,Friendly,Monrovia,Liberia,True
+1988-05-25,Burkina Faso,Ghana,3,0,Friendly,Ouagadougou,Burkina Faso,False
+1988-06-03,Libya,Burkina Faso,3,0,FIFA World Cup qualification,Tripoli,Libya,False
+1988-07-03,Burkina Faso,Libya,2,0,FIFA World Cup qualification,Ouagadougou,Burkina Faso,False
+1988-07-24,Burkina Faso,Niger,1,0,Tournament Burkina Faso,Ouagadougou,Burkina Faso,False
+1988-07-27,Burkina Faso,Ghana,3,1,Tournament Burkina Faso,Ouagadougou,Burkina Faso,False
+1988-07-31,Burkina Faso,Benin,1,0,Tournament Burkina Faso,Ouagadougou,Burkina Faso,False
+1988-08-02,Burkina Faso,Mali,2,1,Tournament Burkina Faso,Ouagadougou,Burkina Faso,False
+1988-08-04,Burkina Faso,Niger,1,0,Tournament Burkina Faso,Ouagadougou,Burkina Faso,False
+1988-10-09,Gabon,Burkina Faso,3,0,African Cup of Nations qualification,Libreville,Gabon,False
+1988-10-23,Burkina Faso,Gabon,1,0,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+1990-05-26,Gambia,Burkina Faso,0,0,Friendly,Banjul,Gambia,False
+1990-05-30,Burkina Faso,Ghana,1,0,Friendly,Ouagadougou,Burkina Faso,False
+1990-08-19,Burkina Faso,Benin,2,0,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+1990-08-27,Mali,Burkina Faso,2,1,Friendly,Bamako,Mali,False
+1990-09-02,Burkina Faso,Togo,2,0,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+1990-10-14,Ghana,Burkina Faso,2,0,African Cup of Nations qualification,Accra,Ghana,False
+1991-01-06,Burkina Faso,Mali,2,0,Friendly,Ouagadougou,Burkina Faso,False
+1991-01-09,Burkina Faso,Niger,2,2,Friendly,Ouagadougou,Burkina Faso,False
+1991-01-13,Burkina Faso,Nigeria,1,1,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+1991-01-27,Benin,Burkina Faso,1,2,African Cup of Nations qualification,Cotonou,Benin,False
+1991-04-07,Mali,Burkina Faso,5,1,Friendly,Bamako,Mali,False
+1991-04-21,Togo,Burkina Faso,1,0,African Cup of Nations qualification,Lomé,Togo,False
+1991-07-13,Burkina Faso,Ghana,2,1,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+1991-07-27,Nigeria,Burkina Faso,7,1,African Cup of Nations qualification,Lagos,Nigeria,False
+1992-12-26,Burkina Faso,Mali,3,1,Friendly,Ouagadougou,Burkina Faso,False
+1993-01-02,Gabon,Burkina Faso,1,1,Friendly,Libreville,Gabon,False
+1993-01-03,Burkina Faso,Mali,1,0,Friendly,Libreville,Gabon,True
+1993-05-22,Burkina Faso,Guadeloupe,2,0,Friendly,Créteil,France,True
+1994-01-05,Mali,Burkina Faso,1,1,Friendly,Bamako,Mali,False
+1994-01-29,Burkina Faso,Guinea,1,1,Friendly,Ouagadougou,Burkina Faso,False
+1994-01-30,Burkina Faso,Ivory Coast,0,1,Friendly,Ouagadougou,Burkina Faso,False
+1994-08-23,Burkina Faso,Niger,0,0,Friendly,Ouagadougou,Burkina Faso,False
+1994-09-04,Burkina Faso,Morocco,2,1,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+1994-12-04,Togo,Burkina Faso,2,0,Friendly,Lomé,Togo,False
+1995-01-22,Ivory Coast,Burkina Faso,2,2,African Cup of Nations qualification,Abidjan,Ivory Coast,False
+1995-04-09,Morocco,Burkina Faso,0,0,African Cup of Nations qualification,Casablanca,Morocco,False
+1995-07-30,Burkina Faso,Ivory Coast,1,1,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+1995-10-22,Burkina Faso,Tunisia,2,2,Friendly,Ouagadougou,Burkina Faso,False
+1995-11-29,Tunisia,Burkina Faso,3,0,Friendly,Tunis,Tunisia,False
+1995-12-22,Burkina Faso,Gabon,2,5,Friendly,Ouagadougou,Burkina Faso,False
+1996-01-15,Sierra Leone,Burkina Faso,2,1,African Cup of Nations,Bloemfontein,South Africa,True
+1996-01-20,Burkina Faso,Zambia,1,5,African Cup of Nations,Bloemfontein,South Africa,True
+1996-01-24,Burkina Faso,Algeria,1,2,African Cup of Nations,Port Elizabeth,South Africa,True
+1996-05-12,Burkina Faso,Niger,0,0,Friendly,Ouagadougou,Burkina Faso,False
+1996-05-31,Mauritania,Burkina Faso,0,0,FIFA World Cup qualification,Nouakchott,Mauritania,False
+1996-06-09,Ivory Coast,Burkina Faso,1,1,Friendly,Abidjan,Ivory Coast,False
+1996-06-16,Burkina Faso,Mauritania,2,0,FIFA World Cup qualification,Ouagadougou,Burkina Faso,False
+1996-10-19,Gabon,Burkina Faso,2,0,Friendly,Libreville,Gabon,False
+1996-11-09,Nigeria,Burkina Faso,2,0,FIFA World Cup qualification,Lagos,Nigeria,False
+1996-11-24,Mali,Burkina Faso,2,0,Friendly,Bamako,Mali,False
+1996-12-20,Burkina Faso,Gabon,1,1,Friendly,Cotonou,Benin,True
+1996-12-22,Burkina Faso,Ghana,2,1,Friendly,Cotonou,Benin,True
+1996-12-25,Benin,Burkina Faso,1,1,Friendly,Cotonou,Benin,False
+1996-12-27,Benin,Burkina Faso,0,0,Friendly,Cotonou,Benin,False
+1997-01-12,Burkina Faso,Guinea,0,2,FIFA World Cup qualification,Ouagadougou,Burkina Faso,False
+1997-03-29,Tanzania,Burkina Faso,3,2,Friendly,Arusha,Tanzania,False
+1997-04-06,Kenya,Burkina Faso,4,3,FIFA World Cup qualification,Nairobi,Kenya,False
+1997-04-27,Burkina Faso,Nigeria,1,2,FIFA World Cup qualification,Ouagadougou,Burkina Faso,False
+1997-05-31,Burkina Faso,Mali,2,0,Friendly,Bobo Dioulasso,Burkina Faso,False
+1997-06-04,Togo,Burkina Faso,0,0,Friendly,Lomé,Togo,False
+1997-06-08,Guinea,Burkina Faso,3,1,FIFA World Cup qualification,Conakry,Guinea,False
+1997-08-16,Burkina Faso,Kenya,2,4,FIFA World Cup qualification,Ouagadougou,Burkina Faso,False
+1997-11-02,Ivory Coast,Burkina Faso,0,0,Friendly,Bouaké,Ivory Coast,False
+1997-12-27,Burkina Faso,Ivory Coast,2,0,Friendly,Ouagadougou,Burkina Faso,False
+1998-01-04,Burkina Faso,Mozambique,1,0,Friendly,Bobo Dioulasso,Burkina Faso,False
+1998-01-07,Burkina Faso,Mozambique,4,2,Friendly,Ouagadougou,Burkina Faso,False
+1998-01-11,Burkina Faso,Mali,0,0,Friendly,Ouagadougou,Burkina Faso,False
+1998-01-27,Liberia,Burkina Faso,1,2,Friendly,Monrovia,Liberia,False
+1998-02-01,Burkina Faso,Namibia,3,1,Friendly,Niamey,Niger,True
+1998-02-07,Burkina Faso,Cameroon,0,1,African Cup of Nations,Ouagadougou,Burkina Faso,False
+1998-02-11,Burkina Faso,Algeria,2,1,African Cup of Nations,Ouagadougou,Burkina Faso,False
+1998-02-15,Burkina Faso,Guinea,1,0,African Cup of Nations,Ouagadougou,Burkina Faso,False
+1998-02-21,Burkina Faso,Tunisia,1,1,African Cup of Nations,Ouagadougou,Burkina Faso,False
+1998-02-25,Burkina Faso,Egypt,0,2,African Cup of Nations,Bobo Dioulasso,Burkina Faso,False
+1998-02-27,Burkina Faso,DR Congo,4,4,African Cup of Nations,Ouagadougou,Burkina Faso,False
+1998-05-19,Cameroon,Burkina Faso,2,0,Friendly,Yaoundé,Cameroon,False
+1998-07-24,Burkina Faso,Niger,1,0,Friendly,Ouagadougou,Burkina Faso,False
+1998-08-23,Burkina Faso,Togo,1,1,Friendly,Ouagadougou,Burkina Faso,False
+1998-08-30,Burkina Faso,Ivory Coast,1,1,Friendly,Ouagadougou,Burkina Faso,False
+1998-08-31,Burkina Faso,Senegal,1,1,Friendly,Ouagadougou,Burkina Faso,False
+1998-09-27,Mali,Burkina Faso,1,0,Friendly,Bamako,Mali,False
+1998-10-17,Qatar,Burkina Faso,2,2,Friendly,Doha,Qatar,False
+1998-10-19,Oman,Burkina Faso,4,2,Friendly,Muscat,Oman,False
+1998-10-21,Oman,Burkina Faso,0,0,Friendly,Muscat,Oman,False
+1998-10-23,Bahrain,Burkina Faso,2,1,Friendly,Manama,Bahrain,False
+1999-01-04,Burkina Faso,Gabon,2,1,Friendly,Ouagadougou,Burkina Faso,False
+1999-01-10,Burkina Faso,Mali,1,0,Friendly,Ouagadougou,Burkina Faso,False
+1999-01-15,Burkina Faso,Mali,4,1,Friendly,Ouagadougou,Burkina Faso,False
+1999-01-23,Senegal,Burkina Faso,1,1,African Cup of Nations qualification,Dakar,Senegal,False
+1999-02-20,Gabon,Burkina Faso,1,1,Friendly,Libreville,Gabon,False
+1999-02-28,Burundi,Burkina Faso,1,2,African Cup of Nations qualification,Bujumbura,Burundi,False
+1999-04-03,Mali,Burkina Faso,5,2,Friendly,Bamako,Mali,False
+1999-04-11,Burkina Faso,Burundi,3,1,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+1999-06-06,Burkina Faso,Senegal,2,2,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+1999-11-07,Burkina Faso,Togo,1,0,Friendly,Ouagadougou,Burkina Faso,False
+1999-11-10,Burkina Faso,Togo,1,1,Friendly,Ouagadougou,Burkina Faso,False
+1999-11-27,Congo,Burkina Faso,2,1,Friendly,Libreville,Gabon,True
+1999-11-28,Gabon,Burkina Faso,3,2,Friendly,Libreville,Gabon,False
+1999-12-29,Ivory Coast,Burkina Faso,3,1,Friendly,Abidjan,Ivory Coast,False
+2000-01-09,Burkina Faso,Gabon,1,1,Friendly,Ouagadougou,Burkina Faso,False
+2000-01-11,Burkina Faso,Cameroon,2,2,Friendly,Ouagadougou,Burkina Faso,False
+2000-01-20,Burkina Faso,Algeria,1,0,Friendly,Ouagadougou,Burkina Faso,False
+2000-01-25,Burkina Faso,Senegal,1,3,African Cup of Nations,Kano,Nigeria,True
+2000-01-29,Zambia,Burkina Faso,1,1,African Cup of Nations,Kano,Nigeria,True
+2000-02-01,Egypt,Burkina Faso,4,2,African Cup of Nations,Kano,Nigeria,True
+2000-04-09,Ethiopia,Burkina Faso,2,1,FIFA World Cup qualification,Addis Ababa,Ethiopia,False
+2000-04-19,Mali,Burkina Faso,2,1,Friendly,Bamako,Mali,False
+2000-04-23,Burkina Faso,Ethiopia,3,0,FIFA World Cup qualification,Ouagadougou,Burkina Faso,False
+2000-05-26,Algeria,Burkina Faso,2,0,Friendly,Algiers,Algeria,False
+2000-06-14,Kenya,Burkina Faso,0,1,Friendly,Nairobi,Kenya,False
+2000-06-17,Malawi,Burkina Faso,1,1,FIFA World Cup qualification,Blantyre,Malawi,False
+2000-09-03,Algeria,Burkina Faso,1,1,African Cup of Nations qualification,Algiers,Algeria,False
+2000-10-07,Burkina Faso,Burundi,1,0,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+2001-01-07,Togo,Burkina Faso,1,1,Friendly,Lomé,Togo,False
+2001-01-13,Burkina Faso,Angola,1,0,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+2001-01-23,Burkina Faso,Mali,0,2,Friendly,Ouagadougou,Burkina Faso,False
+2001-01-27,South Africa,Burkina Faso,1,0,FIFA World Cup qualification,Rustenburg,South Africa,False
+2001-02-24,Burkina Faso,Zimbabwe,1,2,FIFA World Cup qualification,Bobo Dioulasso,Burkina Faso,False
+2001-03-25,Angola,Burkina Faso,2,0,African Cup of Nations qualification,Luanda,Angola,False
+2001-04-21,Burkina Faso,Malawi,4,2,FIFA World Cup qualification,Ouagadougou,Burkina Faso,False
+2001-06-03,Burundi,Burkina Faso,0,0,African Cup of Nations qualification,Bujumbura,Burundi,False
+2001-06-17,Burkina Faso,Algeria,1,0,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+2001-07-01,Burkina Faso,South Africa,1,1,FIFA World Cup qualification,Ouagadougou,Burkina Faso,False
+2001-07-15,Zimbabwe,Burkina Faso,1,0,FIFA World Cup qualification,Harare,Zimbabwe,False
+2001-10-15,Algeria,Burkina Faso,2,0,Friendly,Annaba,Algeria,False
+2001-12-16,Burkina Faso,Togo,1,2,Friendly,Ouagadougou,Burkina Faso,False
+2001-12-22,Togo,Burkina Faso,1,0,Friendly,Lomé,Togo,False
+2001-12-26,Senegal,Burkina Faso,2,4,Friendly,Dakar,Senegal,False
+2001-12-28,Mali,Burkina Faso,2,1,Friendly,Ségou,Mali,False
+2002-01-07,Burkina Faso,Cameroon,1,3,Friendly,Ouagadougou,Burkina Faso,False
+2002-01-11,Egypt,Burkina Faso,2,2,Friendly,Cairo,Egypt,False
+2002-01-20,South Africa,Burkina Faso,0,0,African Cup of Nations,Ségou,Mali,True
+2002-01-26,Burkina Faso,Morocco,1,2,African Cup of Nations,Ségou,Mali,True
+2002-01-30,Burkina Faso,Ghana,1,2,African Cup of Nations,Mopti,Mali,True
+2002-09-08,Congo,Burkina Faso,0,0,African Cup of Nations qualification,Brazzaville,Congo,False
+2002-10-13,Burkina Faso,Central African Republic,2,1,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+2002-12-27,Niger,Burkina Faso,1,1,Friendly,Niamey,Niger,False
+2003-03-26,Burundi,Burkina Faso,0,0,Friendly,Bujumbura,Burundi,False
+2003-03-30,Mozambique,Burkina Faso,1,0,African Cup of Nations qualification,Maputo,Mozambique,False
+2003-05-29,Algeria,Burkina Faso,0,1,Friendly,Amiens,France,True
+2003-06-07,Burkina Faso,Mozambique,4,0,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+2003-06-21,Burkina Faso,Congo,3,0,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+2003-07-06,Central African Republic,Burkina Faso,0,3,African Cup of Nations qualification,Bangui,Central African Republic,False
+2003-09-24,Benin,Burkina Faso,0,1,Friendly,Algiers,Algeria,True
+2003-09-26,Algeria,Burkina Faso,0,0,Friendly,Algiers,Algeria,False
+2003-10-23,Burkina Faso,Zimbabwe,1,4,Afro-Asian Games,Hyderabad,India,True
+2003-11-08,Gabon,Burkina Faso,0,0,Friendly,Moanda,Gabon,False
+2003-11-15,Morocco,Burkina Faso,1,0,Friendly,Meknès,Morocco,False
+2004-01-17,Egypt,Burkina Faso,1,1,Friendly,Port Said,Egypt,False
+2004-01-20,Guinea,Burkina Faso,1,0,Friendly,Toulon,France,True
+2004-01-26,Senegal,Burkina Faso,0,0,African Cup of Nations,Tunis,Tunisia,True
+2004-01-30,Burkina Faso,Mali,1,3,African Cup of Nations,Tunis,Tunisia,True
+2004-02-02,Burkina Faso,Kenya,0,3,African Cup of Nations,Bizerte,Tunisia,True
+2004-05-26,Benin,Burkina Faso,1,0,Friendly,Cotonou,Benin,False
+2004-05-30,Burkina Faso,Libya,3,2,Friendly,Ouagadougou,Burkina Faso,False
+2004-06-05,Burkina Faso,Ghana,1,0,FIFA World Cup qualification,Ouagadougou,Burkina Faso,False
+2004-06-13,Burkina Faso,Benin,4,2,Friendly,Ouagadougou,Burkina Faso,False
+2004-06-20,DR Congo,Burkina Faso,3,2,FIFA World Cup qualification,Kinshasa,DR Congo,False
+2004-07-03,South Africa,Burkina Faso,2,0,FIFA World Cup qualification,Johannesburg,South Africa,False
+2004-08-17,Algeria,Burkina Faso,2,2,Friendly,Blida,Algeria,False
+2004-09-04,Burkina Faso,Uganda,2,0,FIFA World Cup qualification,Ouagadougou,Burkina Faso,False
+2004-10-09,Cape Verde,Burkina Faso,1,0,FIFA World Cup qualification,Praia,Cape Verde,False
+2004-11-17,Morocco,Burkina Faso,4,0,Friendly,Rabat,Morocco,False
+2005-02-09,Algeria,Burkina Faso,3,0,Friendly,Algiers,Algeria,False
+2005-03-20,South Korea,Burkina Faso,1,0,Friendly,Dubai,United Arab Emirates,True
+2005-03-26,Burkina Faso,Cape Verde,1,2,FIFA World Cup qualification,Ouagadougou,Burkina Faso,False
+2005-05-29,Togo,Burkina Faso,1,0,Friendly,Lomé,Togo,False
+2005-06-05,Ghana,Burkina Faso,2,1,FIFA World Cup qualification,Kumasi,Ghana,False
+2005-06-18,Burkina Faso,DR Congo,2,0,FIFA World Cup qualification,Ouagadougou,Burkina Faso,False
+2005-09-03,Burkina Faso,South Africa,3,1,FIFA World Cup qualification,Ouagadougou,Burkina Faso,False
+2005-10-08,Uganda,Burkina Faso,2,2,FIFA World Cup qualification,Kampala,Uganda,False
+2006-02-28,Algeria,Burkina Faso,0,0,Friendly,Rouen,France,True
+2006-08-16,Morocco,Burkina Faso,1,0,Friendly,Rabat,Morocco,False
+2006-08-29,Uganda,Burkina Faso,0,0,Friendly,Kampala,Uganda,False
+2006-09-02,Tanzania,Burkina Faso,2,1,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+2006-10-07,Burkina Faso,Senegal,1,0,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+2006-11-15,Algeria,Burkina Faso,1,2,Friendly,Aix-en-Provence,France,True
+2007-03-24,Burkina Faso,Mozambique,1,1,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+2007-05-29,Zimbabwe,Burkina Faso,1,1,Friendly,Masvingo,Zimbabwe,False
+2007-06-03,Mozambique,Burkina Faso,3,0,African Cup of Nations qualification,Maputo,Mozambique,False
+2007-06-09,Burkina Faso,Mali,0,1,Friendly,Ouagadougou,Burkina Faso,False
+2007-06-16,Burkina Faso,Tanzania,0,1,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+2007-08-22,Mali,Burkina Faso,3,2,Friendly,Paris,France,True
+2007-09-08,Senegal,Burkina Faso,5,1,African Cup of Nations qualification,Dakar,Senegal,False
+2008-05-24,Burkina Faso,Cape Verde,0,1,Friendly,Alcochete,Portugal,True
+2008-06-01,Tunisia,Burkina Faso,1,2,FIFA World Cup qualification,Radès,Tunisia,False
+2008-06-07,Burkina Faso,Burundi,2,0,FIFA World Cup qualification,Ouagadougou,Burkina Faso,False
+2008-06-14,Seychelles,Burkina Faso,2,3,FIFA World Cup qualification,Victoria,Seychelles,False
+2008-06-21,Burkina Faso,Seychelles,4,1,FIFA World Cup qualification,Ouagadougou,Burkina Faso,False
+2008-08-20,Bahrain,Burkina Faso,3,1,Friendly,Manama,Bahrain,False
+2008-09-06,Burkina Faso,Tunisia,0,0,FIFA World Cup qualification,Ouagadougou,Burkina Faso,False
+2008-10-12,Burundi,Burkina Faso,1,3,FIFA World Cup qualification,Bujumbura,Burundi,False
+2009-02-11,Burkina Faso,Togo,1,1,Friendly,Le Petit-Quevilly,France,True
+2009-03-28,Burkina Faso,Guinea,4,2,FIFA World Cup qualification,Ouagadougou,Burkina Faso,False
+2009-06-06,Malawi,Burkina Faso,0,1,FIFA World Cup qualification,Blantyre,Malawi,False
+2009-06-20,Burkina Faso,Ivory Coast,2,3,FIFA World Cup qualification,Ouagadougou,Burkina Faso,False
+2009-08-12,Mali,Burkina Faso,3,0,Friendly,Le Petit-Quevilly,France,True
+2009-09-05,Ivory Coast,Burkina Faso,5,0,FIFA World Cup qualification,Abidjan,Ivory Coast,False
+2009-10-11,Guinea,Burkina Faso,1,2,FIFA World Cup qualification,Accra,Ghana,True
+2009-11-14,Burkina Faso,Malawi,1,0,FIFA World Cup qualification,Ouagadougou,Burkina Faso,False
+2010-01-11,Ivory Coast,Burkina Faso,0,0,African Cup of Nations,Cabinda,Angola,True
+2010-01-19,Burkina Faso,Ghana,0,1,African Cup of Nations,Luanda,Angola,True
+2010-08-11,Burkina Faso,Congo,3,0,Friendly,Senlis,France,True
+2010-09-06,Burkina Faso,Gabon,1,1,Friendly,Cannes,France,True
+2010-10-09,Burkina Faso,Gambia,3,1,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+2010-11-17,Burkina Faso,Guinea,2,1,Friendly,Mantes-la-Ville,France,True
+2011-02-09,Cape Verde,Burkina Faso,1,0,Friendly,Óbidos,Portugal,True
+2011-03-26,Burkina Faso,Namibia,4,0,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+2011-06-04,Namibia,Burkina Faso,1,4,African Cup of Nations qualification,Windhoek,Namibia,False
+2011-08-10,South Africa,Burkina Faso,3,0,Friendly,Johannesburg,South Africa,False
+2011-09-03,Burkina Faso,Equatorial Guinea,1,0,Friendly,Bobo Dioulasso,Burkina Faso,False
+2011-10-08,Gambia,Burkina Faso,1,1,African Cup of Nations qualification,Bakau,Gambia,False
+2011-11-11,Burkina Faso,Mali,1,1,Friendly,Saint-Leu-la-Forêt,France,True
+2011-11-15,Guinea,Burkina Faso,1,1,Friendly,Viry-Châtillon,France,True
+2012-01-09,Gabon,Burkina Faso,0,0,Friendly,Bitam,Gabon,False
+2012-01-22,Burkina Faso,Angola,1,2,African Cup of Nations,Malabo,Equatorial Guinea,True
+2012-01-26,Ivory Coast,Burkina Faso,2,0,African Cup of Nations,Malabo,Equatorial Guinea,True
+2012-01-30,Sudan,Burkina Faso,2,1,African Cup of Nations,Bata,Equatorial Guinea,True
+2012-02-29,Morocco,Burkina Faso,2,0,Friendly,Marrakech,Morocco,False
+2012-05-26,Burkina Faso,Benin,2,2,Friendly,Ouagadougou,Burkina Faso,False
+2012-06-02,Burkina Faso,Congo,0,3,FIFA World Cup qualification,Ouagadougou,Burkina Faso,False
+2012-06-09,Gabon,Burkina Faso,1,0,FIFA World Cup qualification,Libreville,Gabon,False
+2012-08-14,Burkina Faso,Togo,3,0,Friendly,Saint-Leu-la-Forêt,France,True
+2012-09-08,Central African Republic,Burkina Faso,1,0,African Cup of Nations qualification,Bangui,Central African Republic,False
+2012-10-14,Burkina Faso,Central African Republic,3,1,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+2012-11-14,DR Congo,Burkina Faso,0,1,Friendly,Kinshasa,DR Congo,False
+2012-12-26,Bahrain,Burkina Faso,0,0,Friendly,Riffa,Bahrain,False
+2013-01-17,Eswatini,Burkina Faso,0,3,Friendly,Nelspruit,South Africa,True
+2013-01-21,Nigeria,Burkina Faso,1,1,African Cup of Nations,Nelspruit,South Africa,True
+2013-01-25,Burkina Faso,Ethiopia,4,0,African Cup of Nations,Nelspruit,South Africa,True
+2013-01-29,Burkina Faso,Zambia,0,0,African Cup of Nations,Nelspruit,South Africa,True
+2013-02-03,Burkina Faso,Togo,1,0,African Cup of Nations,Nelspruit,South Africa,True
+2013-02-06,Burkina Faso,Ghana,1,1,African Cup of Nations,Nelspruit,South Africa,True
+2013-02-10,Nigeria,Burkina Faso,1,0,African Cup of Nations,Johannesburg,South Africa,True
+2013-03-23,Burkina Faso,Niger,4,0,FIFA World Cup qualification,Ouagadougou,Burkina Faso,False
+2013-06-02,Algeria,Burkina Faso,2,0,Friendly,Blida,Algeria,False
+2013-06-09,Niger,Burkina Faso,0,1,FIFA World Cup qualification,Niamey,Niger,False
+2013-06-15,Congo,Burkina Faso,0,1,FIFA World Cup qualification,Pointe-Noire,Congo,False
+2013-06-29,Libya,Burkina Faso,2,1,Friendly,Misrata,Libya,False
+2013-08-14,Morocco,Burkina Faso,1,2,Friendly,Tangier,Morocco,False
+2013-08-17,South Africa,Burkina Faso,2,0,Friendly,Johannesburg,South Africa,False
+2013-09-07,Burkina Faso,Gabon,1,0,FIFA World Cup qualification,Ouagadougou,Burkina Faso,False
+2013-09-10,Nigeria,Burkina Faso,4,1,Friendly,Kaduna,Nigeria,False
+2013-09-30,Botswana,Burkina Faso,1,0,Friendly,Gaborone,Botswana,False
+2013-10-12,Burkina Faso,Algeria,3,2,FIFA World Cup qualification,Ouagadougou,Burkina Faso,False
+2013-11-19,Algeria,Burkina Faso,1,0,FIFA World Cup qualification,Blida,Algeria,False
+2014-03-05,Burkina Faso,Comoros,1,1,Friendly,Martigues,France,True
+2014-05-21,Burkina Faso,Senegal,1,1,Friendly,Ouagadougou,Burkina Faso,False
+2014-09-06,Burkina Faso,Lesotho,2,0,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+2014-09-10,Angola,Burkina Faso,0,3,African Cup of Nations qualification,Luanda,Angola,False
+2014-10-11,Gabon,Burkina Faso,2,0,African Cup of Nations qualification,Libreville,Gabon,False
+2014-10-15,Burkina Faso,Gabon,1,1,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+2014-11-15,Lesotho,Burkina Faso,0,1,African Cup of Nations qualification,Maseru,Lesotho,False
+2014-11-19,Burkina Faso,Angola,1,1,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+2015-01-10,Burkina Faso,Eswatini,5,1,Friendly,Nelspruit,South Africa,True
+2015-01-13,Botswana,Burkina Faso,0,2,Friendly,Nelspruit,South Africa,True
+2015-01-17,Burkina Faso,Gabon,0,2,African Cup of Nations,Bata,Equatorial Guinea,True
+2015-01-21,Equatorial Guinea,Burkina Faso,0,0,African Cup of Nations,Bata,Equatorial Guinea,False
+2015-01-25,Congo,Burkina Faso,2,1,African Cup of Nations,Ebebiyín,Equatorial Guinea,True
+2015-05-12,Kazakhstan,Burkina Faso,0,0,Friendly,Almaty,Kazakhstan,False
+2015-05-29,Corsica,Burkina Faso,1,0,Friendly,Bastia,France,False
+2015-06-06,Burkina Faso,Cameroon,2,3,Friendly,Colombes,France,True
+2015-06-13,Burkina Faso,Comoros,2,0,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+2015-08-30,Niger,Burkina Faso,0,0,Friendly,Niamey,Niger,False
+2015-09-05,Botswana,Burkina Faso,1,0,African Cup of Nations qualification,Francistown,Botswana,False
+2015-10-09,Burkina Faso,Mali,1,4,Friendly,Troyes,France,True
+2015-11-12,Benin,Burkina Faso,2,1,FIFA World Cup qualification,Cotonou,Benin,False
+2015-11-17,Burkina Faso,Benin,2,0,FIFA World Cup qualification,Ouagadougou,Burkina Faso,False
+2016-02-27,Egypt,Burkina Faso,2,0,Friendly,Alexandria,Egypt,False
+2016-03-26,Burkina Faso,Uganda,1,0,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+2016-03-29,Uganda,Burkina Faso,0,0,African Cup of Nations qualification,Kampala,Uganda,False
+2016-06-05,Comoros,Burkina Faso,0,1,African Cup of Nations qualification,Moroni,Comoros,False
+2016-08-24,Uzbekistan,Burkina Faso,1,0,Friendly,Tashkent,Uzbekistan,False
+2016-09-04,Burkina Faso,Botswana,2,1,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+2016-10-08,Burkina Faso,South Africa,1,1,FIFA World Cup qualification,Ouagadougou,Burkina Faso,False
+2016-11-12,Cape Verde,Burkina Faso,0,2,FIFA World Cup qualification,Praia,Cape Verde,False
+2017-01-07,Burkina Faso,Mali,2,1,Friendly,Marrakech,Morocco,True
+2017-01-14,Burkina Faso,Cameroon,1,1,African Cup of Nations,Libreville,Gabon,True
+2017-01-18,Gabon,Burkina Faso,1,1,African Cup of Nations,Libreville,Gabon,False
+2017-01-22,Guinea-Bissau,Burkina Faso,0,2,African Cup of Nations,Franceville,Gabon,True
+2017-01-28,Burkina Faso,Tunisia,2,0,African Cup of Nations,Libreville,Gabon,True
+2017-02-01,Burkina Faso,Egypt,1,1,African Cup of Nations,Libreville,Gabon,True
+2017-02-04,Burkina Faso,Ghana,1,0,African Cup of Nations,Port-Gentil,Gabon,True
+2017-03-24,Morocco,Burkina Faso,2,0,Friendly,Marrakech,Morocco,False
+2017-05-04,Burkina Faso,Benin,1,1,Friendly,Ouagadougou,Burkina Faso,False
+2017-05-21,Benin,Burkina Faso,2,2,Friendly,Cotonou,Benin,False
+2017-06-02,Chile,Burkina Faso,3,0,Friendly,Santiago,Chile,False
+2017-06-10,Burkina Faso,Angola,3,1,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+2017-07-16,Burkina Faso,North Korea,3,3,King's Cup,Bangkok,Thailand,True
+2017-09-02,Senegal,Burkina Faso,0,0,FIFA World Cup qualification,Dakar,Senegal,False
+2017-09-05,Burkina Faso,Senegal,2,2,FIFA World Cup qualification,Ouagadougou,Burkina Faso,False
+2017-10-07,South Africa,Burkina Faso,3,1,FIFA World Cup qualification,Johannesburg,South Africa,False
+2017-11-14,Burkina Faso,Cape Verde,4,0,FIFA World Cup qualification,Ouagadougou,Burkina Faso,False
+2018-03-22,Burkina Faso,Guinea-Bissau,2,0,Friendly,Limeil-Brévannes,France,True
+2018-03-27,Kosovo,Burkina Faso,2,0,Friendly,Franconville,France,True
+2018-05-27,Cameroon,Burkina Faso,0,1,Friendly,Beauvais,France,True
+2018-09-08,Mauritania,Burkina Faso,2,0,African Cup of Nations qualification,Nouakchott,Mauritania,False
+2018-10-13,Burkina Faso,Botswana,3,0,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+2018-10-16,Botswana,Burkina Faso,0,0,African Cup of Nations qualification,Francistown,Botswana,False
+2018-11-18,Angola,Burkina Faso,2,1,African Cup of Nations qualification,Luanda,Angola,False
+2019-03-22,Burkina Faso,Mauritania,1,0,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+2019-06-09,DR Congo,Burkina Faso,0,0,Friendly,Marbella,Spain,True
+2019-09-04,Libya,Burkina Faso,0,1,Friendly,Marrakech,Morocco,True
+2019-09-06,Morocco,Burkina Faso,1,1,Friendly,Marrakech,Morocco,False
+2019-10-10,Gabon,Burkina Faso,1,0,Friendly,Paris,France,True
+2019-11-13,Burkina Faso,Uganda,0,0,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+2019-11-17,South Sudan,Burkina Faso,1,2,African Cup of Nations qualification,Khartoum,Sudan,True
+2020-10-09,Burkina Faso,DR Congo,3,0,Friendly,Mohammedia,Morocco,True
+2020-10-12,Burkina Faso,Madagascar,2,1,Friendly,El Jadida,Morocco,True
+2020-11-12,Burkina Faso,Malawi,3,1,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+2020-11-16,Malawi,Burkina Faso,0,0,African Cup of Nations qualification,Blantyre,Malawi,False
+2021-03-24,Uganda,Burkina Faso,0,0,African Cup of Nations qualification,Kampala,Uganda,False
+2021-03-29,Burkina Faso,South Sudan,1,0,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+2021-06-05,Ivory Coast,Burkina Faso,2,1,Friendly,Abidjan,Ivory Coast,False
+2021-06-12,Morocco,Burkina Faso,1,0,Friendly,Rabat,Morocco,False
+2021-09-02,Niger,Burkina Faso,0,2,FIFA World Cup qualification,Marrakech,Morocco,True
+2021-09-07,Burkina Faso,Algeria,1,1,FIFA World Cup qualification,Marrakech,Morocco,True
+2021-10-08,Djibouti,Burkina Faso,0,4,FIFA World Cup qualification,Marrakech,Morocco,True
+2021-10-11,Burkina Faso,Djibouti,2,0,FIFA World Cup qualification,Marrakech,Morocco,True
+2021-11-12,Burkina Faso,Niger,1,1,FIFA World Cup qualification,Marrakech,Morocco,True
+2021-11-16,Algeria,Burkina Faso,2,2,FIFA World Cup qualification,Blida,Algeria,False
+2021-12-30,Mauritania,Burkina Faso,0,0,Friendly,Abu Dhabi,United Arab Emirates,True
+2022-01-02,Gabon,Burkina Faso,0,3,Friendly,Dubai,United Arab Emirates,True
+2022-01-09,Cameroon,Burkina Faso,2,1,African Cup of Nations,Yaoundé,Cameroon,False
+2022-01-13,Cape Verde,Burkina Faso,0,1,African Cup of Nations,Yaoundé,Cameroon,True
+2022-01-17,Burkina Faso,Ethiopia,1,1,African Cup of Nations,Bafoussam,Cameroon,True
+2022-01-23,Burkina Faso,Gabon,1,1,African Cup of Nations,Limbé,Cameroon,True
+2022-01-29,Burkina Faso,Tunisia,1,0,African Cup of Nations,Garoua,Cameroon,True
+2022-02-02,Burkina Faso,Senegal,1,3,African Cup of Nations,Yaoundé,Cameroon,True
+2022-02-05,Cameroon,Burkina Faso,3,3,African Cup of Nations,Yaoundé,Cameroon,False
+2022-03-24,Kosovo,Burkina Faso,5,0,Friendly,Pristina,Kosovo,False
+2022-03-29,Belgium,Burkina Faso,3,0,Friendly,Anderlecht,Belgium,False
+2022-06-03,Burkina Faso,Cape Verde,2,0,African Cup of Nations qualification,Marrakech,Morocco,True
+2022-06-07,Eswatini,Burkina Faso,1,3,African Cup of Nations qualification,Johannesburg,South Africa,True
+2022-09-23,DR Congo,Burkina Faso,0,1,Friendly,Casablanca,Morocco,True
+2022-09-27,Burkina Faso,Comoros,2,1,Friendly,Casablanca,Morocco,True
+2022-11-19,Ivory Coast,Burkina Faso,1,2,Friendly,Marrakech,Morocco,True
+2023-03-24,Burkina Faso,Togo,1,0,African Cup of Nations qualification,Marrakech,Morocco,True
+2023-03-28,Togo,Burkina Faso,1,1,African Cup of Nations qualification,Lomé,Togo,False
+2023-06-18,Cape Verde,Burkina Faso,3,1,African Cup of Nations qualification,Praia,Cape Verde,False
+2023-09-08,Burkina Faso,Eswatini,0,0,African Cup of Nations qualification,Marrakech,Morocco,True
+2023-09-12,Morocco,Burkina Faso,1,0,Friendly,Lens,France,True
+2023-10-13,Equatorial Guinea,Burkina Faso,0,0,Friendly,Malabo,Equatorial Guinea,False
+2023-10-17,Burkina Faso,Mauritania,2,1,Friendly,Casablanca,Morocco,True
+2023-11-17,Burkina Faso,Guinea-Bissau,1,1,FIFA World Cup qualification,Marrakech,Morocco,True
+2023-11-21,Ethiopia,Burkina Faso,0,3,FIFA World Cup qualification,El Jadida,Morocco,True
+2024-01-05,Iran,Burkina Faso,2,1,Friendly,Kish,Iran,False
+2024-01-10,DR Congo,Burkina Faso,1,2,Friendly,Abu Dhabi,United Arab Emirates,True
+2024-01-16,Burkina Faso,Mauritania,1,0,African Cup of Nations,Bouaké,Ivory Coast,True
+2024-01-20,Algeria,Burkina Faso,2,2,African Cup of Nations,Bouaké,Ivory Coast,True
+2024-01-23,Angola,Burkina Faso,2,0,African Cup of Nations,Yamoussoukro,Ivory Coast,True
+2024-01-30,Mali,Burkina Faso,2,1,African Cup of Nations,Korhogo,Ivory Coast,True
+2024-03-22,Burkina Faso,Libya,1,2,Friendly,Casablanca,Morocco,True
+2024-06-06,Egypt,Burkina Faso,2,1,FIFA World Cup qualification,Cairo,Egypt,False
+2024-06-10,Burkina Faso,Sierra Leone,2,2,FIFA World Cup qualification,Bamako,Mali,True
+2024-09-06,Senegal,Burkina Faso,1,1,African Cup of Nations qualification,Diamniadio,Senegal,False
+2024-09-10,Burkina Faso,Malawi,3,1,African Cup of Nations qualification,Bamako,Mali,True
+2024-10-10,Burkina Faso,Burundi,4,1,African Cup of Nations qualification,Ebimpé,Ivory Coast,True
+2024-10-13,Burundi,Burkina Faso,0,2,African Cup of Nations qualification,Abidjan,Ivory Coast,True
+2025-01-04,Burkina Faso,Kenya,1,1,Mapinduzi Cup,Gombani,Zanzibar,True
+2025-01-06,Zanzibar,Burkina Faso,0,1,Mapinduzi Cup,Gombani,Zanzibar,False
+2025-01-09,Tanzania,Burkina Faso,0,2,Mapinduzi Cup,Gombani,Zanzibar,True
+2025-01-13,Zanzibar,Burkina Faso,2,1,Mapinduzi Cup,Gombani,Zanzibar,False
+2025-03-21,Burkina Faso,Djibouti,4,1,FIFA World Cup qualification,El Jadida,Morocco,True
+2025-03-24,Guinea-Bissau,Burkina Faso,1,2,FIFA World Cup qualification,Bissau,Guinea-Bissau,False

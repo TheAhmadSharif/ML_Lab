@@ -1,0 +1,247 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1961-12-25,Chad,Niger,2,2,African Friendship Games,Abidjan,Ivory Coast,True
+1963-04-12,Nigeria,Niger,1,0,African Friendship Games,Dakar,Senegal,True
+1963-04-14,Cameroon,Niger,3,2,African Friendship Games,Dakar,Senegal,True
+1963-04-16,Senegal,Niger,3,1,African Friendship Games,Dakar,Senegal,False
+1966-02-27,Niger,DR Congo,2,1,Friendly,Niamey,Niger,False
+1967-01-29,Burkina Faso,Niger,3,2,Friendly,Ouagadougou,Upper Volta,False
+1967-01-31,Niger,Congo,1,3,Friendly,Niamey,Niger,False
+1967-04-02,Togo,Niger,1,0,African Cup of Nations qualification,Lomé,Togo,False
+1967-08-01,Niger,Burkina Faso,2,3,Friendly,Niamey,Niger,False
+1969-01-19,Benin,Niger,1,1,Friendly,Cotonou,Dahomey,False
+1969-08-17,Ghana,Niger,6,0,African Cup of Nations qualification,Accra,Ghana,False
+1969-09-21,Niger,Ghana,1,9,African Cup of Nations qualification,Niamey,Niger,False
+1970-03-22,Burkina Faso,Niger,3,3,Friendly,Ouagadougou,Upper Volta,False
+1970-12-12,Niger,Mali,0,1,African Cup of Nations qualification,Niamey,Niger,False
+1970-12-27,Mali,Niger,3,1,African Cup of Nations qualification,Bamako,Mali,False
+1971-12-19,Niger,Libya,0,1,Friendly,Niamey,Niger,False
+1975-02-23,Burkina Faso,Niger,4,1,Friendly,Ouagadougou,Upper Volta,False
+1975-03-23,Niger,Guinea,2,4,African Cup of Nations qualification,Niamey,Niger,False
+1975-04-06,Guinea,Niger,3,0,African Cup of Nations qualification,Conakry,Guinea,False
+1976-03-07,Sierra Leone,Niger,5,1,FIFA World Cup qualification,Freetown,Sierra Leone,False
+1976-03-21,Niger,Sierra Leone,2,1,FIFA World Cup qualification,Niamey,Niger,False
+1979-10-26,Niger,Togo,2,2,Friendly,Abidjan,Ivory Coast,True
+1979-10-28,Benin,Niger,0,1,Friendly,Abidjan,Ivory Coast,True
+1980-07-16,Niger,Somalia,0,0,FIFA World Cup qualification,Niamey,Niger,False
+1980-07-27,Somalia,Niger,1,1,FIFA World Cup qualification,Mogadishu,Somalia,False
+1980-11-15,Benin,Niger,1,0,Friendly,Cotonou,Benin,False
+1980-12-14,Niger,Togo,0,1,FIFA World Cup qualification,Niamey,Niger,False
+1980-12-28,Togo,Niger,1,2,FIFA World Cup qualification,Lomé,Togo,False
+1981-04-01,Cameroon,Niger,2,0,Friendly,Yaoundé,Cameroon,False
+1981-05-01,Algeria,Niger,4,0,FIFA World Cup qualification,Constantine,Algeria,False
+1981-05-31,Niger,Algeria,1,0,FIFA World Cup qualification,Niamey,Niger,False
+1981-09-06,Niger,Burkina Faso,2,1,Friendly,Niamey,Niger,False
+1982-02-06,Mali,Niger,2,2,Friendly,Bamako,Mali,False
+1982-02-15,Benin,Niger,2,0,West African Cup,Cotonou,Benin,False
+1982-02-17,Ghana,Niger,2,2,West African Cup,Cotonou,Benin,True
+1982-02-19,Ivory Coast,Niger,1,1,West African Cup,Cotonou,Benin,True
+1982-10-03,Burkina Faso,Niger,1,1,Friendly,Bobo Dioulasso,Upper Volta,False
+1982-11-14,Niger,Senegal,0,0,African Cup of Nations qualification,Niamey,Niger,False
+1982-11-28,Senegal,Niger,1,0,African Cup of Nations qualification,Dakar,Senegal,False
+1983-01-23,Niger,Senegal,2,0,Friendly,Niamey,Niger,False
+1983-02-06,Senegal,Niger,2,0,Friendly,Dakar,Senegal,False
+1983-06-26,Niger,Mauritania,1,0,Friendly,Niamey,Niger,False
+1983-07-14,Mauritania,Niger,0,0,Friendly,Nouakchott,Mauritania,False
+1983-11-13,Niger,Mali,1,1,Friendly,Niamey,Niger,False
+1983-11-14,Niger,Mali,1,1,Friendly,Niamey,Niger,False
+1984-07-30,Ghana,Niger,1,0,Friendly,Bobo Dioulasso,Upper Volta,True
+1984-09-23,Niger,Ivory Coast,1,3,Friendly,Niamey,Niger,False
+1986-02-24,Ghana,Niger,2,0,West African Cup,Accra,Ghana,False
+1986-02-25,Liberia,Niger,3,0,West African Cup,Accra,Ghana,True
+1986-02-26,Burkina Faso,Niger,0,0,West African Cup,Accra,Ghana,True
+1986-02-28,Niger,Togo,3,1,West African Cup,Accra,Ghana,True
+1986-03-01,Togo,Niger,3,1,West African Cup,Accra,Ghana,True
+1986-03-02,Burkina Faso,Niger,1,2,West African Cup,Accra,Ghana,True
+1987-01-25,Niger,Mali,1,0,Friendly,Niamey,Niger,False
+1987-02-02,Niger,Ghana,0,4,West African Cup,Monrovia,Liberia,True
+1987-02-04,Niger,Ivory Coast,0,1,West African Cup,Monrovia,Liberia,True
+1988-07-24,Burkina Faso,Niger,1,0,Tournament Burkina Faso,Ouagadougou,Burkina Faso,False
+1988-07-27,Mali,Niger,1,0,Tournament Burkina Faso,Ouagadougou,Burkina Faso,True
+1988-07-29,Ghana,Niger,0,3,Tournament Burkina Faso,Ouagadougou,Burkina Faso,True
+1988-08-02,Benin,Niger,0,5,Tournament Burkina Faso,Ouagadougou,Burkina Faso,True
+1988-08-04,Burkina Faso,Niger,1,0,Tournament Burkina Faso,Ouagadougou,Burkina Faso,False
+1990-08-19,Morocco,Niger,2,0,African Cup of Nations qualification,Casablanca,Morocco,False
+1990-09-30,Niger,Ivory Coast,0,1,African Cup of Nations qualification,Niamey,Niger,False
+1990-10-14,Niger,Mauritania,7,1,African Cup of Nations qualification,Niamey,Niger,False
+1991-01-09,Burkina Faso,Niger,2,2,Friendly,Ouagadougou,Burkina Faso,False
+1991-01-27,Niger,Morocco,1,0,African Cup of Nations qualification,Niamey,Niger,False
+1991-04-30,Ivory Coast,Niger,1,0,African Cup of Nations qualification,Abidjan,Ivory Coast,False
+1991-07-26,Mauritania,Niger,0,1,African Cup of Nations qualification,Nouakchott,Mauritania,False
+1991-11-23,Ivory Coast,Niger,5,2,Friendly,Abidjan,Ivory Coast,False
+1992-08-09,Libya,Niger,0,0,Friendly,Tripoli,Libya,False
+1992-08-16,Benin,Niger,1,2,African Cup of Nations qualification,Cotonou,Benin,False
+1992-08-30,Niger,Gabon,1,3,African Cup of Nations qualification,Niamey,Niger,False
+1992-10-18,Niger,Mali,0,2,Friendly,Niamey,Niger,False
+1992-10-25,Niger,Ivory Coast,0,0,FIFA World Cup qualification,Niamey,Niger,False
+1992-11-15,Niger,Mali,0,1,Friendly,Niamey,Niger,False
+1992-12-13,Niger,Ghana,0,1,Friendly,Niamey,Niger,False
+1992-12-20,Botswana,Niger,0,1,FIFA World Cup qualification,Gaborone,Botswana,False
+1993-01-23,Ghana,Niger,4,0,Friendly,Kumasi,Ghana,False
+1993-01-31,Ivory Coast,Niger,1,0,FIFA World Cup qualification,Abidjan,Ivory Coast,False
+1993-02-28,Niger,Botswana,2,1,FIFA World Cup qualification,Niamey,Niger,False
+1993-04-03,Niger,Benin,2,2,Friendly,Niamey,Niger,False
+1993-04-11,Niger,Cameroon,0,0,African Cup of Nations qualification,Niamey,Niger,False
+1993-04-25,Niger,Benin,4,1,African Cup of Nations qualification,Niamey,Niger,False
+1993-07-07,Ivory Coast,Niger,3,2,Friendly,Abidjan,Ivory Coast,False
+1993-07-11,Gabon,Niger,3,0,African Cup of Nations qualification,Libreville,Gabon,False
+1993-07-25,Cameroon,Niger,2,0,African Cup of Nations qualification,Yaoundé,Cameroon,False
+1994-01-29,Ivory Coast,Niger,5,3,Friendly,Ouagadougou,Burkina Faso,True
+1994-01-30,Guinea,Niger,1,3,Friendly,Ouagadougou,Burkina Faso,True
+1994-03-17,Tunisia,Niger,4,2,Friendly,Tunis,Tunisia,False
+1994-08-16,Niger,Togo,3,2,Friendly,Niamey,Niger,False
+1994-08-23,Burkina Faso,Niger,0,0,Friendly,Ouagadougou,Burkina Faso,False
+1994-10-09,Senegal,Niger,3,1,Friendly,Dakar,Senegal,False
+1996-05-12,Burkina Faso,Niger,0,0,Friendly,Ouagadougou,Burkina Faso,False
+1998-01-30,Niger,Namibia,2,1,Friendly,Niamey,Niger,False
+1998-02-05,Morocco,Niger,3,0,Friendly,Marrakech,Morocco,False
+1998-07-24,Burkina Faso,Niger,1,0,Friendly,Ouagadougou,Burkina Faso,False
+1998-07-26,Niger,Ivory Coast,1,0,Friendly,Niamey,Niger,False
+1998-08-02,Niger,Liberia,2,1,African Cup of Nations qualification,Niamey,Niger,False
+1998-08-09,Benin,Niger,1,1,Friendly,Cotonou,Benin,False
+1998-08-16,Liberia,Niger,2,0,African Cup of Nations qualification,Monrovia,Liberia,False
+2000-07-02,Niger,Ivory Coast,0,1,African Cup of Nations qualification,Niamey,Niger,False
+2000-07-16,Ivory Coast,Niger,6,0,African Cup of Nations qualification,Abidjan,Ivory Coast,False
+2002-09-07,Niger,Ethiopia,3,1,African Cup of Nations qualification,Niamey,Niger,False
+2002-10-03,Morocco,Niger,6,1,Friendly,Rabat,Morocco,False
+2002-10-12,Liberia,Niger,1,0,African Cup of Nations qualification,Monrovia,Liberia,False
+2002-12-27,Niger,Burkina Faso,1,1,Friendly,Niamey,Niger,False
+2002-12-29,Niger,Mali,2,2,Friendly,Niamey,Niger,False
+2003-03-07,Benin,Niger,1,1,TIFOCO Tournament,Cotonou,Benin,False
+2003-03-30,Guinea,Niger,2,0,African Cup of Nations qualification,Conakry,Guinea,False
+2003-06-07,Niger,Guinea,1,0,African Cup of Nations qualification,Niamey,Niger,False
+2003-06-22,Ethiopia,Niger,2,0,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+2003-07-05,Niger,Liberia,1,0,African Cup of Nations qualification,Niamey,Niger,False
+2003-10-11,Niger,Algeria,0,1,FIFA World Cup qualification,Niamey,Niger,False
+2003-11-14,Algeria,Niger,6,0,FIFA World Cup qualification,Algiers,Algeria,False
+2006-08-29,Togo,Niger,1,1,Friendly,Lomé,Togo,False
+2006-09-02,Nigeria,Niger,2,0,African Cup of Nations qualification,Abuja,Nigeria,False
+2006-10-08,Niger,Uganda,0,0,African Cup of Nations qualification,Niamey,Niger,False
+2007-03-25,Lesotho,Niger,3,1,African Cup of Nations qualification,Maseru,Lesotho,False
+2007-06-03,Niger,Lesotho,2,0,African Cup of Nations qualification,Niamey,Niger,False
+2007-06-17,Niger,Nigeria,1,3,African Cup of Nations qualification,Niamey,Niger,False
+2007-09-08,Uganda,Niger,3,1,African Cup of Nations qualification,Kampala,Uganda,False
+2007-11-21,Equatorial Guinea,Niger,1,1,Friendly,Malabo,Equatorial Guinea,False
+2008-05-31,Uganda,Niger,1,0,FIFA World Cup qualification,Kampala,Uganda,False
+2008-06-08,Niger,Angola,1,2,FIFA World Cup qualification,Niamey,Niger,False
+2008-06-14,Niger,Benin,0,2,FIFA World Cup qualification,Niamey,Niger,False
+2008-06-22,Benin,Niger,2,0,FIFA World Cup qualification,Cotonou,Benin,False
+2008-08-28,Libya,Niger,6,2,Friendly,Tripoli,Libya,False
+2008-09-07,Niger,Uganda,3,1,FIFA World Cup qualification,Niamey,Niger,False
+2008-10-12,Angola,Niger,3,1,FIFA World Cup qualification,Luanda,Angola,False
+2010-03-07,Niger,Benin,2,0,Friendly,Niamey,Niger,False
+2010-06-19,Niger,Chad,1,1,Friendly,Niamey,Niger,False
+2010-08-11,Benin,Niger,0,0,Friendly,Porto-Novo,Benin,False
+2010-09-04,South Africa,Niger,2,0,African Cup of Nations qualification,Nelspruit,South Africa,False
+2010-10-10,Niger,Egypt,1,0,African Cup of Nations qualification,Niamey,Niger,False
+2010-11-17,Libya,Niger,1,1,Friendly,Tripoli,Libya,False
+2011-02-09,Morocco,Niger,3,0,Friendly,Marrakech,Morocco,False
+2011-03-27,Niger,Sierra Leone,3,1,African Cup of Nations qualification,Niamey,Niger,False
+2011-06-04,Sierra Leone,Niger,1,0,African Cup of Nations qualification,Freetown,Sierra Leone,False
+2011-08-10,Niger,Togo,3,3,Friendly,Niamey,Niger,False
+2011-08-14,Liberia,Niger,0,0,Friendly,Paynesville,Liberia,False
+2011-09-04,Niger,South Africa,2,1,African Cup of Nations qualification,Niamey,Niger,False
+2011-09-06,Gabon,Niger,1,0,Friendly,Nice,France,True
+2011-10-08,Egypt,Niger,3,0,African Cup of Nations qualification,Cairo,Egypt,False
+2011-11-15,Niger,Botswana,1,1,Friendly,Niamey,Niger,False
+2012-01-23,Gabon,Niger,2,0,African Cup of Nations,Libreville,Gabon,False
+2012-01-27,Niger,Tunisia,1,2,African Cup of Nations,Libreville,Gabon,True
+2012-01-31,Niger,Morocco,0,1,African Cup of Nations,Libreville,Gabon,True
+2012-02-29,Egypt,Niger,1,0,Friendly,Doha,Qatar,True
+2012-05-26,Algeria,Niger,3,0,Friendly,Blida,Algeria,False
+2012-06-03,Niger,Gabon,3,0,FIFA World Cup qualification,Niamey,Niger,False
+2012-06-09,Congo,Niger,1,0,FIFA World Cup qualification,Pointe-Noire,Congo,False
+2012-08-15,Niger,Nigeria,0,0,Friendly,Niamey,Niger,False
+2012-09-09,Guinea,Niger,1,0,African Cup of Nations qualification,Conakry,Guinea,False
+2012-10-14,Niger,Guinea,2,0,African Cup of Nations qualification,Niamey,Niger,False
+2012-11-14,Niger,Senegal,1,1,Friendly,Niamey,Niger,False
+2012-12-30,Ethiopia,Niger,1,0,Friendly,Addis Ababa,Ethiopia,False
+2013-01-05,Niger,Togo,3,1,Friendly,Niamey,Niger,False
+2013-01-13,Togo,Niger,2,1,Friendly,Lomé,Togo,False
+2013-01-20,Mali,Niger,1,0,African Cup of Nations,Port Elizabeth,South Africa,True
+2013-01-24,Niger,DR Congo,0,0,African Cup of Nations,Port Elizabeth,South Africa,True
+2013-01-28,Niger,Ghana,0,3,African Cup of Nations,Port Elizabeth,South Africa,True
+2013-03-23,Burkina Faso,Niger,4,0,FIFA World Cup qualification,Ouagadougou,Burkina Faso,False
+2013-06-09,Niger,Burkina Faso,0,1,FIFA World Cup qualification,Niamey,Niger,False
+2013-06-15,Gabon,Niger,4,1,FIFA World Cup qualification,Franceville,Gabon,False
+2013-09-07,Niger,Congo,2,2,FIFA World Cup qualification,Niamey,Niger,False
+2013-11-15,Libya,Niger,1,1,Friendly,Sousse,Tunisia,True
+2014-03-05,Mauritania,Niger,1,1,Friendly,Nouakchott,Mauritania,False
+2014-05-22,Ukraine,Niger,2,1,Friendly,Kyiv,Ukraine,False
+2014-09-02,Niger,Uganda,2,0,Friendly,Niamey,Niger,False
+2014-09-06,Niger,Cape Verde,1,3,African Cup of Nations qualification,Niamey,Niger,False
+2014-09-10,Mozambique,Niger,1,1,African Cup of Nations qualification,Maputo,Mozambique,False
+2014-10-11,Niger,Zambia,0,0,African Cup of Nations qualification,Niamey,Niger,False
+2014-10-15,Zambia,Niger,3,0,African Cup of Nations qualification,Ndola,Zambia,False
+2014-11-15,Cape Verde,Niger,3,1,African Cup of Nations qualification,Praia,Cape Verde,False
+2014-11-19,Niger,Mozambique,1,1,African Cup of Nations qualification,Niamey,Niger,False
+2015-03-31,Mauritania,Niger,2,0,Friendly,Nouakchott,Mauritania,False
+2015-06-06,Niger,Gabon,2,1,Friendly,Niamey,Niger,False
+2015-06-14,Niger,Namibia,1,0,African Cup of Nations qualification,Niamey,Niger,False
+2015-08-30,Niger,Burkina Faso,0,0,Friendly,Niamey,Niger,False
+2015-09-05,Burundi,Niger,2,0,African Cup of Nations qualification,Bujumbura,Burundi,False
+2015-09-08,Nigeria,Niger,2,0,Friendly,Port Harcourt,Nigeria,False
+2015-10-09,Somalia,Niger,0,2,FIFA World Cup qualification,Addis Ababa,Ethiopia,True
+2015-10-13,Niger,Somalia,4,0,FIFA World Cup qualification,Niamey,Niger,False
+2015-11-13,Niger,Cameroon,0,3,FIFA World Cup qualification,Niamey,Niger,False
+2015-11-17,Cameroon,Niger,0,0,FIFA World Cup qualification,Yaoundé,Cameroon,False
+2016-03-26,Senegal,Niger,2,0,African Cup of Nations qualification,Dakar,Senegal,False
+2016-03-29,Niger,Senegal,1,2,African Cup of Nations qualification,Niamey,Niger,False
+2016-06-04,Namibia,Niger,1,0,African Cup of Nations qualification,Windhoek,Namibia,False
+2016-09-04,Niger,Burundi,3,1,African Cup of Nations qualification,Niamey,Niger,False
+2017-06-10,Niger,Eswatini,0,0,African Cup of Nations qualification,Niamey,Niger,False
+2017-08-31,Niger,Togo,0,2,Friendly,Agadir,Morocco,True
+2017-09-05,Mauritania,Niger,0,2,Friendly,Agadir,Morocco,True
+2018-05-27,Niger,Central African Republic,3,3,Friendly,Niamey,Niger,False
+2018-06-02,Niger,Uganda,2,1,Friendly,Niamey,Niger,False
+2018-09-08,Egypt,Niger,6,0,African Cup of Nations qualification,Alexandria,Egypt,False
+2018-10-13,Tunisia,Niger,1,0,African Cup of Nations qualification,Radès,Tunisia,False
+2018-10-16,Niger,Tunisia,1,2,African Cup of Nations qualification,Niamey,Niger,False
+2018-11-18,Eswatini,Niger,1,2,African Cup of Nations qualification,Manzini,Eswatini,False
+2019-03-23,Niger,Egypt,1,1,African Cup of Nations qualification,Niamey,Niger,False
+2019-09-07,Libya,Niger,2,0,Friendly,Berrechid,Egypt,True
+2019-09-10,Morocco,Niger,1,0,Friendly,Marrakech,Morocco,False
+2019-10-10,Niger,Zambia,1,1,Friendly,Niamey,Niger,False
+2019-10-13,Niger,Central African Republic,0,2,Friendly,Niger,Niger,False
+2019-11-16,Ivory Coast,Niger,1,0,African Cup of Nations qualification,Abidjan,Ivory Coast,False
+2019-11-18,Niger,Madagascar,2,6,African Cup of Nations qualification,Niamey,Niger,False
+2020-10-10,Niger,Chad,2,0,Friendly,Niamey,Niger,False
+2020-10-13,Niger,Sierra Leone,1,0,Friendly,Niamey,Niger,False
+2020-11-13,Niger,Ethiopia,1,0,African Cup of Nations qualification,Niamey,Niger,False
+2020-11-17,Ethiopia,Niger,3,0,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+2021-03-26,Niger,Ivory Coast,0,3,African Cup of Nations qualification,Lomé,Togo,True
+2021-03-30,Madagascar,Niger,0,0,African Cup of Nations qualification,Toamasina,Madagascar,False
+2021-06-05,Niger,Gambia,0,2,Friendly,Antalya,Turkey,True
+2021-06-09,Niger,Congo,0,1,Friendly,Antalya,Turkey,True
+2021-06-11,Guinea,Niger,2,1,Friendly,Antalya,Turkey,True
+2021-08-22,Niger,Sudan,2,1,Friendly,Dubai,United Arab Emirates,True
+2021-08-26,Sudan,Niger,3,0,Friendly,Dubai,United Arab Emirates,True
+2021-09-02,Niger,Burkina Faso,0,2,FIFA World Cup qualification,Marrakech,Morocco,True
+2021-09-06,Djibouti,Niger,2,4,FIFA World Cup qualification,Rabat,Morocco,True
+2021-10-08,Algeria,Niger,6,1,FIFA World Cup qualification,Algiers,Algeria,False
+2021-10-12,Niger,Algeria,0,4,FIFA World Cup qualification,Niamey,Niger,False
+2021-11-12,Burkina Faso,Niger,1,1,FIFA World Cup qualification,Marrakech,Morocco,True
+2021-11-15,Niger,Djibouti,7,2,FIFA World Cup qualification,Niamey,Niger,False
+2022-03-23,Mozambique,Niger,1,1,Friendly,Nouakchott,Mauritania,True
+2022-03-26,Libya,Niger,2,1,Friendly,Nouakchott,Mauritania,True
+2022-06-04,Niger,Tanzania,1,1,African Cup of Nations qualification,Cotonou,Benin,True
+2022-06-08,Uganda,Niger,1,1,African Cup of Nations qualification,Entebbe,Uganda,False
+2022-09-23,Egypt,Niger,3,0,Friendly,Alexandria,Egypt,False
+2022-09-25,Niger,Liberia,0,0,Friendly,Cairo,Egypt,True
+2022-11-17,Niger,Libya,2,3,Friendly,Antalya,Turkey,True
+2022-11-20,Niger,Gabon,1,3,Friendly,Antalya,Turkey,True
+2023-03-23,Algeria,Niger,2,1,African Cup of Nations qualification,Algiers,Algeria,False
+2023-03-27,Niger,Algeria,0,1,African Cup of Nations qualification,Radès,Tunisia,True
+2023-06-18,Tanzania,Niger,1,0,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+2023-09-07,Niger,Uganda,0,2,African Cup of Nations qualification,Marrakech,Morocco,True
+2023-10-14,Niger,Somalia,3,0,Friendly,Mohammedia,Morocco,True
+2023-10-17,Libya,Niger,1,1,Friendly,Khouribga,Morocco,True
+2023-11-18,Niger,Tanzania,0,1,FIFA World Cup qualification,Marrakech,Morocco,True
+2023-11-21,Niger,Zambia,2,1,FIFA World Cup qualification,Marrakech,Morocco,True
+2024-01-08,Senegal,Niger,1,0,Friendly,Dakar,Senegal,False
+2024-03-22,Niger,Togo,1,2,Friendly,Mohammedia,Morocco,True
+2024-09-04,Sudan,Niger,1,0,African Cup of Nations qualification,Juba,South Sudan,True
+2024-09-09,Niger,Ghana,1,1,African Cup of Nations qualification,Berkane,Morocco,True
+2024-10-11,Angola,Niger,2,0,African Cup of Nations qualification,Luanda,Angola,False
+2024-10-15,Niger,Angola,0,1,African Cup of Nations qualification,Casablanca,Morocco,True
+2025-03-21,Morocco,Niger,2,1,FIFA World Cup qualification,Oujda,Morocco,False
+2025-03-25,Niger,Bonaire,6,0,Friendly,Casablanca,Morocco,True

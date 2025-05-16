@@ -1,0 +1,269 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1934-03-13,Guadeloupe,Martinique,0,6,Friendly,Basse-Terre,Guadeloupe,False
+1941-02-22,Guadeloupe,Martinique,1,2,Friendly,Basse-Terre,Guadeloupe,False
+1941-09-07,Martinique,Guadeloupe,5,0,Friendly,Fort-de-France,Martinique,False
+1948-12-16,Guadeloupe,Haiti,1,0,Friendly,Pointe-à-Pitre,Guadeloupe,False
+1948-12-18,Guadeloupe,French Guiana,7,2,Friendly,Pointe-à-Pitre,Guadeloupe,False
+1948-12-20,Guadeloupe,Martinique,3,0,Friendly,Pointe-à-Pitre,Guadeloupe,False
+1950-12-05,Guadeloupe,Trinidad and Tobago,0,1,Friendly,Basse-Terre,Guadeloupe,False
+1951-03-19,Martinique,Guadeloupe,3,0,Friendly,Fort-de-France,Martinique,False
+1951-05-17,Guadeloupe,Martinique,1,1,Friendly,Pointe-à-Pitre,Guadeloupe,False
+1951-12-13,Guadeloupe,Trinidad and Tobago,0,2,Friendly,Basse-Terre,Guadeloupe,False
+1952-03-12,Guadeloupe,Martinique,4,0,Friendly,Basse-Terre,Guadeloupe,False
+1952-03-13,Martinique,Guadeloupe,1,2,Friendly,Fort-de-France,Martinique,False
+1953-04-16,Martinique,Guadeloupe,4,3,Friendly,Fort-de-France,Martinique,False
+1953-05-17,Guadeloupe,Martinique,0,2,Friendly,Pointe-à-Pitre,Guadeloupe,False
+1954-03-19,Martinique,Guadeloupe,2,2,Friendly,Fort-de-France,Martinique,False
+1954-05-21,Guadeloupe,Martinique,2,4,Friendly,Basse-Terre,Guadeloupe,False
+1955-03-01,Martinique,Guadeloupe,4,1,Friendly,Fort-de-France,Martinique,False
+1955-05-05,Martinique,Guadeloupe,1,1,Friendly,Fort-de-France,Martinique,False
+1956-03-31,Guadeloupe,Curaçao,1,2,Friendly,Fort-de-France,Martinique,True
+1956-04-26,Martinique,Guadeloupe,3,0,Friendly,Fort-de-France,Martinique,False
+1956-05-20,Guadeloupe,Martinique,2,2,Friendly,Basse-Terre,Guadeloupe,False
+1957-04-20,Martinique,Guadeloupe,6,1,Friendly,Fort-de-France,Martinique,False
+1957-05-15,Guadeloupe,Martinique,5,2,Friendly,Basse-Terre,Guadeloupe,False
+1958-04-14,Martinique,Guadeloupe,1,1,Friendly,Fort-de-France,Martinique,False
+1959-03-11,Martinique,Guadeloupe,3,0,Friendly,Fort-de-France,Martinique,False
+1959-05-21,Martinique,Guadeloupe,1,2,Friendly,Fort-de-France,Martinique,False
+1959-06-06,Guadeloupe,Suriname,3,3,Friendly,Basse-Terre,Guadeloupe,False
+1959-06-07,Guadeloupe,Suriname,3,1,Friendly,Basse-Terre,Guadeloupe,False
+1960-02-20,Martinique,Guadeloupe,2,2,Friendly,Fort-de-France,Martinique,False
+1960-06-16,Martinique,Guadeloupe,1,0,Friendly,Fort-de-France,Martinique,False
+1961-04-11,Martinique,Guadeloupe,2,2,Friendly,Fort-de-France,Martinique,False
+1962-04-19,Guadeloupe,Martinique,1,0,Friendly,Basse-Terre,Guadeloupe,False
+1962-08-31,Suriname,Guadeloupe,3,1,Friendly,Paramaribo,Dutch Guyana,False
+1962-10-13,Suriname,Guadeloupe,3,3,Friendly,Paramaribo,Dutch Guyana,False
+1962-11-11,Guadeloupe,Martinique,3,1,Friendly,San Juan,Puerto Rico,True
+1962-11-24,Puerto Rico,Guadeloupe,0,3,Friendly,San Juan,Puerto Rico,False
+1963-04-16,Guadeloupe,Martinique,3,0,Friendly,Basse-Terre,Guadeloupe,False
+1963-04-20,Guadeloupe,Puerto Rico,3,0,Friendly,Basse-Terre,Guadeloupe,False
+1964-09-19,Martinique,Guadeloupe,1,0,Friendly,Fort-de-France,Martinique,False
+1964-09-23,Guadeloupe,Puerto Rico,4,0,Friendly,Fort-de-France,Martinique,True
+1966-06-11,Haiti,Guadeloupe,3,0,Friendly,Port-au-Prince,Haiti,False
+1966-06-13,Jamaica,Guadeloupe,0,0,Friendly,Port-au-Prince,Haiti,True
+1966-06-15,Guadeloupe,Suriname,0,4,Friendly,Port-au-Prince,Haiti,True
+1966-06-18,Guadeloupe,Curaçao,0,4,Friendly,Port-au-Prince,Haiti,True
+1966-06-20,Trinidad and Tobago,Guadeloupe,1,2,Friendly,Port-au-Prince,Haiti,True
+1967-01-21,Martinique,Guadeloupe,2,1,Friendly,Fort-de-France,Martinique,False
+1967-11-08,Puerto Rico,Guadeloupe,2,4,Friendly,San Juan,Puerto Rico,False
+1967-11-11,Guadeloupe,Martinique,0,1,Friendly,San Juan,Puerto Rico,True
+1968-11-11,Guadeloupe,Martinique,3,1,Friendly,Basse-Terre,Guadeloupe,False
+1968-11-14,Guadeloupe,Puerto Rico,2,0,Friendly,Basse-Terre,Guadeloupe,False
+1971-07-14,Martinique,Guadeloupe,2,1,Friendly,Fort-de-France,Martinique,False
+1971-07-21,Guadeloupe,Martinique,1,1,Friendly,Basse-Terre,Guadeloupe,False
+1972-02-13,Guadeloupe,Haiti,4,4,Friendly,Basse-Terre,Guadeloupe,False
+1973-11-06,Guadeloupe,Martinique,0,2,Friendly,Basse-Terre,Guadeloupe,False
+1975-03-13,Guadeloupe,Puerto Rico,2,1,Friendly,Basse-Terre,Guadeloupe,False
+1975-03-30,Guadeloupe,Suriname,4,2,Friendly,Basse-Terre,Guadeloupe,False
+1975-05-10,Martinique,Guadeloupe,8,2,Friendly,Fort-de-France,Martinique,False
+1975-09-26,Haiti,Guadeloupe,3,0,Friendly,Port-au-Prince,Haiti,False
+1976-05-02,Guadeloupe,Martinique,0,1,Friendly,Pointe-à-Pitre,Guadeloupe,False
+1976-05-11,Martinique,Guadeloupe,3,2,Friendly,Fort-de-France,Martinique,False
+1977-03-07,Guadeloupe,Martinique,1,3,Friendly,Capesterre-Belle-Eau,Guadeloupe,False
+1977-04-14,Martinique,Guadeloupe,1,0,Friendly,Fort-de-France,Martinique,False
+1978-03-26,Martinique,Guadeloupe,1,2,Friendly,Fort-de-France,Martinique,False
+1978-07-02,Guadeloupe,Jamaica,1,0,CFU Caribbean Cup qualification,Pointe-à-Pitre,Guadeloupe,False
+1978-07-30,Jamaica,Guadeloupe,1,2,CFU Caribbean Cup qualification,Kingston,Jamaica,False
+1979-04-15,Guadeloupe,Martinique,0,1,Friendly,Capesterre-Belle-Eau,Guadeloupe,False
+1979-10-22,Guadeloupe,Saint Vincent and the Grenadines,1,3,CFU Caribbean Cup qualification,Basse-Terre,Guadeloupe,False
+1979-10-22,Saint Vincent and the Grenadines,Guadeloupe,0,0,CFU Caribbean Cup qualification,Kingstown,Saint Vincent and the Grenadines,False
+1980-05-09,Martinique,Guadeloupe,1,0,Friendly,Fort-de-France,Martinique,False
+1981-06-21,Guadeloupe,Dominica,5,0,CFU Caribbean Cup qualification,Basse-Terre,Guadeloupe,False
+1981-07-05,Dominica,Guadeloupe,2,3,CFU Caribbean Cup qualification,Roseau,Dominica,False
+1981-08-02,Guadeloupe,Saint Vincent and the Grenadines,3,0,CFU Caribbean Cup qualification,Basse-Terre,Guadeloupe,False
+1981-08-16,Saint Vincent and the Grenadines,Guadeloupe,3,1,CFU Caribbean Cup qualification,Kingstown,Saint Vincent and the Grenadines,False
+1981-10-19,Puerto Rico,Guadeloupe,1,1,CFU Caribbean Cup,San Juan,Puerto Rico,False
+1981-10-21,Guadeloupe,Trinidad and Tobago,0,2,CFU Caribbean Cup,San Juan,Puerto Rico,True
+1981-10-24,Guadeloupe,Saint Vincent and the Grenadines,1,3,CFU Caribbean Cup,San Juan,Puerto Rico,True
+1983-02-20,Guadeloupe,Dominica,1,0,CFU Caribbean Cup qualification,Basse-Terre,Guadeloupe,False
+1983-03-06,Dominica,Guadeloupe,1,2,CFU Caribbean Cup qualification,Roseau,Dominica,False
+1983-04-02,Guadeloupe,Antigua and Barbuda,2,3,CFU Caribbean Cup qualification,Basse-Terre,Guadeloupe,False
+1983-05-08,Antigua and Barbuda,Guadeloupe,3,3,CFU Caribbean Cup qualification,St. John's,Antigua and Barbuda,False
+1985-03-03,Antigua and Barbuda,Guadeloupe,0,1,CFU Caribbean Cup qualification,St. John's,Antigua and Barbuda,False
+1985-04-03,Guadeloupe,Trinidad and Tobago,1,1,CFU Caribbean Cup qualification,Basse-Terre,Guadeloupe,False
+1985-04-27,Suriname,Guadeloupe,0,1,CFU Caribbean Cup qualification,Cayenne,French Guiana,True
+1985-06-25,Guadeloupe,Martinique,1,2,CFU Caribbean Cup,Bridgetown,Barbados,True
+1985-06-27,Barbados,Guadeloupe,1,1,CFU Caribbean Cup,Bridgetown,Barbados,False
+1985-06-30,Guadeloupe,Suriname,2,2,CFU Caribbean Cup,Bridgetown,Barbados,True
+1986-03-03,Guadeloupe,Norway,1,2,Friendly,Basse-Terre,Guadeloupe,False
+1987-05-28,Guadeloupe,French Guiana,4,1,Friendly,Gagny,France,True
+1987-05-30,Guadeloupe,Réunion,3,0,Friendly,Gagny,France,True
+1988-03-11,Guadeloupe,Suriname,0,2,CFU Caribbean Cup qualification,Basse-Terre,Guadeloupe,False
+1988-04-19,Guadeloupe,Suriname,1,1,CFU Caribbean Cup qualification,Basse-Terre,Guadeloupe,False
+1988-05-11,Guadeloupe,Togo,2,1,Friendly,Paris,France,True
+1988-07-05,Guadeloupe,Trinidad and Tobago,0,3,CFU Caribbean Cup,Fort-de-France,Martinique,True
+1988-07-07,Martinique,Guadeloupe,2,1,CFU Caribbean Cup,Fort-de-France,Martinique,False
+1988-07-09,Antigua and Barbuda,Guadeloupe,0,0,CFU Caribbean Cup,Fort-de-France,Martinique,True
+1989-03-17,Guadeloupe,Paraguay,0,2,Friendly,Basse-Terre,Guadeloupe,False
+1989-05-07,Jamaica,Guadeloupe,1,3,CFU Caribbean Cup qualification,Kingston,Jamaica,False
+1989-05-21,Guadeloupe,Dominica,0,0,CFU Caribbean Cup qualification,Basse-Terre,Guadeloupe,False
+1989-07-03,Barbados,Guadeloupe,1,0,CFU Caribbean Cup,Bridgetown,Barbados,False
+1989-07-07,Guadeloupe,Trinidad and Tobago,2,0,CFU Caribbean Cup,Bridgetown,Barbados,True
+1990-05-01,Guadeloupe,Martinique,1,0,Friendly,Paris,France,True
+1990-05-06,Saint Martin,Guadeloupe,2,1,CFU Caribbean Cup qualification,Marigot,Saint Martin,False
+1990-05-19,Saint Kitts and Nevis,Guadeloupe,2,0,CFU Caribbean Cup qualification,Basseterre,Saint Kitts and Nevis,False
+1990-05-30,Guadeloupe,Jamaica,0,0,CFU Caribbean Cup qualification,Pointe-à-Pitre,Guadeloupe,False
+1991-05-17,Guadeloupe,French Guiana,1,0,CFU Caribbean Cup qualification,Fort-de-France,Martinique,True
+1991-05-19,Martinique,Guadeloupe,3,1,CFU Caribbean Cup qualification,Fort-de-France,Martinique,False
+1992-03-05,Dominica,Guadeloupe,0,0,CFU Caribbean Cup qualification,Castries,Saint Lucia,True
+1992-05-09,Congo,Guadeloupe,1,1,Friendly,Paris,France,True
+1992-06-20,Guadeloupe,Jamaica,0,1,CFU Caribbean Cup,San Fernando,Trinidad and Tobago,True
+1993-03-24,French Guiana,Guadeloupe,2,1,CFU Caribbean Cup qualification,Cayenne,French Guiana,False
+1993-04-14,Guadeloupe,Martinique,1,4,CFU Caribbean Cup qualification,Pointe-à-Pitre,Guadeloupe,False
+1993-05-20,Guadeloupe,Réunion,0,3,Friendly,Créteil,France,True
+1993-05-22,Burkina Faso,Guadeloupe,2,0,Friendly,Créteil,France,True
+1994-03-04,Guadeloupe,Anguilla,9,0,CFU Caribbean Cup qualification,Kingstown,Saint Vincent and the Grenadines,True
+1994-04-14,Martinique,Guadeloupe,4,2,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,True
+1994-04-17,Guadeloupe,Suriname,2,0,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,True
+1995-05-09,Guadeloupe,Suriname,1,2,CFU Caribbean Cup qualification,Cayenne,French Guiana,True
+1995-05-11,French Guiana,Guadeloupe,2,2,CFU Caribbean Cup qualification,Cayenne,French Guiana,False
+1995-05-13,Guadeloupe,Martinique,2,1,CFU Caribbean Cup qualification,Cayenne,French Guiana,True
+1998-04-01,Dominica,Guadeloupe,1,1,CFU Caribbean Cup qualification,Basseterre,Saint Kitts and Nevis,True
+1998-04-03,Guadeloupe,British Virgin Islands,3,0,CFU Caribbean Cup qualification,Basseterre,Saint Kitts and Nevis,True
+1998-04-05,Saint Kitts and Nevis,Guadeloupe,2,1,CFU Caribbean Cup qualification,Basseterre,Saint Kitts and Nevis,False
+1999-03-10,Guadeloupe,Dominica,1,0,CFU Caribbean Cup qualification,Pointe-à-Pitre,Guadeloupe,False
+1999-03-12,Guadeloupe,Antigua and Barbuda,2,1,CFU Caribbean Cup qualification,Pointe-à-Pitre,Guadeloupe,False
+1999-03-14,Guadeloupe,Barbados,1,0,CFU Caribbean Cup qualification,Pointe-à-Pitre,Guadeloupe,False
+1999-06-03,Grenada,Guadeloupe,2,1,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,True
+1999-06-05,Jamaica,Guadeloupe,5,1,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,True
+1999-06-07,Trinidad and Tobago,Guadeloupe,3,2,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,False
+2001-03-28,Martinique,Guadeloupe,4,1,Friendly,Fort-de-France,Martinique,False
+2001-04-10,Guadeloupe,Saint Lucia,2,3,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,True
+2001-04-12,Guadeloupe,United States Virgin Islands,11,0,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,True
+2001-04-14,Haiti,Guadeloupe,2,0,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,False
+2002-01-04,Martinique,Guadeloupe,1,3,Friendly,Fort-de-France,Martinique,False
+2002-07-07,Guadeloupe,Puerto Rico,4,0,Gold Cup qualification,Baie-Mahault,Guadeloupe,False
+2002-07-21,Puerto Rico,Guadeloupe,0,2,Gold Cup qualification,San Juan,Puerto Rico,False
+2002-11-09,Grenada,Guadeloupe,4,5,Gold Cup qualification,St. George's,Grenada,False
+2002-11-11,Jamaica,Guadeloupe,2,0,Gold Cup qualification,St. George's,Grenada,True
+2002-11-13,Barbados,Guadeloupe,0,1,Gold Cup qualification,St. George's,Grenada,True
+2003-03-15,Guadeloupe,French Guiana,2,2,Friendly,Fort-de-France,Martinique,True
+2003-03-26,Guadeloupe,Cuba,2,3,Gold Cup qualification,Port of Spain,Trinidad and Tobago,True
+2003-03-28,Trinidad and Tobago,Guadeloupe,1,0,Gold Cup qualification,Macoya,Trinidad and Tobago,False
+2003-03-30,Guadeloupe,Antigua and Barbuda,2,0,Gold Cup qualification,San Fernando,Trinidad and Tobago,True
+2003-06-03,Guadeloupe,French Guiana,1,0,Friendly,Saint-Brieuc,France,True
+2004-01-18,Guadeloupe,Saint Lucia,2,0,Friendly,Basse-Terre,Guadeloupe,False
+2004-11-10,Guadeloupe,French Guiana,0,1,CFU Caribbean Cup qualification,Fort-de-France,Martinique,True
+2004-11-12,Guadeloupe,Dominica,7,0,CFU Caribbean Cup qualification,Rivière-Pilote,Martinique,True
+2004-11-14,Martinique,Guadeloupe,0,0,CFU Caribbean Cup qualification,Fort-de-France,Martinique,False
+2005-10-30,Puerto Rico,Guadeloupe,1,3,Friendly,Bayamón,Puerto Rico,False
+2006-05-20,Guadeloupe,Saint Lucia,2,1,Friendly,Les Abymes,Guadeloupe,False
+2006-09-20,Guadeloupe,Saint Martin,1,0,CFU Caribbean Cup qualification,Les Abymes,Guadeloupe,False
+2006-09-22,Guadeloupe,Dominica,1,0,CFU Caribbean Cup qualification,Les Abymes,Guadeloupe,False
+2006-09-24,Guadeloupe,Martinique,4,0,CFU Caribbean Cup qualification,Les Abymes,Guadeloupe,False
+2006-11-24,Dominican Republic,Guadeloupe,0,3,CFU Caribbean Cup qualification,Georgetown,Guyana,True
+2006-11-26,Guyana,Guadeloupe,3,2,CFU Caribbean Cup qualification,Georgetown,Guyana,False
+2006-11-28,Antigua and Barbuda,Guadeloupe,1,3,CFU Caribbean Cup qualification,Georgetown,Guyana,True
+2007-01-06,Martinique,Guadeloupe,3,0,Friendly,Le Lamentin,Martinique,False
+2007-01-14,Cuba,Guadeloupe,1,2,CFU Caribbean Cup,San Fernando,Trinidad and Tobago,True
+2007-01-16,Guadeloupe,Guyana,3,4,CFU Caribbean Cup,San Fernando,Trinidad and Tobago,True
+2007-01-18,Saint Vincent and the Grenadines,Guadeloupe,0,1,CFU Caribbean Cup,San Fernando,Trinidad and Tobago,True
+2007-01-20,Guadeloupe,Haiti,1,3,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,True
+2007-01-23,Cuba,Guadeloupe,2,1,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,True
+2007-03-24,Guadeloupe,Trinidad and Tobago,2,2,Friendly,Le Gosier,Guadeloupe,False
+2007-05-17,Guadeloupe,Dominica,2,0,Friendly,Morne-à-l'Eau,Guadeloupe,False
+2007-05-20,Guadeloupe,Dominica,1,1,Friendly,Basse-Terre,Guadeloupe,False
+2007-06-06,Guadeloupe,Haiti,1,1,Gold Cup,Miami,United States,True
+2007-06-09,Canada,Guadeloupe,1,2,Gold Cup,Miami,United States,True
+2007-06-11,Costa Rica,Guadeloupe,1,0,Gold Cup,Miami,United States,True
+2007-06-17,Honduras,Guadeloupe,1,2,Gold Cup,Houston,United States,True
+2007-06-21,Mexico,Guadeloupe,1,0,Gold Cup,Chicago,United States,True
+2007-11-14,French Guiana,Guadeloupe,2,3,Friendly,Cayenne,French Guiana,False
+2008-01-18,Dominica,Guadeloupe,0,3,Friendly,Roseau,Dominica,False
+2008-02-06,Trinidad and Tobago,Guadeloupe,0,0,Friendly,Port of Spain,Trinidad and Tobago,False
+2008-09-24,Guadeloupe,Martinique,0,1,Coupe de l'Outre-Mer,La Courneuve,France,True
+2008-09-27,New Caledonia,Guadeloupe,0,4,Coupe de l'Outre-Mer,Melun,France,True
+2008-09-30,Tahiti,Guadeloupe,0,1,Coupe de l'Outre-Mer,Colombes,France,True
+2008-10-03,Guadeloupe,French Guiana,4,0,Coupe de l'Outre-Mer,La Courneuve,France,True
+2008-10-11,Guadeloupe,Cayman Islands,7,1,CFU Caribbean Cup qualification,Les Abymes,Guadeloupe,False
+2008-10-13,Guadeloupe,Grenada,2,1,CFU Caribbean Cup qualification,Les Abymes,Guadeloupe,False
+2008-10-15,Guadeloupe,Martinique,3,1,CFU Caribbean Cup qualification,Les Abymes,Guadeloupe,False
+2008-12-04,Guadeloupe,Cuba,1,2,CFU Caribbean Cup,Montego Bay,Jamaica,True
+2008-12-06,Haiti,Guadeloupe,2,3,CFU Caribbean Cup,Falmouth,Jamaica,True
+2008-12-08,Antigua and Barbuda,Guadeloupe,2,2,CFU Caribbean Cup,Montego Bay,Jamaica,True
+2008-12-11,Jamaica,Guadeloupe,2,0,CFU Caribbean Cup,Kingston,Jamaica,False
+2008-12-14,Cuba,Guadeloupe,0,0,CFU Caribbean Cup,Kingston,Jamaica,True
+2009-07-05,Panama,Guadeloupe,1,2,Gold Cup,Oakland,United States,True
+2009-07-09,Guadeloupe,Nicaragua,2,0,Gold Cup,Houston,United States,True
+2009-07-12,Mexico,Guadeloupe,2,0,Gold Cup,Glendale,United States,True
+2009-07-19,Guadeloupe,Costa Rica,1,5,Gold Cup,Arlington,United States,True
+2010-03-02,Guadeloupe,Saint Kitts and Nevis,2,1,Friendly,Vieux-Habitants,Guadeloupe,False
+2010-04-03,Saint Kitts and Nevis,Guadeloupe,3,0,Friendly,Basseterre,Saint Kitts and Nevis,False
+2010-09-23,Guadeloupe,New Caledonia,1,1,Coupe de l'Outre-Mer,Val-de-Marne,France,True
+2010-09-26,Guadeloupe,Tahiti,1,1,Coupe de l'Outre-Mer,Essonne,France,True
+2010-09-29,Guadeloupe,Martinique,2,0,Coupe de l'Outre-Mer,Val-de-Marne,France,True
+2010-10-01,Mayotte,Guadeloupe,0,4,Coupe de l'Outre-Mer,Saint-Denis,France,True
+2010-10-22,Saint Kitts and Nevis,Guadeloupe,1,2,CFU Caribbean Cup qualification,St. George's,Grenada,True
+2010-10-24,Guadeloupe,Puerto Rico,3,2,CFU Caribbean Cup qualification,St. George's,Grenada,True
+2010-10-26,Grenada,Guadeloupe,0,3,CFU Caribbean Cup qualification,St. George's,Grenada,False
+2010-11-27,Guyana,Guadeloupe,1,1,CFU Caribbean Cup,Rivière-Pilote,Martinique,True
+2010-11-29,Guadeloupe,Jamaica,0,2,CFU Caribbean Cup,Rivière-Pilote,Martinique,True
+2010-12-01,Guadeloupe,Antigua and Barbuda,1,0,CFU Caribbean Cup,Rivière-Pilote,Martinique,True
+2010-12-03,Cuba,Guadeloupe,1,2,CFU Caribbean Cup,Fort-de-France,Martinique,True
+2010-12-05,Guadeloupe,Jamaica,1,1,CFU Caribbean Cup,Fort-de-France,Martinique,True
+2011-06-07,Panama,Guadeloupe,3,2,Gold Cup,Detroit,United States,True
+2011-06-11,Canada,Guadeloupe,1,0,Gold Cup,Tampa,United States,True
+2011-06-14,United States,Guadeloupe,1,0,Gold Cup,Kansas City,United States,False
+2011-11-05,Antigua and Barbuda,Guadeloupe,0,0,Friendly,Osbourn,Antigua and Barbuda,False
+2012-03-03,Martinique,Guadeloupe,1,2,Friendly,Le Lamentin,Martinique,False
+2012-04-07,Guadeloupe,Martinique,0,1,Friendly,Les Abymes,Guadeloupe,False
+2012-05-04,Guadeloupe,Guyana,1,2,Friendly,Les Abymes,Guadeloupe,False
+2012-09-08,Saint Barthélemy,Guadeloupe,1,8,Friendly,Saint-Jean,Saint Barthélemy,False
+2012-09-22,Guadeloupe,Saint Pierre and Miquelon,13,0,Coupe de l'Outre-Mer,Versailles,France,True
+2012-09-24,Guadeloupe,French Guiana,4,2,Coupe de l'Outre-Mer,Saint-Ouen,France,True
+2012-09-26,Réunion,Guadeloupe,2,1,Coupe de l'Outre-Mer,Franconville,France,True
+2012-09-29,Guadeloupe,Mayotte,1,0,Coupe de l'Outre-Mer,Saint-Gratien,France,True
+2012-10-23,Guadeloupe,Dominican Republic,0,2,CFU Caribbean Cup qualification,Les Abymes,Guadeloupe,False
+2012-10-25,Guadeloupe,Puerto Rico,4,1,CFU Caribbean Cup qualification,Les Abymes,Guadeloupe,False
+2012-10-27,Guadeloupe,Martinique,3,3,CFU Caribbean Cup qualification,Les Abymes,Guadeloupe,False
+2014-04-17,Guadeloupe,French Guiana,3,2,Friendly,Les Abymes,Guadeloupe,False
+2014-10-12,Guadeloupe,Curaçao,0,1,CFU Caribbean Cup qualification,Les Abymes,Guadeloupe,False
+2015-12-26,Martinique,Guadeloupe,2,0,Friendly,Le Lamentin,Martinique,False
+2016-02-06,Guadeloupe,Martinique,1,1,Friendly,Vieux-Habitants,Guadeloupe,False
+2016-03-23,Guadeloupe,Suriname,0,0,CFU Caribbean Cup qualification,Les Abymes,Guadeloupe,False
+2016-03-29,Suriname,Guadeloupe,3,2,CFU Caribbean Cup qualification,Paramaribo,Suriname,False
+2016-06-01,Martinique,Guadeloupe,2,0,CFU Caribbean Cup qualification,Fort-de-France,Martinique,False
+2016-06-04,Guadeloupe,Dominica,2,1,CFU Caribbean Cup qualification,Les Abymes,Guadeloupe,False
+2017-04-26,Martinique,Guadeloupe,4,1,Friendly,Le Lamentin,Martinique,False
+2017-05-17,Guadeloupe,Dominica,2,2,Friendly,Les Abymes,Guadeloupe,False
+2018-03-23,Guadeloupe,Trinidad and Tobago,0,1,Friendly,Les Abymes,Guadeloupe,False
+2018-06-07,Guadeloupe,French Guiana,0,2,Friendly,Fort-de-France,Martinique,True
+2018-09-11,Saint Martin,Guadeloupe,0,3,CONCACAF Nations League qualification,The Valley,Anguilla,True
+2018-10-16,Guadeloupe,Aruba,0,0,CONCACAF Nations League qualification,Les Abymes,Guadeloupe,False
+2018-11-19,Curaçao,Guadeloupe,6,0,CONCACAF Nations League qualification,Willemstad,Curaçao,False
+2019-03-23,Guadeloupe,Martinique,0,1,CONCACAF Nations League qualification,Les Abymes,Guadeloupe,False
+2019-09-07,Guadeloupe,Sint Maarten,5,1,CONCACAF Nations League,Les Abymes,Guadeloupe,False
+2019-09-10,Turks and Caicos Islands,Guadeloupe,0,3,CONCACAF Nations League,Providenciales,Turks and Caicos Islands,False
+2019-10-14,Sint Maarten,Guadeloupe,1,2,CONCACAF Nations League,Willemstad,Curaçao,True
+2019-11-17,Guadeloupe,Turks and Caicos Islands,10,0,CONCACAF Nations League,Les Abymes,Guadeloupe,False
+2021-07-03,Guadeloupe,Bahamas,2,0,Gold Cup qualification,Fort Lauderdale,United States,True
+2021-07-06,Guatemala,Guadeloupe,1,1,Gold Cup qualification,Fort Lauderdale,United States,True
+2021-07-12,Costa Rica,Guadeloupe,3,1,Gold Cup,Orlando,United States,True
+2021-07-16,Guadeloupe,Jamaica,1,2,Gold Cup,Orlando,United States,True
+2021-07-20,Suriname,Guadeloupe,2,1,Gold Cup,Houston,United States,True
+2022-03-23,Guadeloupe,Cape Verde,0,2,Friendly,Orléans,France,True
+2022-06-02,Guadeloupe,Cuba,2,1,CONCACAF Nations League,Les Abymes,Guadeloupe,False
+2022-06-05,Antigua and Barbuda,Guadeloupe,1,0,CONCACAF Nations League,Basseterre,Saint Kitts and Nevis,True
+2022-06-09,Barbados,Guadeloupe,0,1,CONCACAF Nations League,Gros Islet,Saint Lucia,True
+2022-06-12,Guadeloupe,Barbados,2,1,CONCACAF Nations League,Les Abymes,Guadeloupe,False
+2023-03-23,Guadeloupe,Antigua and Barbuda,0,1,CONCACAF Nations League,Les Abymes,Guadeloupe,False
+2023-03-26,Cuba,Guadeloupe,1,0,CONCACAF Nations League,Santiago,Cuba,False
+2023-06-16,Antigua and Barbuda,Guadeloupe,0,5,Gold Cup qualification,Fort Lauderdale,United States,True
+2023-06-20,Guadeloupe,Guyana,2,0,Gold Cup qualification,Fort Lauderdale,United States,True
+2023-06-27,Canada,Guadeloupe,2,2,Gold Cup,Toronto,Canada,False
+2023-07-01,Cuba,Guadeloupe,1,4,Gold Cup,Houston,United States,True
+2023-07-04,Guadeloupe,Guatemala,2,3,Gold Cup,Harrison,United States,True
+2023-09-07,Saint Kitts and Nevis,Guadeloupe,1,2,CONCACAF Nations League,Basseterre,Saint Kitts and Nevis,False
+2023-09-10,Guadeloupe,Sint Maarten,4,0,CONCACAF Nations League,Sainte-Anne,Guadeloupe,False
+2023-10-12,Saint Lucia,Guadeloupe,2,1,CONCACAF Nations League,Gros Islet,Saint Lucia,False
+2023-10-15,Guadeloupe,Saint Lucia,2,0,CONCACAF Nations League,Sainte-Anne,Guadeloupe,False
+2023-11-16,Sint Maarten,Guadeloupe,0,2,CONCACAF Nations League,Bridgetown,Barbados,True
+2023-11-19,Guadeloupe,Saint Kitts and Nevis,5,0,CONCACAF Nations League,Sainte-Anne,Guadeloupe,False
+2024-09-05,Costa Rica,Guadeloupe,3,0,CONCACAF Nations League,San José,Costa Rica,False
+2024-09-09,Guadeloupe,Suriname,1,0,CONCACAF Nations League,Le Gosier,Guadeloupe,False
+2024-10-11,Guadeloupe,Martinique,0,1,CONCACAF Nations League,Le Gosier,Guadeloupe,False
+2024-10-15,Guadeloupe,Martinique,0,0,CONCACAF Nations League,Le Gosier,Guadeloupe,False
+2024-11-15,Cayman Islands,Guadeloupe,0,6,CONCACAF Nations League,George Town,Cayman Islands,False
+2024-11-19,Guadeloupe,Cayman Islands,1,0,CONCACAF Nations League,Le Gosier,Guadeloupe,False
+2025-03-21,Guadeloupe,Nicaragua,1,0,Gold Cup qualification,Le Gosier,Guadeloupe,False
+2025-03-25,Nicaragua,Guadeloupe,0,1,Gold Cup qualification,Managua,Nicaragua,False

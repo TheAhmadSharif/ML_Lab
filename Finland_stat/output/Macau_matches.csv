@@ -1,0 +1,144 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1949-01-25,Macau,South Korea,1,5,Friendly,Macau,Macau,False
+1970-10-30,Macau,Australia,0,9,Friendly,Macau,Macau,False
+1975-04-04,Macau,Panama,2,1,Friendly,Macau,Macau,False
+1975-11-05,Macau,New Zealand,1,1,Friendly,Macau,Macau,False
+1977-05-07,Hong Kong,Macau,2,0,Friendly,So Kon Po,Hong Kong,False
+1978-06-11,Macau,Hong Kong,0,4,Friendly,Macau,Macau,False
+1978-12-25,South Korea,Macau,4,1,AFC Asian Cup qualification,Manila,Philippines,True
+1978-12-27,China PR,Macau,2,1,AFC Asian Cup qualification,Manila,Philippines,True
+1980-06-01,Macau,Hong Kong,0,2,Friendly,Macau,Macau,False
+1980-12-22,North Korea,Macau,3,0,FIFA World Cup qualification,So Kon Po,Hong Kong,True
+1980-12-24,China PR,Macau,3,0,FIFA World Cup qualification,So Kon Po,Hong Kong,True
+1980-12-28,Japan,Macau,3,0,FIFA World Cup qualification,So Kon Po,Hong Kong,True
+1981-06-24,Hong Kong,Macau,3,1,Friendly,So Kon Po,Hong Kong,False
+1982-05-09,Macau,Hong Kong,1,0,Friendly,Macau,Macau,False
+1983-07-01,Hong Kong,Macau,1,0,Friendly,So Kon Po,Hong Kong,False
+1984-06-17,Macau,Hong Kong,0,3,Friendly,Macau,Macau,False
+1985-02-17,Macau,Brunei,2,0,FIFA World Cup qualification,Macau,Macau,False
+1985-02-20,Macau,China PR,0,4,FIFA World Cup qualification,Macau,Macau,False
+1985-04-13,Brunei,Macau,1,2,FIFA World Cup qualification,Bandar Seri Begawan,Brunei,False
+1985-04-28,Macau,Hong Kong,0,2,FIFA World Cup qualification,Macau,Macau,False
+1985-05-04,Hong Kong,Macau,2,0,FIFA World Cup qualification,Siu Sai Wan,Hong Kong,False
+1985-05-12,China PR,Macau,6,0,FIFA World Cup qualification,Beijing,China PR,False
+1985-06-01,Hong Kong,Macau,2,0,Friendly,Siu Sai Wan,Hong Kong,False
+1986-05-31,Macau,Hong Kong,2,3,Friendly,Macau,Macau,False
+1987-05-31,Hong Kong,Macau,5,0,Friendly,So Kon Po,Hong Kong,False
+1988-05-15,Macau,Hong Kong,0,2,Friendly,Macau,Macau,False
+1989-05-13,Hong Kong,Macau,2,1,Friendly,So Kon Po,Hong Kong,False
+1992-06-03,Macau,Hong Kong,2,2,AFC Asian Cup qualification,Pyongyang,North Korea,True
+1992-06-05,North Korea,Macau,2,0,AFC Asian Cup qualification,Pyongyang,North Korea,False
+1992-06-07,Macau,Taiwan,2,0,AFC Asian Cup qualification,Pyongyang,North Korea,True
+1993-05-01,Macau,Saudi Arabia,0,6,FIFA World Cup qualification,Kuala Lumpur,Malaysia,True
+1993-05-03,Macau,Kuwait,1,10,FIFA World Cup qualification,Kuala Lumpur,Malaysia,True
+1993-05-05,Malaysia,Macau,9,0,FIFA World Cup qualification,Kuala Lumpur,Malaysia,False
+1993-05-12,China PR,Macau,11,0,East Asian Games,Shanghai,China PR,False
+1993-05-14,Saudi Arabia,Macau,8,0,FIFA World Cup qualification,Taif,Saudi Arabia,False
+1993-05-16,Kuwait,Macau,8,0,FIFA World Cup qualification,Taif,Saudi Arabia,True
+1993-05-16,North Korea,Macau,6,0,East Asian Games,Shanghai,China PR,True
+1993-05-18,Macau,Malaysia,0,5,FIFA World Cup qualification,Taif,Saudi Arabia,True
+1993-05-18,Mongolia,Macau,4,3,East Asian Games,Shanghai,China PR,True
+1996-01-30,China PR,Macau,7,1,AFC Asian Cup qualification,Victoria,Hong Kong,True
+1996-02-01,Hong Kong,Macau,4,1,AFC Asian Cup qualification,Victoria,Hong Kong,False
+1996-02-04,Macau,Philippines,5,1,AFC Asian Cup qualification,Victoria,Hong Kong,True
+1997-03-23,Nepal,Macau,1,1,FIFA World Cup qualification,Muscat,Oman,True
+1997-03-25,Macau,Japan,0,10,FIFA World Cup qualification,Muscat,Oman,True
+1997-03-27,Oman,Macau,4,0,FIFA World Cup qualification,Muscat,Oman,False
+1997-06-22,Japan,Macau,10,0,FIFA World Cup qualification,Tokyo,Japan,False
+1997-06-25,Macau,Oman,0,2,FIFA World Cup qualification,Tokyo,Japan,True
+1997-06-28,Macau,Nepal,2,1,FIFA World Cup qualification,Tokyo,Japan,True
+2000-02-13,Macau,Brunei,1,0,AFC Asian Cup qualification,Macau,Macau,False
+2000-02-16,Macau,Singapore,0,1,AFC Asian Cup qualification,Macau,Macau,False
+2000-02-20,Macau,Japan,0,3,AFC Asian Cup qualification,Macau,Macau,False
+2000-05-28,Macau,Hong Kong,0,1,Friendly,Macau,Macau,False
+2001-04-12,Iraq,Macau,8,0,FIFA World Cup qualification,Baghdad,Iraq,False
+2001-04-14,Kazakhstan,Macau,3,0,FIFA World Cup qualification,Baghdad,Iraq,True
+2001-04-16,Nepal,Macau,4,1,FIFA World Cup qualification,Baghdad,Iraq,True
+2001-04-21,Macau,Iraq,0,5,FIFA World Cup qualification,Almaty,Kazakhstan,True
+2001-04-23,Kazakhstan,Macau,5,0,FIFA World Cup qualification,Almaty,Kazakhstan,False
+2001-04-25,Macau,Nepal,1,6,FIFA World Cup qualification,Almaty,Kazakhstan,True
+2003-02-22,Macau,Mongolia,2,0,EAFF Championship,So Kon Po,Hong Kong,True
+2003-02-24,Hong Kong,Macau,3,0,EAFF Championship,So Kon Po,Hong Kong,False
+2003-02-26,Guam,Macau,0,2,EAFF Championship,So Kon Po,Hong Kong,True
+2003-03-02,Macau,Taiwan,1,2,EAFF Championship,So Kon Po,Hong Kong,True
+2003-03-21,Macau,Pakistan,0,3,AFC Asian Cup qualification,Singapore,Singapore,True
+2003-03-23,Singapore,Macau,2,0,AFC Asian Cup qualification,Singapore,Singapore,False
+2003-11-23,Taiwan,Macau,3,0,FIFA World Cup qualification,Taipei,Taiwan,False
+2003-11-29,Macau,Taiwan,1,3,FIFA World Cup qualification,Macau,Macau,False
+2005-05-29,Hong Kong,Macau,8,1,Friendly,Victoria,Hong Kong,False
+2006-04-02,Tajikistan,Macau,4,0,AFC Challenge Cup,Dhaka,Bangladesh,True
+2006-04-06,Pakistan,Macau,2,2,AFC Challenge Cup,Dhaka,Bangladesh,True
+2006-04-07,Macau,Kyrgyzstan,0,2,AFC Challenge Cup,Dhaka,Bangladesh,True
+2006-06-03,Macau,Hong Kong,0,0,Friendly,Macau,Macau,False
+2006-08-09,Macau,Taiwan,0,1,Friendly,Macau,Macau,False
+2007-06-10,Hong Kong,Macau,2,1,Friendly,So Kon Po,Hong Kong,False
+2007-06-17,Macau,Mongolia,0,0,EAFF Championship,Macau,Macau,False
+2007-06-21,Macau,North Korea,1,7,EAFF Championship,Macau,Macau,False
+2007-10-08,Thailand,Macau,6,1,FIFA World Cup qualification,Bangkok,Thailand,False
+2007-10-15,Macau,Thailand,1,7,FIFA World Cup qualification,Macau,Macau,False
+2008-05-24,Nepal,Macau,3,2,AFC Challenge Cup qualification,Phnom Penh,Cambodia,True
+2008-05-28,Cambodia,Macau,3,1,AFC Challenge Cup qualification,Phnom Penh,Cambodia,False
+2008-06-15,Macau,Hong Kong,0,1,Friendly,Macau,Macau,False
+2008-11-19,Macau,Hong Kong,1,9,Friendly,Macau,Macau,False
+2009-03-11,Macau,Northern Mariana Islands,6,1,EAFF Championship,Yona,Guam,True
+2009-03-13,Macau,Mongolia,1,2,EAFF Championship,Yona,Guam,True
+2009-03-15,Guam,Macau,2,2,EAFF Championship,Yona,Guam,False
+2009-04-07,Macau,Mongolia,2,0,AFC Challenge Cup qualification,Macau,Macau,False
+2009-04-14,Mongolia,Macau,3,1,AFC Challenge Cup qualification,Ulaanbaatar,Mongolia,False
+2009-04-26,Myanmar,Macau,4,0,AFC Challenge Cup qualification,Dhaka,Bangladesh,True
+2009-04-28,Macau,Cambodia,1,2,AFC Challenge Cup qualification,Dhaka,Bangladesh,True
+2009-04-30,Bangladesh,Macau,3,0,AFC Challenge Cup qualification,Dhaka,Bangladesh,False
+2009-12-04,North Korea,Macau,8,0,East Asian Games,Hong Kong,Hong Kong,True
+2010-10-12,Philippines,Macau,5,0,Dragon Cup,Kaohsiung,Taiwan,True
+2011-02-09,Cambodia,Macau,3,1,AFC Challenge Cup qualification,Phnom Penh,Cambodia,False
+2011-02-16,Macau,Cambodia,3,2,AFC Challenge Cup qualification,Macau,Macau,False
+2011-06-29,Vietnam,Macau,6,0,FIFA World Cup qualification,Ho Chi Minh City,Vietnam,False
+2011-07-03,Macau,Vietnam,1,7,FIFA World Cup qualification,Macau,Macau,False
+2011-10-02,Hong Kong,Macau,5,1,Dragon Cup,Kaohsiung,Taiwan,True
+2011-10-04,Philippines,Macau,2,0,Dragon Cup,Kaohsiung,Taiwan,True
+2012-07-20,Northern Mariana Islands,Macau,1,5,EAFF Championship,Yona,Guam,True
+2012-07-22,Guam,Macau,3,0,EAFF Championship,Yona,Guam,False
+2012-09-27,Philippines,Macau,5,0,Friendly,Manila,Philippines,False
+2012-09-29,Macau,Guam,0,3,Friendly,Manila,Philippines,True
+2013-03-17,Kyrgyzstan,Macau,1,0,AFC Challenge Cup qualification,Bishkek,Kyrgyzstan,False
+2013-03-19,Macau,Tajikistan,0,3,AFC Challenge Cup qualification,Bishkek,Kyrgyzstan,True
+2013-03-21,Pakistan,Macau,2,0,AFC Challenge Cup qualification,Bishkek,Kyrgyzstan,True
+2014-07-21,Guam,Macau,0,0,EAFF Championship,Dededo,Guam,False
+2014-07-23,Northern Mariana Islands,Macau,2,1,EAFF Championship,Dededo,Guam,True
+2014-07-25,Macau,Mongolia,3,2,EAFF Championship,Dededo,Guam,True
+2014-10-14,Macau,Singapore,2,2,Friendly,Taipa,Macau,False
+2015-03-12,Cambodia,Macau,3,0,FIFA World Cup qualification,Phnom Penh,Cambodia,False
+2015-03-17,Macau,Cambodia,1,1,FIFA World Cup qualification,Taipa,Macau,False
+2015-11-14,Hong Kong,Macau,2,0,Friendly,Siu Sai Wan,Hong Kong,False
+2016-03-29,Malaysia,Macau,0,0,Friendly,Krubong,Malaysia,False
+2016-06-30,Macau,Mongolia,2,2,EAFF Championship,Dededo,Guam,True
+2016-07-02,Northern Mariana Islands,Macau,1,3,EAFF Championship,Dededo,Guam,True
+2016-11-03,Macau,Mongolia,2,1,AFC Challenge Cup,Kuching,Malaysia,True
+2016-11-06,Laos,Macau,1,4,AFC Challenge Cup,Kuching,Malaysia,True
+2016-11-09,Sri Lanka,Macau,1,1,AFC Challenge Cup,Kuching,Malaysia,True
+2016-11-12,Macau,Brunei,1,1,AFC Challenge Cup,Kuching,Malaysia,True
+2016-11-15,Nepal,Macau,1,0,AFC Challenge Cup,Kuching,Malaysia,True
+2017-03-28,Kyrgyzstan,Macau,1,0,AFC Asian Cup qualification,Bishkek,Kyrgyzstan,False
+2017-06-13,Macau,Myanmar,0,4,AFC Asian Cup qualification,Macau,Macau,False
+2017-09-05,Macau,India,0,2,AFC Asian Cup qualification,Macau,Macau,False
+2017-10-02,Macau,Laos,3,1,Friendly,Macau,Macau,False
+2017-10-11,India,Macau,4,1,AFC Asian Cup qualification,Bangalore,India,False
+2017-11-14,Macau,Kyrgyzstan,3,4,AFC Asian Cup qualification,Macau,Macau,False
+2018-03-22,Macau,Mauritius,0,1,Friendly,Macau,Macau,False
+2018-03-27,Myanmar,Macau,1,0,AFC Asian Cup qualification,Yangon,Myanmar,False
+2018-08-29,Macau,Solomon Islands,1,4,Friendly,Taipa,Macau,False
+2018-09-02,Mongolia,Macau,4,1,EAFF Championship,Ulaanbaatar,Mongolia,False
+2018-09-04,Macau,Guam,2,0,EAFF Championship,Ulaanbaatar,Mongolia,True
+2018-09-06,Northern Mariana Islands,Macau,1,1,EAFF Championship,Ulaanbaatar,Mongolia,True
+2019-06-06,Macau,Sri Lanka,1,0,FIFA World Cup qualification,Zhuhai,Macau,False
+2019-06-11,Sri Lanka,Macau,3,0,FIFA World Cup qualification,Colombo,Sri Lanka,False
+2023-03-26,Macau,Singapore,0,1,Friendly,Taipa,Macau,False
+2023-06-19,Macau,Myanmar,0,2,Friendly,Dalian,China PR,True
+2023-09-06,Macau,Bhutan,0,1,Friendly,Taipa,Macau,False
+2023-09-11,Cambodia,Macau,4,0,Friendly,Phnom Penh,Cambodia,False
+2023-10-12,Myanmar,Macau,5,1,FIFA World Cup qualification,Yangon,Myanmar,False
+2023-10-17,Macau,Myanmar,0,0,FIFA World Cup qualification,Taipa,Macau,False
+2024-09-06,Brunei,Macau,3,0,AFC Asian Cup qualification,Bandar Seri Begawan,Brunei,False
+2024-09-10,Macau,Brunei,0,1,AFC Asian Cup qualification,Taipa,Macau,False
+2024-12-14,Macau,Guam,1,2,EAFF Championship qualification,Hong Kong,Hong Kong,True
+2025-03-19,Hong Kong,Macau,2,0,Friendly,Hong Kong,Hong Kong,False

@@ -1,0 +1,422 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1923-06-24,Lithuania,Estonia,0,5,Friendly,Kaunas,Lithuania,False
+1924-05-25,Switzerland,Lithuania,9,0,Olympic Games,Vincennes,France,True
+1924-05-27,Egypt,Lithuania,10,0,Friendly,Vincennes,France,True
+1924-08-24,Estonia,Lithuania,1,2,Friendly,Tallinn,Estonia,False
+1925-06-28,Lithuania,Estonia,0,1,Friendly,Kaunas,Lithuania,False
+1925-09-20,Latvia,Lithuania,2,2,Friendly,Riga,Latvia,False
+1926-06-13,Estonia,Lithuania,3,1,Friendly,Tallinn,Estonia,False
+1926-08-21,Lithuania,Latvia,2,3,Friendly,Kaunas,Lithuania,False
+1927-07-27,Latvia,Lithuania,6,3,Friendly,Riga,Latvia,False
+1927-08-13,Lithuania,Estonia,0,5,Friendly,Kaunas,Lithuania,False
+1928-07-25,Latvia,Lithuania,3,0,Baltic Cup,Tallinn,Estonia,True
+1928-07-26,Estonia,Lithuania,6,0,Baltic Cup,Tallinn,Estonia,False
+1928-09-01,Lithuania,Latvia,1,1,Friendly,Kaunas,Lithuania,False
+1929-08-14,Latvia,Lithuania,3,1,Baltic Cup,Riga,Latvia,False
+1929-08-16,Estonia,Lithuania,5,2,Baltic Cup,Riga,Latvia,True
+1930-08-15,Lithuania,Estonia,2,1,Baltic Cup,Kaunas,Lithuania,False
+1930-08-17,Lithuania,Latvia,3,3,Baltic Cup,Kaunas,Lithuania,False
+1930-09-13,Lithuania,Estonia,4,0,Friendly,Klaipėda,Lithuania,False
+1931-06-09,Estonia,Lithuania,4,1,Friendly,Tallinn,Estonia,False
+1931-06-30,Latvia,Lithuania,5,2,Friendly,Riga,Latvia,False
+1931-08-26,Lithuania,Romania,2,4,Friendly,Kaunas,Lithuania,False
+1931-08-30,Estonia,Lithuania,2,0,Baltic Cup,Tallinn,Estonia,False
+1931-08-31,Latvia,Lithuania,1,0,Baltic Cup,Tallinn,Estonia,True
+1932-06-29,Lithuania,Latvia,2,3,Friendly,Kaunas,Lithuania,False
+1932-07-24,Latvia,Lithuania,2,1,Friendly,Liepāja,Latvia,False
+1932-08-06,Lithuania,Estonia,1,0,Friendly,Kaunas,Lithuania,False
+1932-08-28,Latvia,Lithuania,4,1,Baltic Cup,Riga,Latvia,False
+1932-08-29,Estonia,Lithuania,1,2,Baltic Cup,Riga,Latvia,True
+1932-09-11,Lithuania,Latvia,1,0,Friendly,Kaunas,Lithuania,False
+1932-09-25,Sweden,Lithuania,8,1,Friendly,Stockholm,Sweden,False
+1933-06-12,Latvia,Lithuania,6,2,Friendly,Riga,Latvia,False
+1933-06-29,Lithuania,Sweden,0,2,FIFA World Cup qualification,Kaunas,Lithuania,False
+1933-07-20,Estonia,Lithuania,2,1,Friendly,Tallinn,Estonia,False
+1933-08-09,Finland,Lithuania,9,2,Friendly,Helsinki,Finland,False
+1933-09-02,Lithuania,Estonia,1,1,Baltic Cup,Kaunas,Lithuania,False
+1933-09-04,Lithuania,Latvia,2,2,Baltic Cup,Kaunas,Lithuania,False
+1933-09-05,Lithuania,Estonia,0,5,Friendly,Kaunas,Lithuania,False
+1934-06-10,Lithuania,Latvia,2,0,Friendly,Kaunas,Lithuania,False
+1934-06-29,Lithuania,Estonia,1,1,Friendly,Kaunas,Lithuania,False
+1934-08-16,Lithuania,Finland,1,0,Friendly,Kaunas,Lithuania,False
+1934-09-09,Latvia,Lithuania,1,3,Friendly,Riga,Latvia,False
+1935-05-30,Latvia,Lithuania,6,1,Friendly,Riga,Latvia,False
+1935-06-19,Estonia,Lithuania,2,2,Friendly,Tallinn,Estonia,False
+1935-08-20,Estonia,Lithuania,1,2,Baltic Cup,Tallinn,Estonia,False
+1935-08-21,Lithuania,Latvia,2,2,Baltic Cup,Tallinn,Estonia,True
+1935-09-08,Lithuania,Latvia,2,2,Friendly,Kaunas,Lithuania,False
+1935-09-18,Lithuania,Estonia,2,2,Friendly,Kaunas,Lithuania,False
+1936-06-14,Lithuania,Latvia,1,5,Friendly,Kaunas,Lithuania,False
+1936-06-30,Lithuania,Estonia,2,0,Friendly,Kaunas,Lithuania,False
+1936-08-29,Latvia,Lithuania,2,1,Baltic Cup,Riga,Latvia,False
+1936-08-30,Estonia,Lithuania,2,1,Baltic Cup,Riga,Latvia,True
+1937-06-03,Lithuania,Estonia,1,2,Friendly,Kaunas,Lithuania,False
+1937-07-29,Latvia,Lithuania,4,2,FIFA World Cup qualification,Riga,Latvia,False
+1937-09-03,Lithuania,Latvia,1,5,FIFA World Cup qualification,Kaunas,Lithuania,False
+1937-09-05,Lithuania,Estonia,0,4,Baltic Cup,Kaunas,Lithuania,False
+1938-05-17,Latvia,Lithuania,2,0,Friendly,Riga,Latvia,False
+1938-06-11,Lithuania,Estonia,0,2,Friendly,Kaunas,Lithuania,False
+1938-09-03,Estonia,Lithuania,3,1,Baltic Cup,Tallinn,Estonia,False
+1938-09-04,Latvia,Lithuania,1,1,Baltic Cup,Tallinn,Estonia,True
+1938-09-18,Finland,Lithuania,3,1,Friendly,Helsinki,Finland,False
+1939-06-11,Sweden,Lithuania,7,0,Friendly,Karlstad,Sweden,False
+1939-08-27,Estonia,Lithuania,0,1,Friendly,Tallinn,Estonia,False
+1940-08-11,Lithuania,Estonia,2,0,Friendly,Kaunas,Soviet Union,False
+1940-09-06,Latvia,Lithuania,1,0,Baltic Cup,Riga,Soviet Union,False
+1940-09-07,Estonia,Lithuania,1,1,Baltic Cup,Riga,Soviet Union,True
+1940-10-13,Lithuania,Latvia,4,3,Friendly,Kaunas,Soviet Union,False
+1945-06-30,Latvia,Lithuania,3,7,Friendly,Riga,Soviet Union,False
+1945-09-05,Lithuania,Estonia,2,3,Friendly,Vilnius,Soviet Union,False
+1945-09-17,Estonia,Lithuania,1,2,Friendly,Tallinn,Soviet Union,False
+1947-09-28,Latvia,Lithuania,3,2,Friendly,Riga,Soviet Union,False
+1947-10-05,Lithuania,Latvia,0,3,Friendly,Vilnius,Soviet Union,False
+1947-10-12,Lithuania,Estonia,0,0,Friendly,Vilnius,Soviet Union,False
+1948-09-26,Latvia,Lithuania,0,1,Baltic Cup,Riga,Soviet Union,False
+1948-09-27,Estonia,Lithuania,1,2,Baltic Cup,Riga,Soviet Union,True
+1949-10-23,Lithuania,Estonia,2,1,Baltic Cup,Vilnius,Soviet Union,False
+1949-10-25,Lithuania,Latvia,1,0,Baltic Cup,Vilnius,Soviet Union,False
+1956-08-03,Estonia,Lithuania,0,1,Friendly,Moscow,Soviet Union,True
+1956-08-05,Russia,Lithuania,2,0,Friendly,Moscow,Soviet Union,False
+1956-08-10,Estonia,Lithuania,0,2,Friendly,Moscow,Soviet Union,True
+1956-08-12,Lithuania,Moldova,1,4,Friendly,Moscow,Soviet Union,True
+1966-05-25,Lithuania,Libya,6,0,Friendly,Vilnius,Lithuania,False
+1979-07-20,Kyrgyzstan,Lithuania,0,0,Friendly,Moscow,Soviet Union,True
+1979-07-22,Georgia,Lithuania,5,0,Friendly,Moscow,Soviet Union,True
+1979-07-24,Azerbaijan,Lithuania,0,1,Friendly,Moscow,Soviet Union,True
+1979-07-28,Lithuania,Ukraine,0,2,Friendly,Moscow,Soviet Union,True
+1979-07-30,Russia,Lithuania,2,0,Friendly,Moscow,Soviet Union,False
+1979-08-01,Belarus,Lithuania,0,2,Friendly,Moscow,Soviet Union,True
+1979-08-05,Russia,Lithuania,2,1,Friendly,Moscow,Soviet Union,False
+1990-05-27,Georgia,Lithuania,2,2,Friendly,Tbilisi,Soviet Union,False
+1991-11-15,Lithuania,Estonia,4,1,Baltic Cup,Klaipėda,Lithuania,False
+1991-11-17,Lithuania,Latvia,1,1,Baltic Cup,Kretinga,Lithuania,False
+1992-04-14,Austria,Lithuania,4,0,Friendly,Vienna,Austria,False
+1992-04-28,Northern Ireland,Lithuania,2,2,FIFA World Cup qualification,Belfast,Northern Ireland,False
+1992-05-20,Moldova,Lithuania,1,1,Friendly,Chișinău,Moldova,False
+1992-06-03,Albania,Lithuania,1,0,FIFA World Cup qualification,Tirana,Albania,False
+1992-07-11,Estonia,Lithuania,1,1,Baltic Cup,Liepāja,Latvia,True
+1992-07-12,Latvia,Lithuania,2,3,Baltic Cup,Liepāja,Latvia,False
+1992-08-12,Latvia,Lithuania,1,2,FIFA World Cup qualification,Riga,Latvia,False
+1992-09-02,Lithuania,Georgia,1,0,Friendly,Kaunas,Lithuania,False
+1992-09-23,Lithuania,Denmark,0,0,FIFA World Cup qualification,Vilnius,Lithuania,False
+1992-10-14,Lithuania,Slovakia,0,1,Friendly,Vilnius,Lithuania,False
+1992-10-28,Lithuania,Latvia,1,1,FIFA World Cup qualification,Vilnius,Lithuania,False
+1993-02-20,Latvia,Lithuania,1,2,Four Nations Tournament,Vantaa,Finland,True
+1993-02-21,Finland,Lithuania,3,0,Four Nations Tournament,Vantaa,Finland,False
+1993-02-24,Spain,Lithuania,5,0,FIFA World Cup qualification,Seville,Spain,False
+1993-03-30,Slovakia,Lithuania,2,2,Friendly,Dunajská Streda,Slovakia,False
+1993-03-31,Poland,Lithuania,1,1,Friendly,Brzeszcze,Poland,False
+1993-04-14,Lithuania,Albania,3,1,FIFA World Cup qualification,Vilnius,Lithuania,False
+1993-05-18,Lithuania,Ukraine,1,2,Friendly,Vilnius,Lithuania,False
+1993-05-25,Lithuania,Northern Ireland,0,1,FIFA World Cup qualification,Vilnius,Lithuania,False
+1993-06-02,Lithuania,Spain,0,2,FIFA World Cup qualification,Vilnius,Lithuania,False
+1993-06-16,Lithuania,Republic of Ireland,0,1,FIFA World Cup qualification,Vilnius,Lithuania,False
+1993-07-03,Latvia,Lithuania,0,0,Baltic Cup,Pärnu,Estonia,True
+1993-07-04,Estonia,Lithuania,2,1,Baltic Cup,Pärnu,Estonia,False
+1993-08-25,Denmark,Lithuania,4,0,FIFA World Cup qualification,Copenhagen,Denmark,False
+1993-09-08,Republic of Ireland,Lithuania,2,0,FIFA World Cup qualification,Dublin,Republic of Ireland,False
+1994-04-20,Lithuania,Israel,1,1,Friendly,Vilnius,Lithuania,False
+1994-05-25,Czech Republic,Lithuania,5,3,Friendly,Ostrava,Czech Republic,False
+1994-07-29,Lithuania,Estonia,3,0,Baltic Cup,Vilnius,Lithuania,False
+1994-07-31,Lithuania,Latvia,1,0,Baltic Cup,Vilnius,Lithuania,False
+1994-08-17,Sweden,Lithuania,4,2,Friendly,Örebro,Sweden,False
+1994-09-07,Ukraine,Lithuania,0,2,UEFA Euro qualification,Kyiv,Ukraine,False
+1994-10-09,Croatia,Lithuania,2,0,UEFA Euro qualification,Zagreb,Croatia,False
+1994-11-16,Slovenia,Lithuania,1,2,UEFA Euro qualification,Maribor,Slovenia,False
+1995-03-15,Poland,Lithuania,4,1,Friendly,Ostrowiec Świętokrzyski,Poland,False
+1995-03-29,Lithuania,Croatia,0,0,UEFA Euro qualification,Vilnius,Lithuania,False
+1995-04-26,Lithuania,Italy,0,1,UEFA Euro qualification,Vilnius,Lithuania,False
+1995-05-17,Lithuania,Greece,2,1,Friendly,Vilnius,Lithuania,False
+1995-05-20,Estonia,Lithuania,0,7,Baltic Cup,Riga,Latvia,True
+1995-05-21,Latvia,Lithuania,2,0,Baltic Cup,Riga,Latvia,False
+1995-06-07,Lithuania,Slovenia,2,1,UEFA Euro qualification,Vilnius,Lithuania,False
+1995-07-29,Lithuania,Belarus,1,1,Friendly,Vilnius,Lithuania,False
+1995-08-16,Estonia,Lithuania,0,1,UEFA Euro qualification,Tallinn,Estonia,False
+1995-09-06,Lithuania,Ukraine,1,3,UEFA Euro qualification,Vilnius,Lithuania,False
+1995-10-11,Lithuania,Estonia,5,0,UEFA Euro qualification,Vilnius,Lithuania,False
+1995-11-15,Italy,Lithuania,4,0,UEFA Euro qualification,Reggio Emilia,Italy,False
+1996-02-21,Israel,Lithuania,4,2,Friendly,Haifa,Israel,False
+1996-07-08,Latvia,Lithuania,1,2,Baltic Cup,Narva,Estonia,True
+1996-07-09,Estonia,Lithuania,1,1,Baltic Cup,Narva,Estonia,False
+1996-07-31,Belarus,Lithuania,2,2,Friendly,Minsk,Belarus,False
+1996-08-13,Ukraine,Lithuania,5,2,Friendly,Kyiv,Ukraine,False
+1996-08-31,Romania,Lithuania,3,0,FIFA World Cup qualification,Bucharest,Romania,False
+1996-10-05,Lithuania,Iceland,2,0,FIFA World Cup qualification,Vilnius,Lithuania,False
+1996-10-09,Lithuania,Liechtenstein,2,1,FIFA World Cup qualification,Vilnius,Lithuania,False
+1996-10-16,Brazil,Lithuania,3,1,Friendly,Teresina,Brazil,False
+1996-11-03,Lithuania,Indonesia,4,0,Friendly,Vilnius,Lithuania,False
+1997-02-14,Lithuania,Poland,0,0,Cyprus International Tournament,Agía Nápa,Cyprus,True
+1997-02-15,Latvia,Lithuania,1,0,Cyprus International Tournament,Dherynia,Cyprus,True
+1997-02-17,Cyprus,Lithuania,1,0,Cyprus International Tournament,Paralímni,Cyprus,False
+1997-04-02,Lithuania,Romania,0,1,FIFA World Cup qualification,Vilnius,Lithuania,False
+1997-04-30,Liechtenstein,Lithuania,0,2,FIFA World Cup qualification,Eschen,Liechtenstein,False
+1997-06-11,Iceland,Lithuania,0,0,FIFA World Cup qualification,Reykjavík,Iceland,False
+1997-07-09,Lithuania,Estonia,2,1,Baltic Cup,Vilnius,Lithuania,False
+1997-07-11,Lithuania,Latvia,1,0,Baltic Cup,Vilnius,Lithuania,False
+1997-08-06,Sweden,Lithuania,1,0,Friendly,Malmö,Sweden,False
+1997-08-20,Republic of Ireland,Lithuania,0,0,FIFA World Cup qualification,Dublin,Republic of Ireland,False
+1997-09-06,Lithuania,North Macedonia,2,0,FIFA World Cup qualification,Vilnius,Lithuania,False
+1997-09-10,Lithuania,Republic of Ireland,1,2,FIFA World Cup qualification,Vilnius,Lithuania,False
+1997-09-24,Poland,Lithuania,2,0,Friendly,Olsztyn,Poland,False
+1997-10-11,North Macedonia,Lithuania,1,2,FIFA World Cup qualification,Skopje,North Macedonia,False
+1998-04-21,Latvia,Lithuania,1,2,Baltic Cup,Liepāja,Latvia,False
+1998-04-29,Chile,Lithuania,1,0,Friendly,Santiago,Chile,False
+1998-05-27,Hungary,Lithuania,1,0,Friendly,Nyíregyháza,Hungary,False
+1998-06-07,Belarus,Lithuania,5,0,Friendly,Minsk,Belarus,False
+1998-06-26,Azerbaijan,Lithuania,2,1,Friendly,Viljandi,Estonia,True
+1998-06-28,Estonia,Lithuania,0,0,Baltic Cup,Viljandi,Estonia,False
+1998-06-29,Lithuania,Andorra,4,0,Friendly,Karksi-Nuia,Estonia,True
+1998-08-16,Lithuania,Moldova,1,1,Friendly,Kaunas,Lithuania,False
+1998-08-19,Lithuania,Belarus,0,3,Friendly,Vilnius,Lithuania,False
+1998-09-05,Lithuania,Scotland,0,0,UEFA Euro qualification,Vilnius,Lithuania,False
+1998-10-10,Lithuania,Faroe Islands,0,0,UEFA Euro qualification,Vilnius,Lithuania,False
+1998-10-14,Lithuania,Bosnia and Herzegovina,4,2,UEFA Euro qualification,Vilnius,Lithuania,False
+1999-03-27,Czech Republic,Lithuania,2,0,UEFA Euro qualification,Teplice,Czech Republic,False
+1999-03-31,Lithuania,Estonia,1,2,UEFA Euro qualification,Vilnius,Lithuania,False
+1999-06-05,Bosnia and Herzegovina,Lithuania,2,0,UEFA Euro qualification,Sarajevo,Bosnia and Herzegovina,False
+1999-06-09,Estonia,Lithuania,1,2,UEFA Euro qualification,Tallinn,Estonia,False
+1999-06-26,Argentina,Lithuania,0,0,Friendly,Buenos Aires,Argentina,False
+1999-07-02,Lithuania,Indonesia,2,2,Friendly,Valga,Estonia,True
+1999-08-18,Norway,Lithuania,1,0,Friendly,Oslo,Norway,False
+1999-09-04,Lithuania,Czech Republic,0,4,UEFA Euro qualification,Vilnius,Lithuania,False
+1999-09-08,Faroe Islands,Lithuania,0,1,UEFA Euro qualification,Tórshavn,Faroe Islands,False
+1999-10-09,Scotland,Lithuania,3,0,UEFA Euro qualification,Glasgow,Scotland,False
+2000-02-02,Cyprus,Lithuania,2,1,Cyprus International Tournament,Limassol,Cyprus,False
+2000-02-04,Moldova,Lithuania,2,1,Cyprus International Tournament,Larnaca,Cyprus,True
+2000-02-06,Latvia,Lithuania,1,2,Cyprus International Tournament,Larnaca,Cyprus,True
+2000-04-26,Lithuania,Latvia,2,1,Baltic Cup,Kaunas,Lithuania,False
+2000-08-16,Portugal,Lithuania,5,1,Friendly,Viseu,Portugal,False
+2000-09-03,Romania,Lithuania,1,0,FIFA World Cup qualification,Bucharest,Romania,False
+2000-10-07,Lithuania,Georgia,0,4,FIFA World Cup qualification,Kaunas,Lithuania,False
+2000-10-11,Lithuania,Hungary,1,6,FIFA World Cup qualification,Kaunas,Lithuania,False
+2000-12-22,Catalonia,Lithuania,5,0,Friendly,Barcelona,Spain,False
+2001-02-26,Cyprus,Lithuania,1,2,Cyprus International Tournament,Limassol,Cyprus,False
+2001-02-28,Lithuania,Romania,0,3,Cyprus International Tournament,Nicosia,Cyprus,True
+2001-03-24,Hungary,Lithuania,1,1,FIFA World Cup qualification,Budapest,Hungary,False
+2001-03-28,Italy,Lithuania,4,0,FIFA World Cup qualification,Trieste,Italy,False
+2001-06-06,Lithuania,Romania,1,2,FIFA World Cup qualification,Kaunas,Lithuania,False
+2001-07-04,Estonia,Lithuania,2,5,Baltic Cup,Riga,Latvia,True
+2001-07-05,Latvia,Lithuania,4,1,Baltic Cup,Riga,Latvia,False
+2001-08-15,Lithuania,Israel,2,3,Friendly,Kaunas,Lithuania,False
+2001-09-01,Lithuania,Italy,0,0,FIFA World Cup qualification,Kaunas,Lithuania,False
+2001-09-05,Georgia,Lithuania,2,0,FIFA World Cup qualification,Tbilisi,Georgia,False
+2002-02-09,Lithuania,Moldova,1,0,Malta International Tournament,Attard,Malta,True
+2002-02-11,Malta,Lithuania,1,1,Malta International Tournament,Attard,Malta,False
+2002-02-13,Lithuania,Jordan,0,3,Malta International Tournament,Attard,Malta,True
+2002-04-17,Serbia,Lithuania,4,1,Friendly,Smederevo,Yugoslavia,False
+2002-08-21,Lithuania,Israel,2,4,Friendly,Kaunas,Lithuania,False
+2002-09-07,Lithuania,Germany,0,2,UEFA Euro qualification,Kaunas,Lithuania,False
+2002-10-12,Lithuania,Faroe Islands,2,0,UEFA Euro qualification,Kaunas,Lithuania,False
+2002-10-16,Iceland,Lithuania,3,0,UEFA Euro qualification,Reykjavík,Iceland,False
+2003-02-12,Latvia,Lithuania,2,1,Friendly,Antalya,Turkey,True
+2003-03-29,Germany,Lithuania,1,1,UEFA Euro qualification,Nuremberg,Germany,False
+2003-04-02,Lithuania,Scotland,1,0,UEFA Euro qualification,Kaunas,Lithuania,False
+2003-04-30,Lithuania,Romania,0,1,Friendly,Kaunas,Lithuania,False
+2003-06-11,Lithuania,Iceland,0,3,UEFA Euro qualification,Kaunas,Lithuania,False
+2003-07-03,Estonia,Lithuania,1,5,Baltic Cup,Valga,Estonia,False
+2003-07-04,Latvia,Lithuania,2,1,Baltic Cup,Valga,Estonia,True
+2003-08-20,Bulgaria,Lithuania,3,0,Friendly,Sofia,Bulgaria,False
+2003-09-10,Faroe Islands,Lithuania,1,3,UEFA Euro qualification,Toftir,Faroe Islands,False
+2003-10-11,Scotland,Lithuania,1,0,UEFA Euro qualification,Glasgow,Scotland,False
+2003-12-14,Lithuania,Poland,1,3,Friendly,Attard,Malta,True
+2004-03-30,Israel,Lithuania,2,1,Friendly,Ramat Gan,Israel,False
+2004-04-28,Belarus,Lithuania,1,0,Friendly,Minsk,Belarus,False
+2004-06-05,Portugal,Lithuania,4,1,Friendly,Setúbal,Portugal,False
+2004-08-18,Russia,Lithuania,4,3,Friendly,Moscow,Russia,False
+2004-09-04,Belgium,Lithuania,1,1,FIFA World Cup qualification,Charleroi,Belgium,False
+2004-09-08,Lithuania,San Marino,4,0,FIFA World Cup qualification,Kaunas,Lithuania,False
+2004-10-13,Lithuania,Spain,0,0,FIFA World Cup qualification,Vilnius,Lithuania,False
+2004-11-17,San Marino,Lithuania,0,1,FIFA World Cup qualification,Serravalle,San Marino,False
+2005-02-09,Georgia,Lithuania,1,0,Friendly,Tbilisi,Georgia,False
+2005-03-30,Bosnia and Herzegovina,Lithuania,1,1,FIFA World Cup qualification,Sarajevo,Bosnia and Herzegovina,False
+2005-05-21,Lithuania,Latvia,2,0,Baltic Cup,Kaunas,Lithuania,False
+2005-06-04,Spain,Lithuania,1,0,FIFA World Cup qualification,Valencia,Spain,False
+2005-08-17,Lithuania,Belarus,1,0,Friendly,Vilnius,Lithuania,False
+2005-09-03,Serbia,Lithuania,2,0,FIFA World Cup qualification,Belgrade,Serbia and Montenegro,True
+2005-09-07,Lithuania,Bosnia and Herzegovina,0,1,FIFA World Cup qualification,Vilnius,Lithuania,False
+2005-10-08,Lithuania,Serbia,0,2,FIFA World Cup qualification,Vilnius,Lithuania,False
+2005-10-12,Lithuania,Belgium,1,1,FIFA World Cup qualification,Vilnius,Lithuania,False
+2006-03-01,Albania,Lithuania,1,2,Friendly,Tirana,Albania,False
+2006-05-02,Poland,Lithuania,0,1,Friendly,Bełchatów,Poland,False
+2006-08-16,Moldova,Lithuania,3,2,Friendly,Chișinău,Moldova,False
+2006-09-02,Italy,Lithuania,1,1,UEFA Euro qualification,Naples,Italy,False
+2006-09-06,Lithuania,Scotland,1,2,UEFA Euro qualification,Kaunas,Lithuania,False
+2006-10-07,Faroe Islands,Lithuania,0,1,UEFA Euro qualification,Tórshavn,Faroe Islands,False
+2006-10-11,Kuwait,Lithuania,1,0,Friendly,Kuwait City,Kuwait,False
+2006-11-15,Malta,Lithuania,1,4,Friendly,Attard,Malta,False
+2007-02-06,Lithuania,Mali,1,3,Friendly,La Courneuve,France,True
+2007-03-24,Lithuania,France,0,1,UEFA Euro qualification,Kaunas,Lithuania,False
+2007-03-28,Ukraine,Lithuania,1,0,UEFA Euro qualification,Odessa,Ukraine,False
+2007-06-02,Lithuania,Georgia,1,0,UEFA Euro qualification,Kaunas,Lithuania,False
+2007-06-06,Lithuania,Italy,0,2,UEFA Euro qualification,Kaunas,Lithuania,False
+2007-08-22,Lithuania,Turkmenistan,2,1,Friendly,Kaunas,Lithuania,False
+2007-09-08,Scotland,Lithuania,3,1,UEFA Euro qualification,Glasgow,Scotland,False
+2007-09-12,Lithuania,Faroe Islands,2,1,UEFA Euro qualification,Kaunas,Lithuania,False
+2007-10-17,France,Lithuania,2,0,UEFA Euro qualification,Nantes,France,False
+2007-11-17,Lithuania,Ukraine,2,0,UEFA Euro qualification,Kaunas,Lithuania,False
+2007-11-21,Georgia,Lithuania,0,2,UEFA Euro qualification,Tbilisi,Georgia,False
+2008-03-26,Lithuania,Azerbaijan,1,0,Friendly,Vilnius,Lithuania,False
+2008-05-27,Czech Republic,Lithuania,2,0,Friendly,Prague,Czech Republic,False
+2008-05-31,Estonia,Lithuania,0,1,Baltic Cup,Jūrmala,Latvia,True
+2008-06-01,Latvia,Lithuania,2,1,Baltic Cup,Riga,Latvia,False
+2008-06-04,Lithuania,Russia,1,4,Friendly,Burghausen,Germany,True
+2008-08-20,Lithuania,Moldova,3,0,Friendly,Marijampolė,Lithuania,False
+2008-09-06,Romania,Lithuania,0,3,FIFA World Cup qualification,Cluj,Romania,False
+2008-09-10,Lithuania,Austria,2,0,FIFA World Cup qualification,Marijampolė,Lithuania,False
+2008-10-11,Serbia,Lithuania,3,0,FIFA World Cup qualification,Belgrade,Serbia,False
+2008-10-15,Lithuania,Faroe Islands,1,0,FIFA World Cup qualification,Kaunas,Lithuania,False
+2008-11-19,Moldova,Lithuania,1,1,Friendly,Tallinn,Estonia,True
+2008-11-22,Estonia,Lithuania,1,1,Friendly,Kuressaare,Estonia,False
+2009-02-07,Lithuania,Poland,1,1,Friendly,Faro,Portugal,True
+2009-02-11,Andorra,Lithuania,1,3,Friendly,Albufeira,Portugal,True
+2009-03-28,Lithuania,France,0,1,FIFA World Cup qualification,Kaunas,Lithuania,False
+2009-04-01,France,Lithuania,1,0,FIFA World Cup qualification,Saint-Denis,France,False
+2009-06-06,Lithuania,Romania,0,1,FIFA World Cup qualification,Marijampolė,Lithuania,False
+2009-08-12,Luxembourg,Lithuania,0,1,Friendly,Luxembourg,Luxembourg,False
+2009-09-09,Faroe Islands,Lithuania,2,1,FIFA World Cup qualification,Toftir,Faroe Islands,False
+2009-10-10,Austria,Lithuania,2,1,FIFA World Cup qualification,Innsbruck,Austria,False
+2009-10-14,Lithuania,Serbia,2,1,FIFA World Cup qualification,Marijampolė,Lithuania,False
+2010-05-25,Ukraine,Lithuania,4,0,Friendly,Kharkiv,Ukraine,False
+2010-06-18,Lithuania,Latvia,0,0,Baltic Cup,Kaunas,Lithuania,False
+2010-06-20,Lithuania,Estonia,2,0,Baltic Cup,Kaunas,Lithuania,False
+2010-08-11,Lithuania,Belarus,0,2,Friendly,Kaunas,Lithuania,False
+2010-09-03,Lithuania,Scotland,0,0,UEFA Euro qualification,Kaunas,Lithuania,False
+2010-09-07,Czech Republic,Lithuania,0,1,UEFA Euro qualification,Olomouc,Czech Republic,False
+2010-10-08,Spain,Lithuania,3,1,UEFA Euro qualification,Salamanca,Spain,False
+2010-11-17,Hungary,Lithuania,2,0,Friendly,Székesfehérvár,Hungary,False
+2011-03-25,Lithuania,Poland,2,0,Friendly,Kaunas,Lithuania,False
+2011-03-29,Lithuania,Spain,1,3,UEFA Euro qualification,Kaunas,Lithuania,False
+2011-06-03,Liechtenstein,Lithuania,2,0,UEFA Euro qualification,Vaduz,Liechtenstein,False
+2011-06-07,Norway,Lithuania,1,0,Friendly,Oslo,Norway,False
+2011-08-10,Lithuania,Armenia,3,0,Friendly,Kaunas,Lithuania,False
+2011-09-02,Lithuania,Liechtenstein,0,0,UEFA Euro qualification,Kaunas,Lithuania,False
+2011-09-06,Scotland,Lithuania,1,0,UEFA Euro qualification,Glasgow,Scotland,False
+2011-10-11,Lithuania,Czech Republic,1,4,UEFA Euro qualification,Kaunas,Lithuania,False
+2012-05-29,Lithuania,Russia,0,0,Friendly,Nyon,Switzerland,True
+2012-06-01,Latvia,Lithuania,5,0,Baltic Cup,Võru,Estonia,True
+2012-06-03,Estonia,Lithuania,1,0,Baltic Cup,Tartu,Estonia,False
+2012-06-07,Belarus,Lithuania,1,1,Friendly,Minsk,Belarus,False
+2012-08-15,North Macedonia,Lithuania,1,0,Friendly,Skopje,North Macedonia,False
+2012-09-07,Lithuania,Slovakia,1,1,FIFA World Cup qualification,Vilnius,Lithuania,False
+2012-09-11,Greece,Lithuania,2,0,FIFA World Cup qualification,Piraeus,Greece,False
+2012-10-12,Liechtenstein,Lithuania,0,2,FIFA World Cup qualification,Vaduz,Liechtenstein,False
+2012-10-16,Bosnia and Herzegovina,Lithuania,3,0,FIFA World Cup qualification,Zenica,Bosnia and Herzegovina,False
+2012-11-14,Armenia,Lithuania,4,2,Friendly,Yerevan,Armenia,False
+2013-03-22,Slovakia,Lithuania,1,1,FIFA World Cup qualification,Žilina,Slovakia,False
+2013-03-26,Albania,Lithuania,4,1,Friendly,Tirana,Albania,False
+2013-06-07,Lithuania,Greece,0,1,FIFA World Cup qualification,Vilnius,Lithuania,False
+2013-08-14,Luxembourg,Lithuania,2,1,Friendly,Luxembourg,Luxembourg,False
+2013-09-06,Latvia,Lithuania,2,1,FIFA World Cup qualification,Riga,Latvia,False
+2013-09-10,Lithuania,Liechtenstein,2,0,FIFA World Cup qualification,Marijampolė,Lithuania,False
+2013-10-11,Lithuania,Latvia,2,0,FIFA World Cup qualification,Vilnius,Lithuania,False
+2013-10-15,Lithuania,Bosnia and Herzegovina,0,1,FIFA World Cup qualification,Kaunas,Lithuania,False
+2013-11-18,Moldova,Lithuania,1,1,Friendly,Chișinău,Moldova,False
+2014-03-05,Kazakhstan,Lithuania,1,1,Friendly,Antalya,Turkey,True
+2014-05-29,Finland,Lithuania,0,1,Baltic Cup,Ventspils,Latvia,True
+2014-05-31,Latvia,Lithuania,1,0,Baltic Cup,Liepāja,Latvia,False
+2014-06-06,Poland,Lithuania,2,1,Friendly,Gdańsk,Poland,False
+2014-09-03,Lithuania,United Arab Emirates,1,1,Friendly,Matrei in Osttirol,Austria,True
+2014-09-08,San Marino,Lithuania,0,2,UEFA Euro qualification,Serravalle,San Marino,False
+2014-10-09,Lithuania,Estonia,1,0,UEFA Euro qualification,Vilnius,Lithuania,False
+2014-10-12,Lithuania,Slovenia,0,2,UEFA Euro qualification,Vilnius,Lithuania,False
+2014-11-15,Switzerland,Lithuania,4,0,UEFA Euro qualification,St. Gallen,Switzerland,False
+2014-11-18,Ukraine,Lithuania,0,0,Friendly,Kyiv,Ukraine,False
+2015-03-27,England,Lithuania,4,0,UEFA Euro qualification,London,England,False
+2015-06-05,Hungary,Lithuania,4,0,Friendly,Debrecen,Hungary,False
+2015-06-08,Malta,Lithuania,2,0,Friendly,Attard,Malta,False
+2015-06-14,Lithuania,Switzerland,1,2,UEFA Euro qualification,Vilnius,Lithuania,False
+2015-09-05,Estonia,Lithuania,1,0,UEFA Euro qualification,Tallinn,Estonia,False
+2015-09-08,Lithuania,San Marino,2,1,UEFA Euro qualification,Vilnius,Lithuania,False
+2015-10-09,Slovenia,Lithuania,1,1,UEFA Euro qualification,Ljubljana,Slovenia,False
+2015-10-12,Lithuania,England,0,3,UEFA Euro qualification,Vilnius,Lithuania,False
+2016-03-23,Romania,Lithuania,1,0,Friendly,Giurgiu,Romania,False
+2016-03-26,Russia,Lithuania,3,0,Friendly,Moscow,Russia,False
+2016-05-29,Lithuania,Estonia,2,0,Baltic Cup,Klaipėda,Lithuania,False
+2016-06-01,Latvia,Lithuania,2,1,Baltic Cup,Liepāja,Latvia,False
+2016-06-06,Poland,Lithuania,0,0,Friendly,Kraków,Poland,False
+2016-09-04,Lithuania,Slovenia,2,2,FIFA World Cup qualification,Vilnius,Lithuania,False
+2016-10-08,Scotland,Lithuania,1,1,FIFA World Cup qualification,Glasgow,Scotland,False
+2016-10-11,Lithuania,Malta,2,0,FIFA World Cup qualification,Vilnius,Lithuania,False
+2016-11-11,Slovakia,Lithuania,4,0,FIFA World Cup qualification,Trnava,Slovakia,False
+2017-03-22,Czech Republic,Lithuania,3,0,Friendly,Ústí nad Labem,Czech Republic,False
+2017-03-26,England,Lithuania,2,0,FIFA World Cup qualification,London,England,False
+2017-06-10,Lithuania,Slovakia,1,2,FIFA World Cup qualification,Vilnius,Lithuania,False
+2017-09-01,Lithuania,Scotland,0,3,FIFA World Cup qualification,Vilnius,Lithuania,False
+2017-09-04,Slovenia,Lithuania,4,0,FIFA World Cup qualification,Ljubljana,Slovenia,False
+2017-10-05,Malta,Lithuania,1,1,FIFA World Cup qualification,Attard,Malta,False
+2017-10-08,Lithuania,England,0,1,FIFA World Cup qualification,Vilnius,Lithuania,False
+2018-03-24,Georgia,Lithuania,4,0,Friendly,Tbilisi,Georgia,False
+2018-03-27,Armenia,Lithuania,0,1,Friendly,Yerevan,Armenia,False
+2018-05-30,Estonia,Lithuania,2,0,Baltic Cup,Rakvere,Estonia,False
+2018-06-05,Lithuania,Latvia,1,1,Baltic Cup,Vilnius,Lithuania,False
+2018-06-08,Lithuania,Iran,0,1,Friendly,Moscow,Russia,True
+2018-06-12,Poland,Lithuania,4,0,Friendly,Warsaw,Poland,False
+2018-09-07,Lithuania,Serbia,0,1,UEFA Nations League,Vilnius,Lithuania,False
+2018-09-10,Montenegro,Lithuania,2,0,UEFA Nations League,Podgorica,Montenegro,False
+2018-10-11,Lithuania,Romania,1,2,UEFA Nations League,Vilnius,Lithuania,False
+2018-10-14,Lithuania,Montenegro,1,4,UEFA Nations League,Vilnius,Lithuania,False
+2018-11-17,Romania,Lithuania,3,0,UEFA Nations League,Ploiești,Romania,False
+2018-11-20,Serbia,Lithuania,4,1,UEFA Nations League,Belgrade,Serbia,False
+2019-03-22,Luxembourg,Lithuania,2,1,UEFA Euro qualification,Luxembourg,Luxembourg,False
+2019-03-25,Azerbaijan,Lithuania,0,0,Friendly,Baku,Azerbaijan,False
+2019-06-07,Lithuania,Luxembourg,1,1,UEFA Euro qualification,Vilnius,Lithuania,False
+2019-06-10,Serbia,Lithuania,4,1,UEFA Euro qualification,Belgrade,Serbia,False
+2019-09-07,Lithuania,Ukraine,0,3,UEFA Euro qualification,Vilnius,Lithuania,False
+2019-09-10,Lithuania,Portugal,1,5,UEFA Euro qualification,Vilnius,Lithuania,False
+2019-10-11,Ukraine,Lithuania,2,0,UEFA Euro qualification,Kharkiv,Ukraine,False
+2019-10-14,Lithuania,Serbia,1,2,UEFA Euro qualification,Vilnius,Lithuania,False
+2019-11-14,Portugal,Lithuania,6,0,UEFA Euro qualification,Faro-Loulé,Portugal,False
+2019-11-17,Lithuania,New Zealand,1,0,Friendly,Vilnius,Lithuania,False
+2020-09-04,Lithuania,Kazakhstan,0,2,UEFA Nations League,Vilnius,Lithuania,False
+2020-09-07,Albania,Lithuania,0,1,UEFA Nations League,Tirana,Albania,False
+2020-10-07,Estonia,Lithuania,1,3,Friendly,Tallinn,Estonia,False
+2020-10-11,Lithuania,Belarus,2,2,UEFA Nations League,Vilnius,Lithuania,False
+2020-10-14,Lithuania,Albania,0,0,UEFA Nations League,Vilnius,Lithuania,False
+2020-11-11,Lithuania,Faroe Islands,2,1,Friendly,Vilnius,Lithuania,False
+2020-11-15,Belarus,Lithuania,2,0,UEFA Nations League,Minsk,Belarus,False
+2020-11-18,Kazakhstan,Lithuania,1,2,UEFA Nations League,Almaty,Kazakhstan,False
+2021-03-24,Kosovo,Lithuania,4,0,Friendly,Pristina,Kosovo,False
+2021-03-28,Switzerland,Lithuania,1,0,FIFA World Cup qualification,St. Gallen,Switzerland,False
+2021-03-31,Lithuania,Italy,0,2,FIFA World Cup qualification,Vilnius,Lithuania,False
+2021-06-01,Lithuania,Estonia,0,1,Baltic Cup,Vilnius,Lithuania,False
+2021-06-04,Latvia,Lithuania,3,1,Baltic Cup,Riga,Latvia,False
+2021-06-08,Spain,Lithuania,4,0,Friendly,Leganés,Spain,False
+2021-09-02,Lithuania,Northern Ireland,1,4,FIFA World Cup qualification,Vilnius,Lithuania,False
+2021-09-05,Bulgaria,Lithuania,1,0,FIFA World Cup qualification,Sofia,Bulgaria,False
+2021-09-08,Italy,Lithuania,5,0,FIFA World Cup qualification,Reggio Emilia,Italy,False
+2021-10-09,Lithuania,Bulgaria,3,1,FIFA World Cup qualification,Vilnius,Lithuania,False
+2021-10-12,Lithuania,Switzerland,0,4,FIFA World Cup qualification,Vilnius,Lithuania,False
+2021-11-12,Northern Ireland,Lithuania,1,0,FIFA World Cup qualification,Belfast,Northern Ireland,False
+2021-11-15,Lithuania,Kuwait,1,1,Friendly,Vilnius,Lithuania,False
+2022-03-25,San Marino,Lithuania,1,2,Friendly,Serravalle,San Marino,False
+2022-03-29,Republic of Ireland,Lithuania,1,0,Friendly,Dublin,Republic of Ireland,False
+2022-06-04,Lithuania,Luxembourg,0,2,UEFA Nations League,Vilnius,Lithuania,False
+2022-06-07,Lithuania,Turkey,0,6,UEFA Nations League,Vilnius,Lithuania,False
+2022-06-11,Faroe Islands,Lithuania,2,1,UEFA Nations League,Tórshavn,Faroe Islands,False
+2022-06-14,Turkey,Lithuania,2,0,UEFA Nations League,İzmir,Turkey,False
+2022-09-22,Lithuania,Faroe Islands,1,1,UEFA Nations League,Vilnius,Lithuania,False
+2022-09-25,Luxembourg,Lithuania,1,0,UEFA Nations League,Luxembourg,Luxembourg,False
+2022-11-16,Lithuania,Iceland,0,0,Baltic Cup,Kaunas,Lithuania,False
+2022-11-19,Estonia,Lithuania,2,0,Baltic Cup,Tallinn,Estonia,False
+2023-03-24,Serbia,Lithuania,2,0,UEFA Euro qualification,Belgrade,Serbia,False
+2023-03-27,Greece,Lithuania,0,0,Friendly,Athens,Greece,False
+2023-06-17,Lithuania,Bulgaria,1,1,UEFA Euro qualification,Kaunas,Lithuania,False
+2023-06-20,Hungary,Lithuania,2,0,UEFA Euro qualification,Budapest,Hungary,False
+2023-09-07,Lithuania,Montenegro,2,2,UEFA Euro qualification,Kaunas,Lithuania,False
+2023-09-10,Lithuania,Serbia,1,3,UEFA Euro qualification,Kaunas,Lithuania,False
+2023-10-14,Bulgaria,Lithuania,0,2,UEFA Euro qualification,Sofia,Bulgaria,False
+2023-10-17,Lithuania,Hungary,2,2,UEFA Euro qualification,Kaunas,Lithuania,False
+2023-11-16,Montenegro,Lithuania,2,0,UEFA Euro qualification,Podgorica,Montenegro,False
+2023-11-19,Cyprus,Lithuania,1,0,Friendly,Limassol,Cyprus,False
+2024-03-21,Gibraltar,Lithuania,0,1,UEFA Nations League,Faro-Loulé,Portugal,True
+2024-03-26,Lithuania,Gibraltar,1,0,UEFA Nations League,Kaunas,Lithuania,False
+2024-06-08,Latvia,Lithuania,0,2,Baltic Cup,Liepāja,Latvia,False
+2024-06-11,Lithuania,Estonia,1,1,Baltic Cup,Kaunas,Lithuania,False
+2024-09-06,Lithuania,Cyprus,0,1,UEFA Nations League,Kaunas,Lithuania,False
+2024-09-09,Romania,Lithuania,3,1,UEFA Nations League,Bucharest,Romania,False
+2024-10-12,Lithuania,Kosovo,1,2,UEFA Nations League,Kaunas,Lithuania,False
+2024-10-15,Lithuania,Romania,1,2,UEFA Nations League,Kaunas,Lithuania,False
+2024-11-15,Cyprus,Lithuania,2,1,UEFA Nations League,Larnaca,Cyprus,False
+2024-11-18,Kosovo,Lithuania,1,0,UEFA Nations League,Pristina,Kosovo,False
+2025-03-21,Poland,Lithuania,1,0,FIFA World Cup qualification,Warsaw,Poland,False
+2025-03-24,Lithuania,Finland,2,2,FIFA World Cup qualification,Kaunas,Lithuania,False

@@ -1,0 +1,773 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1885-11-28,United States,Canada,0,1,Friendly,Newark,United States,False
+1886-11-25,United States,Canada,3,2,Friendly,Newark,United States,False
+1916-08-20,Sweden,United States,2,3,Friendly,Stockholm,Sweden,False
+1916-09-03,Norway,United States,1,1,Friendly,Kristiania,Norway,False
+1919-06-25,United States,Canada,5,4,Inter-Allied Games,Paris,France,True
+1919-06-26,Czechoslovakia,United States,8,2,Inter-Allied Games,Paris,France,True
+1919-06-28,Belgium,United States,7,0,Inter-Allied Games,Paris,France,True
+1924-05-25,United States,Estonia,1,0,Olympic Games,Vincennes,France,True
+1924-05-29,Uruguay,United States,3,0,Olympic Games,Paris,France,True
+1924-06-10,Poland,United States,2,3,Friendly,Warsaw,Poland,False
+1925-06-27,Canada,United States,1,0,Friendly,Montreal,Canada,False
+1925-11-08,United States,Canada,6,1,Friendly,New York,United States,False
+1926-11-06,United States,Canada,6,2,Friendly,New York,United States,False
+1928-05-29,Argentina,United States,11,2,Olympic Games,Amsterdam,Netherlands,True
+1928-06-10,Poland,United States,3,3,Friendly,Warsaw,Poland,False
+1930-07-13,Belgium,United States,0,3,FIFA World Cup,Montevideo,Uruguay,True
+1930-07-17,Paraguay,United States,0,3,FIFA World Cup,Montevideo,Uruguay,True
+1930-07-26,Argentina,United States,6,1,FIFA World Cup,Montevideo,Uruguay,True
+1930-08-17,Brazil,United States,4,3,Friendly,Rio de Janeiro,Brazil,False
+1934-05-24,Mexico,United States,2,4,FIFA World Cup qualification,Rome,Italy,True
+1934-05-27,Italy,United States,7,1,FIFA World Cup,Rome,Italy,False
+1935-05-19,United States,Scotland,1,5,Friendly,New York,United States,False
+1935-06-09,United States,Scotland,1,4,Friendly,Newark,United States,False
+1937-09-12,Mexico,United States,7,2,Friendly,Mexico City,Mexico,False
+1937-09-19,Mexico,United States,7,3,Friendly,Mexico City,Mexico,False
+1947-07-13,Mexico,United States,5,0,NAFC Championship,Havana,Cuba,True
+1947-07-20,Cuba,United States,5,2,NAFC Championship,Havana,Cuba,False
+1948-08-06,Norway,United States,11,0,Friendly,Oslo,Norway,False
+1948-08-11,Northern Ireland,United States,5,0,Friendly,Belfast,Northern Ireland,False
+1948-09-26,United States,Israel,3,1,Friendly,East Rutherford,United States,False
+1949-06-19,United States,Scotland,0,4,Friendly,New York,United States,False
+1949-09-04,Mexico,United States,6,0,NAFC Championship,Mexico City,Mexico,False
+1949-09-14,Cuba,United States,1,1,NAFC Championship,Mexico City,Mexico,True
+1949-09-18,Mexico,United States,6,2,FIFA World Cup qualification,Mexico City,Mexico,False
+1949-09-21,United States,Cuba,5,2,FIFA World Cup qualification,Mexico City,Mexico,True
+1950-06-25,Spain,United States,3,1,FIFA World Cup,Curitiba,Brazil,True
+1950-06-29,England,United States,0,1,FIFA World Cup,Belo Horizonte,Brazil,True
+1950-07-02,Chile,United States,5,2,FIFA World Cup,Recife,Brazil,True
+1952-04-30,Scotland,United States,6,0,Friendly,Glasgow,Scotland,False
+1953-06-08,United States,England,3,6,Friendly,New York,United States,False
+1954-01-10,Mexico,United States,4,0,FIFA World Cup qualification,Mexico City,Mexico,False
+1954-01-14,Mexico,United States,3,1,FIFA World Cup qualification,Mexico City,Mexico,False
+1954-04-03,Haiti,United States,2,3,FIFA World Cup qualification,Port-au-Prince,Haiti,False
+1954-04-04,Haiti,United States,0,3,FIFA World Cup qualification,Port-au-Prince,Haiti,False
+1955-08-25,Iceland,United States,3,2,Friendly,Reykjavík,Iceland,False
+1956-10-31,South Korea,United States,1,0,Friendly,Seoul,South Korea,False
+1956-11-10,Philippines,United States,0,4,Friendly,Manila,Philippines,False
+1956-11-16,Indonesia,United States,7,5,Friendly,Jakarta,Indonesia,False
+1957-04-07,Mexico,United States,6,0,FIFA World Cup qualification,Mexico City,Mexico,False
+1957-04-28,United States,Mexico,2,7,FIFA World Cup qualification,Long Beach,United States,False
+1957-06-22,Canada,United States,5,1,FIFA World Cup qualification,Toronto,Canada,False
+1957-07-06,United States,Canada,2,3,FIFA World Cup qualification,St. Louis,United States,False
+1959-05-28,United States,England,1,8,Friendly,Los Angeles,United States,False
+1960-11-03,United States,Mexico,3,3,FIFA World Cup qualification,Los Angeles,United States,False
+1960-11-06,Mexico,United States,3,0,FIFA World Cup qualification,Mexico City,Mexico,False
+1961-02-05,Colombia,United States,2,0,Friendly,Bogotá,Colombia,False
+1964-05-27,United States,England,0,10,Friendly,New York,United States,False
+1965-03-07,United States,Mexico,2,2,FIFA World Cup qualification,Los Angeles,United States,False
+1965-03-12,Mexico,United States,2,0,FIFA World Cup qualification,Mexico City,Mexico,False
+1965-03-17,Honduras,United States,0,1,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+1965-03-21,Honduras,United States,1,1,FIFA World Cup qualification,Tegucigalpa,Honduras,False
+1968-09-15,United States,Israel,3,3,Friendly,New York,United States,False
+1968-09-25,United States,Israel,0,4,Friendly,Philadelphia,United States,False
+1968-10-13,Canada,United States,4,2,FIFA World Cup qualification,Toronto,Canada,False
+1968-10-20,Haiti,United States,3,6,Friendly,Port-au-Prince,Haiti,False
+1968-10-21,Haiti,United States,5,2,Friendly,Port-au-Prince,Haiti,False
+1968-10-23,Haiti,United States,1,0,Friendly,Port-au-Prince,Haiti,False
+1968-10-26,United States,Canada,1,0,FIFA World Cup qualification,Atlanta,United States,False
+1968-11-02,United States,Bermuda,6,2,FIFA World Cup qualification,Kansas City,United States,False
+1968-11-11,Bermuda,United States,0,2,FIFA World Cup qualification,Hamilton,Bermuda,False
+1969-04-20,Haiti,United States,2,0,FIFA World Cup qualification,Port-au-Prince,Haiti,False
+1969-05-11,United States,Haiti,0,1,FIFA World Cup qualification,San Diego,United States,False
+1972-08-20,Canada,United States,3,2,CONCACAF Championship qualification,St. John's,Canada,False
+1972-08-29,United States,Canada,2,2,CONCACAF Championship qualification,Baltimore,United States,False
+1972-09-03,Mexico,United States,3,1,CONCACAF Championship qualification,Mexico City,Mexico,False
+1972-09-10,United States,Mexico,1,2,CONCACAF Championship qualification,Los Angeles,United States,False
+1973-03-17,Bermuda,United States,4,0,Friendly,Hamilton,Bermuda,False
+1973-03-20,Poland,United States,4,0,Friendly,Łódź,Poland,False
+1973-08-03,United States,Poland,0,1,Friendly,Chicago,United States,False
+1973-08-05,Canada,United States,0,2,Friendly,Windsor,Canada,False
+1973-08-10,United States,Poland,0,4,Friendly,San Francisco,United States,False
+1973-08-12,United States,Poland,1,0,Friendly,New Britain,United States,False
+1973-09-09,United States,Bermuda,1,0,Friendly,Hartford,United States,False
+1973-10-16,Mexico,United States,2,0,Friendly,Mexico City,Mexico,False
+1973-11-03,Haiti,United States,1,0,Friendly,Port-au-Prince,Haiti,False
+1973-11-05,Haiti,United States,1,0,Friendly,Port-au-Prince,Haiti,False
+1973-11-13,Israel,United States,3,1,Friendly,Jaffa,Israel,False
+1973-11-15,Israel,United States,2,0,Friendly,Beer Sheva,Israel,False
+1974-09-05,Mexico,United States,3,1,Friendly,Monterrey,Mexico,False
+1974-09-08,United States,Mexico,0,1,Friendly,Dallas,United States,False
+1975-03-26,Poland,United States,7,0,Friendly,Poznań,Poland,False
+1975-04-02,Italy,United States,10,0,Friendly,Rome,Italy,False
+1975-06-24,United States,Poland,0,4,Friendly,Seattle,United States,False
+1975-08-19,Costa Rica,United States,3,1,Friendly,Mexico City,Mexico,True
+1975-08-21,Argentina,United States,6,0,Friendly,Mexico City,Mexico,True
+1975-08-24,Mexico,United States,2,0,Friendly,Mexico City,Mexico,False
+1976-09-24,Canada,United States,1,1,CONCACAF Championship qualification,Vancouver,Canada,False
+1976-10-03,United States,Mexico,0,0,CONCACAF Championship qualification,Los Angeles,United States,False
+1976-10-15,Mexico,United States,3,0,CONCACAF Championship qualification,Puebla,Mexico,False
+1976-10-20,United States,Canada,2,0,CONCACAF Championship qualification,Seattle,United States,False
+1976-11-10,Haiti,United States,0,0,Friendly,Port-au-Prince,Haiti,False
+1976-11-12,Haiti,United States,0,0,Friendly,Port-au-Prince,Haiti,False
+1976-11-14,Haiti,United States,0,0,Friendly,Port-au-Prince,Haiti,False
+1976-12-22,Canada,United States,3,0,CONCACAF Championship qualification,Port-au-Prince,Haiti,True
+1977-09-15,El Salvador,United States,1,2,Friendly,San Salvador,El Salvador,False
+1977-09-18,Guatemala,United States,3,1,Friendly,Guatemala City,Guatemala,False
+1977-09-25,Guatemala,United States,2,0,Friendly,Guatemala City,Guatemala,False
+1977-09-27,Mexico,United States,3,0,Friendly,Monterrey,Mexico,False
+1977-09-30,United States,El Salvador,0,0,Friendly,Monterey Park,United States,False
+1977-10-06,United States,China PR,1,1,Friendly,"Washington, D.C.",United States,False
+1977-10-10,United States,China PR,1,0,Friendly,Atlanta,United States,False
+1977-10-16,United States,China PR,2,1,Friendly,San Francisco,United States,False
+1978-09-03,Iceland,United States,0,0,Friendly,Reykjavík,Iceland,False
+1978-09-06,Switzerland,United States,2,0,Friendly,Lucerne,Switzerland,False
+1978-09-20,Portugal,United States,1,0,Friendly,Setúbal,Portugal,False
+1979-05-02,United States,France,0,6,Friendly,East Rutherford,United States,False
+1979-10-07,Bermuda,United States,1,3,Friendly,Hamilton,Bermuda,False
+1979-10-10,France,United States,3,0,Friendly,Paris,France,False
+1979-10-26,Hungary,United States,0,2,Friendly,Budapest,Hungary,False
+1979-10-29,Republic of Ireland,United States,3,2,Friendly,Dublin,Republic of Ireland,False
+1980-10-04,Luxembourg,United States,0,2,Friendly,Luxembourg,Luxembourg,False
+1980-10-07,Portugal,United States,1,1,Friendly,Lisbon,Portugal,False
+1980-10-25,United States,Canada,0,0,CONCACAF Championship qualification,Fort Lauderdale,United States,False
+1980-11-01,Canada,United States,2,1,CONCACAF Championship qualification,Vancouver,Canada,False
+1980-11-09,Mexico,United States,5,1,CONCACAF Championship qualification,Mexico City,Mexico,False
+1980-11-23,United States,Mexico,2,1,CONCACAF Championship qualification,Fort Lauderdale,United States,False
+1982-03-21,Trinidad and Tobago,United States,1,2,Friendly,Port of Spain,Trinidad and Tobago,False
+1983-04-08,Haiti,United States,0,2,Friendly,Port-au-Prince,Haiti,False
+1984-05-30,United States,Italy,0,0,Friendly,East Rutherford,United States,False
+1984-09-29,Curaçao,United States,0,0,CONCACAF Championship qualification,Willemstad,Curaçao,True
+1984-10-06,United States,Curaçao,4,0,CONCACAF Championship qualification,St. Louis,United States,False
+1984-10-09,United States,El Salvador,3,1,Friendly,Los Angeles,United States,False
+1984-10-11,United States,Colombia,1,0,Friendly,Los Angeles,United States,False
+1984-10-14,Guatemala,United States,4,0,Friendly,Guatemala City,Guatemala,False
+1984-10-17,Mexico,United States,2,1,Friendly,Nezahualcóyotl,Mexico,False
+1984-11-30,United States,Ecuador,0,0,Friendly,Hempstead,United States,False
+1984-12-02,United States,Ecuador,2,2,Friendly,Miami,United States,False
+1985-02-08,United States,Switzerland,1,1,Friendly,Tampa,United States,False
+1985-04-02,Canada,United States,2,0,Friendly,Vancouver,Canada,False
+1985-04-04,United States,Canada,1,1,Friendly,Portland,United States,False
+1985-05-15,United States,Trinidad and Tobago,2,1,CONCACAF Championship,St. Louis,United States,False
+1985-05-19,United States,Trinidad and Tobago,1,0,CONCACAF Championship,Torrance,United States,False
+1985-05-26,Costa Rica,United States,1,1,CONCACAF Championship,Alajuela,Costa Rica,False
+1985-05-31,United States,Costa Rica,0,1,CONCACAF Championship,Torrance,United States,False
+1985-06-16,United States,England,0,5,Friendly,Los Angeles,United States,False
+1987-06-08,Egypt,United States,3,1,Korea Cup,Seoul,South Korea,True
+1987-06-12,South Korea,United States,1,0,Korea Cup,Busan,South Korea,False
+1987-06-16,Thailand,United States,0,1,Korea Cup,Cheongju,South Korea,True
+1988-01-10,Guatemala,United States,1,0,Friendly,Guatemala City,Guatemala,False
+1988-01-13,Guatemala,United States,0,1,Friendly,Guatemala City,Guatemala,False
+1988-06-01,United States,Chile,1,1,Friendly,Stockton,United States,False
+1988-06-03,United States,Chile,1,3,Friendly,San Diego,United States,False
+1988-06-05,United States,Chile,0,3,Friendly,Fresno,United States,False
+1988-06-07,United States,Ecuador,0,1,Friendly,Albuquerque,United States,False
+1988-06-10,United States,Ecuador,0,2,Friendly,Houston,United States,False
+1988-06-12,United States,Ecuador,0,0,Friendly,Fort Worth,United States,False
+1988-06-14,United States,Costa Rica,1,0,Friendly,San Antonio,United States,False
+1988-07-13,United States,Poland,0,2,Friendly,New Britain,United States,False
+1988-07-24,Jamaica,United States,0,0,CONCACAF Championship qualification,Kingston,Jamaica,False
+1988-08-13,United States,Jamaica,5,1,CONCACAF Championship qualification,St. Louis,United States,False
+1989-04-16,Costa Rica,United States,1,0,CONCACAF Championship,San José,Costa Rica,False
+1989-04-30,United States,Costa Rica,1,0,CONCACAF Championship,St. Louis,United States,False
+1989-05-13,United States,Trinidad and Tobago,1,1,CONCACAF Championship,Torrance,United States,False
+1989-06-04,United States,Peru,3,0,Marlboro Cup,East Rutherford,United States,False
+1989-06-17,United States,Guatemala,2,1,CONCACAF Championship,New Britain,United States,False
+1989-06-24,United States,Colombia,0,1,Friendly,Miami,United States,False
+1989-08-13,United States,South Korea,1,2,Marlboro Cup,Los Angeles,United States,False
+1989-09-17,El Salvador,United States,0,1,CONCACAF Championship,Tegucigalpa,Honduras,True
+1989-10-08,Guatemala,United States,0,0,CONCACAF Championship,Guatemala City,Guatemala,False
+1989-11-05,United States,El Salvador,0,0,CONCACAF Championship,St. Louis,United States,False
+1989-11-14,United States,Bermuda,2,1,Friendly,Cocoa Beach,United States,False
+1989-11-19,Trinidad and Tobago,United States,0,1,CONCACAF Championship,Port of Spain,Trinidad and Tobago,False
+1990-02-02,United States,Costa Rica,0,2,Miami Cup,Miami,United States,False
+1990-02-04,United States,Colombia,1,1,Miami Cup,Miami,United States,False
+1990-02-13,Bermuda,United States,0,1,Friendly,Hamilton,Bermuda,False
+1990-02-24,United States,Russia,1,3,Friendly,Palo Alto,United States,False
+1990-03-10,United States,Finland,2,1,Friendly,Tampa,United States,False
+1990-03-20,Hungary,United States,2,0,Friendly,Budapest,Hungary,False
+1990-03-28,German DR,United States,3,2,Friendly,Berlin,German DR,False
+1990-04-08,United States,Iceland,4,1,Friendly,St. Louis,United States,False
+1990-04-22,United States,Colombia,0,1,Friendly,Miami,United States,False
+1990-05-05,United States,Malta,1,0,Friendly,Piscataway,United States,False
+1990-05-09,United States,Poland,3,1,Friendly,Hershey,United States,False
+1990-05-30,Liechtenstein,United States,1,4,Friendly,Eschen,Liechtenstein,False
+1990-06-02,Switzerland,United States,2,1,Friendly,St. Gallen,Switzerland,False
+1990-06-10,United States,Czechoslovakia,1,5,FIFA World Cup,Florence,Italy,True
+1990-06-14,Italy,United States,1,0,FIFA World Cup,Rome,Italy,False
+1990-06-19,Austria,United States,2,1,FIFA World Cup,Florence,Italy,True
+1990-09-15,United States,Trinidad and Tobago,3,0,Friendly,High Point,United States,False
+1990-10-10,Poland,United States,2,3,Friendly,Warsaw,Poland,False
+1990-10-17,Croatia,United States,2,1,Friendly,Zagreb,Croatia,False
+1990-11-18,Trinidad and Tobago,United States,0,0,Friendly,Port of Spain,Trinidad and Tobago,False
+1990-11-21,United States,Russia,0,0,Friendly,Port of Spain,Trinidad and Tobago,True
+1990-12-19,Portugal,United States,1,0,Friendly,Maia,Portugal,False
+1991-02-01,United States,Switzerland,0,1,Miami Cup,Miami,United States,False
+1991-02-21,Bermuda,United States,1,0,Friendly,Hamilton,Bermuda,False
+1991-03-12,United States,Mexico,2,2,NAFU Championship,Los Angeles,United States,False
+1991-03-16,United States,Canada,2,0,NAFU Championship,Torrance,United States,False
+1991-05-05,United States,Uruguay,1,0,Friendly,Denver,United States,False
+1991-05-19,United States,Argentina,0,1,Friendly,Palo Alto,United States,False
+1991-06-01,United States,Republic of Ireland,1,1,Friendly,Foxborough,United States,False
+1991-06-29,United States,Trinidad and Tobago,2,1,Gold Cup,Pasadena,United States,False
+1991-07-01,United States,Guatemala,3,0,Gold Cup,Pasadena,United States,False
+1991-07-03,United States,Costa Rica,3,2,Gold Cup,Los Angeles,United States,False
+1991-07-05,United States,Mexico,2,0,Gold Cup,Los Angeles,United States,False
+1991-07-07,United States,Honduras,0,0,Gold Cup,Los Angeles,United States,False
+1991-08-28,Romania,United States,0,2,Friendly,Braşov,Romania,False
+1991-09-04,Turkey,United States,1,1,Friendly,Istanbul,Turkey,False
+1991-09-14,United States,Jamaica,1,0,Friendly,High Point,United States,False
+1991-10-19,United States,North Korea,1,2,Friendly,"Washington, D.C.",United States,False
+1991-11-24,United States,Costa Rica,1,1,Friendly,Dallas,United States,False
+1992-01-25,United States,Russia,0,1,Friendly,Miami Gardens,United States,False
+1992-02-02,United States,Russia,2,1,Friendly,Pontiac,United States,False
+1992-02-12,Costa Rica,United States,0,0,Friendly,San José,Costa Rica,False
+1992-02-18,El Salvador,United States,2,0,Friendly,San Salvador,El Salvador,False
+1992-02-26,Brazil,United States,3,0,Friendly,Fortaleza,Brazil,False
+1992-03-11,Spain,United States,2,0,Friendly,Valladolid,Spain,False
+1992-03-18,Morocco,United States,3,1,Friendly,Casablanca,Morocco,False
+1992-04-04,United States,China PR,5,0,Friendly,Palo Alto,United States,False
+1992-04-29,Republic of Ireland,United States,4,1,Friendly,Dublin,Republic of Ireland,False
+1992-05-17,United States,Scotland,0,1,Friendly,Denver,United States,False
+1992-05-30,United States,Republic of Ireland,3,1,USA Cup,"Washington, D.C.",United States,False
+1992-06-03,United States,Portugal,1,0,USA Cup,Chicago,United States,False
+1992-06-06,United States,Italy,1,1,USA Cup,Chicago,United States,False
+1992-06-13,United States,Australia,0,1,Friendly,Orlando,United States,False
+1992-06-27,United States,Ukraine,0,0,Friendly,Piscataway,United States,False
+1992-07-31,United States,Colombia,0,1,Friendly,Los Angeles,United States,False
+1992-08-02,United States,Brazil,0,1,Friendly,Los Angeles,United States,False
+1992-09-03,Canada,United States,0,2,Friendly,Saint John,Canada,False
+1992-10-09,United States,Canada,0,0,Friendly,Greensboro,United States,False
+1992-10-15,Saudi Arabia,United States,3,0,Confederations Cup,Riyadh,Saudi Arabia,False
+1992-10-19,United States,Ivory Coast,5,2,Confederations Cup,Riyadh,Saudi Arabia,True
+1993-01-30,United States,Denmark,2,2,Friendly,Tempe,United States,False
+1993-02-06,United States,Romania,1,1,Friendly,Santa Barbara,United States,False
+1993-02-13,United States,Russia,0,1,Friendly,Orlando,United States,False
+1993-02-21,United States,Russia,0,0,Friendly,Palo Alto,United States,False
+1993-03-10,Hungary,United States,0,0,Kirin Cup,Nagoya,Japan,True
+1993-03-14,Japan,United States,3,1,Kirin Cup,Tokyo,Japan,False
+1993-03-23,El Salvador,United States,2,2,Friendly,San Salvador,El Salvador,False
+1993-03-25,Honduras,United States,4,1,Friendly,Tegucigalpa,Honduras,False
+1993-04-17,United States,Iceland,1,1,Friendly,Costa Mesa,United States,False
+1993-05-08,United States,Colombia,1,2,Friendly,Miami,United States,False
+1993-05-23,United States,Bolivia,0,0,Friendly,Fullerton,United States,False
+1993-05-26,United States,Peru,0,0,Friendly,Mission Viejo,United States,False
+1993-06-06,United States,Brazil,0,2,USA Cup,New Haven,United States,False
+1993-06-09,United States,England,2,0,USA Cup,Foxborough,United States,False
+1993-06-13,United States,Germany,3,4,USA Cup,Chicago,United States,False
+1993-06-16,Uruguay,United States,1,0,Copa América,Ambato,Ecuador,True
+1993-06-19,Ecuador,United States,2,0,Copa América,Quito,Ecuador,False
+1993-06-22,United States,Venezuela,3,3,Copa América,Quito,Ecuador,True
+1993-07-10,United States,Jamaica,1,0,Gold Cup,Dallas,United States,False
+1993-07-14,United States,Panama,2,1,Gold Cup,Dallas,United States,False
+1993-07-17,United States,Honduras,1,0,Gold Cup,Dallas,United States,False
+1993-07-22,United States,Costa Rica,1,0,Gold Cup,Dallas,United States,False
+1993-07-25,Mexico,United States,4,0,Gold Cup,Mexico City,Mexico,False
+1993-08-31,Iceland,United States,0,1,Friendly,Reykjavík,Iceland,False
+1993-09-08,Norway,United States,1,0,Friendly,Oslo,Norway,False
+1993-10-13,United States,Mexico,1,1,Friendly,"Washington, D.C.",United States,False
+1993-10-16,United States,Ukraine,1,2,Friendly,High Point,United States,False
+1993-10-23,United States,Ukraine,0,1,Friendly,Bethlehem,United States,False
+1993-11-07,United States,Jamaica,1,0,Friendly,Fullerton,United States,False
+1993-11-14,United States,Cayman Islands,8,1,Friendly,Mission Viejo,United States,False
+1993-12-05,United States,El Salvador,7,0,Friendly,Mission Viejo,United States,False
+1993-12-18,United States,Germany,0,3,Friendly,Palo Alto,United States,False
+1994-01-15,United States,Norway,2,1,Friendly,Tempe,United States,False
+1994-01-22,United States,Switzerland,1,1,Friendly,Fullerton,United States,False
+1994-01-29,United States,Russia,1,1,Friendly,Seattle,United States,False
+1994-02-13,Romania,United States,2,1,Lunar New Year Cup,Kowloon,Hong Kong,True
+1994-02-18,United States,Bolivia,1,1,Joe Robbie Cup,Miami,United States,False
+1994-02-20,United States,Sweden,1,3,Joe Robbie Cup,Miami,United States,False
+1994-03-05,United States,South Korea,1,0,Friendly,Monterey Park,United States,False
+1994-03-12,United States,South Korea,1,1,Friendly,Fullerton,United States,False
+1994-03-26,United States,Bolivia,2,2,Friendly,Dallas,United States,False
+1994-04-16,United States,Moldova,1,1,Friendly,Jacksonville,United States,False
+1994-04-20,United States,Moldova,3,0,Friendly,Davidson,United States,False
+1994-04-24,United States,Iceland,1,2,Friendly,Chula Vista,United States,False
+1994-04-30,United States,Chile,0,2,Friendly,Albuquerque,United States,False
+1994-05-07,United States,Estonia,4,0,Friendly,Fullerton,United States,False
+1994-05-15,United States,Armenia,1,0,Friendly,Fullerton,United States,False
+1994-05-25,United States,Saudi Arabia,0,0,Friendly,Piscataway,United States,False
+1994-05-28,United States,Greece,1,1,Friendly,New Haven,United States,False
+1994-06-04,United States,Mexico,1,0,Friendly,Pasadena,United States,False
+1994-06-18,United States,Switzerland,1,1,FIFA World Cup,Pontiac,United States,False
+1994-06-22,United States,Colombia,2,1,FIFA World Cup,Pasadena,United States,False
+1994-06-26,United States,Romania,0,1,FIFA World Cup,Pasadena,United States,False
+1994-07-04,United States,Brazil,0,1,FIFA World Cup,Palo Alto,United States,False
+1994-09-07,England,United States,2,0,Friendly,London,England,False
+1994-10-19,Saudi Arabia,United States,2,1,Friendly,Khobar,Saudi Arabia,False
+1994-11-19,Trinidad and Tobago,United States,1,0,Friendly,Port of Spain,Trinidad and Tobago,False
+1994-11-22,Jamaica,United States,0,3,Friendly,Kingston,Jamaica,False
+1994-12-11,United States,Honduras,1,1,Friendly,Fullerton,United States,False
+1995-03-25,United States,Uruguay,2,2,Friendly,Dallas,United States,False
+1995-04-22,Belgium,United States,1,0,Friendly,Brussels,Belgium,False
+1995-05-28,United States,Costa Rica,1,2,Friendly,Tampa,United States,False
+1995-06-11,United States,Nigeria,3,2,USA Cup,Foxborough,United States,False
+1995-06-18,United States,Mexico,4,0,USA Cup,"Washington, D.C.",United States,False
+1995-06-25,United States,Colombia,0,0,USA Cup,Piscataway,United States,False
+1995-07-08,United States,Chile,2,1,Copa América,Paysandú,Uruguay,True
+1995-07-11,United States,Bolivia,0,1,Copa América,Paysandú,Uruguay,True
+1995-07-14,Argentina,United States,0,3,Copa América,Paysandú,Uruguay,True
+1995-07-17,United States,Mexico,0,0,Copa América,Paysandú,Uruguay,True
+1995-07-20,United States,Brazil,0,1,Copa América,Maldonado,Uruguay,True
+1995-07-22,Colombia,United States,4,1,Copa América,Maldonado,Uruguay,True
+1995-08-16,Sweden,United States,1,0,Friendly,Norrköping,Sweden,False
+1995-10-08,United States,Saudi Arabia,4,3,Friendly,"Washington, D.C.",United States,False
+1996-01-13,United States,Trinidad and Tobago,3,2,Gold Cup,Anaheim,United States,False
+1996-01-16,United States,El Salvador,2,0,Gold Cup,Anaheim,United States,False
+1996-01-18,United States,Brazil,0,1,Gold Cup,Los Angeles,United States,False
+1996-01-21,United States,Guatemala,3,0,Gold Cup,Los Angeles,United States,False
+1996-05-26,United States,Scotland,2,1,Friendly,New Britain,United States,False
+1996-06-09,United States,Republic of Ireland,2,1,USA Cup,Foxborough,United States,False
+1996-06-12,United States,Bolivia,0,2,USA Cup,"Washington, D.C.",United States,False
+1996-06-16,United States,Mexico,2,2,USA Cup,Pasadena,United States,False
+1996-08-30,United States,El Salvador,3,1,Friendly,Los Angeles,United States,False
+1996-10-16,Peru,United States,4,1,Friendly,Lima,Peru,False
+1996-11-03,United States,Guatemala,2,0,FIFA World Cup qualification,"Washington, D.C.",United States,False
+1996-11-10,United States,Trinidad and Tobago,2,0,FIFA World Cup qualification,Richmond,United States,False
+1996-11-24,Trinidad and Tobago,United States,0,1,FIFA World Cup qualification,Port of Spain,Trinidad and Tobago,False
+1996-12-01,Costa Rica,United States,2,1,FIFA World Cup qualification,San José,Costa Rica,False
+1996-12-14,United States,Costa Rica,2,1,FIFA World Cup qualification,Palo Alto,United States,False
+1996-12-21,Guatemala,United States,2,2,FIFA World Cup qualification,San Salvador,El Salvador,True
+1997-01-17,United States,Peru,0,1,USA Cup,San Diego,United States,False
+1997-01-19,United States,Mexico,0,2,USA Cup,Pasadena,United States,False
+1997-01-29,China PR,United States,2,1,Friendly,Kunming,China PR,False
+1997-02-01,China PR,United States,1,1,Friendly,Guangzhou,China PR,False
+1997-03-02,Jamaica,United States,0,0,FIFA World Cup qualification,Kingston,Jamaica,False
+1997-03-16,United States,Canada,3,0,FIFA World Cup qualification,Palo Alto,United States,False
+1997-03-23,Costa Rica,United States,3,2,FIFA World Cup qualification,San José,Costa Rica,False
+1997-04-20,United States,Mexico,2,2,FIFA World Cup qualification,Foxborough,United States,False
+1997-06-04,United States,Paraguay,0,0,Friendly,St. Louis,United States,False
+1997-06-17,United States,Israel,2,1,Friendly,Jacksonville,United States,False
+1997-06-29,El Salvador,United States,1,1,FIFA World Cup qualification,San Salvador,El Salvador,False
+1997-08-07,United States,Ecuador,0,1,Friendly,Baltimore,United States,False
+1997-09-07,United States,Costa Rica,1,0,FIFA World Cup qualification,Portland,United States,False
+1997-10-03,United States,Jamaica,1,1,FIFA World Cup qualification,"Washington, D.C.",United States,False
+1997-11-02,Mexico,United States,0,0,FIFA World Cup qualification,Mexico City,Mexico,False
+1997-11-09,Canada,United States,0,3,FIFA World Cup qualification,Burnaby,Canada,False
+1997-11-16,United States,El Salvador,4,2,FIFA World Cup qualification,Foxborough,United States,False
+1998-01-24,United States,Sweden,1,0,Friendly,Orlando,United States,False
+1998-02-01,United States,Cuba,3,0,Gold Cup,Oakland,United States,False
+1998-02-07,United States,Costa Rica,2,1,Gold Cup,Oakland,United States,False
+1998-02-10,United States,Brazil,1,0,Gold Cup,Los Angeles,United States,False
+1998-02-15,United States,Mexico,0,1,Gold Cup,Los Angeles,United States,False
+1998-02-21,United States,Netherlands,0,2,Friendly,Miami Gardens,United States,False
+1998-02-25,Belgium,United States,2,0,Friendly,Brussels,Belgium,False
+1998-03-14,United States,Paraguay,2,2,Friendly,San Diego,United States,False
+1998-04-22,Austria,United States,0,3,Friendly,Vienna,Austria,False
+1998-05-16,United States,North Macedonia,0,0,Friendly,San Jose,United States,False
+1998-05-24,United States,Kuwait,2,0,Friendly,Portland,United States,False
+1998-05-30,United States,Scotland,0,0,Friendly,"Washington, D.C.",United States,False
+1998-06-15,Germany,United States,2,0,FIFA World Cup,Paris,France,True
+1998-06-21,United States,Iran,1,2,FIFA World Cup,Lyon,France,True
+1998-06-25,United States,Serbia,0,1,FIFA World Cup,Nantes,France,True
+1998-11-06,United States,Australia,0,0,Friendly,San Jose,United States,False
+1999-01-24,Bolivia,United States,0,0,Friendly,Santa Cruz,Bolivia,False
+1999-02-06,United States,Germany,3,0,Friendly,Jacksonville,United States,False
+1999-02-21,United States,Chile,2,1,Friendly,Fort Lauderdale,United States,False
+1999-03-11,United States,Guatemala,3,1,USA Cup,Los Angeles,United States,False
+1999-03-13,United States,Mexico,1,2,USA Cup,San Diego,United States,False
+1999-06-13,United States,Argentina,1,0,Friendly,"Washington, D.C.",United States,False
+1999-07-24,New Zealand,United States,1,2,Confederations Cup,Guadalajara,Mexico,True
+1999-07-28,Brazil,United States,1,0,Confederations Cup,Guadalajara,Mexico,True
+1999-07-30,United States,Germany,2,0,Confederations Cup,Guadalajara,Mexico,True
+1999-08-01,Mexico,United States,1,0,Confederations Cup,Mexico City,Mexico,False
+1999-08-03,United States,Saudi Arabia,2,0,Confederations Cup,Guadalajara,Mexico,True
+1999-09-08,Jamaica,United States,2,2,Friendly,Kingston,Jamaica,False
+1999-11-17,Morocco,United States,2,1,Friendly,Marrakech,Morocco,False
+2000-01-16,United States,Iran,1,1,Friendly,Pasadena,United States,False
+2000-01-29,Chile,United States,1,2,Friendly,Coquimbo,Chile,False
+2000-02-12,United States,Haiti,3,0,Gold Cup,Miami,United States,False
+2000-02-16,United States,Peru,1,0,Gold Cup,Miami,United States,False
+2000-02-19,United States,Colombia,2,2,Gold Cup,Miami,United States,False
+2000-03-12,United States,Tunisia,1,1,Friendly,Birmingham,United States,False
+2000-04-26,Russia,United States,2,0,Friendly,Moscow,Russia,False
+2000-06-03,United States,South Africa,4,0,USA Cup,"Washington, D.C.",United States,False
+2000-06-06,United States,Republic of Ireland,1,1,USA Cup,Foxborough,United States,False
+2000-06-11,United States,Mexico,3,0,USA Cup,East Rutherford,United States,False
+2000-07-16,Guatemala,United States,1,1,FIFA World Cup qualification,Mazatenango,Guatemala,False
+2000-07-23,Costa Rica,United States,2,1,FIFA World Cup qualification,San José,Costa Rica,False
+2000-08-16,United States,Barbados,7,0,FIFA World Cup qualification,Foxborough,United States,False
+2000-09-03,United States,Guatemala,1,0,FIFA World Cup qualification,"Washington, D.C.",United States,False
+2000-10-11,United States,Costa Rica,0,0,FIFA World Cup qualification,Columbus,United States,False
+2000-10-25,United States,Mexico,2,0,Friendly,Los Angeles,United States,False
+2000-11-15,Barbados,United States,0,4,FIFA World Cup qualification,Bridgetown,Barbados,False
+2001-01-27,United States,China PR,2,1,Friendly,Oakland,United States,False
+2001-02-03,United States,Colombia,0,1,Friendly,Miami,United States,False
+2001-02-28,United States,Mexico,2,0,FIFA World Cup qualification,Columbus,United States,False
+2001-03-03,United States,Brazil,1,2,Friendly,Pasadena,United States,False
+2001-03-28,Honduras,United States,1,2,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2001-04-25,United States,Costa Rica,1,0,FIFA World Cup qualification,Kansas City,United States,False
+2001-06-07,United States,Ecuador,0,0,Friendly,Columbus,United States,False
+2001-06-16,Jamaica,United States,0,0,FIFA World Cup qualification,Kingston,Jamaica,False
+2001-06-20,United States,Trinidad and Tobago,2,0,FIFA World Cup qualification,Foxborough,United States,False
+2001-07-01,Mexico,United States,1,0,FIFA World Cup qualification,Mexico City,Mexico,False
+2001-09-01,United States,Honduras,2,3,FIFA World Cup qualification,"Washington, D.C.",United States,False
+2001-09-05,Costa Rica,United States,2,0,FIFA World Cup qualification,San José,Costa Rica,False
+2001-10-07,United States,Jamaica,2,1,FIFA World Cup qualification,Foxborough,United States,False
+2001-11-11,Trinidad and Tobago,United States,0,0,FIFA World Cup qualification,Port of Spain,Trinidad and Tobago,False
+2001-12-09,South Korea,United States,1,0,Friendly,Seogwipo,South Korea,False
+2002-01-19,United States,South Korea,2,1,Gold Cup,Pasadena,United States,False
+2002-01-21,United States,Cuba,1,0,Gold Cup,Pasadena,United States,False
+2002-01-27,United States,El Salvador,4,0,Gold Cup,Pasadena,United States,False
+2002-01-30,United States,Canada,0,0,Gold Cup,Pasadena,United States,False
+2002-02-02,United States,Costa Rica,2,0,Gold Cup,Pasadena,United States,False
+2002-02-13,Italy,United States,1,0,Friendly,Catania,Italy,False
+2002-03-02,United States,Honduras,4,0,Friendly,Seattle,United States,False
+2002-03-10,United States,Ecuador,1,0,Friendly,Birmingham,United States,False
+2002-03-27,Germany,United States,4,2,Friendly,Rostock,Germany,False
+2002-04-17,Republic of Ireland,United States,2,1,Friendly,Dublin,Republic of Ireland,False
+2002-05-12,United States,Uruguay,2,1,Friendly,"Washington, D.C.",United States,False
+2002-05-16,United States,Jamaica,5,0,Friendly,East Rutherford,United States,False
+2002-05-19,United States,Netherlands,0,2,Friendly,Foxborough,United States,False
+2002-06-05,United States,Portugal,3,2,FIFA World Cup,Suwon,South Korea,True
+2002-06-10,South Korea,United States,1,1,FIFA World Cup,Daegu,South Korea,False
+2002-06-14,Poland,United States,3,1,FIFA World Cup,Daejeon,South Korea,True
+2002-06-17,Mexico,United States,0,2,FIFA World Cup,Jeonju,South Korea,True
+2002-06-21,Germany,United States,1,0,FIFA World Cup,Ulsan,South Korea,True
+2002-11-17,United States,El Salvador,2,0,Friendly,"Washington, D.C.",United States,False
+2003-01-18,United States,Canada,4,0,Friendly,Fort Lauderdale,United States,False
+2003-02-08,United States,Argentina,0,1,Friendly,Miami,United States,False
+2003-02-12,Jamaica,United States,1,2,Friendly,Kingston,Jamaica,False
+2003-03-29,United States,Venezuela,2,0,Friendly,Seattle,United States,False
+2003-05-08,United States,Mexico,0,0,Friendly,Houston,United States,False
+2003-05-26,United States,Wales,2,0,Friendly,San Jose,United States,False
+2003-06-08,United States,New Zealand,2,1,Friendly,Richmond,United States,False
+2003-06-19,Turkey,United States,2,1,Confederations Cup,Saint-Étienne,France,True
+2003-06-21,Brazil,United States,1,0,Confederations Cup,Lyon,France,True
+2003-06-23,United States,Cameroon,0,0,Confederations Cup,Lyon,France,True
+2003-07-06,United States,Paraguay,2,0,Friendly,Columbus,United States,False
+2003-07-12,United States,El Salvador,2,0,Gold Cup,Foxborough,United States,False
+2003-07-14,United States,Martinique,2,0,Gold Cup,Foxborough,United States,False
+2003-07-19,United States,Cuba,5,0,Gold Cup,Foxborough,United States,False
+2003-07-23,United States,Brazil,1,2,Gold Cup,Miami,United States,False
+2003-07-26,United States,Costa Rica,3,2,Gold Cup,Miami,United States,False
+2004-02-18,Netherlands,United States,1,0,Friendly,Amsterdam,Netherlands,False
+2004-03-13,United States,Haiti,1,1,Friendly,Miami,United States,False
+2004-03-31,Poland,United States,0,1,Friendly,Płock,Poland,False
+2004-04-28,United States,Mexico,1,0,Friendly,Dallas,United States,False
+2004-06-02,United States,Honduras,4,0,Friendly,Foxborough,United States,False
+2004-06-13,United States,Grenada,3,0,FIFA World Cup qualification,Columbus,United States,False
+2004-06-20,Grenada,United States,2,3,FIFA World Cup qualification,St. George's,Grenada,False
+2004-07-11,United States,Poland,1,1,Friendly,Chicago,United States,False
+2004-08-18,Jamaica,United States,1,1,FIFA World Cup qualification,Kingston,Jamaica,False
+2004-09-04,United States,El Salvador,2,0,FIFA World Cup qualification,Foxborough,United States,False
+2004-09-08,Panama,United States,1,1,FIFA World Cup qualification,Panama City,Panama,False
+2004-10-09,El Salvador,United States,0,2,FIFA World Cup qualification,San Salvador,El Salvador,False
+2004-10-13,United States,Panama,6,0,FIFA World Cup qualification,"Washington, D.C.",United States,False
+2004-11-17,United States,Jamaica,1,1,FIFA World Cup qualification,Columbus,United States,False
+2005-02-09,Trinidad and Tobago,United States,1,2,FIFA World Cup qualification,Port of Spain,Trinidad and Tobago,False
+2005-03-09,United States,Colombia,3,0,Friendly,Fullerton,United States,False
+2005-03-19,United States,Honduras,1,0,Friendly,Albuquerque,United States,False
+2005-03-27,Mexico,United States,2,1,FIFA World Cup qualification,Mexico City,Mexico,False
+2005-03-30,United States,Guatemala,2,0,FIFA World Cup qualification,Birmingham,United States,False
+2005-05-28,United States,England,1,2,Friendly,Chicago,United States,False
+2005-06-04,United States,Costa Rica,3,0,FIFA World Cup qualification,Salt Lake City,United States,False
+2005-06-08,Panama,United States,0,3,FIFA World Cup qualification,Panama City,Panama,False
+2005-07-07,United States,Cuba,4,1,Gold Cup,Seattle,United States,False
+2005-07-09,United States,Canada,2,0,Gold Cup,Seattle,United States,False
+2005-07-12,United States,Costa Rica,0,0,Gold Cup,Foxborough,United States,False
+2005-07-16,United States,Jamaica,3,1,Gold Cup,Foxborough,United States,False
+2005-07-21,United States,Honduras,2,1,Gold Cup,East Rutherford,United States,False
+2005-07-24,United States,Panama,0,0,Gold Cup,East Rutherford,United States,False
+2005-08-17,United States,Trinidad and Tobago,1,0,FIFA World Cup qualification,Hartford,United States,False
+2005-09-03,United States,Mexico,2,0,FIFA World Cup qualification,Columbus,United States,False
+2005-09-07,Guatemala,United States,0,0,FIFA World Cup qualification,Guatemala City,Guatemala,False
+2005-10-08,Costa Rica,United States,3,0,FIFA World Cup qualification,San José,Costa Rica,False
+2005-10-12,United States,Panama,2,0,FIFA World Cup qualification,Foxborough,United States,False
+2005-11-12,Scotland,United States,1,1,Friendly,Glasgow,Scotland,False
+2006-01-22,United States,Canada,0,0,Friendly,San Diego,United States,False
+2006-01-29,United States,Norway,5,0,Friendly,Carson,United States,False
+2006-02-10,United States,Japan,3,2,Friendly,San Francisco,United States,False
+2006-02-19,United States,Guatemala,4,0,Friendly,Frisco,United States,False
+2006-03-01,Poland,United States,0,1,Friendly,Kaiserslautern,Germany,True
+2006-03-22,Germany,United States,4,1,Friendly,Dortmund,Germany,False
+2006-04-11,United States,Jamaica,1,1,Friendly,Cary,United States,False
+2006-05-23,United States,Morocco,0,1,Friendly,Nashville,United States,False
+2006-05-26,United States,Venezuela,2,0,Friendly,Cleveland,United States,False
+2006-05-28,United States,Latvia,1,0,Friendly,East Hartford,United States,False
+2006-06-12,United States,Czech Republic,0,3,FIFA World Cup,Gelsenkirchen,Germany,True
+2006-06-17,Italy,United States,1,1,FIFA World Cup,Kaiserslautern,Germany,True
+2006-06-22,Ghana,United States,2,1,FIFA World Cup,Nuremberg,Germany,True
+2007-02-07,United States,Mexico,2,0,Friendly,Glendale,United States,False
+2007-03-25,United States,Ecuador,3,1,Friendly,Tampa,United States,False
+2007-03-28,United States,Guatemala,0,0,Friendly,Frisco,United States,False
+2007-06-02,United States,China PR,4,1,Friendly,San Jose,United States,False
+2007-06-07,United States,Guatemala,1,0,Gold Cup,Carson,United States,False
+2007-06-09,United States,Trinidad and Tobago,2,0,Gold Cup,Carson,United States,False
+2007-06-12,United States,El Salvador,4,0,Gold Cup,Foxborough,United States,False
+2007-06-16,United States,Panama,2,1,Gold Cup,Foxborough,United States,False
+2007-06-21,United States,Canada,2,1,Gold Cup,Chicago,United States,False
+2007-06-24,United States,Mexico,2,1,Gold Cup,Chicago,United States,False
+2007-06-28,Argentina,United States,4,1,Copa América,Maracaibo,Venezuela,True
+2007-07-02,United States,Paraguay,1,3,Copa América,Barinas,Venezuela,True
+2007-07-05,Colombia,United States,1,0,Copa América,Barquisimeto,Venezuela,True
+2007-08-22,Sweden,United States,1,0,Friendly,Gothenburg,Sweden,False
+2007-09-09,United States,Brazil,2,4,Friendly,Chicago,United States,False
+2007-10-17,Switzerland,United States,0,1,Friendly,Basel,Switzerland,False
+2007-11-17,South Africa,United States,0,1,Friendly,Johannesburg,South Africa,False
+2008-01-19,United States,Sweden,2,0,Friendly,Carson,United States,False
+2008-02-06,United States,Mexico,2,2,Friendly,Houston,United States,False
+2008-03-26,Poland,United States,0,3,Friendly,Kraków,Poland,False
+2008-05-28,England,United States,2,0,Friendly,London,England,False
+2008-06-04,Spain,United States,1,0,Friendly,Santander,Spain,False
+2008-06-08,United States,Argentina,0,0,Friendly,East Rutherford,United States,False
+2008-06-15,United States,Barbados,8,0,FIFA World Cup qualification,Carson,United States,False
+2008-06-22,Barbados,United States,0,1,FIFA World Cup qualification,Bridgetown,Barbados,False
+2008-08-20,Guatemala,United States,0,1,FIFA World Cup qualification,Guatemala City,Guatemala,False
+2008-09-06,Cuba,United States,0,1,FIFA World Cup qualification,Havana,Cuba,False
+2008-09-10,United States,Trinidad and Tobago,3,0,FIFA World Cup qualification,Bridgeview,United States,False
+2008-10-11,United States,Cuba,6,1,FIFA World Cup qualification,"Washington, D.C.",United States,False
+2008-10-15,Trinidad and Tobago,United States,2,1,FIFA World Cup qualification,Port of Spain,Trinidad and Tobago,False
+2008-11-19,United States,Guatemala,2,0,FIFA World Cup qualification,Commerce City,United States,False
+2009-01-24,United States,Sweden,3,2,Friendly,Carson,United States,False
+2009-02-11,United States,Mexico,2,0,FIFA World Cup qualification,Columbus,United States,False
+2009-03-28,El Salvador,United States,2,2,FIFA World Cup qualification,San Salvador,El Salvador,False
+2009-04-01,United States,Trinidad and Tobago,3,0,FIFA World Cup qualification,Nashville,United States,False
+2009-06-03,Costa Rica,United States,3,1,FIFA World Cup qualification,San José,Costa Rica,False
+2009-06-06,United States,Honduras,2,1,FIFA World Cup qualification,Chicago,United States,False
+2009-06-15,United States,Italy,1,3,Confederations Cup,Pretoria,South Africa,True
+2009-06-18,United States,Brazil,0,3,Confederations Cup,Pretoria,South Africa,True
+2009-06-21,Egypt,United States,0,3,Confederations Cup,Rustenburg,South Africa,True
+2009-06-24,Spain,United States,0,2,Confederations Cup,Bloemfontein,South Africa,True
+2009-06-28,United States,Brazil,2,3,Confederations Cup,Johannesburg,South Africa,True
+2009-07-04,United States,Grenada,4,0,Gold Cup,Seattle,United States,False
+2009-07-08,United States,Honduras,2,0,Gold Cup,"Washington, D.C.",United States,False
+2009-07-11,United States,Haiti,2,2,Gold Cup,Foxborough,United States,False
+2009-07-18,United States,Panama,2,1,Gold Cup,Philadelphia,United States,False
+2009-07-23,United States,Honduras,2,0,Gold Cup,Chicago,United States,False
+2009-07-26,United States,Mexico,0,5,Gold Cup,East Rutherford,United States,False
+2009-08-12,Mexico,United States,2,1,FIFA World Cup qualification,Mexico City,Mexico,False
+2009-09-05,United States,El Salvador,2,1,FIFA World Cup qualification,Sandy City,United States,False
+2009-09-09,Trinidad and Tobago,United States,0,1,FIFA World Cup qualification,Port of Spain,Trinidad and Tobago,False
+2009-10-10,Honduras,United States,2,3,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2009-10-14,United States,Costa Rica,2,2,FIFA World Cup qualification,"Washington, D.C.",United States,False
+2009-11-14,Slovakia,United States,1,0,Friendly,Bratislava,Slovakia,False
+2009-11-18,Denmark,United States,3,1,Friendly,Aarhus,Denmark,False
+2010-01-23,United States,Honduras,1,3,Friendly,Carson,United States,False
+2010-02-24,United States,El Salvador,2,1,Friendly,Tampa,United States,False
+2010-03-03,Netherlands,United States,2,1,Friendly,Amsterdam,Netherlands,False
+2010-05-25,United States,Czech Republic,2,4,Friendly,East Hartford,United States,False
+2010-05-29,United States,Turkey,2,1,Friendly,Philadelphia,United States,False
+2010-06-05,Australia,United States,1,3,Friendly,Roodepoort,South Africa,True
+2010-06-12,England,United States,1,1,FIFA World Cup,Rustenburg,South Africa,True
+2010-06-18,Slovenia,United States,2,2,FIFA World Cup,Johannesburg,South Africa,True
+2010-06-23,United States,Algeria,1,0,FIFA World Cup,Pretoria,South Africa,True
+2010-06-26,United States,Ghana,1,2,FIFA World Cup,Rustenburg,South Africa,True
+2010-08-10,United States,Brazil,0,2,Friendly,East Rutherford,United States,False
+2010-10-09,United States,Poland,2,2,Friendly,Chicago,United States,False
+2010-10-12,United States,Colombia,0,0,Friendly,Chester,United States,False
+2010-11-17,South Africa,United States,0,1,Friendly,Cape Town,South Africa,False
+2011-01-22,United States,Chile,1,1,Friendly,Carson,United States,False
+2011-03-26,United States,Argentina,1,1,Friendly,East Rutherford,United States,False
+2011-03-29,United States,Paraguay,0,1,Friendly,Nashville,United States,False
+2011-06-04,United States,Spain,0,4,Friendly,Foxborough,United States,False
+2011-06-07,United States,Canada,2,0,Gold Cup,Detroit,United States,False
+2011-06-11,United States,Panama,1,2,Gold Cup,Tampa,United States,False
+2011-06-14,United States,Guadeloupe,1,0,Gold Cup,Kansas City,United States,False
+2011-06-19,United States,Jamaica,2,0,Gold Cup,"Washington, D.C.",United States,False
+2011-06-22,United States,Panama,1,0,Gold Cup,Houston,United States,False
+2011-06-25,United States,Mexico,2,4,Gold Cup,Pasadena,United States,False
+2011-08-10,United States,Mexico,1,1,Friendly,Philadelphia,United States,False
+2011-09-02,United States,Costa Rica,0,1,Friendly,Carson,United States,False
+2011-09-06,Belgium,United States,1,0,Friendly,Brussels,Belgium,False
+2011-10-08,United States,Honduras,1,0,Friendly,Miami Gardens,United States,False
+2011-10-11,United States,Ecuador,0,1,Friendly,Harrison,United States,False
+2011-11-11,France,United States,1,0,Friendly,Saint-Denis,France,False
+2011-11-15,Slovenia,United States,2,3,Friendly,Ljubljana,Slovenia,False
+2012-01-21,United States,Venezuela,1,0,Friendly,Glendale,United States,False
+2012-01-25,Panama,United States,0,1,Friendly,Panama City,Panama,False
+2012-02-29,Italy,United States,0,1,Friendly,Genoa,Italy,False
+2012-05-26,United States,Scotland,5,1,Friendly,Jacksonville,United States,False
+2012-05-30,United States,Brazil,1,4,Friendly,"Washington, D.C.",United States,False
+2012-06-03,Canada,United States,0,0,Friendly,Toronto,Canada,False
+2012-06-08,United States,Antigua and Barbuda,3,1,FIFA World Cup qualification,Tampa,United States,False
+2012-06-12,Guatemala,United States,1,1,FIFA World Cup qualification,Guatemala City,Guatemala,False
+2012-08-15,Mexico,United States,0,1,Friendly,Mexico City,Mexico,False
+2012-09-07,Jamaica,United States,2,1,FIFA World Cup qualification,Kingston,Jamaica,False
+2012-09-11,United States,Jamaica,1,0,FIFA World Cup qualification,Columbus,United States,False
+2012-10-12,Antigua and Barbuda,United States,1,2,FIFA World Cup qualification,St. John's,Antigua and Barbuda,False
+2012-10-16,United States,Guatemala,3,1,FIFA World Cup qualification,Kansas City,United States,False
+2012-11-14,Russia,United States,2,2,Friendly,Krasnodar,Russia,False
+2013-01-29,United States,Canada,0,0,Friendly,Houston,United States,False
+2013-02-06,Honduras,United States,2,1,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2013-03-22,United States,Costa Rica,1,0,FIFA World Cup qualification,Commerce City,United States,False
+2013-03-26,Mexico,United States,0,0,FIFA World Cup qualification,Mexico City,Mexico,False
+2013-05-29,United States,Belgium,2,4,Friendly,Cleveland,United States,False
+2013-06-02,United States,Germany,4,3,Friendly,"Washington, D.C.",United States,False
+2013-06-07,Jamaica,United States,1,2,FIFA World Cup qualification,Kingston,Jamaica,False
+2013-06-11,United States,Panama,2,0,FIFA World Cup qualification,Seattle,United States,False
+2013-06-18,United States,Honduras,1,0,FIFA World Cup qualification,Sandy,United States,False
+2013-07-09,United States,Belize,6,1,Gold Cup,Portland,United States,False
+2013-07-13,United States,Cuba,4,1,Gold Cup,Sandy,United States,False
+2013-07-16,United States,Costa Rica,1,0,Gold Cup,East Hartford,United States,False
+2013-07-21,United States,El Salvador,5,1,Gold Cup,Baltimore,United States,False
+2013-07-24,United States,Honduras,3,1,Gold Cup,Arlington,United States,False
+2013-07-28,United States,Panama,1,0,Gold Cup,Chicago,United States,False
+2013-08-14,Bosnia and Herzegovina,United States,3,4,Friendly,Sarajevo,Bosnia and Herzegovina,False
+2013-09-06,Costa Rica,United States,3,1,FIFA World Cup qualification,San José,Costa Rica,False
+2013-09-10,United States,Mexico,2,0,FIFA World Cup qualification,Columbus,United States,False
+2013-10-11,United States,Jamaica,2,0,FIFA World Cup qualification,Kansas City,United States,False
+2013-10-15,Panama,United States,2,3,FIFA World Cup qualification,Panama City,Panama,False
+2013-11-15,Scotland,United States,0,0,Friendly,Glasgow,Scotland,False
+2013-11-19,Austria,United States,1,0,Friendly,Vienna,Austria,False
+2014-02-01,United States,South Korea,2,0,Friendly,Carson,United States,False
+2014-03-05,Ukraine,United States,2,0,Friendly,Larnaca,Cyprus,True
+2014-06-01,United States,Turkey,2,1,Friendly,Harrison,United States,False
+2014-06-07,United States,Nigeria,2,1,Friendly,Jacksonville,United States,False
+2014-06-16,Ghana,United States,1,2,FIFA World Cup,Natal,Brazil,True
+2014-06-22,United States,Portugal,2,2,FIFA World Cup,Manaus,Brazil,True
+2014-06-26,United States,Germany,0,1,FIFA World Cup,Recife,Brazil,True
+2014-07-01,Belgium,United States,2,1,FIFA World Cup,Salvador,Brazil,True
+2014-09-03,Czech Republic,United States,0,1,Friendly,Prague,Czech Republic,False
+2014-10-14,United States,Honduras,1,1,Friendly,Boca Raton,United States,False
+2014-11-14,United States,Colombia,1,2,Friendly,London,England,True
+2014-11-18,Republic of Ireland,United States,4,1,Friendly,Dublin,Republic of Ireland,False
+2015-01-28,Chile,United States,3,2,Friendly,Rancagua,Chile,False
+2015-02-08,United States,Panama,2,0,Friendly,Carson,United States,False
+2015-03-25,Denmark,United States,3,2,Friendly,Aarhus,Denmark,False
+2015-03-31,Switzerland,United States,1,1,Friendly,Zürich,Switzerland,False
+2015-04-15,United States,Mexico,2,0,Friendly,San Antonio,United States,False
+2015-06-05,Netherlands,United States,3,4,Friendly,Amsterdam,Netherlands,False
+2015-06-10,Germany,United States,1,2,Friendly,Cologne,Germany,False
+2015-07-07,United States,Honduras,2,1,Gold Cup,Frisco,United States,False
+2015-07-10,United States,Haiti,1,0,Gold Cup,Foxborough,United States,False
+2015-07-13,United States,Panama,1,1,Gold Cup,Kansas City,United States,False
+2015-07-18,United States,Cuba,6,0,Gold Cup,Baltimore,United States,False
+2015-07-22,United States,Jamaica,1,2,Gold Cup,Atlanta,United States,False
+2015-07-25,United States,Panama,1,1,Gold Cup,Chester,United States,False
+2015-09-04,United States,Peru,2,1,Friendly,"Washington, D.C.",United States,False
+2015-09-08,United States,Brazil,1,4,Friendly,Foxborough,United States,False
+2015-10-10,United States,Mexico,2,3,Friendly,Pasadena,United States,False
+2015-11-13,United States,Saint Vincent and the Grenadines,6,1,FIFA World Cup qualification,St. Louis,United States,False
+2016-01-31,United States,Iceland,3,2,Friendly,Carson,United States,False
+2016-03-25,Guatemala,United States,2,0,FIFA World Cup qualification,Guatemala City,Guatemala,False
+2016-03-29,United States,Guatemala,4,0,FIFA World Cup qualification,Columbus,United States,False
+2016-05-22,Puerto Rico,United States,1,3,Friendly,Bayamón,Puerto Rico,False
+2016-06-03,United States,Colombia,0,2,Copa América,Santa Clara,United States,False
+2016-06-07,United States,Costa Rica,4,0,Copa América,Chicago,United States,False
+2016-06-11,United States,Paraguay,1,0,Copa América,Philadelphia,United States,False
+2016-06-16,United States,Ecuador,2,1,Copa América,Seattle,United States,False
+2016-06-21,United States,Argentina,0,4,Copa América,Houston,United States,False
+2016-06-25,United States,Colombia,0,1,Copa América,Glendale,United States,False
+2016-09-02,Saint Vincent and the Grenadines,United States,0,6,FIFA World Cup qualification,Kingstown,Saint Vincent and the Grenadines,False
+2016-09-06,United States,Trinidad and Tobago,4,0,FIFA World Cup qualification,Jacksonville,United States,False
+2016-10-07,Cuba,United States,0,2,Friendly,Havana,Cuba,False
+2016-11-11,United States,Mexico,1,2,FIFA World Cup qualification,Columbus,United States,False
+2016-11-15,Costa Rica,United States,4,0,FIFA World Cup qualification,San José,Costa Rica,False
+2017-01-29,United States,Serbia,0,0,Friendly,San Diego,United States,False
+2017-03-24,United States,Honduras,6,0,FIFA World Cup qualification,San Jose,United States,False
+2017-03-28,Panama,United States,1,1,FIFA World Cup qualification,Panama City,Panama,False
+2017-06-03,United States,Venezuela,1,1,Friendly,Sandy,United States,False
+2017-06-08,United States,Trinidad and Tobago,2,0,FIFA World Cup qualification,Commerce City,United States,False
+2017-06-11,Mexico,United States,1,1,FIFA World Cup qualification,Mexico City,Mexico,False
+2017-07-01,United States,Ghana,2,1,Friendly,East Hartford,United States,False
+2017-07-08,United States,Panama,1,1,Gold Cup,Nashville,United States,False
+2017-07-12,United States,Martinique,3,2,Gold Cup,Tampa,United States,False
+2017-07-15,United States,Nicaragua,3,0,Gold Cup,Cleveland,United States,False
+2017-07-19,United States,El Salvador,2,0,Gold Cup,Philadelphia,United States,False
+2017-07-22,United States,Costa Rica,2,0,Gold Cup,Arlington,United States,False
+2017-07-26,United States,Jamaica,2,1,Gold Cup,Santa Clara,United States,False
+2017-09-01,United States,Costa Rica,0,2,FIFA World Cup qualification,Harrison,United States,False
+2017-09-05,Honduras,United States,1,1,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2017-10-06,United States,Panama,4,0,FIFA World Cup qualification,Orlando,United States,False
+2017-10-10,Trinidad and Tobago,United States,2,1,FIFA World Cup qualification,Couva,Trinidad and Tobago,False
+2017-11-14,Portugal,United States,1,1,Friendly,Leiria,Portugal,False
+2018-01-28,United States,Bosnia and Herzegovina,0,0,Friendly,Carson,United States,False
+2018-03-27,United States,Paraguay,1,0,Friendly,Cary,United States,False
+2018-05-28,United States,Bolivia,3,0,Friendly,Chester,United States,False
+2018-06-02,Republic of Ireland,United States,2,1,Friendly,Dublin,Republic of Ireland,False
+2018-06-09,France,United States,1,1,Friendly,Lyon,France,False
+2018-09-07,United States,Brazil,0,2,Friendly,East Rutherford,United States,False
+2018-09-11,United States,Mexico,1,0,Friendly,Nashville,United States,False
+2018-10-11,United States,Colombia,2,4,Friendly,Tampa,United States,False
+2018-10-16,United States,Peru,1,1,Friendly,East Hartford,United States,False
+2018-11-15,England,United States,3,0,Friendly,London,England,False
+2018-11-20,Italy,United States,1,0,Friendly,Genk,Belgium,True
+2019-01-27,United States,Panama,3,0,Friendly,Glendale,United States,False
+2019-02-02,United States,Costa Rica,2,0,Friendly,San Jose,United States,False
+2019-03-21,United States,Ecuador,1,0,Friendly,Orlando,United States,False
+2019-03-26,United States,Chile,1,1,Friendly,Houston,United States,False
+2019-06-05,United States,Jamaica,0,1,Friendly,"Washington, D.C.",United States,False
+2019-06-09,United States,Venezuela,0,3,Friendly,Cincinnati,United States,False
+2019-06-18,United States,Guyana,4,0,Gold Cup,Saint Paul,United States,False
+2019-06-22,United States,Trinidad and Tobago,6,0,Gold Cup,Cleveland,United States,False
+2019-06-26,United States,Panama,1,0,Gold Cup,Kansas City,United States,False
+2019-06-30,United States,Curaçao,1,0,Gold Cup,Philadelphia,United States,False
+2019-07-03,United States,Jamaica,3,1,Gold Cup,Nashville,United States,False
+2019-07-07,United States,Mexico,0,1,Gold Cup,Chicago,United States,False
+2019-09-06,United States,Mexico,0,3,Friendly,East Rutherford,United States,False
+2019-09-10,United States,Uruguay,1,1,Friendly,St. Louis,United States,False
+2019-10-11,United States,Cuba,7,0,CONCACAF Nations League,"Washington, D.C.",United States,False
+2019-10-15,Canada,United States,2,0,CONCACAF Nations League,Toronto,Canada,False
+2019-11-15,United States,Canada,4,1,CONCACAF Nations League,Orlando,United States,False
+2019-11-19,Cuba,United States,0,4,CONCACAF Nations League,George Town,Cayman Islands,True
+2020-02-01,United States,Costa Rica,1,0,Friendly,Carson,United States,False
+2020-11-12,Wales,United States,0,0,Friendly,Cardiff,Wales,False
+2020-11-16,United States,Panama,6,2,Friendly,Wiener Neustadt,Austria,True
+2020-12-09,United States,El Salvador,6,0,Friendly,Fort Lauderdale,United States,False
+2021-01-31,United States,Trinidad and Tobago,7,0,Friendly,Orlando,United States,False
+2021-03-25,United States,Jamaica,4,1,Friendly,Wiener Neustadt,Austria,True
+2021-03-28,Northern Ireland,United States,1,2,Friendly,Belfast,Northern Ireland,False
+2021-05-30,Switzerland,United States,2,1,Friendly,St. Gallen,Switzerland,False
+2021-06-03,United States,Honduras,1,0,CONCACAF Nations League,Denver,United States,False
+2021-06-06,United States,Mexico,3,2,CONCACAF Nations League,Denver,United States,False
+2021-06-09,United States,Costa Rica,4,0,Friendly,Sandy,United States,False
+2021-07-11,United States,Haiti,1,0,Gold Cup,Kansas City,United States,False
+2021-07-15,United States,Martinique,6,1,Gold Cup,Kansas City,United States,False
+2021-07-18,United States,Canada,1,0,Gold Cup,Kansas City,United States,False
+2021-07-25,United States,Jamaica,1,0,Gold Cup,Arlington,United States,False
+2021-07-29,United States,Qatar,1,0,Gold Cup,Austin,United States,False
+2021-08-01,United States,Mexico,1,0,Gold Cup,Las Vegas,United States,False
+2021-09-02,El Salvador,United States,0,0,FIFA World Cup qualification,San Salvador,El Salvador,False
+2021-09-05,United States,Canada,1,1,FIFA World Cup qualification,Nashville,United States,False
+2021-09-08,Honduras,United States,1,4,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2021-10-07,United States,Jamaica,2,0,FIFA World Cup qualification,Austin,United States,False
+2021-10-10,Panama,United States,1,0,FIFA World Cup qualification,Panama City,Panama,False
+2021-10-13,United States,Costa Rica,2,1,FIFA World Cup qualification,Columbus,United States,False
+2021-11-12,United States,Mexico,2,0,FIFA World Cup qualification,Cincinnati,United States,False
+2021-11-16,Jamaica,United States,1,1,FIFA World Cup qualification,Kingston,Jamaica,False
+2021-12-18,United States,Bosnia and Herzegovina,1,0,Friendly,Los Angeles,United States,False
+2022-01-27,United States,El Salvador,1,0,FIFA World Cup qualification,Columbus,United States,False
+2022-01-30,Canada,United States,2,0,FIFA World Cup qualification,Hamilton,Canada,False
+2022-02-02,United States,Honduras,3,0,FIFA World Cup qualification,Saint Paul,United States,False
+2022-03-24,Mexico,United States,0,0,FIFA World Cup qualification,Mexico City,Mexico,False
+2022-03-27,United States,Panama,5,1,FIFA World Cup qualification,Orlando,United States,False
+2022-03-30,Costa Rica,United States,2,0,FIFA World Cup qualification,San José,Costa Rica,False
+2022-06-01,United States,Morocco,3,0,Friendly,Cincinnati,United States,False
+2022-06-05,United States,Uruguay,0,0,Friendly,Kansas City,United States,False
+2022-06-10,United States,Grenada,5,0,CONCACAF Nations League,Austin,United States,False
+2022-06-14,El Salvador,United States,1,1,CONCACAF Nations League,San Salvador,El Salvador,False
+2022-09-23,Japan,United States,2,0,Kirin Challenge Cup,Düsseldorf,Germany,True
+2022-09-27,Saudi Arabia,United States,0,0,Friendly,Murcia,Spain,True
+2022-11-21,United States,Wales,1,1,FIFA World Cup,Al Rayyan,Qatar,True
+2022-11-25,England,United States,0,0,FIFA World Cup,Al Khor,Qatar,True
+2022-11-29,Iran,United States,0,1,FIFA World Cup,Doha,Qatar,True
+2022-12-03,Netherlands,United States,3,1,FIFA World Cup,Al Rayyan,Qatar,True
+2023-01-25,United States,Serbia,1,2,Friendly,Los Angeles,United States,False
+2023-01-28,United States,Colombia,0,0,Friendly,Carson,United States,False
+2023-03-24,Grenada,United States,1,7,CONCACAF Nations League,St. George's,Grenada,False
+2023-03-27,United States,El Salvador,1,0,CONCACAF Nations League,Orlando,United States,False
+2023-04-19,United States,Mexico,1,1,Friendly,Glendale,United States,False
+2023-06-15,United States,Mexico,3,0,CONCACAF Nations League,Las Vegas,United States,False
+2023-06-18,United States,Canada,2,0,CONCACAF Nations League,Las Vegas,United States,False
+2023-06-24,United States,Jamaica,1,1,Gold Cup,Chicago,United States,False
+2023-06-28,United States,Saint Kitts and Nevis,6,0,Gold Cup,St. Louis,United States,False
+2023-07-02,United States,Trinidad and Tobago,6,0,Gold Cup,Charlotte,United States,False
+2023-07-09,United States,Canada,2,2,Gold Cup,Cincinnati,United States,False
+2023-07-12,United States,Panama,1,1,Gold Cup,San Diego,United States,False
+2023-09-09,United States,Uzbekistan,3,0,Friendly,St. Louis,United States,False
+2023-09-12,United States,Oman,4,0,Friendly,Saint Paul,United States,False
+2023-10-14,United States,Germany,1,3,Friendly,East Hartford,United States,False
+2023-10-17,United States,Ghana,4,0,Friendly,Nashville,United States,False
+2023-11-16,United States,Trinidad and Tobago,3,0,CONCACAF Nations League,Austin,United States,False
+2023-11-20,Trinidad and Tobago,United States,2,1,CONCACAF Nations League,Port of Spain,Trinidad and Tobago,False
+2024-01-20,United States,Slovenia,0,1,Friendly,San Antonio,United States,False
+2024-03-21,United States,Jamaica,3,1,CONCACAF Nations League,Arlington,United States,False
+2024-03-24,United States,Mexico,2,0,CONCACAF Nations League,Arlington,United States,False
+2024-06-08,United States,Colombia,1,5,Friendly,Landover,United States,False
+2024-06-12,United States,Brazil,1,1,Friendly,Orlando,United States,False
+2024-06-23,United States,Bolivia,2,0,Copa América,Arlington,United States,False
+2024-06-27,United States,Panama,1,2,Copa América,Atlanta,United States,False
+2024-07-01,United States,Uruguay,0,1,Copa América,Kansas City,United States,False
+2024-09-07,United States,Canada,1,2,Friendly,Kansas City,United States,False
+2024-09-10,United States,New Zealand,1,1,Friendly,Cincinnati,United States,False
+2024-10-12,United States,Panama,2,0,Friendly,Austin,United States,False
+2024-10-15,Mexico,United States,2,0,Friendly,Zapopan,Mexico,False
+2024-11-14,Jamaica,United States,0,1,CONCACAF Nations League,Kingston,Jamaica,False
+2024-11-18,United States,Jamaica,4,2,CONCACAF Nations League,Saint Louis,United States,False
+2025-01-18,United States,Venezuela,3,1,Friendly,Fort Lauderdale,United States,False
+2025-01-22,United States,Costa Rica,3,0,Friendly,Orlando,United States,False
+2025-03-20,United States,Panama,0,1,CONCACAF Nations League,Inglewood,United States,False
+2025-03-23,United States,Canada,1,2,CONCACAF Nations League,Inglewood,United States,False

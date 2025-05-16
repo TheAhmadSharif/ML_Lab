@@ -1,0 +1,385 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1940-04-02,Croatia,Switzerland,4,0,Friendly,Zagreb,Croatia,False
+1940-04-21,Switzerland,Croatia,0,1,Friendly,Bern,Switzerland,False
+1940-05-02,Hungary,Croatia,1,0,Friendly,Budapest,Hungary,False
+1940-12-08,Croatia,Hungary,1,1,Friendly,Zagreb,Croatia,False
+1941-06-15,Germany,Croatia,5,1,Friendly,Vienna,Germany,False
+1941-09-28,Croatia,Slovakia,5,2,Friendly,Zagreb,Croatia,False
+1942-01-18,Croatia,Germany,0,2,Friendly,Zagreb,Croatia,False
+1942-04-05,Italy,Croatia,4,0,Friendly,Genoa,Italy,False
+1942-06-07,Slovakia,Croatia,1,2,Friendly,Bratislava,Slovakia,False
+1942-06-14,Hungary,Croatia,1,1,Friendly,Budapest,Hungary,False
+1942-09-06,Croatia,Slovakia,6,1,Friendly,Zagreb,Croatia,False
+1942-10-11,Romania,Croatia,2,2,Friendly,Bucharest,Romania,False
+1942-11-01,Germany,Croatia,5,1,Friendly,Stuttgart,Germany,False
+1943-04-04,Switzerland,Croatia,1,0,Friendly,Zürich,Switzerland,False
+1943-04-10,Croatia,Slovakia,1,0,Friendly,Zagreb,Croatia,False
+1944-04-09,Croatia,Slovakia,7,3,Friendly,Zagreb,Croatia,False
+1950-02-26,Croatia,Serbia,4,1,Friendly,Zagreb,Yugoslavia,False
+1956-09-12,Croatia,Indonesia,5,2,Friendly,Zagreb,Yugoslavia,False
+1990-10-17,Croatia,United States,2,1,Friendly,Zagreb,Croatia,False
+1990-12-22,Croatia,Romania,2,0,Friendly,Rijeka,Croatia,False
+1991-06-19,Slovenia,Croatia,0,1,Friendly,Murska Sobota,Slovenia,False
+1992-07-05,Australia,Croatia,1,0,Friendly,Melbourne,Australia,False
+1992-07-08,Australia,Croatia,3,1,Friendly,Adelaide,Australia,False
+1992-07-12,Australia,Croatia,0,0,Friendly,Sydney,Australia,False
+1992-10-22,Croatia,Mexico,3,0,Friendly,Zagreb,Croatia,False
+1993-06-25,Croatia,Ukraine,3,1,Friendly,Zagreb,Croatia,False
+1994-03-23,Spain,Croatia,0,2,Friendly,Valencia,Spain,False
+1994-04-20,Slovakia,Croatia,4,1,Friendly,Bratislava,Slovakia,False
+1994-05-18,Hungary,Croatia,2,2,Friendly,Győr,Hungary,False
+1994-06-04,Croatia,Argentina,0,0,Friendly,Zagreb,Croatia,False
+1994-08-17,Israel,Croatia,0,4,Friendly,Ramat Gan,Israel,False
+1994-09-04,Estonia,Croatia,0,2,UEFA Euro qualification,Tallinn,Estonia,False
+1994-10-09,Croatia,Lithuania,2,0,UEFA Euro qualification,Zagreb,Croatia,False
+1994-11-16,Italy,Croatia,1,2,UEFA Euro qualification,Palermo,Italy,False
+1995-03-25,Croatia,Ukraine,4,0,UEFA Euro qualification,Zagreb,Croatia,False
+1995-03-29,Lithuania,Croatia,0,0,UEFA Euro qualification,Vilnius,Lithuania,False
+1995-04-26,Croatia,Slovenia,2,0,UEFA Euro qualification,Zagreb,Croatia,False
+1995-06-11,Ukraine,Croatia,1,0,UEFA Euro qualification,Kyiv,Ukraine,False
+1995-09-03,Croatia,Estonia,7,1,UEFA Euro qualification,Zagreb,Croatia,False
+1995-10-08,Croatia,Italy,1,1,UEFA Euro qualification,Split,Croatia,False
+1995-11-15,Slovenia,Croatia,1,2,UEFA Euro qualification,Ljubljana,Slovenia,False
+1996-02-28,Croatia,Poland,2,1,Friendly,Rijeka,Croatia,False
+1996-03-13,Croatia,South Korea,3,0,Friendly,Zagreb,Croatia,False
+1996-03-26,Croatia,Israel,2,0,Friendly,Varaždin,Croatia,False
+1996-04-10,Croatia,Hungary,4,1,Friendly,Osijek,Croatia,False
+1996-04-24,England,Croatia,0,0,Friendly,London,England,False
+1996-06-02,Republic of Ireland,Croatia,2,2,Friendly,Dublin,Republic of Ireland,False
+1996-06-11,Turkey,Croatia,0,1,UEFA Euro,Nottingham,England,True
+1996-06-16,Croatia,Denmark,3,0,UEFA Euro,Sheffield,England,True
+1996-06-19,Croatia,Portugal,0,3,UEFA Euro,Nottingham,England,True
+1996-06-23,Germany,Croatia,2,1,UEFA Euro,Manchester,England,True
+1996-10-08,Bosnia and Herzegovina,Croatia,1,4,FIFA World Cup qualification,Bologna,Italy,True
+1996-11-10,Croatia,Greece,1,1,FIFA World Cup qualification,Zagreb,Croatia,False
+1996-12-11,Morocco,Croatia,2,2,King Hassan II Tournament,Casablanca,Morocco,False
+1996-12-12,Croatia,Czech Republic,1,1,King Hassan II Tournament,Casablanca,Morocco,True
+1997-03-29,Croatia,Denmark,1,1,FIFA World Cup qualification,Split,Croatia,False
+1997-04-02,Croatia,Slovenia,3,3,FIFA World Cup qualification,Split,Croatia,False
+1997-04-30,Greece,Croatia,0,1,FIFA World Cup qualification,Salonica,Greece,False
+1997-06-08,Japan,Croatia,4,3,Kirin Cup,Tokyo,Japan,False
+1997-06-12,Croatia,Turkey,1,1,Kirin Cup,Sendai,Japan,True
+1997-09-06,Croatia,Bosnia and Herzegovina,3,2,FIFA World Cup qualification,Zagreb,Croatia,False
+1997-09-10,Denmark,Croatia,3,1,FIFA World Cup qualification,Copenhagen,Denmark,False
+1997-10-11,Slovenia,Croatia,1,3,FIFA World Cup qualification,Ljubljana,Slovenia,False
+1997-10-29,Croatia,Ukraine,2,0,FIFA World Cup qualification,Zagreb,Croatia,False
+1997-11-15,Ukraine,Croatia,1,1,FIFA World Cup qualification,Kyiv,Ukraine,False
+1998-04-22,Croatia,Poland,4,1,Friendly,Osijek,Croatia,False
+1998-06-03,Croatia,Iran,2,0,Friendly,Rijeka,Croatia,False
+1998-06-06,Croatia,Australia,7,0,Friendly,Zagreb,Croatia,False
+1998-06-14,Jamaica,Croatia,1,3,FIFA World Cup,Lens,France,True
+1998-06-20,Japan,Croatia,0,1,FIFA World Cup,Nantes,France,True
+1998-06-26,Argentina,Croatia,1,0,FIFA World Cup,Bordeaux,France,True
+1998-06-30,Romania,Croatia,0,1,FIFA World Cup,Bordeaux,France,True
+1998-07-04,Germany,Croatia,0,3,FIFA World Cup,Lyon,France,True
+1998-07-08,France,Croatia,2,1,FIFA World Cup,Saint-Denis,France,False
+1998-07-11,Netherlands,Croatia,1,2,FIFA World Cup,Paris,France,True
+1998-09-05,Republic of Ireland,Croatia,2,0,UEFA Euro qualification,Dublin,Republic of Ireland,False
+1998-10-10,Malta,Croatia,1,4,UEFA Euro qualification,Attard,Malta,False
+1998-10-14,Croatia,North Macedonia,3,2,UEFA Euro qualification,Zagreb,Croatia,False
+1999-02-10,Croatia,Denmark,0,1,Friendly,Split,Croatia,False
+1999-03-10,Greece,Croatia,3,2,Friendly,Athens,Greece,False
+1999-04-28,Croatia,Italy,0,0,Friendly,Zagreb,Croatia,False
+1999-05-05,Spain,Croatia,3,1,Friendly,Seville,Spain,False
+1999-06-05,North Macedonia,Croatia,1,1,UEFA Euro qualification,Skopje,North Macedonia,False
+1999-06-13,Croatia,Egypt,2,2,Korea Cup,Seoul,South Korea,True
+1999-06-16,Croatia,Mexico,2,1,Korea Cup,Seoul,South Korea,True
+1999-06-19,South Korea,Croatia,1,1,Korea Cup,Seoul,South Korea,False
+1999-08-18,Serbia,Croatia,0,0,UEFA Euro qualification,Belgrade,Yugoslavia,False
+1999-08-21,Croatia,Malta,2,1,UEFA Euro qualification,Zagreb,Croatia,False
+1999-09-04,Croatia,Republic of Ireland,1,0,UEFA Euro qualification,Zagreb,Croatia,False
+1999-10-09,Croatia,Serbia,2,2,UEFA Euro qualification,Zagreb,Croatia,False
+1999-11-13,France,Croatia,3,0,Friendly,Saint-Denis,France,False
+2000-02-23,Croatia,Spain,0,0,Friendly,Split,Croatia,False
+2000-03-29,Croatia,Germany,1,1,Friendly,Zagreb,Croatia,False
+2000-04-26,Austria,Croatia,1,2,Friendly,Vienna,Austria,False
+2000-05-28,Croatia,France,0,2,Friendly,Zagreb,Croatia,False
+2000-08-16,Slovakia,Croatia,1,1,Friendly,Bratislava,Slovakia,False
+2000-09-02,Belgium,Croatia,0,0,FIFA World Cup qualification,Brussels,Belgium,False
+2000-10-11,Croatia,Scotland,1,1,FIFA World Cup qualification,Zagreb,Croatia,False
+2001-02-28,Croatia,Austria,1,0,Friendly,Rijeka,Croatia,False
+2001-03-24,Croatia,Latvia,4,1,FIFA World Cup qualification,Osijek,Croatia,False
+2001-04-25,Croatia,Greece,2,2,Friendly,Varaždin,Croatia,False
+2001-06-02,Croatia,San Marino,4,0,FIFA World Cup qualification,Varaždin,Croatia,False
+2001-06-06,Latvia,Croatia,0,1,FIFA World Cup qualification,Riga,Latvia,False
+2001-08-15,Republic of Ireland,Croatia,2,2,Friendly,Dublin,Republic of Ireland,False
+2001-09-01,Scotland,Croatia,0,0,FIFA World Cup qualification,Glasgow,Scotland,False
+2001-09-05,San Marino,Croatia,0,4,FIFA World Cup qualification,Serravalle,San Marino,False
+2001-10-06,Croatia,Belgium,1,0,FIFA World Cup qualification,Zagreb,Croatia,False
+2001-11-10,South Korea,Croatia,2,0,Friendly,Seoul,South Korea,False
+2001-11-13,South Korea,Croatia,1,1,Friendly,Gwangju,South Korea,False
+2002-02-13,Croatia,Bulgaria,0,0,Friendly,Rijeka,Croatia,False
+2002-03-27,Croatia,Slovenia,0,0,Friendly,Zagreb,Croatia,False
+2002-04-17,Croatia,Bosnia and Herzegovina,2,0,Friendly,Zagreb,Croatia,False
+2002-05-08,Hungary,Croatia,0,2,Friendly,Pécs,Hungary,False
+2002-06-03,Croatia,Mexico,0,1,FIFA World Cup,Niigata,Japan,True
+2002-06-08,Italy,Croatia,1,2,FIFA World Cup,Kashima,Japan,True
+2002-06-13,Ecuador,Croatia,1,0,FIFA World Cup,Yokohama,Japan,True
+2002-08-21,Croatia,Wales,1,1,Friendly,Varaždin,Croatia,False
+2002-09-07,Croatia,Estonia,0,0,UEFA Euro qualification,Osijek,Croatia,False
+2002-10-12,Bulgaria,Croatia,2,0,UEFA Euro qualification,Sofia,Bulgaria,False
+2002-11-20,Romania,Croatia,0,1,Friendly,Timişoara,Romania,False
+2003-02-09,Croatia,North Macedonia,2,2,Friendly,Šibenik,Croatia,False
+2003-02-12,Croatia,Poland,0,0,Friendly,Split,Croatia,False
+2003-03-29,Croatia,Belgium,4,0,UEFA Euro qualification,Zagreb,Croatia,False
+2003-04-02,Croatia,Andorra,2,0,UEFA Euro qualification,Varaždin,Croatia,False
+2003-04-30,Sweden,Croatia,1,2,Friendly,Solna,Sweden,False
+2003-06-11,Estonia,Croatia,0,1,UEFA Euro qualification,Tallinn,Estonia,False
+2003-08-20,England,Croatia,3,1,Friendly,Ipswich,England,False
+2003-09-06,Andorra,Croatia,0,3,UEFA Euro qualification,Sant Julià de Lòria,Andorra,False
+2003-09-10,Belgium,Croatia,2,1,UEFA Euro qualification,Brussels,Belgium,False
+2003-10-11,Croatia,Bulgaria,1,0,UEFA Euro qualification,Zagreb,Croatia,False
+2003-11-15,Croatia,Slovenia,1,1,UEFA Euro qualification,Zagreb,Croatia,False
+2003-11-19,Slovenia,Croatia,0,1,UEFA Euro qualification,Ljubljana,Slovenia,False
+2004-02-18,Croatia,Germany,1,2,Friendly,Split,Croatia,False
+2004-03-31,Croatia,Turkey,2,2,Friendly,Zagreb,Croatia,False
+2004-04-28,North Macedonia,Croatia,0,1,Friendly,Skopje,North Macedonia,False
+2004-05-29,Croatia,Slovakia,1,0,Friendly,Rijeka,Croatia,False
+2004-06-05,Denmark,Croatia,1,2,Friendly,Copenhagen,Denmark,False
+2004-06-13,Switzerland,Croatia,0,0,UEFA Euro,Leiria,Portugal,True
+2004-06-17,Croatia,France,2,2,UEFA Euro,Leiria,Portugal,True
+2004-06-21,Croatia,England,2,4,UEFA Euro,Lisbon,Portugal,True
+2004-08-18,Croatia,Israel,1,0,Friendly,Varaždin,Croatia,False
+2004-09-04,Croatia,Hungary,3,0,FIFA World Cup qualification,Zagreb,Croatia,False
+2004-09-08,Sweden,Croatia,0,1,FIFA World Cup qualification,Gothenburg,Sweden,False
+2004-10-09,Croatia,Bulgaria,2,2,FIFA World Cup qualification,Zagreb,Croatia,False
+2004-11-16,Republic of Ireland,Croatia,1,0,Friendly,Dublin,Republic of Ireland,False
+2005-02-09,Israel,Croatia,3,3,Friendly,Jerusalem,Israel,False
+2005-03-26,Croatia,Iceland,4,0,FIFA World Cup qualification,Zagreb,Croatia,False
+2005-03-30,Croatia,Malta,3,0,FIFA World Cup qualification,Zagreb,Croatia,False
+2005-06-04,Bulgaria,Croatia,1,3,FIFA World Cup qualification,Sofia,Bulgaria,False
+2005-08-17,Croatia,Brazil,1,1,Friendly,Split,Croatia,False
+2005-09-03,Iceland,Croatia,1,3,FIFA World Cup qualification,Reykjavík,Iceland,False
+2005-09-07,Malta,Croatia,1,1,FIFA World Cup qualification,Attard,Malta,False
+2005-10-08,Croatia,Sweden,1,0,FIFA World Cup qualification,Zagreb,Croatia,False
+2005-10-12,Hungary,Croatia,0,0,FIFA World Cup qualification,Budapest,Hungary,False
+2005-11-12,Portugal,Croatia,2,0,Friendly,Coimbra,Portugal,False
+2006-01-29,South Korea,Croatia,2,0,Lunar New Year Cup,So Kon Po,Hong Kong,True
+2006-02-01,Hong Kong,Croatia,0,4,Lunar New Year Cup,So Kon Po,Hong Kong,False
+2006-03-01,Argentina,Croatia,2,3,Friendly,Basel,Switzerland,True
+2006-05-23,Austria,Croatia,1,4,Friendly,Vienna,Austria,False
+2006-05-28,Croatia,Iran,2,2,Friendly,Osijek,Croatia,False
+2006-06-03,Croatia,Poland,0,1,Friendly,Wolfsburg,Germany,True
+2006-06-07,Spain,Croatia,2,1,Friendly,Geneva,Switzerland,True
+2006-06-13,Brazil,Croatia,1,0,FIFA World Cup,Berlin,Germany,True
+2006-06-18,Japan,Croatia,0,0,FIFA World Cup,Nuremberg,Germany,True
+2006-06-22,Croatia,Australia,2,2,FIFA World Cup,Stuttgart,Germany,True
+2006-08-16,Italy,Croatia,0,2,Friendly,Livorno,Italy,False
+2006-09-06,Russia,Croatia,0,0,UEFA Euro qualification,Moscow,Russia,False
+2006-10-07,Croatia,Andorra,7,0,UEFA Euro qualification,Zagreb,Croatia,False
+2006-10-11,Croatia,England,2,0,UEFA Euro qualification,Zagreb,Croatia,False
+2006-11-15,Israel,Croatia,3,4,UEFA Euro qualification,Ramat Gan,Israel,False
+2007-02-07,Croatia,Norway,2,1,Friendly,Rijeka,Croatia,False
+2007-03-24,Croatia,North Macedonia,2,1,UEFA Euro qualification,Zagreb,Croatia,False
+2007-06-02,Estonia,Croatia,0,1,UEFA Euro qualification,Tallinn,Estonia,False
+2007-06-06,Croatia,Russia,0,0,UEFA Euro qualification,Zagreb,Croatia,False
+2007-08-22,Bosnia and Herzegovina,Croatia,3,5,Friendly,Sarajevo,Bosnia and Herzegovina,False
+2007-09-08,Croatia,Estonia,2,0,UEFA Euro qualification,Zagreb,Croatia,False
+2007-09-12,Andorra,Croatia,0,6,UEFA Euro qualification,Sant Julià de Lòria,Andorra,False
+2007-10-13,Croatia,Israel,1,0,UEFA Euro qualification,Zagreb,Croatia,False
+2007-10-16,Croatia,Slovakia,3,0,Friendly,Rijeka,Croatia,False
+2007-11-17,North Macedonia,Croatia,2,0,UEFA Euro qualification,Skopje,North Macedonia,False
+2007-11-21,England,Croatia,2,3,UEFA Euro qualification,London,England,False
+2008-02-06,Croatia,Netherlands,0,3,Friendly,Split,Croatia,False
+2008-03-26,Scotland,Croatia,1,1,Friendly,Glasgow,Scotland,False
+2008-05-24,Croatia,Moldova,1,0,Friendly,Rijeka,Croatia,False
+2008-05-31,Hungary,Croatia,1,1,Friendly,Budapest,Hungary,False
+2008-06-08,Austria,Croatia,0,1,UEFA Euro,Vienna,Austria,False
+2008-06-12,Croatia,Germany,2,1,UEFA Euro,Klagenfurt,Austria,True
+2008-06-16,Poland,Croatia,0,1,UEFA Euro,Klagenfurt,Austria,True
+2008-06-20,Croatia,Turkey,1,1,UEFA Euro,Vienna,Austria,True
+2008-08-20,Slovenia,Croatia,2,3,Friendly,Maribor,Slovenia,False
+2008-09-06,Croatia,Kazakhstan,3,0,FIFA World Cup qualification,Zagreb,Croatia,False
+2008-09-10,Croatia,England,1,4,FIFA World Cup qualification,Zagreb,Croatia,False
+2008-10-11,Ukraine,Croatia,0,0,FIFA World Cup qualification,Kharkiv,Ukraine,False
+2008-10-15,Croatia,Andorra,4,0,FIFA World Cup qualification,Zagreb,Croatia,False
+2009-02-11,Romania,Croatia,1,2,Friendly,Bucharest,Romania,False
+2009-04-01,Andorra,Croatia,0,2,FIFA World Cup qualification,Sant Julià de Lòria,Andorra,False
+2009-06-06,Croatia,Ukraine,2,2,FIFA World Cup qualification,Zagreb,Croatia,False
+2009-08-12,Belarus,Croatia,1,3,FIFA World Cup qualification,Minsk,Belarus,False
+2009-09-05,Croatia,Belarus,1,0,FIFA World Cup qualification,Zagreb,Croatia,False
+2009-09-09,England,Croatia,5,1,FIFA World Cup qualification,London,England,False
+2009-10-08,Croatia,Qatar,3,2,Friendly,Rijeka,Croatia,False
+2009-10-14,Kazakhstan,Croatia,1,2,FIFA World Cup qualification,Astana,Kazakhstan,False
+2009-11-14,Croatia,Liechtenstein,5,0,Friendly,Vinkovci,Croatia,False
+2010-03-03,Belgium,Croatia,0,1,Friendly,Brussels,Belgium,False
+2010-05-19,Austria,Croatia,0,1,Friendly,Klagenfurt,Austria,False
+2010-05-23,Croatia,Wales,2,0,Friendly,Osijek,Croatia,False
+2010-05-26,Estonia,Croatia,0,0,Friendly,Tallinn,Estonia,False
+2010-08-11,Slovakia,Croatia,1,1,Friendly,Bratislava,Slovakia,False
+2010-09-03,Latvia,Croatia,0,3,UEFA Euro qualification,Riga,Latvia,False
+2010-09-07,Croatia,Greece,0,0,UEFA Euro qualification,Zagreb,Croatia,False
+2010-10-09,Israel,Croatia,1,2,UEFA Euro qualification,Ramat Gan,Israel,False
+2010-10-12,Croatia,Norway,2,1,Friendly,Zagreb,Croatia,False
+2010-11-17,Croatia,Malta,3,0,UEFA Euro qualification,Zagreb,Croatia,False
+2011-02-09,Croatia,Czech Republic,4,2,Friendly,Pula,Croatia,False
+2011-03-26,Georgia,Croatia,1,0,UEFA Euro qualification,Tbilisi,Georgia,False
+2011-03-29,France,Croatia,0,0,Friendly,Saint-Denis,France,False
+2011-06-03,Croatia,Georgia,2,1,UEFA Euro qualification,Split,Croatia,False
+2011-08-10,Republic of Ireland,Croatia,0,0,Friendly,Dublin,Republic of Ireland,False
+2011-09-02,Malta,Croatia,1,3,UEFA Euro qualification,Attard,Malta,False
+2011-09-06,Croatia,Israel,3,1,UEFA Euro qualification,Zagreb,Croatia,False
+2011-10-07,Greece,Croatia,2,0,UEFA Euro qualification,Piraeus,Greece,False
+2011-10-11,Croatia,Latvia,2,0,UEFA Euro qualification,Rijeka,Croatia,False
+2011-11-11,Turkey,Croatia,0,3,UEFA Euro qualification,Istanbul,Turkey,False
+2011-11-15,Croatia,Turkey,0,0,UEFA Euro qualification,Zagreb,Croatia,False
+2012-02-29,Croatia,Sweden,1,3,Friendly,Zagreb,Croatia,False
+2012-05-25,Croatia,Estonia,3,1,Friendly,Rijeka,Croatia,False
+2012-06-02,Norway,Croatia,1,1,Friendly,Oslo,Norway,False
+2012-06-10,Republic of Ireland,Croatia,1,3,UEFA Euro,Poznań,Poland,True
+2012-06-14,Italy,Croatia,1,1,UEFA Euro,Poznań,Poland,True
+2012-06-18,Croatia,Spain,0,1,UEFA Euro,Gdańsk,Poland,True
+2012-08-15,Croatia,Switzerland,2,4,Friendly,Split,Croatia,False
+2012-09-07,Croatia,North Macedonia,1,0,FIFA World Cup qualification,Zagreb,Croatia,False
+2012-09-11,Belgium,Croatia,1,1,FIFA World Cup qualification,Brussels,Belgium,False
+2012-10-12,North Macedonia,Croatia,1,2,FIFA World Cup qualification,Skopje,North Macedonia,False
+2012-10-16,Croatia,Wales,2,0,FIFA World Cup qualification,Osijek,Croatia,False
+2013-02-06,Croatia,South Korea,4,0,Friendly,London,England,True
+2013-03-22,Croatia,Serbia,2,0,FIFA World Cup qualification,Zagreb,Croatia,False
+2013-03-26,Wales,Croatia,1,2,FIFA World Cup qualification,Swansea,Wales,False
+2013-06-07,Croatia,Scotland,0,1,FIFA World Cup qualification,Zagreb,Croatia,False
+2013-06-10,Croatia,Portugal,0,1,Friendly,Geneva,Switzerland,True
+2013-08-14,Liechtenstein,Croatia,2,3,Friendly,Vaduz,Liechtenstein,False
+2013-09-06,Serbia,Croatia,1,1,FIFA World Cup qualification,Belgrade,Serbia,False
+2013-09-10,South Korea,Croatia,1,2,Friendly,Jeonju,South Korea,False
+2013-10-11,Croatia,Belgium,1,2,FIFA World Cup qualification,Zagreb,Croatia,False
+2013-10-15,Scotland,Croatia,2,0,FIFA World Cup qualification,Glasgow,Scotland,False
+2013-11-15,Iceland,Croatia,0,0,FIFA World Cup qualification,Reykjavík,Iceland,False
+2013-11-19,Croatia,Iceland,2,0,FIFA World Cup qualification,Zagreb,Croatia,False
+2014-03-05,Switzerland,Croatia,2,2,Friendly,St. Gallen,Switzerland,False
+2014-05-31,Croatia,Mali,2,1,Friendly,Osijek,Croatia,False
+2014-06-06,Croatia,Australia,1,0,Friendly,Salvador,Brazil,True
+2014-06-12,Brazil,Croatia,3,1,FIFA World Cup,São Paulo,Brazil,False
+2014-06-18,Cameroon,Croatia,0,4,FIFA World Cup,Manaus,Brazil,True
+2014-06-23,Croatia,Mexico,1,3,FIFA World Cup,Recife,Brazil,True
+2014-09-04,Croatia,Cyprus,2,0,Friendly,Pula,Croatia,False
+2014-09-09,Croatia,Malta,2,0,UEFA Euro qualification,Zagreb,Croatia,False
+2014-10-10,Bulgaria,Croatia,0,1,UEFA Euro qualification,Sofia,Bulgaria,False
+2014-10-13,Croatia,Azerbaijan,6,0,UEFA Euro qualification,Osijek,Croatia,False
+2014-11-12,Argentina,Croatia,2,1,Friendly,London,England,True
+2014-11-16,Italy,Croatia,1,1,UEFA Euro qualification,Milan,Italy,False
+2015-03-28,Croatia,Norway,5,1,UEFA Euro qualification,Zagreb,Croatia,False
+2015-06-07,Croatia,Gibraltar,4,0,Friendly,Varaždin,Croatia,False
+2015-06-12,Croatia,Italy,1,1,UEFA Euro qualification,Split,Croatia,False
+2015-09-03,Azerbaijan,Croatia,0,0,UEFA Euro qualification,Baku,Azerbaijan,False
+2015-09-06,Norway,Croatia,2,0,UEFA Euro qualification,Oslo,Norway,False
+2015-10-10,Croatia,Bulgaria,3,0,UEFA Euro qualification,Zagreb,Croatia,False
+2015-10-13,Malta,Croatia,0,1,UEFA Euro qualification,Attard,Malta,False
+2015-11-17,Russia,Croatia,1,3,Friendly,Rostov-on-Don,Russia,False
+2016-03-23,Croatia,Israel,2,0,Friendly,Osijek,Croatia,False
+2016-03-26,Hungary,Croatia,1,1,Friendly,Budapest,Hungary,False
+2016-05-27,Croatia,Moldova,1,0,Friendly,Koprivnica,Croatia,False
+2016-06-04,Croatia,San Marino,10,0,Friendly,Rijeka,Croatia,False
+2016-06-12,Turkey,Croatia,0,1,UEFA Euro,Paris,France,True
+2016-06-17,Czech Republic,Croatia,2,2,UEFA Euro,Saint-Étienne,France,True
+2016-06-21,Croatia,Spain,2,1,UEFA Euro,Bordeaux,France,True
+2016-06-25,Croatia,Portugal,0,1,UEFA Euro,Lens,France,True
+2016-09-05,Croatia,Turkey,1,1,FIFA World Cup qualification,Zagreb,Croatia,False
+2016-10-06,Kosovo,Croatia,0,6,FIFA World Cup qualification,Shkodër,Albania,True
+2016-10-09,Finland,Croatia,0,1,FIFA World Cup qualification,Tampere,Finland,False
+2016-11-12,Croatia,Iceland,2,0,FIFA World Cup qualification,Zagreb,Croatia,False
+2016-11-15,Northern Ireland,Croatia,0,3,Friendly,Belfast,Northern Ireland,False
+2017-01-11,Chile,Croatia,1,1,Friendly,Nanning,China PR,True
+2017-01-14,China PR,Croatia,1,1,Friendly,Nanning,China PR,False
+2017-03-24,Croatia,Ukraine,1,0,FIFA World Cup qualification,Zagreb,Croatia,False
+2017-03-28,Estonia,Croatia,3,0,Friendly,Tallinn,Estonia,False
+2017-05-28,Mexico,Croatia,1,2,Friendly,Los Angeles,United States,True
+2017-06-11,Iceland,Croatia,1,0,FIFA World Cup qualification,Reykjavík,Iceland,False
+2017-09-02,Croatia,Kosovo,1,0,FIFA World Cup qualification,Zagreb,Croatia,False
+2017-09-05,Turkey,Croatia,1,0,FIFA World Cup qualification,Eskişehir,Turkey,False
+2017-10-06,Croatia,Finland,1,1,FIFA World Cup qualification,Rijeka,Croatia,False
+2017-10-09,Ukraine,Croatia,0,2,FIFA World Cup qualification,Kyiv,Ukraine,False
+2017-11-09,Croatia,Greece,4,1,FIFA World Cup qualification,Zagreb,Croatia,False
+2017-11-12,Greece,Croatia,0,0,FIFA World Cup qualification,Piraeus,Greece,False
+2018-03-23,Peru,Croatia,2,0,Friendly,Miami Gardens,United States,True
+2018-03-27,Mexico,Croatia,0,1,Friendly,Arlington,United States,True
+2018-06-03,Croatia,Brazil,0,2,Friendly,Liverpool,England,True
+2018-06-08,Croatia,Senegal,2,1,Friendly,Osijek,Croatia,False
+2018-06-16,Croatia,Nigeria,2,0,FIFA World Cup,Kaliningrad,Russia,True
+2018-06-21,Argentina,Croatia,0,3,FIFA World Cup,Nizhny Novgorod,Russia,True
+2018-06-26,Iceland,Croatia,1,2,FIFA World Cup,Rostov-on-Don,Russia,True
+2018-07-01,Croatia,Denmark,1,1,FIFA World Cup,Nizhny Novgorod,Russia,True
+2018-07-07,Russia,Croatia,2,2,FIFA World Cup,Sochi,Russia,False
+2018-07-11,Croatia,England,2,1,FIFA World Cup,Moscow,Russia,True
+2018-07-15,France,Croatia,4,2,FIFA World Cup,Moscow,Russia,True
+2018-09-06,Portugal,Croatia,1,1,Friendly,Faro-Loulé,Portugal,False
+2018-09-11,Spain,Croatia,6,0,UEFA Nations League,Elche,Spain,False
+2018-10-12,Croatia,England,0,0,UEFA Nations League,Rijeka,Croatia,False
+2018-10-15,Croatia,Jordan,2,1,Friendly,Rijeka,Croatia,False
+2018-11-15,Croatia,Spain,3,2,UEFA Nations League,Zagreb,Croatia,False
+2018-11-18,England,Croatia,2,1,UEFA Nations League,London,England,False
+2019-03-21,Croatia,Azerbaijan,2,1,UEFA Euro qualification,Zagreb,Croatia,False
+2019-03-24,Hungary,Croatia,2,1,UEFA Euro qualification,Budapest,Hungary,False
+2019-06-08,Croatia,Wales,2,1,UEFA Euro qualification,Osijek,Croatia,False
+2019-06-11,Croatia,Tunisia,1,2,Friendly,Varaždin,Croatia,False
+2019-09-06,Slovakia,Croatia,0,4,UEFA Euro qualification,Trnava,Slovakia,False
+2019-09-09,Azerbaijan,Croatia,1,1,UEFA Euro qualification,Baku,Azerbaijan,False
+2019-10-10,Croatia,Hungary,3,0,UEFA Euro qualification,Split,Croatia,False
+2019-10-13,Wales,Croatia,1,1,UEFA Euro qualification,Cardiff,Wales,False
+2019-11-16,Croatia,Slovakia,3,1,UEFA Euro qualification,Rijeka,Croatia,False
+2019-11-19,Croatia,Georgia,2,1,Friendly,Pula,Croatia,False
+2020-09-05,Portugal,Croatia,4,1,UEFA Nations League,Porto,Portugal,False
+2020-09-08,France,Croatia,4,2,UEFA Nations League,Paris,France,False
+2020-10-07,Switzerland,Croatia,1,2,Friendly,St. Gallen,Switzerland,False
+2020-10-11,Croatia,Sweden,2,1,UEFA Nations League,Zagreb,Croatia,False
+2020-10-14,Croatia,France,1,2,UEFA Nations League,Zagreb,Croatia,False
+2020-11-11,Turkey,Croatia,3,3,Friendly,Istanbul,Turkey,False
+2020-11-14,Sweden,Croatia,2,1,UEFA Nations League,Stockholm,Sweden,False
+2020-11-17,Croatia,Portugal,2,3,UEFA Nations League,Split,Croatia,False
+2021-03-24,Slovenia,Croatia,1,0,FIFA World Cup qualification,Ljubljana,Slovenia,False
+2021-03-27,Croatia,Cyprus,1,0,FIFA World Cup qualification,Rijeka,Croatia,False
+2021-03-30,Croatia,Malta,3,0,FIFA World Cup qualification,Rijeka,Croatia,False
+2021-06-01,Croatia,Armenia,1,1,Friendly,Velika Gorica,Croatia,False
+2021-06-06,Belgium,Croatia,1,0,Friendly,Brussels,Belgium,False
+2021-06-13,England,Croatia,1,0,UEFA Euro,London,England,False
+2021-06-18,Croatia,Czech Republic,1,1,UEFA Euro,Glasgow,Scotland,True
+2021-06-22,Scotland,Croatia,1,3,UEFA Euro,Glasgow,Scotland,False
+2021-06-28,Croatia,Spain,3,5,UEFA Euro,Copenhagen,Denmark,True
+2021-09-01,Russia,Croatia,0,0,FIFA World Cup qualification,Moscow,Russia,False
+2021-09-04,Slovakia,Croatia,0,1,FIFA World Cup qualification,Bratislava,Slovakia,False
+2021-09-07,Croatia,Slovenia,3,0,FIFA World Cup qualification,Split,Croatia,False
+2021-10-08,Cyprus,Croatia,0,3,FIFA World Cup qualification,Larnaca,Cyprus,False
+2021-10-11,Croatia,Slovakia,2,2,FIFA World Cup qualification,Osijek,Croatia,False
+2021-11-11,Malta,Croatia,1,7,FIFA World Cup qualification,Ta' Qali,Malta,False
+2021-11-14,Croatia,Russia,1,0,FIFA World Cup qualification,Split,Croatia,False
+2022-03-26,Croatia,Slovenia,1,1,Friendly,Al Rayyan,Qatar,True
+2022-03-29,Croatia,Bulgaria,2,1,Friendly,Al Rayyan,Qatar,True
+2022-06-03,Croatia,Austria,0,3,UEFA Nations League,Osijek,Croatia,False
+2022-06-06,Croatia,France,1,1,UEFA Nations League,Split,Croatia,False
+2022-06-10,Denmark,Croatia,0,1,UEFA Nations League,Copenhagen,Denmark,False
+2022-06-13,France,Croatia,0,1,UEFA Nations League,Paris,France,False
+2022-09-22,Croatia,Denmark,2,1,UEFA Nations League,Zagreb,Croatia,False
+2022-09-25,Austria,Croatia,1,3,UEFA Nations League,Vienna,Austria,False
+2022-11-16,Saudi Arabia,Croatia,0,1,Friendly,Riyadh,Saudi Arabia,False
+2022-11-23,Morocco,Croatia,0,0,FIFA World Cup,Al Khor,Qatar,True
+2022-11-27,Croatia,Canada,4,1,FIFA World Cup,Al Rayyan,Qatar,True
+2022-12-01,Croatia,Belgium,0,0,FIFA World Cup,Al Rayyan,Qatar,True
+2022-12-05,Japan,Croatia,1,1,FIFA World Cup,Al Wakrah,Qatar,True
+2022-12-09,Croatia,Brazil,1,1,FIFA World Cup,Al Rayyan,Qatar,True
+2022-12-13,Argentina,Croatia,3,0,FIFA World Cup,Lusail,Qatar,True
+2022-12-17,Croatia,Morocco,2,1,FIFA World Cup,Al Rayyan,Qatar,True
+2023-03-25,Croatia,Wales,1,1,UEFA Euro qualification,Split,Croatia,False
+2023-03-28,Turkey,Croatia,0,2,UEFA Euro qualification,Bursa,Turkey,False
+2023-06-14,Netherlands,Croatia,2,4,UEFA Nations League,Rotterdam,Netherlands,False
+2023-06-18,Croatia,Spain,0,0,UEFA Nations League,Rotterdam,Netherlands,True
+2023-09-08,Croatia,Latvia,5,0,UEFA Euro qualification,Rijeka,Croatia,False
+2023-09-11,Armenia,Croatia,0,1,UEFA Euro qualification,Yerevan,Armenia,False
+2023-10-12,Croatia,Turkey,0,1,UEFA Euro qualification,Osijek,Croatia,False
+2023-10-15,Wales,Croatia,2,1,UEFA Euro qualification,Cardiff,Wales,False
+2023-11-18,Latvia,Croatia,0,2,UEFA Euro qualification,Riga,Latvia,False
+2023-11-21,Croatia,Armenia,1,0,UEFA Euro qualification,Zagreb,Croatia,False
+2024-03-23,Tunisia,Croatia,0,0,FIFA Series,Cairo,Egypt,True
+2024-03-26,Egypt,Croatia,2,4,FIFA Series,Cairo,Egypt,False
+2024-06-03,Croatia,North Macedonia,3,0,Friendly,Rijeka,Croatia,False
+2024-06-08,Portugal,Croatia,1,2,Friendly,Oeiras,Portugal,False
+2024-06-15,Spain,Croatia,3,0,UEFA Euro,Berlin,Germany,True
+2024-06-19,Croatia,Albania,2,2,UEFA Euro,Hamburg,Germany,True
+2024-06-24,Croatia,Italy,1,1,UEFA Euro,Leipzig,Germany,True
+2024-09-05,Portugal,Croatia,2,1,UEFA Nations League,Lisbon,Portugal,False
+2024-09-08,Croatia,Poland,1,0,UEFA Nations League,Osijek,Croatia,False
+2024-10-12,Croatia,Scotland,2,1,UEFA Nations League,Zagreb,Croatia,False
+2024-10-15,Poland,Croatia,3,3,UEFA Nations League,Warsaw,Poland,False
+2024-11-15,Scotland,Croatia,1,0,UEFA Nations League,Glasgow,Scotland,False
+2024-11-18,Croatia,Portugal,1,1,UEFA Nations League,Split,Croatia,False
+2025-03-20,Croatia,France,2,0,UEFA Nations League,Split,Croatia,False
+2025-03-23,France,Croatia,2,0,UEFA Nations League,Paris,France,False

@@ -1,0 +1,8 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+2002-11-23,Monaco,Vatican City,0,0,Friendly,Albano Laziale,Italy,True
+2011-05-07,Monaco,Vatican City,2,1,Friendly,Albano Laziale,Italy,True
+2011-06-12,Palestine,Vatican City,9,1,Friendly,Al-Khader,Palestine,False
+2013-06-22,Monaco,Vatican City,2,0,Friendly,Cap-d'Ail,France,True
+2014-05-10,Vatican City,Monaco,0,2,Friendly,Rome,Italy,False
+2017-04-29,Vatican City,Monaco,0,0,Friendly,Rome,Italy,False
+2019-03-23,Vatican City,Raetia,2,2,Friendly,Rome,Italy,False

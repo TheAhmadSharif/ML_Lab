@@ -1,0 +1,521 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1903-04-05,Hungary,Czechoslovakia,2,1,Friendly,Budapest,Hungary,False
+1906-04-01,Hungary,Czechoslovakia,1,1,Friendly,Budapest,Hungary,False
+1906-10-07,Czechoslovakia,Hungary,4,4,Friendly,Prague,Bohemia,False
+1907-04-07,Hungary,Czechoslovakia,5,2,Friendly,Budapest,Hungary,False
+1907-10-06,Czechoslovakia,Hungary,5,3,Friendly,Prague,Bohemia,False
+1908-04-05,Hungary,Czechoslovakia,5,2,Friendly,Budapest,Hungary,False
+1908-06-13,Czechoslovakia,England,0,4,Friendly,Prague,Bohemia,False
+1910-10-16,Russia,Czechoslovakia,5,4,Friendly,Saint Petersburg,Russia,False
+1910-10-23,Russia,Czechoslovakia,1,0,Friendly,Moscow,Russia,False
+1919-06-24,Czechoslovakia,Belgium,4,1,Inter-Allied Games,Paris,France,True
+1919-06-26,Czechoslovakia,United States,8,2,Inter-Allied Games,Paris,France,True
+1919-06-28,Czechoslovakia,Canada,3,2,Inter-Allied Games,Paris,France,True
+1919-06-29,France,Czechoslovakia,2,3,Inter-Allied Games,Paris,France,False
+1920-08-28,Czechoslovakia,Yugoslavia,7,0,Olympic Games,Antwerp,Belgium,True
+1920-08-29,Czechoslovakia,Norway,4,0,Olympic Games,Brussels,Belgium,True
+1920-08-31,France,Czechoslovakia,1,4,Olympic Games,Antwerp,Belgium,True
+1920-09-02,Belgium,Czechoslovakia,2,0,Olympic Games,Antwerp,Belgium,False
+1921-10-28,Czechoslovakia,Yugoslavia,6,1,Friendly,Prague,Czechoslovakia,False
+1921-11-13,Czechoslovakia,Sweden,2,2,Friendly,Prague,Czechoslovakia,False
+1922-02-26,Italy,Czechoslovakia,1,1,Friendly,Turin,Italy,False
+1922-06-11,Denmark,Czechoslovakia,0,3,Friendly,Copenhagen,Denmark,False
+1922-06-28,Yugoslavia,Czechoslovakia,4,3,Friendly,Zagreb,Yugoslavia,False
+1922-08-13,Sweden,Czechoslovakia,0,2,Friendly,Stockholm,Sweden,False
+1923-05-06,Czechoslovakia,Denmark,2,0,Friendly,Prague,Czechoslovakia,False
+1923-05-27,Czechoslovakia,Italy,5,1,Friendly,Prague,Czechoslovakia,False
+1923-07-01,Romania,Czechoslovakia,0,6,Friendly,Cluj,Romania,False
+1923-10-28,Czechoslovakia,Yugoslavia,4,4,Friendly,Prague,Czechoslovakia,False
+1924-05-25,Czechoslovakia,Turkey,5,2,Olympic Games,Paris,France,True
+1924-05-28,Switzerland,Czechoslovakia,1,1,Olympic Games,Paris,France,True
+1924-05-30,Switzerland,Czechoslovakia,1,0,Olympic Games,Paris,France,True
+1924-08-31,Czechoslovakia,Romania,4,1,Friendly,Prague,Czechoslovakia,False
+1924-09-28,Yugoslavia,Czechoslovakia,0,2,Friendly,Zagreb,Yugoslavia,False
+1925-05-24,Czechoslovakia,Austria,3,1,Friendly,Prague,Czechoslovakia,False
+1925-10-11,Czechoslovakia,Hungary,2,0,Friendly,Prague,Czechoslovakia,False
+1925-10-28,Czechoslovakia,Yugoslavia,7,0,Friendly,Prague,Czechoslovakia,False
+1925-12-13,Catalonia,Czechoslovakia,2,1,Friendly,Barcelona,Spain,False
+1926-01-17,Italy,Czechoslovakia,3,1,Friendly,Turin,Italy,False
+1926-03-14,Austria,Czechoslovakia,2,0,Friendly,Vienna,Austria,False
+1926-06-06,Hungary,Czechoslovakia,2,1,Friendly,Budapest,Hungary,False
+1926-06-13,Sweden,Czechoslovakia,2,2,Friendly,Stockholm,Sweden,False
+1926-06-28,Yugoslavia,Czechoslovakia,2,6,Friendly,Zagreb,Yugoslavia,False
+1926-07-03,Czechoslovakia,Sweden,4,2,Friendly,Prague,Czechoslovakia,False
+1926-07-07,Czechoslovakia,Catalonia,2,1,Friendly,Prague,Czechoslovakia,False
+1926-09-28,Czechoslovakia,Austria,1,2,Friendly,Prague,Czechoslovakia,False
+1926-10-28,Czechoslovakia,Italy,3,1,Friendly,Prague,Czechoslovakia,False
+1927-01-02,Belgium,Czechoslovakia,2,3,Friendly,Liège,Belgium,False
+1927-02-20,Italy,Czechoslovakia,2,2,Friendly,Milan,Italy,False
+1927-03-20,Austria,Czechoslovakia,1,2,Friendly,Vienna,Austria,False
+1927-04-24,Czechoslovakia,Hungary,4,1,Friendly,Prague,Czechoslovakia,False
+1927-05-26,Czechoslovakia,Belgium,4,0,Friendly,Prague,Czechoslovakia,False
+1927-09-18,Czechoslovakia,Austria,2,0,Central European International Cup,Prague,Czechoslovakia,False
+1927-10-09,Hungary,Czechoslovakia,1,2,Friendly,Budapest,Hungary,False
+1927-10-23,Czechoslovakia,Italy,2,2,Central European International Cup,Prague,Czechoslovakia,False
+1927-10-28,Czechoslovakia,Yugoslavia,5,3,Friendly,Prague,Czechoslovakia,False
+1928-04-01,Austria,Czechoslovakia,0,1,Central European International Cup,Vienna,Austria,False
+1928-04-22,Hungary,Czechoslovakia,2,0,Central European International Cup,Budapest,Hungary,False
+1928-05-13,France,Czechoslovakia,0,2,Friendly,Colombes,France,False
+1928-09-23,Czechoslovakia,Hungary,6,1,Friendly,Prague,Czechoslovakia,False
+1928-10-27,Czechoslovakia,Poland,3,2,Friendly,Prague,Czechoslovakia,False
+1928-10-28,Czechoslovakia,Yugoslavia,7,1,Friendly,Prague,Czechoslovakia,False
+1929-03-03,Italy,Czechoslovakia,4,2,Central European International Cup,Bologna,Italy,False
+1929-03-17,Czechoslovakia,Austria,3,3,Friendly,Prague,Czechoslovakia,False
+1929-05-05,Switzerland,Czechoslovakia,1,4,Central European International Cup,Lausanne,Switzerland,False
+1929-06-28,Yugoslavia,Czechoslovakia,3,3,Friendly,Zagreb,Yugoslavia,False
+1929-09-08,Czechoslovakia,Hungary,1,1,Central European International Cup,Prague,Czechoslovakia,False
+1929-09-15,Austria,Czechoslovakia,2,1,Friendly,Vienna,Austria,False
+1929-10-06,Czechoslovakia,Switzerland,5,0,Central European International Cup,Prague,Czechoslovakia,False
+1929-10-28,Czechoslovakia,Yugoslavia,4,3,Friendly,Prague,Czechoslovakia,False
+1930-01-01,Spain,Czechoslovakia,1,0,Friendly,Barcelona,Spain,False
+1930-01-12,Portugal,Czechoslovakia,1,0,Friendly,Lisbon,Portugal,False
+1930-03-23,Czechoslovakia,Austria,2,2,Friendly,Prague,Czechoslovakia,False
+1930-05-01,Czechoslovakia,Hungary,1,1,Friendly,Prague,Czechoslovakia,False
+1930-05-11,France,Czechoslovakia,2,3,Friendly,Colombes,France,False
+1930-06-14,Czechoslovakia,Spain,2,0,Friendly,Prague,Czechoslovakia,False
+1930-09-21,Belgium,Czechoslovakia,2,3,Friendly,Antwerp,Belgium,False
+1930-10-26,Hungary,Czechoslovakia,1,1,Friendly,Budapest,Hungary,False
+1931-02-15,France,Czechoslovakia,1,2,Friendly,Colombes,France,False
+1931-03-22,Czechoslovakia,Hungary,3,3,Central European International Cup,Prague,Czechoslovakia,False
+1931-04-12,Austria,Czechoslovakia,2,1,Central European International Cup,Vienna,Austria,False
+1931-06-13,Czechoslovakia,Switzerland,7,3,Central European International Cup,Prague,Czechoslovakia,False
+1931-06-14,Poland,Czechoslovakia,0,4,Friendly,Warsaw,Poland,False
+1931-08-02,Yugoslavia,Czechoslovakia,2,1,Friendly,Belgrade,Yugoslavia,False
+1931-09-20,Hungary,Czechoslovakia,3,0,Friendly,Budapest,Hungary,False
+1931-11-15,Italy,Czechoslovakia,2,2,Central European International Cup,Rome,Italy,False
+1932-03-20,Czechoslovakia,Hungary,1,3,Friendly,Prague,Czechoslovakia,False
+1932-04-17,Switzerland,Czechoslovakia,5,1,Central European International Cup,Zürich,Switzerland,False
+1932-05-22,Czechoslovakia,Austria,1,1,Central European International Cup,Prague,Czechoslovakia,False
+1932-05-29,Netherlands,Czechoslovakia,1,2,Friendly,Amsterdam,Netherlands,False
+1932-09-18,Hungary,Czechoslovakia,2,1,Central European International Cup,Budapest,Hungary,False
+1932-10-09,Czechoslovakia,Yugoslavia,2,1,Friendly,Prague,Czechoslovakia,False
+1932-10-28,Czechoslovakia,Italy,2,1,Central European International Cup,Prague,Czechoslovakia,False
+1933-03-19,Hungary,Czechoslovakia,2,0,Friendly,Budapest,Hungary,False
+1933-04-09,Austria,Czechoslovakia,1,2,Friendly,Vienna,Austria,False
+1933-05-07,Italy,Czechoslovakia,2,0,Central European International Cup,Florence,Italy,False
+1933-06-10,Czechoslovakia,France,4,0,Friendly,Prague,Czechoslovakia,False
+1933-08-06,Yugoslavia,Czechoslovakia,2,1,Friendly,Zagreb,Yugoslavia,False
+1933-09-17,Czechoslovakia,Austria,3,3,Friendly,Prague,Czechoslovakia,False
+1933-10-15,Poland,Czechoslovakia,1,2,FIFA World Cup qualification,Warsaw,Poland,False
+1934-03-25,France,Czechoslovakia,1,2,Friendly,Colombes,France,False
+1934-04-29,Czechoslovakia,Hungary,2,2,Central European International Cup,Prague,Czechoslovakia,False
+1934-05-16,Czechoslovakia,England,2,1,Friendly,Prague,Czechoslovakia,False
+1934-05-27,Czechoslovakia,Romania,2,1,FIFA World Cup,Trieste,Italy,True
+1934-05-31,Czechoslovakia,Switzerland,3,2,FIFA World Cup,Turin,Italy,True
+1934-06-03,Czechoslovakia,Germany,3,1,FIFA World Cup,Rome,Italy,True
+1934-06-10,Italy,Czechoslovakia,2,1,FIFA World Cup,Rome,Italy,False
+1934-09-02,Czechoslovakia,Yugoslavia,3,1,Friendly,Prague,Czechoslovakia,False
+1934-09-23,Austria,Czechoslovakia,2,2,Central European International Cup,Vienna,Austria,False
+1934-10-14,Switzerland,Czechoslovakia,2,2,Central European International Cup,Geneva,Switzerland,False
+1935-03-17,Czechoslovakia,Switzerland,3,1,Central European International Cup,Prague,Czechoslovakia,False
+1935-04-14,Czechoslovakia,Austria,0,0,Central European International Cup,Prague,Czechoslovakia,False
+1935-05-26,Germany,Czechoslovakia,2,1,Friendly,Dresden,Germany,False
+1935-09-06,Yugoslavia,Czechoslovakia,0,0,Friendly,Belgrade,Yugoslavia,False
+1935-09-22,Hungary,Czechoslovakia,1,0,Central European International Cup,Budapest,Hungary,False
+1935-10-27,Czechoslovakia,Italy,2,1,Central European International Cup,Prague,Czechoslovakia,False
+1936-02-09,France,Czechoslovakia,0,3,Friendly,Paris,France,False
+1936-03-22,Austria,Czechoslovakia,1,1,Central European International Cup,Vienna,Austria,False
+1936-09-27,Czechoslovakia,Germany,1,2,Friendly,Prague,Czechoslovakia,False
+1936-10-18,Czechoslovakia,Hungary,5,2,Central European International Cup,Prague,Czechoslovakia,False
+1936-12-13,Italy,Czechoslovakia,2,0,Friendly,Genoa,Italy,False
+1937-02-21,Czechoslovakia,Switzerland,5,3,Central European International Cup,Prague,Czechoslovakia,False
+1937-04-18,Romania,Czechoslovakia,1,1,Friendly,Bucharest,Romania,False
+1937-05-06,Czechoslovakia,Basque Country,3,2,Friendly,Prague,Czechoslovakia,False
+1937-05-23,Czechoslovakia,Italy,0,1,Central European International Cup,Prague,Czechoslovakia,False
+1937-06-05,Czechoslovakia,Basque Country,2,1,Friendly,Prague,Czechoslovakia,False
+1937-09-19,Hungary,Czechoslovakia,8,3,Central European International Cup,Budapest,Hungary,False
+1937-10-03,Czechoslovakia,Yugoslavia,5,4,Friendly,Prague,Czechoslovakia,False
+1937-10-13,Czechoslovakia,Latvia,4,0,Friendly,Prague,Czechoslovakia,False
+1937-10-24,Czechoslovakia,Austria,2,1,Central European International Cup,Prague,Czechoslovakia,False
+1937-11-07,Bulgaria,Czechoslovakia,1,1,FIFA World Cup qualification,Sofia,Bulgaria,False
+1937-12-01,England,Czechoslovakia,5,4,Friendly,London,England,False
+1937-12-08,Scotland,Czechoslovakia,5,0,Friendly,Glasgow,Scotland,False
+1938-04-03,Switzerland,Czechoslovakia,4,0,Central European International Cup,Basel,Switzerland,False
+1938-04-24,Czechoslovakia,Bulgaria,6,0,FIFA World Cup qualification,Prague,Czechoslovakia,False
+1938-05-18,Czechoslovakia,Republic of Ireland,2,2,Friendly,Prague,Czechoslovakia,False
+1938-06-05,Czechoslovakia,Netherlands,3,0,FIFA World Cup,Le Havre,France,True
+1938-06-12,Brazil,Czechoslovakia,1,1,FIFA World Cup,Bordeaux,France,True
+1938-06-14,Brazil,Czechoslovakia,2,1,FIFA World Cup,Bordeaux,France,True
+1938-08-07,Sweden,Czechoslovakia,2,6,Friendly,Solna,Sweden,False
+1938-08-28,Yugoslavia,Czechoslovakia,1,3,Friendly,Zagreb,Yugoslavia,False
+1938-12-04,Czechoslovakia,Romania,6,2,Friendly,Prague,Czechoslovakia,False
+1939-08-27,Czechoslovakia,Yugoslavia,7,3,Friendly,Prague,Bohemia and Moravia,False
+1939-11-12,Czechoslovakia,Austria,4,4,Friendly,Prague,Bohemia and Moravia,False
+1939-11-12,Germany,Czechoslovakia,4,4,Friendly,Breslau,Germany,False
+1946-04-07,France,Czechoslovakia,3,0,Friendly,Colombes,France,False
+1946-05-09,Czechoslovakia,Yugoslavia,0,2,Friendly,Prague,Czechoslovakia,False
+1946-09-14,Czechoslovakia,Switzerland,3,2,Friendly,Prague,Czechoslovakia,False
+1946-10-27,Austria,Czechoslovakia,3,4,Friendly,Vienna,Austria,False
+1947-05-11,Czechoslovakia,Yugoslavia,3,1,Friendly,Prague,Czechoslovakia,False
+1947-06-20,Denmark,Czechoslovakia,2,2,Friendly,Copenhagen,Denmark,False
+1947-08-31,Czechoslovakia,Poland,6,3,Friendly,Prague,Czechoslovakia,False
+1947-09-21,Romania,Czechoslovakia,2,6,Friendly,Bucharest,Romania,False
+1947-10-05,Czechoslovakia,Austria,3,2,Friendly,Prague,Czechoslovakia,False
+1947-12-14,Italy,Czechoslovakia,3,1,Friendly,Bari,Italy,False
+1948-04-18,Poland,Czechoslovakia,3,1,Balkan Cup,Warsaw,Poland,False
+1948-04-20,Silesia,Czechoslovakia,2,1,Friendly,Chorzów,Poland,False
+1948-05-23,Hungary,Czechoslovakia,2,1,Central European International Cup,Budapest,Hungary,False
+1948-06-12,Czechoslovakia,France,0,4,Friendly,Prague,Czechoslovakia,False
+1948-07-04,Romania,Czechoslovakia,2,1,Balkan Cup,Bucharest,Romania,False
+1948-08-29,Bulgaria,Czechoslovakia,1,0,Balkan Cup,Sofia,Bulgaria,False
+1948-10-10,Switzerland,Czechoslovakia,1,1,Central European International Cup,Basel,Switzerland,False
+1948-10-31,Czechoslovakia,Austria,3,1,Central European International Cup,Bratislava,Czechoslovakia,False
+1949-03-23,Czechoslovakia,Luxembourg,2,2,Friendly,Bratislava,Czechoslovakia,False
+1949-04-10,Czechoslovakia,Hungary,5,2,Central European International Cup,Prague,Czechoslovakia,False
+1949-05-22,Czechoslovakia,Romania,3,2,Friendly,Prague,Czechoslovakia,False
+1949-09-04,Czechoslovakia,Bulgaria,1,3,Friendly,Prague,Czechoslovakia,False
+1949-09-25,Austria,Czechoslovakia,3,1,Central European International Cup,Vienna,Austria,False
+1949-10-30,Czechoslovakia,Poland,2,0,Friendly,Ostrava,Czechoslovakia,False
+1949-11-13,France,Czechoslovakia,1,0,Friendly,Colombes,France,False
+1950-04-30,Hungary,Czechoslovakia,5,0,Friendly,Budapest,Hungary,False
+1950-05-21,Romania,Czechoslovakia,1,1,Friendly,Bucharest,Romania,False
+1950-08-27,Bulgaria,Czechoslovakia,1,2,Friendly,Sofia,Bulgaria,False
+1950-10-22,Poland,Czechoslovakia,1,4,Friendly,Warsaw,Poland,False
+1951-05-20,Czechoslovakia,Romania,2,2,Friendly,Prague,Czechoslovakia,False
+1951-10-14,Czechoslovakia,Hungary,1,2,Friendly,Ostrava,Czechoslovakia,False
+1952-05-11,Romania,Czechoslovakia,3,1,Friendly,Bucharest,Romania,False
+1952-09-14,Czechoslovakia,Poland,2,2,Friendly,Prague,Czechoslovakia,False
+1952-10-19,Hungary,Czechoslovakia,5,0,Friendly,Budapest,Hungary,False
+1952-11-29,Albania,Czechoslovakia,3,2,Friendly,Tirana,Albania,False
+1953-04-26,Czechoslovakia,Italy,2,0,Central European International Cup,Prague,Czechoslovakia,False
+1953-05-10,Poland,Czechoslovakia,1,1,Friendly,Wrocław,Poland,False
+1953-06-14,Czechoslovakia,Romania,2,0,FIFA World Cup qualification,Prague,Czechoslovakia,False
+1953-09-06,Bulgaria,Czechoslovakia,1,2,FIFA World Cup qualification,Sofia,Bulgaria,False
+1953-09-20,Czechoslovakia,Switzerland,5,0,Central European International Cup,Prague,Czechoslovakia,False
+1953-10-04,Czechoslovakia,Hungary,1,5,Friendly,Prague,Czechoslovakia,False
+1953-10-25,Romania,Czechoslovakia,0,1,FIFA World Cup qualification,Bucharest,Romania,False
+1953-11-08,Czechoslovakia,Bulgaria,0,0,FIFA World Cup qualification,Bratislava,Czechoslovakia,False
+1953-12-13,Italy,Czechoslovakia,3,0,Central European International Cup,Genoa,Italy,False
+1954-06-16,Czechoslovakia,Uruguay,0,2,FIFA World Cup,Bern,Switzerland,True
+1954-06-19,Austria,Czechoslovakia,5,0,FIFA World Cup,Zürich,Switzerland,True
+1954-10-24,Hungary,Czechoslovakia,4,1,Friendly,Budapest,Hungary,False
+1955-03-27,Czechoslovakia,Austria,3,2,Central European International Cup,Brno,Czechoslovakia,False
+1955-06-05,Belgium,Czechoslovakia,1,3,Friendly,Brussels,Belgium,False
+1955-09-25,Czechoslovakia,Belgium,5,2,Friendly,Prague,Czechoslovakia,False
+1955-10-02,Czechoslovakia,Hungary,1,3,Central European International Cup,Prague,Czechoslovakia,False
+1955-11-13,Bulgaria,Czechoslovakia,3,0,Friendly,Sofia,Bulgaria,False
+1956-04-21,Czechoslovakia,Brazil,0,0,Friendly,Prague,Czechoslovakia,False
+1956-05-10,Switzerland,Czechoslovakia,1,6,Central European International Cup,Geneva,Switzerland,False
+1956-05-20,Hungary,Czechoslovakia,2,4,Central European International Cup,Budapest,Hungary,False
+1956-08-05,Brazil,Czechoslovakia,0,1,Friendly,Rio de Janeiro,Brazil,False
+1956-08-08,Brazil,Czechoslovakia,4,1,Friendly,São Paulo,Brazil,False
+1956-08-12,Uruguay,Czechoslovakia,2,1,Friendly,Montevideo,Uruguay,False
+1956-08-19,Argentina,Czechoslovakia,1,0,Friendly,Buenos Aires,Argentina,False
+1956-08-26,Chile,Czechoslovakia,3,0,Friendly,Santiago,Chile,False
+1956-09-30,Yugoslavia,Czechoslovakia,1,2,Central European International Cup,Belgrade,Yugoslavia,False
+1956-11-25,Czechoslovakia,Turkey,1,1,Friendly,Prague,Czechoslovakia,False
+1957-05-01,Wales,Czechoslovakia,1,0,FIFA World Cup qualification,Cardiff,Wales,False
+1957-05-18,Czechoslovakia,Yugoslavia,1,0,Central European International Cup,Bratislava,Czechoslovakia,False
+1957-05-26,Czechoslovakia,Wales,2,0,FIFA World Cup qualification,Prague,Czechoslovakia,False
+1957-06-16,Czechoslovakia,German DR,3,1,FIFA World Cup qualification,Brno,Czechoslovakia,False
+1957-10-13,Austria,Czechoslovakia,2,2,Central European International Cup,Vienna,Austria,False
+1957-10-27,German DR,Czechoslovakia,1,4,FIFA World Cup qualification,Leipzig,German DR,False
+1957-12-13,Egypt,Czechoslovakia,1,2,Friendly,Cairo,Egypt,False
+1958-04-02,Czechoslovakia,Germany,3,2,Friendly,Prague,Czechoslovakia,False
+1958-06-08,Czechoslovakia,Northern Ireland,0,1,FIFA World Cup,Halmstad,Sweden,True
+1958-06-11,Czechoslovakia,Germany,2,2,FIFA World Cup,Helsingborg,Sweden,True
+1958-06-15,Argentina,Czechoslovakia,1,6,FIFA World Cup,Helsingborg,Sweden,True
+1958-06-17,Czechoslovakia,Northern Ireland,1,2,FIFA World Cup,Malmö,Sweden,True
+1958-08-30,Czechoslovakia,Russia,1,2,Friendly,Prague,Czechoslovakia,False
+1958-09-20,Czechoslovakia,Switzerland,2,1,Central European International Cup,Bratislava,Czechoslovakia,False
+1958-10-12,Czechoslovakia,Bulgaria,0,1,Friendly,Ostrava,Czechoslovakia,False
+1958-12-13,Italy,Czechoslovakia,1,1,Central European International Cup,Genoa,Italy,False
+1958-12-18,Turkey,Czechoslovakia,1,0,Friendly,Istanbul,Turkey,False
+1959-04-05,Republic of Ireland,Czechoslovakia,2,0,UEFA Euro qualification,Dublin,Republic of Ireland,False
+1959-05-10,Czechoslovakia,Republic of Ireland,4,0,UEFA Euro qualification,Bratislava,Czechoslovakia,False
+1959-08-12,German DR,Czechoslovakia,2,1,Friendly,Leipzig,Germany,True
+1959-09-06,Russia,Czechoslovakia,3,1,Friendly,Moscow,Soviet Union,False
+1959-09-23,Denmark,Czechoslovakia,2,2,UEFA Euro qualification,Copenhagen,Denmark,False
+1959-10-18,Czechoslovakia,Denmark,5,1,UEFA Euro qualification,Brno,Czechoslovakia,False
+1959-11-01,Czechoslovakia,Italy,2,1,Central European International Cup,Prague,Czechoslovakia,False
+1960-05-01,Czechoslovakia,Austria,4,0,Friendly,Prague,Czechoslovakia,False
+1960-05-22,Romania,Czechoslovakia,0,2,UEFA Euro qualification,Bucharest,Romania,False
+1960-05-29,Czechoslovakia,Romania,3,0,UEFA Euro qualification,Bratislava,Czechoslovakia,False
+1960-07-06,Czechoslovakia,Russia,0,3,UEFA Euro,Marseille,France,True
+1960-07-09,France,Czechoslovakia,0,2,UEFA Euro,Marseille,France,False
+1960-10-30,Czechoslovakia,Netherlands,4,0,Friendly,Prague,Czechoslovakia,False
+1961-03-26,Czechoslovakia,Sweden,2,1,Friendly,Prague,Czechoslovakia,False
+1961-04-29,Czechoslovakia,Mexico,2,1,Friendly,Ostrava,Czechoslovakia,False
+1961-05-14,Czechoslovakia,Scotland,4,0,FIFA World Cup qualification,Bratislava,Czechoslovakia,False
+1961-06-19,Czechoslovakia,Argentina,3,3,Friendly,Brno,Czechoslovakia,False
+1961-09-29,Scotland,Czechoslovakia,3,2,FIFA World Cup qualification,Glasgow,Scotland,False
+1961-10-08,Republic of Ireland,Czechoslovakia,1,3,FIFA World Cup qualification,Dublin,Republic of Ireland,False
+1961-10-29,Czechoslovakia,Republic of Ireland,7,1,FIFA World Cup qualification,Prague,Czechoslovakia,False
+1961-11-29,Czechoslovakia,Scotland,4,2,FIFA World Cup qualification,Brussels,Belgium,True
+1962-04-07,Sweden,Czechoslovakia,3,1,Friendly,Gothenburg,Sweden,False
+1962-04-22,Czechoslovakia,Uruguay,3,1,Friendly,Prague,Czechoslovakia,False
+1962-05-31,Czechoslovakia,Spain,1,0,FIFA World Cup,Viña del Mar,Chile,True
+1962-06-02,Brazil,Czechoslovakia,0,0,FIFA World Cup,Viña del Mar,Chile,True
+1962-06-07,Czechoslovakia,Mexico,1,3,FIFA World Cup,Viña del Mar,Chile,True
+1962-06-10,Czechoslovakia,Hungary,1,0,FIFA World Cup,Rancagua,Chile,True
+1962-06-13,Czechoslovakia,Yugoslavia,3,1,FIFA World Cup,Viña del Mar,Chile,True
+1962-06-17,Brazil,Czechoslovakia,3,1,FIFA World Cup,Santiago,Chile,True
+1962-09-16,Austria,Czechoslovakia,0,6,Friendly,Vienna,Austria,False
+1962-10-28,Czechoslovakia,Poland,2,1,Friendly,Bratislava,Czechoslovakia,False
+1962-11-21,German DR,Czechoslovakia,2,1,UEFA Euro qualification,Berlin,German DR,False
+1963-03-31,Czechoslovakia,German DR,1,1,UEFA Euro qualification,Prague,Czechoslovakia,False
+1963-04-24,Austria,Czechoslovakia,3,1,Friendly,Vienna,Austria,False
+1963-04-28,Bulgaria,Czechoslovakia,1,0,Friendly,Sofia,Bulgaria,False
+1963-05-29,Czechoslovakia,England,2,4,Friendly,Bratislava,Czechoslovakia,False
+1963-06-02,Czechoslovakia,Hungary,2,2,Friendly,Prague,Czechoslovakia,False
+1963-11-03,Yugoslavia,Czechoslovakia,2,0,Friendly,Zagreb,Yugoslavia,False
+1964-04-11,Italy,Czechoslovakia,0,0,Friendly,Florence,Italy,False
+1964-04-29,Germany,Czechoslovakia,3,4,Friendly,Ludwigshafen,Germany,False
+1964-05-17,Czechoslovakia,Yugoslavia,2,3,Friendly,Prague,Czechoslovakia,False
+1964-09-13,Poland,Czechoslovakia,2,1,Friendly,Warsaw,Poland,False
+1964-10-11,Hungary,Czechoslovakia,2,2,Friendly,Budapest,Hungary,False
+1965-04-25,Czechoslovakia,Portugal,0,1,FIFA World Cup qualification,Bratislava,Czechoslovakia,False
+1965-05-30,Romania,Czechoslovakia,1,0,FIFA World Cup qualification,Bucharest,Romania,False
+1965-09-19,Czechoslovakia,Romania,3,1,FIFA World Cup qualification,Prague,Czechoslovakia,False
+1965-10-09,Turkey,Czechoslovakia,0,6,FIFA World Cup qualification,Istanbul,Turkey,False
+1965-10-31,Portugal,Czechoslovakia,0,0,FIFA World Cup qualification,Porto,Portugal,False
+1965-11-21,Czechoslovakia,Turkey,3,1,FIFA World Cup qualification,Brno,Czechoslovakia,False
+1966-05-18,Czechoslovakia,Russia,1,2,Friendly,Prague,Czechoslovakia,False
+1966-06-12,Brazil,Czechoslovakia,2,1,Friendly,Rio de Janeiro,Brazil,False
+1966-06-15,Brazil,Czechoslovakia,2,2,Friendly,Rio de Janeiro,Brazil,False
+1966-10-19,Yugoslavia,Czechoslovakia,1,0,Friendly,Belgrade,Yugoslavia,False
+1966-11-02,England,Czechoslovakia,0,0,Friendly,London,England,False
+1966-11-06,Netherlands,Czechoslovakia,1,2,Friendly,Amsterdam,Netherlands,False
+1967-05-03,Switzerland,Czechoslovakia,1,2,Friendly,Basel,Switzerland,False
+1967-05-21,Republic of Ireland,Czechoslovakia,0,2,UEFA Euro qualification,Dublin,Republic of Ireland,False
+1967-06-18,Czechoslovakia,Turkey,3,0,UEFA Euro qualification,Bratislava,Czechoslovakia,False
+1967-10-01,Czechoslovakia,Spain,1,0,UEFA Euro qualification,Prague,Czechoslovakia,False
+1967-10-22,Spain,Czechoslovakia,2,1,UEFA Euro qualification,Madrid,Spain,False
+1967-11-15,Turkey,Czechoslovakia,0,0,UEFA Euro qualification,Ankara,Turkey,False
+1967-11-22,Czechoslovakia,Republic of Ireland,1,2,UEFA Euro qualification,Prague,Czechoslovakia,False
+1968-04-27,Czechoslovakia,Yugoslavia,3,0,Friendly,Bratislava,Czechoslovakia,False
+1968-06-23,Czechoslovakia,Brazil,3,2,Friendly,Bratislava,Czechoslovakia,False
+1968-09-25,Denmark,Czechoslovakia,0,3,FIFA World Cup qualification,Copenhagen,Denmark,False
+1968-10-20,Czechoslovakia,Denmark,1,0,FIFA World Cup qualification,Bratislava,Czechoslovakia,False
+1969-04-16,Netherlands,Czechoslovakia,2,0,Friendly,Rotterdam,Netherlands,False
+1969-05-04,Republic of Ireland,Czechoslovakia,1,2,FIFA World Cup qualification,Dublin,Republic of Ireland,False
+1969-05-25,Hungary,Czechoslovakia,2,0,FIFA World Cup qualification,Budapest,Hungary,False
+1969-09-14,Czechoslovakia,Hungary,3,3,FIFA World Cup qualification,Prague,Czechoslovakia,False
+1969-10-07,Czechoslovakia,Republic of Ireland,3,0,FIFA World Cup qualification,Prague,Czechoslovakia,False
+1969-12-03,Czechoslovakia,Hungary,4,1,FIFA World Cup qualification,Marseille,France,True
+1970-02-04,Peru,Czechoslovakia,0,2,Friendly,Lima,Peru,False
+1970-02-07,Peru,Czechoslovakia,2,1,Friendly,Lima,Peru,False
+1970-04-12,Austria,Czechoslovakia,1,3,Friendly,Vienna,Austria,False
+1970-05-09,Luxembourg,Czechoslovakia,0,1,Friendly,Luxembourg,Luxembourg,False
+1970-05-13,Norway,Czechoslovakia,0,2,Friendly,Oslo,Norway,False
+1970-06-03,Brazil,Czechoslovakia,4,1,FIFA World Cup,Guadalajara,Mexico,True
+1970-06-06,Czechoslovakia,Romania,1,2,FIFA World Cup,Guadalajara,Mexico,True
+1970-06-11,Czechoslovakia,England,0,1,FIFA World Cup,Guadalajara,Mexico,True
+1970-09-05,France,Czechoslovakia,3,0,Friendly,Nice,France,False
+1970-10-07,Czechoslovakia,Finland,1,1,UEFA Euro qualification,Prague,Czechoslovakia,False
+1970-10-25,Czechoslovakia,Poland,2,2,Friendly,Prague,Czechoslovakia,False
+1971-04-21,Wales,Czechoslovakia,1,3,UEFA Euro qualification,Swansea,Wales,False
+1971-05-16,Czechoslovakia,Romania,1,0,UEFA Euro qualification,Bratislava,Czechoslovakia,False
+1971-06-16,Finland,Czechoslovakia,0,4,UEFA Euro qualification,Helsinki,Finland,False
+1971-07-14,Brazil,Czechoslovakia,1,0,Friendly,Rio de Janeiro,Brazil,False
+1971-09-25,German DR,Czechoslovakia,1,1,Friendly,Berlin,German DR,False
+1971-10-27,Czechoslovakia,Wales,1,0,UEFA Euro qualification,Prague,Czechoslovakia,False
+1971-11-14,Romania,Czechoslovakia,2,1,UEFA Euro qualification,Bucharest,Romania,False
+1972-04-08,Czechoslovakia,Austria,2,0,Friendly,Brno,Czechoslovakia,False
+1972-04-26,Czechoslovakia,Luxembourg,6,0,Friendly,Plzeň,Czechoslovakia,False
+1972-05-14,Sweden,Czechoslovakia,1,2,Friendly,Gothenburg,Sweden,False
+1972-06-28,Brazil,Czechoslovakia,0,0,Brazil Independence Cup,Rio de Janeiro,Brazil,False
+1972-07-02,Czechoslovakia,Scotland,0,0,Brazil Independence Cup,Porto Alegre,Brazil,True
+1972-07-06,Czechoslovakia,Yugoslavia,1,2,Brazil Independence Cup,São Paulo,Brazil,True
+1972-08-30,Czechoslovakia,Netherlands,1,2,Friendly,Prague,Czechoslovakia,False
+1972-10-15,Poland,Czechoslovakia,3,0,Friendly,Bydgoszcz,Poland,False
+1972-11-01,Czechoslovakia,German DR,1,3,Friendly,Bratislava,Czechoslovakia,False
+1973-03-28,Germany,Czechoslovakia,3,0,Friendly,Düsseldorf,Germany,False
+1973-05-02,Denmark,Czechoslovakia,1,1,FIFA World Cup qualification,Copenhagen,Denmark,False
+1973-05-27,Czechoslovakia,England,1,1,Friendly,Prague,Czechoslovakia,False
+1973-06-02,Czechoslovakia,Denmark,6,0,FIFA World Cup qualification,Prague,Czechoslovakia,False
+1973-09-26,Scotland,Czechoslovakia,2,1,FIFA World Cup qualification,Glasgow,Scotland,False
+1973-10-17,Czechoslovakia,Scotland,1,0,FIFA World Cup qualification,Bratislava,Czechoslovakia,False
+1974-03-27,German DR,Czechoslovakia,1,0,Friendly,Dresden,German DR,False
+1974-04-07,Brazil,Czechoslovakia,1,0,Friendly,Rio de Janeiro,Brazil,False
+1974-04-13,Bulgaria,Czechoslovakia,0,1,Friendly,Plovdiv,Bulgaria,False
+1974-04-27,Czechoslovakia,France,3,3,Friendly,Prague,Czechoslovakia,False
+1974-05-20,Russia,Czechoslovakia,0,1,Friendly,Odessa,Soviet Union,False
+1974-09-25,Czechoslovakia,German DR,3,1,Friendly,Prague,Czechoslovakia,False
+1974-10-13,Czechoslovakia,Sweden,4,0,Friendly,Bratislava,Czechoslovakia,False
+1974-10-30,England,Czechoslovakia,3,0,UEFA Euro qualification,London,England,False
+1974-11-13,Czechoslovakia,Poland,2,2,Friendly,Prague,Czechoslovakia,False
+1974-12-20,Iran,Czechoslovakia,0,1,Friendly,Tehran,Iran,False
+1975-03-31,Czechoslovakia,Romania,1,1,Friendly,Prague,Czechoslovakia,False
+1975-04-20,Czechoslovakia,Cyprus,4,0,UEFA Euro qualification,Prague,Czechoslovakia,False
+1975-04-30,Czechoslovakia,Portugal,5,0,UEFA Euro qualification,Prague,Czechoslovakia,False
+1975-06-07,Austria,Czechoslovakia,0,0,Friendly,Vienna,Austria,False
+1975-09-24,Czechoslovakia,Switzerland,1,1,Friendly,Brno,Czechoslovakia,False
+1975-10-15,Czechoslovakia,Hungary,1,1,Friendly,Bratislava,Czechoslovakia,False
+1975-10-30,Czechoslovakia,England,2,1,UEFA Euro qualification,Bratislava,Czechoslovakia,False
+1975-11-12,Portugal,Czechoslovakia,1,1,UEFA Euro qualification,Porto,Portugal,False
+1975-11-23,Cyprus,Czechoslovakia,0,3,UEFA Euro qualification,Limassol,Cyprus,False
+1976-03-10,Czechoslovakia,Russia,2,2,Friendly,Košice,Czechoslovakia,False
+1976-03-27,France,Czechoslovakia,2,2,Friendly,Paris,France,False
+1976-04-24,Czechoslovakia,Russia,2,0,UEFA Euro qualification,Bratislava,Czechoslovakia,False
+1976-05-22,Russia,Czechoslovakia,2,2,UEFA Euro qualification,Kyiv,Soviet Union,False
+1976-06-16,Czechoslovakia,Netherlands,3,1,UEFA Euro,Zagreb,Yugoslavia,True
+1976-06-20,Czechoslovakia,Germany,2,2,UEFA Euro,Belgrade,Yugoslavia,True
+1976-09-22,Romania,Czechoslovakia,1,1,Friendly,Bucharest,Romania,False
+1976-10-06,Czechoslovakia,Romania,3,2,Friendly,Prague,Czechoslovakia,False
+1976-10-13,Czechoslovakia,Scotland,2,0,FIFA World Cup qualification,Prague,Czechoslovakia,False
+1976-11-17,Germany,Czechoslovakia,2,0,Friendly,Hanover,Germany,False
+1977-03-23,Czechoslovakia,Greece,4,0,Friendly,Prague,Czechoslovakia,False
+1977-03-30,Wales,Czechoslovakia,3,0,FIFA World Cup qualification,Wrexham,Wales,False
+1977-04-20,Hungary,Czechoslovakia,2,0,Friendly,Budapest,Hungary,False
+1977-05-24,Switzerland,Czechoslovakia,1,0,Friendly,Basel,Switzerland,False
+1977-06-01,Czechoslovakia,Austria,0,0,Friendly,Ostrava,Czechoslovakia,False
+1977-08-14,Czechoslovakia,Romania,1,3,Friendly,Rabat,Morocco,True
+1977-09-07,Czechoslovakia,Turkey,1,0,Friendly,Bratislava,Czechoslovakia,False
+1977-09-21,Scotland,Czechoslovakia,3,1,FIFA World Cup qualification,Glasgow,Scotland,False
+1977-11-09,Czechoslovakia,Hungary,1,1,Friendly,Prague,Czechoslovakia,False
+1977-11-16,Czechoslovakia,Wales,1,0,FIFA World Cup qualification,Prague,Czechoslovakia,False
+1978-03-22,Greece,Czechoslovakia,0,1,Friendly,Salonica,Greece,False
+1978-04-15,Hungary,Czechoslovakia,2,1,Friendly,Budapest,Hungary,False
+1978-04-23,Czechoslovakia,Bulgaria,0,0,Friendly,Brno,Czechoslovakia,False
+1978-05-17,Brazil,Czechoslovakia,2,0,Friendly,Rio de Janeiro,Brazil,False
+1978-05-21,Sweden,Czechoslovakia,0,0,Friendly,Solna,Sweden,False
+1978-09-06,German DR,Czechoslovakia,2,1,Friendly,Leipzig,German DR,False
+1978-10-04,Sweden,Czechoslovakia,1,3,UEFA Euro qualification,Solna,Sweden,False
+1978-10-11,Czechoslovakia,Germany,3,4,Friendly,Prague,Czechoslovakia,False
+1978-11-08,Czechoslovakia,Italy,3,0,Friendly,Bratislava,Czechoslovakia,False
+1978-11-29,England,Czechoslovakia,1,0,Friendly,London,England,False
+1979-03-14,Czechoslovakia,Spain,1,0,Friendly,Bratislava,Czechoslovakia,False
+1979-04-04,Czechoslovakia,France,2,0,UEFA Euro qualification,Bratislava,Czechoslovakia,False
+1979-05-01,Luxembourg,Czechoslovakia,0,3,UEFA Euro qualification,Luxembourg,Luxembourg,False
+1979-05-05,Russia,Czechoslovakia,3,0,Friendly,Moscow,Soviet Union,False
+1979-09-12,Hungary,Czechoslovakia,2,1,Friendly,Nyíregyháza,Hungary,False
+1979-09-26,Czechoslovakia,Republic of Ireland,4,1,Friendly,Prague,Czechoslovakia,False
+1979-10-10,Czechoslovakia,Sweden,4,1,UEFA Euro qualification,Prague,Czechoslovakia,False
+1979-11-17,France,Czechoslovakia,2,1,UEFA Euro qualification,Paris,France,False
+1979-11-24,Czechoslovakia,Luxembourg,4,0,UEFA Euro qualification,Prague,Czechoslovakia,False
+1980-01-27,Australia,Czechoslovakia,0,4,Friendly,Canberra,Australia,False
+1980-02-03,Australia,Czechoslovakia,0,5,Friendly,Sydney,Australia,False
+1980-02-09,Australia,Czechoslovakia,2,2,Friendly,Melbourne,Australia,False
+1980-03-26,Switzerland,Czechoslovakia,2,0,Friendly,Basel,Switzerland,False
+1980-04-16,Spain,Czechoslovakia,2,2,Friendly,Gijón,Spain,False
+1980-04-30,Czechoslovakia,Hungary,1,0,Friendly,Košice,Czechoslovakia,False
+1980-06-11,Czechoslovakia,Germany,0,1,UEFA Euro,Rome,Italy,True
+1980-06-14,Greece,Czechoslovakia,1,3,UEFA Euro,Rome,Italy,True
+1980-06-17,Netherlands,Czechoslovakia,1,1,UEFA Euro,Milan,Italy,True
+1980-06-21,Italy,Czechoslovakia,1,1,UEFA Euro,Naples,Italy,False
+1980-09-24,Poland,Czechoslovakia,1,1,Friendly,Chorzów,Poland,False
+1980-10-08,Czechoslovakia,German DR,0,1,Friendly,Prague,Czechoslovakia,False
+1980-10-15,Argentina,Czechoslovakia,1,0,Friendly,Buenos Aires,Argentina,False
+1980-11-19,Wales,Czechoslovakia,1,0,FIFA World Cup qualification,Cardiff,Wales,False
+1980-12-03,Czechoslovakia,Turkey,2,0,FIFA World Cup qualification,Prague,Czechoslovakia,False
+1981-02-04,Peru,Czechoslovakia,1,3,Friendly,Lima,Peru,False
+1981-03-24,Czechoslovakia,Switzerland,0,1,Friendly,Bratislava,Czechoslovakia,False
+1981-04-15,Turkey,Czechoslovakia,0,3,FIFA World Cup qualification,Istanbul,Turkey,False
+1981-04-29,Republic of Ireland,Czechoslovakia,3,1,Friendly,Dublin,Republic of Ireland,False
+1981-05-27,Czechoslovakia,Iceland,6,1,FIFA World Cup qualification,Bratislava,Czechoslovakia,False
+1981-09-09,Czechoslovakia,Wales,2,0,FIFA World Cup qualification,Prague,Czechoslovakia,False
+1981-09-23,Iceland,Czechoslovakia,1,1,FIFA World Cup qualification,Reykjavík,Iceland,False
+1981-10-28,Russia,Czechoslovakia,2,0,FIFA World Cup qualification,Tbilisi,Soviet Union,True
+1981-11-11,Argentina,Czechoslovakia,1,1,Friendly,Buenos Aires,Argentina,False
+1981-11-29,Czechoslovakia,Russia,1,1,FIFA World Cup qualification,Bratislava,Czechoslovakia,False
+1982-03-03,Brazil,Czechoslovakia,1,1,Friendly,São Paulo,Brazil,False
+1982-03-09,Argentina,Czechoslovakia,0,0,Friendly,Mar del Plata,Argentina,False
+1982-03-24,Czechoslovakia,Greece,2,1,Friendly,Prague,Czechoslovakia,False
+1982-04-14,Germany,Czechoslovakia,2,1,Friendly,Cologne,Germany,False
+1982-04-28,Austria,Czechoslovakia,2,1,Friendly,Vienna,Austria,False
+1982-06-17,Czechoslovakia,Kuwait,1,1,FIFA World Cup,Valladolid,Spain,True
+1982-06-20,England,Czechoslovakia,2,0,FIFA World Cup,Bilbao,Spain,True
+1982-06-24,France,Czechoslovakia,1,1,FIFA World Cup,Valladolid,Spain,True
+1982-10-06,Czechoslovakia,Sweden,2,2,UEFA Euro qualification,Bratislava,Czechoslovakia,False
+1982-10-27,Denmark,Czechoslovakia,1,3,Friendly,Copenhagen,Denmark,False
+1982-11-13,Italy,Czechoslovakia,2,2,UEFA Euro qualification,Milan,Italy,False
+1983-03-27,Cyprus,Czechoslovakia,1,1,UEFA Euro qualification,Nicosia,Cyprus,False
+1983-04-16,Czechoslovakia,Cyprus,6,0,UEFA Euro qualification,Prague,Czechoslovakia,False
+1983-05-15,Romania,Czechoslovakia,0,1,UEFA Euro qualification,Bucharest,Romania,False
+1983-09-07,Switzerland,Czechoslovakia,0,0,Friendly,Neuchâtel,Switzerland,False
+1983-09-21,Sweden,Czechoslovakia,1,0,UEFA Euro qualification,Solna,Sweden,False
+1983-10-26,Czechoslovakia,Bulgaria,1,2,Friendly,Prague,Czechoslovakia,False
+1983-11-16,Czechoslovakia,Italy,2,0,UEFA Euro qualification,Prague,Czechoslovakia,False
+1983-11-30,Czechoslovakia,Romania,1,1,UEFA Euro qualification,Bratislava,Czechoslovakia,False
+1984-03-28,German DR,Czechoslovakia,2,1,Friendly,Erfurt,German DR,False
+1984-04-07,Italy,Czechoslovakia,1,1,Friendly,Verona,Italy,False
+1984-05-16,Czechoslovakia,Denmark,1,0,Friendly,Prague,Czechoslovakia,False
+1984-09-05,Greece,Czechoslovakia,0,1,Friendly,Athens,Greece,False
+1984-10-14,Portugal,Czechoslovakia,2,1,FIFA World Cup qualification,Porto,Portugal,False
+1984-10-31,Czechoslovakia,Malta,4,0,FIFA World Cup qualification,Prague,Czechoslovakia,False
+1985-03-27,Switzerland,Czechoslovakia,2,0,Friendly,Sion,Switzerland,False
+1985-04-21,Malta,Czechoslovakia,0,0,FIFA World Cup qualification,Attard,Malta,False
+1985-04-30,Czechoslovakia,Germany,1,5,FIFA World Cup qualification,Prague,Czechoslovakia,False
+1985-06-05,Sweden,Czechoslovakia,2,0,FIFA World Cup qualification,Solna,Sweden,False
+1985-09-04,Czechoslovakia,Poland,3,1,Friendly,Brno,Czechoslovakia,False
+1985-09-25,Czechoslovakia,Portugal,1,0,FIFA World Cup qualification,Prague,Czechoslovakia,False
+1985-10-16,Czechoslovakia,Sweden,2,1,FIFA World Cup qualification,Prague,Czechoslovakia,False
+1985-11-17,Germany,Czechoslovakia,2,2,FIFA World Cup qualification,Munich,Germany,False
+1986-04-23,Czechoslovakia,German DR,2,0,Friendly,Nitra,Czechoslovakia,False
+1986-05-27,Czechoslovakia,Republic of Ireland,0,1,Friendly,Reykjavík,Iceland,True
+1986-05-29,Iceland,Czechoslovakia,1,2,Friendly,Reykjavík,Iceland,False
+1986-08-03,Australia,Czechoslovakia,1,1,Friendly,Melbourne,Australia,False
+1986-08-06,Australia,Czechoslovakia,0,1,Friendly,Adelaide,Australia,False
+1986-08-10,Australia,Czechoslovakia,0,3,Friendly,Parramatta,Australia,False
+1986-09-10,Czechoslovakia,Netherlands,1,0,Friendly,Prague,Czechoslovakia,False
+1986-10-15,Czechoslovakia,Finland,3,0,UEFA Euro qualification,Brno,Czechoslovakia,False
+1986-11-12,Czechoslovakia,Denmark,0,0,UEFA Euro qualification,Bratislava,Czechoslovakia,False
+1987-03-25,Switzerland,Czechoslovakia,1,2,Friendly,Bellinzona,Switzerland,False
+1987-04-15,Netherlands,Czechoslovakia,1,0,Friendly,Leeuwarden,Netherlands,False
+1987-04-29,Wales,Czechoslovakia,1,1,UEFA Euro qualification,Wrexham,Wales,False
+1987-05-13,German DR,Czechoslovakia,2,0,Friendly,Brandenburg,German DR,False
+1987-06-03,Denmark,Czechoslovakia,1,1,UEFA Euro qualification,Copenhagen,Denmark,False
+1987-09-09,Finland,Czechoslovakia,3,0,UEFA Euro qualification,Helsinki,Finland,False
+1987-10-27,Czechoslovakia,Poland,3,1,Friendly,Bratislava,Czechoslovakia,False
+1987-11-11,Czechoslovakia,Wales,2,0,UEFA Euro qualification,Prague,Czechoslovakia,False
+1988-01-12,Czechoslovakia,Finland,0,2,Friendly,Las Palmas,Spain,True
+1988-01-15,Czechoslovakia,German DR,1,0,Friendly,Las Palmas,Spain,True
+1988-02-24,Spain,Czechoslovakia,1,2,Friendly,Málaga,Spain,False
+1988-03-23,Bulgaria,Czechoslovakia,2,0,Friendly,Sofia,Bulgaria,False
+1988-04-27,Czechoslovakia,Russia,1,1,Friendly,Trnava,Czechoslovakia,False
+1988-06-01,Denmark,Czechoslovakia,0,1,Friendly,Copenhagen,Denmark,False
+1988-08-24,France,Czechoslovakia,1,1,Friendly,Paris,France,False
+1988-09-20,Czechoslovakia,Austria,4,2,Friendly,Prague,Czechoslovakia,False
+1988-10-18,Luxembourg,Czechoslovakia,0,2,FIFA World Cup qualification,Esch-sur-Alzette,Luxembourg,False
+1988-11-04,Czechoslovakia,Norway,3,2,Friendly,Bratislava,Czechoslovakia,False
+1988-11-16,Czechoslovakia,Belgium,0,0,FIFA World Cup qualification,Bratislava,Czechoslovakia,False
+1989-04-11,Austria,Czechoslovakia,1,2,Friendly,Graz,Austria,False
+1989-04-29,Belgium,Czechoslovakia,2,1,FIFA World Cup qualification,Brussels,Belgium,False
+1989-05-09,Czechoslovakia,Luxembourg,4,0,FIFA World Cup qualification,Prague,Czechoslovakia,False
+1989-06-07,Switzerland,Czechoslovakia,0,1,FIFA World Cup qualification,Bern,Switzerland,False
+1989-06-26,South Korea,Czechoslovakia,0,0,Korea Cup,Seoul,South Korea,False
+1989-09-05,Czechoslovakia,Romania,2,0,Friendly,Nitra,Czechoslovakia,False
+1989-10-06,Czechoslovakia,Portugal,2,1,FIFA World Cup qualification,Prague,Czechoslovakia,False
+1989-10-25,Czechoslovakia,Switzerland,3,0,FIFA World Cup qualification,Prague,Czechoslovakia,False
+1989-11-15,Portugal,Czechoslovakia,0,0,FIFA World Cup qualification,Lisbon,Portugal,False
+1990-02-21,Spain,Czechoslovakia,1,0,Friendly,Alicante,Spain,False
+1990-04-04,Czechoslovakia,Egypt,0,1,Friendly,Brno,Czechoslovakia,False
+1990-04-25,England,Czechoslovakia,4,2,Friendly,London,England,False
+1990-05-26,Germany,Czechoslovakia,1,0,Friendly,Düsseldorf,Germany,False
+1990-06-10,United States,Czechoslovakia,1,5,FIFA World Cup,Florence,Italy,True
+1990-06-15,Austria,Czechoslovakia,0,1,FIFA World Cup,Florence,Italy,True
+1990-06-19,Italy,Czechoslovakia,2,0,FIFA World Cup,Rome,Italy,False
+1990-06-23,Czechoslovakia,Costa Rica,4,1,FIFA World Cup,Bari,Italy,True
+1990-07-01,Germany,Czechoslovakia,1,0,FIFA World Cup,Milan,Italy,True
+1990-08-29,Finland,Czechoslovakia,1,1,Friendly,Kuusankoski,Finland,False
+1990-09-26,Czechoslovakia,Iceland,1,0,UEFA Euro qualification,Košice,Czechoslovakia,False
+1990-10-13,France,Czechoslovakia,2,1,UEFA Euro qualification,Paris,France,False
+1990-11-14,Czechoslovakia,Spain,3,2,UEFA Euro qualification,Prague,Czechoslovakia,False
+1991-01-30,Australia,Czechoslovakia,0,1,Friendly,Melbourne,Australia,False
+1991-02-06,Australia,Czechoslovakia,0,2,Friendly,Parramatta,Australia,False
+1991-03-27,Czechoslovakia,Poland,4,0,Friendly,Olomouc,Czechoslovakia,False
+1991-05-01,Albania,Czechoslovakia,0,2,UEFA Euro qualification,Tirana,Albania,False
+1991-06-05,Iceland,Czechoslovakia,0,1,UEFA Euro qualification,Reykjavík,Iceland,False
+1991-08-08,Czechoslovakia,Yugoslavia,0,0,Friendly,Aosta,Italy,True
+1991-08-21,Czechoslovakia,Switzerland,1,1,Friendly,Prague,Czechoslovakia,False
+1991-09-04,Czechoslovakia,France,1,2,UEFA Euro qualification,Bratislava,Czechoslovakia,False
+1991-09-25,Norway,Czechoslovakia,2,3,Friendly,Oslo,Norway,False
+1991-10-16,Czechoslovakia,Albania,2,1,UEFA Euro qualification,Olomouc,Czechoslovakia,False
+1991-11-13,Spain,Czechoslovakia,2,1,UEFA Euro qualification,Seville,Spain,False
+1991-12-18,Brazil,Czechoslovakia,2,1,Friendly,Goiânia,Brazil,False
+1992-01-04,Egypt,Czechoslovakia,2,0,Friendly,Cairo,Egypt,False
+1992-03-25,Czechoslovakia,England,2,2,Friendly,Prague,Czechoslovakia,False
+1992-04-22,Czechoslovakia,Germany,1,1,Friendly,Prague,Czechoslovakia,False
+1992-05-27,Poland,Czechoslovakia,1,0,Friendly,Jastrzębie-Zdrój,Poland,False
+1992-08-19,Czechoslovakia,Austria,2,2,Friendly,Bratislava,Czechoslovakia,False
+1992-09-02,Czechoslovakia,Belgium,1,2,FIFA World Cup qualification,Prague,Czechoslovakia,False
+1992-09-23,Czechoslovakia,Faroe Islands,4,0,FIFA World Cup qualification,Košice,Czechoslovakia,False
+1992-11-14,Romania,Czechoslovakia,1,1,FIFA World Cup qualification,Bucharest,Romania,False
+1993-03-24,Cyprus,Czechoslovakia,1,1,FIFA World Cup qualification,Limassol,Cyprus,False
+1993-04-28,Czechoslovakia,Wales,1,1,FIFA World Cup qualification,Ostrava,Czech Republic,False
+1993-06-02,Czechoslovakia,Romania,5,2,FIFA World Cup qualification,Košice,Slovakia,False
+1993-06-16,Faroe Islands,Czechoslovakia,0,3,FIFA World Cup qualification,Toftir,Faroe Islands,False
+1993-09-08,Wales,Czechoslovakia,2,2,FIFA World Cup qualification,Cardiff,Wales,False
+1993-10-27,Czechoslovakia,Cyprus,3,0,FIFA World Cup qualification,Košice,Slovakia,False
+1993-11-17,Belgium,Czechoslovakia,0,0,FIFA World Cup qualification,Brussels,Belgium,False

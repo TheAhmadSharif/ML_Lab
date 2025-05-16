@@ -1,0 +1,65 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1991-05-10,Saint Lucia,Montserrat,3,0,CFU Caribbean Cup qualification,Castries,Saint Lucia,False
+1991-05-14,Anguilla,Montserrat,1,1,CFU Caribbean Cup qualification,Castries,Saint Lucia,True
+1992-04-15,Antigua and Barbuda,Montserrat,5,0,CFU Caribbean Cup qualification,Basseterre,Saint Kitts and Nevis,True
+1992-04-17,Saint Kitts and Nevis,Montserrat,10,0,CFU Caribbean Cup qualification,Basseterre,Saint Kitts and Nevis,False
+1994-02-23,Saint Kitts and Nevis,Montserrat,9,1,CFU Caribbean Cup qualification,Basseterre,Saint Kitts and Nevis,False
+1994-02-25,Antigua and Barbuda,Montserrat,8,0,CFU Caribbean Cup qualification,Basseterre,Saint Kitts and Nevis,True
+1995-03-26,Montserrat,Anguilla,3,2,CFU Caribbean Cup qualification,Plymouth,Montserrat,False
+1995-04-02,Anguilla,Montserrat,0,1,CFU Caribbean Cup qualification,The Valley,Anguilla,False
+1999-02-05,British Virgin Islands,Montserrat,3,1,CFU Caribbean Cup qualification,Road Town,British Virgin Islands,False
+1999-02-07,British Virgin Islands,Montserrat,3,0,CFU Caribbean Cup qualification,Road Town,British Virgin Islands,False
+2000-03-05,Dominican Republic,Montserrat,3,0,FIFA World Cup qualification,San Cristóbal,Dominican Republic,False
+2000-03-19,Montserrat,Dominican Republic,1,3,FIFA World Cup qualification,Port of Spain,Trinidad and Tobago,True
+2001-02-06,Saint Martin,Montserrat,3,1,CFU Caribbean Cup qualification,Philipsburg,Sint Maarten,True
+2001-02-08,Anguilla,Montserrat,4,1,CFU Caribbean Cup qualification,Marigot,Saint Martin,True
+2002-06-30,Bhutan,Montserrat,4,0,The Other Final,Thimphu,Bhutan,False
+2004-02-29,Bermuda,Montserrat,13,0,FIFA World Cup qualification,Hamilton,Bermuda,False
+2004-03-21,Montserrat,Bermuda,0,7,FIFA World Cup qualification,Lookout,Montserrat,False
+2004-10-31,Saint Kitts and Nevis,Montserrat,6,1,CFU Caribbean Cup qualification,Basseterre,Saint Kitts and Nevis,False
+2004-11-02,Montserrat,Antigua and Barbuda,4,5,CFU Caribbean Cup qualification,Basseterre,Saint Kitts and Nevis,True
+2008-03-26,Montserrat,Suriname,1,7,FIFA World Cup qualification,Macoya,Trinidad and Tobago,True
+2010-10-08,Montserrat,Barbados,0,5,CFU Caribbean Cup qualification,Kingstown,Saint Vincent and the Grenadines,True
+2010-10-10,Saint Kitts and Nevis,Montserrat,4,0,CFU Caribbean Cup qualification,Kingstown,Saint Vincent and the Grenadines,True
+2011-06-15,Montserrat,Belize,2,5,FIFA World Cup qualification,Couva,Trinidad and Tobago,True
+2011-07-17,Belize,Montserrat,3,1,FIFA World Cup qualification,San Pedro Sula,Honduras,True
+2012-09-05,Montserrat,Suriname,1,7,CFU Caribbean Cup qualification,Le Lamentin,Martinique,True
+2012-09-07,Martinique,Montserrat,5,0,CFU Caribbean Cup qualification,Rivière-Pilote,Martinique,False
+2012-09-09,British Virgin Islands,Montserrat,0,7,CFU Caribbean Cup qualification,Fort-de-France,Martinique,True
+2014-05-30,Montserrat,United States Virgin Islands,1,0,CFU Caribbean Cup qualification,Lookout,Montserrat,False
+2015-03-27,Curaçao,Montserrat,2,1,FIFA World Cup qualification,Willemstad,Curaçao,False
+2015-03-31,Montserrat,Curaçao,2,2,FIFA World Cup qualification,Lookout,Montserrat,False
+2018-09-08,Montserrat,El Salvador,1,2,CONCACAF Nations League qualification,Lookout,Montserrat,False
+2018-10-14,Montserrat,Belize,1,0,CONCACAF Nations League qualification,Lookout,Montserrat,False
+2018-11-16,Aruba,Montserrat,0,2,CONCACAF Nations League qualification,Willemstad,Curaçao,True
+2019-03-22,Cayman Islands,Montserrat,1,2,CONCACAF Nations League qualification,West Bay,Cayman Islands,False
+2019-09-07,Montserrat,Dominican Republic,2,1,CONCACAF Nations League,Lookout,Montserrat,False
+2019-09-10,Montserrat,Saint Lucia,1,1,CONCACAF Nations League,Lookout,Montserrat,False
+2019-10-12,Montserrat,El Salvador,0,2,CONCACAF Nations League,Lookout,Montserrat,False
+2019-10-15,Dominican Republic,Montserrat,0,0,CONCACAF Nations League,Santo Domingo,Dominican Republic,False
+2019-11-16,El Salvador,Montserrat,1,0,CONCACAF Nations League,San Salvador,El Salvador,False
+2019-11-19,Saint Lucia,Montserrat,0,1,CONCACAF Nations League,Gros Islet,Saint Lucia,False
+2021-03-24,Antigua and Barbuda,Montserrat,2,2,FIFA World Cup qualification,Willemstad,Curaçao,True
+2021-03-28,Montserrat,El Salvador,1,1,FIFA World Cup qualification,Willemstad,Curaçao,True
+2021-06-02,Montserrat,United States Virgin Islands,4,0,FIFA World Cup qualification,San Cristóbal,Dominican Republic,True
+2021-06-08,Grenada,Montserrat,1,2,FIFA World Cup qualification,St. George's,Grenada,False
+2021-07-02,Trinidad and Tobago,Montserrat,6,1,Gold Cup qualification,Fort Lauderdale,United States,True
+2022-06-04,Montserrat,Guyana,1,2,CONCACAF Nations League,Santo Domingo,Dominican Republic,True
+2022-06-07,Haiti,Montserrat,3,2,CONCACAF Nations League,Santo Domingo,Dominican Republic,True
+2022-06-11,Montserrat,Bermuda,3,2,CONCACAF Nations League,Santo Domingo,Dominican Republic,True
+2023-03-25,Montserrat,Haiti,0,4,CONCACAF Nations League,Lookout,Montserrat,False
+2023-03-28,Guyana,Montserrat,0,0,CONCACAF Nations League,Bridgetown,Barbados,True
+2023-09-08,Barbados,Montserrat,2,3,CONCACAF Nations League,Bridgetown,Barbados,False
+2023-09-11,Dominican Republic,Montserrat,3,0,CONCACAF Nations League,Santo Domingo,Dominican Republic,False
+2023-10-13,Montserrat,Nicaragua,0,3,CONCACAF Nations League,Bridgetown,Barbados,True
+2023-10-16,Nicaragua,Montserrat,3,0,CONCACAF Nations League,Managua,Nicaragua,False
+2023-11-17,Montserrat,Dominican Republic,2,1,CONCACAF Nations League,Lookout,Montserrat,False
+2023-11-20,Montserrat,Barbados,4,2,CONCACAF Nations League,Lookout,Montserrat,False
+2024-06-05,Nicaragua,Montserrat,4,1,FIFA World Cup qualification,Managua,Nicaragua,False
+2024-06-09,Montserrat,Panama,1,3,FIFA World Cup qualification,Managua,Nicaragua,True
+2024-09-05,Montserrat,El Salvador,1,4,CONCACAF Nations League,Rincon,Bonaire,True
+2024-09-08,Saint Vincent and the Grenadines,Montserrat,2,0,CONCACAF Nations League,Rincon,Bonaire,True
+2024-10-10,Bonaire,Montserrat,0,1,CONCACAF Nations League,Kingstown,Saint Vincent and the Grenadines,True
+2024-10-13,Montserrat,Bonaire,0,1,CONCACAF Nations League,Kingstown,Saint Vincent and the Grenadines,True
+2024-11-14,Montserrat,Saint Vincent and the Grenadines,1,2,CONCACAF Nations League,San Salvador,El Salvador,True
+2024-11-17,El Salvador,Montserrat,1,0,CONCACAF Nations League,San Salvador,El Salvador,False

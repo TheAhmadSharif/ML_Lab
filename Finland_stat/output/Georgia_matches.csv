@@ -1,0 +1,296 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1979-07-22,Georgia,Lithuania,5,0,Friendly,Moscow,Soviet Union,True
+1990-05-27,Georgia,Lithuania,2,2,Friendly,Tbilisi,Soviet Union,False
+1991-07-02,Moldova,Georgia,2,4,Friendly,Chișinău,Moldova,False
+1992-09-02,Lithuania,Georgia,1,0,Friendly,Kaunas,Lithuania,False
+1992-09-17,Georgia,Azerbaijan,6,3,Friendly,Gurjaani,Georgia,False
+1992-12-22,Cyprus,Georgia,1,0,Friendly,Limassol,Cyprus,False
+1993-05-25,Azerbaijan,Georgia,1,0,Friendly,Gəncə,Azerbaijan,False
+1994-02-08,Georgia,Slovenia,0,1,Malta International Tournament,Attard,Malta,True
+1994-02-10,Malta,Georgia,0,1,Malta International Tournament,Attard,Malta,False
+1994-02-12,Georgia,Tunisia,2,0,Malta International Tournament,Attard,Malta,True
+1994-02-23,Israel,Georgia,2,0,Friendly,Ashdod,Israel,False
+1994-06-11,Nigeria,Georgia,5,1,Friendly,Ibadan,Nigeria,False
+1994-06-26,Latvia,Georgia,1,3,Friendly,Riga,Latvia,False
+1994-07-19,Georgia,Malta,1,1,Friendly,Tbilisi,Georgia,False
+1994-09-07,Georgia,Moldova,0,1,UEFA Euro qualification,Tbilisi,Georgia,False
+1994-10-12,Bulgaria,Georgia,2,0,UEFA Euro qualification,Sofia,Bulgaria,False
+1994-11-16,Georgia,Wales,5,0,UEFA Euro qualification,Tbilisi,Georgia,False
+1994-12-14,Albania,Georgia,0,1,UEFA Euro qualification,Tirana,Albania,False
+1995-03-29,Georgia,Germany,0,2,UEFA Euro qualification,Tbilisi,Georgia,False
+1995-04-26,Georgia,Albania,2,0,UEFA Euro qualification,Tbilisi,Georgia,False
+1995-06-07,Wales,Georgia,0,1,UEFA Euro qualification,Cardiff,Wales,False
+1995-09-06,Germany,Georgia,4,1,UEFA Euro qualification,Nuremberg,Germany,False
+1995-10-11,Georgia,Bulgaria,2,1,UEFA Euro qualification,Tbilisi,Georgia,False
+1995-11-15,Moldova,Georgia,3,2,UEFA Euro qualification,Chișinău,Moldova,False
+1996-03-27,Cyprus,Georgia,0,2,Friendly,Limassol,Cyprus,False
+1996-04-24,Romania,Georgia,5,0,Friendly,Bucharest,Romania,False
+1996-05-08,Greece,Georgia,2,1,Friendly,Ioannina,Greece,False
+1996-09-01,Norway,Georgia,1,0,Friendly,Oslo,Norway,False
+1996-10-09,Italy,Georgia,1,0,FIFA World Cup qualification,Perugia,Italy,False
+1996-11-09,Georgia,England,0,2,FIFA World Cup qualification,Tbilisi,Georgia,False
+1996-12-05,Lebanon,Georgia,4,2,Friendly,Beirut,Lebanon,False
+1996-12-08,Lebanon,Georgia,3,2,Friendly,Beirut,Lebanon,False
+1997-03-30,Georgia,Armenia,7,0,Friendly,Tbilisi,Georgia,False
+1997-04-30,England,Georgia,2,0,FIFA World Cup qualification,London,England,False
+1997-06-07,Georgia,Moldova,2,0,FIFA World Cup qualification,Batumi,Georgia,False
+1997-06-14,Poland,Georgia,4,1,FIFA World Cup qualification,Katowice,Poland,False
+1997-09-10,Georgia,Italy,0,0,FIFA World Cup qualification,Tbilisi,Georgia,False
+1997-09-24,Moldova,Georgia,0,1,FIFA World Cup qualification,Chișinău,Moldova,False
+1997-10-11,Georgia,Poland,3,0,FIFA World Cup qualification,Tbilisi,Georgia,False
+1998-02-06,Georgia,Latvia,2,1,Malta International Tournament,Attard,Malta,True
+1998-02-08,Albania,Georgia,0,3,Malta International Tournament,Attard,Malta,True
+1998-02-10,Malta,Georgia,1,3,Malta International Tournament,Attard,Malta,False
+1998-05-02,Tunisia,Georgia,1,1,Friendly,Sousse,Tunisia,False
+1998-05-30,Georgia,Russia,1,1,Friendly,Tbilisi,Georgia,False
+1998-08-12,Azerbaijan,Georgia,1,0,Friendly,Gəncə,Azerbaijan,False
+1998-08-19,Ukraine,Georgia,4,0,Friendly,Kyiv,Ukraine,False
+1998-09-05,Georgia,Albania,1,0,UEFA Euro qualification,Tbilisi,Georgia,False
+1998-10-10,Latvia,Georgia,1,0,UEFA Euro qualification,Riga,Latvia,False
+1998-10-14,Greece,Georgia,3,0,UEFA Euro qualification,Athens,Greece,False
+1998-11-18,Georgia,Estonia,3,1,Friendly,Tbilisi,Georgia,False
+1999-03-20,Georgia,Ukraine,0,1,Friendly,Tbilisi,Georgia,False
+1999-03-27,Georgia,Slovenia,1,1,UEFA Euro qualification,Tbilisi,Georgia,False
+1999-04-28,Georgia,Norway,1,4,UEFA Euro qualification,Tbilisi,Georgia,False
+1999-05-30,Norway,Georgia,1,0,UEFA Euro qualification,Oslo,Norway,False
+1999-06-05,Georgia,Greece,1,2,UEFA Euro qualification,Tbilisi,Georgia,False
+1999-09-04,Slovenia,Georgia,2,1,UEFA Euro qualification,Ljubljana,Slovenia,False
+1999-09-08,Georgia,Latvia,2,2,UEFA Euro qualification,Tbilisi,Georgia,False
+1999-10-09,Albania,Georgia,2,1,UEFA Euro qualification,Tirana,Albania,False
+2000-02-04,Romania,Georgia,1,1,Cyprus International Tournament,Larnaca,Cyprus,True
+2000-02-06,Georgia,Armenia,2,1,Cyprus International Tournament,Limassol,Cyprus,True
+2000-03-29,Israel,Georgia,1,1,Friendly,Ashkelon,Israel,False
+2000-04-26,Armenia,Georgia,0,0,Friendly,Yerevan,Armenia,False
+2000-06-04,Azerbaijan,Georgia,0,0,Friendly,Baku,Azerbaijan,False
+2000-06-11,Estonia,Georgia,1,0,Friendly,Tallinn,Estonia,False
+2000-08-16,Iran,Georgia,2,1,Friendly,Tehran,Iran,False
+2000-10-07,Lithuania,Georgia,0,4,FIFA World Cup qualification,Kaunas,Lithuania,False
+2000-10-11,Italy,Georgia,2,0,FIFA World Cup qualification,Ancona,Italy,False
+2001-02-14,Georgia,Ukraine,0,0,Friendly,Tbilisi,Georgia,False
+2001-03-28,Georgia,Romania,0,2,FIFA World Cup qualification,Tbilisi,Georgia,False
+2001-04-24,Georgia,Israel,3,2,Friendly,Tbilisi,Georgia,False
+2001-05-09,Georgia,Azerbaijan,1,0,Friendly,Kutaisi,Georgia,False
+2001-06-02,Georgia,Italy,1,2,FIFA World Cup qualification,Tbilisi,Georgia,False
+2001-06-06,Hungary,Georgia,4,1,FIFA World Cup qualification,Budapest,Hungary,False
+2001-08-15,Luxembourg,Georgia,0,3,Friendly,Mondercange,Luxembourg,False
+2001-09-01,Georgia,Hungary,3,1,FIFA World Cup qualification,Tbilisi,Georgia,False
+2001-09-05,Georgia,Lithuania,2,0,FIFA World Cup qualification,Tbilisi,Georgia,False
+2001-10-06,Romania,Georgia,1,1,FIFA World Cup qualification,Bucharest,Romania,False
+2002-03-27,Georgia,South Africa,4,1,Friendly,Tbilisi,Georgia,False
+2002-04-17,Ukraine,Georgia,2,1,Friendly,Kyiv,Ukraine,False
+2002-08-21,Turkey,Georgia,3,0,Friendly,Trabzon,Turkey,False
+2002-09-08,Switzerland,Georgia,4,1,UEFA Euro qualification,Basel,Switzerland,False
+2003-02-12,Georgia,Moldova,2,2,Friendly,Tbilisi,Georgia,False
+2003-03-29,Georgia,Republic of Ireland,1,2,UEFA Euro qualification,Tbilisi,Georgia,False
+2003-04-02,Georgia,Switzerland,0,0,UEFA Euro qualification,Tbilisi,Georgia,False
+2003-04-30,Georgia,Russia,1,0,UEFA Euro qualification,Tbilisi,Georgia,False
+2003-06-11,Republic of Ireland,Georgia,2,0,UEFA Euro qualification,Dublin,Republic of Ireland,False
+2003-09-06,Georgia,Albania,3,0,UEFA Euro qualification,Tbilisi,Georgia,False
+2003-09-10,Albania,Georgia,3,1,UEFA Euro qualification,Tirana,Albania,False
+2003-10-11,Russia,Georgia,3,1,UEFA Euro qualification,Moscow,Russia,False
+2004-02-18,Romania,Georgia,3,0,Cyprus International Tournament,Larnaca,Cyprus,True
+2004-02-19,Cyprus,Georgia,3,1,Cyprus International Tournament,Nicosia,Cyprus,False
+2004-02-21,Georgia,Armenia,0,2,Cyprus International Tournament,Nicosia,Cyprus,True
+2004-05-27,Georgia,Israel,0,1,Friendly,Tbilisi,Georgia,False
+2004-08-18,Moldova,Georgia,1,0,Friendly,Tiraspol,Moldova,False
+2004-09-04,Turkey,Georgia,1,1,FIFA World Cup qualification,Trabzon,Turkey,False
+2004-09-08,Georgia,Albania,2,0,FIFA World Cup qualification,Tbilisi,Georgia,False
+2004-10-13,Ukraine,Georgia,2,0,FIFA World Cup qualification,Lviv,Ukraine,False
+2004-11-17,Georgia,Denmark,2,2,FIFA World Cup qualification,Tbilisi,Georgia,False
+2005-02-09,Georgia,Lithuania,1,0,Friendly,Tbilisi,Georgia,False
+2005-03-26,Georgia,Greece,1,3,FIFA World Cup qualification,Tbilisi,Georgia,False
+2005-03-30,Georgia,Turkey,2,5,FIFA World Cup qualification,Tbilisi,Georgia,False
+2005-06-04,Albania,Georgia,3,2,FIFA World Cup qualification,Tirana,Albania,False
+2005-08-17,Kazakhstan,Georgia,1,2,FIFA World Cup qualification,Almaty,Kazakhstan,False
+2005-09-03,Georgia,Ukraine,1,1,FIFA World Cup qualification,Tbilisi,Georgia,False
+2005-09-07,Denmark,Georgia,6,1,FIFA World Cup qualification,Copenhagen,Denmark,False
+2005-10-08,Georgia,Kazakhstan,0,0,FIFA World Cup qualification,Tbilisi,Georgia,False
+2005-10-12,Greece,Georgia,1,0,FIFA World Cup qualification,Piraeus,Greece,False
+2005-11-12,Bulgaria,Georgia,6,2,Friendly,Sofia,Bulgaria,False
+2005-11-16,Georgia,Jordan,3,2,Friendly,Tbilisi,Georgia,False
+2006-03-01,Malta,Georgia,0,2,Malta International Tournament,Attard,Malta,False
+2006-03-22,Albania,Georgia,0,0,Friendly,Tirana,Albania,False
+2006-05-27,Georgia,New Zealand,1,3,Friendly,Altenkirchen,Germany,True
+2006-05-31,Georgia,Paraguay,0,1,Friendly,Dornbirn,Austria,True
+2006-08-16,Faroe Islands,Georgia,0,6,UEFA Euro qualification,Toftir,Faroe Islands,False
+2006-09-02,Georgia,France,0,3,UEFA Euro qualification,Tbilisi,Georgia,False
+2006-09-06,Ukraine,Georgia,3,2,UEFA Euro qualification,Kyiv,Ukraine,False
+2006-10-07,Germany,Georgia,2,0,Friendly,Rostock,Germany,False
+2006-10-11,Georgia,Italy,1,3,UEFA Euro qualification,Tbilisi,Georgia,False
+2006-11-15,Georgia,Uruguay,2,0,Friendly,Tbilisi,Georgia,False
+2007-02-07,Georgia,Turkey,1,0,Friendly,Tbilisi,Georgia,False
+2007-03-24,Scotland,Georgia,2,1,UEFA Euro qualification,Glasgow,Scotland,False
+2007-03-28,Georgia,Faroe Islands,3,1,UEFA Euro qualification,Tbilisi,Georgia,False
+2007-06-02,Lithuania,Georgia,1,0,UEFA Euro qualification,Kaunas,Lithuania,False
+2007-06-06,France,Georgia,1,0,UEFA Euro qualification,Auxerre,France,False
+2007-08-22,Luxembourg,Georgia,0,0,Friendly,Luxembourg,Luxembourg,False
+2007-09-08,Georgia,Ukraine,1,1,UEFA Euro qualification,Tbilisi,Georgia,False
+2007-09-12,Azerbaijan,Georgia,1,1,Friendly,Baku,Azerbaijan,False
+2007-10-13,Italy,Georgia,2,0,UEFA Euro qualification,Genoa,Italy,False
+2007-10-17,Georgia,Scotland,2,0,UEFA Euro qualification,Tbilisi,Georgia,False
+2007-11-16,Qatar,Georgia,1,2,Friendly,Doha,Qatar,False
+2007-11-21,Georgia,Lithuania,0,2,UEFA Euro qualification,Tbilisi,Georgia,False
+2008-02-06,Georgia,Latvia,1,3,Friendly,Tbilisi,Georgia,False
+2008-03-26,Northern Ireland,Georgia,4,1,Friendly,Belfast,Northern Ireland,False
+2008-05-27,Estonia,Georgia,1,1,Friendly,Tallinn,Estonia,False
+2008-05-31,Portugal,Georgia,2,0,Friendly,Viseu,Portugal,False
+2008-08-20,Wales,Georgia,1,2,Friendly,Swansea,Wales,False
+2008-09-06,Georgia,Republic of Ireland,1,2,FIFA World Cup qualification,Mainz,Germany,True
+2008-09-10,Italy,Georgia,2,0,FIFA World Cup qualification,Udine,Italy,False
+2008-10-11,Georgia,Cyprus,1,1,FIFA World Cup qualification,Tbilisi,Georgia,False
+2008-10-15,Georgia,Bulgaria,0,0,FIFA World Cup qualification,Tbilisi,Georgia,False
+2008-11-19,Romania,Georgia,2,1,Friendly,Bucharest,Romania,False
+2009-02-11,Republic of Ireland,Georgia,2,1,FIFA World Cup qualification,Dublin,Republic of Ireland,False
+2009-03-28,Cyprus,Georgia,2,1,FIFA World Cup qualification,Larnaca,Cyprus,False
+2009-04-01,Georgia,Montenegro,0,0,FIFA World Cup qualification,Tbilisi,Georgia,False
+2009-06-06,Georgia,Moldova,1,2,Friendly,Tbilisi,Georgia,False
+2009-06-10,Albania,Georgia,1,1,Friendly,Tirana,Albania,False
+2009-08-12,Malta,Georgia,2,0,Friendly,Attard,Malta,False
+2009-09-05,Georgia,Italy,0,2,FIFA World Cup qualification,Tbilisi,Georgia,False
+2009-09-09,Iceland,Georgia,3,1,Friendly,Reykjavík,Iceland,False
+2009-10-10,Montenegro,Georgia,2,1,FIFA World Cup qualification,Podgorica,Montenegro,False
+2009-10-14,Bulgaria,Georgia,6,2,FIFA World Cup qualification,Sofia,Bulgaria,False
+2010-03-03,Georgia,Estonia,2,1,Friendly,Tbilisi,Georgia,False
+2010-05-25,Georgia,Cameroon,0,0,Friendly,Linz,Austria,True
+2010-08-11,Moldova,Georgia,0,0,Friendly,Chișinău,Moldova,False
+2010-09-03,Greece,Georgia,1,1,UEFA Euro qualification,Piraeus,Greece,False
+2010-09-07,Georgia,Israel,0,0,UEFA Euro qualification,Tbilisi,Georgia,False
+2010-10-08,Georgia,Malta,1,0,UEFA Euro qualification,Tbilisi,Georgia,False
+2010-10-12,Latvia,Georgia,1,1,UEFA Euro qualification,Riga,Latvia,False
+2010-11-17,Slovenia,Georgia,1,2,Friendly,Koper,Slovenia,False
+2011-02-09,Armenia,Georgia,1,2,Friendly,Limassol,Cyprus,True
+2011-03-26,Georgia,Croatia,1,0,UEFA Euro qualification,Tbilisi,Georgia,False
+2011-03-29,Israel,Georgia,1,0,UEFA Euro qualification,Jaffa,Israel,False
+2011-06-03,Croatia,Georgia,2,1,UEFA Euro qualification,Split,Croatia,False
+2011-08-10,Poland,Georgia,1,0,Friendly,Lubin,Poland,False
+2011-09-02,Georgia,Latvia,0,1,UEFA Euro qualification,Tbilisi,Georgia,False
+2011-09-06,Malta,Georgia,1,1,UEFA Euro qualification,Attard,Malta,False
+2011-10-11,Georgia,Greece,1,2,UEFA Euro qualification,Tbilisi,Georgia,False
+2011-11-11,Georgia,Moldova,2,0,Friendly,Tbilisi,Georgia,False
+2012-02-29,Georgia,Albania,2,1,Friendly,Tbilisi,Georgia,False
+2012-05-24,Georgia,Turkey,1,3,Friendly,Salzburg,Austria,True
+2012-08-15,Luxembourg,Georgia,1,2,Friendly,Differdange,Luxembourg,False
+2012-09-07,Georgia,Belarus,1,0,FIFA World Cup qualification,Tbilisi,Georgia,False
+2012-09-11,Georgia,Spain,0,1,FIFA World Cup qualification,Tbilisi,Georgia,False
+2012-10-12,Finland,Georgia,1,1,FIFA World Cup qualification,Helsinki,Finland,False
+2012-10-16,Belarus,Georgia,2,0,FIFA World Cup qualification,Minsk,Belarus,False
+2012-11-14,Georgia,Egypt,0,0,Friendly,Tbilisi,Georgia,False
+2013-02-06,Albania,Georgia,1,2,Friendly,Tirana,Albania,False
+2013-03-22,France,Georgia,3,1,FIFA World Cup qualification,Saint-Denis,France,False
+2013-06-02,Republic of Ireland,Georgia,4,0,Friendly,Dublin,Republic of Ireland,False
+2013-06-05,Denmark,Georgia,2,1,Friendly,Aalborg,Denmark,False
+2013-08-14,Kazakhstan,Georgia,1,0,Friendly,Astana,Kazakhstan,False
+2013-09-06,Georgia,France,0,0,FIFA World Cup qualification,Tbilisi,Georgia,False
+2013-09-10,Georgia,Finland,0,1,FIFA World Cup qualification,Tbilisi,Georgia,False
+2013-10-15,Spain,Georgia,2,0,FIFA World Cup qualification,Albacete,Spain,False
+2014-03-05,Georgia,Liechtenstein,2,0,Friendly,Tbilisi,Georgia,False
+2014-05-29,Georgia,Saudi Arabia,2,0,Friendly,Jerez de la Frontera,Spain,True
+2014-06-03,Georgia,United Arab Emirates,0,1,Friendly,Meyrin,Switzerland,True
+2014-09-07,Georgia,Republic of Ireland,1,2,UEFA Euro qualification,Tbilisi,Georgia,False
+2014-10-11,Scotland,Georgia,1,0,UEFA Euro qualification,Glasgow,Scotland,False
+2014-10-14,Gibraltar,Georgia,0,3,UEFA Euro qualification,Faro,Portugal,True
+2014-11-14,Georgia,Poland,0,4,UEFA Euro qualification,Tbilisi,Georgia,False
+2015-03-25,Georgia,Malta,2,0,Friendly,Tbilisi,Georgia,False
+2015-03-29,Georgia,Germany,0,2,UEFA Euro qualification,Tbilisi,Georgia,False
+2015-06-09,Georgia,Ukraine,1,2,Friendly,Linz,Austria,True
+2015-06-13,Poland,Georgia,4,0,UEFA Euro qualification,Warsaw,Poland,False
+2015-09-04,Georgia,Scotland,1,0,UEFA Euro qualification,Tbilisi,Georgia,False
+2015-09-07,Republic of Ireland,Georgia,1,0,UEFA Euro qualification,Dublin,Republic of Ireland,False
+2015-10-08,Georgia,Gibraltar,4,0,UEFA Euro qualification,Tbilisi,Georgia,False
+2015-10-11,Germany,Georgia,2,1,UEFA Euro qualification,Leipzig,Germany,False
+2015-11-11,Estonia,Georgia,3,0,Friendly,Tallinn,Estonia,False
+2015-11-16,Albania,Georgia,2,2,Friendly,Tirana,Albania,False
+2016-03-29,Georgia,Kazakhstan,1,1,Friendly,Tbilisi,Georgia,False
+2016-05-27,Slovakia,Georgia,3,1,Friendly,Wels,Austria,True
+2016-06-03,Romania,Georgia,5,1,Friendly,Bucharest,Romania,False
+2016-06-07,Spain,Georgia,0,1,Friendly,Getafe,Spain,False
+2016-09-05,Georgia,Austria,1,2,FIFA World Cup qualification,Tbilisi,Georgia,False
+2016-10-06,Republic of Ireland,Georgia,1,0,FIFA World Cup qualification,Dublin,Republic of Ireland,False
+2016-10-09,Wales,Georgia,1,1,FIFA World Cup qualification,Cardiff,Wales,False
+2016-11-12,Georgia,Moldova,1,1,FIFA World Cup qualification,Tbilisi,Georgia,False
+2017-01-23,Uzbekistan,Georgia,2,2,Friendly,Dubai,United Arab Emirates,True
+2017-01-25,Jordan,Georgia,1,0,Friendly,Dubai,United Arab Emirates,True
+2017-03-24,Georgia,Serbia,1,3,FIFA World Cup qualification,Tbilisi,Georgia,False
+2017-03-28,Georgia,Latvia,5,0,Friendly,Tbilisi,Georgia,False
+2017-06-07,Georgia,Saint Kitts and Nevis,3,0,Friendly,Tbilisi,Georgia,False
+2017-06-11,Moldova,Georgia,2,2,FIFA World Cup qualification,Chișinău,Moldova,False
+2017-09-02,Georgia,Republic of Ireland,1,1,FIFA World Cup qualification,Tbilisi,Georgia,False
+2017-09-05,Austria,Georgia,1,1,FIFA World Cup qualification,Vienna,Austria,False
+2017-10-06,Georgia,Wales,0,1,FIFA World Cup qualification,Tbilisi,Georgia,False
+2017-10-09,Serbia,Georgia,1,0,FIFA World Cup qualification,Belgrade,Serbia,False
+2017-11-10,Georgia,Cyprus,1,0,Friendly,Gori,Georgia,False
+2017-11-13,Georgia,Belarus,2,2,Friendly,Kutaisi,Georgia,False
+2018-03-24,Georgia,Lithuania,4,0,Friendly,Tbilisi,Georgia,False
+2018-03-27,Georgia,Estonia,2,0,Friendly,Tbilisi,Georgia,False
+2018-06-01,Malta,Georgia,0,1,Friendly,Schwaz,Austria,True
+2018-06-05,Luxembourg,Georgia,1,0,Friendly,Luxembourg,Luxembourg,False
+2018-09-06,Kazakhstan,Georgia,0,2,UEFA Nations League,Astana,Kazakhstan,False
+2018-09-09,Georgia,Latvia,1,0,UEFA Nations League,Tbilisi,Georgia,False
+2018-10-13,Georgia,Andorra,3,0,UEFA Nations League,Tbilisi,Georgia,False
+2018-10-16,Latvia,Georgia,0,3,UEFA Nations League,Riga,Latvia,False
+2018-11-15,Andorra,Georgia,1,1,UEFA Nations League,Andorra la Vella,Andorra,False
+2018-11-19,Georgia,Kazakhstan,2,1,UEFA Nations League,Tbilisi,Georgia,False
+2019-03-23,Georgia,Switzerland,0,2,UEFA Euro qualification,Tbilisi,Georgia,False
+2019-03-26,Republic of Ireland,Georgia,1,0,UEFA Euro qualification,Dublin,Republic of Ireland,False
+2019-06-07,Georgia,Gibraltar,3,0,UEFA Euro qualification,Tbilisi,Georgia,False
+2019-06-10,Denmark,Georgia,5,1,UEFA Euro qualification,Copenhagen,Denmark,False
+2019-09-05,South Korea,Georgia,2,2,Friendly,Istanbul,Turkey,True
+2019-09-08,Georgia,Denmark,0,0,UEFA Euro qualification,Tbilisi,Georgia,False
+2019-10-12,Georgia,Republic of Ireland,0,0,UEFA Euro qualification,Tbilisi,Georgia,False
+2019-10-15,Gibraltar,Georgia,2,3,UEFA Euro qualification,Gibraltar,Gibraltar,False
+2019-11-15,Switzerland,Georgia,1,0,UEFA Euro qualification,St. Gallen,Switzerland,False
+2019-11-19,Croatia,Georgia,2,1,Friendly,Pula,Croatia,False
+2020-09-05,Estonia,Georgia,0,1,UEFA Nations League,Tallinn,Estonia,False
+2020-09-08,Georgia,North Macedonia,1,1,UEFA Nations League,Tbilisi,Georgia,False
+2020-10-08,Georgia,Belarus,1,0,UEFA Euro qualification,Tbilisi,Georgia,False
+2020-10-11,Armenia,Georgia,2,2,UEFA Nations League,Tychy,Poland,True
+2020-10-14,North Macedonia,Georgia,1,1,UEFA Nations League,Skopje,North Macedonia,False
+2020-11-12,Georgia,North Macedonia,0,1,UEFA Euro qualification,Tbilisi,Georgia,False
+2020-11-15,Georgia,Armenia,1,2,UEFA Nations League,Tbilisi,Georgia,False
+2020-11-18,Georgia,Estonia,0,0,UEFA Nations League,Tbilisi,Georgia,False
+2021-03-25,Sweden,Georgia,1,0,FIFA World Cup qualification,Stockholm,Sweden,False
+2021-03-28,Georgia,Spain,1,2,FIFA World Cup qualification,Tbilisi,Georgia,False
+2021-03-31,Greece,Georgia,1,1,FIFA World Cup qualification,Thessaloniki,Greece,False
+2021-06-02,Romania,Georgia,1,2,Friendly,Ploiești,Romania,False
+2021-06-06,Netherlands,Georgia,3,0,Friendly,Enschede,Netherlands,False
+2021-09-02,Georgia,Kosovo,0,1,FIFA World Cup qualification,Batumi,Georgia,False
+2021-09-05,Spain,Georgia,4,0,FIFA World Cup qualification,Badajoz,Spain,False
+2021-09-08,Bulgaria,Georgia,4,1,Friendly,Sofia,Bulgaria,False
+2021-10-09,Georgia,Greece,0,2,FIFA World Cup qualification,Batumi,Georgia,False
+2021-10-12,Kosovo,Georgia,1,2,FIFA World Cup qualification,Pristina,Kosovo,False
+2021-11-11,Georgia,Sweden,2,0,FIFA World Cup qualification,Batumi,Georgia,False
+2021-11-15,Georgia,Uzbekistan,1,0,Friendly,Gori,Georgia,False
+2022-03-25,Bosnia and Herzegovina,Georgia,0,1,Friendly,Zenica,Bosnia and Herzegovina,False
+2022-03-29,Albania,Georgia,0,0,Friendly,Tirana,Albania,False
+2022-06-02,Georgia,Gibraltar,4,0,UEFA Nations League,Tbilisi,Georgia,False
+2022-06-05,Bulgaria,Georgia,2,5,UEFA Nations League,Razgrad,Bulgaria,False
+2022-06-09,North Macedonia,Georgia,0,3,UEFA Nations League,Skopje,North Macedonia,False
+2022-06-12,Georgia,Bulgaria,0,0,UEFA Nations League,Tbilisi,Georgia,False
+2022-09-23,Georgia,North Macedonia,2,0,UEFA Nations League,Tbilisi,Georgia,False
+2022-09-26,Gibraltar,Georgia,1,2,UEFA Nations League,Gibraltar,Gibraltar,False
+2022-11-17,Morocco,Georgia,3,0,Friendly,Sharjah,United Arab Emirates,True
+2023-03-25,Georgia,Mongolia,6,1,Friendly,Batumi,Georgia,False
+2023-03-28,Georgia,Norway,1,1,UEFA Euro qualification,Batumi,Georgia,False
+2023-06-17,Cyprus,Georgia,1,2,UEFA Euro qualification,Larnaca,Cyprus,False
+2023-06-20,Scotland,Georgia,2,0,UEFA Euro qualification,Glasgow,Scotland,False
+2023-09-08,Georgia,Spain,1,7,UEFA Euro qualification,Tbilisi,Georgia,False
+2023-09-12,Norway,Georgia,2,1,UEFA Euro qualification,Oslo,Norway,False
+2023-10-12,Georgia,Thailand,8,0,Friendly,Tbilisi,Georgia,False
+2023-10-15,Georgia,Cyprus,4,0,UEFA Euro qualification,Tbilisi,Georgia,False
+2023-11-16,Georgia,Scotland,2,2,UEFA Euro qualification,Tbilisi,Georgia,False
+2023-11-19,Spain,Georgia,3,1,UEFA Euro qualification,Valladolid,Spain,False
+2024-03-21,Georgia,Luxembourg,2,0,UEFA Euro qualification,Tbilisi,Georgia,False
+2024-03-26,Georgia,Greece,0,0,UEFA Euro qualification,Tbilisi,Georgia,False
+2024-06-09,Montenegro,Georgia,1,3,Friendly,Podgorica,Montenegro,False
+2024-06-18,Turkey,Georgia,3,1,UEFA Euro,Dortmund,Germany,True
+2024-06-22,Georgia,Czech Republic,1,1,UEFA Euro,Hamburg,Germany,True
+2024-06-26,Georgia,Portugal,2,0,UEFA Euro,Gelsenkirchen,Germany,True
+2024-06-30,Spain,Georgia,4,1,UEFA Euro,Cologne,Germany,True
+2024-09-07,Georgia,Czech Republic,4,1,UEFA Nations League,Tbilisi,Georgia,False
+2024-09-10,Albania,Georgia,0,1,UEFA Nations League,Tirana,Albania,False
+2024-10-11,Ukraine,Georgia,1,0,UEFA Nations League,Poznań,Poland,True
+2024-10-14,Georgia,Albania,0,1,UEFA Nations League,Tbilisi,Georgia,False
+2024-11-16,Georgia,Ukraine,1,1,UEFA Nations League,Batumi,Georgia,False
+2024-11-19,Czech Republic,Georgia,2,1,UEFA Nations League,Olomouc,Czech Republic,False
+2025-03-20,Armenia,Georgia,0,3,UEFA Nations League,Yerevan,Armenia,False
+2025-03-23,Georgia,Armenia,6,1,UEFA Nations League,Tbilisi,Georgia,False

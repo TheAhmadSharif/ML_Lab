@@ -1,0 +1,189 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1964-08-10,Iceland,Bermuda,4,3,Friendly,Reykjavík,Iceland,False
+1965-12-28,Bermuda,Jamaica,0,3,Friendly,Hamilton,Bermuda,False
+1968-10-06,Canada,Bermuda,4,0,FIFA World Cup qualification,Toronto,Canada,False
+1968-10-20,Bermuda,Canada,0,0,FIFA World Cup qualification,Hamilton,Bermuda,False
+1968-11-02,United States,Bermuda,6,2,FIFA World Cup qualification,Kansas City,United States,False
+1968-11-11,Bermuda,United States,0,2,FIFA World Cup qualification,Hamilton,Bermuda,False
+1969-01-12,Bermuda,Denmark,1,5,Friendly,Hamilton,Bermuda,False
+1969-06-23,Iceland,Bermuda,2,1,Friendly,Reykjavík,Iceland,False
+1969-07-01,Denmark,Bermuda,6,0,Friendly,Aalborg,Denmark,False
+1969-07-03,Norway,Bermuda,3,0,Friendly,Stavanger,Norway,False
+1969-10-21,Mexico,Bermuda,3,0,CONCACAF Championship qualification,Mexico City,Mexico,False
+1969-11-02,Bermuda,Mexico,2,1,CONCACAF Championship qualification,Hamilton,Bermuda,False
+1969-11-11,Bermuda,Iceland,3,2,Friendly,Hamilton,Bermuda,False
+1970-04-14,Haiti,Bermuda,1,1,Friendly,Port-au-Prince,Haiti,False
+1971-10-06,Bermuda,Mexico,0,2,CONCACAF Championship qualification,Hamilton,Bermuda,False
+1971-10-06,Mexico,Bermuda,4,0,CONCACAF Championship qualification,Mexico City,Mexico,False
+1972-12-24,Bermuda,Jamaica,0,0,Friendly,Hamilton,Bermuda,False
+1972-12-27,Bermuda,Jamaica,0,3,Friendly,Hamilton,Bermuda,False
+1973-03-17,Bermuda,United States,4,0,Friendly,Hamilton,Bermuda,False
+1973-09-09,United States,Bermuda,1,0,Friendly,Hartford,United States,False
+1974-04-12,Bermuda,Canada,0,0,Friendly,Hamilton,Bermuda,False
+1974-12-26,Bermuda,Suriname,2,1,Friendly,Hamilton,Bermuda,False
+1974-12-29,Bermuda,Suriname,1,3,Friendly,Hamilton,Bermuda,False
+1975-01-03,Bermuda,Suriname,2,5,Friendly,Hamilton,Bermuda,False
+1975-12-26,Bermuda,Suriname,1,5,Friendly,Hamilton,Bermuda,False
+1979-10-07,Bermuda,United States,1,3,Friendly,Hamilton,Bermuda,False
+1979-11-26,Bermuda,Finland,0,2,Friendly,Hamilton,Bermuda,False
+1982-05-08,Trinidad and Tobago,Bermuda,2,2,Friendly,Arima,Trinidad and Tobago,False
+1982-05-12,Trinidad and Tobago,Bermuda,4,2,Friendly,Port of Spain,Trinidad and Tobago,False
+1982-05-15,Barbados,Bermuda,2,1,Friendly,Bridgetown,Barbados,False
+1982-05-17,Barbados,Bermuda,0,0,Friendly,Bridgetown,Barbados,False
+1982-12-26,Bermuda,Trinidad and Tobago,2,2,Friendly,Hamilton,Bermuda,False
+1982-12-30,Bermuda,Trinidad and Tobago,2,2,Friendly,Hamilton,Bermuda,False
+1988-02-18,Bermuda,Canada,0,0,Friendly,Hamilton,Bermuda,False
+1989-04-12,Barbados,Bermuda,1,2,Friendly,Bridgetown,Barbados,False
+1989-04-14,Barbados,Bermuda,2,1,Friendly,Bridgetown,Barbados,False
+1989-04-16,Trinidad and Tobago,Bermuda,1,1,Friendly,Port of Spain,Trinidad and Tobago,False
+1989-04-18,Trinidad and Tobago,Bermuda,0,1,Friendly,Arima,Trinidad and Tobago,False
+1989-11-14,United States,Bermuda,2,1,Friendly,Cocoa Beach,United States,False
+1990-02-13,Bermuda,United States,0,1,Friendly,Hamilton,Bermuda,False
+1990-04-03,Bermuda,Iceland,0,4,Friendly,Hamilton,Bermuda,False
+1990-04-14,Bermuda,Antigua and Barbuda,2,2,CFU Caribbean Cup qualification,Hamilton,Bermuda,False
+1990-04-16,Bermuda,Antigua and Barbuda,3,0,Friendly,Hamilton,Bermuda,False
+1990-05-13,Saint Lucia,Bermuda,0,2,CFU Caribbean Cup qualification,Castries,Saint Lucia,False
+1990-05-26,Bermuda,Barbados,1,1,CFU Caribbean Cup qualification,Hamilton,Bermuda,False
+1990-05-29,Bermuda,Barbados,3,0,Friendly,Hamilton,Bermuda,False
+1991-02-21,Bermuda,United States,1,0,Friendly,Hamilton,Bermuda,False
+1991-09-12,Bermuda,Jamaica,1,1,Friendly,Hamilton,Bermuda,False
+1992-02-04,Bermuda,Norway,1,3,Friendly,Hamilton,Bermuda,False
+1992-04-12,Jamaica,Bermuda,0,0,Friendly,Kingston,Jamaica,False
+1992-04-26,Bermuda,Haiti,1,0,FIFA World Cup qualification,Hamilton,Bermuda,False
+1992-05-25,Haiti,Bermuda,2,1,FIFA World Cup qualification,Port-au-Prince,Haiti,False
+1992-06-14,Antigua and Barbuda,Bermuda,0,3,FIFA World Cup qualification,St. John's,Antigua and Barbuda,False
+1992-07-04,Bermuda,Antigua and Barbuda,2,1,FIFA World Cup qualification,Hamilton,Bermuda,False
+1992-10-18,Bermuda,El Salvador,1,0,FIFA World Cup qualification,Hamilton,Bermuda,False
+1992-10-25,Bermuda,Jamaica,1,1,FIFA World Cup qualification,Hamilton,Bermuda,False
+1992-11-01,El Salvador,Bermuda,4,1,FIFA World Cup qualification,San Salvador,El Salvador,False
+1992-11-08,Jamaica,Bermuda,3,2,FIFA World Cup qualification,Kingston,Jamaica,False
+1992-11-15,Canada,Bermuda,4,2,FIFA World Cup qualification,Burnaby,Canada,False
+1992-12-06,Bermuda,Canada,0,0,FIFA World Cup qualification,Hamilton,Bermuda,False
+1997-02-21,Jamaica,Bermuda,1,0,CFU Caribbean Cup qualification,Kingston,Jamaica,False
+1997-02-23,Jamaica,Bermuda,3,2,CFU Caribbean Cup qualification,Kingston,Jamaica,False
+1997-04-28,Bermuda,Saint Martin,2,1,Friendly,Hamilton,Bermuda,False
+1998-05-08,Cuba,Bermuda,2,1,CFU Caribbean Cup qualification,George Town,Cayman Islands,True
+1998-05-10,Cayman Islands,Bermuda,2,0,CFU Caribbean Cup qualification,George Town,Cayman Islands,False
+1999-01-12,Bermuda,Antigua and Barbuda,1,0,Friendly,Hamilton,Bermuda,False
+1999-01-14,Bermuda,Antigua and Barbuda,0,1,Friendly,Hamilton,Bermuda,False
+1999-05-05,Bermuda,Bahamas,6,0,CFU Caribbean Cup qualification,Hamilton,Bermuda,False
+1999-05-07,Bermuda,Cayman Islands,4,1,CFU Caribbean Cup qualification,Hamilton,Bermuda,False
+1999-05-09,Bermuda,Cuba,1,2,CFU Caribbean Cup qualification,Hamilton,Bermuda,False
+1999-09-09,Bermuda,Cayman Islands,3,1,Friendly,Hamilton,Bermuda,False
+1999-09-11,Bermuda,Cayman Islands,1,0,Friendly,Hamilton,Bermuda,False
+2000-01-11,Bermuda,Canada,0,2,Friendly,Hamilton,Bermuda,False
+2000-03-05,British Virgin Islands,Bermuda,1,5,FIFA World Cup qualification,Road Town,British Virgin Islands,False
+2000-03-19,Bermuda,British Virgin Islands,9,0,FIFA World Cup qualification,Hamilton,Bermuda,False
+2000-04-16,Antigua and Barbuda,Bermuda,0,0,FIFA World Cup qualification,St. John's,Antigua and Barbuda,False
+2000-04-23,Bermuda,Antigua and Barbuda,1,1,FIFA World Cup qualification,Hamilton,Bermuda,False
+2001-06-23,Bermuda,Trinidad and Tobago,0,5,Friendly,Hamilton,Bermuda,False
+2003-12-26,Bermuda,Barbados,1,2,Friendly,Hamilton,Bermuda,False
+2004-01-01,Bermuda,Barbados,0,4,Friendly,Hamilton,Bermuda,False
+2004-02-10,Bermuda,Trinidad and Tobago,0,1,Friendly,Hamilton,Bermuda,False
+2004-02-12,Bermuda,Trinidad and Tobago,2,2,Friendly,Hamilton,Bermuda,False
+2004-02-29,Bermuda,Montserrat,13,0,FIFA World Cup qualification,Hamilton,Bermuda,False
+2004-03-21,Montserrat,Bermuda,0,7,FIFA World Cup qualification,Lookout,Montserrat,False
+2004-03-31,Bermuda,Nicaragua,3,0,Friendly,Hamilton,Bermuda,False
+2004-04-02,Bermuda,Nicaragua,2,1,Friendly,Hamilton,Bermuda,False
+2004-04-28,Panama,Bermuda,4,1,Friendly,Panama City,Panama,False
+2004-04-30,Nicaragua,Bermuda,2,0,Friendly,Diriamba,Nicaragua,False
+2004-05-02,Nicaragua,Bermuda,2,0,Friendly,Estelí,Nicaragua,False
+2004-06-13,El Salvador,Bermuda,2,1,FIFA World Cup qualification,San Salvador,El Salvador,False
+2004-06-20,Bermuda,El Salvador,2,2,FIFA World Cup qualification,Hamilton,Bermuda,False
+2004-11-24,Cayman Islands,Bermuda,1,2,CFU Caribbean Cup qualification,Kingstown,Saint Vincent and the Grenadines,True
+2004-11-28,Bermuda,British Virgin Islands,0,2,CFU Caribbean Cup qualification,Kingstown,Saint Vincent and the Grenadines,True
+2005-05-25,Trinidad and Tobago,Bermuda,4,0,Friendly,Port of Spain,Trinidad and Tobago,False
+2005-05-27,Trinidad and Tobago,Bermuda,1,0,Friendly,San Fernando,Trinidad and Tobago,False
+2006-09-27,United States Virgin Islands,Bermuda,0,6,CFU Caribbean Cup qualification,Charlotte Amalie,United States Virgin Islands,False
+2006-09-29,Bermuda,Dominican Republic,3,1,CFU Caribbean Cup qualification,Charlotte Amalie,United States Virgin Islands,True
+2006-11-21,Bahamas,Bermuda,0,4,CFU Caribbean Cup qualification,Bridgetown,Barbados,True
+2006-11-23,Barbados,Bermuda,1,1,CFU Caribbean Cup qualification,Bridgetown,Barbados,False
+2007-01-07,Haiti,Bermuda,2,0,CFU Caribbean Cup qualification,Couva,Trinidad and Tobago,True
+2007-01-09,Bermuda,Haiti,0,3,CFU Caribbean Cup qualification,Couva,Trinidad and Tobago,True
+2007-03-25,Bermuda,Canada,0,3,Friendly,Hamilton,Bermuda,False
+2007-06-30,Bermuda,Ynys Môn,1,2,Island Games,Rhodes,Greece,True
+2007-07-01,Åland Islands,Bermuda,0,2,Island Games,Rhodes,Greece,True
+2007-07-04,Gibraltar,Bermuda,2,0,Island Games,Rhodes,Greece,True
+2007-07-05,Bermuda,Western Isles,0,1,Island Games,Rhodes,Greece,True
+2007-12-14,Bermuda,Saint Kitts and Nevis,1,2,Friendly,Hamilton,Bermuda,False
+2007-12-16,Bermuda,Saint Kitts and Nevis,4,2,Friendly,Hamilton,Bermuda,False
+2008-01-16,Bermuda,Puerto Rico,0,2,Friendly,Hamilton,Bermuda,False
+2008-01-18,Bermuda,Puerto Rico,0,1,Friendly,Hamilton,Bermuda,False
+2008-02-03,Bermuda,Cayman Islands,1,1,FIFA World Cup qualification,Hamilton,Bermuda,False
+2008-03-30,Cayman Islands,Bermuda,1,3,FIFA World Cup qualification,George Town,Cayman Islands,False
+2008-06-06,Bermuda,Barbados,2,1,Friendly,Hamilton,Bermuda,False
+2008-06-09,Bermuda,Barbados,3,0,Friendly,Hamilton,Bermuda,False
+2008-06-15,Trinidad and Tobago,Bermuda,1,2,FIFA World Cup qualification,Macoya,Trinidad and Tobago,False
+2008-06-22,Bermuda,Trinidad and Tobago,0,2,FIFA World Cup qualification,Hamilton,Bermuda,False
+2008-08-27,Bermuda,Antigua and Barbuda,0,4,CFU Caribbean Cup qualification,George Town,Cayman Islands,True
+2008-08-30,Saint Martin,Bermuda,0,7,CFU Caribbean Cup qualification,George Town,Cayman Islands,True
+2008-08-31,Cayman Islands,Bermuda,0,0,CFU Caribbean Cup qualification,George Town,Cayman Islands,False
+2011-09-02,Trinidad and Tobago,Bermuda,1,0,FIFA World Cup qualification,Port of Spain,Trinidad and Tobago,False
+2011-09-06,Guyana,Bermuda,2,1,FIFA World Cup qualification,Georgetown,Guyana,False
+2011-10-07,Bermuda,Trinidad and Tobago,2,1,FIFA World Cup qualification,Hamilton,Bermuda,False
+2011-10-11,Bermuda,Guyana,1,1,FIFA World Cup qualification,Hamilton,Bermuda,False
+2011-11-11,Bermuda,Barbados,2,1,FIFA World Cup qualification,Hamilton,Bermuda,False
+2011-11-14,Bermuda,Barbados,2,1,FIFA World Cup qualification,Hamilton,Bermuda,False
+2012-09-07,Bermuda,Puerto Rico,1,2,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,True
+2012-09-09,Haiti,Bermuda,3,1,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,False
+2012-09-11,Saint Martin,Bermuda,0,8,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,True
+2013-07-14,Bermuda,Greenland,3,0,Island Games,Hamilton,Bermuda,False
+2013-07-15,Bermuda,Falkland Islands,8,0,Island Games,Hamilton,Bermuda,False
+2013-07-17,Bermuda,Frøya,8,0,Island Games,Hamilton,Bermuda,False
+2013-07-18,Bermuda,Greenland,1,0,Island Games,Hamilton,Bermuda,False
+2015-03-08,Bermuda,Grenada,2,0,Friendly,Hamilton,Bermuda,False
+2015-03-25,Bahamas,Bermuda,0,5,FIFA World Cup qualification,Nassau,Bahamas,False
+2015-03-29,Bermuda,Bahamas,3,0,FIFA World Cup qualification,Hamilton,Bermuda,False
+2015-06-12,Guatemala,Bermuda,0,0,FIFA World Cup qualification,Guatemala City,Guatemala,False
+2015-06-15,Bermuda,Guatemala,0,1,FIFA World Cup qualification,Devonshire Parish,Bermuda,False
+2016-03-22,Cuba,Bermuda,2,1,CFU Caribbean Cup qualification,Havana,Cuba,False
+2016-03-26,Bermuda,French Guiana,2,1,CFU Caribbean Cup qualification,Hamilton,Bermuda,False
+2016-06-19,French Guiana,Bermuda,3,0,CFU Caribbean Cup qualification,Cayenne,French Guiana,False
+2017-01-22,Bermuda,Canada,2,4,Friendly,Hamilton,Bermuda,False
+2017-06-10,Grenada,Bermuda,1,2,Friendly,St. George's,Grenada,False
+2017-10-28,Bermuda,Barbados,2,3,Friendly,Hamilton,Bermuda,False
+2018-03-21,Antigua and Barbuda,Bermuda,3,2,Friendly,St. John's,Antigua and Barbuda,False
+2018-03-25,Barbados,Bermuda,0,0,Friendly,Bridgetown,Barbados,False
+2018-09-09,Aruba,Bermuda,3,1,CONCACAF Nations League qualification,Willemstad,Curaçao,True
+2018-10-12,Bermuda,Sint Maarten,12,0,CONCACAF Nations League qualification,Hamilton,Bermuda,False
+2018-11-16,Bermuda,El Salvador,1,0,CONCACAF Nations League qualification,Hamilton,Bermuda,False
+2019-02-27,Cuba,Bermuda,5,0,Friendly,Havana,Cuba,False
+2019-03-24,Dominican Republic,Bermuda,1,3,CONCACAF Nations League qualification,Santiago de los Caballeros,Dominican Republic,False
+2019-06-06,Bermuda,Guyana,1,0,Friendly,Hamilton,Bermuda,False
+2019-06-16,Haiti,Bermuda,2,1,Gold Cup,San José,Jamaica,True
+2019-06-20,Costa Rica,Bermuda,2,1,Gold Cup,Frisco,United States,True
+2019-06-24,Bermuda,Nicaragua,2,0,Gold Cup,New Jersey,United States,True
+2019-09-05,Bermuda,Panama,1,4,CONCACAF Nations League,Hamilton,Bermuda,False
+2019-09-08,Panama,Bermuda,0,2,CONCACAF Nations League,Panama City,Panama,False
+2019-10-11,Bermuda,Mexico,1,5,CONCACAF Nations League,Hamilton,Bermuda,False
+2019-10-15,Bermuda,Guatemala,0,0,Friendly,Hamilton,Bermuda,False
+2019-11-19,Mexico,Bermuda,2,1,CONCACAF Nations League,Mexico City,Mexico,False
+2021-03-25,Canada,Bermuda,5,1,FIFA World Cup qualification,Orlando,United States,True
+2021-03-30,Bermuda,Aruba,5,0,FIFA World Cup qualification,Bradenton,United States,True
+2021-06-04,Suriname,Bermuda,6,0,FIFA World Cup qualification,Paramaribo,Suriname,False
+2021-06-08,Bermuda,Cayman Islands,1,1,FIFA World Cup qualification,Bradenton,United States,True
+2021-07-02,Bermuda,Barbados,8,1,Gold Cup qualification,Fort Lauderdale,United States,True
+2021-07-06,Haiti,Bermuda,4,1,Gold Cup qualification,Fort Lauderdale,United States,True
+2022-06-04,Bermuda,Haiti,0,0,CONCACAF Nations League,Devonshire Parish,Bermuda,False
+2022-06-07,Guyana,Bermuda,2,1,CONCACAF Nations League,Leonora,Guyana,False
+2022-06-11,Montserrat,Bermuda,3,2,CONCACAF Nations League,Santo Domingo,Dominican Republic,True
+2023-03-25,Bermuda,Guyana,0,2,CONCACAF Nations League,Devonshire Parish,Bermuda,False
+2023-03-28,Haiti,Bermuda,3,1,CONCACAF Nations League,San Cristóbal,Dominican Republic,True
+2023-09-08,Bermuda,French Guiana,0,0,CONCACAF Nations League,Devonshire Parish,Bermuda,False
+2023-09-12,Saint Vincent and the Grenadines,Bermuda,4,3,CONCACAF Nations League,Kingstown,Saint Vincent and the Grenadines,False
+2023-10-13,Belize,Bermuda,0,1,CONCACAF Nations League,Belmopan,Belize,False
+2023-10-17,Bermuda,Belize,1,1,CONCACAF Nations League,Devonshire Parish,Bermuda,False
+2023-11-17,Bermuda,Saint Vincent and the Grenadines,3,1,CONCACAF Nations League,Devonshire Parish,Bermuda,False
+2023-11-21,French Guiana,Bermuda,3,0,CONCACAF Nations League,Fort-de-France,Martinique,True
+2024-03-22,Brunei,Bermuda,0,2,FIFA Series,Jeddah,Saudi Arabia,True
+2024-03-25,Bermuda,Guinea,1,5,FIFA Series,Jeddah,Saudi Arabia,True
+2024-06-05,Antigua and Barbuda,Bermuda,1,1,FIFA World Cup qualification,Piggotts,Antigua and Barbuda,False
+2024-06-09,Bermuda,Honduras,1,6,FIFA World Cup qualification,Hamilton,Bermuda,False
+2024-09-07,Bermuda,Dominican Republic,2,3,CONCACAF Nations League,Piggotts,Antigua and Barbuda,True
+2024-09-10,Antigua and Barbuda,Bermuda,0,1,CONCACAF Nations League,Piggotts,Antigua and Barbuda,False
+2024-10-12,Bermuda,Dominica,6,1,CONCACAF Nations League,Hamilton,Bermuda,False
+2024-10-15,Bermuda,Dominica,3,2,CONCACAF Nations League,Hamilton,Bermuda,False
+2024-11-16,Bermuda,Antigua and Barbuda,2,1,CONCACAF Nations League,Santiago de los Caballeros,Dominican Republic,True
+2024-11-19,Dominican Republic,Bermuda,6,1,CONCACAF Nations League,Santiago de los Caballeros,Dominican Republic,False
+2025-03-21,Bermuda,Honduras,3,5,Gold Cup qualification,Hamilton,Bermuda,False
+2025-03-25,Honduras,Bermuda,2,0,Gold Cup qualification,Tegucigalpa,Honduras,False

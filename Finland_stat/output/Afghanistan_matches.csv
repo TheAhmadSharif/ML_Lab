@@ -1,0 +1,142 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1941-08-10,Afghanistan,India,1,3,Friendly,Kabul,Afghanistan,False
+1950-10-26,Iran,Afghanistan,4,0,Friendly,Tehran,Iran,False
+1951-03-07,India,Afghanistan,3,0,Asian Games,New Delhi,India,False
+1951-03-09,Japan,Afghanistan,2,0,Asian Games,New Delhi,India,True
+1954-05-04,South Korea,Afghanistan,8,2,Asian Games,Manila,Philippines,True
+1954-05-06,Hong Kong,Afghanistan,4,2,Asian Games,Manila,Philippines,True
+1975-04-02,Saudi Arabia,Afghanistan,2,0,AFC Asian Cup qualification,Baghdad,Iraq,True
+1975-04-04,Iraq,Afghanistan,4,0,AFC Asian Cup qualification,Baghdad,Iraq,False
+1975-04-06,Qatar,Afghanistan,2,1,AFC Asian Cup qualification,Baghdad,Iraq,True
+1975-04-10,Saudi Arabia,Afghanistan,6,0,AFC Asian Cup qualification,Baghdad,Iraq,True
+1975-04-12,Qatar,Afghanistan,1,1,AFC Asian Cup qualification,Baghdad,Iraq,True
+1975-04-14,Iraq,Afghanistan,3,1,AFC Asian Cup qualification,Baghdad,Iraq,False
+1976-07-19,Afghanistan,Pakistan,1,0,Friendly,Kabul,Afghanistan,False
+1976-07-24,Afghanistan,India,1,1,Friendly,Kabul,Afghanistan,False
+1976-10-12,Pakistan,Afghanistan,1,0,Friendly,Karachi,Pakistan,False
+1977-07-24,Afghanistan,India,0,3,Friendly,Kabul,Afghanistan,False
+1979-03-05,Bangladesh,Afghanistan,3,2,AFC Asian Cup qualification,Dhaka,Bangladesh,False
+1984-09-10,Qatar,Afghanistan,8,0,AFC Asian Cup qualification,Guangzhou,China PR,True
+1984-09-12,China PR,Afghanistan,6,0,AFC Asian Cup qualification,Guangzhou,China PR,False
+1984-09-15,Hong Kong,Afghanistan,0,0,AFC Asian Cup qualification,Guangzhou,China PR,True
+1984-09-20,Jordan,Afghanistan,6,1,AFC Asian Cup qualification,Guangzhou,China PR,True
+2003-01-10,Sri Lanka,Afghanistan,1,0,SAFF Cup,Dhaka,Bangladesh,True
+2003-01-12,Afghanistan,India,0,4,SAFF Cup,Dhaka,Bangladesh,True
+2003-01-14,Afghanistan,Pakistan,0,1,SAFF Cup,Dhaka,Bangladesh,True
+2003-03-16,Kyrgyzstan,Afghanistan,1,2,AFC Asian Cup qualification,Kathmandu,Nepal,True
+2003-03-18,Nepal,Afghanistan,4,0,AFC Asian Cup qualification,Kathmandu,Nepal,False
+2003-11-19,Turkmenistan,Afghanistan,11,0,FIFA World Cup qualification,Ashgabat,Turkmenistan,False
+2003-11-23,Afghanistan,Turkmenistan,0,2,FIFA World Cup qualification,Kabul,Afghanistan,False
+2005-11-09,Tajikistan,Afghanistan,4,0,Friendly,Dushanbe,Tajikistan,False
+2005-12-07,Maldives,Afghanistan,9,1,SAFF Cup,Karachi,Pakistan,True
+2005-12-09,Pakistan,Afghanistan,1,0,SAFF Cup,Karachi,Pakistan,False
+2005-12-11,Sri Lanka,Afghanistan,1,2,SAFF Cup,Karachi,Pakistan,True
+2006-04-03,Afghanistan,Taiwan,2,2,AFC Challenge Cup,Chittagong,Bangladesh,True
+2006-04-05,Philippines,Afghanistan,1,1,AFC Challenge Cup,Chittagong,Bangladesh,True
+2007-10-08,Syria,Afghanistan,3,0,FIFA World Cup qualification,Damascus,Syria,False
+2007-10-26,Afghanistan,Syria,1,2,FIFA World Cup qualification,Dushanbe,Tajikistan,True
+2008-05-05,Bangladesh,Afghanistan,0,0,AFC Challenge Cup qualification,Bishkek,Kyrgyzstan,True
+2008-05-07,Kyrgyzstan,Afghanistan,0,1,AFC Challenge Cup qualification,Bishkek,Kyrgyzstan,False
+2008-06-04,Sri Lanka,Afghanistan,2,2,SAFF Cup,Colombo,Sri Lanka,False
+2008-06-06,Bangladesh,Afghanistan,2,2,SAFF Cup,Colombo,Sri Lanka,True
+2008-06-08,Afghanistan,Bhutan,1,3,SAFF Cup,Colombo,Sri Lanka,True
+2008-07-30,India,Afghanistan,1,0,AFC Challenge Cup,Hyderabad,India,False
+2008-08-01,Afghanistan,Turkmenistan,0,5,AFC Challenge Cup,Hyderabad,India,True
+2008-08-03,Afghanistan,Tajikistan,0,4,AFC Challenge Cup,Hyderabad,India,True
+2008-10-17,Nepal,Afghanistan,2,2,Merdeka Tournament,Petaling Jaya,Malaysia,True
+2008-10-20,Malaysia,Afghanistan,6,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+2009-12-07,Maldives,Afghanistan,3,1,SAFF Cup,Dhaka,Bangladesh,True
+2009-12-09,Afghanistan,Nepal,0,3,SAFF Cup,Dhaka,Bangladesh,True
+2010-11-17,Tajikistan,Afghanistan,1,0,Friendly,Dushanbe,Tajikistan,False
+2011-03-23,Bhutan,Afghanistan,0,3,AFC Challenge Cup qualification,Gurgaon,India,True
+2011-03-25,Afghanistan,Bhutan,2,0,AFC Challenge Cup qualification,Gurgaon,India,True
+2011-04-07,Nepal,Afghanistan,1,0,AFC Challenge Cup qualification,Kathmandu,Nepal,False
+2011-04-09,Sri Lanka,Afghanistan,0,1,AFC Challenge Cup qualification,Kathmandu,Nepal,True
+2011-04-11,North Korea,Afghanistan,2,0,AFC Challenge Cup qualification,Kathmandu,Nepal,True
+2011-06-29,Afghanistan,Palestine,0,2,FIFA World Cup qualification,Tursunzoda,Tajikistan,True
+2011-07-03,Palestine,Afghanistan,1,1,FIFA World Cup qualification,Al-Ram,Palestine,False
+2011-12-03,India,Afghanistan,1,1,SAFF Cup,New Delhi,India,False
+2011-12-05,Sri Lanka,Afghanistan,1,3,SAFF Cup,New Delhi,India,True
+2011-12-07,Bhutan,Afghanistan,1,8,SAFF Cup,New Delhi,India,True
+2011-12-09,Afghanistan,Nepal,1,0,SAFF Cup,New Delhi,India,True
+2011-12-11,India,Afghanistan,4,0,SAFF Cup,New Delhi,India,False
+2013-03-02,Afghanistan,Sri Lanka,1,0,AFC Challenge Cup qualification,Vientiane,Laos,True
+2013-03-04,Mongolia,Afghanistan,0,1,AFC Challenge Cup qualification,Vientiane,Laos,True
+2013-03-06,Laos,Afghanistan,1,1,AFC Challenge Cup qualification,Vientiane,Laos,False
+2013-06-04,Tajikistan,Afghanistan,3,2,Friendly,Qurghonteppa,Tajikistan,False
+2013-08-20,Afghanistan,Pakistan,3,0,Friendly,Kabul,Afghanistan,False
+2013-09-02,Afghanistan,Bhutan,3,0,SAFF Cup,Kathmandu,Nepal,True
+2013-09-04,Sri Lanka,Afghanistan,1,3,SAFF Cup,Kathmandu,Nepal,True
+2013-09-06,Afghanistan,Maldives,0,0,SAFF Cup,Kathmandu,Nepal,True
+2013-09-08,Nepal,Afghanistan,0,1,SAFF Cup,Kathmandu,Nepal,False
+2014-04-13,Afghanistan,Kyrgyzstan,0,0,Friendly,Dubai,United Arab Emirates,True
+2014-05-12,Afghanistan,Kyrgyzstan,1,0,Friendly,Kuwait City,Kuwait,True
+2014-05-14,Kuwait,Afghanistan,3,2,Friendly,Kuwait City,Kuwait,False
+2014-05-20,Philippines,Afghanistan,0,0,AFC Challenge Cup,Addu City,Maldives,True
+2014-05-22,Afghanistan,Turkmenistan,3,1,AFC Challenge Cup,Addu City,Maldives,True
+2014-05-24,Afghanistan,Laos,0,0,AFC Challenge Cup,Addu City,Maldives,True
+2014-05-27,Palestine,Afghanistan,2,0,AFC Challenge Cup,Malé,Maldives,True
+2014-05-29,Maldives,Afghanistan,1,1,AFC Challenge Cup,Malé,Maldives,False
+2015-02-06,Pakistan,Afghanistan,2,1,Friendly,Lahore,Pakistan,False
+2015-05-29,Laos,Afghanistan,0,2,Friendly,Vientiane,Laos,False
+2015-06-02,Bangladesh,Afghanistan,1,1,Friendly,Dhaka,Bangladesh,False
+2015-06-11,Afghanistan,Syria,0,6,FIFA World Cup qualification,Mashhad,Iran,True
+2015-06-16,Cambodia,Afghanistan,0,1,FIFA World Cup qualification,Phnom Penh,Cambodia,False
+2015-09-03,Thailand,Afghanistan,2,0,Friendly,Bangkok,Thailand,False
+2015-09-08,Afghanistan,Japan,0,6,FIFA World Cup qualification,Tehran,Iran,True
+2015-10-08,Singapore,Afghanistan,1,0,FIFA World Cup qualification,Kallang,Singapore,False
+2015-10-13,Syria,Afghanistan,5,2,FIFA World Cup qualification,Seeb,Oman,True
+2015-11-12,Afghanistan,Cambodia,3,0,FIFA World Cup qualification,Tehran,Iran,True
+2015-12-24,Afghanistan,Bangladesh,4,0,SAFF Cup,Thiruvananthapuram,India,True
+2015-12-26,Bhutan,Afghanistan,0,3,SAFF Cup,Thiruvananthapuram,India,True
+2015-12-28,Afghanistan,Maldives,4,1,SAFF Cup,Thiruvananthapuram,India,True
+2015-12-31,Afghanistan,Sri Lanka,5,0,SAFF Cup,Thiruvananthapuram,India,True
+2016-01-03,India,Afghanistan,2,1,SAFF Cup,Thiruvananthapuram,India,False
+2016-03-24,Japan,Afghanistan,5,0,FIFA World Cup qualification,Saitama,Japan,False
+2016-03-29,Afghanistan,Singapore,2,1,FIFA World Cup qualification,Tehran,Iran,True
+2016-09-05,Lebanon,Afghanistan,2,0,Friendly,Beirut,Lebanon,False
+2016-10-11,Malaysia,Afghanistan,1,1,Friendly,Shah Alam,Malaysia,False
+2016-11-13,Tajikistan,Afghanistan,1,0,Friendly,Dushanbe,Tajikistan,False
+2017-03-23,Afghanistan,Singapore,2,1,Friendly,Al Wakrah,Qatar,True
+2017-03-28,Afghanistan,Vietnam,1,1,AFC Asian Cup qualification,Dushanbe,Tajikistan,True
+2017-06-06,Afghanistan,Maldives,2,1,Friendly,Dubai,United Arab Emirates,True
+2017-06-13,Cambodia,Afghanistan,1,0,AFC Asian Cup qualification,Phnom Penh,Cambodia,False
+2017-08-30,Oman,Afghanistan,2,0,Friendly,Muscat,Oman,False
+2017-09-05,Jordan,Afghanistan,4,1,AFC Asian Cup qualification,Amman,Jordan,False
+2017-10-10,Afghanistan,Jordan,3,3,AFC Asian Cup qualification,Dushanbe,Tajikistan,True
+2017-11-14,Vietnam,Afghanistan,0,0,AFC Asian Cup qualification,Hanoi,Vietnam,False
+2018-03-27,Afghanistan,Cambodia,2,1,AFC Asian Cup qualification,Dushanbe,Tajikistan,True
+2018-12-25,Afghanistan,Turkmenistan,0,2,Friendly,Antalya,Turkey,True
+2019-03-23,Malaysia,Afghanistan,2,1,Friendly,Kuala Lumpur,Malaysia,False
+2019-06-06,Tajikistan,Afghanistan,1,1,Friendly,Dushanbe,Tajikistan,False
+2019-09-05,Qatar,Afghanistan,6,0,FIFA World Cup qualification,Doha,Qatar,False
+2019-09-10,Afghanistan,Bangladesh,1,0,FIFA World Cup qualification,Dushanbe,Tajikistan,True
+2019-10-10,Oman,Afghanistan,3,0,FIFA World Cup qualification,Seeb,Oman,False
+2019-11-14,Afghanistan,India,1,1,FIFA World Cup qualification,Dushanbe,Tajikistan,True
+2019-11-19,Afghanistan,Qatar,0,1,FIFA World Cup qualification,Dushanbe,Tajikistan,True
+2021-05-25,Indonesia,Afghanistan,2,3,Friendly,Dubai,United Arab Emirates,True
+2021-05-29,Singapore,Afghanistan,1,1,Friendly,Dubai,United Arab Emirates,True
+2021-06-03,Bangladesh,Afghanistan,1,1,FIFA World Cup qualification,Doha,Qatar,True
+2021-06-11,Afghanistan,Oman,1,2,FIFA World Cup qualification,Doha,Qatar,True
+2021-06-15,India,Afghanistan,1,1,FIFA World Cup qualification,Doha,Qatar,True
+2021-11-16,Indonesia,Afghanistan,0,1,Friendly,Antalya,Turkey,True
+2022-06-01,Vietnam,Afghanistan,2,0,Friendly,Ho Chi Minh City,Vietnam,False
+2022-06-08,Hong Kong,Afghanistan,2,1,AFC Asian Cup qualification,Kolkota,India,True
+2022-06-11,India,Afghanistan,2,1,AFC Asian Cup qualification,Kolkota,India,False
+2022-06-14,Afghanistan,Cambodia,2,2,AFC Asian Cup qualification,Kolkota,India,True
+2023-06-13,Iran,Afghanistan,6,1,CAFA Nations Cup,Bishkek,Kyrgyzstan,True
+2023-09-03,Bangladesh,Afghanistan,0,0,Friendly,Dhaka,Bangladesh,False
+2023-09-07,Bangladesh,Afghanistan,1,1,Friendly,Dhaka,Bangladesh,False
+2023-09-12,Philippines,Afghanistan,2,1,Friendly,Manila,Philippines,False
+2023-10-12,Afghanistan,Mongolia,1,0,FIFA World Cup qualification,Dushanbe,Tajikistan,True
+2023-10-17,Mongolia,Afghanistan,0,1,FIFA World Cup qualification,Ulaanbaatar,Mongolia,False
+2023-11-16,Qatar,Afghanistan,8,1,FIFA World Cup qualification,Al Rayyan,Qatar,False
+2023-11-21,Afghanistan,Kuwait,0,4,FIFA World Cup qualification,Dammam,Saudi Arabia,True
+2024-03-21,Afghanistan,India,0,0,FIFA World Cup qualification,Abha,Saudi Arabia,True
+2024-03-26,India,Afghanistan,1,2,FIFA World Cup qualification,Guwahati,India,False
+2024-06-06,Afghanistan,Qatar,0,0,FIFA World Cup qualification,Al Hofuf,Saudi Arabia,True
+2024-06-11,Kuwait,Afghanistan,1,0,FIFA World Cup qualification,Kuwait City,Kuwait,False
+2024-11-16,Nepal,Afghanistan,2,0,Friendly,Dushanbe,Tajikistan,True
+2024-11-19,Tajikistan,Afghanistan,3,1,Friendly,Dushanbe,Tajikistan,False
+2025-03-21,Thailand,Afghanistan,2,0,Friendly,Bangkok,Thailand,False
+2025-03-25,Myanmar,Afghanistan,2,1,AFC Asian Cup qualification,Yangon,Myanmar,False

@@ -1,0 +1,657 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1957-06-02,Tunisia,Libya,4,2,Friendly,Tunis,Tunisia,False
+1958-05-09,Tunisia,Libya,4,1,Friendly,Tunis,Tunisia,False
+1959-03-08,Tunisia,Malta,0,0,Friendly,Tunis,Tunisia,False
+1960-01-03,Tunisia,Yugoslavia,1,5,Friendly,Tunis,Tunisia,False
+1960-06-05,Tunisia,Iraq,2,1,Friendly,Tunis,Tunisia,False
+1960-08-06,Yugoslavia,Tunisia,7,0,Friendly,Belgrade,Yugoslavia,False
+1960-08-21,India,Tunisia,2,2,Friendly,Rome,Italy,True
+1960-10-30,Morocco,Tunisia,2,1,FIFA World Cup qualification,Casablanca,Morocco,False
+1960-11-13,Tunisia,Morocco,2,1,FIFA World Cup qualification,Tunis,Tunisia,False
+1960-12-04,Tunisia,German DR,0,3,Friendly,Tunis,Tunisia,False
+1960-12-08,Malta,Tunisia,1,0,Friendly,Gżira,Malta,False
+1960-12-23,Iraq,Tunisia,3,2,Friendly,Baghdad,Iraq,False
+1961-01-22,Morocco,Tunisia,1,1,FIFA World Cup qualification,Palermo,Italy,True
+1961-11-25,Nigeria,Tunisia,2,1,African Cup of Nations qualification,Lagos,Nigeria,False
+1962-01-14,Ethiopia,Tunisia,4,2,African Cup of Nations,Addis Ababa,Ethiopia,False
+1962-01-20,Tunisia,Uganda,3,0,African Cup of Nations,Addis Ababa,Ethiopia,True
+1962-03-11,Libya,Tunisia,6,3,Friendly,Tripoli,Libya,False
+1962-06-03,Tunisia,Libya,2,2,Friendly,Tunis,Tunisia,False
+1963-03-03,Tunisia,Kuwait,2,1,Friendly,Tunis,Tunisia,False
+1963-03-10,Ivory Coast,Tunisia,3,0,Friendly,Abidjan,Ivory Coast,False
+1963-04-02,Syria,Tunisia,0,1,Arab Cup,Beirut,Lebanon,True
+1963-04-04,Jordan,Tunisia,0,4,Arab Cup,Beirut,Lebanon,True
+1963-04-06,Kuwait,Tunisia,1,5,Arab Cup,Beirut,Lebanon,True
+1963-04-07,Lebanon,Tunisia,0,1,Arab Cup,Beirut,Lebanon,False
+1963-04-13,Tunisia,Ivory Coast,3,1,African Friendship Games,Dakar,Senegal,True
+1963-04-14,Tunisia,Congo,2,0,African Friendship Games,Dakar,Senegal,True
+1963-04-15,Tunisia,Mauritania,4,0,African Friendship Games,Dakar,Senegal,True
+1963-04-16,DR Congo,Tunisia,1,0,African Friendship Games,Dakar,Senegal,True
+1963-04-18,Tunisia,Madagascar,2,1,African Friendship Games,Dakar,Senegal,True
+1963-04-20,Senegal,Tunisia,1,1,African Friendship Games,Dakar,Senegal,False
+1963-06-09,Tunisia,Lebanon,2,0,Friendly,Tunis,Tunisia,False
+1963-06-16,Tunisia,Morocco,4,1,African Cup of Nations qualification,Tunis,Tunisia,False
+1963-07-02,Morocco,Tunisia,4,2,African Cup of Nations qualification,Casablanca,Morocco,False
+1963-11-24,Ghana,Tunisia,1,1,African Cup of Nations,Accra,Ghana,False
+1963-11-28,Ethiopia,Tunisia,4,2,African Cup of Nations,Accra,Ghana,True
+1963-12-15,Tunisia,Algeria,0,0,Friendly,Tunis,Tunisia,False
+1964-05-17,Tunisia,Ethiopia,3,2,Friendly,Tunis,Tunisia,False
+1964-11-01,Turkey,Tunisia,4,1,Friendly,Ankara,Turkey,False
+1965-02-28,Tunisia,Morocco,0,0,Friendly,Tunis,Tunisia,False
+1965-05-02,Morocco,Tunisia,0,1,Friendly,Casablanca,Morocco,False
+1965-11-12,Tunisia,Ethiopia,4,0,African Cup of Nations,Tunis,Tunisia,False
+1965-11-14,Tunisia,Senegal,0,0,African Cup of Nations,Tunis,Tunisia,False
+1965-11-21,Tunisia,Ghana,2,3,African Cup of Nations,Tunis,Tunisia,False
+1967-01-22,Tunisia,Turkey,0,0,Friendly,Tunis,Tunisia,False
+1967-02-05,Tunisia,Cameroon,4,0,African Cup of Nations qualification,Tunis,Tunisia,False
+1967-02-19,Tunisia,Congo,1,1,African Cup of Nations qualification,Tunis,Tunisia,False
+1967-12-10,Saudi Arabia,Tunisia,4,0,Friendly,Riyadh,Saudi Arabia,False
+1968-03-13,Turkey,Tunisia,0,0,Friendly,İzmir,Turkey,False
+1968-11-17,Algeria,Tunisia,1,2,FIFA World Cup qualification,Algiers,Algeria,False
+1968-11-24,DR Congo,Tunisia,1,0,Friendly,Kinshasa,Congo-Kinshasa,False
+1968-12-01,Cameroon,Tunisia,4,2,Friendly,Douala,Cameroon,False
+1968-12-29,Tunisia,Algeria,0,0,FIFA World Cup qualification,Tunis,Tunisia,False
+1969-04-27,Tunisia,Morocco,0,0,FIFA World Cup qualification,Tunis,Tunisia,False
+1969-05-18,Morocco,Tunisia,0,0,FIFA World Cup qualification,Casablanca,Morocco,False
+1969-06-13,Tunisia,Morocco,2,2,FIFA World Cup qualification,Marseille,France,True
+1969-07-21,Congo,Tunisia,4,1,Friendly,Brazzaville,Congo,False
+1969-10-15,Tunisia,Palestine,1,1,Friendly,Tunis,Tunisia,False
+1970-09-01,Libya,Tunisia,2,2,Friendly,Benghazi,Libya,False
+1970-09-04,Libya,Tunisia,3,2,Friendly,Tripoli,Libya,False
+1970-09-24,Tunisia,Libya,2,0,Friendly,Tunis,Tunisia,False
+1972-02-20,Tunisia,Austria,3,3,Friendly,Tunis,Tunisia,False
+1972-06-05,Tunisia,Algeria,3,1,Friendly,Tunis,Tunisia,False
+1972-11-16,Tunisia,Algeria,1,2,Friendly,Tunis,Tunisia,False
+1972-12-08,Egypt,Tunisia,2,1,FIFA World Cup qualification,Cairo,Egypt,False
+1972-12-17,Tunisia,Egypt,2,0,FIFA World Cup qualification,Tunis,Tunisia,False
+1973-02-04,Tunisia,Yugoslavia,0,5,Friendly,Tunis,Tunisia,False
+1973-02-11,Tunisia,Ivory Coast,1,1,FIFA World Cup qualification,Tunis,Tunisia,False
+1973-02-25,Ivory Coast,Tunisia,2,1,FIFA World Cup qualification,Abidjan,Ivory Coast,False
+1973-06-06,Tunisia,Brazil,1,4,Friendly,Tunis,Tunisia,False
+1973-08-13,Syria,Tunisia,1,4,Palestine Cup,Tripoli,Libya,True
+1973-08-15,Egypt,Tunisia,0,1,Palestine Cup,Tripoli,Libya,True
+1973-08-19,Tunisia,Yemen DPR,2,0,Palestine Cup,Tripoli,Libya,True
+1973-08-21,Palestine,Tunisia,2,6,Palestine Cup,Tripoli,Libya,True
+1973-08-23,Iraq,Tunisia,0,2,Palestine Cup,Tripoli,Libya,True
+1973-08-26,Syria,Tunisia,0,4,Palestine Cup,Tripoli,Libya,True
+1973-12-21,Congo,Tunisia,0,1,Friendly,Brazzaville,Congo,False
+1973-12-30,Guinea,Tunisia,0,0,Friendly,Conakry,Guinea,False
+1974-01-06,Mali,Tunisia,1,0,Friendly,Bamako,Mali,False
+1974-02-26,Tunisia,German DR,0,4,Friendly,Tunis,Tunisia,False
+1974-06-02,Tunisia,Iraq,2,1,Friendly,Tunis,Tunisia,False
+1974-10-01,Morocco,Tunisia,3,1,Kuneitra Cup,Damascus,Syria,True
+1974-10-03,Algeria,Tunisia,0,1,Kuneitra Cup,Damascus,Syria,True
+1974-10-09,Sudan,Tunisia,1,3,Kuneitra Cup,Damascus,Syria,True
+1974-11-10,Tunisia,Libya,1,0,African Cup of Nations qualification,Tunis,Tunisia,False
+1974-11-22,Libya,Tunisia,1,0,African Cup of Nations qualification,Tripoli,Libya,False
+1974-12-29,Kuwait,Tunisia,2,0,Friendly,Kuwait City,Kuwait,False
+1975-01-01,Iraq,Tunisia,0,0,Friendly,Baghdad,Iraq,False
+1975-03-02,Morocco,Tunisia,0,0,Friendly,Casablanca,Morocco,False
+1975-03-23,Tunisia,Algeria,1,1,African Cup of Nations qualification,Tunis,Tunisia,False
+1975-04-06,Algeria,Tunisia,1,2,African Cup of Nations qualification,Oran,Algeria,False
+1975-07-06,Tunisia,Sudan,3,2,African Cup of Nations qualification,Tunis,Tunisia,False
+1975-08-15,Sudan,Tunisia,2,1,African Cup of Nations qualification,Khartoum,Sudan,False
+1975-12-19,Tunisia,United Arab Emirates,3,0,Palestine Cup,Tunis,Tunisia,False
+1975-12-23,Tunisia,Iraq,1,1,Palestine Cup,Tunis,Tunisia,False
+1976-02-18,Tunisia,Yugoslavia,2,1,Friendly,Tunis,Tunisia,False
+1976-02-28,Tunisia,Sweden,1,1,Friendly,Tunis,Tunisia,False
+1976-09-30,Saudi Arabia,Tunisia,0,1,Friendly,Dammam,Saudi Arabia,False
+1976-11-04,Tunisia,Libya,3,0,Friendly,Tunis,Tunisia,False
+1976-11-24,Malta,Tunisia,1,1,Friendly,Gżira,Malta,False
+1976-12-12,Morocco,Tunisia,1,1,FIFA World Cup qualification,Casablanca,Morocco,False
+1977-01-09,Tunisia,Morocco,1,1,FIFA World Cup qualification,Tunis,Tunisia,False
+1977-02-06,Tunisia,Algeria,2,0,FIFA World Cup qualification,Tunis,Tunisia,False
+1977-02-28,Algeria,Tunisia,1,1,FIFA World Cup qualification,Algiers,Algeria,False
+1977-03-05,Tunisia,Malta,0,1,Friendly,Tunis,Tunisia,False
+1977-03-08,Qatar,Tunisia,1,0,Friendly,Doha,Qatar,False
+1977-03-13,Egypt,Tunisia,2,2,African Cup of Nations qualification,Cairo,Egypt,False
+1977-03-20,Tunisia,Russia,0,3,Friendly,Tunis,Tunisia,False
+1977-04-27,Tunisia,Egypt,3,2,African Cup of Nations qualification,Tunis,Tunisia,False
+1977-06-05,Guinea,Tunisia,1,0,FIFA World Cup qualification,Conakry,Guinea,False
+1977-06-19,Tunisia,Guinea,3,1,FIFA World Cup qualification,Tunis,Tunisia,False
+1977-09-06,Tunisia,Malta,2,1,Friendly,Tunis,Tunisia,False
+1977-09-25,Tunisia,Nigeria,0,0,FIFA World Cup qualification,Tunis,Tunisia,False
+1977-10-02,Tunisia,Guinea,3,0,African Cup of Nations qualification,Tunis,Tunisia,False
+1977-10-16,Guinea,Tunisia,3,2,African Cup of Nations qualification,Conakry,Guinea,False
+1977-11-12,Nigeria,Tunisia,0,1,FIFA World Cup qualification,Lagos,Nigeria,False
+1977-11-25,Egypt,Tunisia,3,2,FIFA World Cup qualification,Cairo,Egypt,False
+1977-12-11,Tunisia,Egypt,4,1,FIFA World Cup qualification,Tunis,Tunisia,False
+1978-03-06,Morocco,Tunisia,1,1,African Cup of Nations,Kumasi,Ghana,True
+1978-03-09,Tunisia,Uganda,3,1,African Cup of Nations,Kumasi,Ghana,True
+1978-03-11,Congo,Tunisia,0,0,African Cup of Nations,Kumasi,Ghana,True
+1978-03-14,Ghana,Tunisia,1,0,African Cup of Nations,Accra,Ghana,False
+1978-04-05,Tunisia,Netherlands,0,4,Friendly,Tunis,Tunisia,False
+1978-05-19,France,Tunisia,2,0,Friendly,Villeneuve-d'Ascq,France,False
+1978-06-02,Mexico,Tunisia,1,3,FIFA World Cup,Rosario,Argentina,True
+1978-06-06,Poland,Tunisia,1,0,FIFA World Cup,Rosario,Argentina,True
+1978-06-10,Germany,Tunisia,0,0,FIFA World Cup,Córdoba,Argentina,True
+1978-12-19,Syria,Tunisia,2,1,Friendly,Damascus,Syria,False
+1979-02-18,Tunisia,Poland,0,2,Friendly,Tunis,Tunisia,False
+1979-08-28,Tunisia,Malta,4,0,Friendly,Tunis,Tunisia,False
+1979-12-26,Tunisia,Senegal,3,1,Friendly,Tunis,Tunisia,False
+1980-01-27,Ghana,Tunisia,4,1,Friendly,Accra,Ghana,False
+1980-01-30,Ivory Coast,Tunisia,1,1,Friendly,Abidjan,Ivory Coast,False
+1980-02-27,Morocco,Tunisia,0,0,Friendly,Meknès,Morocco,False
+1980-04-05,Senegal,Tunisia,0,2,Friendly,Dakar,Senegal,False
+1980-06-08,Tunisia,Morocco,0,1,Friendly,Tunis,Tunisia,False
+1980-06-29,Tunisia,Nigeria,2,0,FIFA World Cup qualification,Tunis,Tunisia,False
+1980-07-12,Nigeria,Tunisia,2,0,FIFA World Cup qualification,Lagos,Nigeria,False
+1981-01-11,Tunisia,Qatar,4,0,Friendly,Tunis,Tunisia,False
+1981-03-05,Bahrain,Tunisia,0,3,Friendly,Manama,Bahrain,False
+1981-03-08,Saudi Arabia,Tunisia,1,2,Friendly,Riyadh,Saudi Arabia,False
+1981-04-12,Tunisia,Senegal,1,0,African Cup of Nations qualification,Tunis,Tunisia,False
+1981-04-26,Senegal,Tunisia,0,0,African Cup of Nations qualification,Dakar,Senegal,False
+1981-09-27,Morocco,Tunisia,2,2,Friendly,Kenitra,Morocco,False
+1981-10-24,Tunisia,Malta,0,1,Friendly,Tunis,Tunisia,False
+1981-11-08,Tunisia,Cameroon,1,1,Friendly,Tunis,Tunisia,False
+1981-12-29,United Arab Emirates,Tunisia,1,4,Friendly,Al Ain,United Arab Emirates,False
+1982-02-07,Tunisia,Algeria,0,1,Friendly,Tunis,Tunisia,False
+1982-03-05,Cameroon,Tunisia,1,1,African Cup of Nations,Tripoli,Libya,True
+1982-03-09,Libya,Tunisia,2,0,African Cup of Nations,Tripoli,Libya,False
+1982-03-12,Ghana,Tunisia,1,0,African Cup of Nations,Tripoli,Libya,True
+1982-06-22,Tunisia,China PR,1,0,Friendly,Hammam Lif,Tunisia,False
+1982-06-26,Tunisia,China PR,1,2,Friendly,Tunis,Tunisia,False
+1982-12-08,Tunisia,Angola,3,1,Friendly,Tunis,Tunisia,False
+1982-12-19,Tunisia,Algeria,0,1,Friendly,Tunis,Tunisia,False
+1983-02-01,Malta,Tunisia,1,2,Friendly,Marsa,Malta,False
+1983-02-06,Tunisia,German DR,1,0,Friendly,Sfax,Tunisia,False
+1983-02-10,Tunisia,German DR,0,2,Friendly,Tunis,Tunisia,False
+1983-03-23,Tunisia,Morocco,1,0,Friendly,Sousse,Tunisia,False
+1983-04-10,Tunisia,Rwanda,5,0,African Cup of Nations qualification,Tunis,Tunisia,False
+1983-04-24,Rwanda,Tunisia,0,1,African Cup of Nations qualification,Kigali,Rwanda,False
+1983-08-14,Egypt,Tunisia,1,0,African Cup of Nations qualification,Cairo,Egypt,False
+1983-08-28,Tunisia,Egypt,0,0,African Cup of Nations qualification,Tunis,Tunisia,False
+1984-09-26,Tunisia,Nigeria,5,0,Friendly,Tunis,Tunisia,False
+1984-10-21,Tunisia,Canada,2,0,Friendly,Tunis,Tunisia,False
+1984-10-28,Benin,Tunisia,0,2,FIFA World Cup qualification,Cotonou,Benin,False
+1984-11-13,Tunisia,Benin,4,0,FIFA World Cup qualification,Tunis,Tunisia,False
+1984-12-28,Ivory Coast,Tunisia,3,1,Friendly,Abidjan,Ivory Coast,False
+1984-12-30,Algeria,Tunisia,3,1,Friendly,Abidjan,Ivory Coast,True
+1985-01-01,Ghana,Tunisia,0,2,Friendly,Abidjan,Ivory Coast,True
+1985-02-10,Guinea,Tunisia,1,0,FIFA World Cup qualification,Conakry,Guinea,False
+1985-02-24,Tunisia,Guinea,2,0,FIFA World Cup qualification,Tunis,Tunisia,False
+1985-03-29,Libya,Tunisia,2,0,African Cup of Nations qualification,Tripoli,Libya,False
+1985-04-14,Tunisia,Libya,1,0,African Cup of Nations qualification,Tunis,Tunisia,False
+1985-05-01,Tunisia,Algeria,1,0,Friendly,Tunis,Tunisia,False
+1985-07-06,Nigeria,Tunisia,1,0,FIFA World Cup qualification,Lagos,Nigeria,False
+1985-07-20,Tunisia,Nigeria,2,0,FIFA World Cup qualification,Tunis,Tunisia,False
+1985-07-28,Tunisia,Saudi Arabia,1,0,Friendly,Tunis,Tunisia,False
+1985-10-06,Tunisia,Algeria,1,4,FIFA World Cup qualification,Tunis,Tunisia,False
+1985-10-18,Algeria,Tunisia,3,0,FIFA World Cup qualification,Algiers,Algeria,False
+1985-12-08,Tunisia,Poland,1,0,Friendly,Tunis,Tunisia,False
+1986-01-24,Qatar,Tunisia,2,1,Friendly,Doha,Qatar,False
+1986-01-27,Oman,Tunisia,0,0,Friendly,Muscat,Oman,False
+1986-02-26,Tunisia,Cameroon,1,1,Friendly,Tunis,Tunisia,False
+1986-10-29,Tunisia,Bulgaria,3,3,Friendly,Tunis,Tunisia,False
+1987-02-07,Tunisia,Austria,1,3,Friendly,Tunis,Tunisia,False
+1987-03-27,Algeria,Tunisia,1,0,African Cup of Nations qualification,Algiers,Algeria,False
+1987-04-14,Tunisia,Algeria,1,1,African Cup of Nations qualification,Tunis,Tunisia,False
+1987-08-01,Kenya,Tunisia,1,0,All-African Games,Nairobi,Kenya,False
+1987-08-03,Tunisia,Madagascar,0,3,All-African Games,Nairobi,Kenya,True
+1987-08-05,Cameroon,Tunisia,3,1,All-African Games,Nairobi,Kenya,True
+1987-08-08,Senegal,Tunisia,1,0,All-African Games,Nairobi,Kenya,True
+1987-09-23,German DR,Tunisia,2,0,Friendly,Gera,German DR,False
+1987-12-02,Tunisia,Malawi,2,3,Friendly,Tunis,Tunisia,False
+1987-12-11,Algeria,Tunisia,0,0,Arab Cup qualification,Algiers,Algeria,False
+1987-12-13,Mauritania,Tunisia,1,2,Arab Cup qualification,Algiers,Algeria,True
+1988-02-10,Malta,Tunisia,2,1,Malta International Tournament,Attard,Malta,False
+1988-02-13,Finland,Tunisia,3,0,Malta International Tournament,Attard,Malta,True
+1988-02-25,Iraq,Tunisia,2,0,Friendly,Baghdad,Iraq,False
+1988-07-09,Iraq,Tunisia,1,1,Arab Cup,Amman,Jordan,True
+1988-07-13,Egypt,Tunisia,1,0,Arab Cup,Amman,Jordan,True
+1988-07-17,Lebanon,Tunisia,1,1,Arab Cup,Amman,Jordan,True
+1988-08-05,Tunisia,Guinea,5,0,FIFA World Cup qualification,Tunis,Tunisia,False
+1988-08-21,Guinea,Tunisia,3,0,FIFA World Cup qualification,Conakry,Guinea,False
+1988-10-19,Republic of Ireland,Tunisia,4,0,Friendly,Dublin,Republic of Ireland,False
+1988-11-08,Tunisia,Angola,5,0,Friendly,Tunis,Tunisia,False
+1988-11-29,Saudi Arabia,Tunisia,1,0,Friendly,Khobar,Saudi Arabia,False
+1988-12-10,Ivory Coast,Tunisia,1,0,Friendly,Abidjan,Ivory Coast,False
+1988-12-18,Ivory Coast,Tunisia,1,1,Friendly,Abidjan,Ivory Coast,False
+1988-12-20,Liberia,Tunisia,1,1,Friendly,Paynesville,Liberia,False
+1989-01-08,DR Congo,Tunisia,3,1,FIFA World Cup qualification,Kinshasa,Zaïre,False
+1989-01-22,Tunisia,Morocco,2,1,FIFA World Cup qualification,Tunis,Tunisia,False
+1989-03-15,Tunisia,Egypt,0,0,Friendly,Tunis,Tunisia,False
+1989-04-04,Algeria,Tunisia,2,0,Friendly,Algiers,Algeria,False
+1989-06-03,Malawi,Tunisia,1,0,Friendly,Lilongwe,Malawi,False
+1989-06-11,Zambia,Tunisia,1,0,FIFA World Cup qualification,Lusaka,Zambia,False
+1989-06-25,Tunisia,DR Congo,1,0,FIFA World Cup qualification,Tunis,Tunisia,False
+1989-07-16,Senegal,Tunisia,3,0,African Cup of Nations qualification,Dakar,Senegal,False
+1989-07-30,Tunisia,Senegal,0,1,African Cup of Nations qualification,Tunis,Tunisia,False
+1989-08-05,Tunisia,Malawi,3,0,Friendly,Tunis,Tunisia,False
+1989-08-13,Morocco,Tunisia,0,0,FIFA World Cup qualification,Casablanca,Morocco,False
+1989-08-27,Tunisia,Zambia,1,0,FIFA World Cup qualification,Tunis,Tunisia,False
+1989-10-08,Cameroon,Tunisia,2,0,FIFA World Cup qualification,Yaoundé,Cameroon,False
+1989-11-01,Tunisia,Algeria,0,0,Friendly,Tunis,Tunisia,False
+1989-11-19,Tunisia,Cameroon,0,1,FIFA World Cup qualification,Tunis,Tunisia,False
+1990-06-02,Tunisia,England,1,1,Friendly,Tunis,Tunisia,False
+1990-08-09,Tunisia,Morocco,0,0,Friendly,Tunis,Tunisia,False
+1990-08-19,Tunisia,Chad,2,1,African Cup of Nations qualification,Tunis,Tunisia,False
+1990-11-07,Tunisia,Norway,1,3,Friendly,Bizerte,Tunisia,False
+1990-11-11,Tunisia,Finland,1,2,Friendly,Tunis,Tunisia,False
+1990-11-18,Ethiopia,Tunisia,0,2,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+1991-03-05,Algeria,Tunisia,2,1,Friendly,Annaba,Algeria,False
+1991-03-27,Tunisia,Turkey,0,0,Friendly,Tunis,Tunisia,False
+1991-04-07,Tunisia,Algeria,0,0,Friendly,Tunis,Tunisia,False
+1991-04-14,Tunisia,Egypt,2,2,African Cup of Nations qualification,Tunis,Tunisia,False
+1991-04-28,Chad,Tunisia,0,0,African Cup of Nations qualification,N'Djamena,Chad,False
+1991-07-26,Egypt,Tunisia,2,2,African Cup of Nations qualification,Cairo,Egypt,False
+1991-09-22,Mauritius,Tunisia,0,3,Friendly,Alexandria,Egypt,True
+1991-09-24,Cameroon,Tunisia,0,1,Friendly,Alexandria,Egypt,True
+1991-09-26,Mali,Tunisia,0,0,Friendly,Alexandria,Egypt,True
+1991-09-28,Tunisia,Zimbabwe,3,1,Friendly,Alexandria,Egypt,True
+1991-09-30,Cameroon,Tunisia,1,0,Friendly,Cairo,Egypt,True
+1991-11-27,Tunisia,Ivory Coast,5,3,Friendly,Tunis,Tunisia,False
+1991-12-25,Tunisia,Cameroon,2,2,Friendly,Tunis,Tunisia,False
+1992-02-22,Tunisia,Nigeria,1,1,Friendly,Tunis,Tunisia,False
+1992-02-26,Tunisia,Belgium,2,1,Friendly,Tunis,Tunisia,False
+1992-04-22,Tunisia,Sweden,0,1,Friendly,Tunis,Tunisia,False
+1992-10-11,Tunisia,Benin,5,1,FIFA World Cup qualification,Tunis,Tunisia,False
+1992-10-25,Ethiopia,Tunisia,0,0,FIFA World Cup qualification,Addis Ababa,Ethiopia,False
+1992-11-07,Tunisia,Finland,1,1,Friendly,Tunis,Tunisia,False
+1992-12-20,Tunisia,Morocco,1,1,FIFA World Cup qualification,Tunis,Tunisia,False
+1993-01-10,Tunisia,Bulgaria,3,0,Friendly,Béja,Tunisia,False
+1993-01-17,Benin,Tunisia,0,5,FIFA World Cup qualification,Cotonou,Benin,False
+1993-01-31,Tunisia,Ethiopia,3,0,FIFA World Cup qualification,Tunis,Tunisia,False
+1993-02-28,Morocco,Tunisia,0,0,FIFA World Cup qualification,Casablanca,Morocco,False
+1993-03-17,Tunisia,Switzerland,0,1,Friendly,Tunis,Tunisia,False
+1993-09-22,Tunisia,Germany,1,1,Friendly,Tunis,Tunisia,False
+1993-10-17,Tunisia,Iceland,3,1,Friendly,Tunis,Tunisia,False
+1993-11-05,Tunisia,Gabon,4,0,Friendly,Tunis,Tunisia,False
+1993-11-07,Tunisia,Egypt,2,1,Friendly,Tunis,Tunisia,False
+1993-12-31,Ghana,Tunisia,1,1,Friendly,Accra,Ghana,False
+1994-01-19,Tunisia,Netherlands,2,2,Friendly,Tunis,Tunisia,False
+1994-02-08,Malta,Tunisia,1,1,Malta International Tournament,Attard,Malta,False
+1994-02-10,Slovenia,Tunisia,2,2,Malta International Tournament,Attard,Malta,True
+1994-02-12,Georgia,Tunisia,2,0,Malta International Tournament,Attard,Malta,True
+1994-03-17,Tunisia,Niger,4,2,Friendly,Tunis,Tunisia,False
+1994-03-26,Tunisia,Mali,0,2,African Cup of Nations,Tunis,Tunisia,False
+1994-03-30,Tunisia,DR Congo,1,1,African Cup of Nations,Tunis,Tunisia,False
+1994-04-18,Tunisia,Saudi Arabia,2,0,Friendly,Tunis,Tunisia,False
+1994-11-08,Tunisia,Ivory Coast,2,0,Friendly,Tunis,Tunisia,False
+1994-11-13,Tunisia,Togo,1,1,African Cup of Nations qualification,Tunis,Tunisia,False
+1994-12-16,Tunisia,Algeria,1,0,Friendly,Sfax,Tunisia,False
+1995-01-02,Tunisia,Egypt,2,0,Friendly,Sousse,Tunisia,False
+1995-01-07,Senegal,Tunisia,0,0,African Cup of Nations qualification,Ziguinchor,Senegal,False
+1995-01-29,Tunisia,Mauritania,1,0,African Cup of Nations qualification,Tunis,Tunisia,False
+1995-02-10,Tunisia,Liberia,0,0,African Cup of Nations qualification,Tunis,Tunisia,False
+1995-04-14,Egypt,Tunisia,1,0,Friendly,Port Said,Egypt,False
+1995-04-23,Liberia,Tunisia,1,0,African Cup of Nations qualification,Monrovia,Liberia,False
+1995-06-04,Togo,Tunisia,0,1,African Cup of Nations qualification,Lomé,Togo,False
+1995-07-15,Tunisia,Senegal,4,0,African Cup of Nations qualification,Tunis,Tunisia,False
+1995-07-22,Algeria,Tunisia,2,1,Friendly,Algiers,Algeria,False
+1995-07-30,Mauritania,Tunisia,0,0,African Cup of Nations qualification,Nouakchott,Mauritania,False
+1995-10-22,Burkina Faso,Tunisia,2,2,Friendly,Ouagadougou,Burkina Faso,False
+1995-11-05,Tunisia,Algeria,2,0,Friendly,Tunis,Tunisia,False
+1995-11-07,Tunisia,Mauritania,2,1,Friendly,Tunis,Tunisia,False
+1995-11-29,Tunisia,Burkina Faso,3,0,Friendly,Tunis,Tunisia,False
+1995-12-23,Zambia,Tunisia,2,0,Friendly,Lusaka,Zambia,False
+1996-01-03,Morocco,Tunisia,3,1,Friendly,Rabat,Morocco,False
+1996-01-08,Egypt,Tunisia,2,1,Friendly,Ismailia,Egypt,False
+1996-01-16,Tunisia,Mozambique,1,1,African Cup of Nations,Port Elizabeth,South Africa,True
+1996-01-19,Ghana,Tunisia,2,1,African Cup of Nations,Port Elizabeth,South Africa,True
+1996-01-25,Tunisia,Ivory Coast,3,1,African Cup of Nations,Port Elizabeth,South Africa,True
+1996-01-28,Gabon,Tunisia,1,1,African Cup of Nations,Durban,South Africa,True
+1996-01-31,Zambia,Tunisia,2,4,African Cup of Nations,Durban,South Africa,True
+1996-02-03,South Africa,Tunisia,2,0,African Cup of Nations,Johannesburg,South Africa,False
+1996-05-26,Tunisia,Senegal,2,0,Friendly,Tunis,Tunisia,False
+1996-06-02,Rwanda,Tunisia,1,3,FIFA World Cup qualification,Kigali,Rwanda,False
+1996-06-16,Tunisia,Rwanda,2,0,FIFA World Cup qualification,Tunis,Tunisia,False
+1996-10-06,Tunisia,Sierra Leone,2,0,African Cup of Nations qualification,Tunis,Tunisia,False
+1996-10-13,Japan,Tunisia,1,0,Friendly,Kobe,Japan,False
+1996-11-10,Liberia,Tunisia,0,1,FIFA World Cup qualification,Accra,Ghana,True
+1997-01-04,Tunisia,Algeria,0,0,Friendly,Sfax,Tunisia,False
+1997-01-12,Tunisia,Egypt,1,0,FIFA World Cup qualification,Tunis,Tunisia,False
+1997-01-26,Guinea,Tunisia,1,0,African Cup of Nations qualification,Conakry,Guinea,False
+1997-04-06,Namibia,Tunisia,1,2,FIFA World Cup qualification,Windhoek,Namibia,False
+1997-04-27,Tunisia,Liberia,2,0,FIFA World Cup qualification,Tunis,Tunisia,False
+1997-05-31,Tunisia,Algeria,0,1,Friendly,Tunis,Tunisia,False
+1997-06-08,Egypt,Tunisia,0,0,FIFA World Cup qualification,Cairo,Egypt,False
+1997-07-05,Tunisia,Mali,1,0,Friendly,Tunis,Tunisia,False
+1997-07-13,Tunisia,Guinea,1,0,African Cup of Nations qualification,Tunis,Tunisia,False
+1997-08-07,Tunisia,Zambia,3,1,Friendly,Tunis,Tunisia,False
+1997-08-09,Tunisia,Nigeria,2,0,Friendly,Tunis,Tunisia,False
+1997-08-17,Tunisia,Namibia,4,0,FIFA World Cup qualification,Tunis,Tunisia,False
+1997-11-05,Tunisia,Bosnia and Herzegovina,2,1,Friendly,Tunis,Tunisia,False
+1998-01-28,Tunisia,Serbia,0,3,Friendly,Tunis,Tunisia,False
+1998-01-31,Tunisia,Guinea,4,1,Friendly,Tunis,Tunisia,False
+1998-02-04,Mali,Tunisia,0,1,Friendly,Bamako,Mali,False
+1998-02-09,Ghana,Tunisia,2,0,African Cup of Nations,Ouagadougou,Burkina Faso,True
+1998-02-12,Tunisia,DR Congo,2,1,African Cup of Nations,Ouagadougou,Burkina Faso,True
+1998-02-16,Tunisia,Togo,3,1,African Cup of Nations,Ouagadougou,Burkina Faso,True
+1998-02-21,Burkina Faso,Tunisia,1,1,African Cup of Nations,Ouagadougou,Burkina Faso,False
+1998-05-02,Tunisia,Georgia,1,1,Friendly,Sousse,Tunisia,False
+1998-05-27,Austria,Tunisia,2,1,Friendly,Vienna,Austria,False
+1998-05-31,Chile,Tunisia,3,2,Friendly,Montélimar,France,True
+1998-06-06,Tunisia,Wales,4,0,Friendly,Tunis,Tunisia,False
+1998-06-15,England,Tunisia,2,0,FIFA World Cup,Marseille,France,True
+1998-06-22,Colombia,Tunisia,1,0,FIFA World Cup,Montpellier,France,True
+1998-06-26,Romania,Tunisia,1,1,FIFA World Cup,Saint-Denis,France,True
+1998-10-04,Tunisia,Liberia,2,1,African Cup of Nations qualification,Tunis,Tunisia,False
+1998-11-07,Tunisia,Zimbabwe,1,1,Friendly,Tunis,Tunisia,False
+1998-11-10,Tunisia,Latvia,3,0,Friendly,Tunis,Tunisia,False
+1999-02-10,Tunisia,Sweden,0,1,Friendly,Tunis,Tunisia,False
+1999-04-10,Uganda,Tunisia,0,2,African Cup of Nations qualification,Kampala,Uganda,False
+1999-06-06,Tunisia,Algeria,2,0,African Cup of Nations qualification,Tunis,Tunisia,False
+1999-06-20,Liberia,Tunisia,2,0,African Cup of Nations qualification,Monrovia,Liberia,False
+1999-10-16,Tunisia,United Arab Emirates,1,0,Friendly,Tunis,Tunisia,False
+1999-10-31,Tunisia,Zambia,2,1,Friendly,Tunis,Tunisia,False
+1999-11-02,Tunisia,Zambia,0,0,Friendly,Tunis,Tunisia,False
+1999-12-22,Tunisia,Ghana,2,0,Friendly,Sfax,Tunisia,False
+2000-01-07,Tunisia,Togo,7,0,Friendly,Tunis,Tunisia,False
+2000-01-18,Ghana,Tunisia,2,0,Friendly,Accra,Ghana,False
+2000-01-23,Nigeria,Tunisia,4,2,African Cup of Nations,Lagos,Nigeria,False
+2000-01-29,Tunisia,Morocco,0,0,African Cup of Nations,Lagos,Nigeria,True
+2000-02-03,Tunisia,Congo,1,0,African Cup of Nations,Kano,Nigeria,True
+2000-02-07,Egypt,Tunisia,0,1,African Cup of Nations,Kano,Nigeria,True
+2000-02-10,Cameroon,Tunisia,3,0,African Cup of Nations,Accra,Ghana,True
+2000-02-12,South Africa,Tunisia,2,2,African Cup of Nations,Accra,Ghana,True
+2000-03-12,United States,Tunisia,1,1,Friendly,Birmingham,United States,False
+2000-04-07,Mauritania,Tunisia,1,2,FIFA World Cup qualification,Nouakchott,Mauritania,False
+2000-04-22,Tunisia,Mauritania,3,0,FIFA World Cup qualification,Tunis,Tunisia,False
+2000-06-11,Tunisia,Senegal,4,1,Friendly,Tunis,Tunisia,False
+2000-06-18,Ivory Coast,Tunisia,2,2,FIFA World Cup qualification,Abidjan,Ivory Coast,False
+2000-06-28,Tunisia,Algeria,2,2,Friendly,Tunis,Tunisia,False
+2000-07-08,Tunisia,Madagascar,1,0,FIFA World Cup qualification,Tunis,Tunisia,False
+2000-09-03,Kenya,Tunisia,0,0,African Cup of Nations qualification,Nairobi,Kenya,False
+2000-10-07,Tunisia,Gabon,4,2,African Cup of Nations qualification,Tunis,Tunisia,False
+2000-11-15,Tunisia,Switzerland,1,1,Friendly,Tunis,Tunisia,False
+2001-01-13,Tunisia,Morocco,0,1,African Cup of Nations qualification,Tunis,Tunisia,False
+2001-01-28,Congo,Tunisia,1,2,FIFA World Cup qualification,Pointe-Noire,Congo,False
+2001-02-25,Tunisia,DR Congo,6,0,FIFA World Cup qualification,Tunis,Tunisia,False
+2001-03-24,Morocco,Tunisia,2,0,African Cup of Nations qualification,Rabat,Morocco,False
+2001-05-05,Madagascar,Tunisia,0,2,FIFA World Cup qualification,Antananarivo,Madagascar,False
+2001-05-20,Tunisia,Ivory Coast,1,1,FIFA World Cup qualification,Tunis,Tunisia,False
+2001-06-02,Gabon,Tunisia,1,1,African Cup of Nations qualification,Libreville,Gabon,False
+2001-06-17,Tunisia,Kenya,4,1,African Cup of Nations qualification,Tunis,Tunisia,False
+2001-07-01,Tunisia,Congo,6,0,FIFA World Cup qualification,Tunis,Tunisia,False
+2001-07-15,DR Congo,Tunisia,0,3,FIFA World Cup qualification,Kinshasa,DR Congo,False
+2001-11-28,Tunisia,Togo,1,0,Friendly,Tunis,Tunisia,False
+2001-12-27,Andalusia,Tunisia,3,3,Friendly,Seville,Spain,False
+2001-12-30,Tunisia,Liberia,7,2,Friendly,Tunis,Tunisia,False
+2002-01-11,Tunisia,Cameroon,0,1,Friendly,Tunis,Tunisia,False
+2002-01-21,Zambia,Tunisia,0,0,African Cup of Nations,Bamako,Mali,True
+2002-01-25,Egypt,Tunisia,1,0,African Cup of Nations,Bamako,Mali,True
+2002-01-31,Senegal,Tunisia,0,0,African Cup of Nations,Kayes,Mali,True
+2002-03-13,Tunisia,South Korea,0,0,Friendly,Tunis,Tunisia,False
+2002-03-27,Tunisia,Norway,0,0,Friendly,Tunis,Tunisia,False
+2002-04-17,Slovenia,Tunisia,1,0,Friendly,Ljubljana,Slovenia,False
+2002-05-26,Denmark,Tunisia,2,1,Friendly,Wakayama,Japan,True
+2002-06-05,Russia,Tunisia,2,0,FIFA World Cup,Kobe,Japan,True
+2002-06-10,Tunisia,Belgium,1,1,FIFA World Cup,Ōita,Japan,True
+2002-06-14,Japan,Tunisia,2,0,FIFA World Cup,Osaka,Japan,False
+2002-08-21,Tunisia,France,1,1,Friendly,Radès,Tunisia,False
+2002-10-12,Portugal,Tunisia,1,1,Friendly,Lisbon,Portugal,False
+2002-11-20,Tunisia,Egypt,0,0,Friendly,Tunis,Tunisia,False
+2003-02-12,Tunisia,Sweden,1,0,Friendly,Radès,Tunisia,False
+2003-03-27,Tunisia,Ghana,2,2,Friendly,Tunis,Tunisia,False
+2003-03-30,Tunisia,Cameroon,1,0,Friendly,Tunis,Tunisia,False
+2003-04-30,Tunisia,Senegal,1,0,Friendly,Tunis,Tunisia,False
+2003-08-20,Tunisia,Guinea,0,0,Friendly,Tunis,Tunisia,False
+2003-09-10,Tunisia,Ivory Coast,3,2,Friendly,Tunis,Tunisia,False
+2003-10-08,Tunisia,Japan,0,1,Friendly,Tunis,Tunisia,False
+2003-10-11,Tunisia,Morocco,0,0,Friendly,Tunis,Tunisia,False
+2003-11-19,Tunisia,South Africa,2,0,Friendly,Tunis,Tunisia,False
+2004-01-14,Tunisia,Benin,2,0,Friendly,Houmet Souk,Tunisia,False
+2004-01-17,Tunisia,Benin,2,1,Friendly,Sfax,Tunisia,False
+2004-01-24,Tunisia,Rwanda,2,1,African Cup of Nations,Radès,Tunisia,False
+2004-01-28,Tunisia,DR Congo,3,0,African Cup of Nations,Radès,Tunisia,False
+2004-02-01,Tunisia,Guinea,1,1,African Cup of Nations,Radès,Tunisia,False
+2004-02-07,Tunisia,Senegal,1,0,African Cup of Nations,Radès,Tunisia,False
+2004-02-11,Tunisia,Nigeria,1,1,African Cup of Nations,Radès,Tunisia,False
+2004-02-14,Tunisia,Morocco,2,1,African Cup of Nations,Radès,Tunisia,False
+2004-03-31,Tunisia,Ivory Coast,0,2,Friendly,Tunis,Tunisia,False
+2004-04-28,Tunisia,Mali,1,0,Friendly,Sfax,Tunisia,False
+2004-05-30,Tunisia,Italy,0,4,Friendly,Radès,Tunisia,False
+2004-06-05,Tunisia,Botswana,4,1,FIFA World Cup qualification,Radès,Tunisia,False
+2004-06-20,Guinea,Tunisia,2,1,FIFA World Cup qualification,Conakry,Guinea,False
+2004-08-18,Tunisia,South Africa,0,2,Friendly,Tunis,Tunisia,False
+2004-09-04,Morocco,Tunisia,1,1,FIFA World Cup qualification,Rabat,Morocco,False
+2004-10-09,Malawi,Tunisia,2,2,FIFA World Cup qualification,Blantyre,Malawi,False
+2005-03-26,Tunisia,Malawi,7,0,FIFA World Cup qualification,Radès,Tunisia,False
+2005-05-27,Tunisia,Angola,4,1,Friendly,Tunis,Tunisia,False
+2005-06-04,Botswana,Tunisia,1,3,FIFA World Cup qualification,Gaborone,Botswana,False
+2005-06-11,Tunisia,Guinea,2,0,FIFA World Cup qualification,Radès,Tunisia,False
+2005-06-15,Argentina,Tunisia,2,1,Confederations Cup,Cologne,Germany,True
+2005-06-18,Germany,Tunisia,3,0,Confederations Cup,Cologne,Germany,False
+2005-06-21,Australia,Tunisia,0,2,Confederations Cup,Leipzig,Germany,True
+2005-08-17,Tunisia,Kenya,1,0,FIFA World Cup qualification,Radès,Tunisia,False
+2005-09-03,Kenya,Tunisia,0,2,FIFA World Cup qualification,Nairobi,Kenya,False
+2005-10-08,Tunisia,Morocco,2,2,FIFA World Cup qualification,Radès,Tunisia,False
+2005-11-11,DR Congo,Tunisia,2,2,Friendly,Paris,France,True
+2005-11-16,Egypt,Tunisia,1,2,Friendly,Cairo,Egypt,False
+2006-01-12,Tunisia,Libya,1,0,Friendly,Tunis,Tunisia,False
+2006-01-15,Tunisia,Ghana,2,0,Friendly,Tunis,Tunisia,False
+2006-01-22,Tunisia,Zambia,4,1,African Cup of Nations,Alexandria,Egypt,True
+2006-01-26,Tunisia,South Africa,2,0,African Cup of Nations,Alexandria,Egypt,True
+2006-01-30,Tunisia,Guinea,0,3,African Cup of Nations,Alexandria,Egypt,True
+2006-02-04,Nigeria,Tunisia,1,1,African Cup of Nations,Port Said,Egypt,True
+2006-03-01,Tunisia,Serbia,0,1,Friendly,Radès,Tunisia,False
+2006-05-30,Tunisia,Belarus,3,0,Friendly,Radès,Tunisia,False
+2006-06-02,Tunisia,Uruguay,0,0,Friendly,Radès,Tunisia,False
+2006-06-14,Tunisia,Saudi Arabia,2,2,FIFA World Cup,Munich,Germany,True
+2006-06-19,Spain,Tunisia,3,1,FIFA World Cup,Stuttgart,Germany,True
+2006-06-23,Ukraine,Tunisia,1,0,FIFA World Cup,Berlin,Germany,True
+2006-08-16,Tunisia,Mali,0,1,Friendly,Narbonne,France,True
+2006-09-03,Mauritius,Tunisia,0,0,African Cup of Nations qualification,Curepipe,Mauritius,False
+2006-10-07,Tunisia,Sudan,1,0,African Cup of Nations qualification,Radès,Tunisia,False
+2006-11-15,Tunisia,Libya,2,0,Friendly,Tunis,Tunisia,False
+2007-02-07,Morocco,Tunisia,1,1,Friendly,Casablanca,Morocco,False
+2007-03-24,Seychelles,Tunisia,0,3,African Cup of Nations qualification,Victoria,Seychelles,False
+2007-06-02,Tunisia,Seychelles,4,0,African Cup of Nations qualification,Radès,Tunisia,False
+2007-06-16,Tunisia,Mauritius,2,0,African Cup of Nations qualification,Radès,Tunisia,False
+2007-08-22,Tunisia,Guinea,1,1,Friendly,Tunis,Tunisia,False
+2007-09-09,Sudan,Tunisia,3,2,African Cup of Nations qualification,Khartoum,Sudan,False
+2007-10-17,United Arab Emirates,Tunisia,0,1,Friendly,Abu Dhabi,United Arab Emirates,False
+2007-11-17,Tunisia,Namibia,2,0,Friendly,Radès,Tunisia,False
+2007-11-21,Austria,Tunisia,0,0,Friendly,Vienna,Austria,False
+2008-01-06,Tunisia,Zambia,1,2,Friendly,Radès,Tunisia,False
+2008-01-08,Tunisia,Zambia,1,0,Friendly,Radès,Tunisia,False
+2008-01-23,Tunisia,Senegal,2,2,African Cup of Nations,Tamale,Ghana,True
+2008-01-27,Tunisia,South Africa,3,1,African Cup of Nations,Tamale,Ghana,True
+2008-01-31,Tunisia,Angola,0,0,African Cup of Nations,Tamale,Ghana,True
+2008-02-04,Tunisia,Cameroon,2,3,African Cup of Nations,Tamale,Ghana,True
+2008-03-26,Ivory Coast,Tunisia,0,2,Friendly,Bondoufle,France,True
+2008-06-01,Tunisia,Burkina Faso,1,2,FIFA World Cup qualification,Radès,Tunisia,False
+2008-06-07,Seychelles,Tunisia,0,2,FIFA World Cup qualification,Victoria,Seychelles,False
+2008-06-15,Burundi,Tunisia,0,1,FIFA World Cup qualification,Bujumbura,Burundi,False
+2008-06-21,Tunisia,Burundi,2,1,FIFA World Cup qualification,Radès,Tunisia,False
+2008-08-20,Tunisia,Angola,1,1,Friendly,Monastir,Tunisia,False
+2008-09-06,Burkina Faso,Tunisia,0,0,FIFA World Cup qualification,Ouagadougou,Burkina Faso,False
+2008-10-11,Tunisia,Seychelles,5,0,FIFA World Cup qualification,Radès,Tunisia,False
+2008-10-14,France,Tunisia,3,1,Friendly,Saint-Denis,France,False
+2008-11-19,Ghana,Tunisia,0,0,Friendly,Accra,Ghana,False
+2009-02-11,Tunisia,Netherlands,1,1,Friendly,Radès,Tunisia,False
+2009-03-28,Kenya,Tunisia,1,2,FIFA World Cup qualification,Nairobi,Kenya,False
+2009-05-28,Tunisia,Sudan,4,0,Friendly,Radès,Tunisia,False
+2009-06-06,Tunisia,Mozambique,2,0,FIFA World Cup qualification,Radès,Tunisia,False
+2009-06-20,Tunisia,Nigeria,0,0,FIFA World Cup qualification,Radès,Tunisia,False
+2009-08-12,Tunisia,Ivory Coast,0,0,Friendly,Sousse,Tunisia,False
+2009-09-06,Nigeria,Tunisia,2,2,FIFA World Cup qualification,Abuja,Nigeria,False
+2009-10-11,Tunisia,Kenya,1,0,FIFA World Cup qualification,Tunis,Tunisia,False
+2009-10-14,Tunisia,Saudi Arabia,0,1,Friendly,Radès,Tunisia,False
+2009-11-14,Mozambique,Tunisia,1,0,FIFA World Cup qualification,Maputo,Mozambique,False
+2010-01-09,Tunisia,Gambia,1,2,Friendly,Radès,Tunisia,False
+2010-01-13,Zambia,Tunisia,1,1,African Cup of Nations,Lubango,Angola,True
+2010-01-17,Gabon,Tunisia,0,0,African Cup of Nations,Lubango,Angola,True
+2010-01-21,Cameroon,Tunisia,2,2,African Cup of Nations,Lubango,Angola,True
+2010-05-30,Tunisia,France,1,1,Friendly,Radès,Tunisia,False
+2010-06-20,Sudan,Tunisia,2,6,Friendly,Omdurman,Sudan,False
+2010-07-01,Tunisia,Botswana,0,1,African Cup of Nations qualification,Tunis,Tunisia,False
+2010-08-11,Chad,Tunisia,1,3,African Cup of Nations qualification,N'Djamena,Chad,False
+2010-09-04,Tunisia,Malawi,2,2,African Cup of Nations qualification,Radès,Tunisia,False
+2010-10-10,Togo,Tunisia,1,2,African Cup of Nations qualification,Lomé,Togo,False
+2010-11-17,Botswana,Tunisia,1,0,African Cup of Nations qualification,Gaborone,Botswana,False
+2011-03-29,Oman,Tunisia,2,1,Friendly,Muscat,Oman,False
+2011-05-29,Tunisia,Central African Republic,3,0,Friendly,Sousse,Tunisia,False
+2011-06-05,Tunisia,Chad,5,0,African Cup of Nations qualification,Sousse,Tunisia,False
+2011-08-10,Tunisia,Mali,4,2,Friendly,Monastir,Tunisia,False
+2011-08-22,Jordan,Tunisia,3,3,Friendly,Amman,Jordan,False
+2011-09-03,Malawi,Tunisia,0,0,African Cup of Nations qualification,Blantyre,Malawi,False
+2011-10-08,Tunisia,Togo,2,0,African Cup of Nations qualification,Radès,Tunisia,False
+2011-11-12,Algeria,Tunisia,1,0,Friendly,Algiers,Algeria,False
+2011-12-28,Basque Country,Tunisia,0,2,Friendly,Bilbao,Spain,False
+2011-12-30,Catalonia,Tunisia,0,0,Friendly,Barcelona,Spain,False
+2012-01-09,Tunisia,Sudan,3,0,Friendly,Sharjah,United Arab Emirates,True
+2012-01-13,Tunisia,Ivory Coast,0,2,Friendly,Abu Dhabi,United Arab Emirates,True
+2012-01-23,Morocco,Tunisia,1,2,African Cup of Nations,Libreville,Gabon,True
+2012-01-27,Niger,Tunisia,1,2,African Cup of Nations,Libreville,Gabon,True
+2012-01-31,Gabon,Tunisia,1,0,African Cup of Nations,Franceville,Gabon,False
+2012-02-05,Ghana,Tunisia,2,1,African Cup of Nations,Franceville,Gabon,True
+2012-02-29,Tunisia,Peru,1,1,Friendly,Tunis,Tunisia,False
+2012-05-27,Tunisia,Rwanda,5,1,Friendly,Monastir,Tunisia,False
+2012-06-02,Tunisia,Equatorial Guinea,3,1,FIFA World Cup qualification,Monastir,Tunisia,False
+2012-06-09,Cape Verde,Tunisia,1,2,FIFA World Cup qualification,Praia,Cape Verde,False
+2012-08-15,Iran,Tunisia,2,2,Friendly,Kecskemét,Hungary,True
+2012-09-08,Sierra Leone,Tunisia,2,2,African Cup of Nations qualification,Freetown,Sierra Leone,False
+2012-10-13,Tunisia,Sierra Leone,0,0,African Cup of Nations qualification,Monastir,Tunisia,False
+2012-10-16,Egypt,Tunisia,0,1,Friendly,Abu Dhabi,United Arab Emirates,True
+2012-11-14,Tunisia,Switzerland,1,2,Friendly,Sousse,Tunisia,False
+2012-12-30,Iraq,Tunisia,1,2,Friendly,Baghdad,Iraq,False
+2013-01-07,Tunisia,Ethiopia,1,1,Friendly,Al Wakrah,Qatar,True
+2013-01-10,Gabon,Tunisia,1,1,Friendly,Abu Dhabi,United Arab Emirates,True
+2013-01-13,Ghana,Tunisia,4,2,Friendly,Abu Dhabi,United Arab Emirates,True
+2013-01-22,Tunisia,Algeria,1,0,African Cup of Nations,Rustenburg,South Africa,True
+2013-01-26,Ivory Coast,Tunisia,3,0,African Cup of Nations,Rustenburg,South Africa,True
+2013-01-30,Togo,Tunisia,1,1,African Cup of Nations,Nelspruit,South Africa,True
+2013-03-23,Tunisia,Sierra Leone,2,1,FIFA World Cup qualification,Radès,Tunisia,False
+2013-06-08,Sierra Leone,Tunisia,2,2,FIFA World Cup qualification,Freetown,Sierra Leone,False
+2013-06-16,Equatorial Guinea,Tunisia,1,1,FIFA World Cup qualification,Malabo,Equatorial Guinea,False
+2013-08-14,Tunisia,Congo,3,0,Friendly,Radès,Tunisia,False
+2013-09-07,Tunisia,Cape Verde,3,0,FIFA World Cup qualification,Radès,Tunisia,False
+2013-10-13,Tunisia,Cameroon,0,0,FIFA World Cup qualification,Radès,Tunisia,False
+2013-11-17,Cameroon,Tunisia,4,1,FIFA World Cup qualification,Yaoundé,Cameroon,False
+2014-03-05,Colombia,Tunisia,1,1,Friendly,Barcelona,Spain,True
+2014-05-28,South Korea,Tunisia,0,1,Friendly,Seoul,South Korea,False
+2014-06-07,Belgium,Tunisia,1,0,Friendly,Brussels,Belgium,False
+2014-09-06,Tunisia,Botswana,2,1,African Cup of Nations qualification,Monastir,Tunisia,False
+2014-09-10,Egypt,Tunisia,0,1,African Cup of Nations qualification,Cairo,Egypt,False
+2014-10-10,Senegal,Tunisia,0,0,African Cup of Nations qualification,Dakar,Senegal,False
+2014-10-15,Tunisia,Senegal,1,0,African Cup of Nations qualification,Monastir,Tunisia,False
+2014-11-14,Botswana,Tunisia,0,0,African Cup of Nations qualification,Gaborone,Botswana,False
+2014-11-19,Tunisia,Egypt,2,1,African Cup of Nations qualification,Monastir,Tunisia,False
+2015-01-11,Tunisia,Algeria,1,1,Friendly,Radès,Tunisia,False
+2015-01-18,Tunisia,Cape Verde,1,1,African Cup of Nations,Ebebiyín,Equatorial Guinea,True
+2015-01-22,Zambia,Tunisia,1,2,African Cup of Nations,Ebebiyín,Equatorial Guinea,True
+2015-01-26,DR Congo,Tunisia,1,1,African Cup of Nations,Bata,Equatorial Guinea,True
+2015-01-31,Equatorial Guinea,Tunisia,2,1,African Cup of Nations,Bata,Equatorial Guinea,False
+2015-03-27,Japan,Tunisia,2,0,Kirin Challenge Cup,Ōita,Japan,False
+2015-03-31,China PR,Tunisia,1,1,Friendly,Nanjing,China PR,False
+2015-06-12,Tunisia,Djibouti,8,1,African Cup of Nations qualification,Tunis,Tunisia,False
+2015-09-05,Liberia,Tunisia,1,0,African Cup of Nations qualification,Monrovia,Liberia,False
+2015-10-09,Tunisia,Gabon,3,3,Friendly,Radès,Tunisia,False
+2015-11-13,Mauritania,Tunisia,1,2,FIFA World Cup qualification,Nouakchott,Mauritania,False
+2015-11-17,Tunisia,Mauritania,2,1,FIFA World Cup qualification,Radès,Tunisia,False
+2016-03-25,Tunisia,Togo,1,0,African Cup of Nations qualification,Monastir,Tunisia,False
+2016-03-29,Togo,Tunisia,0,0,African Cup of Nations qualification,Lomé,Togo,False
+2016-06-03,Djibouti,Tunisia,0,3,African Cup of Nations qualification,Djibouti,Djibouti,False
+2016-09-04,Tunisia,Liberia,4,1,African Cup of Nations qualification,Monastir,Tunisia,False
+2016-10-09,Tunisia,Guinea,2,0,FIFA World Cup qualification,Monastir,Tunisia,False
+2016-11-11,Libya,Tunisia,0,1,FIFA World Cup qualification,Algiers,Algeria,True
+2016-11-15,Tunisia,Mauritania,0,0,Friendly,Gabès,Tunisia,False
+2016-12-28,Catalonia,Tunisia,3,3,Friendly,Girona,Spain,False
+2016-12-30,Basque Country,Tunisia,3,1,Friendly,Bilbao,Spain,False
+2017-01-04,Tunisia,Uganda,2,0,Friendly,Tunis,Tunisia,False
+2017-01-08,Egypt,Tunisia,1,0,Friendly,Cairo,Egypt,False
+2017-01-15,Tunisia,Senegal,0,2,African Cup of Nations,Franceville,Gabon,True
+2017-01-19,Algeria,Tunisia,1,2,African Cup of Nations,Franceville,Gabon,True
+2017-01-23,Zimbabwe,Tunisia,2,4,African Cup of Nations,Libreville,Gabon,True
+2017-01-28,Burkina Faso,Tunisia,2,0,African Cup of Nations,Libreville,Gabon,True
+2017-03-24,Tunisia,Cameroon,0,1,Friendly,Monastir,Tunisia,False
+2017-03-28,Morocco,Tunisia,1,0,Friendly,Marrakech,Morocco,False
+2017-06-11,Tunisia,Egypt,1,0,African Cup of Nations qualification,Radès,Tunisia,False
+2017-09-01,Tunisia,DR Congo,2,1,FIFA World Cup qualification,Radès,Tunisia,False
+2017-09-05,DR Congo,Tunisia,2,2,FIFA World Cup qualification,Kinshasa,DR Congo,False
+2017-10-07,Guinea,Tunisia,1,4,FIFA World Cup qualification,Conakry,Guinea,False
+2017-11-11,Tunisia,Libya,0,0,FIFA World Cup qualification,Radès,Tunisia,False
+2018-03-23,Tunisia,Iran,1,0,Friendly,Radès,Tunisia,False
+2018-03-27,Tunisia,Costa Rica,1,0,Friendly,Nice,France,True
+2018-05-28,Portugal,Tunisia,2,2,Friendly,Braga,Portugal,False
+2018-06-01,Turkey,Tunisia,2,2,Friendly,Geneva,Switzerland,True
+2018-06-09,Tunisia,Spain,0,1,Friendly,Krasnodar,Russia,True
+2018-06-18,Tunisia,England,1,2,FIFA World Cup,Volgograd,Russia,True
+2018-06-23,Belgium,Tunisia,5,2,FIFA World Cup,Moscow,Russia,True
+2018-06-28,Panama,Tunisia,1,2,FIFA World Cup,Saransk,Russia,True
+2018-09-09,Eswatini,Tunisia,0,2,African Cup of Nations qualification,Manzini,Eswatini,False
+2018-10-13,Tunisia,Niger,1,0,African Cup of Nations qualification,Radès,Tunisia,False
+2018-10-16,Niger,Tunisia,1,2,African Cup of Nations qualification,Niamey,Niger,False
+2018-11-16,Egypt,Tunisia,3,2,African Cup of Nations qualification,Alexandria,Egypt,False
+2018-11-20,Tunisia,Morocco,0,1,Friendly,Radès,Tunisia,False
+2019-03-22,Tunisia,Eswatini,4,0,African Cup of Nations qualification,Radès,Tunisia,False
+2019-03-26,Algeria,Tunisia,1,0,Friendly,Blida,Algeria,False
+2019-06-07,Tunisia,Iraq,2,0,Friendly,Radès,Tunisia,False
+2019-06-11,Croatia,Tunisia,1,2,Friendly,Varaždin,Croatia,False
+2019-06-17,Tunisia,Burundi,2,1,Friendly,Radès,Tunisia,False
+2019-06-24,Tunisia,Angola,1,1,African Cup of Nations,Suez,Egypt,True
+2019-06-28,Tunisia,Mali,1,1,African Cup of Nations,Suez,Egypt,True
+2019-07-02,Mauritania,Tunisia,0,0,African Cup of Nations,Suez,Egypt,True
+2019-07-08,Ghana,Tunisia,1,1,African Cup of Nations,Ismailia,Egypt,True
+2019-07-11,Madagascar,Tunisia,0,3,African Cup of Nations,Cairo,Egypt,True
+2019-07-14,Senegal,Tunisia,1,0,African Cup of Nations,Cairo,Egypt,True
+2019-07-17,Tunisia,Nigeria,0,1,African Cup of Nations,Cairo,Egypt,True
+2019-09-06,Tunisia,Mauritania,1,0,Friendly,Radès,Tunisia,False
+2019-09-10,Ivory Coast,Tunisia,2,1,Friendly,Rouen,France,True
+2019-10-12,Tunisia,Cameroon,0,0,Friendly,Radès,Tunisia,False
+2019-11-15,Tunisia,Libya,4,1,African Cup of Nations qualification,Radès,Tunisia,False
+2019-11-19,Equatorial Guinea,Tunisia,0,1,African Cup of Nations qualification,Malabo,Equatorial Guinea,False
+2020-10-09,Tunisia,Sudan,3,0,Friendly,Radès,Tunisia,False
+2020-10-13,Nigeria,Tunisia,1,1,Friendly,Sankt Veit an der Glan,Austria,True
+2020-11-13,Tunisia,Tanzania,1,0,African Cup of Nations qualification,Radès,Tunisia,False
+2020-11-17,Tanzania,Tunisia,1,1,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+2021-03-25,Libya,Tunisia,2,5,African Cup of Nations qualification,Benina,Libya,False
+2021-03-28,Tunisia,Equatorial Guinea,2,1,African Cup of Nations qualification,Radès,Tunisia,False
+2021-06-05,Tunisia,DR Congo,1,0,Friendly,Radès,Tunisia,False
+2021-06-11,Tunisia,Algeria,0,2,Friendly,Radès,Tunisia,False
+2021-06-15,Tunisia,Mali,1,0,Friendly,Radès,Tunisia,False
+2021-09-03,Tunisia,Equatorial Guinea,3,0,FIFA World Cup qualification,Radès,Tunisia,False
+2021-09-07,Zambia,Tunisia,0,2,FIFA World Cup qualification,Ndola,Zambia,False
+2021-10-07,Tunisia,Mauritania,3,0,FIFA World Cup qualification,Radès,Tunisia,False
+2021-10-10,Mauritania,Tunisia,0,0,FIFA World Cup qualification,Nouakchott,Mauritania,False
+2021-11-13,Equatorial Guinea,Tunisia,1,0,FIFA World Cup qualification,Malabo,Equatorial Guinea,False
+2021-11-16,Tunisia,Zambia,3,1,FIFA World Cup qualification,Radès,Tunisia,False
+2021-11-30,Tunisia,Mauritania,5,1,Arab Cup,Al Rayyan,Qatar,True
+2021-12-03,Syria,Tunisia,2,0,Arab Cup,Al Khor,Qatar,True
+2021-12-06,Tunisia,United Arab Emirates,1,0,Arab Cup,Doha,Qatar,True
+2021-12-10,Tunisia,Oman,2,1,Arab Cup,Al Rayyan,Qatar,True
+2021-12-15,Tunisia,Egypt,1,0,Arab Cup,Doha,Qatar,True
+2021-12-18,Tunisia,Algeria,0,2,Arab Cup,Al Khor,Qatar,True
+2022-01-12,Tunisia,Mali,0,1,African Cup of Nations,Limbé,Cameroon,True
+2022-01-16,Tunisia,Mauritania,4,0,African Cup of Nations,Limbé,Cameroon,True
+2022-01-20,Gambia,Tunisia,1,0,African Cup of Nations,Limbé,Cameroon,True
+2022-01-23,Nigeria,Tunisia,0,1,African Cup of Nations,Garoua,Cameroon,True
+2022-01-29,Burkina Faso,Tunisia,1,0,African Cup of Nations,Garoua,Cameroon,True
+2022-03-25,Mali,Tunisia,0,1,FIFA World Cup qualification,Bamako,Mali,False
+2022-03-29,Tunisia,Mali,0,0,FIFA World Cup qualification,Tunis,Tunisia,False
+2022-06-02,Tunisia,Equatorial Guinea,4,0,African Cup of Nations qualification,Radès,Tunisia,False
+2022-06-05,Botswana,Tunisia,0,0,African Cup of Nations qualification,Francistown,Botswana,False
+2022-06-10,Chile,Tunisia,0,2,Kirin Cup,Kobe,Japan,True
+2022-06-14,Japan,Tunisia,0,3,Kirin Cup,Suita,Japan,False
+2022-09-22,Comoros,Tunisia,0,1,Friendly,Orléans,France,True
+2022-09-27,Brazil,Tunisia,5,1,Friendly,Paris,France,True
+2022-11-16,Iran,Tunisia,0,2,Friendly,Doha,Qatar,True
+2022-11-22,Denmark,Tunisia,0,0,FIFA World Cup,Al Rayyan,Qatar,True
+2022-11-26,Tunisia,Australia,0,1,FIFA World Cup,Al Wakrah,Qatar,True
+2022-11-30,Tunisia,France,1,0,FIFA World Cup,Al Rayyan,Qatar,True
+2023-03-24,Tunisia,Libya,3,0,African Cup of Nations qualification,Radès,Tunisia,False
+2023-03-28,Libya,Tunisia,0,1,African Cup of Nations qualification,Benghazi,Libya,False
+2023-06-17,Equatorial Guinea,Tunisia,1,0,African Cup of Nations qualification,Malabo,Equatorial Guinea,False
+2023-06-20,Algeria,Tunisia,1,1,Friendly,Annaba,Algeria,False
+2023-09-07,Tunisia,Botswana,3,0,African Cup of Nations qualification,Radès,Tunisia,False
+2023-09-12,Egypt,Tunisia,1,3,Friendly,Cairo,Egypt,False
+2023-10-13,South Korea,Tunisia,4,0,Friendly,Seoul,South Korea,False
+2023-11-17,Tunisia,São Tomé and Príncipe,4,0,FIFA World Cup qualification,Radès,Tunisia,False
+2023-11-21,Malawi,Tunisia,0,1,FIFA World Cup qualification,Lilongwe,Malawi,False
+2024-01-06,Tunisia,Mauritania,0,0,Friendly,Radès,Tunisia,False
+2024-01-10,Tunisia,Cape Verde,2,0,Friendly,Radès,Tunisia,False
+2024-01-16,Tunisia,Namibia,0,1,African Cup of Nations,Korhogo,Ivory Coast,True
+2024-01-20,Tunisia,Mali,1,1,African Cup of Nations,Korhogo,Ivory Coast,True
+2024-01-24,South Africa,Tunisia,0,0,African Cup of Nations,Korhogo,Ivory Coast,True
+2024-03-23,Tunisia,Croatia,0,0,FIFA Series,Cairo,Egypt,True
+2024-03-26,New Zealand,Tunisia,0,0,FIFA Series,Cairo,Egypt,True
+2024-06-05,Tunisia,Equatorial Guinea,1,0,FIFA World Cup qualification,Radès,Tunisia,False
+2024-06-09,Namibia,Tunisia,0,0,FIFA World Cup qualification,Johannesburg,South Africa,True
+2024-09-05,Tunisia,Madagascar,1,0,African Cup of Nations qualification,Radès,Tunisia,False
+2024-09-08,Gambia,Tunisia,1,2,African Cup of Nations qualification,El Jadida,Morocco,True
+2024-10-11,Tunisia,Comoros,0,1,African Cup of Nations qualification,Radès,Tunisia,False
+2024-10-15,Comoros,Tunisia,1,1,African Cup of Nations qualification,Abidjan,Ivory Coast,True
+2025-03-19,Liberia,Tunisia,0,1,FIFA World Cup qualification,Monrovia,Liberia,False
+2025-03-24,Tunisia,Malawi,2,0,FIFA World Cup qualification,Radès,Tunisia,False

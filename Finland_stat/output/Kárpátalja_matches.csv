@@ -1,0 +1,12 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+2016-08-01,Felvidék,Kárpátalja,1,1,Hungary Heritage Cup,Szarvas,Hungary,True
+2017-06-04,Northern Cyprus,Kárpátalja,1,0,CONIFA European Football Cup,Nicosia,Northern Cyprus,False
+2017-06-06,Kárpátalja,Abkhazia,2,2,CONIFA European Football Cup,Nicosia,Northern Cyprus,True
+2017-06-07,South Ossetia,Kárpátalja,1,4,CONIFA European Football Cup,Famagusta,Northern Cyprus,True
+2017-06-09,Kárpátalja,Ellan Vannin,3,3,CONIFA European Football Cup,Morphou,Northern Cyprus,True
+2018-05-31,Northern Cyprus,Kárpátalja,1,1,CONIFA World Football Cup,Enfield,England,True
+2018-06-02,Abkhazia,Kárpátalja,0,2,CONIFA World Football Cup,Enfield,England,True
+2018-06-03,Kárpátalja,Tibet,5,1,CONIFA World Football Cup,Bracknell,England,True
+2018-06-05,Kárpátalja,Cascadia,3,1,CONIFA World Football Cup,Sutton,England,True
+2018-06-07,Kárpátalja,Székely Land,4,2,CONIFA World Football Cup,Carshalton,England,True
+2018-06-09,Northern Cyprus,Kárpátalja,0,0,CONIFA World Football Cup,Enfield,England,True

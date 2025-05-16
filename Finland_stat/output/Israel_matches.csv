@@ -1,0 +1,489 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1934-03-16,Egypt,Israel,7,1,FIFA World Cup qualification,Cairo,Egypt,False
+1934-04-06,Israel,Egypt,1,4,FIFA World Cup qualification,Tel Aviv,Mandatory Palestine,False
+1938-01-22,Israel,Greece,1,3,FIFA World Cup qualification,Tel Aviv,Mandatory Palestine,False
+1938-02-20,Greece,Israel,1,0,FIFA World Cup qualification,Athens,Greece,False
+1940-04-27,Israel,Lebanon,5,1,Friendly,Tel Aviv,Mandatory Palestine,False
+1948-09-26,United States,Israel,3,1,Friendly,East Rutherford,United States,False
+1949-07-30,Israel,Cyprus,3,1,Friendly,Tel Aviv,Israel,False
+1949-08-21,Yugoslavia,Israel,6,0,FIFA World Cup qualification,Belgrade,Yugoslavia,False
+1949-09-18,Israel,Yugoslavia,2,5,FIFA World Cup qualification,Tel Aviv,Israel,False
+1950-10-28,Israel,Turkey,5,1,Friendly,Tel Aviv,Israel,False
+1950-12-03,Turkey,Israel,3,2,Friendly,Istanbul,Turkey,False
+1953-11-01,Greece,Israel,1,0,FIFA World Cup qualification,Athens,Greece,False
+1953-11-08,Yugoslavia,Israel,1,0,FIFA World Cup qualification,Skopje,Yugoslavia,False
+1954-03-08,Israel,Greece,0,2,FIFA World Cup qualification,Ramat Gan,Israel,False
+1954-03-21,Israel,Yugoslavia,0,1,FIFA World Cup qualification,Ramat Gan,Israel,False
+1954-05-01,South Africa,Israel,2,1,Friendly,Johannesburg,South Africa,False
+1954-05-03,Zambia,Israel,0,0,Friendly,Kitwe,Northern Rhodesia,False
+1954-05-05,Zimbabwe,Israel,2,1,Friendly,Salisbury,Southern Rhodesia,False
+1954-05-09,Zimbabwe,Israel,1,2,Friendly,Bulawayo,Southern Rhodesia,False
+1956-09-01,Hong Kong,Israel,2,3,AFC Asian Cup,So Kon Po,Hong Kong,False
+1956-09-08,Israel,South Korea,1,2,AFC Asian Cup,So Kon Po,Hong Kong,True
+1956-09-12,Israel,Vietnam Republic,2,1,AFC Asian Cup,So Kon Po,Hong Kong,True
+1958-01-15,Israel,Wales,0,2,FIFA World Cup qualification,Ramat Gan,Israel,False
+1958-02-05,Wales,Israel,2,0,FIFA World Cup qualification,Cardiff,Wales,False
+1958-05-26,Israel,Iran,4,0,Asian Games,Tokyo,Japan,True
+1958-05-28,Singapore,Israel,1,2,Asian Games,Tokyo,Japan,True
+1958-05-30,Taiwan,Israel,2,0,Asian Games,Tokyo,Japan,True
+1959-06-21,Poland,Israel,7,2,Friendly,Wrocław,Poland,False
+1959-11-29,Israel,Poland,1,1,Friendly,Ramat Gan,Israel,False
+1959-12-05,Iran,Israel,3,0,AFC Asian Cup qualification,Ernakulam,India,True
+1959-12-08,India,Israel,1,3,AFC Asian Cup qualification,Ernakulam,India,False
+1959-12-10,Israel,Pakistan,2,0,AFC Asian Cup qualification,Ernakulam,India,True
+1959-12-12,Israel,Iran,1,1,AFC Asian Cup qualification,Ernakulam,India,True
+1959-12-17,Pakistan,Israel,2,2,AFC Asian Cup qualification,Ernakulam,India,True
+1960-10-17,South Korea,Israel,3,0,AFC Asian Cup,Seoul,South Korea,False
+1960-10-19,Israel,Vietnam Republic,5,1,AFC Asian Cup,Seoul,South Korea,True
+1960-10-23,Israel,Taiwan,1,0,AFC Asian Cup,Seoul,South Korea,True
+1960-11-13,Cyprus,Israel,1,1,FIFA World Cup qualification,Nicosia,Cyprus,False
+1960-11-27,Israel,Cyprus,6,1,FIFA World Cup qualification,Ramat Gan,Israel,False
+1961-03-14,Israel,Ethiopia,1,0,FIFA World Cup qualification,Ramat Gan,Israel,False
+1961-03-19,Israel,Ethiopia,3,2,FIFA World Cup qualification,Ramat Gan,Israel,False
+1961-10-15,Israel,Italy,2,4,FIFA World Cup qualification,Ramat Gan,Israel,False
+1961-10-22,Israel,South Korea,1,1,Friendly,Ramat Gan,Israel,False
+1961-11-04,Italy,Israel,6,0,FIFA World Cup qualification,Turin,Italy,False
+1961-12-14,Israel,Yugoslavia,0,2,Friendly,Ramat Gan,Israel,False
+1962-05-16,Turkey,Israel,1,0,Friendly,Istanbul,Turkey,False
+1962-10-17,Israel,Austria,1,1,Friendly,Ramat Gan,Israel,False
+1962-11-25,Israel,Turkey,0,2,Friendly,Ramat Gan,Israel,False
+1963-05-19,Israel,Brazil,0,5,Friendly,Ramat Gan,Israel,False
+1964-01-02,Hong Kong,Israel,0,3,Friendly,So Kon Po,Hong Kong,False
+1964-05-26,Israel,Hong Kong,1,0,AFC Asian Cup,Ramat Gan,Israel,False
+1964-05-29,Israel,India,2,0,AFC Asian Cup,Jaffa,Israel,False
+1964-06-03,Israel,South Korea,2,1,AFC Asian Cup,Ramat Gan,Israel,False
+1964-10-28,Israel,Yugoslavia,2,0,Friendly,Jaffa,Israel,False
+1964-12-01,Israel,Denmark,0,1,Friendly,Jaffa,Israel,False
+1965-01-26,Israel,Netherlands,0,1,Friendly,Jaffa,Israel,False
+1965-03-17,Israel,Switzerland,0,0,Friendly,Jaffa,Israel,False
+1965-05-09,Belgium,Israel,1,0,FIFA World Cup qualification,Brussels,Belgium,False
+1965-06-13,Bulgaria,Israel,4,0,FIFA World Cup qualification,Sofia,Bulgaria,False
+1965-11-10,Israel,Belgium,0,5,FIFA World Cup qualification,Ramat Gan,Israel,False
+1965-11-21,Israel,Bulgaria,1,2,FIFA World Cup qualification,Ramat Gan,Israel,False
+1966-04-06,Israel,Finland,7,1,Friendly,Jaffa,Israel,False
+1966-05-08,Finland,Israel,0,3,Friendly,Helsinki,Finland,False
+1966-06-15,Israel,Uruguay,1,2,Friendly,Ramat Gan,Israel,False
+1966-10-12,Israel,Yugoslavia,1,3,Friendly,Jaffa,Israel,False
+1966-10-26,Denmark,Israel,3,1,Friendly,Copenhagen,Denmark,False
+1966-12-03,Israel,Poland,0,0,Friendly,Jaffa,Israel,False
+1966-12-07,Israel,Romania,1,2,Friendly,Jaffa,Israel,False
+1967-05-16,Israel,Scotland,1,2,Friendly,Ramat Gan,Israel,False
+1968-01-10,Israel,Belgium,0,2,Friendly,Jaffa,Israel,False
+1968-02-14,Israel,Switzerland,2,1,Friendly,Jaffa,Israel,False
+1968-02-19,Israel,Sweden,0,3,Friendly,Jaffa,Israel,False
+1968-05-12,Hong Kong,Israel,1,6,AFC Asian Cup,Tehran,Iran,True
+1968-05-14,Myanmar,Israel,1,0,AFC Asian Cup,Tehran,Iran,True
+1968-05-17,Israel,Taiwan,4,1,AFC Asian Cup,Tehran,Iran,True
+1968-05-19,Iran,Israel,2,1,AFC Asian Cup,Tehran,Iran,False
+1968-09-10,Israel,Northern Ireland,2,3,Friendly,Jaffa,Israel,False
+1968-09-15,United States,Israel,3,3,Friendly,New York,United States,False
+1968-09-25,United States,Israel,0,4,Friendly,Philadelphia,United States,False
+1969-03-12,Israel,Greece,3,3,Friendly,Jaffa,Israel,False
+1969-04-23,Israel,Austria,1,1,Friendly,Ramat Gan,Israel,False
+1969-08-25,Sweden,Israel,3,1,Friendly,Solna,Sweden,False
+1969-09-28,Israel,New Zealand,4,0,FIFA World Cup qualification,Ramat Gan,Israel,False
+1969-10-01,Israel,New Zealand,2,0,FIFA World Cup qualification,Ramat Gan,Israel,False
+1969-12-04,Israel,Australia,1,0,FIFA World Cup qualification,Ramat Gan,Israel,False
+1969-12-14,Australia,Israel,1,1,FIFA World Cup qualification,Sydney,Australia,False
+1970-01-28,Israel,Netherlands,0,1,Friendly,Jaffa,Israel,False
+1970-03-22,Ethiopia,Israel,1,5,Friendly,Addis Ababa,Ethiopia,False
+1970-06-02,Israel,Uruguay,0,2,FIFA World Cup,Puebla,Mexico,True
+1970-06-07,Israel,Sweden,1,1,FIFA World Cup,Toluca,Mexico,True
+1970-06-11,Israel,Italy,0,0,FIFA World Cup,Toluca,Mexico,True
+1971-11-11,Australia,Israel,2,2,Friendly,Brisbane,Australia,False
+1971-11-14,Australia,Israel,1,0,Friendly,Sydney,Australia,False
+1971-11-21,Australia,Israel,1,3,Friendly,Melbourne,Australia,False
+1972-02-23,Israel,Norway,2,1,Friendly,Jaffa,Israel,False
+1973-02-20,Israel,Argentina,1,1,Friendly,Jaffa,Israel,False
+1973-05-16,Israel,Japan,2,1,FIFA World Cup qualification,Seoul,South Korea,True
+1973-05-19,Israel,Malaysia,3,0,FIFA World Cup qualification,Seoul,South Korea,True
+1973-05-21,Israel,Thailand,6,0,FIFA World Cup qualification,Seoul,South Korea,True
+1973-05-23,South Korea,Israel,0,0,FIFA World Cup qualification,Seoul,South Korea,False
+1973-05-26,Israel,Japan,1,0,FIFA World Cup qualification,Seoul,South Korea,True
+1973-05-28,South Korea,Israel,1,0,FIFA World Cup qualification,Seoul,South Korea,False
+1973-07-19,Israel,Uruguay,1,2,Friendly,Ramat Gan,Israel,False
+1973-11-13,Israel,United States,3,1,Friendly,Jaffa,Israel,False
+1973-11-15,Israel,United States,2,0,Friendly,Beer Sheva,Israel,False
+1974-05-28,Israel,Australia,2,1,Friendly,Jaffa,Israel,False
+1974-09-03,Israel,Malaysia,8,3,Asian Games,Tehran,Iran,True
+1974-09-05,Israel,Philippines,6,0,Asian Games,Tehran,Iran,True
+1974-09-07,Japan,Israel,0,3,Asian Games,Tehran,Iran,True
+1974-09-10,Israel,Myanmar,3,0,Asian Games,Tehran,Iran,True
+1974-09-12,Israel,North Korea,2,0,Asian Games,Tehran,Iran,True
+1974-09-14,Israel,Kuwait,2,0,Asian Games,Tehran,Iran,True
+1974-09-15,Iran,Israel,1,0,Asian Games,Tehran,Iran,False
+1974-12-04,Israel,Romania,0,1,Friendly,Jaffa,Israel,False
+1975-10-20,Israel,Mexico,1,0,Friendly,Jaffa,Israel,False
+1976-02-04,Israel,Denmark,0,1,Friendly,Jaffa,Israel,False
+1976-03-03,Israel,Northern Ireland,1,1,Friendly,Jaffa,Israel,False
+1976-09-22,Greece,Israel,0,1,Friendly,Patras,Greece,False
+1976-11-03,Israel,Australia,1,1,Friendly,Ramat Gan,Israel,False
+1976-12-15,Israel,Austria,1,3,Friendly,Ramat Gan,Israel,False
+1977-01-26,Israel,Greece,1,1,Friendly,Ramat Gan,Israel,False
+1977-02-09,Thailand,Israel,3,3,Friendly,Bangkok,Thailand,False
+1977-02-12,Australia,Israel,1,1,Friendly,Melbourne,Australia,False
+1977-02-16,Australia,Israel,1,1,Friendly,Sydney,Australia,False
+1977-02-27,Israel,South Korea,0,0,FIFA World Cup qualification,Ramat Gan,Israel,False
+1977-03-06,Israel,Japan,2,0,FIFA World Cup qualification,Ramat Gan,Israel,False
+1977-03-10,Israel,Japan,2,0,FIFA World Cup qualification,Ramat Gan,Israel,False
+1977-03-20,South Korea,Israel,3,1,FIFA World Cup qualification,Seoul,South Korea,False
+1978-02-08,Israel,Denmark,2,0,Friendly,Jaffa,Israel,False
+1978-02-22,Israel,Netherlands,1,2,Friendly,Ramat Gan,Israel,False
+1978-11-15,Israel,Belgium,1,0,Friendly,Jaffa,Israel,False
+1978-12-19,Israel,Romania,1,1,Friendly,Jaffa,Israel,False
+1979-01-30,Israel,Austria,0,1,Friendly,Jaffa,Israel,False
+1979-02-14,Israel,Greece,4,1,Friendly,Ramat Gan,Israel,False
+1980-03-26,Israel,Northern Ireland,0,0,FIFA World Cup qualification,Ramat Gan,Israel,False
+1980-06-18,Sweden,Israel,1,1,FIFA World Cup qualification,Solna,Sweden,False
+1980-11-12,Israel,Sweden,0,0,FIFA World Cup qualification,Ramat Gan,Israel,False
+1980-12-02,Israel,Australia,0,1,Friendly,Beer Sheva,Israel,False
+1980-12-17,Portugal,Israel,3,0,FIFA World Cup qualification,Lisbon,Portugal,False
+1981-02-25,Israel,Scotland,0,1,FIFA World Cup qualification,Ramat Gan,Israel,False
+1981-04-08,Israel,Romania,2,1,Friendly,Jaffa,Israel,False
+1981-04-28,Scotland,Israel,3,1,FIFA World Cup qualification,Glasgow,Scotland,False
+1981-10-28,Israel,Portugal,4,1,FIFA World Cup qualification,Ramat Gan,Israel,False
+1981-11-18,Northern Ireland,Israel,1,0,FIFA World Cup qualification,Belfast,Northern Ireland,False
+1983-09-26,Israel,Uruguay,2,2,Friendly,Jaffa,Israel,False
+1983-11-08,Israel,Romania,1,1,Friendly,Jaffa,Israel,False
+1984-04-04,Israel,Republic of Ireland,3,0,Friendly,Jaffa,Israel,False
+1984-04-11,Romania,Israel,0,0,Friendly,Oradea,Romania,False
+1984-06-10,Israel,Wales,0,0,Friendly,Ramat Gan,Israel,False
+1984-09-06,Israel,Malta,2,1,Friendly,Jerusalem,Israel,False
+1984-10-09,Greece,Israel,2,2,Friendly,Athens,Greece,False
+1984-10-16,Northern Ireland,Israel,3,0,Friendly,Belfast,Northern Ireland,False
+1984-11-21,Israel,Romania,1,1,Friendly,Petah Tikva,Israel,False
+1984-12-19,Israel,Luxembourg,2,0,Friendly,Petah Tikva,Israel,False
+1985-01-09,Israel,Greece,0,2,Friendly,Jaffa,Israel,False
+1985-02-27,Israel,Republic of Ireland,0,0,Friendly,Ramat Gan,Israel,False
+1985-05-01,Israel,Sweden,1,1,Friendly,Ramat Gan,Israel,False
+1985-09-03,Israel,Taiwan,6,0,FIFA World Cup qualification,Ramat Gan,Israel,False
+1985-09-08,Israel,Taiwan,5,0,FIFA World Cup qualification,Ramat Gan,Israel,False
+1985-10-08,Israel,Australia,1,2,FIFA World Cup qualification,Ramat Gan,Israel,False
+1985-10-20,Australia,Israel,1,1,FIFA World Cup qualification,Melbourne,Australia,False
+1985-10-26,New Zealand,Israel,3,1,FIFA World Cup qualification,Auckland,New Zealand,False
+1985-11-10,Israel,New Zealand,3,0,FIFA World Cup qualification,Ramat Gan,Israel,False
+1986-01-28,Israel,Scotland,0,1,Friendly,Ramat Gan,Israel,False
+1986-02-26,Israel,England,1,2,Friendly,Ramat Gan,Israel,False
+1986-10-08,Israel,Romania,2,4,Friendly,Ramat Gan,Israel,False
+1987-02-18,Israel,Northern Ireland,1,1,Friendly,Ramat Gan,Israel,False
+1987-03-25,Israel,Germany,0,2,Friendly,Ramat Gan,Israel,False
+1987-04-08,Romania,Israel,3,2,Friendly,Braşov,Romania,False
+1987-05-19,Switzerland,Israel,1,0,Friendly,Aarau,Switzerland,False
+1987-06-01,Israel,Brazil,0,4,Friendly,Ramat Gan,Israel,False
+1987-11-10,Republic of Ireland,Israel,5,0,Friendly,Dublin,Republic of Ireland,False
+1987-12-02,Israel,Malta,1,1,Friendly,Haifa,Israel,False
+1987-12-16,Israel,Switzerland,0,2,Friendly,Ramat Gan,Israel,False
+1988-01-19,Israel,Belgium,2,3,Friendly,Ramat Gan,Israel,False
+1988-01-27,Israel,France,1,1,Friendly,Ramat Gan,Israel,False
+1988-02-03,Israel,Romania,0,2,Friendly,Haifa,Israel,False
+1988-02-10,Israel,Poland,1,3,Friendly,Ramat Gan,Israel,False
+1988-02-17,Israel,England,0,0,Friendly,Ramat Gan,Israel,False
+1988-10-18,Israel,Malta,2,0,Friendly,Beer Sheva,Israel,False
+1988-11-23,Romania,Israel,3,0,Friendly,Sibiu,Romania,False
+1989-01-04,Israel,Netherlands,0,2,Friendly,Ramat Gan,Israel,False
+1989-01-11,Malta,Israel,1,2,Friendly,Attard,Malta,False
+1989-02-08,Israel,Wales,3,3,Friendly,Ramat Gan,Israel,False
+1989-03-05,Israel,New Zealand,1,0,FIFA World Cup qualification,Ramat Gan,Israel,False
+1989-03-19,Israel,Australia,1,1,FIFA World Cup qualification,Ramat Gan,Israel,False
+1989-04-09,New Zealand,Israel,2,2,FIFA World Cup qualification,Auckland,New Zealand,False
+1989-04-16,Australia,Israel,1,1,FIFA World Cup qualification,Sydney,Australia,False
+1989-10-15,Colombia,Israel,1,0,FIFA World Cup qualification,Barranquilla,Colombia,False
+1989-10-30,Israel,Colombia,0,0,FIFA World Cup qualification,Ramat Gan,Israel,False
+1990-03-28,Greece,Israel,2,1,Friendly,Athens,Greece,False
+1990-04-25,Israel,Romania,1,4,Friendly,Haifa,Israel,False
+1990-05-16,Israel,Russia,3,2,Friendly,Ramat Gan,Israel,False
+1990-05-22,Israel,Argentina,1,2,Friendly,Ramat Gan,Israel,False
+1992-02-12,Israel,Russia,1,2,Friendly,Jerusalem,Israel,False
+1992-03-03,Israel,Cyprus,2,1,Friendly,Bat Yam,Israel,False
+1992-04-08,Israel,Iceland,2,2,Friendly,Ramat Gan,Israel,False
+1992-08-05,Faroe Islands,Israel,1,1,Friendly,Toftir,Faroe Islands,False
+1992-08-09,Iceland,Israel,0,2,Friendly,Reykjavík,Iceland,False
+1992-09-09,Poland,Israel,1,1,Friendly,Mielec,Poland,False
+1992-09-23,Hungary,Israel,0,0,Friendly,Budapest,Hungary,False
+1992-10-28,Austria,Israel,5,2,FIFA World Cup qualification,Vienna,Austria,False
+1992-11-11,Israel,Sweden,1,3,FIFA World Cup qualification,Ramat Gan,Israel,False
+1992-12-02,Israel,Bulgaria,0,2,FIFA World Cup qualification,Ramat Gan,Israel,False
+1993-02-03,Israel,Poland,0,0,Friendly,Ramat Gan,Israel,False
+1993-02-17,Israel,France,0,4,FIFA World Cup qualification,Ramat Gan,Israel,False
+1993-03-24,Israel,Russia,2,2,Friendly,Haifa,Israel,False
+1993-04-27,Ukraine,Israel,1,1,Friendly,Odessa,Ukraine,False
+1993-05-12,Bulgaria,Israel,2,2,FIFA World Cup qualification,Sofia,Bulgaria,False
+1993-06-02,Sweden,Israel,5,0,FIFA World Cup qualification,Solna,Sweden,False
+1993-06-16,Finland,Israel,0,0,FIFA World Cup qualification,Lahti,Finland,False
+1993-09-22,Romania,Israel,1,0,Friendly,Bucharest,Romania,False
+1993-10-05,Cyprus,Israel,2,2,Friendly,Limassol,Cyprus,False
+1993-10-13,France,Israel,2,3,FIFA World Cup qualification,Paris,France,False
+1993-10-27,Israel,Austria,1,1,FIFA World Cup qualification,Ramat Gan,Israel,False
+1993-11-10,Israel,Finland,1,3,FIFA World Cup qualification,Ramat Gan,Israel,False
+1994-02-23,Israel,Georgia,2,0,Friendly,Ashdod,Israel,False
+1994-03-15,Israel,Ukraine,1,0,Friendly,Haifa,Israel,False
+1994-04-20,Lithuania,Israel,1,1,Friendly,Vilnius,Lithuania,False
+1994-05-31,Israel,Argentina,0,3,Friendly,Ramat Gan,Israel,False
+1994-08-17,Israel,Croatia,0,4,Friendly,Ramat Gan,Israel,False
+1994-09-04,Israel,Poland,2,1,UEFA Euro qualification,Ramat Gan,Israel,False
+1994-10-12,Israel,Slovakia,2,2,UEFA Euro qualification,Ramat Gan,Israel,False
+1994-11-16,Azerbaijan,Israel,0,2,UEFA Euro qualification,Trabzon,Turkey,True
+1994-11-29,Israel,Cyprus,4,3,Friendly,Jerusalem,Israel,False
+1994-12-14,Israel,Romania,1,1,UEFA Euro qualification,Ramat Gan,Israel,False
+1995-02-14,Israel,Luxembourg,4,2,Friendly,Ashdod,Israel,False
+1995-03-08,Turkey,Israel,2,1,Friendly,Istanbul,Turkey,False
+1995-03-29,Israel,France,0,0,UEFA Euro qualification,Ramat Gan,Israel,False
+1995-04-25,Poland,Israel,4,3,UEFA Euro qualification,Zabrze,Poland,False
+1995-05-17,Israel,Brazil,1,2,Friendly,Ramat Gan,Israel,False
+1995-06-07,Romania,Israel,2,1,UEFA Euro qualification,Bucharest,Romania,False
+1995-08-16,Hungary,Israel,0,2,Friendly,Siófok,Hungary,False
+1995-09-06,Slovakia,Israel,1,0,UEFA Euro qualification,Košice,Slovakia,False
+1995-09-20,Israel,Uruguay,3,1,Friendly,Jerusalem,Israel,False
+1995-10-11,Israel,Azerbaijan,2,0,UEFA Euro qualification,Jaffa,Israel,False
+1995-11-15,France,Israel,2,0,UEFA Euro qualification,Caen,France,False
+1996-01-24,Greece,Israel,2,1,Friendly,Chalcis,Greece,False
+1996-02-21,Israel,Lithuania,4,2,Friendly,Haifa,Israel,False
+1996-03-26,Croatia,Israel,2,0,Friendly,Varaždin,Croatia,False
+1996-04-30,Israel,South Korea,4,5,Friendly,Jaffa,Israel,False
+1996-08-14,Romania,Israel,2,0,Friendly,Bucharest,Romania,False
+1996-09-01,Israel,Bulgaria,2,1,FIFA World Cup qualification,Ramat Gan,Israel,False
+1996-10-09,Israel,Russia,1,1,FIFA World Cup qualification,Ramat Gan,Israel,False
+1996-11-10,Cyprus,Israel,2,0,FIFA World Cup qualification,Limassol,Cyprus,False
+1996-12-15,Israel,Luxembourg,1,0,FIFA World Cup qualification,Ramat Gan,Israel,False
+1997-01-22,Israel,Greece,1,1,Friendly,Jerusalem,Israel,False
+1997-02-26,Israel,Germany,0,1,Friendly,Ramat Gan,Israel,False
+1997-03-12,Israel,Sweden,0,1,Friendly,Ramat Gan,Israel,False
+1997-03-31,Luxembourg,Israel,0,3,FIFA World Cup qualification,Luxembourg,Luxembourg,False
+1997-04-30,Israel,Cyprus,2,0,FIFA World Cup qualification,Ramat Gan,Israel,False
+1997-06-08,Russia,Israel,2,0,FIFA World Cup qualification,Moscow,Russia,False
+1997-06-17,United States,Israel,2,1,Friendly,Jacksonville,United States,False
+1997-08-05,Belarus,Israel,2,3,Friendly,Minsk,Belarus,False
+1997-08-20,Bulgaria,Israel,1,0,FIFA World Cup qualification,Sofia,Bulgaria,False
+1998-02-18,Israel,Turkey,4,0,Friendly,Ramat Gan,Israel,False
+1998-02-25,Israel,Poland,2,0,Friendly,Ramat Gan,Israel,False
+1998-03-18,Romania,Israel,0,1,Friendly,Bucharest,Romania,False
+1998-04-15,Israel,Argentina,2,1,Friendly,Jerusalem,Israel,False
+1998-05-17,Latvia,Israel,1,5,Friendly,Riga,Latvia,False
+1998-08-18,Poland,Israel,2,0,Friendly,Kraków,Poland,False
+1998-09-05,Austria,Israel,1,1,UEFA Euro qualification,Vienna,Austria,False
+1998-10-10,San Marino,Israel,0,5,UEFA Euro qualification,Serravalle,San Marino,False
+1998-10-14,Israel,Spain,1,2,UEFA Euro qualification,Ramat Gan,Israel,False
+1998-11-18,Portugal,Israel,2,0,Friendly,Setúbal,Portugal,False
+1998-12-23,Israel,Serbia,2,0,Friendly,Ramat Gan,Israel,False
+1999-01-18,Israel,Estonia,7,0,Friendly,Ramat Gan,Israel,False
+1999-01-20,Israel,Norway,0,1,Friendly,Ramat Gan,Israel,False
+1999-02-09,Israel,Belarus,2,1,Friendly,Haifa,Israel,False
+1999-02-24,Israel,Latvia,2,0,Friendly,Jerusalem,Israel,False
+1999-03-10,Romania,Israel,0,2,Friendly,Bucharest,Romania,False
+1999-03-28,Israel,Cyprus,3,0,UEFA Euro qualification,Ramat Gan,Israel,False
+1999-06-06,Israel,Austria,5,0,UEFA Euro qualification,Ramat Gan,Israel,False
+1999-08-18,Slovakia,Israel,1,0,Friendly,Bratislava,Slovakia,False
+1999-09-05,Cyprus,Israel,3,2,UEFA Euro qualification,Limassol,Cyprus,False
+1999-09-08,Israel,San Marino,8,0,UEFA Euro qualification,Ramat Gan,Israel,False
+1999-10-10,Spain,Israel,3,0,UEFA Euro qualification,Albacete,Spain,False
+1999-11-13,Israel,Denmark,0,5,UEFA Euro qualification,Ramat Gan,Israel,False
+1999-11-17,Denmark,Israel,3,0,UEFA Euro qualification,Copenhagen,Denmark,False
+2000-02-23,Israel,Russia,4,1,Friendly,Haifa,Israel,False
+2000-03-29,Israel,Georgia,1,1,Friendly,Ashkelon,Israel,False
+2000-04-26,Czech Republic,Israel,4,1,Friendly,Prague,Czech Republic,False
+2000-06-03,Hungary,Israel,2,1,Friendly,Budapest,Hungary,False
+2000-08-16,Russia,Israel,1,0,Friendly,Moscow,Russia,False
+2000-09-03,Israel,Liechtenstein,2,0,FIFA World Cup qualification,Ramat Gan,Israel,False
+2000-10-07,Spain,Israel,2,0,FIFA World Cup qualification,Madrid,Spain,False
+2000-10-11,Israel,Bosnia and Herzegovina,3,1,FIFA World Cup qualification,Ramat Gan,Israel,False
+2000-11-15,Portugal,Israel,2,1,Friendly,Braga,Portugal,False
+2001-01-17,Israel,Uzbekistan,2,0,Friendly,Beit She'an,Israel,False
+2001-02-14,Israel,Moldova,1,0,Friendly,Herzliyya,Israel,False
+2001-03-28,Austria,Israel,2,1,FIFA World Cup qualification,Vienna,Austria,False
+2001-04-24,Georgia,Israel,3,2,Friendly,Tbilisi,Georgia,False
+2001-06-02,Liechtenstein,Israel,0,3,FIFA World Cup qualification,Vaduz,Liechtenstein,False
+2001-06-06,Israel,Spain,1,1,FIFA World Cup qualification,Ramat Gan,Israel,False
+2001-08-15,Lithuania,Israel,2,3,Friendly,Kaunas,Lithuania,False
+2001-09-01,Bosnia and Herzegovina,Israel,0,0,FIFA World Cup qualification,Sarajevo,Bosnia and Herzegovina,False
+2001-10-27,Israel,Austria,1,1,FIFA World Cup qualification,Ramat Gan,Israel,False
+2002-02-13,Germany,Israel,7,1,Friendly,Kaiserslautern,Germany,False
+2002-04-17,Denmark,Israel,3,1,Friendly,Copenhagen,Denmark,False
+2002-08-21,Lithuania,Israel,2,4,Friendly,Kaunas,Lithuania,False
+2002-09-05,Luxembourg,Israel,0,5,Friendly,Luxembourg,Luxembourg,False
+2002-10-12,Malta,Israel,0,2,UEFA Euro qualification,Attard,Malta,False
+2002-11-20,North Macedonia,Israel,2,3,Friendly,Skopje,North Macedonia,False
+2003-02-12,Israel,Armenia,2,0,Friendly,Ramat Gan,Israel,False
+2003-03-05,Israel,Moldova,0,0,Friendly,Ramat Gan,Israel,False
+2003-03-29,Cyprus,Israel,1,1,UEFA Euro qualification,Limassol,Cyprus,False
+2003-04-02,Israel,France,1,2,UEFA Euro qualification,Palermo,Italy,True
+2003-04-30,Israel,Cyprus,2,0,UEFA Euro qualification,Palermo,Italy,True
+2003-06-07,Israel,Slovenia,0,0,UEFA Euro qualification,Antalya,Turkey,True
+2003-08-20,Russia,Israel,1,2,Friendly,Moscow,Russia,False
+2003-09-06,Slovenia,Israel,3,1,UEFA Euro qualification,Ljubljana,Slovenia,False
+2003-09-10,Israel,Malta,2,2,UEFA Euro qualification,Antalya,Turkey,True
+2003-10-11,France,Israel,3,0,UEFA Euro qualification,Saint-Denis,France,False
+2004-03-30,Israel,Lithuania,2,1,Friendly,Ramat Gan,Israel,False
+2004-04-28,Israel,Moldova,1,1,Friendly,Ramat Gan,Israel,False
+2004-05-27,Georgia,Israel,0,1,Friendly,Tbilisi,Georgia,False
+2004-08-18,Croatia,Israel,1,0,Friendly,Varaždin,Croatia,False
+2004-09-04,France,Israel,0,0,FIFA World Cup qualification,Saint-Denis,France,False
+2004-09-08,Israel,Cyprus,2,1,FIFA World Cup qualification,Ramat Gan,Israel,False
+2004-10-09,Israel,Switzerland,2,2,FIFA World Cup qualification,Ramat Gan,Israel,False
+2004-11-17,Cyprus,Israel,1,2,FIFA World Cup qualification,Nicosia,Cyprus,False
+2005-02-09,Israel,Croatia,3,3,Friendly,Jerusalem,Israel,False
+2005-03-26,Israel,Republic of Ireland,1,1,FIFA World Cup qualification,Ramat Gan,Israel,False
+2005-03-30,Israel,France,1,1,FIFA World Cup qualification,Ramat Gan,Israel,False
+2005-06-04,Republic of Ireland,Israel,2,2,FIFA World Cup qualification,Dublin,Republic of Ireland,False
+2005-08-15,Ukraine,Israel,0,0,Friendly,Kyiv,Ukraine,False
+2005-08-17,Poland,Israel,3,2,Friendly,Kyiv,Ukraine,True
+2005-09-03,Switzerland,Israel,1,1,FIFA World Cup qualification,Basel,Switzerland,False
+2005-09-07,Faroe Islands,Israel,0,2,FIFA World Cup qualification,Tórshavn,Faroe Islands,False
+2005-10-08,Israel,Faroe Islands,2,1,FIFA World Cup qualification,Ramat Gan,Israel,False
+2006-03-01,Israel,Denmark,0,2,Friendly,Ramat Gan,Israel,False
+2006-08-15,Slovenia,Israel,1,1,Friendly,Celje,Slovenia,False
+2006-09-02,Estonia,Israel,0,1,UEFA Euro qualification,Tallinn,Estonia,False
+2006-09-06,Israel,Andorra,4,1,UEFA Euro qualification,Nijmegen,Netherlands,True
+2006-10-07,Russia,Israel,1,1,UEFA Euro qualification,Moscow,Russia,False
+2006-11-15,Israel,Croatia,3,4,UEFA Euro qualification,Ramat Gan,Israel,False
+2007-02-07,Israel,Ukraine,1,1,Friendly,Ramat Gan,Israel,False
+2007-03-24,Israel,England,0,0,UEFA Euro qualification,Ramat Gan,Israel,False
+2007-03-28,Israel,Estonia,4,0,UEFA Euro qualification,Ramat Gan,Israel,False
+2007-06-02,North Macedonia,Israel,1,2,UEFA Euro qualification,Skopje,North Macedonia,False
+2007-06-06,Andorra,Israel,0,2,UEFA Euro qualification,Sant Julià de Lòria,Andorra,False
+2007-08-22,Belarus,Israel,2,1,Friendly,Minsk,Belarus,False
+2007-09-08,England,Israel,3,0,UEFA Euro qualification,London,England,False
+2007-10-13,Croatia,Israel,1,0,UEFA Euro qualification,Zagreb,Croatia,False
+2007-10-17,Israel,Belarus,2,1,Friendly,Ramat Gan,Israel,False
+2007-11-17,Israel,Russia,2,1,UEFA Euro qualification,Ramat Gan,Israel,False
+2007-11-21,Israel,North Macedonia,1,0,UEFA Euro qualification,Ramat Gan,Israel,False
+2008-02-06,Israel,Romania,1,0,Friendly,Ramat Gan,Israel,False
+2008-03-26,Israel,Chile,1,0,Friendly,Ramat Gan,Israel,False
+2008-08-20,Finland,Israel,2,0,Friendly,Tampere,Finland,False
+2008-09-06,Israel,Switzerland,2,2,FIFA World Cup qualification,Ramat Gan,Israel,False
+2008-09-10,Moldova,Israel,1,2,FIFA World Cup qualification,Chișinău,Moldova,False
+2008-10-11,Luxembourg,Israel,1,3,FIFA World Cup qualification,Luxembourg,Luxembourg,False
+2008-10-15,Latvia,Israel,1,1,FIFA World Cup qualification,Riga,Latvia,False
+2008-11-19,Israel,Ivory Coast,2,2,Friendly,Ramat Gan,Israel,False
+2009-02-11,Israel,Hungary,1,0,Friendly,Ramat Gan,Israel,False
+2009-03-28,Israel,Greece,1,1,FIFA World Cup qualification,Ramat Gan,Israel,False
+2009-04-01,Greece,Israel,2,1,FIFA World Cup qualification,Heraklion,Greece,False
+2009-08-12,Northern Ireland,Israel,1,1,Friendly,Belfast,Northern Ireland,False
+2009-09-05,Israel,Latvia,0,1,FIFA World Cup qualification,Ramat Gan,Israel,False
+2009-09-09,Israel,Luxembourg,7,0,FIFA World Cup qualification,Ramat Gan,Israel,False
+2009-10-10,Israel,Moldova,3,1,FIFA World Cup qualification,Ramat Gan,Israel,False
+2009-10-14,Switzerland,Israel,0,0,FIFA World Cup qualification,Basel,Switzerland,False
+2010-03-03,Romania,Israel,0,2,Friendly,Timişoara,Romania,False
+2010-05-26,Uruguay,Israel,4,1,Friendly,Montevideo,Uruguay,False
+2010-05-30,Chile,Israel,3,0,Friendly,Concepción,Chile,False
+2010-09-02,Israel,Malta,3,1,UEFA Euro qualification,Ramat Gan,Israel,False
+2010-09-07,Georgia,Israel,0,0,UEFA Euro qualification,Tbilisi,Georgia,False
+2010-10-09,Israel,Croatia,1,2,UEFA Euro qualification,Ramat Gan,Israel,False
+2010-10-12,Greece,Israel,2,1,UEFA Euro qualification,Piraeus,Greece,False
+2010-11-17,Israel,Iceland,3,2,Friendly,Jaffa,Israel,False
+2011-02-09,Israel,Serbia,0,2,Friendly,Jaffa,Israel,False
+2011-03-26,Israel,Latvia,2,1,UEFA Euro qualification,Jaffa,Israel,False
+2011-03-29,Israel,Georgia,1,0,UEFA Euro qualification,Jaffa,Israel,False
+2011-06-04,Latvia,Israel,1,2,UEFA Euro qualification,Riga,Latvia,False
+2011-08-10,Israel,Ivory Coast,3,4,Friendly,Geneva,Switzerland,True
+2011-09-02,Israel,Greece,0,1,UEFA Euro qualification,Jaffa,Israel,False
+2011-09-06,Croatia,Israel,3,1,UEFA Euro qualification,Zagreb,Croatia,False
+2011-10-11,Malta,Israel,0,2,UEFA Euro qualification,Attard,Malta,False
+2012-02-29,Israel,Ukraine,2,3,Friendly,Petah Tikva,Israel,False
+2012-05-26,Czech Republic,Israel,2,1,Friendly,Graz,Austria,True
+2012-05-31,Germany,Israel,2,0,Friendly,Leipzig,Germany,False
+2012-08-15,Hungary,Israel,1,1,Friendly,Budapest,Hungary,False
+2012-09-07,Azerbaijan,Israel,1,1,FIFA World Cup qualification,Baku,Azerbaijan,False
+2012-09-11,Israel,Russia,0,4,FIFA World Cup qualification,Ramat Gan,Israel,False
+2012-10-12,Luxembourg,Israel,0,6,FIFA World Cup qualification,Luxembourg,Luxembourg,False
+2012-10-16,Israel,Luxembourg,3,0,FIFA World Cup qualification,Ramat Gan,Israel,False
+2012-11-14,Israel,Belarus,1,2,Friendly,Jerusalem,Israel,False
+2013-02-06,Israel,Finland,2,1,Friendly,Netanya,Israel,False
+2013-03-22,Israel,Portugal,3,3,FIFA World Cup qualification,Ramat Gan,Israel,False
+2013-03-26,Northern Ireland,Israel,0,2,FIFA World Cup qualification,Belfast,Northern Ireland,False
+2013-06-02,Honduras,Israel,0,2,Friendly,New York,United States,True
+2013-08-14,Ukraine,Israel,2,0,Friendly,Kyiv,Ukraine,False
+2013-09-07,Israel,Azerbaijan,1,1,FIFA World Cup qualification,Ramat Gan,Israel,False
+2013-09-10,Russia,Israel,3,1,FIFA World Cup qualification,Saint Petersburg,Russia,False
+2013-10-11,Portugal,Israel,1,1,FIFA World Cup qualification,Lisbon,Portugal,False
+2013-10-15,Israel,Northern Ireland,1,1,FIFA World Cup qualification,Ramat Gan,Israel,False
+2014-03-05,Israel,Slovakia,1,3,Friendly,Netanya,Israel,False
+2014-06-01,Honduras,Israel,2,4,Friendly,Houston,United States,True
+2014-10-10,Cyprus,Israel,1,2,UEFA Euro qualification,Nicosia,Cyprus,False
+2014-10-13,Andorra,Israel,1,4,UEFA Euro qualification,Sant Julià de Lòria,Andorra,False
+2014-11-16,Israel,Bosnia and Herzegovina,3,0,UEFA Euro qualification,Haifa,Israel,False
+2015-03-28,Israel,Wales,0,3,UEFA Euro qualification,Haifa,Israel,False
+2015-03-31,Israel,Belgium,0,1,UEFA Euro qualification,Jerusalem,Israel,False
+2015-06-12,Bosnia and Herzegovina,Israel,3,1,UEFA Euro qualification,Zenica,Bosnia and Herzegovina,False
+2015-09-03,Israel,Andorra,4,0,UEFA Euro qualification,Haifa,Israel,False
+2015-09-06,Wales,Israel,0,0,UEFA Euro qualification,Cardiff,Wales,False
+2015-10-10,Israel,Cyprus,1,2,UEFA Euro qualification,Jerusalem,Israel,False
+2015-10-13,Belgium,Israel,3,1,UEFA Euro qualification,Brussels,Belgium,False
+2016-03-23,Croatia,Israel,2,0,Friendly,Osijek,Croatia,False
+2016-05-31,Serbia,Israel,3,1,Friendly,Novi Sad,Serbia,False
+2016-09-05,Israel,Italy,1,3,FIFA World Cup qualification,Haifa,Israel,False
+2016-10-06,North Macedonia,Israel,1,2,FIFA World Cup qualification,Skopje,North Macedonia,False
+2016-10-09,Israel,Liechtenstein,2,1,FIFA World Cup qualification,Jerusalem,Israel,False
+2016-11-12,Albania,Israel,0,3,FIFA World Cup qualification,Elbasan,Albania,False
+2017-03-24,Spain,Israel,4,1,FIFA World Cup qualification,Gijón,Spain,False
+2017-06-06,Israel,Moldova,1,1,Friendly,Netanya,Israel,False
+2017-06-11,Israel,Albania,0,3,FIFA World Cup qualification,Haifa,Israel,False
+2017-09-02,Israel,North Macedonia,0,1,FIFA World Cup qualification,Haifa,Israel,False
+2017-09-05,Italy,Israel,1,0,FIFA World Cup qualification,Reggio Emilia,Italy,False
+2017-10-06,Liechtenstein,Israel,0,1,FIFA World Cup qualification,Vaduz,Liechtenstein,False
+2017-10-09,Israel,Spain,0,1,FIFA World Cup qualification,Jerusalem,Israel,False
+2018-03-24,Israel,Romania,1,2,Friendly,Netanya,Israel,False
+2018-09-07,Albania,Israel,1,0,UEFA Nations League,Elbasan,Albania,False
+2018-09-11,Northern Ireland,Israel,3,0,Friendly,Belfast,Northern Ireland,False
+2018-10-11,Israel,Scotland,2,1,UEFA Nations League,Haifa,Israel,False
+2018-10-14,Israel,Albania,2,0,UEFA Nations League,Beer Sheva,Israel,False
+2018-11-15,Israel,Guatemala,7,0,Friendly,Netanya,Israel,False
+2018-11-20,Scotland,Israel,3,2,UEFA Nations League,Glasgow,Scotland,False
+2019-03-21,Israel,Slovenia,1,1,UEFA Euro qualification,Haifa,Israel,False
+2019-03-24,Israel,Austria,4,2,UEFA Euro qualification,Haifa,Israel,False
+2019-06-07,Latvia,Israel,0,3,UEFA Euro qualification,Riga,Latvia,False
+2019-06-10,Poland,Israel,4,0,UEFA Euro qualification,Warsaw,Poland,False
+2019-09-05,Israel,North Macedonia,1,1,UEFA Euro qualification,Beer Sheva,Israel,False
+2019-09-09,Slovenia,Israel,3,2,UEFA Euro qualification,Ljubljana,Slovenia,False
+2019-10-10,Austria,Israel,3,1,UEFA Euro qualification,Vienna,Austria,False
+2019-10-15,Israel,Latvia,3,1,UEFA Euro qualification,Beer Sheva,Israel,False
+2019-11-16,Israel,Poland,1,2,UEFA Euro qualification,Jerusalem,Israel,False
+2019-11-19,North Macedonia,Israel,1,0,UEFA Euro qualification,Skopje,North Macedonia,False
+2020-09-04,Scotland,Israel,1,1,UEFA Nations League,Glasgow,Scotland,False
+2020-09-07,Israel,Slovakia,1,1,UEFA Nations League,Netanya,Israel,False
+2020-10-08,Scotland,Israel,0,0,UEFA Euro qualification,Glasgow,Scotland,False
+2020-10-11,Israel,Czech Republic,1,2,UEFA Nations League,Haifa,Israel,False
+2020-10-14,Slovakia,Israel,2,3,UEFA Nations League,Trnava,Slovakia,False
+2020-11-15,Czech Republic,Israel,1,0,UEFA Nations League,Plzeň,Czech Republic,False
+2020-11-18,Israel,Scotland,1,0,UEFA Nations League,Netanya,Israel,False
+2021-03-25,Israel,Denmark,0,2,FIFA World Cup qualification,Tel Aviv,Israel,False
+2021-03-28,Israel,Scotland,1,1,FIFA World Cup qualification,Tel Aviv,Israel,False
+2021-03-31,Moldova,Israel,1,4,FIFA World Cup qualification,Chișinău,Moldova,False
+2021-06-05,Montenegro,Israel,1,3,Friendly,Podgorica,Montenegro,False
+2021-06-09,Portugal,Israel,4,0,Friendly,Lisbon,Portugal,False
+2021-09-01,Faroe Islands,Israel,0,4,FIFA World Cup qualification,Tórshavn,Faroe Islands,False
+2021-09-04,Israel,Austria,5,2,FIFA World Cup qualification,Haifa,Israel,False
+2021-09-07,Denmark,Israel,5,0,FIFA World Cup qualification,Copenhagen,Denmark,False
+2021-10-09,Scotland,Israel,3,2,FIFA World Cup qualification,Glasgow,Scotland,False
+2021-10-12,Israel,Moldova,2,1,FIFA World Cup qualification,Beer Sheva,Israel,False
+2021-11-12,Austria,Israel,4,2,FIFA World Cup qualification,Klagenfurt,Austria,False
+2021-11-15,Israel,Faroe Islands,3,2,FIFA World Cup qualification,Netanya,Israel,False
+2022-03-26,Germany,Israel,2,0,Friendly,Sinsheim,Germany,False
+2022-03-29,Israel,Romania,2,2,Friendly,Netanya,Israel,False
+2022-06-02,Israel,Iceland,2,2,UEFA Nations League,Haifa,Israel,False
+2022-06-10,Albania,Israel,1,2,UEFA Nations League,Tirana,Albania,False
+2022-06-13,Iceland,Israel,2,2,UEFA Nations League,Reykjavík,Iceland,False
+2022-09-24,Israel,Albania,2,1,UEFA Nations League,Tel Aviv,Israel,False
+2022-09-27,Malta,Israel,2,1,Friendly,Ta' Qali,Malta,False
+2022-11-17,Israel,Zambia,4,2,Friendly,Petah Tikva,Israel,False
+2022-11-20,Israel,Cyprus,2,3,Friendly,Petah Tikva,Israel,False
+2023-03-25,Israel,Kosovo,1,1,UEFA Euro qualification,Tel Aviv,Israel,False
+2023-03-28,Switzerland,Israel,3,0,UEFA Euro qualification,Geneva,Switzerland,False
+2023-06-16,Belarus,Israel,1,2,UEFA Euro qualification,Budapest,Hungary,True
+2023-06-19,Israel,Andorra,2,1,UEFA Euro qualification,Jerusalem,Israel,False
+2023-09-09,Romania,Israel,1,1,UEFA Euro qualification,Bucharest,Romania,False
+2023-09-12,Israel,Belarus,1,0,UEFA Euro qualification,Tel Aviv,Israel,False
+2023-11-12,Kosovo,Israel,1,0,UEFA Euro qualification,Pristina,Kosovo,False
+2023-11-15,Israel,Switzerland,1,1,UEFA Euro qualification,Felcsút,Hungary,True
+2023-11-18,Israel,Romania,1,2,UEFA Euro qualification,Felcsút,Hungary,True
+2023-11-21,Andorra,Israel,0,2,UEFA Euro qualification,Andorra la Vella,Andorra,False
+2024-03-21,Israel,Iceland,1,4,UEFA Euro qualification,Budapest,Hungary,True
+2024-06-08,Hungary,Israel,3,0,Friendly,Debrecen,Hungary,False
+2024-06-11,Israel,Belarus,4,0,Friendly,Budapest,Hungary,True
+2024-09-06,Belgium,Israel,3,1,UEFA Nations League,Debrecen,Hungary,True
+2024-09-09,Israel,Italy,1,2,UEFA Nations League,Budapest,Hungary,True
+2024-10-10,Israel,France,1,4,UEFA Nations League,Budapest,Hungary,True
+2024-10-14,Italy,Israel,4,1,UEFA Nations League,Udine,Italy,False
+2024-11-14,France,Israel,0,0,UEFA Nations League,Paris,France,False
+2024-11-17,Israel,Belgium,1,0,UEFA Nations League,Budapest,Hungary,True
+2025-03-22,Israel,Estonia,2,1,FIFA World Cup qualification,Debrecen,Hungary,True
+2025-03-25,Israel,Norway,2,4,FIFA World Cup qualification,Debrecen,Hungary,True

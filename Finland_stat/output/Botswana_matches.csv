@@ -1,0 +1,322 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1968-07-13,Malawi,Botswana,8,1,Friendly,Blantyre,Malawi,False
+1976-09-13,Malawi,Botswana,7,1,Friendly,Blantyre,Malawi,False
+1976-09-17,Malawi,Botswana,3,0,Friendly,Blantyre,Malawi,False
+1976-09-30,Botswana,Zambia,2,3,Friendly,Gaborone,Botswana,False
+1977-02-27,Botswana,China PR,0,2,Friendly,Gaborone,Botswana,False
+1977-09-30,Botswana,Malawi,0,2,Friendly,Gaborone,Botswana,False
+1977-10-01,Botswana,Malawi,1,5,Friendly,Gaborone,Botswana,False
+1978-09-30,Botswana,Mozambique,1,4,Friendly,Gaborone,Botswana,False
+1978-10-01,Botswana,Mozambique,0,2,Friendly,Gaborone,Botswana,False
+1981-04-18,Botswana,Malawi,2,5,Friendly,Gwelo,Zimbabwe,True
+1981-09-30,Botswana,Zimbabwe,0,1,Friendly,Gaborone,Botswana,False
+1982-02-18,Zambia,Botswana,2,0,Friendly,Lusaka,Zambia,False
+1984-09-30,Botswana,Angola,1,3,Friendly,Gaborone,Botswana,False
+1986-02-15,Zambia,Botswana,6,0,Friendly,Ndola,Zambia,False
+1986-02-16,Zambia,Botswana,3,0,Friendly,Lusaka,Zambia,False
+1986-04-26,Eswatini,Botswana,0,1,Friendly,Mbabane,Swaziland,False
+1986-09-30,Botswana,Malawi,2,0,Friendly,Gaborone,Botswana,False
+1987-03-28,Botswana,Mauritius,0,0,Friendly,Gaborone,Botswana,False
+1989-12-01,Botswana,Zambia,2,1,Friendly,Gaborone,Botswana,False
+1990-01-20,Eswatini,Botswana,3,1,Friendly,Lobamba,Swaziland,False
+1990-01-21,Botswana,Malawi,2,2,Friendly,Lobamba,Swaziland,True
+1990-01-23,Botswana,Tanzania,0,0,Friendly,Lobamba,Swaziland,True
+1990-06-10,Botswana,Mauritius,0,1,Friendly,Gaborone,Botswana,False
+1990-08-25,Botswana,Eswatini,3,2,Friendly,Gaborone,Botswana,False
+1990-08-26,Botswana,Zimbabwe,0,7,Friendly,Gaborone,Botswana,False
+1990-09-30,Botswana,Cameroon,0,0,Friendly,Gaborone,Botswana,False
+1991-06-20,Mozambique,Botswana,2,0,Friendly,Maputo,Mozambique,False
+1991-06-25,Mozambique,Botswana,1,1,Friendly,Maputo,Mozambique,False
+1991-09-21,Botswana,Eswatini,2,1,Friendly,Gaborone,Botswana,False
+1991-09-30,Botswana,Ghana,0,0,Friendly,Gaborone,Botswana,False
+1992-06-14,Lesotho,Botswana,0,0,African Cup of Nations qualification,Maseru,Lesotho,False
+1992-06-28,Botswana,Lesotho,0,4,African Cup of Nations qualification,Gaborone,Botswana,False
+1992-09-30,Botswana,Kenya,1,3,Friendly,Gaborone,Botswana,False
+1992-10-03,Botswana,Kenya,0,1,Friendly,Gaborone,Botswana,False
+1992-10-10,Ivory Coast,Botswana,6,0,FIFA World Cup qualification,Abidjan,Ivory Coast,False
+1992-12-20,Botswana,Niger,0,1,FIFA World Cup qualification,Gaborone,Botswana,False
+1993-01-10,Botswana,South Africa,0,2,Friendly,Gaborone,Botswana,False
+1993-01-17,Botswana,Ivory Coast,0,0,FIFA World Cup qualification,Gaborone,Botswana,False
+1993-02-28,Niger,Botswana,2,1,FIFA World Cup qualification,Niamey,Niger,False
+1994-07-01,Botswana,Namibia,0,1,Friendly,Gaborone,Botswana,False
+1994-08-25,Namibia,Botswana,2,3,Friendly,Windhoek,Namibia,False
+1994-09-04,Botswana,Guinea,0,1,African Cup of Nations qualification,Gaborone,Botswana,False
+1994-10-16,Mozambique,Botswana,3,1,African Cup of Nations qualification,Maputo,Mozambique,False
+1994-11-13,Namibia,Botswana,1,1,African Cup of Nations qualification,Windhoek,Namibia,False
+1995-01-07,Botswana,Mali,1,3,African Cup of Nations qualification,Gaborone,Botswana,False
+1995-01-22,Botswana,Angola,1,2,African Cup of Nations qualification,Gaborone,Botswana,False
+1995-04-09,Guinea,Botswana,5,0,African Cup of Nations qualification,Conakry,Guinea,False
+1995-04-23,Botswana,Mozambique,0,3,African Cup of Nations qualification,Gaborone,Botswana,False
+1995-06-04,Botswana,Namibia,1,1,African Cup of Nations qualification,Gaborone,Botswana,False
+1995-07-16,Mali,Botswana,4,0,African Cup of Nations qualification,Bamako,Mali,False
+1995-07-30,Angola,Botswana,4,0,African Cup of Nations qualification,Luanda,Angola,False
+1996-08-11,Botswana,Namibia,0,0,African Cup of Nations qualification,Gaborone,Botswana,False
+1996-08-25,Namibia,Botswana,6,0,African Cup of Nations qualification,Windhoek,Namibia,False
+1997-02-21,Botswana,Eswatini,0,0,Friendly,Gaborone,Botswana,False
+1997-02-23,Botswana,Lesotho,1,4,Friendly,Jwaneng,Botswana,False
+1997-03-01,Botswana,Malawi,1,4,COSAFA Cup qualification,Gaborone,Botswana,False
+1997-07-06,Malawi,Botswana,0,0,Friendly,Lilongwe,Malawi,False
+1998-01-10,Eswatini,Botswana,1,1,Friendly,Mbabane,Swaziland,False
+1998-01-12,Lesotho,Botswana,0,0,Friendly,Maseru,Lesotho,False
+1998-01-25,Botswana,Mozambique,1,2,COSAFA Cup qualification,Gaborone,Botswana,False
+1998-08-02,Botswana,Mozambique,0,0,African Cup of Nations qualification,Gaborone,Botswana,False
+1998-08-15,Mozambique,Botswana,2,1,African Cup of Nations qualification,Maputo,Mozambique,False
+1999-02-20,Botswana,South Africa,1,2,COSAFA Cup qualification,Gaborone,Botswana,False
+1999-05-16,Eswatini,Botswana,2,1,Friendly,Lobamba,Swaziland,False
+1999-05-28,Botswana,Mozambique,0,2,COSAFA Cup qualification,Gaborone,Botswana,False
+2000-02-27,Botswana,Lesotho,1,0,Friendly,Gaborone,Botswana,False
+2000-03-19,Botswana,Eswatini,3,0,Friendly,Gaborone,Botswana,False
+2000-03-25,Zambia,Botswana,3,0,COSAFA Cup,Lusaka,Zambia,False
+2000-04-08,Botswana,Zambia,0,1,FIFA World Cup qualification,Gaborone,Botswana,False
+2000-04-22,Zambia,Botswana,1,0,FIFA World Cup qualification,Lusaka,Zambia,False
+2000-06-01,Botswana,Mozambique,2,0,Friendly,Mbabane,Swaziland,True
+2000-06-02,Eswatini,Botswana,0,0,Friendly,Mbabane,Swaziland,False
+2000-06-04,Botswana,Lesotho,1,1,Friendly,Mbabane,Swaziland,True
+2000-07-01,Botswana,Madagascar,1,0,African Cup of Nations qualification,Gaborone,Botswana,False
+2000-07-15,Madagascar,Botswana,2,0,African Cup of Nations qualification,Antananarivo,Madagascar,False
+2001-01-27,Botswana,Eswatini,1,2,Friendly,Gaborone,Botswana,False
+2001-01-28,Botswana,Lesotho,2,1,Friendly,Gaborone,Botswana,False
+2001-03-10,Botswana,Eswatini,1,0,Friendly,Maseru,Lesotho,True
+2001-03-11,Botswana,Mozambique,1,3,Friendly,Maseru,Lesotho,True
+2001-03-17,Botswana,Malawi,0,1,COSAFA Cup,Gaborone,Botswana,False
+2001-12-15,Botswana,Namibia,3,2,Friendly,Gaborone,Botswana,False
+2001-12-16,Botswana,Lesotho,1,0,Friendly,Gaborone,Botswana,False
+2002-03-02,Botswana,Eswatini,6,2,Friendly,Gaborone,Botswana,False
+2002-03-16,Botswana,Namibia,3,1,Friendly,Gaborone,Botswana,False
+2002-03-30,Botswana,South Africa,0,0,COSAFA Cup,Gaborone,Botswana,False
+2002-06-08,Malawi,Botswana,2,0,Friendly,Lilongwe,Malawi,False
+2002-06-09,Malawi,Botswana,1,0,Friendly,Blantyre,Malawi,False
+2002-08-26,Botswana,Lesotho,0,1,Friendly,Gaborone,Botswana,False
+2002-09-07,Botswana,Eswatini,0,0,African Cup of Nations qualification,Gaborone,Botswana,False
+2002-10-13,DR Congo,Botswana,2,0,African Cup of Nations qualification,Kinshasa,DR Congo,False
+2002-12-14,Botswana,Zambia,1,0,Friendly,Gaborone,Botswana,False
+2003-03-09,Botswana,Lesotho,0,1,Friendly,Gaborone,Botswana,False
+2003-03-15,Namibia,Botswana,0,1,COSAFA Cup,Windhoek,Namibia,False
+2003-03-30,Libya,Botswana,0,0,African Cup of Nations qualification,Tripoli,Libya,False
+2003-05-16,Lesotho,Botswana,1,2,Friendly,Maseru,Lesotho,False
+2003-05-24,Botswana,Malawi,1,1,COSAFA Cup,Gaborone,Botswana,False
+2003-06-07,Botswana,Libya,0,1,African Cup of Nations qualification,Gaborone,Botswana,False
+2003-06-10,Botswana,Trinidad and Tobago,0,0,Friendly,Gaborone,Botswana,False
+2003-06-22,Eswatini,Botswana,3,2,African Cup of Nations qualification,Lobamba,Swaziland,False
+2003-07-05,Botswana,DR Congo,0,0,African Cup of Nations qualification,Gaborone,Botswana,False
+2003-09-06,Eswatini,Botswana,0,3,Friendly,Mbabane,Swaziland,False
+2003-10-11,Botswana,Lesotho,4,1,FIFA World Cup qualification,Gaborone,Botswana,False
+2003-11-16,Lesotho,Botswana,0,0,FIFA World Cup qualification,Maseru,Lesotho,False
+2003-12-13,Botswana,Zimbabwe,0,2,Friendly,Selebi-Phikwe,Botswana,False
+2004-02-28,Lesotho,Botswana,0,0,COSAFA Cup,Maseru,Lesotho,False
+2004-04-28,Namibia,Botswana,0,0,Friendly,Windhoek,Namibia,False
+2004-05-26,Mozambique,Botswana,0,0,Friendly,Maputo,Mozambique,False
+2004-06-05,Tunisia,Botswana,4,1,FIFA World Cup qualification,Radès,Tunisia,False
+2004-06-19,Botswana,Malawi,2,0,FIFA World Cup qualification,Gaborone,Botswana,False
+2004-07-03,Botswana,Morocco,0,1,FIFA World Cup qualification,Gaborone,Botswana,False
+2004-07-18,Angola,Botswana,1,1,COSAFA Cup,Luanda,Angola,False
+2004-08-18,Zimbabwe,Botswana,2,0,Friendly,Bulawayo,Zimbabwe,False
+2004-09-05,Guinea,Botswana,4,0,FIFA World Cup qualification,Conakry,Guinea,False
+2004-09-30,Botswana,Zambia,1,0,Friendly,Gaborone,Botswana,False
+2004-10-09,Botswana,Kenya,2,1,FIFA World Cup qualification,Gaborone,Botswana,False
+2004-12-15,Lesotho,Botswana,1,1,Friendly,Maseru,Lesotho,False
+2005-02-26,Botswana,Zambia,0,0,Friendly,Gaborone,Botswana,False
+2005-03-16,Zimbabwe,Botswana,1,1,Friendly,Harare,Zimbabwe,False
+2005-03-26,Kenya,Botswana,1,0,FIFA World Cup qualification,Nairobi,Kenya,False
+2005-04-16,Namibia,Botswana,1,1,COSAFA Cup,Windhoek,Namibia,False
+2005-04-17,Botswana,Zimbabwe,0,2,COSAFA Cup,Windhoek,Namibia,True
+2005-06-04,Botswana,Tunisia,1,3,FIFA World Cup qualification,Gaborone,Botswana,False
+2005-06-18,Malawi,Botswana,1,3,FIFA World Cup qualification,Blantyre,Malawi,False
+2005-07-01,Botswana,DR Congo,0,0,Friendly,Gaborone,Botswana,False
+2005-08-09,Botswana,Angola,0,0,Friendly,Johannesburg,South Africa,True
+2005-08-10,Angola,Botswana,0,0,Friendly,Johannesburg,South Africa,True
+2005-09-03,Morocco,Botswana,1,0,FIFA World Cup qualification,Rabat,Morocco,False
+2005-10-08,Botswana,Guinea,1,2,FIFA World Cup qualification,Gaborone,Botswana,False
+2006-05-14,Botswana,Zambia,0,0,Friendly,Gaborone,Botswana,False
+2006-05-20,Botswana,Madagascar,2,0,COSAFA Cup,Gaborone,Botswana,False
+2006-05-21,Botswana,South Africa,0,0,COSAFA Cup,Gaborone,Botswana,False
+2006-07-06,Malawi,Botswana,2,1,Friendly,Lilongwe,Malawi,False
+2006-07-08,Malawi,Botswana,0,0,Friendly,Blantyre,Malawi,False
+2006-08-05,Uganda,Botswana,0,0,Friendly,Kampala,Uganda,False
+2006-08-19,Zambia,Botswana,1,0,COSAFA Cup,Lusaka,Zambia,False
+2006-10-03,Botswana,Lesotho,1,0,Friendly,Gaborone,Botswana,False
+2006-10-07,Botswana,Egypt,0,0,African Cup of Nations qualification,Gaborone,Botswana,False
+2006-11-15,Botswana,Eswatini,1,0,Friendly,Gaborone,Botswana,False
+2007-02-06,Botswana,Namibia,1,0,Friendly,Gaborone,Botswana,False
+2007-03-25,Botswana,Burundi,1,0,African Cup of Nations qualification,Gaborone,Botswana,False
+2007-05-27,Botswana,Libya,0,0,Friendly,Gaborone,Botswana,False
+2007-06-03,Burundi,Botswana,1,0,African Cup of Nations qualification,Kigali,Rwanda,True
+2007-06-16,Botswana,Mauritania,2,1,African Cup of Nations qualification,Gaborone,Botswana,False
+2007-07-23,Botswana,Zambia,0,0,Friendly,Orapa,Botswana,False
+2007-07-28,Botswana,Namibia,1,0,COSAFA Cup,Gaborone,Botswana,False
+2007-07-29,Botswana,Angola,0,0,COSAFA Cup,Gaborone,Botswana,False
+2007-09-29,South Africa,Botswana,1,0,COSAFA Cup,Atteridgeville,South Africa,False
+2007-10-13,Egypt,Botswana,1,0,African Cup of Nations qualification,Cairo,Egypt,False
+2008-01-16,South Africa,Botswana,2,1,Friendly,Umlazi,South Africa,False
+2008-02-09,Eswatini,Botswana,1,4,Friendly,Lobamba,Swaziland,False
+2008-02-10,Botswana,Mozambique,1,0,Friendly,Lobamba,Swaziland,True
+2008-03-26,Botswana,Zimbabwe,0,1,Friendly,Gaborone,Botswana,False
+2008-05-31,Botswana,Madagascar,0,0,FIFA World Cup qualification,Gaborone,Botswana,False
+2008-06-08,Mozambique,Botswana,1,2,FIFA World Cup qualification,Maputo,Mozambique,False
+2008-06-14,Botswana,Ivory Coast,1,1,FIFA World Cup qualification,Gaborone,Botswana,False
+2008-06-22,Ivory Coast,Botswana,4,0,FIFA World Cup qualification,Abidjan,Ivory Coast,False
+2008-07-27,Botswana,Mozambique,0,2,COSAFA Cup,Secunda,South Africa,True
+2008-08-20,Zimbabwe,Botswana,1,0,Friendly,Harare,Zimbabwe,False
+2008-09-07,Madagascar,Botswana,1,0,FIFA World Cup qualification,Antananarivo,Madagascar,False
+2008-10-11,Botswana,Mozambique,0,1,FIFA World Cup qualification,Gaborone,Botswana,False
+2009-03-21,Namibia,Botswana,0,0,Friendly,Keetmanshoop,Namibia,False
+2009-04-01,Lesotho,Botswana,0,0,Friendly,Maseru,Lesotho,False
+2009-06-06,Botswana,New Zealand,0,0,Friendly,Gaborone,Botswana,False
+2009-07-05,Botswana,Iran,1,1,Friendly,Gaborone,Botswana,False
+2009-09-30,China PR,Botswana,4,1,Friendly,Hohhot,China PR,False
+2009-10-18,Comoros,Botswana,0,0,COSAFA Cup,Bulawayo,Zimbabwe,True
+2009-10-20,Botswana,Eswatini,1,0,COSAFA Cup,Bulawayo,Zimbabwe,True
+2009-10-22,Seychelles,Botswana,0,2,COSAFA Cup,Bulawayo,Zimbabwe,True
+2009-10-26,Zimbabwe,Botswana,1,0,COSAFA Cup,Bulawayo,Zimbabwe,False
+2010-03-03,Mozambique,Botswana,0,1,Friendly,Maputo,Mozambique,False
+2010-03-21,Namibia,Botswana,0,0,Friendly,Windhoek,Namibia,False
+2010-07-01,Tunisia,Botswana,0,1,African Cup of Nations qualification,Tunis,Tunisia,False
+2010-07-09,Botswana,Chad,1,0,African Cup of Nations qualification,Gaborone,Botswana,False
+2010-08-04,Botswana,Zimbabwe,2,0,Friendly,Selebi-Phikwe,Botswana,False
+2010-08-11,Malawi,Botswana,1,1,African Cup of Nations qualification,Blantyre,Malawi,False
+2010-09-04,Botswana,Togo,2,1,African Cup of Nations qualification,Gaborone,Botswana,False
+2010-10-12,Equatorial Guinea,Botswana,0,2,Friendly,Malabo,Equatorial Guinea,False
+2010-10-27,Botswana,Eswatini,2,0,Friendly,Lobatse,Botswana,False
+2010-11-17,Botswana,Tunisia,1,0,African Cup of Nations qualification,Gaborone,Botswana,False
+2011-01-19,Botswana,Sweden,1,2,Friendly,Cape Town,South Africa,True
+2011-02-09,Mozambique,Botswana,1,1,Friendly,Maputo,Mozambique,False
+2011-03-16,Botswana,Namibia,1,1,Friendly,Maun,Botswana,False
+2011-03-26,Chad,Botswana,0,1,African Cup of Nations qualification,N'Djamena,Chad,False
+2011-05-25,Eswatini,Botswana,0,0,Friendly,Manzini,Swaziland,False
+2011-06-05,Botswana,Malawi,0,0,African Cup of Nations qualification,Gaborone,Botswana,False
+2011-07-31,Eswatini,Botswana,0,2,Friendly,Pretoria,South Africa,True
+2011-08-10,Botswana,Kenya,1,0,Friendly,Gaborone,Botswana,False
+2011-09-04,Togo,Botswana,1,0,African Cup of Nations qualification,Lomé,Togo,False
+2011-11-12,Nigeria,Botswana,0,0,Friendly,Abuja,Nigeria,False
+2011-11-15,Niger,Botswana,1,1,Friendly,Niamey,Niger,False
+2012-01-07,Botswana,Zimbabwe,0,0,Friendly,Gaborone,Botswana,False
+2012-01-24,Ghana,Botswana,1,0,African Cup of Nations,Franceville,Gabon,True
+2012-01-28,Botswana,Guinea,1,6,African Cup of Nations,Franceville,Gabon,True
+2012-02-01,Botswana,Mali,1,2,African Cup of Nations,Libreville,Gabon,True
+2012-05-23,Botswana,Lesotho,3,0,Friendly,Gaborone,Botswana,False
+2012-05-28,Iraq,Botswana,1,1,Friendly,Istanbul,Turkey,True
+2012-06-02,Central African Republic,Botswana,2,0,FIFA World Cup qualification,Bangui,Central African Republic,False
+2012-06-09,Botswana,South Africa,1,1,FIFA World Cup qualification,Gaborone,Botswana,False
+2012-07-12,Kenya,Botswana,3,1,Friendly,Nairobi,Kenya,False
+2012-07-16,Botswana,Zimbabwe,1,0,Friendly,Molepolole,Botswana,False
+2012-07-18,Botswana,Lesotho,0,0,Friendly,Molepolole,Botswana,False
+2012-08-15,Botswana,Tanzania,3,3,Friendly,Molepolole,Botswana,False
+2012-08-26,Botswana,Uganda,0,0,Friendly,Gaborone,Botswana,False
+2012-09-08,Mali,Botswana,3,0,African Cup of Nations qualification,Bamako,Mali,False
+2012-10-13,Botswana,Mali,1,4,African Cup of Nations qualification,Lobatse,Botswana,False
+2013-01-13,Angola,Botswana,2,0,Friendly,Johannesburg,South Africa,True
+2013-02-06,Zimbabwe,Botswana,2,1,Friendly,Harare,Zimbabwe,False
+2013-03-19,Botswana,Malawi,1,0,Friendly,Gaborone,Botswana,False
+2013-03-24,Ethiopia,Botswana,1,0,FIFA World Cup qualification,Addis Ababa,Ethiopia,False
+2013-06-04,Egypt,Botswana,1,1,Friendly,Cairo,Egypt,False
+2013-06-08,Botswana,Ethiopia,3,0,FIFA World Cup qualification,Lobatse,Botswana,False
+2013-06-15,Botswana,Central African Republic,3,2,FIFA World Cup qualification,Lobatse,Botswana,False
+2013-07-07,Botswana,Eswatini,0,0,COSAFA Cup,Kitwe,Zambia,True
+2013-07-09,Lesotho,Botswana,3,3,COSAFA Cup,Kitwe,Zambia,True
+2013-07-11,Kenya,Botswana,1,2,COSAFA Cup,Kitwe,Zambia,True
+2013-08-30,Botswana,Uganda,1,3,Friendly,Gaborone,Botswana,False
+2013-09-03,Botswana,Malawi,1,0,Friendly,Gaborone,Botswana,False
+2013-09-07,South Africa,Botswana,4,1,FIFA World Cup qualification,Durban,South Africa,False
+2013-09-30,Botswana,Burkina Faso,1,0,Friendly,Gaborone,Botswana,False
+2014-03-05,Botswana,South Sudan,3,0,Friendly,Gaborone,Botswana,False
+2014-05-18,Burundi,Botswana,0,0,African Cup of Nations qualification,Bujumbura,Burundi,False
+2014-06-01,Botswana,Burundi,1,0,African Cup of Nations qualification,Lobatse,Botswana,False
+2014-07-14,Botswana,Lesotho,2,0,Friendly,Gaborone,Botswana,False
+2014-07-19,Botswana,Guinea-Bissau,2,0,African Cup of Nations qualification,Gaborone,Botswana,False
+2014-08-02,Guinea-Bissau,Botswana,1,1,African Cup of Nations qualification,Bissau,Guinea-Bissau,False
+2014-08-13,Angola,Botswana,0,0,Friendly,Luanda,Angola,False
+2014-09-06,Tunisia,Botswana,2,1,African Cup of Nations qualification,Monastir,Tunisia,False
+2014-09-10,Botswana,Senegal,0,2,African Cup of Nations qualification,Gaborone,Botswana,False
+2014-09-30,Botswana,Zimbabwe,1,0,Friendly,Gaborone,Botswana,False
+2014-10-10,Botswana,Egypt,0,2,African Cup of Nations qualification,Gaborone,Botswana,False
+2014-10-15,Egypt,Botswana,2,0,African Cup of Nations qualification,Cairo,Egypt,False
+2014-11-14,Botswana,Tunisia,0,0,African Cup of Nations qualification,Gaborone,Botswana,False
+2014-11-19,Senegal,Botswana,3,0,African Cup of Nations qualification,Dakar,Senegal,False
+2015-01-13,Botswana,Burkina Faso,0,2,Friendly,Nelspruit,South Africa,True
+2015-03-25,Botswana,Lesotho,2,0,Friendly,Gaborone,Botswana,False
+2015-03-29,Botswana,Mozambique,1,2,Friendly,Lobatse,Botswana,False
+2015-05-24,South Africa,Botswana,0,0,COSAFA Cup,Moruleng-Saulspoort,South Africa,False
+2015-05-28,Botswana,Mozambique,1,2,COSAFA Cup,Moruleng-Saulspoort,South Africa,True
+2015-05-30,Madagascar,Botswana,2,1,COSAFA Cup,Moruleng-Saulspoort,South Africa,True
+2015-06-13,Uganda,Botswana,2,0,African Cup of Nations qualification,Kampala,Uganda,False
+2015-09-05,Botswana,Burkina Faso,1,0,African Cup of Nations qualification,Francistown,Botswana,False
+2015-09-30,Botswana,Ethiopia,2,3,Friendly,Gaborone,Botswana,False
+2015-10-10,Eritrea,Botswana,0,2,FIFA World Cup qualification,Asmara,Eritrea,False
+2015-10-13,Botswana,Eritrea,3,1,FIFA World Cup qualification,Francistown,Botswana,False
+2015-11-14,Botswana,Mali,2,1,FIFA World Cup qualification,Francistown,Botswana,False
+2015-11-17,Mali,Botswana,2,0,FIFA World Cup qualification,Bamako,Mali,False
+2016-03-24,Comoros,Botswana,1,0,African Cup of Nations qualification,Mitsamiouli,Comoros,False
+2016-03-27,Botswana,Comoros,2,1,African Cup of Nations qualification,Francistown,Botswana,False
+2016-05-21,Botswana,Lesotho,2,1,Friendly,Serowe,Botswana,False
+2016-06-04,Botswana,Uganda,1,2,African Cup of Nations qualification,Francistown,Botswana,False
+2016-06-18,Namibia,Botswana,1,1,COSAFA Cup,Windhoek,Namibia,False
+2016-06-22,Botswana,DR Congo,0,0,COSAFA Cup,Windhoek,Namibia,True
+2016-06-25,South Africa,Botswana,3,2,COSAFA Cup,Windhoek,Namibia,True
+2016-09-04,Burkina Faso,Botswana,2,1,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+2016-09-30,Botswana,Angola,1,1,Friendly,Gaborone,Botswana,False
+2017-03-25,Tanzania,Botswana,2,0,Friendly,Dar es Salaam,Tanzania,False
+2017-06-05,DR Congo,Botswana,2,0,Friendly,Salé,Morocco,True
+2017-06-10,Botswana,Mauritania,0,1,African Cup of Nations qualification,Francistown,Botswana,False
+2017-07-01,Botswana,Zambia,1,2,COSAFA Cup,Rustenburg,South Africa,True
+2017-07-04,South Africa,Botswana,2,0,COSAFA Cup,Moruleng,South Africa,False
+2017-11-14,Gabon,Botswana,0,0,Friendly,Franceville,Gabon,False
+2018-03-24,Botswana,Lesotho,1,0,Friendly,Gaborone,Botswana,False
+2018-04-18,Zimbabwe,Botswana,0,1,Friendly,Harare,Zimbabwe,False
+2018-05-28,Angola,Botswana,1,2,COSAFA Cup,Polokwane,South Africa,True
+2018-05-30,Malawi,Botswana,1,1,COSAFA Cup,Polokwane,South Africa,True
+2018-06-01,Botswana,Mauritius,6,0,COSAFA Cup,Polokwane,South Africa,True
+2018-06-03,Zimbabwe,Botswana,1,1,COSAFA Cup,Polokwane,South Africa,True
+2018-06-05,Eswatini,Botswana,0,2,COSAFA Cup,Polokwane,South Africa,True
+2018-06-08,South Africa,Botswana,3,0,COSAFA Cup,Polokwane,South Africa,False
+2018-09-09,Angola,Botswana,1,0,African Cup of Nations qualification,Luanda,Angola,False
+2018-09-30,Botswana,Namibia,1,0,Friendly,Gaborone,Botswana,False
+2018-10-13,Burkina Faso,Botswana,3,0,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+2018-10-16,Botswana,Burkina Faso,0,0,African Cup of Nations qualification,Francistown,Botswana,False
+2018-11-18,Mauritania,Botswana,2,1,African Cup of Nations qualification,Nouakchott,Mauritania,False
+2019-03-22,Botswana,Angola,0,1,African Cup of Nations qualification,Francistown,Botswana,False
+2019-06-02,South Africa,Botswana,2,2,COSAFA Cup,Durban,South Africa,False
+2019-06-05,Lesotho,Botswana,1,2,COSAFA Cup,Durban,South Africa,True
+2019-06-08,Botswana,Zambia,0,1,COSAFA Cup,Durban,South Africa,True
+2019-09-07,Botswana,Malawi,0,0,FIFA World Cup qualification,Francistown,Botswana,False
+2019-09-10,Malawi,Botswana,1,0,FIFA World Cup qualification,Blantyre,Malawi,False
+2019-09-30,Botswana,Liberia,0,0,Friendly,Gaborone,Botswana,False
+2019-10-14,Egypt,Botswana,1,0,Friendly,Cairo,Egypt,False
+2019-11-15,Zimbabwe,Botswana,0,0,African Cup of Nations qualification,Harare,Zimbabwe,False
+2019-11-18,Botswana,Algeria,0,1,African Cup of Nations qualification,Gaborone,Botswana,False
+2020-11-12,Zambia,Botswana,2,1,African Cup of Nations qualification,Lusaka,Zambia,False
+2020-11-16,Botswana,Zambia,1,0,African Cup of Nations qualification,Francistown,Botswana,False
+2021-03-25,Botswana,Zimbabwe,0,1,African Cup of Nations qualification,Francistown,Botswana,False
+2021-03-29,Algeria,Botswana,5,0,African Cup of Nations qualification,Algiers,Algeria,False
+2021-07-06,South Africa,Botswana,1,0,COSAFA Cup,Port Elizabeth,South Africa,False
+2021-07-10,Lesotho,Botswana,0,4,COSAFA Cup,Port Elizabeth,South Africa,True
+2021-07-13,Botswana,Zambia,1,2,COSAFA Cup,Port Elizabeth,South Africa,True
+2021-07-14,Eswatini,Botswana,1,1,COSAFA Cup,Port Elizabeth,South Africa,True
+2022-06-01,Libya,Botswana,1,0,African Cup of Nations qualification,Benghazi,Libya,False
+2022-06-05,Botswana,Tunisia,0,0,African Cup of Nations qualification,Francistown,Botswana,False
+2022-07-05,Seychelles,Botswana,0,1,COSAFA Cup,Durban,South Africa,True
+2022-07-07,Comoros,Botswana,0,1,COSAFA Cup,Durban,South Africa,True
+2022-07-10,Botswana,Angola,1,0,COSAFA Cup,Durban,South Africa,True
+2022-07-12,Zambia,Botswana,1,1,COSAFA Cup,KwaMashu,South Africa,True
+2022-07-15,Botswana,Eswatini,2,0,COSAFA Cup,Sugar Ray Xulu Stadium,South Africa,True
+2022-07-17,South Africa,Botswana,2,1,COSAFA Cup,Sugar Ray Xulu Stadium,South Africa,False
+2022-09-27,South Africa,Botswana,1,0,Friendly,Johannesburg,South Africa,False
+2022-11-17,Angola,Botswana,1,0,Friendly,Soweto,South Africa,True
+2023-03-24,Equatorial Guinea,Botswana,2,0,African Cup of Nations qualification,Malabo,Equatorial Guinea,False
+2023-03-28,Botswana,Equatorial Guinea,2,3,African Cup of Nations qualification,Francistown,Botswana,False
+2023-06-17,Botswana,Libya,1,0,African Cup of Nations qualification,Francistown,Botswana,False
+2023-07-05,Eswatini,Botswana,0,1,COSAFA Cup,Durban,South Africa,True
+2023-07-08,South Africa,Botswana,2,1,COSAFA Cup,Durban,South Africa,False
+2023-07-11,Namibia,Botswana,0,0,COSAFA Cup,Durban,South Africa,True
+2023-09-07,Tunisia,Botswana,3,0,African Cup of Nations qualification,Radès,Tunisia,False
+2023-10-16,Botswana,Eswatini,2,1,Friendly,Lobatse,Botswana,False
+2023-11-16,Botswana,Mozambique,2,3,FIFA World Cup qualification,Francistown,Botswana,False
+2023-11-21,Botswana,Guinea,1,0,FIFA World Cup qualification,Francistown,Botswana,False
+2024-01-08,Botswana,Mozambique,1,1,Friendly,Johannesburg,South Africa,True
+2024-06-07,Uganda,Botswana,1,0,FIFA World Cup qualification,Kira,Uganda,False
+2024-06-10,Somalia,Botswana,1,3,FIFA World Cup qualification,Maputo,Mozambique,True
+2024-09-07,Mauritania,Botswana,1,0,African Cup of Nations qualification,Nouakchott,Mauritania,False
+2024-09-10,Botswana,Egypt,0,4,African Cup of Nations qualification,Francistown,Botswana,False
+2024-10-10,Cape Verde,Botswana,0,1,African Cup of Nations qualification,Praia,Cape Verde,False
+2024-10-15,Botswana,Cape Verde,1,0,African Cup of Nations qualification,Francistown,Botswana,False
+2025-03-21,Botswana,Algeria,1,3,FIFA World Cup qualification,Francistown,Botswana,False
+2025-03-25,Botswana,Somalia,2,0,FIFA World Cup qualification,Francistown,Botswana,False

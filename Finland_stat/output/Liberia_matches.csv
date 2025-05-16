@@ -1,0 +1,292 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1961-12-25,Central African Republic,Liberia,1,1,African Friendship Games,Abidjan,Ivory Coast,True
+1961-12-26,Ivory Coast,Liberia,5,0,African Friendship Games,Abidjan,Ivory Coast,False
+1961-12-27,Burkina Faso,Liberia,5,1,African Friendship Games,Abidjan,Ivory Coast,True
+1963-04-12,Liberia,Chad,2,1,African Friendship Games,Dakar,Senegal,True
+1963-04-14,Benin,Liberia,1,0,African Friendship Games,Dakar,Senegal,True
+1963-04-16,Madagascar,Liberia,3,1,African Friendship Games,Dakar,Senegal,True
+1963-10-08,Liberia,Nigeria,2,2,Friendly,Monrovia,Liberia,False
+1963-10-26,Nigeria,Liberia,3,0,Friendly,Lagos,Nigeria,False
+1965-05-29,Liberia,Ivory Coast,0,1,African Cup of Nations qualification,Monrovia,Liberia,False
+1965-08-14,Liberia,DR Congo,2,1,African Cup of Nations qualification,Monrovia,Liberia,False
+1965-09-21,DR Congo,Liberia,3,2,African Cup of Nations qualification,Brazzaville,Congo,True
+1965-09-21,Ivory Coast,Liberia,4,0,African Cup of Nations qualification,Abidjan,Ivory Coast,False
+1966-11-12,Sierra Leone,Liberia,1,1,Friendly,Freetown,Sierra Leone,False
+1966-11-19,Liberia,Sierra Leone,2,0,Friendly,Monrovia,Liberia,False
+1967-01-26,Liberia,Guinea,2,2,African Cup of Nations qualification,Monrovia,Liberia,False
+1967-03-05,Ivory Coast,Liberia,1,1,Friendly,Abidjan,Ivory Coast,False
+1967-04-02,Guinea,Liberia,3,0,African Cup of Nations qualification,Conakry,Guinea,False
+1967-04-09,Liberia,Senegal,1,1,African Cup of Nations qualification,Monrovia,Liberia,False
+1967-07-02,Senegal,Liberia,4,1,African Cup of Nations qualification,Dakar,Senegal,False
+1967-10-20,Liberia,DR Congo,1,4,Friendly,Monrovia,Liberia,False
+1971-03-01,Madagascar,Liberia,2,1,Friendly,Antananarivo,Madagascar,False
+1971-03-24,Togo,Liberia,0,2,Friendly,Lomé,Togo,False
+1972-05-31,Liberia,Guinea,0,2,Friendly,Monrovia,Liberia,False
+1972-11-24,Liberia,Nigeria,1,3,Friendly,Monrovia,Liberia,False
+1972-12-29,Liberia,Ghana,2,2,Friendly,Monrovia,Liberia,False
+1974-11-10,Togo,Liberia,1,0,African Cup of Nations qualification,Lomé,Togo,False
+1974-11-22,Liberia,Togo,0,2,African Cup of Nations qualification,Monrovia,Liberia,False
+1975-01-30,Liberia,Cameroon,2,0,Friendly,Monrovia,Liberia,False
+1975-02-09,Liberia,Nigeria,0,1,Friendly,Monrovia,Liberia,False
+1976-04-25,Sierra Leone,Liberia,1,0,Friendly,Freetown,Sierra Leone,False
+1979-01-28,Liberia,Guinea,2,1,Friendly,Monrovia,Liberia,False
+1979-02-01,Liberia,Senegal,1,1,Friendly,Monrovia,Liberia,False
+1979-02-04,Liberia,Gambia,1,0,Friendly,Monrovia,Liberia,False
+1979-06-24,Ghana,Liberia,0,0,Friendly,Accra,Ghana,False
+1979-07-26,Liberia,Ghana,3,1,Friendly,Monrovia,Liberia,False
+1979-10-25,Liberia,Nigeria,2,2,Friendly,Monrovia,Liberia,False
+1980-01-26,Nigeria,Liberia,1,0,Friendly,Lagos,Nigeria,False
+1980-10-25,Liberia,Mali,1,1,Friendly,Monrovia,Liberia,False
+1980-11-09,Liberia,Gambia,0,0,African Cup of Nations qualification,Monrovia,Liberia,False
+1980-11-23,Gambia,Liberia,1,1,African Cup of Nations qualification,Banjul,Gambia,False
+1980-12-07,Liberia,Guinea,0,0,FIFA World Cup qualification,Monrovia,Liberia,False
+1980-12-21,Guinea,Liberia,1,0,FIFA World Cup qualification,Conakry,Guinea,False
+1981-03-08,Liberia,Togo,2,0,Friendly,Monrovia,Liberia,False
+1981-03-22,Morocco,Liberia,3,1,African Cup of Nations qualification,Rabat,Morocco,False
+1981-04-04,Liberia,Morocco,0,5,African Cup of Nations qualification,Monrovia,Liberia,False
+1981-05-06,Liberia,Guinea,2,1,Friendly,Monrovia,Liberia,False
+1981-06-27,Liberia,Ghana,0,0,Friendly,Monrovia,Liberia,False
+1981-10-03,Nigeria,Liberia,3,0,Friendly,Calabar,Nigeria,False
+1982-02-13,Liberia,Togo,0,1,West African Cup,Cotonou,Benin,True
+1982-02-15,Liberia,Burkina Faso,1,2,West African Cup,Cotonou,Benin,True
+1982-11-07,Liberia,Sierra Leone,1,0,Friendly,Monrovia,Liberia,False
+1983-09-25,Ivory Coast,Liberia,0,0,West African Cup,Abidjan,Ivory Coast,False
+1983-09-28,Ghana,Liberia,1,0,West African Cup,Abidjan,Ivory Coast,True
+1983-09-30,Liberia,Togo,0,4,West African Cup,Abidjan,Ivory Coast,True
+1983-10-02,Ivory Coast,Liberia,2,1,West African Cup,Abidjan,Ivory Coast,False
+1984-01-29,Liberia,Senegal,0,0,Friendly,Abidjan,Ivory Coast,True
+1984-01-31,Liberia,Mali,2,2,Friendly,Abidjan,Ivory Coast,True
+1984-02-02,Ivory Coast,Liberia,4,1,Friendly,Abidjan,Ivory Coast,False
+1984-02-05,Liberia,Mali,0,1,Friendly,Abidjan,Ivory Coast,True
+1984-08-25,Liberia,Papua New Guinea,1,2,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1984-08-29,Malaysia,Liberia,3,1,Merdeka Tournament,Kota Bharu,Malaysia,False
+1984-09-04,Indonesia,Liberia,1,2,Merdeka Tournament,Johor Bahru,Malaysia,True
+1984-10-11,Ivory Coast,Liberia,3,0,Friendly,Abidjan,Ivory Coast,False
+1984-10-20,Nigeria,Liberia,3,0,FIFA World Cup qualification,Lagos,Nigeria,False
+1984-11-04,Liberia,Nigeria,0,1,FIFA World Cup qualification,Monrovia,Liberia,False
+1984-11-11,Liberia,Mauritania,3,1,African Cup of Nations qualification,Monrovia,Liberia,False
+1984-11-23,Mauritania,Liberia,3,0,African Cup of Nations qualification,Nouakchott,Mauritania,False
+1986-02-23,Liberia,Burkina Faso,0,1,West African Cup,Accra,Ghana,True
+1986-02-25,Liberia,Niger,3,0,West African Cup,Accra,Ghana,True
+1986-02-26,Ghana,Liberia,3,0,West African Cup,Accra,Ghana,False
+1986-02-27,Togo,Liberia,1,0,West African Cup,Accra,Ghana,True
+1986-07-26,Liberia,Guinea,0,0,Friendly,Monrovia,Liberia,False
+1986-07-30,Liberia,Ivory Coast,0,2,Friendly,Monrovia,Liberia,False
+1986-08-01,Liberia,Guinea,2,1,Friendly,Monrovia,Liberia,False
+1986-08-02,Liberia,Togo,1,0,Friendly,Monrovia,Liberia,False
+1986-10-05,Sierra Leone,Liberia,2,1,African Cup of Nations qualification,Freetown,Sierra Leone,False
+1986-10-19,Liberia,Sierra Leone,1,1,African Cup of Nations qualification,Monrovia,Liberia,False
+1987-02-01,Liberia,Burkina Faso,2,0,West African Cup,Monrovia,Liberia,False
+1987-02-03,Liberia,Benin,0,0,West African Cup,Monrovia,Liberia,False
+1987-02-08,Liberia,Ghana,1,2,West African Cup,Monrovia,Liberia,False
+1987-07-26,Liberia,Morocco,2,1,Friendly,Monrovia,Liberia,False
+1987-07-27,Liberia,Ghana,0,0,Friendly,Monrovia,Liberia,False
+1987-10-31,Liberia,Ghana,0,2,Friendly,Monrovia,Liberia,False
+1987-12-20,Liberia,Burkina Faso,1,0,Friendly,Monrovia,Liberia,False
+1987-12-23,Liberia,Ivory Coast,1,2,Friendly,Monrovia,Liberia,False
+1988-08-07,Ghana,Liberia,0,0,FIFA World Cup qualification,Accra,Ghana,False
+1988-08-21,Liberia,Ghana,2,0,FIFA World Cup qualification,Monrovia,Liberia,False
+1988-10-02,Liberia,Mali,0,1,African Cup of Nations qualification,Monrovia,Liberia,False
+1988-10-16,Mali,Liberia,3,0,African Cup of Nations qualification,Bamako,Mali,False
+1988-11-26,Liberia,Sierra Leone,0,0,Friendly,Monrovia,Liberia,False
+1988-11-27,Liberia,Guinea,0,1,Friendly,Monrovia,Liberia,False
+1988-12-20,Liberia,Tunisia,1,1,Friendly,Paynesville,Liberia,False
+1989-01-06,Egypt,Liberia,2,0,FIFA World Cup qualification,Cairo,Egypt,False
+1989-01-22,Liberia,Kenya,0,0,FIFA World Cup qualification,Monrovia,Liberia,False
+1989-06-11,Liberia,Malawi,1,0,FIFA World Cup qualification,Monrovia,Liberia,False
+1989-06-25,Liberia,Egypt,1,0,FIFA World Cup qualification,Monrovia,Liberia,False
+1989-08-12,Kenya,Liberia,1,0,FIFA World Cup qualification,Nairobi,Kenya,False
+1989-08-26,Malawi,Liberia,0,0,FIFA World Cup qualification,Lilongwe,Malawi,False
+1989-10-22,Liberia,Guinea,2,0,Friendly,Monrovia,Liberia,False
+1989-11-28,Liberia,Guinea,2,0,Friendly,Paynesville,Liberia,False
+1989-11-29,Liberia,Ghana,1,1,Friendly,Paynesville,Liberia,False
+1990-01-24,Liberia,Senegal,0,1,Friendly,Bauchi,Nigeria,True
+1990-01-27,Ivory Coast,Liberia,1,0,Friendly,Bauchi,Nigeria,True
+1992-10-11,DR Congo,Liberia,4,2,FIFA World Cup qualification,Kinshasa,Zaïre,False
+1993-04-10,Ghana,Liberia,0,0,African Cup of Nations qualification,Accra,Ghana,False
+1993-07-25,Liberia,Ghana,0,2,African Cup of Nations qualification,Monrovia,Liberia,False
+1994-06-05,Ivory Coast,Liberia,4,1,Friendly,Abidjan,Ivory Coast,False
+1994-09-04,Liberia,Togo,1,0,African Cup of Nations qualification,Monrovia,Liberia,False
+1994-09-06,Liberia,Togo,1,1,Friendly,Monrovia,Liberia,False
+1994-11-11,Mauritania,Liberia,1,1,African Cup of Nations qualification,Nouakchott,Mauritania,False
+1994-12-29,Liberia,Guinea,0,0,Friendly,Monrovia,Liberia,False
+1995-01-22,Liberia,Senegal,1,1,African Cup of Nations qualification,Monrovia,Liberia,False
+1995-02-10,Tunisia,Liberia,0,0,African Cup of Nations qualification,Tunis,Tunisia,False
+1995-04-09,Togo,Liberia,0,0,African Cup of Nations qualification,Lomé,Togo,False
+1995-04-23,Liberia,Tunisia,1,0,African Cup of Nations qualification,Monrovia,Liberia,False
+1995-05-25,Liberia,Mali,3,2,Friendly,Abidjan,Ivory Coast,True
+1995-05-28,Ivory Coast,Liberia,1,1,Friendly,Abidjan,Ivory Coast,False
+1995-06-04,Liberia,Mauritania,2,0,African Cup of Nations qualification,Monrovia,Liberia,False
+1995-07-30,Senegal,Liberia,3,0,African Cup of Nations qualification,Dakar,Senegal,False
+1995-12-17,Sierra Leone,Liberia,1,0,Friendly,Freetown,Sierra Leone,False
+1995-12-24,Cameroon,Liberia,1,0,Friendly,Yaoundé,Cameroon,False
+1996-01-06,Sierra Leone,Liberia,2,1,Friendly,Freetown,Sierra Leone,False
+1996-01-16,Gabon,Liberia,1,2,African Cup of Nations,Durban,South Africa,True
+1996-01-25,Liberia,DR Congo,0,2,African Cup of Nations,Johannesburg,South Africa,True
+1996-06-01,Gambia,Liberia,2,1,FIFA World Cup qualification,Banjul,Gambia,False
+1996-06-23,Liberia,Gambia,4,0,FIFA World Cup qualification,Accra,Ghana,True
+1996-10-06,DR Congo,Liberia,0,0,African Cup of Nations qualification,Kinshasa,Zaïre,False
+1996-11-10,Liberia,Tunisia,0,1,FIFA World Cup qualification,Accra,Ghana,True
+1997-01-11,Namibia,Liberia,0,0,FIFA World Cup qualification,Windhoek,Namibia,False
+1997-01-26,Liberia,Togo,1,2,African Cup of Nations qualification,Accra,Ghana,True
+1997-02-23,Tanzania,Liberia,1,1,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+1997-04-06,Liberia,Egypt,1,0,FIFA World Cup qualification,Accra,Ghana,True
+1997-04-27,Tunisia,Liberia,2,0,FIFA World Cup qualification,Tunis,Tunisia,False
+1997-06-08,Liberia,Namibia,1,2,FIFA World Cup qualification,Monrovia,Liberia,False
+1997-06-22,Liberia,DR Congo,2,1,African Cup of Nations qualification,Monrovia,Liberia,False
+1997-07-13,Togo,Liberia,4,0,African Cup of Nations qualification,Lomé,Togo,False
+1997-07-27,Liberia,Tanzania,1,0,African Cup of Nations qualification,Monrovia,Liberia,False
+1997-08-17,Egypt,Liberia,5,0,FIFA World Cup qualification,Cairo,Egypt,False
+1998-01-27,Liberia,Burkina Faso,1,2,Friendly,Monrovia,Liberia,False
+1998-08-02,Niger,Liberia,2,1,African Cup of Nations qualification,Niamey,Niger,False
+1998-08-16,Liberia,Niger,2,0,African Cup of Nations qualification,Monrovia,Liberia,False
+1998-10-04,Tunisia,Liberia,2,1,African Cup of Nations qualification,Tunis,Tunisia,False
+1999-01-24,Liberia,Uganda,2,0,African Cup of Nations qualification,Monrovia,Liberia,False
+1999-02-28,Liberia,Algeria,1,1,African Cup of Nations qualification,Monrovia,Liberia,False
+1999-04-09,Algeria,Liberia,4,1,African Cup of Nations qualification,Annaba,Algeria,False
+1999-06-05,Uganda,Liberia,1,0,African Cup of Nations qualification,Kampala,Uganda,False
+1999-06-20,Liberia,Tunisia,2,0,African Cup of Nations qualification,Monrovia,Liberia,False
+2000-04-09,Chad,Liberia,0,1,FIFA World Cup qualification,N'Djamena,Chad,False
+2000-04-23,Liberia,Chad,0,0,FIFA World Cup qualification,Paynesville,Liberia,False
+2000-06-18,Sudan,Liberia,2,0,FIFA World Cup qualification,Omdurman,Sudan,False
+2000-07-09,Liberia,Nigeria,2,1,FIFA World Cup qualification,Paynesville,Liberia,False
+2000-09-03,Liberia,Mauritius,4,0,African Cup of Nations qualification,Monrovia,Liberia,False
+2000-12-16,South Africa,Liberia,2,1,African Cup of Nations qualification,Johannesburg,South Africa,False
+2001-01-14,Liberia,Congo,5,1,African Cup of Nations qualification,Monrovia,Liberia,False
+2001-01-28,Ghana,Liberia,1,3,FIFA World Cup qualification,Accra,Ghana,False
+2001-02-25,Liberia,Sierra Leone,1,0,FIFA World Cup qualification,Paynesville,Liberia,False
+2001-03-25,Congo,Liberia,0,1,African Cup of Nations qualification,Pointe-Noire,Congo,False
+2001-04-08,Mali,Liberia,3,0,Friendly,Bamako,Mali,False
+2001-04-22,Liberia,Sudan,2,0,FIFA World Cup qualification,Paynesville,Liberia,False
+2001-05-05,Nigeria,Liberia,2,0,FIFA World Cup qualification,Port Harcourt,Nigeria,False
+2001-06-03,Liberia,South Africa,1,1,African Cup of Nations qualification,Paynesville,Liberia,False
+2001-06-16,Mauritius,Liberia,0,2,African Cup of Nations qualification,Belle Vue Harel,Mauritius,False
+2001-07-01,Liberia,Ghana,1,2,FIFA World Cup qualification,Paynesville,Liberia,False
+2001-07-14,Sierra Leone,Liberia,0,1,FIFA World Cup qualification,Freetown,Sierra Leone,False
+2001-08-04,Colombia,Liberia,2,1,Friendly,East Rutherford,United States,True
+2001-08-23,Mexico,Liberia,5,4,Friendly,Veracruz,Mexico,False
+2001-12-30,Tunisia,Liberia,7,2,Friendly,Tunis,Tunisia,False
+2002-01-19,Mali,Liberia,1,1,African Cup of Nations,Bamako,Mali,False
+2002-01-25,Liberia,Algeria,2,2,African Cup of Nations,Bamako,Mali,True
+2002-01-28,Liberia,Nigeria,0,1,African Cup of Nations,Mopti,Mali,True
+2002-09-08,Guinea,Liberia,3,0,African Cup of Nations qualification,Conakry,Guinea,False
+2002-10-12,Liberia,Niger,1,0,African Cup of Nations qualification,Monrovia,Liberia,False
+2003-03-30,Ethiopia,Liberia,1,0,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+2003-06-08,Liberia,Ethiopia,1,0,African Cup of Nations qualification,Monrovia,Liberia,False
+2003-06-21,Liberia,Guinea,1,2,African Cup of Nations qualification,Accra,Ghana,True
+2003-07-05,Niger,Liberia,1,0,African Cup of Nations qualification,Niamey,Niger,False
+2003-10-12,Gambia,Liberia,2,0,FIFA World Cup qualification,Bakau,Gambia,False
+2003-11-16,Liberia,Gambia,3,0,FIFA World Cup qualification,Monrovia,Liberia,False
+2004-06-06,Liberia,Mali,1,0,FIFA World Cup qualification,Paynesville,Liberia,False
+2004-06-20,Congo,Liberia,3,0,FIFA World Cup qualification,Brazzaville,Congo,False
+2004-07-04,Liberia,Togo,0,0,FIFA World Cup qualification,Paynesville,Liberia,False
+2004-09-04,Zambia,Liberia,1,0,FIFA World Cup qualification,Lusaka,Zambia,False
+2004-10-10,Liberia,Senegal,0,3,FIFA World Cup qualification,Paynesville,Liberia,False
+2005-03-26,Senegal,Liberia,6,1,FIFA World Cup qualification,Dakar,Senegal,False
+2005-06-05,Mali,Liberia,4,1,FIFA World Cup qualification,Ségou,Mali,False
+2005-06-10,Sierra Leone,Liberia,2,0,Friendly,Freetown,Sierra Leone,False
+2005-06-19,Liberia,Congo,0,2,FIFA World Cup qualification,Paynesville,Liberia,False
+2005-09-04,Togo,Liberia,3,0,FIFA World Cup qualification,Lomé,Togo,False
+2005-10-01,Liberia,Zambia,0,5,FIFA World Cup qualification,Monrovia,Liberia,False
+2006-09-03,Equatorial Guinea,Liberia,2,1,African Cup of Nations qualification,Malabo,Equatorial Guinea,False
+2006-10-08,Liberia,Rwanda,3,2,African Cup of Nations qualification,Monrovia,Liberia,False
+2007-03-24,Cameroon,Liberia,3,1,African Cup of Nations qualification,Yaoundé,Cameroon,False
+2007-06-03,Liberia,Cameroon,1,2,African Cup of Nations qualification,Monrovia,Liberia,False
+2007-06-17,Liberia,Equatorial Guinea,0,0,African Cup of Nations qualification,Monrovia,Liberia,False
+2007-09-08,Rwanda,Liberia,4,0,African Cup of Nations qualification,Kigali,Rwanda,False
+2008-03-26,Sudan,Liberia,0,2,Friendly,Khartoum,Sudan,False
+2008-04-24,Oman,Liberia,1,0,Friendly,Muscat,Oman,False
+2008-04-30,Liberia,Sierra Leone,3,1,Friendly,Paynesville,Liberia,False
+2008-05-27,Libya,Liberia,4,2,Friendly,Tripoli,Libya,False
+2008-06-01,Liberia,Gambia,1,1,FIFA World Cup qualification,Paynesville,Liberia,False
+2008-06-06,Algeria,Liberia,3,0,FIFA World Cup qualification,Blida,Algeria,False
+2008-06-15,Liberia,Senegal,2,2,FIFA World Cup qualification,Paynesville,Liberia,False
+2008-06-21,Senegal,Liberia,3,1,FIFA World Cup qualification,Dakar,Senegal,False
+2008-09-06,Gambia,Liberia,3,0,FIFA World Cup qualification,Bakau,Gambia,False
+2008-10-11,Liberia,Algeria,0,0,FIFA World Cup qualification,Paynesville,Liberia,False
+2010-09-05,Liberia,Zimbabwe,1,1,African Cup of Nations qualification,Paynesville,Liberia,False
+2010-10-09,Mali,Liberia,2,1,African Cup of Nations qualification,Bamako,Mali,False
+2011-03-26,Cape Verde,Liberia,4,2,African Cup of Nations qualification,Praia,Cape Verde,False
+2011-06-05,Liberia,Cape Verde,1,0,African Cup of Nations qualification,Paynesville,Liberia,False
+2011-07-24,Liberia,Gambia,3,2,Friendly,Paynesville,Liberia,False
+2011-08-10,Liberia,Angola,0,0,Friendly,Paynesville,Liberia,False
+2011-08-14,Liberia,Niger,0,0,Friendly,Paynesville,Liberia,False
+2011-09-04,Zimbabwe,Liberia,3,0,African Cup of Nations qualification,Harare,Zimbabwe,False
+2011-10-08,Liberia,Mali,2,2,African Cup of Nations qualification,Paynesville,Liberia,False
+2012-02-15,Liberia,Nigeria,0,2,Friendly,Monrovia,Liberia,False
+2012-02-29,Liberia,Namibia,1,0,African Cup of Nations qualification,Monrovia,Liberia,False
+2012-06-02,Senegal,Liberia,3,1,FIFA World Cup qualification,Dakar,Senegal,False
+2012-06-10,Liberia,Angola,0,0,FIFA World Cup qualification,Monrovia,Liberia,False
+2012-06-16,Namibia,Liberia,0,0,African Cup of Nations qualification,Windhoek,Namibia,False
+2012-08-15,Equatorial Guinea,Liberia,1,0,Friendly,Malabo,Equatorial Guinea,False
+2012-09-04,Liberia,Malawi,1,0,Friendly,Paynesville,Liberia,False
+2012-09-08,Liberia,Nigeria,2,2,African Cup of Nations qualification,Paynesville,Liberia,False
+2012-09-11,Liberia,Ghana,2,0,Friendly,Paynesville,Liberia,False
+2012-10-13,Nigeria,Liberia,6,1,African Cup of Nations qualification,Calabar,Nigeria,False
+2013-03-24,Liberia,Uganda,2,0,FIFA World Cup qualification,Paynesville,Liberia,False
+2013-05-27,Iraq,Liberia,0,1,Friendly,Baghdad,Iraq,False
+2013-06-08,Uganda,Liberia,1,0,FIFA World Cup qualification,Kampala,Uganda,False
+2013-06-16,Liberia,Senegal,0,2,FIFA World Cup qualification,Paynesville,Liberia,False
+2013-09-07,Angola,Liberia,4,1,FIFA World Cup qualification,Lubango,Angola,False
+2014-05-18,Liberia,Lesotho,1,0,African Cup of Nations qualification,Monrovia,Liberia,False
+2014-06-01,Lesotho,Liberia,2,0,African Cup of Nations qualification,Maseru,Lesotho,False
+2015-06-14,Togo,Liberia,2,1,African Cup of Nations qualification,Lomé,Togo,False
+2015-09-05,Liberia,Tunisia,1,0,African Cup of Nations qualification,Monrovia,Liberia,False
+2015-10-08,Liberia,Guinea-Bissau,1,1,FIFA World Cup qualification,Monrovia,Liberia,False
+2015-10-13,Guinea-Bissau,Liberia,1,3,FIFA World Cup qualification,Bissau,Guinea-Bissau,False
+2015-11-13,Liberia,Ivory Coast,0,1,FIFA World Cup qualification,Monrovia,Liberia,False
+2015-11-17,Ivory Coast,Liberia,3,0,FIFA World Cup qualification,Abidjan,Ivory Coast,False
+2016-03-24,Djibouti,Liberia,0,1,African Cup of Nations qualification,Djibouti,Djibouti,False
+2016-03-29,Liberia,Djibouti,5,0,African Cup of Nations qualification,Monrovia,Liberia,False
+2016-06-05,Liberia,Togo,2,2,African Cup of Nations qualification,Monrovia,Liberia,False
+2016-09-04,Tunisia,Liberia,4,1,African Cup of Nations qualification,Monastir,Tunisia,False
+2016-11-15,Kenya,Liberia,1,0,Friendly,Nairobi,Kenya,False
+2017-06-11,Zimbabwe,Liberia,3,0,African Cup of Nations qualification,Harare,Zimbabwe,False
+2018-07-22,Liberia,Sierra Leone,0,0,Friendly,Monrovia,Liberia,False
+2018-09-09,Liberia,DR Congo,1,1,African Cup of Nations qualification,Monrovia,Liberia,False
+2018-09-11,Liberia,Nigeria,1,2,Friendly,Monrovia,Liberia,False
+2018-10-11,Congo,Liberia,3,1,African Cup of Nations qualification,Brazzaville,Congo,False
+2018-10-16,Liberia,Congo,2,1,African Cup of Nations qualification,Monrovia,Liberia,False
+2018-11-18,Liberia,Zimbabwe,1,0,African Cup of Nations qualification,Monrovia,Liberia,False
+2019-03-24,DR Congo,Liberia,1,0,African Cup of Nations qualification,Kinshasa,DR Congo,False
+2019-03-26,Ivory Coast,Liberia,1,0,Friendly,Abidjan,Ivory Coast,False
+2019-07-21,Equatorial Guinea,Liberia,1,1,Friendly,Malabo,Equatorial Guinea,False
+2019-09-04,Liberia,Sierra Leone,3,1,FIFA World Cup qualification,Monrovia,Liberia,False
+2019-09-08,Sierra Leone,Liberia,1,0,FIFA World Cup qualification,Freetown,Sierra Leone,False
+2019-09-30,Botswana,Liberia,0,0,Friendly,Gaborone,Botswana,False
+2019-10-09,Liberia,Chad,1,0,African Cup of Nations qualification,Monrovia,Liberia,False
+2019-10-13,Chad,Liberia,1,0,African Cup of Nations qualification,N'Djamena,Chad,False
+2019-11-07,Egypt,Liberia,1,0,Friendly,Alexandria,Egypt,False
+2021-06-11,Mauritania,Liberia,1,0,Friendly,Tunis,Tunisia,True
+2021-06-14,Libya,Liberia,0,1,Friendly,Tunis,Tunisia,True
+2021-06-17,Algeria,Liberia,5,1,Friendly,Oran,Algeria,False
+2021-09-03,Nigeria,Liberia,2,0,FIFA World Cup qualification,Lagos,Nigeria,False
+2021-09-06,Liberia,Central African Republic,1,0,FIFA World Cup qualification,Douala,Cameroon,True
+2021-09-30,Egypt,Liberia,2,0,Friendly,Alexandria,Egypt,False
+2021-10-07,Liberia,Cape Verde,1,2,FIFA World Cup qualification,Accra,Ghana,True
+2021-10-10,Cape Verde,Liberia,1,0,FIFA World Cup qualification,Mindelo,Cape Verde,False
+2021-11-13,Liberia,Nigeria,0,2,FIFA World Cup qualification,Tangier,Morocco,True
+2021-11-16,Liberia,Central African Republic,3,1,FIFA World Cup qualification,Tangier,Morocco,True
+2022-03-24,Liberia,Benin,0,4,Friendly,Antalya,Turkey,True
+2022-03-27,Liberia,Sierra Leone,0,1,Friendly,Antalya,Turkey,True
+2022-03-29,Liberia,Burundi,1,2,Friendly,Antalya,Turkey,True
+2022-06-13,Morocco,Liberia,2,0,African Cup of Nations qualification,Casablanca,Morocco,False
+2022-09-25,Niger,Liberia,0,0,Friendly,Cairo,Egypt,True
+2022-09-27,Egypt,Liberia,3,0,Friendly,Alexandria,Egypt,False
+2023-03-24,South Africa,Liberia,2,2,African Cup of Nations qualification,Johannesburg,South Africa,False
+2023-03-28,Liberia,South Africa,1,2,African Cup of Nations qualification,Monrovia,Liberia,False
+2023-09-12,Ghana,Liberia,3,1,Friendly,Accra,Ghana,False
+2023-10-14,Liberia,Libya,2,3,Friendly,Khouribga,Morocco,True
+2023-10-17,Morocco,Liberia,3,0,African Cup of Nations qualification,Agadir,Morocco,False
+2023-11-17,Liberia,Malawi,0,1,FIFA World Cup qualification,Monrovia,Liberia,False
+2023-11-20,Liberia,Equatorial Guinea,0,1,FIFA World Cup qualification,Monrovia,Liberia,False
+2024-03-20,Djibouti,Liberia,0,2,African Cup of Nations qualification,Marrakech,Morocco,True
+2024-03-26,Liberia,Djibouti,0,0,African Cup of Nations qualification,Monrovia,Liberia,False
+2024-06-05,Namibia,Liberia,1,1,FIFA World Cup qualification,Johannesburg,South Africa,True
+2024-06-09,São Tomé and Príncipe,Liberia,0,1,FIFA World Cup qualification,Oujda,Morocco,True
+2024-09-06,Togo,Liberia,1,1,African Cup of Nations qualification,Lomé,Togo,False
+2024-09-10,Liberia,Algeria,0,3,African Cup of Nations qualification,Monrovia,Liberia,False
+2024-10-11,Equatorial Guinea,Liberia,1,0,African Cup of Nations qualification,Malabo,Equatorial Guinea,False
+2024-10-14,Liberia,Equatorial Guinea,1,2,African Cup of Nations qualification,Monrovia,Liberia,False
+2025-03-19,Liberia,Tunisia,0,1,FIFA World Cup qualification,Monrovia,Liberia,False
+2025-03-24,Liberia,São Tomé and Príncipe,2,1,FIFA World Cup qualification,Monrovia,Liberia,False

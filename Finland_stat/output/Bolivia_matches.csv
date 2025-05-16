@@ -1,0 +1,520 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1926-10-12,Chile,Bolivia,7,1,Copa América,Santiago,Chile,False
+1926-10-16,Argentina,Bolivia,5,0,Copa América,Santiago,Chile,True
+1926-10-23,Bolivia,Paraguay,1,6,Copa América,Santiago,Chile,True
+1926-10-28,Bolivia,Uruguay,0,6,Copa América,Santiago,Chile,True
+1927-10-30,Argentina,Bolivia,7,1,Copa América,Lima,Peru,True
+1927-11-06,Bolivia,Uruguay,0,9,Copa América,Lima,Peru,True
+1927-11-13,Peru,Bolivia,3,2,Copa América,Lima,Peru,False
+1930-07-17,Bolivia,Yugoslavia,0,4,FIFA World Cup,Montevideo,Uruguay,True
+1930-07-20,Bolivia,Brazil,0,4,FIFA World Cup,Montevideo,Uruguay,True
+1938-08-08,Bolivia,Ecuador,1,1,Bolivarian Games,Bogotá,Colombia,True
+1938-08-11,Bolivia,Venezuela,3,1,Bolivarian Games,Bogotá,Colombia,True
+1938-08-14,Bolivia,Peru,0,3,Bolivarian Games,Bogota,Colombia,True
+1938-08-16,Colombia,Bolivia,1,2,Bolivarian Games,Bogotá,Colombia,False
+1938-08-22,Bolivia,Ecuador,2,1,Bolivarian Games,Bogotá,Colombia,True
+1945-01-18,Argentina,Bolivia,4,0,Copa América,Santiago,Chile,True
+1945-01-24,Chile,Bolivia,5,0,Copa América,Santiago,Chile,False
+1945-01-28,Bolivia,Brazil,0,2,Copa América,Santiago,Chile,True
+1945-02-11,Bolivia,Ecuador,0,0,Copa América,Santiago,Chile,True
+1945-02-15,Bolivia,Uruguay,0,2,Copa América,Santiago,Chile,True
+1945-02-21,Bolivia,Colombia,3,3,Copa América,Santiago,Chile,True
+1946-01-16,Bolivia,Brazil,0,3,Copa América,Buenos Aires,Argentina,True
+1946-01-19,Argentina,Bolivia,7,1,Copa América,Buenos Aires,Argentina,False
+1946-01-26,Bolivia,Paraguay,2,4,Copa América,Buenos Aires,Argentina,True
+1946-01-29,Bolivia,Uruguay,0,5,Copa América,Avellaneda,Argentina,True
+1946-02-08,Bolivia,Chile,1,4,Copa América,Buenos Aires,Argentina,True
+1947-01-05,Venezuela,Bolivia,2,2,Bolivarian Games,Lima,Peru,True
+1947-11-30,Ecuador,Bolivia,2,2,Copa América,Guayaquil,Ecuador,False
+1947-12-04,Argentina,Bolivia,7,0,Copa América,Guayaquil,Ecuador,True
+1947-12-09,Bolivia,Uruguay,0,3,Copa América,Guayaquil,Ecuador,True
+1947-12-13,Bolivia,Colombia,0,0,Copa América,Guayaquil,Ecuador,True
+1947-12-18,Bolivia,Paraguay,1,3,Copa América,Guayaquil,Ecuador,True
+1947-12-27,Bolivia,Peru,0,2,Copa América,Guayaquil,Ecuador,True
+1947-12-31,Bolivia,Chile,3,4,Copa América,Guayaquil,Ecuador,True
+1949-04-06,Bolivia,Chile,3,2,Copa América,São Paulo,Brazil,True
+1949-04-10,Brazil,Bolivia,10,1,Copa América,São Paulo,Brazil,False
+1949-04-17,Bolivia,Uruguay,3,2,Copa América,Rio de Janeiro,Brazil,True
+1949-04-25,Bolivia,Ecuador,2,0,Copa América,São Paulo,Brazil,True
+1949-04-27,Bolivia,Peru,0,3,Copa América,Santos,Brazil,True
+1949-04-30,Bolivia,Paraguay,0,7,Copa América,Rio de Janeiro,Brazil,True
+1949-05-06,Bolivia,Colombia,4,0,Copa América,Rio de Janeiro,Brazil,True
+1950-02-26,Bolivia,Chile,2,0,Friendly,La Paz,Bolivia,False
+1950-03-12,Chile,Bolivia,5,0,Friendly,Santiago,Chile,False
+1950-07-02,Bolivia,Uruguay,0,8,FIFA World Cup,Belo Horizonte,Brazil,True
+1953-02-22,Peru,Bolivia,0,1,Copa América,Lima,Peru,False
+1953-02-25,Bolivia,Uruguay,0,2,Copa América,Lima,Peru,True
+1953-03-01,Bolivia,Brazil,1,8,Copa América,Lima,Peru,True
+1953-03-08,Bolivia,Ecuador,1,1,Copa América,Lima,Peru,True
+1953-03-16,Bolivia,Paraguay,1,2,Copa América,Lima,Peru,True
+1953-03-28,Bolivia,Chile,2,2,Copa América,Lima,Peru,True
+1957-06-06,Paraguay,Bolivia,5,2,Copa Paz del Chaco,Asunción,Paraguay,False
+1957-06-13,Paraguay,Bolivia,0,1,Copa Paz del Chaco,Asunción,Paraguay,False
+1957-08-18,Bolivia,Paraguay,3,3,Copa Paz del Chaco,La Paz,Bolivia,False
+1957-08-21,Bolivia,Paraguay,2,1,Copa Paz del Chaco,La Paz,Bolivia,False
+1957-09-22,Chile,Bolivia,2,1,FIFA World Cup qualification,Santiago,Chile,False
+1957-09-29,Bolivia,Chile,3,0,FIFA World Cup qualification,La Paz,Bolivia,False
+1957-10-06,Bolivia,Argentina,2,0,FIFA World Cup qualification,La Paz,Bolivia,False
+1957-10-27,Argentina,Bolivia,4,0,FIFA World Cup qualification,Avellaneda,Argentina,False
+1959-03-08,Bolivia,Uruguay,0,7,Copa América,Buenos Aires,Argentina,True
+1959-03-11,Argentina,Bolivia,2,0,Copa América,Buenos Aires,Argentina,False
+1959-03-15,Bolivia,Paraguay,0,5,Copa América,Buenos Aires,Argentina,True
+1959-03-21,Bolivia,Brazil,2,4,Copa América,Buenos Aires,Argentina,True
+1959-03-26,Bolivia,Chile,2,5,Copa América,Buenos Aires,Argentina,True
+1959-03-29,Bolivia,Peru,0,0,Copa América,Buenos Aires,Argentina,True
+1961-07-15,Bolivia,Uruguay,1,1,FIFA World Cup qualification,La Paz,Bolivia,False
+1961-07-30,Uruguay,Bolivia,2,1,FIFA World Cup qualification,Montevideo,Uruguay,False
+1962-08-10,Bolivia,Paraguay,3,1,Copa Paz del Chaco,Cochabamba,Bolivia,False
+1962-08-12,Bolivia,Paraguay,3,2,Copa Paz del Chaco,La Paz,Bolivia,False
+1963-02-17,Paraguay,Bolivia,3,0,Copa Paz del Chaco,Asunción,Paraguay,False
+1963-02-19,Paraguay,Bolivia,5,1,Copa Paz del Chaco,Asunción,Paraguay,False
+1963-03-10,Bolivia,Ecuador,4,4,Copa América,La Paz,Bolivia,False
+1963-03-17,Bolivia,Colombia,2,1,Copa América,Cochabamba,Bolivia,False
+1963-03-21,Bolivia,Peru,3,2,Copa América,La Paz,Bolivia,False
+1963-03-24,Bolivia,Paraguay,2,0,Copa América,Cochabamba,Bolivia,False
+1963-03-28,Bolivia,Argentina,3,2,Copa América,La Paz,Bolivia,False
+1963-03-31,Bolivia,Brazil,5,4,Copa América,Cochabamba,Bolivia,False
+1965-07-25,Paraguay,Bolivia,2,0,FIFA World Cup qualification,Asunción,Paraguay,False
+1965-08-17,Argentina,Bolivia,4,1,FIFA World Cup qualification,Buenos Aires,Argentina,False
+1965-08-22,Bolivia,Paraguay,2,1,FIFA World Cup qualification,La Paz,Bolivia,False
+1965-08-29,Bolivia,Argentina,1,2,FIFA World Cup qualification,La Paz,Bolivia,False
+1967-01-17,Uruguay,Bolivia,4,0,Copa América,Montevideo,Uruguay,False
+1967-01-22,Bolivia,Argentina,0,1,Copa América,Montevideo,Uruguay,True
+1967-01-25,Paraguay,Bolivia,1,0,Copa América,Montevideo,Uruguay,True
+1967-01-28,Bolivia,Venezuela,0,3,Copa América,Montevideo,Uruguay,True
+1967-02-01,Bolivia,Chile,0,0,Copa América,Montevideo,Uruguay,True
+1969-07-27,Bolivia,Argentina,3,1,FIFA World Cup qualification,La Paz,Bolivia,False
+1969-08-10,Bolivia,Peru,2,1,FIFA World Cup qualification,La Paz,Bolivia,False
+1969-08-17,Peru,Bolivia,3,0,FIFA World Cup qualification,Lima,Peru,False
+1969-08-24,Argentina,Bolivia,1,0,FIFA World Cup qualification,Buenos Aires,Argentina,False
+1971-08-15,Bolivia,Chile,3,4,Friendly,La Paz,Bolivia,False
+1972-06-11,Bolivia,Peru,0,3,Brazil Independence Cup,Curitiba,Brazil,True
+1972-06-18,Bolivia,Yugoslavia,1,1,Brazil Independence Cup,Campo Grande,Brazil,True
+1972-06-21,Bolivia,Venezuela,2,2,Brazil Independence Cup,Manaus,Brazil,True
+1972-06-25,Bolivia,Paraguay,1,6,Brazil Independence Cup,Manaus,Brazil,True
+1973-03-24,Peru,Bolivia,2,0,Friendly,Lima,Peru,False
+1973-03-31,Bolivia,Paraguay,1,1,Friendly,La Paz,Bolivia,False
+1973-04-29,Bolivia,Ecuador,3,3,Friendly,La Paz,Bolivia,False
+1973-05-06,Ecuador,Bolivia,0,0,Friendly,Quito,Ecuador,False
+1973-05-27,Brazil,Bolivia,5,0,Friendly,Rio de Janeiro,Brazil,False
+1973-07-15,Bolivia,Peru,2,0,Friendly,La Paz,Bolivia,False
+1973-07-24,Chile,Bolivia,3,0,Friendly,Santiago,Chile,False
+1973-09-02,Bolivia,Paraguay,1,2,FIFA World Cup qualification,La Paz,Bolivia,False
+1973-09-09,Argentina,Bolivia,4,0,FIFA World Cup qualification,Buenos Aires,Argentina,False
+1973-09-23,Bolivia,Argentina,0,1,FIFA World Cup qualification,La Paz,Bolivia,False
+1973-09-30,Paraguay,Bolivia,4,0,FIFA World Cup qualification,Asunción,Paraguay,False
+1975-06-27,Bolivia,Argentina,1,2,Friendly,Cochabamba,Bolivia,False
+1975-07-07,Bolivia,Paraguay,1,2,Friendly,Cochabamba,Bolivia,False
+1975-07-09,Bolivia,Ecuador,1,0,Friendly,Cochabamba,Bolivia,False
+1975-07-20,Bolivia,Chile,2,1,Copa América,Oruro,Bolivia,False
+1975-07-27,Bolivia,Peru,0,1,Copa América,Oruro,Bolivia,False
+1975-08-07,Peru,Bolivia,3,1,Copa América,Lima,Peru,False
+1975-08-13,Chile,Bolivia,4,0,Copa América,Santiago,Chile,False
+1977-02-06,Bolivia,Paraguay,0,1,Copa Paz del Chaco,La Paz,Bolivia,False
+1977-02-09,Bolivia,Paraguay,2,2,Copa Paz del Chaco,Cochabamba,Bolivia,False
+1977-02-27,Bolivia,Uruguay,1,0,FIFA World Cup qualification,La Paz,Bolivia,False
+1977-03-06,Venezuela,Bolivia,1,3,FIFA World Cup qualification,Caracas,Venezuela,False
+1977-03-13,Bolivia,Venezuela,2,0,FIFA World Cup qualification,La Paz,Bolivia,False
+1977-03-27,Uruguay,Bolivia,2,2,FIFA World Cup qualification,Montevideo,Uruguay,False
+1977-06-12,Bolivia,Poland,1,2,Friendly,La Paz,Bolivia,False
+1977-07-14,Brazil,Bolivia,8,0,FIFA World Cup qualification,Cali,Colombia,True
+1977-07-17,Peru,Bolivia,5,0,FIFA World Cup qualification,Cali,Colombia,True
+1977-10-29,Hungary,Bolivia,6,0,FIFA World Cup qualification,Budapest,Hungary,False
+1977-11-30,Bolivia,Hungary,2,3,FIFA World Cup qualification,La Paz,Bolivia,False
+1979-07-10,Bolivia,Paraguay,3,1,Copa Paz del Chaco,La Paz,Bolivia,False
+1979-07-12,Bolivia,Paraguay,1,1,Friendly,Cochabamba,Bolivia,False
+1979-07-18,Bolivia,Argentina,2,1,Copa América,La Paz,Bolivia,False
+1979-07-26,Bolivia,Brazil,2,1,Copa América,La Paz,Bolivia,False
+1979-08-01,Paraguay,Bolivia,2,0,Copa Paz del Chaco,Asunción,Paraguay,False
+1979-08-08,Argentina,Bolivia,3,0,Copa América,Buenos Aires,Argentina,False
+1979-08-16,Brazil,Bolivia,2,0,Copa América,São Paulo,Brazil,False
+1980-07-02,Bolivia,Poland,0,1,Friendly,Santa Cruz,Bolivia,False
+1980-08-26,Bolivia,Paraguay,1,1,Copa Paz del Chaco,La Paz,Bolivia,False
+1980-08-28,Bolivia,Paraguay,1,3,Friendly,Santa Cruz,Bolivia,False
+1980-09-18,Paraguay,Bolivia,2,1,Copa Paz del Chaco,Asunción,Paraguay,False
+1980-11-09,Bolivia,Uruguay,1,3,Friendly,Cochabamba,Bolivia,False
+1980-11-30,Bolivia,Finland,3,0,Friendly,La Paz,Bolivia,False
+1980-12-04,Bolivia,Finland,2,2,Friendly,Santa Cruz,Bolivia,False
+1980-12-11,Uruguay,Bolivia,5,0,Friendly,Maldonado,Uruguay,False
+1981-02-01,Bolivia,Bulgaria,1,3,Friendly,La Paz,Bolivia,False
+1981-02-15,Bolivia,Venezuela,3,0,FIFA World Cup qualification,La Paz,Bolivia,False
+1981-02-22,Bolivia,Brazil,1,2,FIFA World Cup qualification,La Paz,Bolivia,False
+1981-03-15,Venezuela,Bolivia,1,0,FIFA World Cup qualification,Caracas,Venezuela,False
+1981-03-22,Brazil,Bolivia,3,1,FIFA World Cup qualification,Rio de Janeiro,Brazil,False
+1983-07-19,Bolivia,Chile,1,2,Friendly,La Paz,Bolivia,False
+1983-08-03,Bolivia,Paraguay,2,1,Friendly,La Paz,Bolivia,False
+1983-08-05,Bolivia,Paraguay,1,3,Friendly,Santa Cruz,Bolivia,False
+1983-08-14,Bolivia,Colombia,0,1,Copa América,La Paz,Bolivia,False
+1983-08-21,Bolivia,Peru,1,1,Copa América,La Paz,Bolivia,False
+1983-08-24,Chile,Bolivia,4,2,Friendly,Arica,Chile,False
+1983-08-31,Colombia,Bolivia,2,2,Copa América,Bogotá,Colombia,False
+1983-09-04,Peru,Bolivia,2,1,Copa América,Lima,Peru,False
+1985-02-03,Bolivia,German DR,2,1,Friendly,La Paz,Bolivia,False
+1985-02-06,Bolivia,Uruguay,0,1,Friendly,Cochabamba,Bolivia,False
+1985-02-17,Peru,Bolivia,3,0,Friendly,Lima,Peru,False
+1985-02-21,Ecuador,Bolivia,3,0,Friendly,Quito,Ecuador,False
+1985-04-21,Bolivia,Venezuela,4,0,Friendly,Santa Cruz,Bolivia,False
+1985-05-01,Bolivia,Peru,0,0,Friendly,Santa Cruz,Bolivia,False
+1985-05-26,Bolivia,Paraguay,1,1,FIFA World Cup qualification,Santa Cruz,Bolivia,False
+1985-06-02,Bolivia,Brazil,0,2,FIFA World Cup qualification,Santa Cruz,Bolivia,False
+1985-06-09,Paraguay,Bolivia,3,0,FIFA World Cup qualification,Asunción,Paraguay,False
+1985-06-30,Brazil,Bolivia,1,1,FIFA World Cup qualification,São Paulo,Brazil,False
+1987-06-14,Bolivia,Paraguay,0,2,Friendly,Santa Cruz,Bolivia,False
+1987-06-23,Uruguay,Bolivia,2,1,Friendly,Montevideo,Uruguay,False
+1987-06-28,Paraguay,Bolivia,0,0,Copa América,Rosario,Argentina,True
+1987-07-01,Bolivia,Colombia,0,2,Copa América,Rosario,Argentina,True
+1989-05-25,Bolivia,Paraguay,3,2,Friendly,Cochabamba,Bolivia,False
+1989-06-01,Paraguay,Bolivia,2,0,Friendly,Asunción,Paraguay,False
+1989-06-08,Bolivia,Uruguay,0,0,Friendly,Santa Cruz,Bolivia,False
+1989-06-14,Uruguay,Bolivia,1,0,Friendly,Montevideo,Uruguay,False
+1989-06-22,Bolivia,Chile,0,1,Friendly,Santa Cruz,Bolivia,False
+1989-06-27,Chile,Bolivia,2,1,Friendly,Santiago,Chile,False
+1989-07-04,Uruguay,Bolivia,3,0,Copa América,Goiânia,Brazil,True
+1989-07-06,Ecuador,Bolivia,0,0,Copa América,Goiânia,Brazil,True
+1989-07-08,Bolivia,Chile,0,5,Copa América,Goiânia,Brazil,True
+1989-07-10,Argentina,Bolivia,0,0,Copa América,Goiânia,Brazil,True
+1989-08-20,Bolivia,Peru,2,1,FIFA World Cup qualification,La Paz,Bolivia,False
+1989-09-03,Bolivia,Uruguay,2,1,FIFA World Cup qualification,La Paz,Bolivia,False
+1989-09-10,Peru,Bolivia,1,2,FIFA World Cup qualification,Lima,Peru,False
+1989-09-17,Uruguay,Bolivia,2,0,FIFA World Cup qualification,Montevideo,Uruguay,False
+1991-06-14,Bolivia,Paraguay,0,1,Copa Paz del Chaco,Santa Cruz,Bolivia,False
+1991-06-16,Paraguay,Bolivia,0,0,Copa Paz del Chaco,Asunción,Paraguay,False
+1991-07-07,Bolivia,Uruguay,1,1,Copa América,Valparaíso,Chile,True
+1991-07-09,Bolivia,Brazil,1,2,Copa América,Viña del Mar,Chile,True
+1991-07-11,Bolivia,Colombia,0,0,Copa América,Viña del Mar,Chile,True
+1991-07-13,Bolivia,Ecuador,0,4,Copa América,Viña del Mar,Chile,True
+1993-01-19,North Korea,Bolivia,2,1,Nehru Cup,Madras,India,True
+1993-01-25,Bolivia,Russia,1,2,Nehru Cup,Madras,India,True
+1993-01-29,Bolivia,Honduras,3,1,Friendly,Cochabamba,Bolivia,False
+1993-03-03,Paraguay,Bolivia,1,0,Copa Paz del Chaco,Asunción,Paraguay,False
+1993-03-12,El Salvador,Bolivia,2,2,Friendly,San Salvador,El Salvador,False
+1993-03-14,Honduras,Bolivia,0,0,Friendly,San Pedro Sula,Honduras,False
+1993-03-16,Honduras,Bolivia,0,0,Friendly,Tegucigalpa,Honduras,False
+1993-03-31,Chile,Bolivia,2,1,Friendly,Arica,Chile,False
+1993-05-23,United States,Bolivia,0,0,Friendly,Fullerton,United States,False
+1993-05-27,Bolivia,Paraguay,2,1,Copa Paz del Chaco,Cochabamba,Bolivia,False
+1993-06-06,Peru,Bolivia,1,0,Friendly,Lima,Peru,False
+1993-06-13,Bolivia,Chile,1,3,Friendly,La Paz,Bolivia,False
+1993-06-17,Argentina,Bolivia,1,0,Copa América,Guayaquil,Ecuador,True
+1993-06-20,Colombia,Bolivia,1,1,Copa América,Machala,Ecuador,True
+1993-06-23,Mexico,Bolivia,0,0,Copa América,Portoviejo,Ecuador,True
+1993-07-18,Venezuela,Bolivia,1,7,FIFA World Cup qualification,Puerto Ordaz,Venezuela,False
+1993-07-25,Bolivia,Brazil,2,0,FIFA World Cup qualification,La Paz,Bolivia,False
+1993-08-08,Bolivia,Uruguay,3,1,FIFA World Cup qualification,La Paz,Bolivia,False
+1993-08-15,Bolivia,Ecuador,1,0,FIFA World Cup qualification,La Paz,Bolivia,False
+1993-08-22,Bolivia,Venezuela,7,0,FIFA World Cup qualification,La Paz,Bolivia,False
+1993-08-29,Brazil,Bolivia,6,0,FIFA World Cup qualification,Recife,Brazil,False
+1993-09-12,Uruguay,Bolivia,2,1,FIFA World Cup qualification,Montevideo,Uruguay,False
+1993-09-19,Ecuador,Bolivia,1,1,FIFA World Cup qualification,Guayaquil,Ecuador,False
+1993-12-22,Basque Country,Bolivia,3,1,Friendly,San Sebastián,Spain,False
+1994-02-18,United States,Bolivia,1,1,Joe Robbie Cup,Miami,United States,False
+1994-02-20,Bolivia,Colombia,0,2,Joe Robbie Cup,Miami,United States,True
+1994-03-26,United States,Bolivia,2,2,Friendly,Dallas,United States,False
+1994-04-07,Colombia,Bolivia,0,1,Friendly,Villavicencio,Colombia,False
+1994-04-20,Romania,Bolivia,3,0,Friendly,Bucharest,Romania,False
+1994-05-04,Bolivia,Saudi Arabia,1,0,Friendly,Cannes,France,True
+1994-05-11,Bolivia,Cameroon,1,1,Friendly,Piraeus,Greece,True
+1994-05-13,Greece,Bolivia,0,0,Friendly,Piraeus,Greece,False
+1994-05-19,Iceland,Bolivia,1,0,Friendly,Reykjavík,Iceland,False
+1994-05-24,Republic of Ireland,Bolivia,1,0,Friendly,Dublin,Republic of Ireland,False
+1994-06-08,Bolivia,Peru,0,0,Friendly,Santa Cruz,Bolivia,False
+1994-06-11,Bolivia,Switzerland,0,0,Friendly,Montreal,Canada,True
+1994-06-17,Germany,Bolivia,1,0,FIFA World Cup,Chicago,United States,True
+1994-06-23,South Korea,Bolivia,0,0,FIFA World Cup,Foxborough,United States,True
+1994-06-27,Bolivia,Spain,1,3,FIFA World Cup,Chicago,United States,True
+1994-09-21,Chile,Bolivia,1,2,Friendly,Santiago,Chile,False
+1995-04-03,Bolivia,Venezuela,0,0,Friendly,Sucre,Bolivia,False
+1995-05-14,Bolivia,Paraguay,1,1,Copa Paz del Chaco,Cochabamba,Bolivia,False
+1995-06-09,Paraguay,Bolivia,0,0,Copa Paz del Chaco,Asunción,Paraguay,False
+1995-06-18,Venezuela,Bolivia,1,3,Friendly,Valera,Venezuela,False
+1995-07-01,Peru,Bolivia,4,1,Friendly,Lima,Peru,False
+1995-07-08,Argentina,Bolivia,2,1,Copa América,Paysandú,Uruguay,True
+1995-07-11,United States,Bolivia,0,1,Copa América,Paysandú,Uruguay,True
+1995-07-14,Chile,Bolivia,2,2,Copa América,Paysandú,Uruguay,True
+1995-07-16,Uruguay,Bolivia,2,1,Copa América,Montevideo,Uruguay,False
+1995-10-25,Bolivia,Ecuador,2,2,Friendly,Santa Cruz,Bolivia,False
+1996-02-04,Bolivia,Chile,1,1,Friendly,Cochabamba,Bolivia,False
+1996-02-11,Peru,Bolivia,1,3,Friendly,Lima,Peru,False
+1996-02-14,Bolivia,Paraguay,4,1,Friendly,Sucre,Bolivia,False
+1996-03-07,Bolivia,Peru,2,0,Friendly,Santa Cruz,Bolivia,False
+1996-03-28,Colombia,Bolivia,4,1,Friendly,Medellín,Colombia,False
+1996-04-24,Argentina,Bolivia,3,1,FIFA World Cup qualification,Buenos Aires,Argentina,False
+1996-05-05,El Salvador,Bolivia,1,1,Friendly,"Washington, D.C.",United States,True
+1996-05-26,Chile,Bolivia,2,0,Friendly,Santiago,Chile,False
+1996-06-08,Mexico,Bolivia,1,0,USA Cup,Dallas,United States,True
+1996-06-12,United States,Bolivia,0,2,USA Cup,"Washington, D.C.",United States,False
+1996-06-15,Bolivia,Republic of Ireland,0,3,USA Cup,East Rutherford,United States,True
+1996-07-07,Bolivia,Venezuela,6,1,FIFA World Cup qualification,La Paz,Bolivia,False
+1996-07-26,Paraguay,Bolivia,2,0,Friendly,Asunción,Paraguay,False
+1996-09-01,Bolivia,Peru,0,0,FIFA World Cup qualification,La Paz,Bolivia,False
+1996-10-08,Uruguay,Bolivia,1,0,FIFA World Cup qualification,Montevideo,Uruguay,False
+1996-11-10,Bolivia,Colombia,2,2,FIFA World Cup qualification,La Paz,Bolivia,False
+1996-12-15,Bolivia,Paraguay,0,0,FIFA World Cup qualification,La Paz,Bolivia,False
+1997-01-12,Bolivia,Ecuador,2,0,FIFA World Cup qualification,La Paz,Bolivia,False
+1997-02-02,Bolivia,Slovakia,0,1,Friendly,Cochabamba,Bolivia,False
+1997-02-12,Bolivia,Chile,1,1,FIFA World Cup qualification,La Paz,Bolivia,False
+1997-03-23,Bolivia,Jamaica,6,0,Friendly,Oruro,Bolivia,False
+1997-04-02,Bolivia,Argentina,2,1,FIFA World Cup qualification,La Paz,Bolivia,False
+1997-06-08,Venezuela,Bolivia,1,1,FIFA World Cup qualification,Valera,Venezuela,False
+1997-06-12,Bolivia,Venezuela,1,0,Copa América,La Paz,Bolivia,False
+1997-06-15,Bolivia,Peru,2,0,Copa América,La Paz,Bolivia,False
+1997-06-18,Bolivia,Uruguay,1,0,Copa América,La Paz,Bolivia,False
+1997-06-21,Bolivia,Colombia,2,1,Copa América,La Paz,Bolivia,False
+1997-06-25,Bolivia,Mexico,3,1,Copa América,La Paz,Bolivia,False
+1997-06-29,Bolivia,Brazil,1,3,Copa América,La Paz,Bolivia,False
+1997-07-06,Peru,Bolivia,2,1,FIFA World Cup qualification,Lima,Peru,False
+1997-07-20,Bolivia,Uruguay,1,0,FIFA World Cup qualification,La Paz,Bolivia,False
+1997-08-20,Colombia,Bolivia,3,0,FIFA World Cup qualification,Barranquilla,Colombia,False
+1997-09-10,Paraguay,Bolivia,2,1,FIFA World Cup qualification,Asunción,Paraguay,False
+1997-10-12,Ecuador,Bolivia,1,0,FIFA World Cup qualification,Guayaquil,Ecuador,False
+1997-11-16,Chile,Bolivia,3,0,FIFA World Cup qualification,Santiago,Chile,False
+1999-01-24,Bolivia,United States,0,0,Friendly,Santa Cruz,Bolivia,False
+1999-03-03,Bolivia,Jamaica,0,0,Friendly,Guatemala City,Guatemala,True
+1999-03-05,Guatemala,Bolivia,0,3,Friendly,Guatemala City,Guatemala,False
+1999-03-07,Bolivia,Paraguay,0,3,Friendly,Guatemala City,Guatemala,True
+1999-03-11,Mexico,Bolivia,2,1,USA Cup,Los Angeles,United States,True
+1999-03-13,Guatemala,Bolivia,2,1,USA Cup,San Diego,United States,True
+1999-04-28,Bolivia,Chile,1,1,Friendly,Cochabamba,Bolivia,False
+1999-06-20,Chile,Bolivia,1,0,Friendly,Santiago,Chile,False
+1999-06-29,Paraguay,Bolivia,0,0,Copa América,Asunción,Paraguay,False
+1999-07-02,Peru,Bolivia,1,0,Copa América,Asunción,Paraguay,True
+1999-07-05,Bolivia,Japan,1,1,Copa América,Pedro Juan Caballero,Paraguay,True
+1999-07-25,Bolivia,Egypt,2,2,Confederations Cup,Mexico City,Mexico,True
+1999-07-27,Saudi Arabia,Bolivia,0,0,Confederations Cup,Mexico City,Mexico,True
+1999-07-29,Mexico,Bolivia,1,0,Confederations Cup,Mexico City,Mexico,False
+1999-08-25,Bolivia,Venezuela,0,0,Friendly,Sucre,Bolivia,False
+1999-11-03,Bolivia,Paraguay,0,0,Copa Paz del Chaco,Buenos Aires,Argentina,True
+2000-03-05,Bolivia,Haiti,9,2,Friendly,La Paz,Bolivia,False
+2000-03-16,Venezuela,Bolivia,0,0,Friendly,Maracaibo,Venezuela,False
+2000-03-29,Uruguay,Bolivia,1,0,FIFA World Cup qualification,Montevideo,Uruguay,False
+2000-04-26,Bolivia,Colombia,1,1,FIFA World Cup qualification,La Paz,Bolivia,False
+2000-06-04,Argentina,Bolivia,1,0,FIFA World Cup qualification,Buenos Aires,Argentina,False
+2000-06-14,Bolivia,Slovakia,0,2,Kirin Cup,Tosu,Japan,True
+2000-06-18,Japan,Bolivia,2,0,Kirin Cup,Yokohama,Japan,False
+2000-06-28,Venezuela,Bolivia,4,2,FIFA World Cup qualification,San Cristóbal,Venezuela,False
+2000-07-19,Bolivia,Chile,1,0,FIFA World Cup qualification,La Paz,Bolivia,False
+2000-07-27,Bolivia,Paraguay,0,0,FIFA World Cup qualification,La Paz,Bolivia,False
+2000-08-16,Ecuador,Bolivia,2,0,FIFA World Cup qualification,Quito,Ecuador,False
+2000-09-03,Brazil,Bolivia,5,0,FIFA World Cup qualification,Rio de Janeiro,Brazil,False
+2000-09-27,Mexico,Bolivia,1,0,Friendly,San Diego,United States,True
+2000-10-08,Bolivia,Peru,1,0,FIFA World Cup qualification,La Paz,Bolivia,False
+2000-11-15,Bolivia,Uruguay,0,0,FIFA World Cup qualification,La Paz,Bolivia,False
+2001-03-27,Colombia,Bolivia,2,0,FIFA World Cup qualification,Bogotá,Colombia,False
+2001-04-25,Bolivia,Argentina,3,3,FIFA World Cup qualification,La Paz,Bolivia,False
+2001-06-03,Bolivia,Venezuela,5,0,FIFA World Cup qualification,La Paz,Bolivia,False
+2001-07-13,Bolivia,Uruguay,0,1,Copa América,Medellín,Colombia,True
+2001-07-16,Honduras,Bolivia,2,0,Copa América,Medellín,Colombia,True
+2001-07-19,Bolivia,Costa Rica,0,4,Copa América,Medellín,Colombia,True
+2001-08-14,Chile,Bolivia,2,2,FIFA World Cup qualification,Santiago,Chile,False
+2001-09-05,Paraguay,Bolivia,5,1,FIFA World Cup qualification,Asunción,Paraguay,False
+2001-10-06,Bolivia,Ecuador,1,5,FIFA World Cup qualification,La Paz,Bolivia,False
+2001-11-07,Bolivia,Brazil,3,1,FIFA World Cup qualification,La Paz,Bolivia,False
+2001-11-14,Peru,Bolivia,1,1,FIFA World Cup qualification,Lima,Peru,False
+2002-01-31,Brazil,Bolivia,6,0,Friendly,Goiânia,Brazil,False
+2002-02-13,Paraguay,Bolivia,2,2,Friendly,Ciudad del Este,Paraguay,False
+2002-03-27,Senegal,Bolivia,2,1,Friendly,Dakar,Senegal,False
+2002-05-16,Mexico,Bolivia,1,0,Friendly,San Francisco,United States,True
+2002-08-21,Venezuela,Bolivia,2,0,Friendly,Caracas,Venezuela,False
+2003-03-19,Mexico,Bolivia,2,0,Friendly,Dallas,United States,True
+2003-06-10,Portugal,Bolivia,4,0,Friendly,Oeiras,Portugal,False
+2003-08-31,Bolivia,Panama,3,0,Friendly,La Paz,Bolivia,False
+2003-09-07,Uruguay,Bolivia,5,0,FIFA World Cup qualification,Montevideo,Uruguay,False
+2003-09-10,Bolivia,Colombia,4,0,FIFA World Cup qualification,La Paz,Bolivia,False
+2003-10-11,Bolivia,Honduras,1,0,Friendly,"Washington, D.C.",United States,True
+2003-11-15,Argentina,Bolivia,3,0,FIFA World Cup qualification,Buenos Aires,Argentina,False
+2003-11-18,Venezuela,Bolivia,2,1,FIFA World Cup qualification,Maracaibo,Venezuela,False
+2004-03-30,Bolivia,Chile,0,2,FIFA World Cup qualification,La Paz,Bolivia,False
+2004-06-01,Bolivia,Paraguay,2,1,FIFA World Cup qualification,La Paz,Bolivia,False
+2004-06-05,Ecuador,Bolivia,3,2,FIFA World Cup qualification,Quito,Ecuador,False
+2004-07-06,Peru,Bolivia,2,2,Copa América,Lima,Peru,False
+2004-07-09,Colombia,Bolivia,1,0,Copa América,Lima,Peru,True
+2004-07-12,Venezuela,Bolivia,1,1,Copa América,Trujillo,Peru,True
+2004-09-05,Brazil,Bolivia,3,1,FIFA World Cup qualification,São Paulo,Brazil,False
+2004-10-09,Bolivia,Peru,1,0,FIFA World Cup qualification,La Paz,Bolivia,False
+2004-10-12,Bolivia,Uruguay,0,0,FIFA World Cup qualification,La Paz,Bolivia,False
+2004-11-13,Guatemala,Bolivia,1,0,Friendly,"Washington, D.C.",United States,True
+2004-11-17,Colombia,Bolivia,1,0,FIFA World Cup qualification,Barranquilla,Colombia,False
+2005-03-26,Bolivia,Argentina,1,2,FIFA World Cup qualification,La Paz,Bolivia,False
+2005-03-29,Bolivia,Venezuela,3,1,FIFA World Cup qualification,La Paz,Bolivia,False
+2005-06-04,Chile,Bolivia,3,1,FIFA World Cup qualification,Santiago,Chile,False
+2005-06-08,Paraguay,Bolivia,4,1,FIFA World Cup qualification,Asunción,Paraguay,False
+2005-09-03,Bolivia,Ecuador,1,2,FIFA World Cup qualification,La Paz,Bolivia,False
+2005-10-09,Bolivia,Brazil,1,1,FIFA World Cup qualification,La Paz,Bolivia,False
+2005-10-12,Peru,Bolivia,4,1,FIFA World Cup qualification,Tacna,Peru,False
+2006-11-15,Bolivia,El Salvador,5,1,Friendly,La Paz,Bolivia,False
+2007-03-28,South Africa,Bolivia,0,1,Friendly,Johannesburg,South Africa,False
+2007-05-26,Bolivia,Republic of Ireland,1,1,Friendly,Foxborough,United States,True
+2007-06-20,Bolivia,Paraguay,0,0,Friendly,Santa Cruz,Bolivia,False
+2007-06-26,Venezuela,Bolivia,2,2,Copa América,San Cristóbal,Venezuela,False
+2007-06-30,Bolivia,Uruguay,0,1,Copa América,San Cristóbal,Venezuela,True
+2007-07-03,Peru,Bolivia,2,2,Copa América,Mérida,Venezuela,True
+2007-08-22,Ecuador,Bolivia,1,0,Friendly,Quito,Ecuador,False
+2007-09-12,Peru,Bolivia,2,0,Friendly,Lima,Peru,False
+2007-10-13,Uruguay,Bolivia,5,0,FIFA World Cup qualification,Montevideo,Uruguay,False
+2007-10-17,Bolivia,Colombia,0,0,FIFA World Cup qualification,La Paz,Bolivia,False
+2007-11-17,Argentina,Bolivia,3,0,FIFA World Cup qualification,Buenos Aires,Argentina,False
+2007-11-20,Venezuela,Bolivia,5,3,FIFA World Cup qualification,San Cristóbal,Venezuela,False
+2008-02-06,Bolivia,Peru,2,1,Friendly,La Paz,Bolivia,False
+2008-03-26,Venezuela,Bolivia,0,1,Friendly,Puerto la Cruz,Venezuela,False
+2008-06-15,Bolivia,Chile,0,2,FIFA World Cup qualification,La Paz,Bolivia,False
+2008-06-18,Bolivia,Paraguay,4,2,FIFA World Cup qualification,La Paz,Bolivia,False
+2008-08-06,Guatemala,Bolivia,3,0,Friendly,"Washington, D.C.",United States,True
+2008-08-20,Bolivia,Panama,1,0,Friendly,Santa Cruz,Bolivia,False
+2008-09-06,Ecuador,Bolivia,3,1,FIFA World Cup qualification,Quito,Ecuador,False
+2008-09-10,Brazil,Bolivia,0,0,FIFA World Cup qualification,Rio de Janeiro,Brazil,False
+2008-10-11,Bolivia,Peru,3,0,FIFA World Cup qualification,La Paz,Bolivia,False
+2008-10-14,Bolivia,Uruguay,2,2,FIFA World Cup qualification,La Paz,Bolivia,False
+2008-10-22,Bolivia,El Salvador,0,2,Friendly,"Washington, D.C.",United States,True
+2009-03-11,Mexico,Bolivia,5,1,Friendly,Commerce City,United States,True
+2009-03-28,Colombia,Bolivia,2,0,FIFA World Cup qualification,Bogotá,Colombia,False
+2009-04-01,Bolivia,Argentina,6,1,FIFA World Cup qualification,La Paz,Bolivia,False
+2009-06-06,Bolivia,Venezuela,0,1,FIFA World Cup qualification,La Paz,Bolivia,False
+2009-06-10,Chile,Bolivia,4,0,FIFA World Cup qualification,Santiago,Chile,False
+2009-09-05,Paraguay,Bolivia,1,0,FIFA World Cup qualification,Asunción,Paraguay,False
+2009-09-09,Bolivia,Ecuador,1,3,FIFA World Cup qualification,La Paz,Bolivia,False
+2009-10-11,Bolivia,Brazil,2,1,FIFA World Cup qualification,La Paz,Bolivia,False
+2009-10-14,Peru,Bolivia,1,0,FIFA World Cup qualification,Lima,Peru,False
+2010-02-24,Mexico,Bolivia,5,0,Friendly,San Francisco,United States,True
+2010-08-11,Bolivia,Colombia,1,1,Friendly,La Paz,Bolivia,False
+2011-02-09,Latvia,Bolivia,2,1,Friendly,Antalya,Turkey,True
+2011-03-25,Panama,Bolivia,2,0,Friendly,Panama City,Panama,False
+2011-03-28,Guatemala,Bolivia,1,1,Friendly,Mazatenango,Guatemala,False
+2011-06-04,Bolivia,Paraguay,0,2,Copa Paz del Chaco,Santa Cruz,Bolivia,False
+2011-06-07,Paraguay,Bolivia,0,0,Copa Paz del Chaco,Luque,Paraguay,False
+2011-06-27,Bolivia,Mexico,0,1,Friendly,Buenos Aires,Argentina,True
+2011-07-01,Argentina,Bolivia,1,1,Copa América,La Plata,Argentina,False
+2011-07-07,Bolivia,Costa Rica,0,2,Copa América,San Salvador de Jujuy,Argentina,True
+2011-07-10,Colombia,Bolivia,2,0,Copa América,Santa Fe,Argentina,True
+2011-08-10,Bolivia,Panama,1,3,Friendly,Santa Cruz,Bolivia,False
+2011-09-02,Peru,Bolivia,2,2,Friendly,Lima,Peru,False
+2011-09-05,Bolivia,Peru,0,0,Friendly,La Paz,Bolivia,False
+2011-10-07,Uruguay,Bolivia,4,2,FIFA World Cup qualification,Montevideo,Uruguay,False
+2011-10-11,Bolivia,Colombia,1,2,FIFA World Cup qualification,La Paz,Bolivia,False
+2011-11-11,Argentina,Bolivia,1,1,FIFA World Cup qualification,Buenos Aires,Argentina,False
+2011-11-15,Venezuela,Bolivia,1,0,FIFA World Cup qualification,San Cristóbal,Venezuela,False
+2012-02-29,Bolivia,Cuba,1,0,Friendly,Cochabamba,Bolivia,False
+2012-06-02,Bolivia,Chile,0,2,FIFA World Cup qualification,La Paz,Bolivia,False
+2012-06-09,Bolivia,Paraguay,3,1,FIFA World Cup qualification,La Paz,Bolivia,False
+2012-08-15,Bolivia,Guyana,2,0,Friendly,Santa Cruz,Bolivia,False
+2012-09-07,Ecuador,Bolivia,1,0,FIFA World Cup qualification,Quito,Ecuador,False
+2012-10-12,Bolivia,Peru,1,1,FIFA World Cup qualification,La Paz,Bolivia,False
+2012-10-16,Bolivia,Uruguay,4,1,FIFA World Cup qualification,La Paz,Bolivia,False
+2012-11-14,Bolivia,Costa Rica,1,1,Friendly,Santa Cruz,Bolivia,False
+2012-12-29,Basque Country,Bolivia,6,1,Friendly,San Sebastián,Spain,False
+2013-03-22,Colombia,Bolivia,5,0,FIFA World Cup qualification,Barranquilla,Colombia,False
+2013-03-26,Bolivia,Argentina,1,1,FIFA World Cup qualification,La Paz,Bolivia,False
+2013-04-06,Bolivia,Brazil,0,4,Friendly,Santa Cruz,Bolivia,False
+2013-06-07,Bolivia,Venezuela,1,1,FIFA World Cup qualification,La Paz,Bolivia,False
+2013-06-11,Chile,Bolivia,3,1,FIFA World Cup qualification,Santiago,Chile,False
+2013-08-14,Venezuela,Bolivia,2,2,Friendly,San Cristóbal,Venezuela,False
+2013-09-06,Paraguay,Bolivia,4,0,FIFA World Cup qualification,Asunción,Paraguay,False
+2013-09-10,Bolivia,Ecuador,1,1,FIFA World Cup qualification,La Paz,Bolivia,False
+2013-10-15,Peru,Bolivia,1,1,FIFA World Cup qualification,Lima,Peru,False
+2014-05-30,Spain,Bolivia,2,0,Friendly,Seville,Spain,False
+2014-06-06,Bolivia,Greece,1,2,Friendly,Harrison,United States,True
+2014-09-09,Mexico,Bolivia,1,0,Friendly,Commerce City,United States,True
+2014-11-18,Bolivia,Venezuela,3,2,Friendly,La Paz,Bolivia,False
+2015-06-06,Argentina,Bolivia,5,0,Friendly,San Juan,Argentina,False
+2015-06-12,Mexico,Bolivia,0,0,Copa América,Viña del Mar,Chile,True
+2015-06-15,Ecuador,Bolivia,2,3,Copa América,Valparaíso,Chile,True
+2015-06-19,Chile,Bolivia,5,0,Copa América,Santiago,Chile,False
+2015-06-25,Bolivia,Peru,1,3,Copa América,Temuco,Chile,True
+2015-09-05,Argentina,Bolivia,7,0,Friendly,Houston,United States,True
+2015-10-08,Bolivia,Uruguay,0,2,FIFA World Cup qualification,La Paz,Bolivia,False
+2015-10-13,Ecuador,Bolivia,2,0,FIFA World Cup qualification,Quito,Ecuador,False
+2015-11-12,Bolivia,Venezuela,4,2,FIFA World Cup qualification,La Paz,Bolivia,False
+2015-11-17,Paraguay,Bolivia,2,1,FIFA World Cup qualification,Asunción,Paraguay,False
+2016-03-24,Bolivia,Colombia,2,3,FIFA World Cup qualification,La Paz,Bolivia,False
+2016-03-29,Argentina,Bolivia,2,0,FIFA World Cup qualification,Córdoba,Argentina,False
+2016-06-06,Panama,Bolivia,2,1,Copa América,Orlando,United States,True
+2016-06-10,Chile,Bolivia,2,1,Copa América,Foxborough,United States,True
+2016-06-14,Argentina,Bolivia,3,0,Copa América,Seattle,United States,True
+2016-09-01,Bolivia,Peru,0,3,FIFA World Cup qualification,La Paz,Bolivia,False
+2016-09-06,Chile,Bolivia,3,0,FIFA World Cup qualification,Santiago,Chile,False
+2016-10-06,Brazil,Bolivia,5,0,FIFA World Cup qualification,Natal,Brazil,False
+2016-10-11,Bolivia,Ecuador,2,2,FIFA World Cup qualification,La Paz,Bolivia,False
+2016-11-10,Venezuela,Bolivia,5,0,FIFA World Cup qualification,Maturín,Venezuela,False
+2016-11-15,Bolivia,Paraguay,1,0,FIFA World Cup qualification,La Paz,Bolivia,False
+2017-03-23,Colombia,Bolivia,1,0,FIFA World Cup qualification,Barranquilla,Colombia,False
+2017-03-28,Bolivia,Argentina,2,0,FIFA World Cup qualification,La Paz,Bolivia,False
+2017-06-02,Nicaragua,Bolivia,0,1,Friendly,Managua,Nicaragua,False
+2017-06-07,Bolivia,Nicaragua,3,2,Friendly,Yacuiba,Bolivia,False
+2017-08-31,Peru,Bolivia,2,1,FIFA World Cup qualification,Lima,Peru,False
+2017-09-05,Bolivia,Chile,1,0,FIFA World Cup qualification,La Paz,Bolivia,False
+2017-10-05,Bolivia,Brazil,0,0,FIFA World Cup qualification,La Paz,Bolivia,False
+2017-10-10,Uruguay,Bolivia,4,2,FIFA World Cup qualification,Montevideo,Uruguay,False
+2018-03-23,Curaçao,Bolivia,1,1,Friendly,Willemstad,Curaçao,False
+2018-03-26,Curaçao,Bolivia,1,0,Friendly,Willemstad,Curaçao,False
+2018-05-28,United States,Bolivia,3,0,Friendly,Chester,United States,False
+2018-06-07,South Korea,Bolivia,0,0,Friendly,Innsbruck,Austria,True
+2018-06-09,Serbia,Bolivia,5,1,Friendly,Graz,Austria,True
+2018-09-10,Saudi Arabia,Bolivia,2,2,Friendly,Riyadh,Saudi Arabia,False
+2018-10-13,Myanmar,Bolivia,0,3,Friendly,Yangon,Myanmar,False
+2018-10-16,Iran,Bolivia,2,1,Friendly,Tehran,Iran,False
+2018-11-16,United Arab Emirates,Bolivia,0,0,Friendly,Dubai,United Arab Emirates,False
+2018-11-20,Iraq,Bolivia,0,0,Friendly,Al-Ain,Iraq,False
+2019-03-03,Bolivia,Nicaragua,2,2,Friendly,Villa Tunari,Bolivia,False
+2019-03-22,South Korea,Bolivia,1,0,Friendly,Ulsan,South Korea,False
+2019-03-26,Japan,Bolivia,1,0,Kirin Challenge Cup,Kobe,Japan,False
+2019-06-02,France,Bolivia,2,0,Friendly,Nantes,France,False
+2019-06-14,Brazil,Bolivia,3,0,Copa América,São Paulo,Brazil,False
+2019-06-18,Bolivia,Peru,1,3,Copa América,Rio de Janeiro,Brazil,True
+2019-06-22,Bolivia,Venezuela,1,3,Copa América,Belo Horizonte,Brazil,True
+2019-09-10,Ecuador,Bolivia,3,0,Friendly,Cuenca,Ecuador,False
+2019-10-10,Venezuela,Bolivia,4,1,Friendly,Caracas,Venezuela,False
+2019-10-15,Bolivia,Haiti,3,1,Friendly,Santa Cruz,Bolivia,False
+2020-10-09,Brazil,Bolivia,5,0,FIFA World Cup qualification,São Paulo,Brazil,False
+2020-10-13,Bolivia,Argentina,1,2,FIFA World Cup qualification,La Paz,Bolivia,False
+2020-11-12,Bolivia,Ecuador,2,3,FIFA World Cup qualification,La Paz,Bolivia,False
+2020-11-17,Paraguay,Bolivia,2,2,FIFA World Cup qualification,Asunción,Paraguay,False
+2021-03-26,Chile,Bolivia,2,1,Friendly,Rancagua,Chile,False
+2021-03-29,Ecuador,Bolivia,2,1,Friendly,Guayaquil,Ecuador,False
+2021-06-03,Bolivia,Venezuela,3,1,FIFA World Cup qualification,La Paz,Bolivia,False
+2021-06-08,Chile,Bolivia,1,1,FIFA World Cup qualification,Santiago,Chile,False
+2021-06-14,Paraguay,Bolivia,3,1,Copa América,Goiânia,Brazil,True
+2021-06-18,Chile,Bolivia,1,0,Copa América,Cuiabá,Brazil,True
+2021-06-24,Bolivia,Uruguay,0,2,Copa América,Cuiabá,Brazil,True
+2021-06-28,Argentina,Bolivia,4,1,Copa América,Cuiabá,Brazil,True
+2021-09-02,Bolivia,Colombia,1,1,FIFA World Cup qualification,La Paz,Bolivia,False
+2021-09-05,Uruguay,Bolivia,4,2,FIFA World Cup qualification,Montevideo,Uruguay,False
+2021-09-09,Argentina,Bolivia,3,0,FIFA World Cup qualification,Buenos Aires,Argentina,False
+2021-10-07,Ecuador,Bolivia,3,0,FIFA World Cup qualification,Guayaquil,Ecuador,False
+2021-10-10,Bolivia,Peru,1,0,FIFA World Cup qualification,La Paz,Bolivia,False
+2021-10-14,Bolivia,Paraguay,4,0,FIFA World Cup qualification,La Paz,Bolivia,False
+2021-11-05,El Salvador,Bolivia,0,1,Friendly,"Washington, D.C.",United States,True
+2021-11-11,Peru,Bolivia,3,0,FIFA World Cup qualification,Lima,Peru,False
+2021-11-16,Bolivia,Uruguay,3,0,FIFA World Cup qualification,La Paz,Bolivia,False
+2022-01-21,Bolivia,Trinidad and Tobago,5,0,Friendly,Sucre,Bolivia,False
+2022-01-28,Venezuela,Bolivia,4,1,FIFA World Cup qualification,Barinas,Venezuela,False
+2022-02-01,Bolivia,Chile,2,3,FIFA World Cup qualification,La Paz,Bolivia,False
+2022-03-24,Colombia,Bolivia,3,0,FIFA World Cup qualification,Barranquilla,Colombia,False
+2022-03-29,Bolivia,Brazil,0,4,FIFA World Cup qualification,La Paz,Bolivia,False
+2022-09-24,Bolivia,Senegal,0,2,Friendly,Orléans,France,True
+2022-11-19,Peru,Bolivia,1,0,Friendly,Arequipa,Peru,False
+2023-03-24,Uzbekistan,Bolivia,1,0,Friendly,Jeddah,Saudi Arabia,True
+2023-03-28,Saudi Arabia,Bolivia,1,2,Friendly,Jeddah,Saudi Arabia,False
+2023-06-17,Ecuador,Bolivia,1,0,Friendly,Harrison,United States,True
+2023-06-20,Bolivia,Chile,0,0,Friendly,Santa Cruz,Bolivia,False
+2023-08-27,Bolivia,Panama,1,2,Friendly,Cochabamba,Bolivia,False
+2023-09-08,Brazil,Bolivia,5,1,FIFA World Cup qualification,Belém,Brazil,False
+2023-09-12,Bolivia,Argentina,0,3,FIFA World Cup qualification,La Paz,Bolivia,False
+2023-10-12,Bolivia,Ecuador,1,2,FIFA World Cup qualification,La Paz,Bolivia,False
+2023-10-17,Paraguay,Bolivia,1,0,FIFA World Cup qualification,Asunción,Paraguay,False
+2023-11-16,Bolivia,Peru,2,0,FIFA World Cup qualification,La Paz,Bolivia,False
+2023-11-21,Uruguay,Bolivia,3,0,FIFA World Cup qualification,Montevideo,Uruguay,False
+2024-03-22,Algeria,Bolivia,3,2,FIFA Series,Algiers,Algeria,False
+2024-03-25,Bolivia,Andorra,1,0,FIFA Series,Annaba,Algeria,True
+2024-05-31,Bolivia,Mexico,0,1,Friendly,Chicago,United States,True
+2024-06-12,Ecuador,Bolivia,3,1,Friendly,Chester,United States,True
+2024-06-15,Colombia,Bolivia,3,0,Friendly,Denver,United States,True
+2024-06-23,United States,Bolivia,2,0,Copa América,Arlington,United States,False
+2024-06-27,Uruguay,Bolivia,4,0,Copa América,East Rutherford,United States,True
+2024-07-01,Bolivia,Panama,1,3,Copa América,Orlando,United States,True
+2024-09-05,Bolivia,Venezuela,4,0,FIFA World Cup qualification,El Alto,Bolivia,False
+2024-09-10,Chile,Bolivia,1,2,FIFA World Cup qualification,Santiago,Chile,False
+2024-10-10,Bolivia,Colombia,1,0,FIFA World Cup qualification,El Alto,Bolivia,False
+2024-10-15,Argentina,Bolivia,6,0,FIFA World Cup qualification,Buenos Aires,Argentina,False
+2024-11-14,Ecuador,Bolivia,4,0,FIFA World Cup qualification,Guayaquil,Ecuador,False
+2024-11-19,Bolivia,Paraguay,2,2,FIFA World Cup qualification,El Alto,Bolivia,False
+2025-03-20,Peru,Bolivia,3,1,FIFA World Cup qualification,Lima,Peru,False
+2025-03-25,Bolivia,Uruguay,0,0,FIFA World Cup qualification,El Alto,Bolivia,False

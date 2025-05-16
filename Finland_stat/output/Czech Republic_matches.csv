@@ -1,0 +1,349 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1994-02-23,Turkey,Czech Republic,1,4,Friendly,Istanbul,Turkey,False
+1994-04-20,Switzerland,Czech Republic,3,0,Friendly,Zürich,Switzerland,False
+1994-05-25,Czech Republic,Lithuania,5,3,Friendly,Ostrava,Czech Republic,False
+1994-06-05,Republic of Ireland,Czech Republic,1,3,Friendly,Dublin,Republic of Ireland,False
+1994-08-17,France,Czech Republic,2,2,Friendly,Bordeaux,France,False
+1994-09-06,Czech Republic,Malta,6,1,UEFA Euro qualification,Ostrava,Czech Republic,False
+1994-10-12,Malta,Czech Republic,0,0,UEFA Euro qualification,Attard,Malta,False
+1994-11-16,Netherlands,Czech Republic,0,0,UEFA Euro qualification,Rotterdam,Netherlands,False
+1995-03-08,Czech Republic,Finland,4,1,Friendly,Brno,Czech Republic,False
+1995-03-29,Czech Republic,Belarus,4,2,UEFA Euro qualification,Ostrava,Czech Republic,False
+1995-04-26,Czech Republic,Netherlands,3,1,UEFA Euro qualification,Prague,Czech Republic,False
+1995-05-08,Slovakia,Czech Republic,1,1,Friendly,Bratislava,Slovakia,False
+1995-06-07,Luxembourg,Czech Republic,1,0,UEFA Euro qualification,Luxembourg,Luxembourg,False
+1995-08-16,Norway,Czech Republic,1,1,UEFA Euro qualification,Oslo,Norway,False
+1995-09-06,Czech Republic,Norway,2,0,UEFA Euro qualification,Prague,Czech Republic,False
+1995-10-07,Belarus,Czech Republic,0,2,UEFA Euro qualification,Minsk,Belarus,False
+1995-11-15,Czech Republic,Luxembourg,3,0,UEFA Euro qualification,Prague,Czech Republic,False
+1995-12-13,Kuwait,Czech Republic,1,2,Friendly,Kuwait City,Kuwait,False
+1996-03-26,Czech Republic,Turkey,3,0,Friendly,Ostrava,Czech Republic,False
+1996-04-24,Czech Republic,Republic of Ireland,2,0,Friendly,Prague,Czech Republic,False
+1996-05-29,Austria,Czech Republic,1,0,Friendly,Salzburg,Austria,False
+1996-06-01,Switzerland,Czech Republic,1,2,Friendly,Basel,Switzerland,False
+1996-06-09,Germany,Czech Republic,2,0,UEFA Euro,Manchester,England,True
+1996-06-14,Czech Republic,Italy,2,1,UEFA Euro,Liverpool,England,True
+1996-06-19,Russia,Czech Republic,3,3,UEFA Euro,Liverpool,England,True
+1996-06-23,Czech Republic,Portugal,1,0,UEFA Euro,Birmingham,England,True
+1996-06-26,France,Czech Republic,0,0,UEFA Euro,Manchester,England,True
+1996-06-30,Czech Republic,Germany,1,2,UEFA Euro,London,England,True
+1996-09-04,Czech Republic,Iceland,2,1,Friendly,Jablonec nad Nisou,Czech Republic,False
+1996-09-18,Czech Republic,Malta,6,0,FIFA World Cup qualification,Teplice,Czech Republic,False
+1996-10-09,Czech Republic,Spain,0,0,FIFA World Cup qualification,Prague,Czech Republic,False
+1996-11-10,Serbia,Czech Republic,1,0,FIFA World Cup qualification,Belgrade,Yugoslavia,True
+1996-12-11,Czech Republic,Nigeria,2,1,King Hassan II Tournament,Casablanca,Morocco,True
+1996-12-12,Croatia,Czech Republic,1,1,King Hassan II Tournament,Casablanca,Morocco,True
+1997-03-12,Czech Republic,Poland,2,1,Friendly,Ostrava,Czech Republic,False
+1997-04-02,Czech Republic,Serbia,1,2,FIFA World Cup qualification,Prague,Czech Republic,False
+1997-06-08,Spain,Czech Republic,1,0,FIFA World Cup qualification,Valladolid,Spain,False
+1997-08-20,Czech Republic,Faroe Islands,2,0,FIFA World Cup qualification,Teplice,Czech Republic,False
+1997-08-24,Slovakia,Czech Republic,2,1,FIFA World Cup qualification,Bratislava,Slovakia,False
+1997-09-06,Faroe Islands,Czech Republic,0,2,FIFA World Cup qualification,Toftir,Faroe Islands,False
+1997-09-24,Malta,Czech Republic,0,1,FIFA World Cup qualification,Attard,Malta,False
+1997-10-11,Czech Republic,Slovakia,3,0,FIFA World Cup qualification,Prague,Czech Republic,False
+1997-12-13,South Africa,Czech Republic,2,2,Confederations Cup,Riyadh,Saudi Arabia,True
+1997-12-15,Czech Republic,Uruguay,1,2,Confederations Cup,Riyadh,Saudi Arabia,True
+1997-12-17,United Arab Emirates,Czech Republic,1,6,Confederations Cup,Riyadh,Saudi Arabia,True
+1997-12-19,Brazil,Czech Republic,2,0,Confederations Cup,Riyadh,Saudi Arabia,True
+1997-12-21,Czech Republic,Uruguay,1,0,Confederations Cup,Riyadh,Saudi Arabia,True
+1998-03-25,Czech Republic,Republic of Ireland,2,1,Friendly,Olomouc,Czech Republic,False
+1998-04-22,Slovenia,Czech Republic,1,3,Friendly,Murska Sobota,Slovenia,False
+1998-05-21,Czech Republic,Paraguay,1,0,Kirin Cup,Kobe,Japan,True
+1998-05-24,Japan,Czech Republic,0,0,Kirin Cup,Yokohama,Japan,False
+1998-05-27,South Korea,Czech Republic,2,2,Friendly,Seoul,South Korea,False
+1998-08-19,Czech Republic,Denmark,1,0,Friendly,Prague,Czech Republic,False
+1998-09-06,Faroe Islands,Czech Republic,0,1,UEFA Euro qualification,Toftir,Faroe Islands,False
+1998-10-10,Bosnia and Herzegovina,Czech Republic,1,3,UEFA Euro qualification,Sarajevo,Bosnia and Herzegovina,False
+1998-10-14,Czech Republic,Estonia,4,1,UEFA Euro qualification,Teplice,Czech Republic,False
+1998-11-18,England,Czech Republic,2,0,Friendly,London,England,False
+1999-02-09,Belgium,Czech Republic,0,1,Friendly,Brussels,Belgium,False
+1999-03-27,Czech Republic,Lithuania,2,0,UEFA Euro qualification,Teplice,Czech Republic,False
+1999-03-31,Scotland,Czech Republic,1,2,UEFA Euro qualification,Glasgow,Scotland,False
+1999-04-28,Poland,Czech Republic,2,1,Friendly,Warsaw,Poland,False
+1999-06-05,Estonia,Czech Republic,0,2,UEFA Euro qualification,Tallinn,Estonia,False
+1999-06-09,Czech Republic,Scotland,3,2,UEFA Euro qualification,Prague,Czech Republic,False
+1999-08-18,Czech Republic,Switzerland,3,0,Friendly,Drnovice,Czech Republic,False
+1999-09-04,Lithuania,Czech Republic,0,4,UEFA Euro qualification,Vilnius,Lithuania,False
+1999-09-08,Czech Republic,Bosnia and Herzegovina,3,0,UEFA Euro qualification,Teplice,Czech Republic,False
+1999-10-09,Czech Republic,Faroe Islands,2,0,UEFA Euro qualification,Prague,Czech Republic,False
+1999-11-13,Netherlands,Czech Republic,1,1,Friendly,Eindhoven,Netherlands,False
+2000-02-08,Mexico,Czech Republic,1,2,Lunar New Year Cup,So Kon Po,Hong Kong,True
+2000-02-23,Republic of Ireland,Czech Republic,3,2,Friendly,Dublin,Republic of Ireland,False
+2000-03-29,Czech Republic,Australia,3,1,Friendly,Teplice,Czech Republic,False
+2000-04-26,Czech Republic,Israel,4,1,Friendly,Prague,Czech Republic,False
+2000-06-03,Germany,Czech Republic,3,2,Friendly,Nuremberg,Germany,False
+2000-06-11,Netherlands,Czech Republic,1,0,UEFA Euro,Amsterdam,Netherlands,False
+2000-06-16,Czech Republic,France,1,2,UEFA Euro,Bruges,Belgium,True
+2000-06-21,Denmark,Czech Republic,0,2,UEFA Euro,Liège,Belgium,True
+2000-08-16,Czech Republic,Slovenia,0,1,Friendly,Ostrava,Czech Republic,False
+2000-09-02,Bulgaria,Czech Republic,0,1,FIFA World Cup qualification,Sofia,Bulgaria,False
+2000-10-07,Czech Republic,Iceland,4,0,FIFA World Cup qualification,Teplice,Czech Republic,False
+2000-10-11,Malta,Czech Republic,0,0,FIFA World Cup qualification,Attard,Malta,False
+2001-02-28,North Macedonia,Czech Republic,1,1,Friendly,Skopje,North Macedonia,False
+2001-03-24,Northern Ireland,Czech Republic,0,1,FIFA World Cup qualification,Belfast,Northern Ireland,False
+2001-03-28,Czech Republic,Denmark,0,0,FIFA World Cup qualification,Prague,Czech Republic,False
+2001-04-25,Czech Republic,Belgium,1,1,Friendly,Prague,Czech Republic,False
+2001-06-02,Denmark,Czech Republic,2,1,FIFA World Cup qualification,Copenhagen,Denmark,False
+2001-06-06,Czech Republic,Northern Ireland,3,1,FIFA World Cup qualification,Teplice,Czech Republic,False
+2001-08-15,Czech Republic,South Korea,5,0,Friendly,Drnovice,Czech Republic,False
+2001-09-01,Iceland,Czech Republic,3,1,FIFA World Cup qualification,Reykjavík,Iceland,False
+2001-09-05,Czech Republic,Malta,3,2,FIFA World Cup qualification,Teplice,Czech Republic,False
+2001-10-06,Czech Republic,Bulgaria,6,0,FIFA World Cup qualification,Prague,Czech Republic,False
+2001-11-10,Belgium,Czech Republic,1,0,FIFA World Cup qualification,Brussels,Belgium,False
+2001-11-14,Czech Republic,Belgium,0,1,FIFA World Cup qualification,Prague,Czech Republic,False
+2002-02-12,Czech Republic,Hungary,2,0,Cyprus International Tournament,Larnaca,Cyprus,True
+2002-02-13,Cyprus,Czech Republic,3,4,Cyprus International Tournament,Nicosia,Cyprus,False
+2002-03-27,Wales,Czech Republic,0,0,Friendly,Cardiff,Wales,False
+2002-04-17,Greece,Czech Republic,0,0,Friendly,Ioannina,Greece,False
+2002-05-18,Czech Republic,Italy,1,0,Friendly,Prague,Czech Republic,False
+2002-08-21,Czech Republic,Slovakia,4,1,Friendly,Olomouc,Czech Republic,False
+2002-09-06,Czech Republic,Serbia,5,0,Friendly,Prague,Czech Republic,False
+2002-10-12,Moldova,Czech Republic,0,2,UEFA Euro qualification,Chișinău,Moldova,False
+2002-10-16,Czech Republic,Belarus,2,0,UEFA Euro qualification,Teplice,Czech Republic,False
+2002-11-20,Czech Republic,Sweden,3,3,Friendly,Teplice,Czech Republic,False
+2003-02-12,France,Czech Republic,0,2,Friendly,Saint-Denis,France,False
+2003-03-29,Netherlands,Czech Republic,1,1,UEFA Euro qualification,Rotterdam,Netherlands,False
+2003-04-02,Czech Republic,Austria,4,0,UEFA Euro qualification,Prague,Czech Republic,False
+2003-04-30,Czech Republic,Turkey,4,0,Friendly,Teplice,Czech Republic,False
+2003-06-11,Czech Republic,Moldova,5,0,UEFA Euro qualification,Olomouc,Czech Republic,False
+2003-09-06,Belarus,Czech Republic,1,3,UEFA Euro qualification,Minsk,Belarus,False
+2003-09-10,Czech Republic,Netherlands,3,1,UEFA Euro qualification,Prague,Czech Republic,False
+2003-10-11,Austria,Czech Republic,2,3,UEFA Euro qualification,Vienna,Austria,False
+2003-11-15,Czech Republic,Canada,5,1,Friendly,Teplice,Czech Republic,False
+2004-02-18,Italy,Czech Republic,2,2,Friendly,Palermo,Italy,False
+2004-03-31,Republic of Ireland,Czech Republic,2,1,Friendly,Dublin,Republic of Ireland,False
+2004-04-28,Czech Republic,Japan,0,1,Friendly,Prague,Czech Republic,False
+2004-06-02,Czech Republic,Bulgaria,3,1,Friendly,Prague,Czech Republic,False
+2004-06-06,Czech Republic,Estonia,2,0,Friendly,Teplice,Czech Republic,False
+2004-06-15,Czech Republic,Latvia,2,1,UEFA Euro,Aveiro,Portugal,True
+2004-06-19,Netherlands,Czech Republic,2,3,UEFA Euro,Aveiro,Portugal,True
+2004-06-23,Germany,Czech Republic,1,2,UEFA Euro,Lisbon,Portugal,True
+2004-06-27,Czech Republic,Denmark,3,0,UEFA Euro,Porto,Portugal,True
+2004-07-01,Greece,Czech Republic,1,0,UEFA Euro,Porto,Portugal,True
+2004-08-18,Czech Republic,Greece,0,0,Friendly,Prague,Czech Republic,False
+2004-09-08,Netherlands,Czech Republic,2,0,FIFA World Cup qualification,Amsterdam,Netherlands,False
+2004-10-09,Czech Republic,Romania,1,0,FIFA World Cup qualification,Prague,Czech Republic,False
+2004-10-13,Armenia,Czech Republic,0,3,FIFA World Cup qualification,Yerevan,Armenia,False
+2004-11-17,North Macedonia,Czech Republic,0,2,FIFA World Cup qualification,Skopje,North Macedonia,False
+2005-02-09,Slovenia,Czech Republic,0,3,Friendly,Celje,Slovenia,False
+2005-03-26,Czech Republic,Finland,4,3,FIFA World Cup qualification,Teplice,Czech Republic,False
+2005-03-30,Andorra,Czech Republic,0,4,FIFA World Cup qualification,Sant Julià de Lòria,Andorra,False
+2005-06-04,Czech Republic,Andorra,8,1,FIFA World Cup qualification,Liberec,Czech Republic,False
+2005-06-08,Czech Republic,North Macedonia,6,1,FIFA World Cup qualification,Teplice,Czech Republic,False
+2005-08-17,Sweden,Czech Republic,2,1,Friendly,Gothenburg,Sweden,False
+2005-09-03,Romania,Czech Republic,2,0,FIFA World Cup qualification,Constanţa,Romania,False
+2005-09-07,Czech Republic,Armenia,4,1,FIFA World Cup qualification,Olomouc,Czech Republic,False
+2005-10-08,Czech Republic,Netherlands,0,2,FIFA World Cup qualification,Prague,Czech Republic,False
+2005-10-12,Finland,Czech Republic,0,3,FIFA World Cup qualification,Helsinki,Finland,False
+2005-11-12,Norway,Czech Republic,0,1,FIFA World Cup qualification,Oslo,Norway,False
+2005-11-16,Czech Republic,Norway,1,0,FIFA World Cup qualification,Prague,Czech Republic,False
+2006-03-01,Turkey,Czech Republic,2,2,Friendly,İzmir,Turkey,False
+2006-05-26,Czech Republic,Saudi Arabia,2,0,Friendly,Innsbruck,Austria,True
+2006-05-30,Czech Republic,Costa Rica,1,0,Friendly,Jablonec nad Nisou,Czech Republic,False
+2006-06-03,Czech Republic,Trinidad and Tobago,3,0,Friendly,Prague,Czech Republic,False
+2006-06-12,United States,Czech Republic,0,3,FIFA World Cup,Gelsenkirchen,Germany,True
+2006-06-17,Czech Republic,Ghana,0,2,FIFA World Cup,Cologne,Germany,True
+2006-06-22,Czech Republic,Italy,0,2,FIFA World Cup,Hamburg,Germany,True
+2006-08-16,Czech Republic,Serbia,1,3,Friendly,Uherské Hradiště,Czech Republic,False
+2006-09-02,Czech Republic,Wales,2,1,UEFA Euro qualification,Teplice,Czech Republic,False
+2006-09-06,Slovakia,Czech Republic,0,3,UEFA Euro qualification,Bratislava,Slovakia,False
+2006-10-07,Czech Republic,San Marino,7,0,UEFA Euro qualification,Liberec,Czech Republic,False
+2006-10-11,Republic of Ireland,Czech Republic,1,1,UEFA Euro qualification,Dublin,Republic of Ireland,False
+2006-11-15,Czech Republic,Denmark,1,1,Friendly,Prague,Czech Republic,False
+2007-02-07,Belgium,Czech Republic,0,2,Friendly,Brussels,Belgium,False
+2007-03-24,Czech Republic,Germany,1,2,UEFA Euro qualification,Prague,Czech Republic,False
+2007-03-28,Czech Republic,Cyprus,1,0,UEFA Euro qualification,Liberec,Czech Republic,False
+2007-06-02,Wales,Czech Republic,0,0,UEFA Euro qualification,Cardiff,Wales,False
+2007-08-22,Austria,Czech Republic,1,1,Friendly,Vienna,Austria,False
+2007-09-08,San Marino,Czech Republic,0,3,UEFA Euro qualification,Serravalle,San Marino,False
+2007-09-12,Czech Republic,Republic of Ireland,1,0,UEFA Euro qualification,Prague,Czech Republic,False
+2007-10-17,Germany,Czech Republic,0,3,UEFA Euro qualification,Munich,Germany,False
+2007-11-17,Czech Republic,Slovakia,3,1,UEFA Euro qualification,Prague,Czech Republic,False
+2007-11-21,Cyprus,Czech Republic,0,2,UEFA Euro qualification,Nicosia,Cyprus,False
+2008-02-06,Czech Republic,Poland,0,2,Friendly,Larnaca,Cyprus,True
+2008-03-26,Denmark,Czech Republic,1,1,Friendly,Herning,Denmark,False
+2008-05-27,Czech Republic,Lithuania,2,0,Friendly,Prague,Czech Republic,False
+2008-05-30,Czech Republic,Scotland,3,1,Friendly,Prague,Czech Republic,False
+2008-06-07,Switzerland,Czech Republic,0,1,UEFA Euro,Basel,Switzerland,False
+2008-06-11,Czech Republic,Portugal,1,3,UEFA Euro,Geneva,Switzerland,True
+2008-06-15,Turkey,Czech Republic,3,2,UEFA Euro,Geneva,Switzerland,True
+2008-08-20,England,Czech Republic,2,2,Friendly,London,England,False
+2008-09-10,Northern Ireland,Czech Republic,0,0,FIFA World Cup qualification,Belfast,Northern Ireland,False
+2008-10-11,Poland,Czech Republic,2,1,FIFA World Cup qualification,Chorzów,Poland,False
+2008-10-15,Czech Republic,Slovenia,1,0,FIFA World Cup qualification,Teplice,Czech Republic,False
+2008-11-19,San Marino,Czech Republic,0,3,FIFA World Cup qualification,Serravalle,San Marino,False
+2009-02-11,Morocco,Czech Republic,0,0,Friendly,Casablanca,Morocco,False
+2009-03-28,Slovenia,Czech Republic,0,0,FIFA World Cup qualification,Maribor,Slovenia,False
+2009-04-01,Czech Republic,Slovakia,1,2,FIFA World Cup qualification,Prague,Czech Republic,False
+2009-06-05,Czech Republic,Malta,1,0,Friendly,Jablonec nad Nisou,Czech Republic,False
+2009-08-12,Czech Republic,Belgium,3,1,Friendly,Teplice,Czech Republic,False
+2009-09-05,Slovakia,Czech Republic,2,2,FIFA World Cup qualification,Bratislava,Slovakia,False
+2009-09-09,Czech Republic,San Marino,7,0,FIFA World Cup qualification,Uherské Hradiště,Czech Republic,False
+2009-10-10,Czech Republic,Poland,2,0,FIFA World Cup qualification,Prague,Czech Republic,False
+2009-10-14,Czech Republic,Northern Ireland,0,0,FIFA World Cup qualification,Prague,Czech Republic,False
+2009-11-15,United Arab Emirates,Czech Republic,0,0,Friendly,Al Ain,United Arab Emirates,False
+2009-11-18,Azerbaijan,Czech Republic,2,0,Friendly,Al Ain,United Arab Emirates,True
+2010-03-03,Scotland,Czech Republic,1,0,Friendly,Glasgow,Scotland,False
+2010-05-22,Turkey,Czech Republic,2,1,Friendly,Harrison,United States,True
+2010-05-25,United States,Czech Republic,2,4,Friendly,East Hartford,United States,False
+2010-08-11,Czech Republic,Latvia,4,1,Friendly,Liberec,Czech Republic,False
+2010-09-07,Czech Republic,Lithuania,0,1,UEFA Euro qualification,Olomouc,Czech Republic,False
+2010-10-08,Czech Republic,Scotland,1,0,UEFA Euro qualification,Prague,Czech Republic,False
+2010-10-12,Liechtenstein,Czech Republic,0,2,UEFA Euro qualification,Vaduz,Liechtenstein,False
+2010-11-17,Denmark,Czech Republic,0,0,Friendly,Aarhus,Denmark,False
+2011-02-09,Croatia,Czech Republic,4,2,Friendly,Pula,Croatia,False
+2011-03-25,Spain,Czech Republic,2,1,UEFA Euro qualification,Granada,Spain,False
+2011-03-29,Czech Republic,Liechtenstein,2,0,UEFA Euro qualification,České Budějovice,Czech Republic,False
+2011-06-04,Peru,Czech Republic,0,0,Kirin Cup,Matsumoto,Japan,True
+2011-06-07,Japan,Czech Republic,0,0,Kirin Cup,Yokohama,Japan,False
+2011-08-10,Norway,Czech Republic,3,0,Friendly,Oslo,Norway,False
+2011-09-03,Scotland,Czech Republic,2,2,UEFA Euro qualification,Glasgow,Scotland,False
+2011-09-06,Czech Republic,Ukraine,4,0,Friendly,Prague,Czech Republic,False
+2011-10-07,Czech Republic,Spain,0,2,UEFA Euro qualification,Prague,Czech Republic,False
+2011-10-11,Lithuania,Czech Republic,1,4,UEFA Euro qualification,Kaunas,Lithuania,False
+2011-11-11,Czech Republic,Montenegro,2,0,UEFA Euro qualification,Prague,Czech Republic,False
+2011-11-15,Montenegro,Czech Republic,0,1,UEFA Euro qualification,Podgorica,Montenegro,False
+2012-02-29,Republic of Ireland,Czech Republic,1,1,Friendly,Dublin,Republic of Ireland,False
+2012-05-26,Czech Republic,Israel,2,1,Friendly,Graz,Austria,True
+2012-06-01,Czech Republic,Hungary,1,2,Friendly,Prague,Czech Republic,False
+2012-06-08,Russia,Czech Republic,4,1,UEFA Euro,Wrocław,Poland,True
+2012-06-12,Greece,Czech Republic,1,2,UEFA Euro,Wrocław,Poland,True
+2012-06-16,Poland,Czech Republic,0,1,UEFA Euro,Wrocław,Poland,False
+2012-06-21,Czech Republic,Portugal,0,1,UEFA Euro,Warsaw,Poland,True
+2012-08-15,Ukraine,Czech Republic,0,0,Friendly,Lviv,Ukraine,False
+2012-09-08,Denmark,Czech Republic,0,0,FIFA World Cup qualification,Copenhagen,Denmark,False
+2012-09-11,Czech Republic,Finland,0,1,Friendly,Teplice,Czech Republic,False
+2012-10-12,Czech Republic,Malta,3,1,FIFA World Cup qualification,Plzeň,Czech Republic,False
+2012-10-16,Czech Republic,Bulgaria,0,0,FIFA World Cup qualification,Prague,Czech Republic,False
+2012-11-14,Czech Republic,Slovakia,3,0,Friendly,Olomouc,Czech Republic,False
+2013-02-06,Turkey,Czech Republic,0,2,Friendly,Manisa,Turkey,False
+2013-03-22,Czech Republic,Denmark,0,3,FIFA World Cup qualification,Olomouc,Czech Republic,False
+2013-03-26,Armenia,Czech Republic,0,3,FIFA World Cup qualification,Yerevan,Armenia,False
+2013-06-07,Czech Republic,Italy,0,0,FIFA World Cup qualification,Prague,Czech Republic,False
+2013-08-14,Hungary,Czech Republic,1,1,Friendly,Budapest,Hungary,False
+2013-09-06,Czech Republic,Armenia,1,2,FIFA World Cup qualification,Prague,Czech Republic,False
+2013-09-10,Italy,Czech Republic,2,1,FIFA World Cup qualification,Turin,Italy,False
+2013-10-11,Malta,Czech Republic,1,4,FIFA World Cup qualification,Attard,Malta,False
+2013-10-15,Bulgaria,Czech Republic,0,1,FIFA World Cup qualification,Sofia,Bulgaria,False
+2013-11-15,Czech Republic,Canada,2,0,Friendly,Olomouc,Czech Republic,False
+2014-03-05,Czech Republic,Norway,2,2,Friendly,Prague,Czech Republic,False
+2014-05-21,Finland,Czech Republic,2,2,Friendly,Helsinki,Finland,False
+2014-06-03,Czech Republic,Austria,1,2,Friendly,Olomouc,Czech Republic,False
+2014-09-03,Czech Republic,United States,0,1,Friendly,Prague,Czech Republic,False
+2014-09-09,Czech Republic,Netherlands,2,1,UEFA Euro qualification,Prague,Czech Republic,False
+2014-10-10,Turkey,Czech Republic,1,2,UEFA Euro qualification,Istanbul,Turkey,False
+2014-10-13,Kazakhstan,Czech Republic,2,4,UEFA Euro qualification,Astana,Kazakhstan,False
+2014-11-16,Czech Republic,Iceland,2,1,UEFA Euro qualification,Plzeň,Czech Republic,False
+2015-03-28,Czech Republic,Latvia,1,1,UEFA Euro qualification,Prague,Czech Republic,False
+2015-03-31,Slovakia,Czech Republic,1,0,Friendly,Žilina,Slovakia,False
+2015-06-12,Iceland,Czech Republic,2,1,UEFA Euro qualification,Reykjavík,Iceland,False
+2015-09-03,Czech Republic,Kazakhstan,2,1,UEFA Euro qualification,Plzeň,Czech Republic,False
+2015-09-06,Latvia,Czech Republic,1,2,UEFA Euro qualification,Riga,Latvia,False
+2015-10-10,Czech Republic,Turkey,0,2,UEFA Euro qualification,Prague,Czech Republic,False
+2015-10-13,Netherlands,Czech Republic,2,3,UEFA Euro qualification,Amsterdam,Netherlands,False
+2015-11-13,Czech Republic,Serbia,4,1,Friendly,Ostrava,Czech Republic,False
+2015-11-17,Poland,Czech Republic,3,1,Friendly,Wrocław,Poland,False
+2016-03-24,Czech Republic,Scotland,0,1,Friendly,Prague,Czech Republic,False
+2016-03-29,Sweden,Czech Republic,1,1,Friendly,Solna,Sweden,False
+2016-05-27,Czech Republic,Malta,6,0,Friendly,Kufstein,Austria,True
+2016-06-01,Czech Republic,Russia,2,1,Friendly,Innsbruck,Austria,True
+2016-06-05,Czech Republic,South Korea,1,2,Friendly,Prague,Czech Republic,False
+2016-06-13,Spain,Czech Republic,1,0,UEFA Euro,Toulouse,France,True
+2016-06-17,Czech Republic,Croatia,2,2,UEFA Euro,Saint-Étienne,France,True
+2016-06-21,Czech Republic,Turkey,0,2,UEFA Euro,Lens,France,True
+2016-08-31,Czech Republic,Armenia,3,0,Friendly,Mladá Boleslav,Czech Republic,False
+2016-09-04,Czech Republic,Northern Ireland,0,0,FIFA World Cup qualification,Prague,Czech Republic,False
+2016-10-08,Germany,Czech Republic,3,0,FIFA World Cup qualification,Hamburg,Germany,False
+2016-10-11,Czech Republic,Azerbaijan,0,0,FIFA World Cup qualification,Ostrava,Czech Republic,False
+2016-11-11,Czech Republic,Norway,2,1,FIFA World Cup qualification,Prague,Czech Republic,False
+2016-11-15,Czech Republic,Denmark,1,1,Friendly,Mladá Boleslav,Czech Republic,False
+2017-03-22,Czech Republic,Lithuania,3,0,Friendly,Ústí nad Labem,Czech Republic,False
+2017-03-26,San Marino,Czech Republic,0,6,FIFA World Cup qualification,Serravalle,San Marino,False
+2017-06-05,Belgium,Czech Republic,2,1,Friendly,Brussels,Belgium,False
+2017-06-10,Norway,Czech Republic,1,1,FIFA World Cup qualification,Oslo,Norway,False
+2017-09-01,Czech Republic,Germany,1,2,FIFA World Cup qualification,Prague,Czech Republic,False
+2017-09-04,Northern Ireland,Czech Republic,2,0,FIFA World Cup qualification,Belfast,Northern Ireland,False
+2017-10-05,Azerbaijan,Czech Republic,1,2,FIFA World Cup qualification,Baku,Azerbaijan,False
+2017-10-08,Czech Republic,San Marino,5,0,FIFA World Cup qualification,Plzeň,Czech Republic,False
+2017-11-08,Iceland,Czech Republic,1,2,Friendly,Doha,Qatar,True
+2017-11-11,Qatar,Czech Republic,0,1,Friendly,Doha,Qatar,False
+2018-03-23,Uruguay,Czech Republic,2,0,Friendly,Nanning,China PR,True
+2018-03-26,China PR,Czech Republic,1,4,Friendly,Nanning,China PR,False
+2018-06-01,Czech Republic,Australia,0,4,Friendly,Sankt Pölten,Austria,True
+2018-06-06,Czech Republic,Nigeria,1,0,Friendly,Schwechat,Austria,True
+2018-09-06,Czech Republic,Ukraine,1,2,UEFA Nations League,Uherské Hradiště,Czech Republic,False
+2018-09-10,Russia,Czech Republic,5,1,Friendly,Rostov-on-Don,Russia,False
+2018-10-13,Slovakia,Czech Republic,1,2,UEFA Nations League,Trnava,Slovakia,False
+2018-10-16,Ukraine,Czech Republic,1,0,UEFA Nations League,Kharkiv,Ukraine,False
+2018-11-15,Poland,Czech Republic,0,1,Friendly,Gdańsk,Poland,False
+2018-11-19,Czech Republic,Slovakia,1,0,UEFA Nations League,Prague,Czech Republic,False
+2019-03-22,England,Czech Republic,5,0,UEFA Euro qualification,London,England,False
+2019-03-26,Czech Republic,Brazil,1,3,Friendly,Prague,Czech Republic,False
+2019-06-07,Czech Republic,Bulgaria,2,1,UEFA Euro qualification,Prague,Czech Republic,False
+2019-06-10,Czech Republic,Montenegro,3,0,UEFA Euro qualification,Olomouc,Czech Republic,False
+2019-09-07,Kosovo,Czech Republic,2,1,UEFA Euro qualification,Pristina,Kosovo,False
+2019-09-10,Montenegro,Czech Republic,0,3,UEFA Euro qualification,Podgorica,Montenegro,False
+2019-10-11,Czech Republic,England,2,1,UEFA Euro qualification,Prague,Czech Republic,False
+2019-10-14,Czech Republic,Northern Ireland,2,3,Friendly,Prague,Czech Republic,False
+2019-11-14,Czech Republic,Kosovo,2,1,UEFA Euro qualification,Plzeň,Czech Republic,False
+2019-11-17,Bulgaria,Czech Republic,1,0,UEFA Euro qualification,Sofia,Bulgaria,False
+2020-09-04,Slovakia,Czech Republic,1,3,UEFA Nations League,Bratislava,Slovakia,False
+2020-09-07,Czech Republic,Scotland,1,2,UEFA Nations League,Olomouc,Czech Republic,False
+2020-10-07,Cyprus,Czech Republic,1,2,Friendly,Larnaca,Cyprus,False
+2020-10-11,Israel,Czech Republic,1,2,UEFA Nations League,Haifa,Israel,False
+2020-10-14,Scotland,Czech Republic,1,0,UEFA Nations League,Glasgow,Scotland,False
+2020-11-11,Germany,Czech Republic,1,0,Friendly,Leipzig,Germany,False
+2020-11-15,Czech Republic,Israel,1,0,UEFA Nations League,Plzeň,Czech Republic,False
+2020-11-18,Czech Republic,Slovakia,2,0,UEFA Nations League,Plzeň,Czech Republic,False
+2021-03-24,Estonia,Czech Republic,2,6,FIFA World Cup qualification,Lublin,Poland,True
+2021-03-27,Czech Republic,Belgium,1,1,FIFA World Cup qualification,Prague,Czech Republic,False
+2021-03-30,Wales,Czech Republic,1,0,FIFA World Cup qualification,Cardiff,Wales,False
+2021-06-04,Italy,Czech Republic,4,0,Friendly,Bologna,Italy,False
+2021-06-08,Czech Republic,Albania,3,1,Friendly,Prague,Czech Republic,False
+2021-06-14,Scotland,Czech Republic,0,2,UEFA Euro,Glasgow,Scotland,False
+2021-06-18,Croatia,Czech Republic,1,1,UEFA Euro,Glasgow,Scotland,True
+2021-06-22,England,Czech Republic,1,0,UEFA Euro,London,England,False
+2021-06-27,Netherlands,Czech Republic,0,2,UEFA Euro,Budapest,Hungary,True
+2021-07-03,Czech Republic,Denmark,1,2,UEFA Euro,Baku,Azerbaijan,True
+2021-09-02,Czech Republic,Belarus,1,0,FIFA World Cup qualification,Ostrava,Czech Republic,False
+2021-09-05,Belgium,Czech Republic,3,0,FIFA World Cup qualification,Brussels,Belgium,False
+2021-09-08,Czech Republic,Ukraine,1,1,Friendly,Plzeň,Czech Republic,False
+2021-10-08,Czech Republic,Wales,2,2,FIFA World Cup qualification,Prague,Czech Republic,False
+2021-10-11,Belarus,Czech Republic,0,2,FIFA World Cup qualification,Kazan,Russia,True
+2021-11-11,Czech Republic,Kuwait,7,0,Friendly,Olomouc,Czech Republic,False
+2021-11-16,Czech Republic,Estonia,2,0,FIFA World Cup qualification,Prague,Czech Republic,False
+2022-03-24,Sweden,Czech Republic,1,0,FIFA World Cup qualification,Stockholm,Sweden,False
+2022-03-29,Wales,Czech Republic,1,1,Friendly,Cardiff,Wales,False
+2022-06-02,Czech Republic,Switzerland,2,1,UEFA Nations League,Prague,Czech Republic,False
+2022-06-05,Czech Republic,Spain,2,2,UEFA Nations League,Prague,Czech Republic,False
+2022-06-09,Portugal,Czech Republic,2,0,UEFA Nations League,Lisbon,Portugal,False
+2022-06-12,Spain,Czech Republic,2,0,UEFA Nations League,Málaga,Spain,False
+2022-09-24,Czech Republic,Portugal,0,4,UEFA Nations League,Prague,Czech Republic,False
+2022-09-27,Switzerland,Czech Republic,2,1,UEFA Nations League,St. Gallen,Switzerland,False
+2022-11-16,Czech Republic,Faroe Islands,5,0,Friendly,Olomouc,Czech Republic,False
+2022-11-19,Turkey,Czech Republic,2,1,Friendly,Gaziantep,Turkey,False
+2023-03-24,Czech Republic,Poland,3,1,UEFA Euro qualification,Prague,Czech Republic,False
+2023-03-27,Moldova,Czech Republic,0,0,UEFA Euro qualification,Chișinău,Moldova,False
+2023-06-17,Faroe Islands,Czech Republic,0,3,UEFA Euro qualification,Tórshavn,Faroe Islands,False
+2023-06-20,Montenegro,Czech Republic,1,4,Friendly,Podgorica,Montenegro,False
+2023-09-07,Czech Republic,Albania,1,1,UEFA Euro qualification,Prague,Czech Republic,False
+2023-09-10,Hungary,Czech Republic,1,1,Friendly,Budapest,Hungary,False
+2023-10-12,Albania,Czech Republic,3,0,UEFA Euro qualification,Tirana,Albania,False
+2023-10-15,Czech Republic,Faroe Islands,1,0,UEFA Euro qualification,Plzeň,Czech Republic,False
+2023-11-17,Poland,Czech Republic,1,1,UEFA Euro qualification,Warsaw,Poland,False
+2023-11-20,Czech Republic,Moldova,3,0,UEFA Euro qualification,Olomouc,Czech Republic,False
+2024-03-22,Norway,Czech Republic,1,2,Friendly,Oslo,Norway,False
+2024-03-26,Czech Republic,Armenia,2,1,Friendly,Prague,Czech Republic,False
+2024-06-07,Czech Republic,Malta,7,1,Friendly,Grödig,Austria,True
+2024-06-10,Czech Republic,North Macedonia,2,1,Friendly,Hradec Králové,Czech Republic,False
+2024-06-18,Portugal,Czech Republic,2,1,UEFA Euro,Leipzig,Germany,True
+2024-06-22,Georgia,Czech Republic,1,1,UEFA Euro,Hamburg,Germany,True
+2024-06-26,Czech Republic,Turkey,1,2,UEFA Euro,Hamburg,Germany,True
+2024-09-07,Georgia,Czech Republic,4,1,UEFA Nations League,Tbilisi,Georgia,False
+2024-09-10,Czech Republic,Ukraine,3,2,UEFA Nations League,Prague,Czech Republic,False
+2024-10-11,Czech Republic,Albania,2,0,UEFA Nations League,Prague,Czech Republic,False
+2024-10-14,Ukraine,Czech Republic,1,1,UEFA Nations League,Wrocław,Poland,True
+2024-11-16,Albania,Czech Republic,0,0,UEFA Nations League,Tirana,Albania,False
+2024-11-19,Czech Republic,Georgia,2,1,UEFA Nations League,Olomouc,Czech Republic,False
+2025-03-22,Czech Republic,Faroe Islands,2,1,FIFA World Cup qualification,Hradec Králové,Czech Republic,False
+2025-03-25,Gibraltar,Czech Republic,0,4,FIFA World Cup qualification,Faro-Loulé,Portugal,True

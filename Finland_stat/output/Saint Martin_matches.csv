@@ -1,0 +1,63 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1990-03-24,Saint Martin,British Virgin Islands,3,0,CFU Caribbean Cup qualification,Marigot,Saint Martin,False
+1990-05-06,Saint Martin,Guadeloupe,2,1,CFU Caribbean Cup qualification,Marigot,Saint Martin,False
+1990-05-20,Jamaica,Saint Martin,1,0,CFU Caribbean Cup qualification,Kingston,Jamaica,False
+1997-04-28,Bermuda,Saint Martin,2,1,Friendly,Hamilton,Bermuda,False
+2001-02-06,Saint Martin,Montserrat,3,1,CFU Caribbean Cup qualification,Philipsburg,Sint Maarten,True
+2001-02-10,Saint Martin,Anguilla,3,1,CFU Caribbean Cup qualification,Marigot,Saint Martin,False
+2001-04-04,Guyana,Saint Martin,2,0,CFU Caribbean Cup qualification,Georgetown,Guyana,False
+2001-04-06,Cuba,Saint Martin,1,0,CFU Caribbean Cup qualification,Uitvlugt,Guyana,True
+2001-04-08,Dominica,Saint Martin,2,3,CFU Caribbean Cup qualification,Georgetown,Guyana,True
+2002-06-06,Saint Martin,Anguilla,2,1,Friendly,Marigot,Saint Martin,False
+2002-06-23,Saint Martin,Anguilla,1,0,Friendly,Marigot,Saint Martin,False
+2002-07-06,Grenada,Saint Martin,8,3,Gold Cup qualification,St. George's,Grenada,False
+2002-08-04,Saint Martin,Grenada,1,7,Gold Cup qualification,Marigot,Saint Martin,False
+2004-11-24,Jamaica,Saint Martin,12,0,CFU Caribbean Cup qualification,Kingston,Jamaica,False
+2004-11-26,Saint Martin,Haiti,0,2,CFU Caribbean Cup qualification,Montego Bay,Jamaica,True
+2004-11-28,United States Virgin Islands,Saint Martin,0,0,CFU Caribbean Cup qualification,Kingston,Jamaica,True
+2006-02-25,Saint Kitts and Nevis,Saint Martin,6,1,Friendly,Basseterre,Saint Kitts and Nevis,False
+2006-09-20,Guadeloupe,Saint Martin,1,0,CFU Caribbean Cup qualification,Les Abymes,Guadeloupe,False
+2006-09-22,Martinique,Saint Martin,1,0,CFU Caribbean Cup qualification,Les Abymes,Guadeloupe,True
+2006-09-24,Dominica,Saint Martin,0,0,CFU Caribbean Cup qualification,Les Abymes,Guadeloupe,True
+2007-11-11,Saint Martin,British Virgin Islands,0,1,Friendly,Marigot,Saint Martin,False
+2008-08-27,Cayman Islands,Saint Martin,3,0,CFU Caribbean Cup qualification,George Town,Cayman Islands,False
+2008-08-30,Saint Martin,Bermuda,0,7,CFU Caribbean Cup qualification,George Town,Cayman Islands,True
+2008-08-31,Antigua and Barbuda,Saint Martin,3,2,CFU Caribbean Cup qualification,George Town,Cayman Islands,True
+2010-07-03,Saint Martin,Saint Barthélemy,3,0,Friendly,Quartier-d'Orleans,Saint Martin,False
+2010-08-08,Anguilla,Saint Martin,1,3,Friendly,The Valley,Anguilla,False
+2010-09-19,Saint Martin,British Virgin Islands,3,1,Friendly,Quartier-d'Orleans,Saint Martin,False
+2010-10-01,Saint Martin,Cayman Islands,1,1,CFU Caribbean Cup qualification,Bayamón,Puerto Rico,True
+2010-10-04,Puerto Rico,Saint Martin,2,0,CFU Caribbean Cup qualification,Bayamón,Puerto Rico,False
+2010-10-06,Anguilla,Saint Martin,2,1,CFU Caribbean Cup qualification,Bayamón,Puerto Rico,True
+2012-09-07,Haiti,Saint Martin,7,0,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,False
+2012-09-09,Puerto Rico,Saint Martin,9,0,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,True
+2012-09-11,Saint Martin,Bermuda,0,8,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,True
+2014-08-16,British Virgin Islands,Saint Martin,2,4,Friendly,Road Town,British Virgin Islands,False
+2018-04-29,Saint Barthélemy,Saint Martin,3,2,Friendly,Saint-Jean,Saint Barthélemy,False
+2018-08-25,Anguilla,Saint Martin,1,2,Friendly,The Valley,Anguilla,False
+2018-09-11,Saint Martin,Guadeloupe,0,3,CONCACAF Nations League qualification,The Valley,Anguilla,True
+2018-10-14,Saint Martin,Saint Kitts and Nevis,0,10,CONCACAF Nations League qualification,The Valley,Anguilla,True
+2018-11-16,Grenada,Saint Martin,5,2,CONCACAF Nations League qualification,St. George's,Grenada,False
+2019-03-17,Saint Barthélemy,Saint Martin,4,3,Friendly,Saint-Jean,Saint Barthélemy,False
+2019-03-23,Sint Maarten,Saint Martin,4,3,CONCACAF Nations League qualification,The Valley,Anguilla,True
+2019-09-05,Barbados,Saint Martin,4,0,CONCACAF Nations League,Bridgetown,Barbados,False
+2019-09-08,Saint Martin,United States Virgin Islands,1,2,CONCACAF Nations League,The Valley,Anguilla,True
+2019-10-12,Saint Martin,Cayman Islands,3,0,CONCACAF Nations League,The Valley,Anguilla,True
+2019-10-15,Cayman Islands,Saint Martin,1,0,CONCACAF Nations League,George Town,Cayman Islands,False
+2019-11-16,Saint Martin,Barbados,1,0,CONCACAF Nations League,The Valley,Anguilla,True
+2019-11-19,United States Virgin Islands,Saint Martin,1,2,CONCACAF Nations League,Upper Bethlehem,United States Virgin Islands,False
+2022-06-03,Saint Martin,Aruba,0,0,CONCACAF Nations League,The Valley,Anguilla,True
+2022-06-06,Aruba,Saint Martin,3,0,CONCACAF Nations League,Willemstad,Curaçao,True
+2022-06-12,Saint Kitts and Nevis,Saint Martin,1,1,CONCACAF Nations League,Basseterre,Saint Kitts and Nevis,False
+2023-03-10,Saint Martin,Saint Barthélemy,3,2,Friendly,Quartier-d'Orleans,Saint Martin,False
+2023-03-23,Saint Martin,Saint Kitts and Nevis,1,3,CONCACAF Nations League,The Valley,Anguilla,True
+2023-09-07,Anguilla,Saint Martin,0,6,CONCACAF Nations League,The Valley,Anguilla,False
+2023-09-11,Saint Martin,Bonaire,2,1,CONCACAF Nations League,Basseterre,Saint Kitts and Nevis,True
+2023-10-16,Saint Martin,Anguilla,8,0,CONCACAF Nations League,Basseterre,Saint Kitts and Nevis,True
+2023-11-21,Bonaire,Saint Martin,0,4,CONCACAF Nations League,Rincon,Bonaire,False
+2024-09-06,Grenada,Saint Martin,2,0,CONCACAF Nations League,St George's,Grenada,False
+2024-09-09,Curaçao,Saint Martin,4,0,CONCACAF Nations League,Saint George's,Grenada,True
+2024-10-11,Saint Lucia,Saint Martin,2,1,CONCACAF Nations League,Gros Islet,Saint Lucia,False
+2024-10-14,Saint Lucia,Saint Martin,0,4,CONCACAF Nations League,Gros Islet,Saint Lucia,False
+2024-11-15,Curaçao,Saint Martin,5,0,CONCACAF Nations League,Willemstad,Curaçao,False
+2024-11-18,Grenada,Saint Martin,0,3,CONCACAF Nations League,Gros Islet,Saint Lucia,True

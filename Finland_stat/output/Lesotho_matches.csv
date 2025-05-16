@@ -1,0 +1,288 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1970-08-08,Malawi,Lesotho,1,2,Friendly,Lilongwe,Malawi,False
+1970-08-10,Malawi,Lesotho,6,1,Friendly,Lilongwe,Malawi,False
+1971-03-07,Lesotho,Madagascar,1,2,Friendly,Maseru,Lesotho,False
+1971-10-08,Lesotho,Malawi,0,0,Friendly,Maseru,Lesotho,False
+1971-10-10,Lesotho,Malawi,0,2,Friendly,Maseru,Lesotho,False
+1972-04-30,Lesotho,Zambia,0,0,FIFA World Cup qualification,Maseru,Lesotho,False
+1972-06-04,Zambia,Lesotho,6,1,FIFA World Cup qualification,Ndola,Zambia,False
+1972-07-06,Malawi,Lesotho,1,0,Friendly,Blantyre,Malawi,False
+1972-07-08,Malawi,Lesotho,4,0,Friendly,Blantyre,Malawi,False
+1972-10-04,Lesotho,Zambia,1,1,Friendly,Maseru,Lesotho,False
+1972-10-08,Lesotho,Zambia,1,1,Friendly,Maseru,Lesotho,False
+1973-04-08,Lesotho,Mauritius,0,0,African Cup of Nations qualification,Maseru,Lesotho,False
+1973-04-22,Mauritius,Lesotho,5,1,African Cup of Nations qualification,Port Louis,Mauritius,False
+1976-02-08,Malawi,Lesotho,4,1,Friendly,Zomba,Malawi,False
+1977-11-11,Malawi,Lesotho,3,0,Friendly,Zomba,Malawi,False
+1977-11-13,Malawi,Lesotho,6,1,Friendly,Zomba,Malawi,False
+1978-03-12,Lesotho,Kenya,0,1,Friendly,Maseru,Lesotho,False
+1978-04-30,Kenya,Lesotho,1,0,Friendly,Nairobi,Kenya,False
+1978-12-03,Mauritius,Lesotho,0,1,African Cup of Nations qualification,Port Louis,Mauritius,False
+1978-12-17,Lesotho,Mauritius,1,2,African Cup of Nations qualification,Maseru,Lesotho,False
+1979-06-24,Malawi,Lesotho,1,0,Friendly,Lilongwe,Malawi,False
+1979-06-26,Malawi,Lesotho,1,2,Friendly,Blantyre,Malawi,False
+1979-08-25,Lesotho,Malawi,0,3,Friendly,Maseru,Lesotho,False
+1980-06-22,Guinea,Lesotho,3,1,FIFA World Cup qualification,Conakry,Guinea,False
+1980-07-06,Lesotho,Guinea,1,1,FIFA World Cup qualification,Maseru,Lesotho,False
+1980-08-10,Mozambique,Lesotho,6,1,African Cup of Nations qualification,Maputo,Mozambique,False
+1980-08-24,Lesotho,Mozambique,2,1,African Cup of Nations qualification,Maseru,Lesotho,False
+1981-04-18,Lesotho,Mozambique,0,2,Friendly,Umtali,Zimbabwe,True
+1981-09-04,Eswatini,Lesotho,1,1,Friendly,Mbabane,Swaziland,False
+1981-09-05,Lesotho,Malawi,1,4,Friendly,Mbabane,Swaziland,True
+1981-09-06,Lesotho,Zimbabwe,2,5,Friendly,Mbabane,Swaziland,True
+1984-07-01,Eswatini,Lesotho,3,1,Friendly,Lobamba,Swaziland,False
+1990-03-07,Lesotho,Zimbabwe,1,4,Friendly,Maputo,Mozambique,True
+1990-03-10,Angola,Lesotho,3,1,Friendly,Maputo,Mozambique,True
+1990-03-11,Mozambique,Lesotho,3,0,Friendly,Maputo,Mozambique,False
+1992-06-14,Lesotho,Botswana,0,0,African Cup of Nations qualification,Maseru,Lesotho,False
+1992-06-28,Botswana,Lesotho,0,4,African Cup of Nations qualification,Gaborone,Botswana,False
+1992-08-01,Lesotho,Namibia,2,0,Friendly,Maseru,Lesotho,False
+1992-08-02,Lesotho,Namibia,2,2,Friendly,Maseru,Lesotho,False
+1992-08-08,Lesotho,Mauritius,1,0,Friendly,Maseru,Lesotho,False
+1992-08-09,Lesotho,Mauritius,2,2,Friendly,Maseru,Lesotho,False
+1992-08-16,Lesotho,Kenya,2,2,African Cup of Nations qualification,Maseru,Lesotho,False
+1992-08-30,Mozambique,Lesotho,3,0,African Cup of Nations qualification,Maputo,Mozambique,False
+1993-04-11,Lesotho,DR Congo,1,1,African Cup of Nations qualification,Maseru,Lesotho,False
+1993-04-24,Kenya,Lesotho,3,0,African Cup of Nations qualification,Nairobi,Kenya,False
+1993-07-11,Lesotho,Mozambique,1,1,African Cup of Nations qualification,Maseru,Lesotho,False
+1993-07-25,DR Congo,Lesotho,7,0,African Cup of Nations qualification,Kinshasa,Zaïre,False
+1997-01-26,Eswatini,Lesotho,3,1,Friendly,Lobamba,Swaziland,False
+1997-02-23,Botswana,Lesotho,1,4,Friendly,Jwaneng,Botswana,False
+1997-03-02,Lesotho,Zambia,0,2,COSAFA Cup qualification,Maseru,Lesotho,False
+1997-12-18,Lesotho,Eswatini,0,0,Friendly,Maseru,Lesotho,False
+1997-12-21,Mozambique,Lesotho,1,1,Friendly,Maputo,Mozambique,False
+1997-12-28,Lesotho,Eswatini,0,0,Friendly,Maseru,Lesotho,False
+1998-01-12,Lesotho,Botswana,0,0,Friendly,Maseru,Lesotho,False
+1998-01-18,Lesotho,Zimbabwe,0,2,COSAFA Cup qualification,Maseru,Lesotho,False
+1998-08-02,Lesotho,Mauritius,1,1,African Cup of Nations qualification,Maseru,Lesotho,False
+1998-08-23,Mauritius,Lesotho,3,1,African Cup of Nations qualification,Curepipe,Mauritius,False
+1999-02-07,Lesotho,Namibia,1,0,COSAFA Cup qualification,Maseru,Lesotho,False
+1999-04-25,Eswatini,Lesotho,4,1,Friendly,Lobamba,Swaziland,False
+1999-05-30,Lesotho,Mauritius,1,2,Friendly,Maseru,Lesotho,False
+1999-07-04,Lesotho,Angola,0,1,COSAFA Cup,Maseru,Lesotho,False
+1999-08-15,Lesotho,Eswatini,0,3,Friendly,Maseru,Lesotho,False
+2000-02-20,Lesotho,Eswatini,1,0,Friendly,Maseru,Lesotho,False
+2000-02-27,Botswana,Lesotho,1,0,Friendly,Gaborone,Botswana,False
+2000-03-01,Zambia,Lesotho,2,0,Friendly,Lusaka,Zambia,False
+2000-03-05,Zimbabwe,Lesotho,2,1,COSAFA Cup,Harare,Zimbabwe,False
+2000-04-09,Lesotho,South Africa,0,2,FIFA World Cup qualification,Maseru,Lesotho,False
+2000-04-22,South Africa,Lesotho,1,0,FIFA World Cup qualification,Bloemfontein,South Africa,False
+2000-06-01,Eswatini,Lesotho,0,1,Friendly,Lobamba,Swaziland,False
+2000-06-02,Lesotho,Mozambique,0,0,Friendly,Mbabane,Swaziland,True
+2000-06-04,Botswana,Lesotho,1,1,Friendly,Mbabane,Swaziland,True
+2000-06-11,Lesotho,Zambia,0,0,COSAFA Cup,Maseru,Lesotho,False
+2000-07-02,Lesotho,Mozambique,1,0,African Cup of Nations qualification,Maseru,Lesotho,False
+2000-07-16,Mozambique,Lesotho,1,0,African Cup of Nations qualification,Maputo,Mozambique,False
+2000-07-23,Lesotho,Angola,2,1,COSAFA Cup,Maseru,Lesotho,False
+2000-08-13,Lesotho,Zimbabwe,0,3,COSAFA Cup,Maseru,Lesotho,False
+2000-08-27,Zimbabwe,Lesotho,3,0,COSAFA Cup,Bulawayo,Zimbabwe,False
+2000-09-03,Lesotho,Ghana,3,3,African Cup of Nations qualification,Maseru,Lesotho,False
+2000-10-01,Kenya,Lesotho,1,1,Friendly,Nairobi,Kenya,False
+2000-10-10,DR Congo,Lesotho,1,1,African Cup of Nations qualification,Kinshasa,DR Congo,False
+2001-01-07,Angola,Lesotho,2,0,Friendly,Manzini,Swaziland,True
+2001-01-09,Eswatini,Lesotho,2,2,Friendly,Manzini,Swaziland,False
+2001-01-14,Zimbabwe,Lesotho,1,2,African Cup of Nations qualification,Bulawayo,Zimbabwe,False
+2001-01-28,Botswana,Lesotho,2,1,Friendly,Gaborone,Botswana,False
+2001-03-10,Lesotho,Mozambique,0,0,Friendly,Maseru,Lesotho,False
+2001-03-11,Lesotho,Eswatini,2,1,Friendly,Maseru,Lesotho,False
+2001-03-24,Lesotho,Zimbabwe,0,1,African Cup of Nations qualification,Maseru,Lesotho,False
+2001-04-22,Mozambique,Lesotho,1,0,Friendly,Beira,Mozambique,False
+2001-05-20,Lesotho,Eswatini,1,0,Friendly,Maseru,Lesotho,False
+2001-06-03,Lesotho,DR Congo,0,0,African Cup of Nations qualification,Maseru,Lesotho,False
+2001-06-17,Ghana,Lesotho,3,1,African Cup of Nations qualification,Kumasi,Ghana,False
+2001-06-24,Lesotho,Zambia,1,2,COSAFA Cup,Maseru,Lesotho,False
+2001-12-16,Botswana,Lesotho,1,0,Friendly,Gaborone,Botswana,False
+2002-03-10,Eswatini,Lesotho,1,0,Friendly,Mbabane,Swaziland,False
+2002-04-07,Lesotho,Mozambique,0,2,COSAFA Cup,Maseru,Lesotho,False
+2002-08-26,Botswana,Lesotho,0,1,Friendly,Gaborone,Botswana,False
+2002-08-30,Zimbabwe,Lesotho,2,0,Friendly,Harare,Zimbabwe,False
+2002-09-08,Lesotho,Senegal,0,1,African Cup of Nations qualification,Maseru,Lesotho,False
+2002-10-06,Eswatini,Lesotho,0,0,Friendly,Big Bend,Swaziland,False
+2002-10-08,Ghana,Lesotho,2,1,Friendly,Accra,Ghana,False
+2002-10-13,Gambia,Lesotho,6,0,African Cup of Nations qualification,Bakau,Gambia,False
+2003-03-09,Botswana,Lesotho,0,1,Friendly,Gaborone,Botswana,False
+2003-03-16,Lesotho,DR Congo,2,2,Friendly,Maseru,Lesotho,False
+2003-03-19,Eswatini,Lesotho,1,0,Friendly,Lobamba,Swaziland,False
+2003-03-22,Mozambique,Lesotho,0,0,COSAFA Cup,Maputo,Mozambique,False
+2003-05-16,Lesotho,Botswana,1,2,Friendly,Maseru,Lesotho,False
+2003-05-21,Lesotho,Malawi,0,0,Friendly,Maseru,Lesotho,False
+2003-05-25,Lesotho,Eswatini,2,1,Friendly,Maseru,Lesotho,False
+2003-06-14,Senegal,Lesotho,3,0,African Cup of Nations qualification,Dakar,Senegal,False
+2003-07-06,Lesotho,Gambia,1,0,African Cup of Nations qualification,Maseru,Lesotho,False
+2003-10-04,Lesotho,Eswatini,5,2,Friendly,Maseru,Lesotho,False
+2003-10-08,Lesotho,South Africa,0,3,Friendly,Maseru,Lesotho,False
+2003-10-11,Botswana,Lesotho,4,1,FIFA World Cup qualification,Gaborone,Botswana,False
+2003-11-16,Lesotho,Botswana,0,0,FIFA World Cup qualification,Maseru,Lesotho,False
+2004-02-28,Lesotho,Botswana,0,0,COSAFA Cup,Maseru,Lesotho,False
+2004-12-15,Lesotho,Botswana,1,1,Friendly,Maseru,Lesotho,False
+2005-03-19,Lesotho,Namibia,1,2,Friendly,Maseru,Lesotho,False
+2005-06-01,Lesotho,Eswatini,3,4,Friendly,Maseru,Lesotho,False
+2005-06-11,Lesotho,Malawi,1,2,COSAFA Cup,Lusaka,Zambia,True
+2005-06-26,Mozambique,Lesotho,1,0,Friendly,Maputo,Mozambique,False
+2006-04-14,Lesotho,Eswatini,5,0,Friendly,Maseru,Lesotho,False
+2006-04-16,Lesotho,Eswatini,2,2,Friendly,Maseru,Lesotho,False
+2006-04-29,Lesotho,Mozambique,0,0,COSAFA Cup,Maseru,Lesotho,False
+2006-04-30,Lesotho,Angola,1,3,COSAFA Cup,Maseru,Lesotho,False
+2006-05-10,Lesotho,South Africa,0,0,Friendly,Maseru,Lesotho,False
+2006-08-26,Eswatini,Lesotho,3,1,Friendly,Lobamba,Swaziland,False
+2006-09-02,Uganda,Lesotho,3,0,African Cup of Nations qualification,Kampala,Uganda,False
+2006-10-03,Botswana,Lesotho,1,0,Friendly,Gaborone,Botswana,False
+2006-10-08,Lesotho,Nigeria,0,1,African Cup of Nations qualification,Maseru,Lesotho,False
+2007-02-13,Lesotho,Eswatini,0,1,Friendly,Maseru,Lesotho,False
+2007-03-18,Eswatini,Lesotho,0,1,Friendly,Lobamba,Swaziland,False
+2007-03-25,Lesotho,Niger,3,1,African Cup of Nations qualification,Maseru,Lesotho,False
+2007-05-25,Zimbabwe,Lesotho,1,1,Friendly,Masvingo,Zimbabwe,False
+2007-06-03,Niger,Lesotho,2,0,African Cup of Nations qualification,Niamey,Niger,False
+2007-06-19,Lesotho,Uganda,0,0,African Cup of Nations qualification,Maseru,Lesotho,False
+2007-07-28,Angola,Lesotho,2,0,COSAFA Cup,Gaborone,Botswana,True
+2007-07-29,Lesotho,Namibia,2,3,COSAFA Cup,Gaborone,Botswana,True
+2007-08-20,Myanmar,Lesotho,1,0,Merdeka Tournament,Petaling Jaya,Malaysia,True
+2007-08-22,Lesotho,Laos,3,1,Merdeka Tournament,Petaling Jaya,Malaysia,True
+2007-09-08,Nigeria,Lesotho,2,0,African Cup of Nations qualification,Warri,Nigeria,False
+2008-02-09,Lesotho,Mozambique,0,1,Friendly,Lobamba,Swaziland,True
+2008-02-10,Eswatini,Lesotho,2,2,Friendly,Lobamba,Swaziland,False
+2008-05-21,Mozambique,Lesotho,2,3,Friendly,Maputo,Mozambique,False
+2008-05-23,Eswatini,Lesotho,1,1,Friendly,Lobamba,Swaziland,False
+2008-06-08,Lesotho,Ghana,2,3,FIFA World Cup qualification,Bloemfontein,South Africa,True
+2008-06-15,Lesotho,Libya,0,1,FIFA World Cup qualification,Bloemfontein,South Africa,True
+2008-06-20,Libya,Lesotho,4,0,FIFA World Cup qualification,Tripoli,Libya,False
+2008-06-28,Gabon,Lesotho,2,0,FIFA World Cup qualification,Libreville,Gabon,False
+2008-07-20,Lesotho,Malawi,0,1,COSAFA Cup qualification,Secunda,South Africa,True
+2008-07-22,Lesotho,Namibia,1,1,COSAFA Cup qualification,Secunda,South Africa,True
+2008-07-24,Comoros,Lesotho,0,1,COSAFA Cup qualification,Secunda,South Africa,True
+2008-09-07,Lesotho,Gabon,0,3,FIFA World Cup qualification,Bloemfontein,South Africa,True
+2008-10-11,Ghana,Lesotho,3,0,FIFA World Cup qualification,Sekondi,Ghana,False
+2009-04-01,Lesotho,Botswana,0,0,Friendly,Maseru,Lesotho,False
+2009-06-19,Eswatini,Lesotho,1,1,Friendly,Manzini,Swaziland,False
+2009-06-21,Eswatini,Lesotho,1,1,Friendly,Lobamba,Swaziland,False
+2009-08-12,Zimbabwe,Lesotho,1,1,Friendly,Bulawayo,Zimbabwe,False
+2009-09-11,Malaysia,Lesotho,5,0,Friendly,Kuala Lumpur,Malaysia,False
+2009-10-19,Zimbabwe,Lesotho,2,2,COSAFA Cup,Harare,Zimbabwe,False
+2009-10-21,Mauritius,Lesotho,0,1,COSAFA Cup,Harare,Zimbabwe,True
+2011-08-20,Lesotho,Eswatini,0,0,Friendly,Maseru,Lesotho,False
+2011-08-22,Lesotho,Eswatini,0,1,Friendly,Maseru,Lesotho,False
+2011-10-31,Namibia,Lesotho,0,0,Friendly,Windhoek,Namibia,False
+2011-11-06,Lesotho,DR Congo,0,3,Friendly,Pretoria,South Africa,True
+2011-11-11,Lesotho,Burundi,1,0,FIFA World Cup qualification,Maseru,Lesotho,False
+2011-11-15,Burundi,Lesotho,2,2,FIFA World Cup qualification,Bujumbura,Burundi,False
+2012-01-15,São Tomé and Príncipe,Lesotho,1,0,African Cup of Nations qualification,São Tomé,São Tomé and Príncipe,False
+2012-01-22,Lesotho,São Tomé and Príncipe,0,0,African Cup of Nations qualification,Maseru,Lesotho,False
+2012-05-23,Botswana,Lesotho,3,0,Friendly,Gaborone,Botswana,False
+2012-06-01,Ghana,Lesotho,7,0,FIFA World Cup qualification,Kumasi,Ghana,False
+2012-06-10,Lesotho,Sudan,0,0,FIFA World Cup qualification,Maseru,Lesotho,False
+2012-07-17,Zimbabwe,Lesotho,5,3,Friendly,Molepolole,Botswana,True
+2012-07-18,Botswana,Lesotho,0,0,Friendly,Molepolole,Botswana,False
+2012-10-12,Lesotho,Eswatini,2,1,Friendly,Maseru,Lesotho,False
+2012-10-14,Lesotho,Eswatini,0,1,Friendly,Maseru,Lesotho,False
+2012-11-11,Eswatini,Lesotho,0,0,Friendly,Lobamba,Swaziland,False
+2013-03-24,Lesotho,Zambia,1,1,FIFA World Cup qualification,Maseru,Lesotho,False
+2013-06-02,Lesotho,South Africa,0,2,Friendly,Maseru,Lesotho,False
+2013-06-08,Zambia,Lesotho,4,0,FIFA World Cup qualification,Ndola,Zambia,False
+2013-06-16,Lesotho,Ghana,0,2,FIFA World Cup qualification,Maseru,Lesotho,False
+2013-07-08,Kenya,Lesotho,2,2,COSAFA Cup,Kitwe,Zambia,True
+2013-07-09,Lesotho,Botswana,3,3,COSAFA Cup,Kitwe,Zambia,True
+2013-07-11,Lesotho,Eswatini,2,0,COSAFA Cup,Lusaka,Zambia,True
+2013-07-14,Angola,Lesotho,1,1,COSAFA Cup,Kitwe,Zambia,True
+2013-07-17,Zimbabwe,Lesotho,2,1,COSAFA Cup,Ndola,Zambia,True
+2013-07-20,Lesotho,South Africa,1,2,COSAFA Cup,Ndola,Zambia,True
+2013-09-08,Sudan,Lesotho,1,3,FIFA World Cup qualification,Omdurman,Sudan,False
+2014-03-07,Lesotho,Eswatini,0,1,Friendly,Maseru,Lesotho,False
+2014-03-09,Lesotho,Eswatini,0,0,Friendly,Maseru,Lesotho,False
+2014-05-18,Liberia,Lesotho,1,0,African Cup of Nations qualification,Monrovia,Liberia,False
+2014-06-01,Lesotho,Liberia,2,0,African Cup of Nations qualification,Maseru,Lesotho,False
+2014-07-14,Botswana,Lesotho,2,0,Friendly,Gaborone,Botswana,False
+2014-07-20,Lesotho,Kenya,1,0,African Cup of Nations qualification,Maseru,Lesotho,False
+2014-08-03,Kenya,Lesotho,0,0,African Cup of Nations qualification,Nairobi,Kenya,False
+2014-09-06,Burkina Faso,Lesotho,2,0,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+2014-09-10,Lesotho,Gabon,1,1,African Cup of Nations qualification,Maseru,Lesotho,False
+2014-10-10,Lesotho,Angola,0,0,African Cup of Nations qualification,Maseru,Lesotho,False
+2014-10-15,Angola,Lesotho,4,0,African Cup of Nations qualification,Luanda,Angola,False
+2014-11-15,Lesotho,Burkina Faso,0,1,African Cup of Nations qualification,Maseru,Lesotho,False
+2014-11-19,Gabon,Lesotho,4,2,African Cup of Nations qualification,Libreville,Gabon,False
+2015-03-25,Botswana,Lesotho,2,0,Friendly,Gaborone,Botswana,False
+2015-05-14,Lesotho,South Africa,0,0,Friendly,Maseru,Lesotho,False
+2015-05-16,Lesotho,South Africa,1,1,Friendly,Maseru,Lesotho,False
+2015-05-18,Lesotho,Madagascar,1,2,COSAFA Cup,Phokeng,South Africa,True
+2015-05-20,Lesotho,Eswatini,0,2,COSAFA Cup,Phokeng,South Africa,True
+2015-05-22,Lesotho,Tanzania,1,0,COSAFA Cup,Moruleng-Saulspoort,South Africa,True
+2015-06-14,Ethiopia,Lesotho,2,1,African Cup of Nations qualification,Bahir Dar,Ethiopia,False
+2015-09-06,Lesotho,Algeria,1,3,African Cup of Nations qualification,Maseru,Lesotho,False
+2015-10-07,Comoros,Lesotho,0,0,FIFA World Cup qualification,Moroni,Comoros,False
+2015-10-13,Lesotho,Comoros,1,1,FIFA World Cup qualification,Maseru,Lesotho,False
+2016-03-26,Seychelles,Lesotho,2,0,African Cup of Nations qualification,Victoria,Seychelles,False
+2016-03-29,Lesotho,Seychelles,2,1,African Cup of Nations qualification,Maseru,Lesotho,False
+2016-05-21,Botswana,Lesotho,2,1,Friendly,Serowe,Botswana,False
+2016-06-05,Lesotho,Ethiopia,1,2,African Cup of Nations qualification,Maseru,Lesotho,False
+2016-06-12,Lesotho,Mauritius,3,0,COSAFA Cup,Windhoek,Namibia,True
+2016-06-14,Angola,Lesotho,0,2,COSAFA Cup,Windhoek,Namibia,True
+2016-06-16,Malawi,Lesotho,0,1,COSAFA Cup,Windhoek,Namibia,True
+2016-06-18,South Africa,Lesotho,1,1,COSAFA Cup,Windhoek,Namibia,True
+2016-06-21,Lesotho,Zambia,2,3,COSAFA Cup,Windhoek,Namibia,True
+2016-09-04,Algeria,Lesotho,6,0,African Cup of Nations qualification,Blida,Algeria,False
+2017-03-28,Mozambique,Lesotho,1,0,Friendly,Beira,Mozambique,False
+2017-06-04,Lesotho,Mauritania,1,0,Friendly,Pretoria,South Africa,True
+2017-06-10,Tanzania,Lesotho,1,1,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+2017-07-01,Namibia,Lesotho,0,0,COSAFA Cup,Rustenburg,South Africa,True
+2017-07-05,Lesotho,Zimbabwe,3,4,COSAFA Cup,Moruleng,South Africa,True
+2017-07-07,Tanzania,Lesotho,0,0,COSAFA Cup,Moruleng,South Africa,True
+2017-11-11,Malawi,Lesotho,1,1,Friendly,Lilongwe,Malawi,False
+2018-03-24,Botswana,Lesotho,1,0,Friendly,Gaborone,Botswana,False
+2018-03-27,Namibia,Lesotho,2,1,Friendly,Windhoek,Namibia,False
+2018-06-02,Lesotho,Eswatini,1,0,COSAFA Cup,Polokwane,South Africa,True
+2018-06-06,Lesotho,Zimbabwe,0,0,COSAFA Cup,Polokwane,South Africa,True
+2018-06-08,Madagascar,Lesotho,0,1,COSAFA Cup,Polokwane,South Africa,True
+2018-09-09,Lesotho,Cape Verde,1,1,African Cup of Nations qualification,Maseru,Lesotho,False
+2018-10-13,Uganda,Lesotho,3,0,African Cup of Nations qualification,Kira,Uganda,False
+2018-10-16,Lesotho,Uganda,0,2,African Cup of Nations qualification,Maseru,Lesotho,False
+2018-11-18,Lesotho,Tanzania,1,0,African Cup of Nations qualification,Maseru,Lesotho,False
+2019-03-24,Cape Verde,Lesotho,0,0,African Cup of Nations qualification,Praia,Cape Verde,False
+2019-06-01,Lesotho,Uganda,0,0,COSAFA Cup,Durban,South Africa,True
+2019-06-05,Lesotho,Botswana,1,2,COSAFA Cup,Durban,South Africa,True
+2019-06-07,Lesotho,Zimbabwe,2,2,COSAFA Cup,Durban,South Africa,True
+2019-09-04,Ethiopia,Lesotho,0,0,FIFA World Cup qualification,Bahir Dar,Ethiopia,False
+2019-09-08,Lesotho,Ethiopia,1,1,FIFA World Cup qualification,Maseru,Lesotho,False
+2019-10-13,Lesotho,Malawi,1,1,Friendly,Lesotho,Lesotho,False
+2019-11-13,Sierra Leone,Lesotho,1,1,African Cup of Nations qualification,Freetown,Sierra Leone,False
+2019-11-17,Lesotho,Nigeria,2,4,African Cup of Nations qualification,Maseru,Lesotho,False
+2020-11-14,Benin,Lesotho,1,0,African Cup of Nations qualification,Porto-Novo,Benin,False
+2020-11-17,Lesotho,Benin,0,0,African Cup of Nations qualification,Maseru,Lesotho,False
+2021-03-27,Lesotho,Sierra Leone,0,0,African Cup of Nations qualification,Maseru,Lesotho,False
+2021-03-30,Nigeria,Lesotho,3,0,African Cup of Nations qualification,Lagos,Nigeria,False
+2021-06-02,Mozambique,Lesotho,5,0,Friendly,Maputo,Mozambique,False
+2021-07-06,Eswatini,Lesotho,3,1,COSAFA Cup,Port Elizabeth,South Africa,True
+2021-07-08,Zambia,Lesotho,1,2,COSAFA Cup,Port Elizabeth,South Africa,True
+2021-07-10,Lesotho,Botswana,0,4,COSAFA Cup,Port Elizabeth,South Africa,True
+2021-07-13,South Africa,Lesotho,4,0,COSAFA Cup,Port Elizabeth,South Africa,False
+2022-03-23,Seychelles,Lesotho,0,0,African Cup of Nations qualification,Saint Pierre,Mauritius,True
+2022-03-27,Lesotho,Seychelles,3,1,African Cup of Nations qualification,Soweto,South Africa,True
+2022-05-28,Ethiopia,Lesotho,1,1,Friendly,Adama,Ethiopia,False
+2022-05-30,Ethiopia,Lesotho,1,1,Friendly,Adama,Ethiopia,False
+2022-06-03,Comoros,Lesotho,2,0,African Cup of Nations qualification,Moroni,Comoros,False
+2022-06-09,Lesotho,Ivory Coast,0,0,African Cup of Nations qualification,Soweto,South Africa,True
+2022-07-06,Lesotho,Malawi,2,1,COSAFA Cup,Durban,South Africa,True
+2022-07-08,Lesotho,Mauritius,2,1,COSAFA Cup,Durban,South Africa,True
+2022-07-10,Eswatini,Lesotho,2,0,COSAFA Cup,Durban,South Africa,True
+2023-03-23,Zambia,Lesotho,3,1,African Cup of Nations qualification,Ndola,Zambia,False
+2023-03-26,Lesotho,Zambia,0,2,African Cup of Nations qualification,Soweto,South Africa,True
+2023-06-14,Togo,Lesotho,2,0,Friendly,Johannesburg,South Africa,True
+2023-06-17,Lesotho,Comoros,0,1,African Cup of Nations qualification,Johannesburg,South Africa,True
+2023-07-07,Mauritius,Lesotho,0,2,COSAFA Cup,Durban,South Africa,True
+2023-07-10,Mozambique,Lesotho,0,1,COSAFA Cup,KwaMashu,South Africa,True
+2023-07-12,Angola,Lesotho,4,2,COSAFA Cup,Durban,South Africa,True
+2023-07-14,Malawi,Lesotho,1,1,COSAFA Cup,Durban,South Africa,True
+2023-07-16,Lesotho,Zambia,0,1,COSAFA Cup,Durban,South Africa,True
+2023-09-09,Ivory Coast,Lesotho,1,0,African Cup of Nations qualification,San-Pédro,Ivory Coast,False
+2023-11-16,Nigeria,Lesotho,1,1,FIFA World Cup qualification,Uyo,Nigeria,False
+2023-11-21,Lesotho,Benin,0,0,FIFA World Cup qualification,Durban,South Africa,True
+2024-01-06,Mozambique,Lesotho,2,0,Friendly,Johannesburg,South Africa,True
+2024-01-10,South Africa,Lesotho,0,0,Friendly,Pretoria,South Africa,False
+2024-03-21,Ethiopia,Lesotho,1,2,Friendly,Addis Ababa,Ethiopia,False
+2024-03-24,Ethiopia,Lesotho,2,1,Friendly,Addis Ababa,Ethiopia,False
+2024-06-07,Zimbabwe,Lesotho,0,2,FIFA World Cup qualification,Johannesburg,South Africa,True
+2024-06-11,Lesotho,Rwanda,0,1,FIFA World Cup qualification,Durban,South Africa,True
+2024-09-05,Central African Republic,Lesotho,3,1,African Cup of Nations qualification,El Jadida,Morocco,True
+2024-09-09,Morocco,Lesotho,1,0,African Cup of Nations qualification,Agadir,Morocco,False
+2024-10-11,Gabon,Lesotho,0,0,African Cup of Nations qualification,Franceville,Gabon,False
+2024-10-15,Lesotho,Gabon,0,2,African Cup of Nations qualification,Durban,South Africa,True
+2025-03-21,South Africa,Lesotho,2,0,FIFA World Cup qualification,Polokwane,South Africa,False
+2025-03-25,Rwanda,Lesotho,1,1,FIFA World Cup qualification,Kigali,Rwanda,False

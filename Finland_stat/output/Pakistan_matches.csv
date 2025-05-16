@@ -1,0 +1,241 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1952-03-18,Myanmar,Pakistan,0,1,Friendly,Colombo,Ceylon,True
+1952-03-23,India,Pakistan,0,0,Friendly,Colombo,Ceylon,True
+1952-03-28,Sri Lanka,Pakistan,0,2,Friendly,Colombo,Ceylon,False
+1953-10-28,Myanmar,Pakistan,1,1,Friendly,Yangon,Burma,False
+1954-04-25,Singapore,Pakistan,2,2,Friendly,Kallang,Singapore,False
+1954-05-02,Singapore,Pakistan,2,6,Asian Games,Manila,Philippines,True
+1954-05-05,Myanmar,Pakistan,2,1,Asian Games,Manila,Philippines,True
+1954-12-18,Sri Lanka,Pakistan,1,2,Friendly,Calcutta,India,True
+1954-12-23,Myanmar,Pakistan,1,1,Friendly,Calcutta,India,True
+1955-12-17,Pakistan,Myanmar,4,2,Friendly,Dhaka,Pakistan,False
+1956-09-12,Singapore,Pakistan,1,1,Friendly,Kallang,Singapore,False
+1958-05-14,Malaysia,Pakistan,4,2,Friendly,Kuala Lumpur,Malaya,False
+1958-05-17,Singapore,Pakistan,4,4,Friendly,Kallang,Singapore,False
+1958-05-25,Vietnam Republic,Pakistan,1,1,Asian Games,Tokyo,Japan,True
+1958-05-27,Pakistan,Taiwan,1,3,Asian Games,Tokyo,Japan,True
+1959-12-06,India,Pakistan,1,0,AFC Asian Cup qualification,Ernakulam,India,False
+1959-12-10,Israel,Pakistan,2,0,AFC Asian Cup qualification,Ernakulam,India,True
+1959-12-17,Pakistan,Israel,2,2,AFC Asian Cup qualification,Ernakulam,India,True
+1960-08-05,Pakistan,Thailand,7,0,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1960-08-10,Pakistan,Japan,3,1,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1960-08-12,Malaysia,Pakistan,1,0,Merdeka Tournament,Kuala Lumpur,Malaya,False
+1960-08-14,Indonesia,Pakistan,4,0,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1960-08-18,Pakistan,Vietnam Republic,2,2,Friendly,Kallang,Singapore,True
+1960-08-19,Singapore,Pakistan,4,1,Friendly,Kallang,Singapore,False
+1960-08-21,Indonesia,Pakistan,5,2,Friendly,Jakarta,Indonesia,False
+1962-09-09,Myanmar,Pakistan,0,1,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1962-09-12,Japan,Pakistan,1,1,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1962-09-16,Malaysia,Pakistan,0,0,Merdeka Tournament,Kuala Lumpur,Malaya,False
+1962-09-19,Indonesia,Pakistan,2,1,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1963-01-26,Pakistan,China PR,0,0,Friendly,Dhaka,Pakistan,False
+1963-01-30,Pakistan,China PR,3,2,Friendly,Peshawar,Pakistan,False
+1963-02-03,Pakistan,China PR,1,1,Friendly,Lahore,Pakistan,False
+1963-02-06,Pakistan,China PR,0,2,Friendly,Karachi,Pakistan,False
+1965-07-21,Pakistan,Turkey,1,3,Friendly,Tehran,Iran,True
+1965-07-23,Iran,Pakistan,4,1,Friendly,Tehran,Iran,False
+1967-11-15,India,Pakistan,1,1,AFC Asian Cup qualification,Yangon,Burma,True
+1967-11-19,Myanmar,Pakistan,2,0,AFC Asian Cup qualification,Yangon,Burma,False
+1967-11-28,Pakistan,Turkey,4,7,Friendly,Dhaka,Pakistan,False
+1969-03-10,Iraq,Pakistan,1,2,Friendly,Tehran,Iran,True
+1969-03-12,Iran,Pakistan,9,1,Friendly,Tehran,Iran,False
+1969-09-10,Turkey,Pakistan,4,2,Friendly,Ankara,Turkey,False
+1969-09-13,Iran,Pakistan,4,2,Friendly,Ankara,Turkey,True
+1970-09-06,Iran,Pakistan,7,0,Friendly,Tehran,Iran,False
+1970-09-09,Pakistan,Turkey,1,3,Friendly,Tehran,Iran,True
+1973-06-10,China PR,Pakistan,7,4,Friendly,Beijing,China PR,False
+1974-01-17,Pakistan,Iran,1,2,Friendly,Karachi,Pakistan,False
+1974-01-18,Pakistan,Turkey,2,2,Friendly,Karachi,Pakistan,False
+1974-09-03,Iran,Pakistan,7,0,Asian Games,Tehran,Iran,False
+1974-09-05,Pakistan,Bahrain,5,1,Asian Games,Tehran,Iran,True
+1974-09-07,Myanmar,Pakistan,5,1,Asian Games,Tehran,Iran,True
+1976-07-19,Afghanistan,Pakistan,1,0,Friendly,Kabul,Afghanistan,False
+1976-07-21,India,Pakistan,1,1,Friendly,Kabul,Afghanistan,True
+1976-10-12,Pakistan,Afghanistan,1,0,Friendly,Karachi,Pakistan,False
+1981-11-11,Thailand,Pakistan,1,0,King's Cup,Bangkok,Thailand,False
+1981-11-13,Malaysia,Pakistan,2,3,King's Cup,Bangkok,Thailand,True
+1981-11-17,Pakistan,Singapore,1,0,King's Cup,Bangkok,Thailand,True
+1982-08-09,Malaysia,Pakistan,4,1,Friendly,Dhaka,Bangladesh,True
+1984-10-11,Malaysia,Pakistan,5,0,AFC Asian Cup qualification,Calcutta,India,True
+1984-10-13,South Korea,Pakistan,6,0,AFC Asian Cup qualification,Calcutta,India,True
+1984-10-15,Pakistan,Yemen,4,1,AFC Asian Cup qualification,Calcutta,India,True
+1984-10-17,India,Pakistan,2,0,AFC Asian Cup qualification,Calcutta,India,False
+1985-04-28,Pakistan,North Korea,0,0,Friendly,Peshawar,Pakistan,False
+1985-04-30,Pakistan,Nepal,1,0,Friendly,Peshawar,Pakistan,False
+1985-05-02,Pakistan,Bangladesh,1,3,Friendly,Peshawar,Pakistan,False
+1985-05-04,Pakistan,Indonesia,1,3,Friendly,Peshawar,Pakistan,False
+1985-12-21,Bangladesh,Pakistan,2,1,South Asian Games,Dhaka,Bangladesh,False
+1985-12-22,Pakistan,Maldives,3,1,South Asian Games,Dhaka,Bangladesh,True
+1985-12-25,Pakistan,Nepal,2,2,South Asian Games,Dhaka,Bangladesh,True
+1986-02-16,Iran,Pakistan,2,0,Friendly,Tehran,Iran,False
+1986-04-25,Pakistan,Sri Lanka,1,0,Friendly,Islamabad,Pakistan,False
+1986-04-26,Pakistan,South Korea,1,0,Friendly,Islamabad,Pakistan,False
+1986-04-28,Pakistan,China PR,0,3,Friendly,Islamabad,Pakistan,False
+1986-05-02,Pakistan,Nepal,5,0,Friendly,Islamabad,Pakistan,False
+1986-09-21,United Arab Emirates,Pakistan,1,0,Asian Games,Daegu,South Korea,True
+1986-09-23,Pakistan,Iraq,1,5,Asian Games,Daegu,South Korea,True
+1986-09-27,Oman,Pakistan,3,1,Asian Games,Daegu,South Korea,True
+1986-09-29,Thailand,Pakistan,6,0,Asian Games,Daegu,South Korea,True
+1987-11-21,India,Pakistan,0,0,South Asian Games,Calcutta,India,False
+1987-11-22,Pakistan,Maldives,1,0,South Asian Games,Calcutta,India,True
+1987-11-25,Pakistan,Bangladesh,1,0,South Asian Games,Calcutta,India,True
+1988-04-07,Malaysia,Pakistan,4,0,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,False
+1988-04-10,Jordan,Pakistan,1,0,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,True
+1988-04-15,Kuwait,Pakistan,3,0,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,True
+1988-04-18,Japan,Pakistan,4,1,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,True
+1989-01-06,Pakistan,Kuwait,0,1,FIFA World Cup qualification,Islamabad,Pakistan,False
+1989-01-20,United Arab Emirates,Pakistan,5,0,FIFA World Cup qualification,Sharjah,United Arab Emirates,False
+1989-01-27,Kuwait,Pakistan,2,0,FIFA World Cup qualification,Kuwait City,Kuwait,False
+1989-02-10,Pakistan,United Arab Emirates,1,4,FIFA World Cup qualification,Islamabad,Pakistan,False
+1989-10-22,Pakistan,Nepal,0,0,South Asian Games,Islamabad,Pakistan,False
+1989-10-24,Pakistan,Maldives,2,0,South Asian Games,Islamabad,Pakistan,False
+1989-10-26,Pakistan,Bangladesh,1,0,South Asian Games,Islamabad,Pakistan,False
+1990-09-23,China PR,Pakistan,3,0,Asian Games,Beijing,China PR,False
+1990-09-25,Pakistan,South Korea,0,7,Asian Games,Beijing,China PR,True
+1990-09-27,Singapore,Pakistan,6,1,Asian Games,Beijing,China PR,True
+1991-12-22,Pakistan,India,0,0,South Asian Games,Colombo,Sri Lanka,True
+1991-12-24,Pakistan,Bangladesh,1,0,South Asian Games,Colombo,Sri Lanka,True
+1991-12-29,Pakistan,Maldives,2,0,South Asian Games,Colombo,Sri Lanka,True
+1992-05-11,Iran,Pakistan,7,0,AFC Asian Cup qualification,Calcutta,India,True
+1992-08-18,Moldova,Pakistan,5,0,Jordan International Tournament,Amman,Jordan,True
+1992-08-20,Jordan,Pakistan,2,0,Jordan International Tournament,Amman,Jordan,False
+1992-08-22,Pakistan,Sudan,0,4,Jordan International Tournament,Amman,Jordan,True
+1993-05-22,Pakistan,China PR,0,5,FIFA World Cup qualification,Irbid,Jordan,True
+1993-05-24,Yemen,Pakistan,5,1,FIFA World Cup qualification,Irbid,Jordan,True
+1993-05-28,Pakistan,Iraq,0,8,FIFA World Cup qualification,Irbid,Jordan,True
+1993-05-30,Jordan,Pakistan,3,1,FIFA World Cup qualification,Irbid,Jordan,False
+1993-06-06,Iran,Pakistan,5,0,Friendly,Tehran,Iran,False
+1993-06-07,Pakistan,Turkmenistan,0,4,Friendly,Tehran,Iran,True
+1993-06-12,China PR,Pakistan,3,0,FIFA World Cup qualification,Chengdu,China PR,False
+1993-06-14,Pakistan,Yemen,0,3,FIFA World Cup qualification,Chengdu,China PR,True
+1993-06-18,Iraq,Pakistan,4,0,FIFA World Cup qualification,Chengdu,China PR,True
+1993-06-20,Pakistan,Jordan,0,5,FIFA World Cup qualification,Chengdu,China PR,True
+1993-12-20,Sri Lanka,Pakistan,2,1,South Asian Games,Dhaka,Bangladesh,True
+1993-12-24,India,Pakistan,2,2,South Asian Games,Dhaka,Bangladesh,True
+1995-03-25,Pakistan,Bangladesh,1,0,SAFF Cup,Colombo,Sri Lanka,True
+1995-03-29,Nepal,Pakistan,2,0,SAFF Cup,Colombo,Sri Lanka,True
+1996-08-09,Jordan,Pakistan,4,0,AFC Asian Cup qualification,Amman,Jordan,False
+1996-08-11,Iraq,Pakistan,3,0,AFC Asian Cup qualification,Amman,Jordan,True
+1997-05-11,Kazakhstan,Pakistan,3,0,FIFA World Cup qualification,Almaty,Kazakhstan,False
+1997-05-23,Pakistan,Iraq,2,6,FIFA World Cup qualification,Lahore,Pakistan,False
+1997-06-11,Pakistan,Kazakhstan,0,7,FIFA World Cup qualification,Lahore,Pakistan,False
+1997-06-20,Iraq,Pakistan,6,1,FIFA World Cup qualification,Baghdad,Iraq,False
+1997-09-04,Nepal,Pakistan,0,2,SAFF Cup,Kathmandu,Nepal,False
+1997-09-06,Sri Lanka,Pakistan,2,0,SAFF Cup,Kathmandu,Nepal,True
+1997-09-11,India,Pakistan,2,0,SAFF Cup,Kathmandu,Nepal,True
+1997-09-13,Pakistan,Sri Lanka,1,0,SAFF Cup,Kathmandu,Nepal,True
+1999-04-24,Pakistan,Bangladesh,0,4,SAFF Cup,Margao,India,True
+1999-04-26,India,Pakistan,2,0,SAFF Cup,Margao,India,False
+1999-09-26,India,Pakistan,5,2,South Asian Games,Kathmandu,Nepal,True
+1999-09-28,Nepal,Pakistan,3,1,South Asian Games,Kathmandu,Nepal,False
+1999-09-30,Pakistan,Bhutan,2,1,South Asian Games,Kathmandu,Nepal,True
+2000-04-02,Palestine,Pakistan,2,0,AFC Asian Cup qualification,Doha,Qatar,True
+2000-04-04,Qatar,Pakistan,5,0,AFC Asian Cup qualification,Doha,Qatar,False
+2000-04-06,Pakistan,Jordan,0,5,AFC Asian Cup qualification,Doha,Qatar,True
+2000-04-08,Pakistan,Kazakhstan,0,4,AFC Asian Cup qualification,Doha,Qatar,True
+2001-05-13,Lebanon,Pakistan,6,0,FIFA World Cup qualification,Beirut,Lebanon,False
+2001-05-15,Thailand,Pakistan,3,0,FIFA World Cup qualification,Beirut,Lebanon,True
+2001-05-17,Pakistan,Sri Lanka,3,3,FIFA World Cup qualification,Beirut,Lebanon,True
+2001-05-26,Pakistan,Lebanon,1,8,FIFA World Cup qualification,Bangkok,Thailand,True
+2001-05-28,Thailand,Pakistan,6,0,FIFA World Cup qualification,Bangkok,Thailand,False
+2001-05-30,Sri Lanka,Pakistan,3,1,FIFA World Cup qualification,Bangkok,Thailand,True
+2002-03-17,Sri Lanka,Pakistan,1,1,Friendly,Colombo,Sri Lanka,False
+2002-03-19,Sri Lanka,Pakistan,0,0,Friendly,Kurunegala,Sri Lanka,False
+2002-03-23,Sri Lanka,Pakistan,1,0,Friendly,Colombo,Sri Lanka,False
+2002-03-25,Sri Lanka,Pakistan,2,1,Friendly,Kalutara,Sri Lanka,False
+2003-01-10,India,Pakistan,0,1,SAFF Cup,Dhaka,Bangladesh,True
+2003-01-12,Pakistan,Sri Lanka,2,1,SAFF Cup,Dhaka,Bangladesh,True
+2003-01-14,Afghanistan,Pakistan,0,1,SAFF Cup,Dhaka,Bangladesh,True
+2003-01-18,Pakistan,Maldives,0,1,SAFF Cup,Dhaka,Bangladesh,True
+2003-01-20,Pakistan,India,1,2,SAFF Cup,Dhaka,Bangladesh,True
+2003-03-21,Macau,Pakistan,0,3,AFC Asian Cup qualification,Singapore,Singapore,True
+2003-03-25,Singapore,Pakistan,3,0,AFC Asian Cup qualification,Singapore,Singapore,False
+2003-11-29,Pakistan,Kyrgyzstan,0,2,FIFA World Cup qualification,Karachi,Pakistan,False
+2003-12-03,Kyrgyzstan,Pakistan,4,0,FIFA World Cup qualification,Bishkek,Kyrgyzstan,False
+2005-06-12,Pakistan,India,1,1,Friendly,Quetta,Pakistan,False
+2005-06-16,Pakistan,India,0,1,Friendly,Peshawar,Pakistan,False
+2005-06-18,Pakistan,India,3,0,Friendly,Lahore,Pakistan,False
+2005-12-07,Pakistan,Sri Lanka,1,0,SAFF Cup,Karachi,Pakistan,False
+2005-12-09,Pakistan,Afghanistan,1,0,SAFF Cup,Karachi,Pakistan,False
+2005-12-11,Pakistan,Maldives,0,0,SAFF Cup,Karachi,Pakistan,False
+2005-12-14,Pakistan,Bangladesh,0,1,SAFF Cup,Karachi,Pakistan,False
+2005-12-22,Bangladesh,Pakistan,0,0,AFC Asian Cup qualification,Dhaka,Bangladesh,False
+2005-12-26,Pakistan,Bangladesh,0,1,AFC Asian Cup qualification,Karachi,Pakistan,False
+2006-02-18,Pakistan,Palestine,0,3,Friendly,Muharraq,Bahrain,True
+2006-02-22,Jordan,Pakistan,3,0,AFC Asian Cup qualification,Amman,Jordan,False
+2006-03-01,Pakistan,United Arab Emirates,1,4,AFC Asian Cup qualification,Karachi,Pakistan,False
+2006-04-02,Kyrgyzstan,Pakistan,0,1,AFC Challenge Cup,Dhaka,Bangladesh,True
+2006-04-04,Pakistan,Tajikistan,0,2,AFC Challenge Cup,Dhaka,Bangladesh,True
+2006-04-06,Pakistan,Macau,2,2,AFC Challenge Cup,Dhaka,Bangladesh,True
+2006-08-16,Pakistan,Oman,1,4,AFC Asian Cup qualification,Islamabad,Pakistan,False
+2006-09-06,Oman,Pakistan,5,0,AFC Asian Cup qualification,Muscat,Oman,False
+2006-10-11,Pakistan,Jordan,0,3,AFC Asian Cup qualification,Lahore,Pakistan,False
+2006-11-15,United Arab Emirates,Pakistan,3,2,AFC Asian Cup qualification,Abu Dhabi,United Arab Emirates,False
+2007-10-22,Pakistan,Iraq,0,7,FIFA World Cup qualification,Lahore,Pakistan,False
+2007-10-28,Iraq,Pakistan,0,0,FIFA World Cup qualification,Damascus,Syria,True
+2008-03-25,Nepal,Pakistan,2,1,Friendly,Pokhara,Nepal,False
+2008-03-27,Nepal,Pakistan,0,2,Friendly,Pokhara,Nepal,False
+2008-04-04,Pakistan,Sri Lanka,1,7,AFC Challenge Cup qualification,Taipei,Taiwan,True
+2008-04-06,Pakistan,Guam,9,2,AFC Challenge Cup qualification,Taipei,Taiwan,True
+2008-06-03,Maldives,Pakistan,3,0,SAFF Cup,Malé,Maldives,False
+2008-06-05,India,Pakistan,2,1,SAFF Cup,Malé,Maldives,True
+2008-06-07,Pakistan,Nepal,1,4,SAFF Cup,Malé,Maldives,True
+2008-10-10,Malaysia,Pakistan,4,1,Friendly,Kuala Lumpur,Malaysia,False
+2009-03-11,Nepal,Pakistan,1,0,Friendly,Kathmandu,Nepal,False
+2009-04-04,Pakistan,Taiwan,1,1,AFC Challenge Cup qualification,Colombo,Sri Lanka,True
+2009-04-06,Brunei,Pakistan,0,6,AFC Challenge Cup qualification,Colombo,Sri Lanka,True
+2009-04-08,Sri Lanka,Pakistan,2,2,AFC Challenge Cup qualification,Colombo,Sri Lanka,False
+2009-12-04,Sri Lanka,Pakistan,1,0,SAFF Cup,Dhaka,Bangladesh,True
+2009-12-06,Bangladesh,Pakistan,0,0,SAFF Cup,Dhaka,Bangladesh,False
+2009-12-08,Pakistan,Bhutan,7,0,SAFF Cup,Dhaka,Bangladesh,True
+2011-03-21,Turkmenistan,Pakistan,3,0,AFC Challenge Cup qualification,Petaling Jaya,Malaysia,True
+2011-03-23,Pakistan,India,1,3,AFC Challenge Cup qualification,Petaling Jaya,Malaysia,True
+2011-06-29,Bangladesh,Pakistan,3,0,FIFA World Cup qualification,Dhaka,Bangladesh,False
+2011-07-03,Pakistan,Bangladesh,0,0,FIFA World Cup qualification,Lahore,Pakistan,False
+2011-12-02,Bangladesh,Pakistan,0,0,SAFF Cup,New Delhi,India,True
+2011-12-04,Maldives,Pakistan,0,0,SAFF Cup,New Delhi,India,True
+2011-12-06,Pakistan,Nepal,1,1,SAFF Cup,New Delhi,India,True
+2012-11-19,Singapore,Pakistan,4,0,Friendly,Jurong,Singapore,False
+2013-02-06,Nepal,Pakistan,0,1,Friendly,Kathmandu,Nepal,False
+2013-02-09,Nepal,Pakistan,0,1,Friendly,Kathmandu,Nepal,False
+2013-02-12,Maldives,Pakistan,1,1,Friendly,Malé,Maldives,False
+2013-02-14,Maldives,Pakistan,3,0,Friendly,Malé,Maldives,False
+2013-03-17,Tajikistan,Pakistan,1,0,AFC Challenge Cup qualification,Bishkek,Kyrgyzstan,True
+2013-03-19,Kyrgyzstan,Pakistan,1,0,AFC Challenge Cup qualification,Bishkek,Kyrgyzstan,False
+2013-03-21,Pakistan,Macau,2,0,AFC Challenge Cup qualification,Bishkek,Kyrgyzstan,True
+2013-08-20,Afghanistan,Pakistan,3,0,Friendly,Kabul,Afghanistan,False
+2013-09-01,India,Pakistan,1,0,SAFF Cup,Kathmandu,Nepal,True
+2013-09-03,Nepal,Pakistan,1,1,SAFF Cup,Kathmandu,Nepal,False
+2013-09-05,Bangladesh,Pakistan,1,2,SAFF Cup,Kathmandu,Nepal,True
+2013-10-15,Philippines,Pakistan,3,1,Friendly,Bacolod,Philippines,False
+2014-02-19,Lebanon,Pakistan,3,1,Friendly,Beirut,Lebanon,False
+2014-06-21,Indonesia,Pakistan,4,0,Friendly,Surabaya,Indonesia,False
+2014-10-12,Pakistan,Palestine,0,2,Friendly,Lahore,Pakistan,False
+2015-02-06,Pakistan,Afghanistan,2,1,Friendly,Lahore,Pakistan,False
+2015-03-12,Yemen,Pakistan,3,1,FIFA World Cup qualification,Doha,Qatar,True
+2015-03-23,Pakistan,Yemen,0,0,FIFA World Cup qualification,Isa Town,Bahrain,True
+2018-09-04,Nepal,Pakistan,1,2,SAFF Cup,Dhaka,Bangladesh,True
+2018-09-06,Bangladesh,Pakistan,1,0,SAFF Cup,Dhaka,Bangladesh,False
+2018-09-08,Pakistan,Bhutan,3,0,SAFF Cup,Dhaka,Bangladesh,True
+2018-09-12,India,Pakistan,3,1,SAFF Cup,Dhaka,Bangladesh,True
+2018-11-16,Palestine,Pakistan,2,1,Friendly,Al-Ram,Palestine,False
+2018-12-16,Palestine,Pakistan,2,0,Friendly,Doha,Qatar,True
+2019-06-06,Cambodia,Pakistan,2,0,FIFA World Cup qualification,Phnom Penh,Cambodia,False
+2019-06-11,Pakistan,Cambodia,1,2,FIFA World Cup qualification,Doha,Qatar,True
+2022-11-16,Nepal,Pakistan,1,0,Friendly,Kathmandu,Nepal,False
+2023-03-21,Maldives,Pakistan,1,0,Friendly,Laamu,Maldives,False
+2023-06-11,Mauritius,Pakistan,3,0,Mauritius Four Nations Cup,Saint Pierre,Mauritius,False
+2023-06-14,Pakistan,Kenya,0,1,Mauritius Four Nations Cup,Saint Pierre,Mauritius,True
+2023-06-17,Djibouti,Pakistan,3,1,Mauritius Four Nations Cup,Saint Pierre,Mauritius,True
+2023-06-21,India,Pakistan,4,0,SAFF Cup,Bengaluru,India,False
+2023-06-24,Pakistan,Kuwait,0,4,SAFF Cup,Bengaluru,India,True
+2023-06-27,Nepal,Pakistan,1,0,SAFF Cup,Bengaluru,India,True
+2023-10-12,Cambodia,Pakistan,0,0,FIFA World Cup qualification,Phnom Penh,Cambodia,False
+2023-10-17,Pakistan,Cambodia,1,0,FIFA World Cup qualification,Islamabad,Pakistan,False
+2023-11-16,Saudi Arabia,Pakistan,4,0,FIFA World Cup qualification,Al Hofuf,Saudi Arabia,False
+2023-11-21,Pakistan,Tajikistan,1,6,FIFA World Cup qualification,Islamabad,Pakistan,False
+2024-03-21,Pakistan,Jordan,0,3,FIFA World Cup qualification,Islamabad,Pakistan,False
+2024-03-26,Jordan,Pakistan,7,0,FIFA World Cup qualification,Amman,Jordan,False
+2024-06-06,Pakistan,Saudi Arabia,0,3,FIFA World Cup qualification,Islamabad,Pakistan,False
+2024-06-11,Tajikistan,Pakistan,3,0,FIFA World Cup qualification,Dushanbe,Tajikistan,False
+2025-03-25,Syria,Pakistan,2,0,AFC Asian Cup qualification,Al Hofuf,Saudi Arabia,True

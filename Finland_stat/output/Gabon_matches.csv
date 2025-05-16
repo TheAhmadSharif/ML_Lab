@@ -1,0 +1,393 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1960-04-14,Gabon,Burkina Faso,4,5,Friendly,Antananarivo,Madagascar,True
+1960-04-14,Burkina Faso,Gabon,5,4,African Friendship Games,Tananarive,Madagascar,True
+1961-12-25,Senegal,Gabon,3,2,African Friendship Games,Abidjan,Ivory Coast,True
+1961-12-26,Cameroon,Gabon,6,0,African Friendship Games,Abidjan,Ivory Coast,True
+1962-07-14,Gabon,Congo,3,1,Friendly,Libreville,Gabon,False
+1962-08-20,Gabon,Cameroon,1,1,Friendly,Libreville,Gabon,False
+1962-09-16,Congo,Gabon,3,1,Friendly,Brazzaville,Congo,False
+1963-04-12,Gabon,Burkina Faso,4,0,African Friendship Games,Dakar,Senegal,True
+1963-04-14,France,Gabon,3,0,African Friendship Games,Dakar,Senegal,True
+1963-04-16,Gambia,Gabon,2,2,African Friendship Games,Dakar,Senegal,True
+1965-08-28,Gabon,Nigeria,2,2,Friendly,Libreville,Gabon,False
+1965-08-29,Gabon,Nigeria,1,4,Friendly,Libreville,Gabon,False
+1966-12-02,DR Congo,Gabon,4,3,Friendly,Bangui,Central African Republic,True
+1967-01-04,Gabon,DR Congo,1,0,Friendly,Libreville,Gabon,False
+1967-03-28,Gabon,Ivory Coast,0,3,Friendly,Libreville,Gabon,False
+1969-08-24,Benin,Gabon,1,0,Friendly,Cotonou,Dahomey,False
+1970-07-11,Gabon,Cameroon,1,1,Friendly,Libreville,Gabon,False
+1970-08-01,Cameroon,Gabon,0,3,Friendly,Douala,Cameroon,False
+1970-11-08,Gabon,Ivory Coast,1,2,African Cup of Nations qualification,Libreville,Gabon,False
+1970-11-22,Ivory Coast,Gabon,1,0,African Cup of Nations qualification,Abidjan,Ivory Coast,False
+1976-01-25,Chad,Gabon,4,0,Friendly,N'Djamena,Chad,False
+1976-02-22,Gabon,Chad,0,1,Friendly,Libreville,Gabon,False
+1976-03-28,Gabon,Ivory Coast,0,3,Friendly,Libreville,Gabon,False
+1976-04-19,Ivory Coast,Gabon,1,3,Friendly,Abidjan,Ivory Coast,False
+1976-05-02,Gabon,São Tomé and Príncipe,6,1,Friendly,Libreville,Gabon,False
+1976-07-01,Gabon,DR Congo,1,1,Friendly,Libreville,Gabon,False
+1977-01-23,Congo,Gabon,2,2,Friendly,Brazzaville,Congo,False
+1977-02-05,Gabon,Morocco,0,1,Friendly,Libreville,Gabon,False
+1977-04-03,Morocco,Gabon,5,1,Friendly,Rabat,Morocco,False
+1977-07-17,Congo,Gabon,3,2,African Cup of Nations qualification,Brazzaville,Congo,False
+1977-07-31,Gabon,Congo,3,3,African Cup of Nations qualification,Libreville,Gabon,False
+1978-02-05,Gabon,Nigeria,0,1,Friendly,Libreville,Gabon,False
+1978-02-19,Gabon,Burkina Faso,2,2,Friendly,Libreville,Gabon,False
+1979-01-10,Rwanda,Gabon,2,2,Friendly,Kigali,Rwanda,False
+1979-04-08,Gabon,Ivory Coast,2,1,Friendly,Libreville,Gabon,False
+1979-11-25,Angola,Gabon,1,0,Friendly,Luanda,Angola,False
+1979-11-29,Cameroon,Gabon,3,1,Friendly,Luanda,Angola,True
+1980-02-01,Congo,Gabon,3,0,Friendly,Brazzaville,Congo,False
+1980-04-06,Ivory Coast,Gabon,4,1,Friendly,Abidjan,Ivory Coast,False
+1980-06-27,DR Congo,Gabon,1,1,Friendly,Kinshasa,Zaïre,False
+1982-10-13,Gabon,Angola,2,2,African Cup of Nations qualification,Libreville,Gabon,False
+1982-11-14,Angola,Gabon,4,0,African Cup of Nations qualification,Luanda,Angola,False
+1983-03-02,Gabon,Nigeria,0,0,Friendly,Libreville,Gabon,False
+1983-03-17,Gabon,Congo,2,3,Friendly,Libreville,Gabon,False
+1984-02-19,Gabon,Togo,1,1,Friendly,Libreville,Gabon,False
+1984-11-11,DR Congo,Gabon,2,0,African Cup of Nations qualification,Kinshasa,Zaïre,False
+1984-11-25,Gabon,DR Congo,1,1,African Cup of Nations qualification,Libreville,Gabon,False
+1984-12-12,Chad,Gabon,3,3,UDEAC Cup,Brazzaville,Congo,True
+1984-12-14,Cameroon,Gabon,0,0,UDEAC Cup,Brazzaville,Congo,True
+1984-12-17,Congo,Gabon,3,0,UDEAC Cup,Brazzaville,Congo,False
+1984-12-19,Central African Republic,Gabon,2,2,UDEAC Cup,Brazzaville,Congo,True
+1985-12-07,Gabon,Congo,1,0,UDEAC Cup,Libreville,Gabon,False
+1985-12-11,Gabon,Central African Republic,4,0,UDEAC Cup,Libreville,Gabon,False
+1985-12-14,Gabon,Chad,3,0,UDEAC Cup,Libreville,Gabon,False
+1985-12-19,Gabon,Congo,3,0,UDEAC Cup,Libreville,Gabon,False
+1986-01-22,Gabon,Senegal,0,1,Friendly,Libreville,Gabon,False
+1986-08-13,Senegal,Gabon,1,0,Friendly,Dakar,Senegal,False
+1986-10-05,Angola,Gabon,1,0,African Cup of Nations qualification,Luanda,Angola,False
+1986-10-19,Gabon,Angola,1,0,African Cup of Nations qualification,Libreville,Gabon,False
+1986-12-10,Congo,Gabon,0,1,UDEAC Cup,Malabo,Equatorial Guinea,True
+1986-12-14,Central African Republic,Gabon,0,1,UDEAC Cup,Malabo,Equatorial Guinea,True
+1986-12-17,Chad,Gabon,0,0,UDEAC Cup,Malabo,Equatorial Guinea,True
+1987-04-08,Gabon,Ivory Coast,1,0,Friendly,Libreville,Gabon,False
+1987-11-29,Gabon,Angola,0,0,Friendly,Libreville,Gabon,False
+1987-12-09,Central African Republic,Gabon,1,1,UDEAC Cup,N'Djamena,Chad,True
+1987-12-11,Chad,Gabon,1,1,UDEAC Cup,N'Djamena,Chad,False
+1987-12-16,Cameroon,Gabon,1,0,UDEAC Cup,N'Djamena,Chad,True
+1987-12-18,Equatorial Guinea,Gabon,0,0,UDEAC Cup,N'Djamena,Chad,True
+1988-08-01,Angola,Gabon,4,1,Friendly,Luanda,Angola,False
+1988-10-09,Gabon,Burkina Faso,3,0,African Cup of Nations qualification,Libreville,Gabon,False
+1988-10-23,Burkina Faso,Gabon,1,0,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+1988-11-30,Cameroon,Gabon,0,0,UDEAC Cup,Douala,Cameroon,False
+1988-12-04,Equatorial Guinea,Gabon,0,3,UDEAC Cup,Douala,Cameroon,True
+1988-12-06,Central African Republic,Gabon,0,0,UDEAC Cup,Douala,Cameroon,True
+1988-12-08,Cameroon,Gabon,0,1,UDEAC Cup,Douala,Cameroon,False
+1988-12-15,Morocco,Gabon,5,2,Friendly,Rabat,Morocco,False
+1989-01-07,Nigeria,Gabon,1,0,FIFA World Cup qualification,Enugu,Nigeria,False
+1989-01-22,Gabon,Cameroon,1,3,FIFA World Cup qualification,Libreville,Gabon,False
+1989-04-09,Gabon,Ghana,1,0,African Cup of Nations qualification,Libreville,Gabon,False
+1989-04-23,Ghana,Gabon,1,0,African Cup of Nations qualification,Accra,Ghana,False
+1989-06-04,Gabon,DR Congo,0,0,Friendly,Libreville,Gabon,False
+1989-06-11,Angola,Gabon,2,0,FIFA World Cup qualification,Luanda,Angola,False
+1989-06-25,Gabon,Nigeria,2,1,FIFA World Cup qualification,Libreville,Gabon,False
+1989-07-06,Malawi,Gabon,2,0,Friendly,Blantyre,Malawi,False
+1989-07-07,Gabon,Mozambique,1,0,Friendly,Blantyre,Malawi,True
+1989-07-16,Zambia,Gabon,3,0,African Cup of Nations qualification,Lusaka,Zambia,False
+1989-07-30,Gabon,Zambia,2,1,African Cup of Nations qualification,Libreville,Gabon,False
+1989-08-13,Cameroon,Gabon,2,1,FIFA World Cup qualification,Yaoundé,Cameroon,False
+1989-08-27,Gabon,Angola,1,0,FIFA World Cup qualification,Libreville,Gabon,False
+1989-12-03,Congo,Gabon,1,0,UDEAC Cup,Bangui,Central African Republic,True
+1989-12-05,Congo,Gabon,0,2,UDEAC Cup,Bangui,Central African Republic,True
+1989-12-10,Central African Republic,Gabon,2,0,UDEAC Cup,Bangui,Central African Republic,False
+1989-12-12,Chad,Gabon,0,2,UDEAC Cup,Bangui,Central African Republic,True
+1990-04-29,Gabon,Martinique,0,2,Friendly,Paris,France,True
+1990-08-12,Gabon,Mali,0,0,Friendly,Libreville,Gabon,False
+1990-08-19,Gabon,Uganda,1,0,African Cup of Nations qualification,Libreville,Gabon,False
+1990-09-01,Tanzania,Gabon,0,0,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+1990-12-09,Cameroon,Gabon,2,1,UDEAC Cup,Brazzaville,Congo,True
+1990-12-11,Central African Republic,Gabon,0,1,UDEAC Cup,Brazzaville,Congo,True
+1990-12-15,Congo,Gabon,1,0,UDEAC Cup,Brazzaville,Congo,False
+1990-12-17,Chad,Gabon,2,1,UDEAC Cup,Brazzaville,Congo,True
+1991-04-14,DR Congo,Gabon,2,1,African Cup of Nations qualification,Kinshasa,Zaïre,False
+1991-04-27,Uganda,Gabon,0,0,African Cup of Nations qualification,Kampala,Uganda,False
+1991-07-07,Gabon,Ghana,0,1,Friendly,Libreville,Gabon,False
+1991-07-14,Gabon,Tanzania,1,0,African Cup of Nations qualification,Libreville,Gabon,False
+1991-07-28,Gabon,DR Congo,0,0,African Cup of Nations qualification,Libreville,Gabon,False
+1992-06-14,Gabon,Togo,1,0,Friendly,Libreville,Gabon,False
+1992-06-21,Gabon,Burundi,0,1,Friendly,Libreville,Gabon,False
+1992-08-16,Gabon,Cameroon,0,0,African Cup of Nations qualification,Libreville,Gabon,False
+1992-08-30,Niger,Gabon,1,3,African Cup of Nations qualification,Niamey,Niger,False
+1992-10-04,Gabon,Chad,1,0,Friendly,Libreville,Gabon,False
+1992-10-11,Gabon,Mozambique,3,1,FIFA World Cup qualification,Libreville,Gabon,False
+1992-12-19,Gabon,Senegal,3,2,FIFA World Cup qualification,Libreville,Gabon,False
+1993-01-02,Gabon,Burkina Faso,1,1,Friendly,Libreville,Gabon,False
+1993-01-03,Gabon,Ghana,2,3,Friendly,Libreville,Gabon,False
+1993-01-17,Mozambique,Gabon,1,1,FIFA World Cup qualification,Maputo,Mozambique,False
+1993-02-27,Senegal,Gabon,1,0,FIFA World Cup qualification,Dakar,Senegal,False
+1993-04-11,Gabon,Benin,2,0,African Cup of Nations qualification,Libreville,Gabon,False
+1993-04-25,Cameroon,Gabon,0,0,African Cup of Nations qualification,Yaoundé,Cameroon,False
+1993-07-04,Gabon,Mali,0,2,Friendly,Moanda,Gabon,False
+1993-07-11,Gabon,Niger,3,0,African Cup of Nations qualification,Libreville,Gabon,False
+1993-07-25,Benin,Gabon,1,2,African Cup of Nations qualification,Cotonou,Benin,False
+1993-10-01,Morocco,Gabon,1,0,Friendly,Rabat,Morocco,False
+1993-10-06,Belgium,Gabon,2,1,Friendly,Brussels,Belgium,False
+1993-11-05,Tunisia,Gabon,4,0,Friendly,Tunis,Tunisia,False
+1993-11-07,Gabon,Malta,1,2,Friendly,Tunis,Tunisia,True
+1994-02-27,Gabon,Senegal,0,0,Friendly,Moanda,Gabon,False
+1994-03-15,Gabon,DR Congo,2,1,Friendly,Libreville,Gabon,False
+1994-03-19,Angola,Gabon,2,1,Friendly,Luanda,Angola,False
+1994-03-26,Nigeria,Gabon,3,0,African Cup of Nations,Tunis,Tunisia,True
+1994-03-28,Egypt,Gabon,4,0,African Cup of Nations,Tunis,Tunisia,True
+1994-11-13,Gabon,Mauritius,3,0,African Cup of Nations qualification,Libreville,Gabon,False
+1994-11-20,Gabon,Zambia,2,1,African Cup of Nations qualification,Libreville,Gabon,False
+1995-04-02,Gabon,Benin,7,0,Friendly,Libreville,Gabon,False
+1995-04-08,Zambia,Gabon,1,0,African Cup of Nations qualification,Lusaka,Zambia,False
+1995-06-04,Mauritius,Gabon,0,3,African Cup of Nations qualification,Port Louis,Mauritius,False
+1995-10-22,Gabon,Sierra Leone,1,0,Friendly,Libreville,Gabon,False
+1995-11-26,Gabon,Cameroon,1,2,Friendly,Libreville,Gabon,False
+1995-11-28,Gabon,Ivory Coast,0,2,Friendly,Libreville,Gabon,False
+1995-11-30,Gabon,Algeria,2,1,Friendly,Libreville,Gabon,False
+1995-12-02,Gabon,Cameroon,0,0,Friendly,Libreville,Gabon,False
+1995-12-22,Burkina Faso,Gabon,2,5,Friendly,Ouagadougou,Burkina Faso,False
+1995-12-27,Mali,Gabon,1,2,Friendly,Bamako,Mali,False
+1996-01-07,Zimbabwe,Gabon,1,2,Friendly,Harare,Zimbabwe,False
+1996-01-11,Mozambique,Gabon,1,0,Friendly,Maputo,Mozambique,False
+1996-01-16,Gabon,Liberia,1,2,African Cup of Nations,Durban,South Africa,True
+1996-01-19,DR Congo,Gabon,0,2,African Cup of Nations,Durban,South Africa,True
+1996-01-28,Gabon,Tunisia,1,1,African Cup of Nations,Durban,South Africa,True
+1996-05-26,Gabon,Ivory Coast,0,1,Friendly,Libreville,Gabon,False
+1996-06-02,Eswatini,Gabon,0,1,FIFA World Cup qualification,Mbabane,Swaziland,False
+1996-06-16,Gabon,Eswatini,2,0,FIFA World Cup qualification,Libreville,Gabon,False
+1996-09-22,Guinea,Gabon,0,1,Friendly,Conakry,Guinea,False
+1996-09-29,Gabon,Mali,1,1,Friendly,Libreville,Gabon,False
+1996-10-06,Gabon,Cameroon,0,0,African Cup of Nations qualification,Libreville,Gabon,False
+1996-10-19,Gabon,Burkina Faso,2,0,Friendly,Libreville,Gabon,False
+1996-11-03,Togo,Gabon,0,1,Friendly,Lomé,Togo,False
+1996-11-10,Gabon,Ghana,1,1,FIFA World Cup qualification,Libreville,Gabon,False
+1996-12-20,Burkina Faso,Gabon,1,1,Friendly,Cotonou,Benin,True
+1996-12-22,Benin,Gabon,3,3,Friendly,Cotonou,Benin,False
+1996-12-25,Gabon,Ghana,1,1,Friendly,Cotonou,Benin,True
+1997-01-11,Sierra Leone,Gabon,1,0,FIFA World Cup qualification,Freetown,Sierra Leone,False
+1997-03-30,Gabon,Togo,2,1,Friendly,Libreville,Gabon,False
+1997-04-06,Gabon,Morocco,0,4,FIFA World Cup qualification,Libreville,Gabon,False
+1997-04-27,Ghana,Gabon,3,0,FIFA World Cup qualification,Accra,Ghana,False
+1997-06-22,Cameroon,Gabon,2,2,African Cup of Nations qualification,Yaoundé,Cameroon,False
+1997-07-13,Gabon,Kenya,1,0,African Cup of Nations qualification,Libreville,Gabon,False
+1997-07-27,Gabon,Namibia,1,1,African Cup of Nations qualification,Libreville,Gabon,False
+1997-08-16,Morocco,Gabon,2,0,FIFA World Cup qualification,Casablanca,Morocco,False
+1998-08-02,Equatorial Guinea,Gabon,0,2,African Cup of Nations qualification,Bata,Equatorial Guinea,False
+1998-08-16,Gabon,Equatorial Guinea,3,0,African Cup of Nations qualification,Libreville,Gabon,False
+1998-10-04,Gabon,Mauritius,2,0,African Cup of Nations qualification,Libreville,Gabon,False
+1999-01-04,Burkina Faso,Gabon,2,1,Friendly,Ouagadougou,Burkina Faso,False
+1999-01-24,Angola,Gabon,3,1,African Cup of Nations qualification,Luanda,Angola,False
+1999-02-20,Gabon,Burkina Faso,1,1,Friendly,Libreville,Gabon,False
+1999-02-27,South Africa,Gabon,4,1,African Cup of Nations qualification,Mabopane,South Africa,False
+1999-04-10,Gabon,South Africa,1,0,African Cup of Nations qualification,Libreville,Gabon,False
+1999-06-06,Gabon,Angola,3,1,African Cup of Nations qualification,Libreville,Gabon,False
+1999-06-20,Mauritius,Gabon,2,2,African Cup of Nations qualification,Les Avirons,Réunion,True
+1999-10-30,Ivory Coast,Gabon,0,1,Friendly,Abidjan,Ivory Coast,False
+1999-11-07,Gabon,Equatorial Guinea,4,0,UNIFFAC Cup,Libreville,Gabon,False
+1999-11-10,Gabon,Central African Republic,1,0,UNIFFAC Cup,Libreville,Gabon,False
+1999-11-11,Gabon,São Tomé and Príncipe,1,0,UNIFFAC Cup,Libreville,Gabon,False
+1999-11-13,Gabon,Congo,0,0,UNIFFAC Cup,Libreville,Gabon,False
+1999-11-14,Gabon,Chad,2,0,UNIFFAC Cup,Libreville,Gabon,False
+1999-11-21,Gabon,Nigeria,0,2,Friendly,Libreville,Gabon,False
+1999-11-26,Gabon,Togo,0,0,Friendly,Libreville,Gabon,False
+1999-11-28,Gabon,Burkina Faso,3,2,Friendly,Libreville,Gabon,False
+1999-12-23,Libya,Gabon,2,0,Friendly,Benghazi,Libya,False
+1999-12-27,Gabon,Togo,3,2,Friendly,Benghazi,Libya,True
+2000-01-09,Burkina Faso,Gabon,1,1,Friendly,Ouagadougou,Burkina Faso,False
+2000-01-23,South Africa,Gabon,3,1,African Cup of Nations,Kumasi,Ghana,True
+2000-01-29,Algeria,Gabon,3,1,African Cup of Nations,Kumasi,Ghana,True
+2000-02-02,DR Congo,Gabon,0,0,African Cup of Nations,Accra,Ghana,True
+2000-04-08,Madagascar,Gabon,2,0,FIFA World Cup qualification,Antananarivo,Madagascar,False
+2000-04-22,Gabon,Madagascar,1,0,FIFA World Cup qualification,Libreville,Gabon,False
+2000-06-23,Gabon,Congo,0,2,Friendly,Libreville,Gabon,False
+2000-06-25,Gabon,Congo,2,3,Friendly,Libreville,Gabon,False
+2000-07-01,São Tomé and Príncipe,Gabon,1,1,African Cup of Nations qualification,São Tomé,São Tomé and Príncipe,False
+2000-07-15,Gabon,São Tomé and Príncipe,4,1,African Cup of Nations qualification,Libreville,Gabon,False
+2000-09-02,Gabon,Morocco,2,0,African Cup of Nations qualification,Libreville,Gabon,False
+2000-10-07,Tunisia,Gabon,4,2,African Cup of Nations qualification,Tunis,Tunisia,False
+2001-01-13,Kenya,Gabon,2,1,African Cup of Nations qualification,Nairobi,Kenya,False
+2001-03-18,Gabon,Mali,2,0,Friendly,Libreville,Gabon,False
+2001-03-24,Gabon,Kenya,1,1,African Cup of Nations qualification,Libreville,Gabon,False
+2001-06-02,Gabon,Tunisia,1,1,African Cup of Nations qualification,Libreville,Gabon,False
+2001-06-16,Morocco,Gabon,0,1,African Cup of Nations qualification,Fez,Morocco,False
+2002-08-25,Angola,Gabon,1,0,Friendly,Luanda,Angola,False
+2002-09-01,Congo,Gabon,0,0,Friendly,Brazzaville,Congo,False
+2002-09-07,Gabon,Morocco,0,1,African Cup of Nations qualification,Libreville,Gabon,False
+2002-10-12,Sierra Leone,Gabon,2,0,African Cup of Nations qualification,Freetown,Sierra Leone,False
+2003-03-29,Gabon,Equatorial Guinea,4,0,African Cup of Nations qualification,Libreville,Gabon,False
+2003-05-31,Gabon,Angola,1,1,Friendly,Libreville,Gabon,False
+2003-06-08,Equatorial Guinea,Gabon,2,1,African Cup of Nations qualification,Bata,Equatorial Guinea,False
+2003-06-13,Andorra,Gabon,0,2,Friendly,Sant Julià de Lòria,Andorra,False
+2003-06-20,Morocco,Gabon,2,0,African Cup of Nations qualification,Rabat,Morocco,False
+2003-07-06,Gabon,Sierra Leone,2,0,African Cup of Nations qualification,Libreville,Gabon,False
+2003-09-24,Algeria,Gabon,2,2,Friendly,Algiers,Algeria,False
+2003-09-26,Benin,Gabon,0,4,Friendly,Algiers,Algeria,True
+2003-10-12,Burundi,Gabon,0,0,FIFA World Cup qualification,Bujumbura,Burundi,False
+2003-11-08,Gabon,Burkina Faso,0,0,Friendly,Moanda,Gabon,False
+2003-11-15,Gabon,Burundi,4,1,FIFA World Cup qualification,Libreville,Gabon,False
+2004-05-29,Egypt,Gabon,2,0,Friendly,Cairo,Egypt,False
+2004-06-05,Gabon,Zimbabwe,1,1,FIFA World Cup qualification,Libreville,Gabon,False
+2004-06-19,Rwanda,Gabon,3,1,FIFA World Cup qualification,Kigali,Rwanda,False
+2004-07-03,Gabon,Angola,2,2,FIFA World Cup qualification,Libreville,Gabon,False
+2004-09-05,Algeria,Gabon,0,3,FIFA World Cup qualification,Annaba,Algeria,False
+2004-10-03,Gabon,Benin,2,0,Friendly,Libreville,Gabon,False
+2004-10-09,Gabon,Nigeria,1,1,FIFA World Cup qualification,Libreville,Gabon,False
+2005-03-19,Gabon,Congo,0,0,Friendly,Libreville,Gabon,False
+2005-03-26,Nigeria,Gabon,2,0,FIFA World Cup qualification,Port Harcourt,Nigeria,False
+2005-06-01,Gabon,Zambia,0,1,Friendly,Johannesburg,South Africa,True
+2005-06-05,Zimbabwe,Gabon,1,0,FIFA World Cup qualification,Harare,Zimbabwe,False
+2005-06-18,Gabon,Rwanda,3,0,FIFA World Cup qualification,Libreville,Gabon,False
+2005-09-04,Angola,Gabon,3,0,FIFA World Cup qualification,Luanda,Angola,False
+2005-10-08,Gabon,Algeria,0,0,FIFA World Cup qualification,Port-Gentil,Gabon,False
+2006-08-15,Algeria,Gabon,0,2,Friendly,Aix-en-Provence,France,True
+2006-09-02,Gabon,Madagascar,4,0,African Cup of Nations qualification,Libreville,Gabon,False
+2006-10-08,Ivory Coast,Gabon,5,0,African Cup of Nations qualification,Abidjan,Ivory Coast,False
+2006-11-15,Morocco,Gabon,6,0,Friendly,Rabat,Morocco,False
+2007-06-12,Réunion,Gabon,0,3,Friendly,Saint-Pierre,Réunion,False
+2007-06-17,Madagascar,Gabon,0,2,African Cup of Nations qualification,Antananarivo,Madagascar,False
+2007-08-21,Benin,Gabon,2,2,Friendly,Creil,France,True
+2007-09-08,Gabon,Ivory Coast,0,0,African Cup of Nations qualification,Libreville,Gabon,False
+2008-03-25,Gabon,DR Congo,0,0,Friendly,Aubervilliers,France,True
+2008-06-07,Libya,Gabon,1,0,FIFA World Cup qualification,Tripoli,Libya,False
+2008-06-14,Gabon,Ghana,2,0,FIFA World Cup qualification,Libreville,Gabon,False
+2008-06-22,Ghana,Gabon,2,0,FIFA World Cup qualification,Accra,Ghana,False
+2008-06-28,Gabon,Lesotho,2,0,FIFA World Cup qualification,Libreville,Gabon,False
+2008-08-19,Gabon,Mali,1,0,Friendly,Mantes-la-Ville,France,True
+2008-09-07,Lesotho,Gabon,0,3,FIFA World Cup qualification,Bloemfontein,South Africa,True
+2008-10-11,Gabon,Libya,1,0,FIFA World Cup qualification,Libreville,Gabon,False
+2008-11-18,Gabon,Guinea,3,3,Friendly,Compiègne,France,True
+2009-03-28,Morocco,Gabon,1,2,FIFA World Cup qualification,Casablanca,Morocco,False
+2009-06-06,Gabon,Togo,3,0,FIFA World Cup qualification,Libreville,Gabon,False
+2009-08-11,Benin,Gabon,1,1,Friendly,Dieppe,France,True
+2009-09-05,Gabon,Cameroon,0,2,FIFA World Cup qualification,Libreville,Gabon,False
+2009-09-09,Cameroon,Gabon,2,1,FIFA World Cup qualification,Yaoundé,Cameroon,False
+2009-10-10,Gabon,Morocco,3,1,FIFA World Cup qualification,Libreville,Gabon,False
+2009-11-14,Togo,Gabon,1,0,FIFA World Cup qualification,Lomé,Togo,False
+2010-01-06,Gabon,Mozambique,2,0,Friendly,Bloemfontein,South Africa,True
+2010-01-13,Cameroon,Gabon,0,1,African Cup of Nations,Lubango,Angola,True
+2010-01-17,Gabon,Tunisia,0,0,African Cup of Nations,Lubango,Angola,True
+2010-01-21,Gabon,Zambia,1,2,African Cup of Nations,Benguela,Angola,True
+2010-05-19,Gabon,Togo,3,0,Corsica Cup,Ajaccio,France,True
+2010-05-21,Corsica,Gabon,1,1,Corsica Cup,Bastia,France,False
+2010-08-11,Algeria,Gabon,1,2,Friendly,Algiers,Algeria,False
+2010-09-06,Burkina Faso,Gabon,1,1,Friendly,Cannes,France,True
+2010-10-08,Oman,Gabon,1,0,Friendly,Muscat,Oman,False
+2010-10-12,Saudi Arabia,Gabon,1,0,Friendly,Istanbul,Turkey,True
+2010-11-17,Gabon,Senegal,1,2,Friendly,Saint-Gratien,France,True
+2011-02-09,DR Congo,Gabon,0,2,Friendly,Rouen,France,True
+2011-06-07,Gabon,Gambia,0,1,Friendly,Franceville,Gabon,False
+2011-08-10,Gabon,Guinea,1,1,Friendly,Saint-Leu-la-Forêt,France,True
+2011-09-06,Gabon,Niger,1,0,Friendly,Nice,France,True
+2011-10-07,Gabon,Equatorial Guinea,2,0,Friendly,Nice,France,True
+2011-11-10,Gabon,Brazil,0,2,Friendly,Libreville,Gabon,False
+2011-11-15,Ghana,Gabon,2,1,Friendly,Saint-Leu-la-Forêt,France,True
+2012-01-09,Gabon,Burkina Faso,0,0,Friendly,Bitam,Gabon,False
+2012-01-16,Gabon,Sudan,0,0,Friendly,Franceville,Gabon,False
+2012-01-23,Gabon,Niger,2,0,African Cup of Nations,Libreville,Gabon,False
+2012-01-27,Gabon,Morocco,3,2,African Cup of Nations,Libreville,Gabon,False
+2012-01-31,Gabon,Tunisia,1,0,African Cup of Nations,Franceville,Gabon,False
+2012-02-05,Gabon,Mali,1,1,African Cup of Nations,Libreville,Gabon,False
+2012-06-03,Niger,Gabon,3,0,FIFA World Cup qualification,Niamey,Niger,False
+2012-06-09,Gabon,Burkina Faso,1,0,FIFA World Cup qualification,Libreville,Gabon,False
+2012-06-15,South Africa,Gabon,3,0,Friendly,Nelspruit,South Africa,False
+2012-09-08,Gabon,Togo,1,1,African Cup of Nations qualification,Libreville,Gabon,False
+2012-09-11,Gabon,Saudi Arabia,1,0,Friendly,Amiens,France,True
+2012-10-14,Togo,Gabon,2,1,African Cup of Nations qualification,Lomé,Togo,False
+2012-11-14,Gabon,Portugal,2,2,Friendly,Libreville,Gabon,False
+2013-01-10,Gabon,Tunisia,1,1,Friendly,Abu Dhabi,United Arab Emirates,True
+2013-01-15,Lebanon,Gabon,0,0,Friendly,Sidon,Lebanon,False
+2013-03-23,Congo,Gabon,1,0,FIFA World Cup qualification,Pointe-Noire,Congo,False
+2013-06-08,Gabon,Congo,0,0,FIFA World Cup qualification,Franceville,Gabon,False
+2013-06-15,Gabon,Niger,4,1,FIFA World Cup qualification,Franceville,Gabon,False
+2013-08-14,Gabon,Cape Verde,1,1,Friendly,Sintra,Portugal,True
+2013-09-07,Burkina Faso,Gabon,1,0,FIFA World Cup qualification,Ouagadougou,Burkina Faso,False
+2014-01-07,Zimbabwe,Gabon,2,0,Friendly,Johannesburg,South Africa,True
+2014-03-05,Morocco,Gabon,1,1,Friendly,Marrakech,Morocco,False
+2014-07-12,Rwanda,Gabon,1,0,Friendly,Kigali,Rwanda,False
+2014-07-27,Gabon,Rwanda,0,1,Friendly,Libreville,Gabon,False
+2014-09-06,Gabon,Angola,1,0,African Cup of Nations qualification,Libreville,Gabon,False
+2014-09-10,Lesotho,Gabon,1,1,African Cup of Nations qualification,Maseru,Lesotho,False
+2014-10-11,Gabon,Burkina Faso,2,0,African Cup of Nations qualification,Libreville,Gabon,False
+2014-10-15,Burkina Faso,Gabon,1,1,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+2014-11-15,Angola,Gabon,0,0,African Cup of Nations qualification,Luanda,Angola,False
+2014-11-19,Gabon,Lesotho,4,2,African Cup of Nations qualification,Libreville,Gabon,False
+2015-01-09,Senegal,Gabon,1,0,Friendly,Casablanca,Morocco,True
+2015-01-17,Burkina Faso,Gabon,0,2,African Cup of Nations,Bata,Equatorial Guinea,True
+2015-01-21,Gabon,Congo,0,1,African Cup of Nations,Bata,Equatorial Guinea,True
+2015-01-25,Equatorial Guinea,Gabon,2,0,African Cup of Nations,Bata,Equatorial Guinea,False
+2015-03-25,Gabon,Mali,4,3,Friendly,Beauvais,France,True
+2015-03-30,Belarus,Gabon,0,0,Friendly,Belek,Turkey,True
+2015-06-06,Niger,Gabon,2,1,Friendly,Niamey,Niger,False
+2015-06-14,Gabon,Ivory Coast,0,0,Friendly,Libreville,Gabon,False
+2015-09-05,Gabon,Sudan,4,0,Friendly,Libreville,Gabon,False
+2015-09-08,Zambia,Gabon,1,1,Friendly,Lusaka,Zambia,False
+2015-09-12,Rwanda,Gabon,0,1,Friendly,Kigali,Rwanda,False
+2015-10-09,Tunisia,Gabon,3,3,Friendly,Radès,Tunisia,False
+2015-10-12,Gabon,DR Congo,1,2,Friendly,Mons,Belgium,True
+2015-11-11,Mozambique,Gabon,1,0,FIFA World Cup qualification,Maputo,Mozambique,False
+2015-11-14,Gabon,Mozambique,1,0,FIFA World Cup qualification,Libreville,Gabon,False
+2016-03-25,Gabon,Sierra Leone,2,1,Friendly,Franceville,Gabon,False
+2016-03-28,Sierra Leone,Gabon,1,0,Friendly,Freetown,Sierra Leone,False
+2016-05-28,Gabon,Mauritania,0,2,Friendly,Cornellà de Llobregat,Spain,True
+2016-06-04,Ivory Coast,Gabon,2,1,Friendly,Bouaké,Ivory Coast,False
+2016-09-02,Sudan,Gabon,1,2,Friendly,Khartoum,Sudan,False
+2016-09-06,Cameroon,Gabon,2,1,Friendly,Limbé,Cameroon,False
+2016-10-08,Gabon,Morocco,0,0,FIFA World Cup qualification,Franceville,Gabon,False
+2016-11-12,Mali,Gabon,0,0,FIFA World Cup qualification,Bamako,Mali,False
+2016-11-15,Gabon,Comoros,1,1,Friendly,Tunis,Tunisia,True
+2017-01-14,Gabon,Guinea-Bissau,1,1,African Cup of Nations,Libreville,Gabon,False
+2017-01-18,Gabon,Burkina Faso,1,1,African Cup of Nations,Libreville,Gabon,False
+2017-01-22,Gabon,Cameroon,0,0,African Cup of Nations,Libreville,Gabon,False
+2017-03-24,Guinea,Gabon,2,2,Friendly,Le Havre,France,True
+2017-06-04,Gabon,Zambia,0,0,Friendly,Libreville,Gabon,False
+2017-06-10,Mali,Gabon,2,1,African Cup of Nations qualification,Bamako,Mali,False
+2017-09-02,Gabon,Ivory Coast,0,3,FIFA World Cup qualification,Franceville,Gabon,False
+2017-09-05,Ivory Coast,Gabon,1,2,FIFA World Cup qualification,Bouaké,Ivory Coast,False
+2017-10-07,Morocco,Gabon,3,0,FIFA World Cup qualification,Casablanca,Morocco,False
+2017-10-10,Benin,Gabon,1,0,Friendly,Salon-de-Provence,France,True
+2017-11-11,Gabon,Mali,0,0,FIFA World Cup qualification,Franceville,Gabon,False
+2017-11-14,Gabon,Botswana,0,0,Friendly,Franceville,Gabon,False
+2018-03-22,Thailand,Gabon,0,0,Friendly,Bangkok,Thailand,False
+2018-09-08,Gabon,Burundi,1,1,African Cup of Nations qualification,Libreville,Gabon,False
+2018-09-11,Gabon,Zambia,0,1,Friendly,Libreville,Gabon,False
+2018-10-12,Gabon,South Sudan,3,0,African Cup of Nations qualification,Libreville,Gabon,False
+2018-10-16,South Sudan,Gabon,0,1,African Cup of Nations qualification,Juba,South Sudan,False
+2018-11-17,Gabon,Mali,0,1,African Cup of Nations qualification,Libreville,Gabon,False
+2019-03-23,Burundi,Gabon,1,1,African Cup of Nations qualification,Bujumbura,Burundi,False
+2019-10-10,Gabon,Burkina Faso,1,0,Friendly,Paris,France,True
+2019-10-15,Morocco,Gabon,2,3,Friendly,Morocco,Morocco,False
+2019-11-14,DR Congo,Gabon,0,0,African Cup of Nations qualification,Kinshasa,DR Congo,False
+2019-11-17,Gabon,Angola,2,1,African Cup of Nations qualification,Franceville,Gabon,False
+2020-10-11,Gabon,Benin,0,2,Friendly,Lisbon,Portugal,True
+2020-11-12,Gabon,Gambia,2,1,African Cup of Nations qualification,Franceville,Gabon,False
+2020-11-16,Gambia,Gabon,2,1,African Cup of Nations qualification,Bakau,Gambia,False
+2021-03-25,Gabon,DR Congo,3,0,African Cup of Nations qualification,Franceville,Gabon,False
+2021-03-29,Angola,Gabon,2,0,African Cup of Nations qualification,Luanda,Angola,False
+2021-09-01,Libya,Gabon,2,1,FIFA World Cup qualification,Benina,Libya,False
+2021-09-05,Gabon,Egypt,1,1,FIFA World Cup qualification,Franceville,Gabon,False
+2021-10-08,Angola,Gabon,3,1,FIFA World Cup qualification,Luanda,Angola,False
+2021-10-11,Gabon,Angola,2,0,FIFA World Cup qualification,Franceville,Gabon,False
+2021-11-12,Gabon,Libya,1,0,FIFA World Cup qualification,Franceville,Gabon,False
+2021-11-16,Egypt,Gabon,2,1,FIFA World Cup qualification,Alexandria,Egypt,False
+2022-01-02,Gabon,Burkina Faso,0,3,Friendly,Dubai,United Arab Emirates,True
+2022-01-04,Mauritania,Gabon,1,1,Friendly,Dubai,United Arab Emirates,True
+2022-01-10,Comoros,Gabon,0,1,African Cup of Nations,Yaoundé,Cameroon,True
+2022-01-14,Gabon,Ghana,1,1,African Cup of Nations,Yaoundé,Cameroon,True
+2022-01-18,Gabon,Morocco,2,2,African Cup of Nations,Yaoundé,Cameroon,True
+2022-01-23,Burkina Faso,Gabon,1,1,African Cup of Nations,Limbé,Cameroon,True
+2022-06-04,DR Congo,Gabon,0,1,African Cup of Nations qualification,Kinshasa,DR Congo,False
+2022-06-08,Gabon,Mauritania,0,0,African Cup of Nations qualification,Franceville,Gabon,False
+2022-11-17,Gabon,Guinea-Bissau,3,1,Friendly,Antalya,Turkey,True
+2022-11-20,Niger,Gabon,1,3,Friendly,Antalya,Turkey,True
+2023-03-23,Gabon,Sudan,1,0,African Cup of Nations qualification,Franceville,Gabon,False
+2023-03-27,Sudan,Gabon,1,0,African Cup of Nations qualification,Omdurman,Sudan,False
+2023-06-18,Gabon,DR Congo,0,2,African Cup of Nations qualification,Franceville,Gabon,False
+2023-09-09,Mauritania,Gabon,2,1,African Cup of Nations qualification,Nouakchott,Mauritania,False
+2023-10-17,Guinea,Gabon,1,1,Friendly,Faro-Loulé,Portugal,True
+2023-11-16,Gabon,Kenya,2,1,FIFA World Cup qualification,Franceville,Gabon,False
+2023-11-19,Burundi,Gabon,1,2,FIFA World Cup qualification,Dar es Salaam,Tanzania,True
+2024-03-22,Senegal,Gabon,3,0,Friendly,Amiens,France,True
+2024-03-25,Gabon,Congo,1,1,Friendly,Chambly,France,True
+2024-06-07,Ivory Coast,Gabon,1,0,FIFA World Cup qualification,Korhogo,Ivory Coast,False
+2024-06-11,Gabon,Gambia,3,2,FIFA World Cup qualification,Franceville,Gabon,False
+2024-09-06,Morocco,Gabon,4,1,African Cup of Nations qualification,Agadir,Morocco,False
+2024-09-10,Gabon,Central African Republic,2,0,African Cup of Nations qualification,Franceville,Gabon,False
+2024-10-11,Gabon,Lesotho,0,0,African Cup of Nations qualification,Franceville,Gabon,False
+2024-10-15,Lesotho,Gabon,0,2,African Cup of Nations qualification,Durban,South Africa,True
+2025-03-20,Gabon,Seychelles,3,0,FIFA World Cup qualification,Franceville,Gabon,False
+2025-03-23,Kenya,Gabon,1,2,FIFA World Cup qualification,Nairobi,Kenya,False

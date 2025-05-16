@@ -1,0 +1,159 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1946-08-22,Albania,Montenegro,5,0,Friendly,Shkodër,Albania,False
+1966-04-01,Montenegro,Russia,0,1,Friendly,Titograd,Yugoslavia,False
+1976-02-07,Montenegro,Russia,2,1,Friendly,Podgorica,Yugoslavia,False
+2007-03-24,Montenegro,Hungary,2,1,Friendly,Podgorica,Montenegro,False
+2007-06-01,Japan,Montenegro,2,0,Kirin Cup,Fukuroi,Japan,False
+2007-06-03,Colombia,Montenegro,1,0,Kirin Cup,Matsumoto,Japan,True
+2007-08-22,Montenegro,Slovenia,1,1,Friendly,Podgorica,Montenegro,False
+2007-09-12,Montenegro,Sweden,1,2,Friendly,Podgorica,Montenegro,False
+2007-10-17,Estonia,Montenegro,0,1,Friendly,Tallinn,Estonia,False
+2008-03-26,Montenegro,Norway,3,1,Friendly,Podgorica,Montenegro,False
+2008-05-27,Montenegro,Kazakhstan,3,0,Friendly,Podgorica,Montenegro,False
+2008-05-31,Romania,Montenegro,4,0,Friendly,Bucharest,Romania,False
+2008-08-20,Hungary,Montenegro,3,3,Friendly,Budapest,Hungary,False
+2008-09-06,Montenegro,Bulgaria,2,2,FIFA World Cup qualification,Podgorica,Montenegro,False
+2008-09-10,Montenegro,Republic of Ireland,0,0,FIFA World Cup qualification,Podgorica,Montenegro,False
+2008-10-15,Italy,Montenegro,2,1,FIFA World Cup qualification,Lecce,Italy,False
+2008-11-19,Montenegro,North Macedonia,2,1,Friendly,Podgorica,Montenegro,False
+2009-03-28,Montenegro,Italy,0,2,FIFA World Cup qualification,Podgorica,Montenegro,False
+2009-04-01,Georgia,Montenegro,0,0,FIFA World Cup qualification,Tbilisi,Georgia,False
+2009-06-06,Cyprus,Montenegro,2,2,FIFA World Cup qualification,Larnaca,Cyprus,False
+2009-08-12,Montenegro,Wales,2,1,Friendly,Podgorica,Montenegro,False
+2009-09-05,Bulgaria,Montenegro,4,1,FIFA World Cup qualification,Sofia,Bulgaria,False
+2009-09-09,Montenegro,Cyprus,1,1,FIFA World Cup qualification,Podgorica,Montenegro,False
+2009-10-10,Montenegro,Georgia,2,1,FIFA World Cup qualification,Podgorica,Montenegro,False
+2009-10-14,Republic of Ireland,Montenegro,0,0,FIFA World Cup qualification,Dublin,Republic of Ireland,False
+2009-11-18,Montenegro,Belarus,1,0,Friendly,Podgorica,Montenegro,False
+2010-03-03,North Macedonia,Montenegro,2,1,Friendly,Skopje,North Macedonia,False
+2010-05-25,Montenegro,Albania,0,1,Friendly,Podgorica,Montenegro,False
+2010-05-29,Norway,Montenegro,2,1,Friendly,Oslo,Norway,False
+2010-08-11,Montenegro,Northern Ireland,2,0,Friendly,Podgorica,Montenegro,False
+2010-09-03,Montenegro,Wales,1,0,UEFA Euro qualification,Podgorica,Montenegro,False
+2010-09-07,Bulgaria,Montenegro,0,1,UEFA Euro qualification,Sofia,Bulgaria,False
+2010-10-08,Montenegro,Switzerland,1,0,UEFA Euro qualification,Podgorica,Montenegro,False
+2010-10-12,England,Montenegro,0,0,UEFA Euro qualification,London,England,False
+2010-11-17,Montenegro,Azerbaijan,2,0,Friendly,Podgorica,Montenegro,False
+2011-03-25,Montenegro,Uzbekistan,1,0,Friendly,Podgorica,Montenegro,False
+2011-06-04,Montenegro,Bulgaria,1,1,UEFA Euro qualification,Podgorica,Montenegro,False
+2011-08-10,Albania,Montenegro,3,2,Friendly,Shkodër,Albania,False
+2011-09-02,Wales,Montenegro,2,1,UEFA Euro qualification,Cardiff,Wales,False
+2011-10-07,Montenegro,England,2,2,UEFA Euro qualification,Podgorica,Montenegro,False
+2011-10-11,Switzerland,Montenegro,2,0,UEFA Euro qualification,Basel,Switzerland,False
+2011-11-11,Czech Republic,Montenegro,2,0,UEFA Euro qualification,Prague,Czech Republic,False
+2011-11-15,Montenegro,Czech Republic,0,1,UEFA Euro qualification,Podgorica,Montenegro,False
+2012-02-29,Montenegro,Iceland,2,1,Friendly,Podgorica,Montenegro,False
+2012-05-25,Belgium,Montenegro,2,2,Friendly,Brussels,Belgium,False
+2012-08-15,Montenegro,Latvia,2,0,Friendly,Podgorica,Montenegro,False
+2012-09-07,Montenegro,Poland,2,2,FIFA World Cup qualification,Podgorica,Montenegro,False
+2012-09-11,San Marino,Montenegro,0,6,FIFA World Cup qualification,Serravalle,San Marino,False
+2012-10-16,Ukraine,Montenegro,0,1,FIFA World Cup qualification,Kyiv,Ukraine,False
+2012-11-14,Montenegro,San Marino,3,0,FIFA World Cup qualification,Podgorica,Montenegro,False
+2013-03-22,Moldova,Montenegro,0,1,FIFA World Cup qualification,Chișinău,Moldova,False
+2013-03-26,Montenegro,England,1,1,FIFA World Cup qualification,Podgorica,Montenegro,False
+2013-06-07,Montenegro,Ukraine,0,4,FIFA World Cup qualification,Podgorica,Montenegro,False
+2013-08-14,Belarus,Montenegro,1,1,Friendly,Zhodzina,Belarus,False
+2013-09-06,Poland,Montenegro,1,1,FIFA World Cup qualification,Warsaw,Poland,False
+2013-10-11,England,Montenegro,4,1,FIFA World Cup qualification,London,England,False
+2013-10-15,Montenegro,Moldova,2,5,FIFA World Cup qualification,Podgorica,Montenegro,False
+2013-11-17,Luxembourg,Montenegro,1,4,Friendly,Luxembourg,Luxembourg,False
+2014-03-05,Montenegro,Ghana,1,0,Friendly,Podgorica,Montenegro,False
+2014-05-23,Slovakia,Montenegro,2,0,Friendly,Senec,Slovakia,False
+2014-05-26,Montenegro,Iran,0,0,Friendly,Hartberg,Austria,True
+2014-09-08,Montenegro,Moldova,2,0,UEFA Euro qualification,Podgorica,Montenegro,False
+2014-10-09,Liechtenstein,Montenegro,0,0,UEFA Euro qualification,Vaduz,Liechtenstein,False
+2014-10-12,Austria,Montenegro,1,0,UEFA Euro qualification,Vienna,Austria,False
+2014-11-15,Montenegro,Sweden,1,1,UEFA Euro qualification,Podgorica,Montenegro,False
+2015-06-08,Denmark,Montenegro,2,1,Friendly,Viborg,Denmark,False
+2015-06-14,Sweden,Montenegro,3,1,UEFA Euro qualification,Solna,Sweden,False
+2015-09-05,Montenegro,Liechtenstein,2,0,UEFA Euro qualification,Podgorica,Montenegro,False
+2015-09-08,Moldova,Montenegro,0,2,UEFA Euro qualification,Chișinău,Moldova,False
+2015-10-09,Montenegro,Austria,2,3,UEFA Euro qualification,Podgorica,Montenegro,False
+2015-10-12,Russia,Montenegro,2,0,UEFA Euro qualification,Moscow,Russia,False
+2015-11-12,North Macedonia,Montenegro,4,1,Friendly,Skopje,North Macedonia,False
+2016-03-24,Greece,Montenegro,2,1,Friendly,Piraeus,Greece,False
+2016-03-29,Montenegro,Belarus,0,0,Friendly,Podgorica,Montenegro,False
+2016-05-29,Turkey,Montenegro,1,0,Friendly,Antalya,Turkey,False
+2016-09-04,Romania,Montenegro,1,1,FIFA World Cup qualification,Cluj,Romania,False
+2016-10-08,Montenegro,Kazakhstan,5,0,FIFA World Cup qualification,Podgorica,Montenegro,False
+2016-10-11,Denmark,Montenegro,0,1,FIFA World Cup qualification,Copenhagen,Denmark,False
+2016-11-11,Armenia,Montenegro,3,2,FIFA World Cup qualification,Yerevan,Armenia,False
+2017-03-26,Montenegro,Poland,1,2,FIFA World Cup qualification,Podgorica,Montenegro,False
+2017-06-04,Montenegro,Iran,1,2,Friendly,Podgorica,Montenegro,False
+2017-06-10,Montenegro,Armenia,4,1,FIFA World Cup qualification,Podgorica,Montenegro,False
+2017-09-01,Kazakhstan,Montenegro,0,3,FIFA World Cup qualification,Astana,Kazakhstan,False
+2017-09-04,Montenegro,Romania,1,0,FIFA World Cup qualification,Podgorica,Montenegro,False
+2017-10-05,Montenegro,Denmark,0,1,FIFA World Cup qualification,Podgorica,Montenegro,False
+2017-10-08,Poland,Montenegro,4,2,FIFA World Cup qualification,Warsaw,Poland,False
+2018-03-23,Cyprus,Montenegro,0,0,Friendly,Nicosia,Cyprus,False
+2018-03-27,Montenegro,Turkey,2,2,Friendly,Podgorica,Montenegro,False
+2018-05-28,Bosnia and Herzegovina,Montenegro,0,0,Friendly,Zenica,Bosnia and Herzegovina,False
+2018-06-02,Montenegro,Slovenia,0,2,Friendly,Podgorica,Montenegro,False
+2018-09-07,Romania,Montenegro,0,0,UEFA Nations League,Ploiești,Romania,False
+2018-09-10,Montenegro,Lithuania,2,0,UEFA Nations League,Podgorica,Montenegro,False
+2018-10-11,Montenegro,Serbia,0,2,UEFA Nations League,Podgorica,Montenegro,False
+2018-10-14,Lithuania,Montenegro,1,4,UEFA Nations League,Vilnius,Lithuania,False
+2018-11-17,Serbia,Montenegro,2,1,UEFA Nations League,Belgrade,Serbia,False
+2018-11-20,Montenegro,Romania,0,1,UEFA Nations League,Podgorica,Montenegro,False
+2019-03-22,Bulgaria,Montenegro,1,1,UEFA Euro qualification,Sofia,Bulgaria,False
+2019-03-25,Montenegro,England,1,5,UEFA Euro qualification,Podgorica,Montenegro,False
+2019-06-07,Montenegro,Kosovo,1,1,UEFA Euro qualification,Podgorica,Montenegro,False
+2019-06-10,Czech Republic,Montenegro,3,0,UEFA Euro qualification,Olomouc,Czech Republic,False
+2019-09-05,Montenegro,Hungary,2,1,Friendly,Podgorica,Montenegro,False
+2019-09-10,Montenegro,Czech Republic,0,3,UEFA Euro qualification,Podgorica,Montenegro,False
+2019-10-11,Montenegro,Bulgaria,0,0,UEFA Euro qualification,Podgorica,Montenegro,False
+2019-10-14,Kosovo,Montenegro,2,0,UEFA Euro qualification,Pristina,Kosovo,False
+2019-11-14,England,Montenegro,7,0,UEFA Euro qualification,London,England,False
+2019-11-19,Montenegro,Belarus,2,0,Friendly,Podgorica,Montenegro,False
+2020-09-05,Cyprus,Montenegro,0,2,UEFA Nations League,Nicosia,Cyprus,False
+2020-09-08,Luxembourg,Montenegro,0,1,UEFA Nations League,Luxembourg,Luxembourg,False
+2020-10-07,Montenegro,Latvia,1,1,Friendly,Podgorica,Montenegro,False
+2020-10-10,Montenegro,Azerbaijan,2,0,UEFA Nations League,Podgorica,Montenegro,False
+2020-10-13,Montenegro,Luxembourg,1,2,UEFA Nations League,Podgorica,Montenegro,False
+2020-11-11,Montenegro,Kazakhstan,0,0,Friendly,Podgorica,Montenegro,False
+2020-11-14,Azerbaijan,Montenegro,0,0,UEFA Nations League,Zaprešić,Croatia,True
+2020-11-17,Montenegro,Cyprus,4,0,UEFA Nations League,Podgorica,Montenegro,False
+2021-03-24,Latvia,Montenegro,1,2,FIFA World Cup qualification,Riga,Latvia,False
+2021-03-27,Montenegro,Gibraltar,4,1,FIFA World Cup qualification,Podgorica,Montenegro,False
+2021-03-30,Montenegro,Norway,0,1,FIFA World Cup qualification,Podgorica,Montenegro,False
+2021-06-02,Bosnia and Herzegovina,Montenegro,0,0,Friendly,Sarajevo,Bosnia and Herzegovina,False
+2021-06-05,Montenegro,Israel,1,3,Friendly,Podgorica,Montenegro,False
+2021-09-01,Turkey,Montenegro,2,2,FIFA World Cup qualification,Istanbul,Turkey,False
+2021-09-04,Netherlands,Montenegro,4,0,FIFA World Cup qualification,Eindhoven,Netherlands,False
+2021-09-07,Montenegro,Latvia,0,0,FIFA World Cup qualification,Podgorica,Montenegro,False
+2021-10-08,Gibraltar,Montenegro,0,3,FIFA World Cup qualification,Gibraltar,Gibraltar,False
+2021-10-11,Norway,Montenegro,2,0,FIFA World Cup qualification,Oslo,Norway,False
+2021-11-13,Montenegro,Netherlands,2,2,FIFA World Cup qualification,Podgorica,Montenegro,False
+2021-11-16,Montenegro,Turkey,1,2,FIFA World Cup qualification,Podgorica,Montenegro,False
+2022-03-24,Armenia,Montenegro,1,0,Friendly,Yerevan,Armenia,False
+2022-03-28,Montenegro,Greece,1,0,Friendly,Podgorica,Montenegro,False
+2022-06-04,Montenegro,Romania,2,0,UEFA Nations League,Podgorica,Montenegro,False
+2022-06-07,Finland,Montenegro,2,0,UEFA Nations League,Helsinki,Finland,False
+2022-06-11,Montenegro,Bosnia and Herzegovina,1,1,UEFA Nations League,Podgorica,Montenegro,False
+2022-06-14,Romania,Montenegro,0,3,UEFA Nations League,Bucharest,Romania,False
+2022-09-23,Bosnia and Herzegovina,Montenegro,1,0,UEFA Nations League,Zenica,Bosnia and Herzegovina,False
+2022-09-26,Montenegro,Finland,0,2,UEFA Nations League,Podgorica,Montenegro,False
+2022-11-17,Montenegro,Slovakia,2,2,Friendly,Podgorica,Montenegro,False
+2022-11-20,Slovenia,Montenegro,1,0,Friendly,Ljubljana,Slovenia,False
+2023-03-24,Bulgaria,Montenegro,0,1,UEFA Euro qualification,Razgrad,Bulgaria,False
+2023-03-27,Montenegro,Serbia,0,2,UEFA Euro qualification,Podgorica,Montenegro,False
+2023-06-17,Montenegro,Hungary,0,0,UEFA Euro qualification,Podgorica,Montenegro,False
+2023-06-20,Montenegro,Czech Republic,1,4,Friendly,Podgorica,Montenegro,False
+2023-09-07,Lithuania,Montenegro,2,2,UEFA Euro qualification,Kaunas,Lithuania,False
+2023-09-10,Montenegro,Bulgaria,2,1,UEFA Euro qualification,Podgorica,Montenegro,False
+2023-10-12,Montenegro,Lebanon,3,2,Friendly,Podgorica,Montenegro,False
+2023-10-17,Serbia,Montenegro,3,1,UEFA Euro qualification,Belgrade,Serbia,False
+2023-11-16,Montenegro,Lithuania,2,0,UEFA Euro qualification,Podgorica,Montenegro,False
+2023-11-19,Hungary,Montenegro,3,1,UEFA Euro qualification,Budapest,Hungary,False
+2024-03-21,Montenegro,Belarus,2,0,Friendly,Antalya,Turkey,True
+2024-03-25,Montenegro,North Macedonia,1,0,Friendly,Antalya,Turkey,True
+2024-06-05,Belgium,Montenegro,2,0,Friendly,Brussels,Belgium,False
+2024-06-09,Montenegro,Georgia,1,3,Friendly,Podgorica,Montenegro,False
+2024-09-06,Iceland,Montenegro,2,0,UEFA Nations League,Reykjavík,Iceland,False
+2024-09-09,Montenegro,Wales,1,2,UEFA Nations League,Nikšić,Montenegro,False
+2024-10-11,Turkey,Montenegro,1,0,UEFA Nations League,Tekkeköy,Turkey,False
+2024-10-14,Wales,Montenegro,1,0,UEFA Nations League,Cardiff,Wales,False
+2024-11-16,Montenegro,Iceland,0,2,UEFA Nations League,Nikšić,Montenegro,False
+2024-11-19,Montenegro,Turkey,3,1,UEFA Nations League,Podgorica,Montenegro,False
+2025-03-22,Montenegro,Gibraltar,3,1,FIFA World Cup qualification,Nikšić,Montenegro,False
+2025-03-25,Montenegro,Faroe Islands,1,0,FIFA World Cup qualification,Nikšić,Montenegro,False

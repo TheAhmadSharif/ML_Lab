@@ -1,0 +1,17 @@
+––––––––––––––––––– 09 May 2025
+
+https://soccermatics.readthedocs.io/en/latest/gallery/lesson9/plot_ClusteringPlayers.html
+
+
+https://github.com/statsbomb/open-data
+https://figshare.com/collections/Soccer_match_event_dataset/4415000/2
+https://www.nature.com/articles/s41597-019-0247-7
+https://figshare.com/search?q=:keyword:%20%22Sports%20Analytics%22
+
+https://www.youtube.com/watch?v=YNB87k9p4tA
+https://www.youtube.com/watch?v=0A5nQOQIHLM&list=PL10a1_q15HwoGl4rQ2ENyr52MidoERQMC
+https://plotsalot.slashml.com/blogs/basketball-sports-analytics#the-formula-approach
+
+https://moontowermeta.com/sports-analytics-books/
+
+https://github.com/eddwebster/football_analytics

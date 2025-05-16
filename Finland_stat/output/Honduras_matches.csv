@@ -1,0 +1,606 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1927-11-07,Honduras,El Salvador,1,0,Friendly,Tegucigalpa,Honduras,False
+1927-11-08,Honduras,El Salvador,0,0,Friendly,Tegucigalpa,Honduras,False
+1928-12-07,El Salvador,Honduras,5,0,Friendly,San Salvador,El Salvador,False
+1930-03-18,Honduras,Jamaica,5,4,Central American and Caribbean Games,Havana,Cuba,True
+1930-03-20,Cuba,Honduras,7,0,Central American and Caribbean Games,Havana,Cuba,False
+1930-03-23,Cuba,Honduras,5,0,Central American and Caribbean Games,Havana,Cuba,False
+1930-03-29,El Salvador,Honduras,1,4,Central American and Caribbean Games,Havana,Cuba,True
+1930-04-04,Costa Rica,Honduras,8,0,Central American and Caribbean Games,Havana,Cuba,True
+1935-03-25,Cuba,Honduras,3,0,Central American and Caribbean Games,San Salvador,El Salvador,True
+1935-03-28,El Salvador,Honduras,3,4,Central American and Caribbean Games,San Salvador,El Salvador,False
+1935-03-31,Honduras,Guatemala,0,0,Central American and Caribbean Games,San Salvador,El Salvador,True
+1935-04-01,Mexico,Honduras,8,2,Central American and Caribbean Games,San Salvador,El Salvador,True
+1935-04-03,Costa Rica,Honduras,6,0,Central American and Caribbean Games,San Salvador,El Salvador,True
+1937-10-11,El Salvador,Honduras,3,2,Friendly,San Salvador,El Salvador,False
+1946-02-23,Panama,Honduras,1,0,CCCF Championship,San José,Costa Rica,True
+1946-02-28,Honduras,Guatemala,5,3,CCCF Championship,San José,Costa Rica,True
+1946-03-07,Costa Rica,Honduras,5,1,CCCF Championship,San José,Costa Rica,False
+1946-03-10,El Salvador,Honduras,3,1,CCCF Championship,San José,Costa Rica,True
+1946-03-13,Honduras,Nicaragua,10,0,CCCF Championship,San José,Costa Rica,True
+1953-03-08,Honduras,Nicaragua,2,1,CCCF Championship,San José,Costa Rica,True
+1953-03-11,Guatemala,Honduras,1,0,CCCF Championship,San José,Costa Rica,True
+1953-03-13,Costa Rica,Honduras,4,1,CCCF Championship,San José,Costa Rica,False
+1953-03-15,El Salvador,Honduras,0,3,CCCF Championship,San José,Costa Rica,True
+1953-03-19,Curaçao,Honduras,3,4,CCCF Championship,San José,Costa Rica,True
+1953-03-21,Honduras,Panama,3,1,CCCF Championship,San José,Costa Rica,True
+1955-06-18,El Salvador,Honduras,2,2,Friendly,San Salvador,El Salvador,False
+1955-06-19,El Salvador,Honduras,0,0,Friendly,San Salvador,El Salvador,False
+1955-08-14,Honduras,Cuba,3,0,CCCF Championship,Tegucigalpa,Honduras,False
+1955-08-17,Honduras,El Salvador,3,1,CCCF Championship,Tegucigalpa,Honduras,False
+1955-08-20,Honduras,Curaçao,0,2,CCCF Championship,Tegucigalpa,Honduras,False
+1955-08-22,Honduras,Aruba,1,1,CCCF Championship,Tegucigalpa,Honduras,False
+1955-08-28,Honduras,Costa Rica,1,2,CCCF Championship,Tegucigalpa,Honduras,False
+1957-08-21,Cuba,Honduras,0,2,CCCF Championship,Willemstad,Curaçao,True
+1957-08-25,Curaçao,Honduras,1,1,CCCF Championship,Willemstad,Curaçao,False
+1959-12-13,El Salvador,Honduras,1,0,Friendly,San Salvador,El Salvador,False
+1959-12-14,Costa Rica,Honduras,6,1,Friendly,San Salvador,El Salvador,True
+1960-02-19,Honduras,Curaçao,3,3,CCCF Championship,Havana,Cuba,True
+1960-09-04,Honduras,Costa Rica,2,1,FIFA World Cup qualification,Tegucigalpa,Honduras,False
+1960-09-11,Costa Rica,Honduras,5,0,FIFA World Cup qualification,San José,Costa Rica,False
+1960-09-25,Honduras,Guatemala,1,1,FIFA World Cup qualification,Tegucigalpa,Honduras,False
+1961-01-14,Costa Rica,Honduras,1,0,FIFA World Cup qualification,Guatemala City,Guatemala,True
+1961-03-10,Curaçao,Honduras,2,4,CCCF Championship,San José,Costa Rica,True
+1961-03-17,Haiti,Honduras,0,2,CCCF Championship,San José,Costa Rica,True
+1963-03-02,Guatemala,Honduras,1,2,Friendly,Guatemala City,Guatemala,False
+1963-03-10,Guatemala,Honduras,2,1,Friendly,Guatemala City,Guatemala,False
+1963-03-25,Honduras,Nicaragua,1,0,CONCACAF Championship,San Salvador,El Salvador,True
+1963-03-27,El Salvador,Honduras,2,2,CONCACAF Championship,San Salvador,El Salvador,False
+1963-03-29,Guatemala,Honduras,1,2,CONCACAF Championship,San Salvador,El Salvador,True
+1963-03-31,Panama,Honduras,0,1,CONCACAF Championship,San Salvador,El Salvador,True
+1963-04-03,Honduras,Curaçao,1,4,CONCACAF Championship,San Salvador,El Salvador,True
+1963-04-05,El Salvador,Honduras,3,0,CONCACAF Championship,San Salvador,El Salvador,False
+1963-04-07,Costa Rica,Honduras,2,1,CONCACAF Championship,San Salvador,El Salvador,True
+1965-02-28,Honduras,Mexico,0,1,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+1965-03-04,Mexico,Honduras,3,0,FIFA World Cup qualification,Mexico City,Mexico,False
+1965-03-11,Honduras,Nicaragua,0,2,CONCACAF Championship qualification,San Salvador,El Salvador,True
+1965-03-14,El Salvador,Honduras,3,1,CONCACAF Championship qualification,San Salvador,El Salvador,False
+1965-03-17,Honduras,United States,0,1,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+1965-03-21,Honduras,United States,1,1,FIFA World Cup qualification,Tegucigalpa,Honduras,False
+1965-07-11,Honduras,Costa Rica,1,1,Friendly,Tegucigalpa,Honduras,False
+1967-01-18,Guatemala,Honduras,3,1,Friendly,Guatemala City,Guatemala,False
+1967-01-22,Honduras,Guatemala,1,1,Friendly,Tegucigalpa,Honduras,False
+1967-03-05,Honduras,Trinidad and Tobago,1,0,CONCACAF Championship,Tegucigalpa,Honduras,False
+1967-03-08,Honduras,Nicaragua,1,1,CONCACAF Championship,Tegucigalpa,Honduras,False
+1967-03-12,Honduras,Guatemala,0,0,CONCACAF Championship,Tegucigalpa,Honduras,False
+1967-03-17,Honduras,Haiti,2,0,CONCACAF Championship,Tegucigalpa,Honduras,False
+1967-03-19,Honduras,Mexico,0,1,CONCACAF Championship,Tegucigalpa,Honduras,False
+1968-07-17,Honduras,El Salvador,0,0,Friendly,Tegucigalpa,Honduras,False
+1968-07-31,El Salvador,Honduras,2,1,Friendly,San Salvador,El Salvador,False
+1968-12-05,Honduras,Jamaica,3,1,FIFA World Cup qualification,Tegucigalpa,Honduras,False
+1968-12-08,Honduras,Jamaica,2,0,FIFA World Cup qualification,Tegucigalpa,Honduras,False
+1968-12-22,Honduras,Costa Rica,1,0,FIFA World Cup qualification,Tegucigalpa,Honduras,False
+1968-12-29,Costa Rica,Honduras,1,1,FIFA World Cup qualification,San José,Costa Rica,False
+1969-06-08,Honduras,El Salvador,1,0,FIFA World Cup qualification,Tegucigalpa,Honduras,False
+1969-06-15,El Salvador,Honduras,3,0,FIFA World Cup qualification,San Salvador,El Salvador,False
+1969-06-27,Honduras,El Salvador,2,3,FIFA World Cup qualification,Mexico City,Mexico,True
+1970-06-13,Honduras,Panama,1,0,Friendly,El Progreso,Honduras,False
+1971-09-05,Honduras,Guatemala,1,0,CONCACAF Championship qualification,Tegucigalpa,Honduras,False
+1971-09-12,Guatemala,Honduras,1,1,CONCACAF Championship qualification,Guatemala City,Guatemala,False
+1971-11-21,Trinidad and Tobago,Honduras,1,1,CONCACAF Championship,San Fernando,Trinidad and Tobago,False
+1971-11-23,Cuba,Honduras,3,1,CONCACAF Championship,Port of Spain,Trinidad and Tobago,True
+1971-11-27,Costa Rica,Honduras,2,1,CONCACAF Championship,Port of Spain,Trinidad and Tobago,True
+1971-12-01,Haiti,Honduras,3,1,CONCACAF Championship,Port of Spain,Trinidad and Tobago,True
+1971-12-04,Honduras,Mexico,1,2,CONCACAF Championship,Port of Spain,Trinidad and Tobago,True
+1972-12-03,Honduras,Costa Rica,2,1,CONCACAF Championship qualification,Tegucigalpa,Honduras,False
+1972-12-10,Costa Rica,Honduras,3,3,CONCACAF Championship qualification,San José,Costa Rica,False
+1973-11-29,Honduras,Trinidad and Tobago,2,1,CONCACAF Championship,Port-au-Prince,Haiti,True
+1973-12-03,Honduras,Mexico,1,1,CONCACAF Championship,Port-au-Prince,Haiti,True
+1973-12-07,Haiti,Honduras,1,0,CONCACAF Championship,Port-au-Prince,Haiti,False
+1973-12-12,Honduras,Curaçao,2,2,CONCACAF Championship,Port-au-Prince,Haiti,True
+1973-12-15,Guatemala,Honduras,1,1,CONCACAF Championship,Port-au-Prince,Haiti,True
+1977-06-06,Honduras,Panama,1,0,Friendly,Tegucigalpa,Honduras,False
+1980-03-06,Honduras,Costa Rica,1,1,Friendly,Tegucigalpa,Honduras,False
+1980-03-18,Honduras,Mexico,0,1,Friendly,Tegucigalpa,Honduras,False
+1980-04-08,Mexico,Honduras,5,0,Friendly,Toluca,Mexico,False
+1980-04-16,Costa Rica,Honduras,1,1,Friendly,San José,Costa Rica,False
+1980-06-06,Honduras,Haiti,3,1,Friendly,Tegucigalpa,Honduras,False
+1980-06-10,Honduras,Haiti,1,0,Friendly,San Pedro Sula,Honduras,False
+1980-06-13,Honduras,Panama,0,0,Friendly,Tegucigalpa,Honduras,False
+1980-06-15,Honduras,Panama,2,0,Friendly,Tegucigalpa,Honduras,False
+1980-07-16,Guatemala,Honduras,1,1,Friendly,Guatemala City,Guatemala,False
+1980-07-30,Panama,Honduras,0,2,CONCACAF Championship qualification,Panama City,Panama,False
+1980-10-01,Costa Rica,Honduras,2,3,CONCACAF Championship qualification,San José,Costa Rica,False
+1980-10-26,Honduras,Guatemala,0,0,CONCACAF Championship qualification,Tegucigalpa,Honduras,False
+1980-11-09,Honduras,Canada,2,0,Friendly,Tegucigalpa,Honduras,False
+1980-11-16,Honduras,Costa Rica,1,1,CONCACAF Championship qualification,Tegucigalpa,Honduras,False
+1980-11-23,El Salvador,Honduras,2,1,CONCACAF Championship qualification,San Salvador,El Salvador,False
+1980-11-30,Honduras,El Salvador,2,0,CONCACAF Championship qualification,Tegucigalpa,Honduras,False
+1980-12-07,Guatemala,Honduras,0,1,CONCACAF Championship qualification,Guatemala City,Guatemala,False
+1980-12-14,Honduras,Panama,5,0,CONCACAF Championship qualification,Tegucigalpa,Honduras,False
+1981-11-03,Honduras,Haiti,4,0,CONCACAF Championship,Tegucigalpa,Honduras,False
+1981-11-08,Honduras,Cuba,2,0,CONCACAF Championship,Tegucigalpa,Honduras,False
+1981-11-12,Honduras,Canada,2,1,CONCACAF Championship,Tegucigalpa,Honduras,False
+1981-11-16,Honduras,El Salvador,0,0,CONCACAF Championship,Tegucigalpa,Honduras,False
+1981-11-22,Honduras,Mexico,0,0,CONCACAF Championship,Tegucigalpa,Honduras,False
+1982-03-01,United Arab Emirates,Honduras,0,1,Friendly,Abu Dhabi,United Arab Emirates,False
+1982-03-03,United Arab Emirates,Honduras,0,0,Friendly,Abu Dhabi,United Arab Emirates,False
+1982-04-18,El Salvador,Honduras,3,2,Friendly,San Salvador,El Salvador,False
+1982-04-22,Honduras,El Salvador,1,1,Friendly,San Pedro Sula,Honduras,False
+1982-06-16,Spain,Honduras,1,1,FIFA World Cup,Valencia,Spain,False
+1982-06-21,Honduras,Northern Ireland,1,1,FIFA World Cup,Zaragoza,Spain,True
+1982-06-24,Honduras,Yugoslavia,0,1,FIFA World Cup,Zaragoza,Spain,True
+1983-05-03,Guatemala,Honduras,0,2,Friendly,Guatemala City,Guatemala,False
+1983-12-11,Honduras,Canada,3,1,Friendly,San Pedro Sula,Honduras,False
+1983-12-14,Honduras,Canada,1,0,Friendly,Tegucigalpa,Honduras,False
+1984-02-26,Peru,Honduras,1,3,Friendly,Lima,Peru,False
+1984-06-15,Panama,Honduras,0,3,CONCACAF Championship qualification,Colón,Panama,False
+1984-06-24,Honduras,Panama,1,0,CONCACAF Championship qualification,Tegucigalpa,Honduras,False
+1984-10-03,Honduras,Guatemala,1,0,Friendly,Tegucigalpa,Honduras,False
+1984-12-07,Honduras,Ecuador,0,0,Friendly,Tegucigalpa,Honduras,False
+1984-12-16,Guatemala,Honduras,1,0,Friendly,Guatemala City,Guatemala,False
+1985-01-27,Honduras,Denmark,1,0,Friendly,Tegucigalpa,Honduras,False
+1985-03-03,Honduras,Suriname,1,1,CONCACAF Championship,Tegucigalpa,Honduras,False
+1985-03-06,Honduras,Suriname,2,1,CONCACAF Championship,Tegucigalpa,Honduras,False
+1985-03-10,El Salvador,Honduras,1,2,CONCACAF Championship,San Salvador,El Salvador,False
+1985-03-14,Honduras,El Salvador,0,0,CONCACAF Championship,Tegucigalpa,Honduras,False
+1985-08-11,Costa Rica,Honduras,2,2,CONCACAF Championship,San José,Costa Rica,False
+1985-08-25,Honduras,Canada,0,1,CONCACAF Championship,Tegucigalpa,Honduras,False
+1985-09-08,Honduras,Costa Rica,3,1,CONCACAF Championship,Tegucigalpa,Honduras,False
+1985-09-14,Canada,Honduras,2,1,CONCACAF Championship,St. John's,Canada,False
+1986-10-28,Honduras,Panama,1,0,Friendly,Managua,Nicaragua,True
+1987-04-29,Honduras,El Salvador,1,0,Friendly,Tegucigalpa,Honduras,False
+1987-05-06,El Salvador,Honduras,1,2,Friendly,San Salvador,El Salvador,False
+1987-10-02,Honduras,Canada,1,1,Friendly,Tegucigalpa,Honduras,False
+1988-01-13,Honduras,Mexico,0,1,Friendly,San Pedro Sula,Honduras,False
+1988-03-18,El Salvador,Honduras,0,0,Friendly,Los Angeles,United States,True
+1988-04-26,Mexico,Honduras,4,1,Friendly,Ciudad Victoria,Mexico,False
+1988-06-15,Honduras,Ecuador,1,1,Friendly,Tegucigalpa,Honduras,False
+1988-06-17,Honduras,Ecuador,0,1,Friendly,Tegucigalpa,Honduras,False
+1988-09-12,Honduras,Paraguay,0,0,Friendly,San Pedro Sula,Honduras,False
+1988-09-15,Honduras,Paraguay,0,2,Friendly,Tegucigalpa,Honduras,False
+1988-09-25,El Salvador,Honduras,0,0,Friendly,Los Angeles,United States,True
+1988-10-30,Trinidad and Tobago,Honduras,0,0,CONCACAF Championship qualification,Port of Spain,Trinidad and Tobago,False
+1988-11-13,Honduras,Trinidad and Tobago,1,1,CONCACAF Championship qualification,Tegucigalpa,Honduras,False
+1991-05-12,Panama,Honduras,2,0,UNCAF Cup,Panama City,Panama,False
+1991-05-18,Honduras,Panama,3,0,UNCAF Cup,San Pedro Sula,Honduras,False
+1991-05-26,Costa Rica,Honduras,2,0,UNCAF Cup,San José,Costa Rica,False
+1991-05-29,Guatemala,Honduras,0,0,UNCAF Cup,San José,Costa Rica,True
+1991-06-02,Honduras,El Salvador,2,1,UNCAF Cup,San José,Costa Rica,True
+1991-06-28,Canada,Honduras,2,4,Gold Cup,Los Angeles,United States,True
+1991-06-30,Jamaica,Honduras,0,5,Gold Cup,Los Angeles,United States,True
+1991-07-02,Mexico,Honduras,1,1,Gold Cup,Los Angeles,United States,True
+1991-07-05,Honduras,Costa Rica,2,0,Gold Cup,Los Angeles,United States,True
+1991-07-07,United States,Honduras,0,0,Gold Cup,Los Angeles,United States,False
+1992-03-17,El Salvador,Honduras,1,1,Friendly,Los Angeles,United States,True
+1992-06-28,Honduras,Panama,4,0,Friendly,Tegucigalpa,Honduras,False
+1992-06-30,Honduras,Panama,4,0,Friendly,San Pedro Sula,Honduras,False
+1992-07-19,Guatemala,Honduras,0,0,FIFA World Cup qualification,Guatemala City,Guatemala,False
+1992-07-26,Honduras,Guatemala,2,0,FIFA World Cup qualification,Tegucigalpa,Honduras,False
+1992-08-12,El Salvador,Honduras,0,3,Friendly,Los Angeles,United States,True
+1992-09-13,El Salvador,Honduras,3,1,Friendly,San Salvador,El Salvador,False
+1992-09-18,Honduras,El Salvador,1,1,Friendly,San Pedro Sula,Honduras,False
+1992-09-22,Honduras,Jamaica,5,1,Friendly,Tegucigalpa,Honduras,False
+1992-09-24,Honduras,Jamaica,7,0,Friendly,San Pedro Sula,Honduras,False
+1992-11-08,Costa Rica,Honduras,2,3,FIFA World Cup qualification,San José,Costa Rica,False
+1992-11-15,Mexico,Honduras,2,0,FIFA World Cup qualification,Mexico City,Mexico,False
+1992-11-22,Saint Vincent and the Grenadines,Honduras,0,4,FIFA World Cup qualification,Kingstown,Saint Vincent and the Grenadines,False
+1992-11-28,Honduras,Saint Vincent and the Grenadines,4,0,FIFA World Cup qualification,Tegucigalpa,Honduras,False
+1992-12-05,Honduras,Costa Rica,2,1,FIFA World Cup qualification,Tegucigalpa,Honduras,False
+1992-12-13,Honduras,Mexico,1,1,FIFA World Cup qualification,Tegucigalpa,Honduras,False
+1993-01-27,Peru,Honduras,1,1,Friendly,Lima,Peru,False
+1993-01-29,Bolivia,Honduras,3,1,Friendly,Cochabamba,Bolivia,False
+1993-03-05,Honduras,Panama,2,0,UNCAF Cup,Tegucigalpa,Honduras,False
+1993-03-07,Honduras,Costa Rica,2,0,UNCAF Cup,Tegucigalpa,Honduras,False
+1993-03-09,Honduras,El Salvador,3,0,UNCAF Cup,Tegucigalpa,Honduras,False
+1993-03-14,Honduras,Bolivia,0,0,Friendly,San Pedro Sula,Honduras,False
+1993-03-16,Honduras,Bolivia,0,0,Friendly,Tegucigalpa,Honduras,False
+1993-03-25,Honduras,United States,4,1,Friendly,Tegucigalpa,Honduras,False
+1993-04-04,Honduras,Canada,2,2,FIFA World Cup qualification,Tegucigalpa,Honduras,False
+1993-04-11,Mexico,Honduras,3,0,FIFA World Cup qualification,Mexico City,Mexico,False
+1993-04-18,Canada,Honduras,3,1,FIFA World Cup qualification,Burnaby,Canada,False
+1993-04-25,Honduras,El Salvador,2,0,FIFA World Cup qualification,Tegucigalpa,Honduras,False
+1993-05-02,Honduras,Mexico,1,4,FIFA World Cup qualification,Tegucigalpa,Honduras,False
+1993-05-09,El Salvador,Honduras,2,1,FIFA World Cup qualification,San Salvador,El Salvador,False
+1993-07-10,Honduras,Panama,5,1,Gold Cup,Dallas,United States,True
+1993-07-14,Honduras,Jamaica,1,3,Gold Cup,Dallas,United States,True
+1993-07-17,United States,Honduras,1,0,Gold Cup,Dallas,United States,False
+1994-05-03,El Salvador,Honduras,3,1,Miami Cup,Miami,United States,True
+1994-05-05,Honduras,Peru,2,1,Miami Cup,Miami,United States,True
+1994-06-08,Honduras,Brazil,2,8,Friendly,San Diego,United States,True
+1994-06-11,Honduras,South Korea,0,3,Friendly,Duncanville,United States,True
+1994-12-11,United States,Honduras,1,1,Friendly,Fullerton,United States,False
+1995-03-29,Brazil,Honduras,1,1,Friendly,Goiânia,Brazil,False
+1995-06-11,Honduras,Turkey,0,1,Friendly,Toronto,Canada,True
+1995-10-18,Jamaica,Honduras,1,0,Friendly,Kingston,Jamaica,False
+1995-11-29,Honduras,Panama,2,0,UNCAF Cup,Santa Ana,El Salvador,True
+1995-12-03,Honduras,Guatemala,2,0,UNCAF Cup,Santa Ana,El Salvador,True
+1995-12-07,Honduras,Costa Rica,1,1,UNCAF Cup,San Salvador,El Salvador,True
+1995-12-10,Honduras,Guatemala,3,0,UNCAF Cup,San Salvador,El Salvador,True
+1996-01-10,Canada,Honduras,3,1,Gold Cup,Anaheim,United States,True
+1996-01-14,Honduras,Brazil,0,5,Gold Cup,Los Angeles,United States,True
+1996-03-06,Colombia,Honduras,2,1,Friendly,Miami,United States,True
+1996-03-27,Honduras,Nicaragua,1,0,Friendly,Danlí,Honduras,False
+1996-06-22,Honduras,Venezuela,1,0,Friendly,San Pedro Sula,Honduras,False
+1996-07-24,Honduras,Panama,1,1,Friendly,Tegucigalpa,Honduras,False
+1996-07-28,Honduras,Trinidad and Tobago,0,0,Friendly,Tegucigalpa,Honduras,False
+1996-08-04,Costa Rica,Honduras,1,1,Friendly,San José,Costa Rica,False
+1996-08-07,Panama,Honduras,2,1,Friendly,Panama City,Panama,False
+1996-08-11,Honduras,Costa Rica,0,0,Friendly,Tegucigalpa,Honduras,False
+1996-08-14,Honduras,El Salvador,2,1,Friendly,San Pedro Sula,Honduras,False
+1996-08-18,Guatemala,Honduras,1,1,Friendly,Monterey Park,United States,True
+1996-08-21,El Salvador,Honduras,1,2,Friendly,San Salvador,El Salvador,False
+1996-08-25,Honduras,Cuba,4,0,Friendly,Tegucigalpa,Honduras,False
+1996-08-28,Honduras,Cuba,2,2,Friendly,San Pedro Sula,Honduras,False
+1996-09-15,Jamaica,Honduras,3,0,FIFA World Cup qualification,Kingston,Jamaica,False
+1996-09-21,Honduras,Mexico,2,1,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+1996-10-13,Saint Vincent and the Grenadines,Honduras,1,4,FIFA World Cup qualification,Kingstown,Saint Vincent and the Grenadines,False
+1996-10-21,Honduras,El Salvador,1,1,Friendly,Tegucigalpa,Honduras,False
+1996-10-26,Honduras,Jamaica,0,0,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+1996-11-01,Honduras,Colombia,1,2,Friendly,New York,United States,True
+1996-11-06,Mexico,Honduras,3,1,FIFA World Cup qualification,Mexico City,Mexico,False
+1996-11-17,Honduras,Saint Vincent and the Grenadines,11,3,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+1997-01-26,Chile,Honduras,3,2,Friendly,Santiago,Chile,False
+1997-04-16,Honduras,Panama,5,0,UNCAF Cup,Guatemala City,Guatemala,True
+1997-04-18,Honduras,El Salvador,3,0,UNCAF Cup,Guatemala City,Guatemala,True
+1997-04-23,Honduras,Costa Rica,0,4,UNCAF Cup,Guatemala City,Guatemala,True
+1997-04-25,Guatemala,Honduras,1,0,UNCAF Cup,Guatemala City,Guatemala,False
+1997-04-27,Honduras,El Salvador,0,0,UNCAF Cup,Guatemala City,Guatemala,True
+1998-01-21,Costa Rica,Honduras,1,4,Friendly,Nicoya,Costa Rica,False
+1998-02-01,Honduras,Trinidad and Tobago,1,3,Gold Cup,Oakland,United States,True
+1998-02-07,Mexico,Honduras,2,0,Gold Cup,Oakland,United States,True
+1998-11-17,Guatemala,Honduras,3,3,Friendly,Los Angeles,United States,True
+1998-11-18,El Salvador,Honduras,1,2,Friendly,Los Angeles,United States,True
+1999-03-19,Honduras,Belize,5,1,UNCAF Cup,San José,Costa Rica,True
+1999-03-21,Costa Rica,Honduras,0,1,UNCAF Cup,San José,Costa Rica,False
+1999-03-24,Honduras,El Salvador,3,1,UNCAF Cup,San José,Costa Rica,True
+1999-03-26,Costa Rica,Honduras,1,2,UNCAF Cup,San José,Costa Rica,False
+1999-03-28,Honduras,Guatemala,0,2,UNCAF Cup,San José,Costa Rica,True
+1999-05-21,Haiti,Honduras,0,2,Friendly,Miami,United States,True
+1999-11-17,Honduras,Trinidad and Tobago,3,2,Friendly,San Pedro Sula,Honduras,False
+1999-12-01,Peru,Honduras,0,0,Friendly,Lima,Peru,False
+1999-12-16,Honduras,Zambia,7,1,Friendly,San Pedro Sula,Honduras,False
+1999-12-29,Costa Rica,Honduras,1,1,Friendly,Alajuela,Costa Rica,False
+2000-02-09,Honduras,El Salvador,5,1,Friendly,San Pedro Sula,Honduras,False
+2000-02-14,Jamaica,Honduras,0,2,Gold Cup,Miami,United States,True
+2000-02-16,Honduras,Colombia,2,0,Gold Cup,Miami,United States,True
+2000-02-19,Honduras,Peru,3,5,Gold Cup,Miami,United States,True
+2000-03-04,Honduras,Nicaragua,3,0,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2000-03-08,Ecuador,Honduras,1,3,Friendly,Quito,Ecuador,False
+2000-03-22,Chile,Honduras,5,2,Friendly,Santiago,Chile,False
+2000-04-02,Panama,Honduras,1,0,FIFA World Cup qualification,Panama City,Panama,False
+2000-04-16,Nicaragua,Honduras,0,1,FIFA World Cup qualification,Diriamba,Nicaragua,False
+2000-05-07,Honduras,Panama,3,1,FIFA World Cup qualification,Tegucigalpa,Honduras,False
+2000-05-30,Canada,Honduras,2,1,Friendly,Winnipeg,Canada,False
+2000-06-03,Honduras,Haiti,4,0,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2000-06-17,Haiti,Honduras,1,3,FIFA World Cup qualification,Port-au-Prince,Haiti,False
+2000-07-16,El Salvador,Honduras,2,5,FIFA World Cup qualification,San Salvador,El Salvador,False
+2000-07-23,Jamaica,Honduras,3,1,FIFA World Cup qualification,Kingston,Jamaica,False
+2000-08-16,Honduras,Saint Vincent and the Grenadines,6,0,FIFA World Cup qualification,Tegucigalpa,Honduras,False
+2000-08-20,Haiti,Honduras,0,4,Friendly,New York,United States,True
+2000-09-02,Honduras,El Salvador,5,0,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2000-10-08,Honduras,Jamaica,1,0,FIFA World Cup qualification,Tegucigalpa,Honduras,False
+2000-11-14,Saint Vincent and the Grenadines,Honduras,0,7,FIFA World Cup qualification,Kingstown,Saint Vincent and the Grenadines,False
+2001-02-28,Costa Rica,Honduras,2,2,FIFA World Cup qualification,San José,Costa Rica,False
+2001-03-07,Honduras,Peru,0,0,Friendly,Miami,United States,True
+2001-03-21,Honduras,Chile,3,1,Friendly,San Pedro Sula,Honduras,False
+2001-03-28,Honduras,United States,1,2,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2001-04-25,Jamaica,Honduras,1,1,FIFA World Cup qualification,Kingston,Jamaica,False
+2001-05-23,Honduras,Panama,1,2,UNCAF Cup,San Pedro Sula,Honduras,False
+2001-05-25,Honduras,Nicaragua,10,2,UNCAF Cup,Tegucigalpa,Honduras,False
+2001-05-27,Honduras,El Salvador,1,1,UNCAF Cup,San Pedro Sula,Honduras,False
+2001-06-16,Trinidad and Tobago,Honduras,2,4,FIFA World Cup qualification,Port of Spain,Trinidad and Tobago,False
+2001-06-20,Honduras,Mexico,3,1,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2001-07-01,Honduras,Costa Rica,2,3,FIFA World Cup qualification,Tegucigalpa,Honduras,False
+2001-07-07,Honduras,Ecuador,1,1,Friendly,Miami,United States,True
+2001-07-13,Honduras,Costa Rica,0,1,Copa América,Medellín,Colombia,True
+2001-07-16,Honduras,Bolivia,2,0,Copa América,Medellín,Colombia,True
+2001-07-19,Honduras,Uruguay,1,0,Copa América,Medellín,Colombia,True
+2001-07-23,Brazil,Honduras,0,2,Copa América,Manizales,Colombia,True
+2001-07-26,Colombia,Honduras,2,0,Copa América,Manizales,Colombia,False
+2001-07-29,Uruguay,Honduras,2,2,Copa América,Bogotá,Colombia,True
+2001-09-01,United States,Honduras,2,3,FIFA World Cup qualification,"Washington, D.C.",United States,False
+2001-09-05,Honduras,Jamaica,1,0,FIFA World Cup qualification,Tegucigalpa,Honduras,False
+2001-10-07,Honduras,Trinidad and Tobago,0,1,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2001-11-11,Mexico,Honduras,3,0,FIFA World Cup qualification,Mexico City,Mexico,False
+2002-02-12,Slovenia,Honduras,1,5,Lunar New Year Cup,So Kon Po,Hong Kong,True
+2002-03-02,United States,Honduras,4,0,Friendly,Seattle,United States,False
+2002-05-02,Japan,Honduras,3,3,Kirin Cup,Kobe,Japan,False
+2002-11-20,Honduras,Colombia,1,0,Friendly,San Pedro Sula,Honduras,False
+2003-01-31,Honduras,Argentina,1,3,Friendly,San Pedro Sula,Honduras,False
+2003-02-11,Honduras,Nicaragua,2,0,UNCAF Cup,Panama City,Panama,True
+2003-02-15,Honduras,El Salvador,0,1,UNCAF Cup,Panama City,Panama,True
+2003-02-18,Panama,Honduras,1,1,UNCAF Cup,Panama City,Panama,False
+2003-02-20,Costa Rica,Honduras,1,0,UNCAF Cup,Panama City,Panama,True
+2003-02-23,Guatemala,Honduras,2,1,UNCAF Cup,Panama City,Panama,True
+2003-04-02,Honduras,Paraguay,1,1,Friendly,Tegucigalpa,Honduras,False
+2003-04-25,Trinidad and Tobago,Honduras,0,2,Gold Cup qualification,Rivière-Pilote,Martinique,True
+2003-04-27,Martinique,Honduras,2,4,Gold Cup qualification,Fort-de-France,Martinique,False
+2003-04-30,Honduras,Colombia,0,0,Friendly,Miami,United States,True
+2003-06-07,Venezuela,Honduras,2,1,Friendly,Miami,United States,True
+2003-06-11,Honduras,Chile,1,2,Friendly,San Pedro Sula,Honduras,False
+2003-06-22,Guatemala,Honduras,1,2,Friendly,Carson,United States,True
+2003-06-29,Honduras,El Salvador,1,1,Friendly,Tegucigalpa,Honduras,False
+2003-07-15,Brazil,Honduras,2,1,Gold Cup,Mexico City,Mexico,True
+2003-07-17,Mexico,Honduras,0,0,Gold Cup,Mexico City,Mexico,False
+2003-10-11,Bolivia,Honduras,1,0,Friendly,"Washington, D.C.",United States,True
+2003-11-16,Honduras,Finland,1,2,Friendly,Houston,United States,True
+2004-01-25,Norway,Honduras,3,1,Lunar New Year Cup,So Kon Po,Hong Kong,True
+2004-02-18,Honduras,Colombia,1,1,Friendly,Tegucigalpa,Honduras,False
+2004-03-10,Venezuela,Honduras,2,1,Friendly,Maracaibo,Venezuela,False
+2004-03-31,Jamaica,Honduras,2,2,Friendly,Kingston,Jamaica,False
+2004-04-07,Honduras,Panama,0,0,Friendly,La Ceiba,Honduras,False
+2004-04-28,Honduras,Ecuador,1,1,Friendly,Fort Lauderdale,United States,True
+2004-06-02,United States,Honduras,4,0,Friendly,Foxborough,United States,False
+2004-06-12,Curaçao,Honduras,1,2,FIFA World Cup qualification,Willemstad,Curaçao,True
+2004-06-19,Honduras,Curaçao,4,0,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2004-07-28,Honduras,Panama,0,0,Friendly,Tegucigalpa,Honduras,False
+2004-08-03,El Salvador,Honduras,0,4,Friendly,San Salvador,El Salvador,False
+2004-08-18,Costa Rica,Honduras,2,5,FIFA World Cup qualification,Alajuela,Costa Rica,False
+2004-09-04,Canada,Honduras,1,1,FIFA World Cup qualification,Edmonton,Canada,False
+2004-09-08,Honduras,Guatemala,2,2,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2004-10-09,Honduras,Canada,1,1,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2004-10-13,Guatemala,Honduras,1,0,FIFA World Cup qualification,Guatemala City,Guatemala,False
+2004-11-17,Honduras,Costa Rica,0,0,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2004-12-29,Basque Country,Honduras,2,0,Friendly,San Sebastián,Spain,False
+2005-02-19,Honduras,Nicaragua,5,1,UNCAF Cup,Guatemala City,Guatemala,True
+2005-02-21,Belize,Honduras,0,4,UNCAF Cup,Guatemala City,Guatemala,True
+2005-02-23,Guatemala,Honduras,1,1,UNCAF Cup,Guatemala City,Guatemala,False
+2005-02-25,Honduras,Panama,1,0,UNCAF Cup,Guatemala City,Guatemala,True
+2005-02-27,Costa Rica,Honduras,1,1,UNCAF Cup,Guatemala City,Guatemala,True
+2005-03-19,United States,Honduras,1,0,Friendly,Albuquerque,United States,False
+2005-06-04,Jamaica,Honduras,0,0,Friendly,Atlanta,United States,True
+2005-07-02,Canada,Honduras,1,2,Friendly,Burnaby,Canada,False
+2005-07-06,Trinidad and Tobago,Honduras,1,1,Gold Cup,Miami,United States,True
+2005-07-10,Honduras,Colombia,2,1,Gold Cup,Miami,United States,True
+2005-07-12,Honduras,Panama,1,0,Gold Cup,Miami,United States,True
+2005-07-16,Honduras,Costa Rica,3,2,Gold Cup,Foxborough,United States,True
+2005-07-21,United States,Honduras,2,1,Gold Cup,East Rutherford,United States,False
+2005-09-07,Japan,Honduras,5,4,Friendly,Rifu,Japan,False
+2006-01-25,Ecuador,Honduras,1,0,Friendly,Guayaquil,Ecuador,False
+2006-02-12,China PR,Honduras,0,1,Friendly,Guangzhou,China PR,False
+2006-08-16,Venezuela,Honduras,0,0,Friendly,Maracay,Venezuela,False
+2006-09-06,Honduras,El Salvador,2,0,Friendly,Tegucigalpa,Honduras,False
+2006-10-07,Guatemala,Honduras,2,3,Friendly,Fort Lauderdale,United States,True
+2006-10-10,Honduras,Guatemala,2,1,Friendly,Atlanta,United States,True
+2007-02-09,Costa Rica,Honduras,3,1,UNCAF Cup,San Salvador,El Salvador,True
+2007-02-11,Honduras,Panama,1,1,UNCAF Cup,San Salvador,El Salvador,True
+2007-02-15,Nicaragua,Honduras,1,9,UNCAF Cup,San Salvador,El Salvador,True
+2007-03-24,El Salvador,Honduras,0,2,Friendly,Fort Lauderdale,United States,True
+2007-03-27,El Salvador,Honduras,0,2,Friendly,Cary,United States,True
+2007-04-19,Honduras,Haiti,1,3,Friendly,La Ceiba,Honduras,False
+2007-05-25,Venezuela,Honduras,2,1,Friendly,Mérida,Venezuela,False
+2007-06-02,Honduras,Trinidad and Tobago,3,1,Friendly,San Pedro Sula,Honduras,False
+2007-06-08,Panama,Honduras,3,2,Gold Cup,East Rutherford,United States,True
+2007-06-10,Honduras,Mexico,2,1,Gold Cup,East Rutherford,United States,True
+2007-06-13,Cuba,Honduras,0,5,Gold Cup,Houston,United States,True
+2007-06-17,Honduras,Guadeloupe,1,2,Gold Cup,Houston,United States,True
+2007-08-22,El Salvador,Honduras,2,0,Friendly,San Salvador,El Salvador,False
+2007-09-09,Costa Rica,Honduras,0,0,Friendly,East Hartford,United States,True
+2007-09-12,Honduras,Ecuador,2,1,Friendly,San Pedro Sula,Honduras,False
+2007-10-14,Honduras,Panama,1,0,Friendly,Tegucigalpa,Honduras,False
+2007-11-17,Guatemala,Honduras,0,1,Friendly,Miami Gardens,United States,True
+2008-02-06,Honduras,Paraguay,2,0,Friendly,San Pedro Sula,Honduras,False
+2008-03-26,Honduras,Colombia,2,1,Friendly,Fort Lauderdale,United States,True
+2008-05-23,Honduras,Belize,2,0,Friendly,San Pedro Sula,Honduras,False
+2008-05-30,Venezuela,Honduras,1,1,Friendly,Fort Lauderdale,United States,True
+2008-06-04,Honduras,Puerto Rico,4,0,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2008-06-07,Honduras,Haiti,3,1,Friendly,La Ceiba,Honduras,False
+2008-06-14,Puerto Rico,Honduras,2,2,FIFA World Cup qualification,Bayamón,Puerto Rico,False
+2008-08-20,Mexico,Honduras,2,1,FIFA World Cup qualification,Mexico City,Mexico,False
+2008-09-06,Canada,Honduras,1,2,FIFA World Cup qualification,Montreal,Canada,False
+2008-09-10,Honduras,Jamaica,2,0,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2008-10-11,Honduras,Canada,3,1,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2008-10-15,Jamaica,Honduras,1,0,FIFA World Cup qualification,Kingston,Jamaica,False
+2008-11-19,Honduras,Mexico,1,0,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2009-01-18,Honduras,Chile,2,0,Friendly,Fort Lauderdale,United States,True
+2009-01-22,Honduras,Belize,2,1,UNCAF Cup,Tegucigalpa,Honduras,False
+2009-01-24,Honduras,Nicaragua,4,1,UNCAF Cup,Tegucigalpa,Honduras,False
+2009-01-26,Honduras,El Salvador,2,0,UNCAF Cup,Tegucigalpa,Honduras,False
+2009-01-30,Honduras,Panama,0,1,UNCAF Cup,Tegucigalpa,Honduras,False
+2009-02-01,Honduras,El Salvador,1,0,UNCAF Cup,Tegucigalpa,Honduras,False
+2009-02-11,Costa Rica,Honduras,2,0,FIFA World Cup qualification,San José,Costa Rica,False
+2009-03-28,Trinidad and Tobago,Honduras,1,1,FIFA World Cup qualification,Port of Spain,Trinidad and Tobago,False
+2009-04-01,Honduras,Mexico,3,1,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2009-06-06,United States,Honduras,2,1,FIFA World Cup qualification,Chicago,United States,False
+2009-06-10,Honduras,El Salvador,1,0,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2009-06-28,Panama,Honduras,0,2,Friendly,Cary,United States,True
+2009-07-04,Honduras,Haiti,1,0,Gold Cup,Seattle,United States,True
+2009-07-08,United States,Honduras,2,0,Gold Cup,"Washington, D.C.",United States,False
+2009-07-11,Honduras,Grenada,4,0,Gold Cup,Foxborough,United States,True
+2009-07-18,Canada,Honduras,0,1,Gold Cup,Philadelphia,United States,True
+2009-07-23,United States,Honduras,2,0,Gold Cup,Chicago,United States,False
+2009-08-12,Honduras,Costa Rica,4,0,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2009-09-05,Honduras,Trinidad and Tobago,4,1,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2009-09-09,Mexico,Honduras,1,0,FIFA World Cup qualification,Mexico City,Mexico,False
+2009-10-10,Honduras,United States,2,3,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2009-10-14,El Salvador,Honduras,0,1,FIFA World Cup qualification,San Salvador,El Salvador,False
+2009-11-14,Honduras,Latvia,2,1,Friendly,Tegucigalpa,Honduras,False
+2009-11-18,Honduras,Peru,1,2,Friendly,Miami Gardens,United States,True
+2010-01-23,United States,Honduras,1,3,Friendly,Carson,United States,False
+2010-03-03,Turkey,Honduras,2,0,Friendly,Istanbul,Turkey,False
+2010-04-21,Honduras,Venezuela,0,1,Friendly,San Pedro Sula,Honduras,False
+2010-05-27,Belarus,Honduras,2,2,Friendly,Villach,Austria,True
+2010-06-02,Azerbaijan,Honduras,0,0,Friendly,Zell am See,Austria,True
+2010-06-05,Romania,Honduras,3,0,Friendly,Sankt Veit an der Glan,Austria,True
+2010-06-16,Honduras,Chile,0,1,FIFA World Cup,Nelspruit,South Africa,True
+2010-06-21,Spain,Honduras,2,0,FIFA World Cup,Johannesburg,South Africa,True
+2010-06-25,Switzerland,Honduras,0,0,FIFA World Cup,Bloemfontein,South Africa,True
+2010-09-04,El Salvador,Honduras,2,2,Friendly,Los Angeles,United States,True
+2010-09-07,Canada,Honduras,2,1,Friendly,Montreal,Canada,False
+2010-10-09,New Zealand,Honduras,1,1,Friendly,North Shore,New Zealand,False
+2010-10-12,Guatemala,Honduras,0,2,Friendly,Los Angeles,United States,True
+2010-11-17,Panama,Honduras,2,0,Friendly,Panama City,Panama,False
+2010-12-18,Honduras,Panama,2,1,Friendly,San Pedro Sula,Honduras,False
+2010-12-28,Catalonia,Honduras,4,0,Friendly,Barcelona,Spain,False
+2011-01-14,Costa Rica,Honduras,1,1,UNCAF Cup,Panama City,Panama,True
+2011-01-18,Honduras,Guatemala,3,1,UNCAF Cup,Panama City,Panama,True
+2011-01-21,Honduras,El Salvador,2,0,UNCAF Cup,Panama City,Panama,True
+2011-01-23,Honduras,Costa Rica,2,1,UNCAF Cup,Panama City,Panama,True
+2011-02-09,Honduras,Ecuador,1,1,Friendly,La Ceiba,Honduras,False
+2011-03-25,South Korea,Honduras,4,0,Friendly,Seoul,South Korea,False
+2011-03-29,China PR,Honduras,3,0,Friendly,Wuhan,China PR,False
+2011-05-29,El Salvador,Honduras,2,2,Friendly,Houston,United States,True
+2011-06-06,Honduras,Guatemala,0,0,Gold Cup,Carson,United States,True
+2011-06-10,Grenada,Honduras,1,7,Gold Cup,Miami,United States,True
+2011-06-13,Honduras,Jamaica,0,1,Gold Cup,Harrison,United States,True
+2011-06-18,Costa Rica,Honduras,1,1,Gold Cup,East Rutherford,United States,True
+2011-06-22,Honduras,Mexico,0,2,Gold Cup,Houston,United States,True
+2011-08-10,Honduras,Venezuela,2,0,Friendly,Fort Lauderdale,United States,True
+2011-09-03,Honduras,Colombia,0,2,Friendly,Harrison,United States,True
+2011-09-06,Honduras,Paraguay,0,3,Friendly,San Pedro Sula,Honduras,False
+2011-10-08,United States,Honduras,1,0,Friendly,Miami Gardens,United States,False
+2011-10-11,Honduras,Jamaica,2,1,Friendly,La Ceiba,Honduras,False
+2011-11-14,Honduras,Serbia,2,0,Friendly,San Pedro Sula,Honduras,False
+2012-02-29,Ecuador,Honduras,2,0,Friendly,Guayaquil,Ecuador,False
+2012-04-11,Costa Rica,Honduras,1,1,Friendly,San José,Costa Rica,False
+2012-05-26,Honduras,New Zealand,0,1,Friendly,Dallas,United States,True
+2012-06-02,El Salvador,Honduras,0,3,Friendly,"Washington, D.C.",United States,True
+2012-06-08,Honduras,Panama,0,2,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2012-06-12,Canada,Honduras,0,0,FIFA World Cup qualification,Toronto,Canada,False
+2012-09-07,Cuba,Honduras,0,3,FIFA World Cup qualification,Havana,Cuba,False
+2012-09-11,Honduras,Cuba,1,0,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2012-10-12,Panama,Honduras,0,0,FIFA World Cup qualification,Panama City,Panama,False
+2012-10-16,Honduras,Canada,8,1,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2012-11-14,Honduras,Peru,0,0,Friendly,Houston,United States,True
+2013-01-18,Honduras,El Salvador,1,1,UNCAF Cup,San José,Costa Rica,True
+2013-01-22,Panama,Honduras,1,1,UNCAF Cup,San José,Costa Rica,True
+2013-01-25,Honduras,Belize,1,0,UNCAF Cup,San José,Costa Rica,True
+2013-01-27,Costa Rica,Honduras,1,0,UNCAF Cup,San José,Costa Rica,False
+2013-02-06,Honduras,United States,2,1,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2013-03-22,Honduras,Mexico,2,2,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2013-03-26,Panama,Honduras,2,0,FIFA World Cup qualification,Panama City,Panama,False
+2013-06-02,Honduras,Israel,0,2,Friendly,New York,United States,True
+2013-06-07,Costa Rica,Honduras,1,0,FIFA World Cup qualification,San José,Costa Rica,False
+2013-06-11,Honduras,Jamaica,2,0,FIFA World Cup qualification,Tegucigalpa,Honduras,False
+2013-06-18,United States,Honduras,1,0,FIFA World Cup qualification,Sandy,United States,False
+2013-07-08,Haiti,Honduras,0,2,Gold Cup,Harrison,United States,True
+2013-07-12,Honduras,El Salvador,1,0,Gold Cup,Miami Gardens,United States,True
+2013-07-15,Honduras,Trinidad and Tobago,0,2,Gold Cup,Houston,United States,True
+2013-07-21,Honduras,Costa Rica,1,0,Gold Cup,Baltimore,United States,True
+2013-07-24,United States,Honduras,3,1,Gold Cup,Arlington,United States,False
+2013-09-06,Mexico,Honduras,1,2,FIFA World Cup qualification,Mexico City,Mexico,False
+2013-09-10,Honduras,Panama,2,2,FIFA World Cup qualification,Tegucigalpa,Honduras,False
+2013-10-11,Honduras,Costa Rica,1,0,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2013-10-15,Jamaica,Honduras,2,2,FIFA World Cup qualification,Kingston,Jamaica,False
+2013-11-16,Honduras,Brazil,0,5,Friendly,Miami Gardens,United States,True
+2013-11-19,Honduras,Ecuador,2,2,Friendly,Houston,United States,True
+2014-06-01,Honduras,Israel,2,4,Friendly,Houston,United States,True
+2014-06-07,Honduras,England,0,0,Friendly,Miami Gardens,United States,True
+2014-06-15,France,Honduras,3,0,FIFA World Cup,Porto Alegre,Brazil,True
+2014-06-20,Honduras,Ecuador,1,2,FIFA World Cup,Curitiba,Brazil,True
+2014-06-25,Honduras,Switzerland,0,3,FIFA World Cup,Manaus,Brazil,True
+2014-10-14,United States,Honduras,1,1,Friendly,Boca Raton,United States,False
+2014-11-14,Japan,Honduras,6,0,Friendly,Toyota,Japan,False
+2014-11-18,China PR,Honduras,0,0,Friendly,Xi'an,China PR,False
+2015-02-04,Honduras,Venezuela,2,3,Friendly,San Pedro Sula,Honduras,False
+2015-03-25,French Guiana,Honduras,3,1,Gold Cup qualification,Cayenne,French Guiana,False
+2015-03-29,Honduras,French Guiana,3,0,Gold Cup qualification,San Pedro Sula,Honduras,False
+2015-05-31,El Salvador,Honduras,0,2,Friendly,"Washington, D.C.",United States,True
+2015-06-06,Paraguay,Honduras,2,2,Friendly,Asunción,Paraguay,False
+2015-06-10,Brazil,Honduras,1,0,Friendly,Porto Alegre,Brazil,False
+2015-07-01,Honduras,Mexico,0,0,Friendly,Houston,United States,True
+2015-07-07,United States,Honduras,2,1,Gold Cup,Frisco,United States,False
+2015-07-10,Honduras,Panama,1,1,Gold Cup,Foxborough,United States,True
+2015-07-13,Honduras,Haiti,0,1,Gold Cup,Kansas City,United States,True
+2015-09-04,Venezuela,Honduras,0,3,Friendly,Puerto Ordaz,Venezuela,False
+2015-09-08,Ecuador,Honduras,2,0,Friendly,Quito,Ecuador,False
+2015-11-13,Canada,Honduras,1,0,FIFA World Cup qualification,Vancouver,Canada,False
+2015-11-17,Honduras,Mexico,0,2,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2015-12-16,Honduras,Cuba,2,0,Friendly,Juticalpa,Honduras,False
+2016-03-25,El Salvador,Honduras,2,2,FIFA World Cup qualification,San Salvador,El Salvador,False
+2016-03-29,Honduras,El Salvador,2,0,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2016-08-24,Honduras,Nicaragua,1,0,Friendly,San Pedro Sula,Honduras,False
+2016-09-02,Honduras,Canada,2,1,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2016-09-06,Mexico,Honduras,0,0,FIFA World Cup qualification,Mexico City,Mexico,False
+2016-10-08,Belize,Honduras,1,2,Friendly,Belmopan,Belize,False
+2016-11-11,Honduras,Panama,0,1,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2016-11-15,Honduras,Trinidad and Tobago,3,1,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2017-01-13,Honduras,Nicaragua,2,1,UNCAF Cup,Panama City,Panama,True
+2017-01-15,El Salvador,Honduras,1,2,UNCAF Cup,Panama City,Panama,True
+2017-01-22,Belize,Honduras,0,1,UNCAF Cup,Panama City,Panama,True
+2017-02-22,Ecuador,Honduras,3,1,Friendly,Guayaquil,Ecuador,False
+2017-03-16,Honduras,Nicaragua,2,0,Friendly,San Pedro Sula,Honduras,False
+2017-03-24,United States,Honduras,6,0,FIFA World Cup qualification,San Jose,United States,False
+2017-03-28,Honduras,Costa Rica,1,1,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2017-05-28,El Salvador,Honduras,2,2,Friendly,"Washington, D.C.",United States,True
+2017-06-08,Mexico,Honduras,3,0,FIFA World Cup qualification,Mexico City,Mexico,False
+2017-06-13,Panama,Honduras,2,2,FIFA World Cup qualification,Panama City,Panama,False
+2017-07-07,Honduras,Costa Rica,0,1,Gold Cup,Harrison,United States,True
+2017-07-11,Honduras,French Guiana,0,0,Gold Cup,Houston,United States,True
+2017-07-14,Canada,Honduras,0,0,Gold Cup,Frisco,United States,True
+2017-07-20,Mexico,Honduras,1,0,Gold Cup,Glendale,United States,True
+2017-09-01,Trinidad and Tobago,Honduras,1,2,FIFA World Cup qualification,Couva,Trinidad and Tobago,False
+2017-09-05,Honduras,United States,1,1,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2017-10-07,Costa Rica,Honduras,1,1,FIFA World Cup qualification,San José,Costa Rica,False
+2017-10-10,Honduras,Mexico,3,2,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2017-11-10,Honduras,Australia,0,0,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2017-11-15,Australia,Honduras,3,1,FIFA World Cup qualification,Sydney,Australia,False
+2018-05-28,South Korea,Honduras,2,0,Friendly,Daegu,South Korea,False
+2018-06-02,El Salvador,Honduras,1,0,Friendly,Houston,United States,True
+2018-10-11,Honduras,United Arab Emirates,1,1,Friendly,Barcelona,Spain,True
+2018-11-16,Honduras,Panama,1,0,Friendly,Tegucigalpa,Honduras,False
+2018-11-20,Chile,Honduras,4,1,Friendly,Temuco,Chile,False
+2019-03-26,Honduras,Ecuador,0,0,Friendly,Harrison,United States,True
+2019-06-05,Paraguay,Honduras,1,1,Friendly,Ciudad del Este,Paraguay,False
+2019-06-09,Brazil,Honduras,7,0,Friendly,Porto Alegre,Brazil,False
+2019-06-17,Jamaica,Honduras,3,2,Gold Cup,Kingston,Jamaica,False
+2019-06-21,Honduras,Curaçao,0,1,Gold Cup,Houston,United States,True
+2019-06-25,Honduras,El Salvador,4,0,Gold Cup,Los Angeles,United States,True
+2019-09-05,Honduras,Puerto Rico,4,0,Friendly,Tegucigalpa,Honduras,False
+2019-09-10,Honduras,Chile,2,1,Friendly,San Pedro Sula,Honduras,False
+2019-10-10,Trinidad and Tobago,Honduras,0,2,CONCACAF Nations League,Port of Spain,Trinidad and Tobago,False
+2019-10-13,Honduras,Martinique,1,0,CONCACAF Nations League,San Pedro Sula,Honduras,False
+2019-11-14,Martinique,Honduras,1,1,CONCACAF Nations League,Fort-de-France,Martinique,False
+2019-11-17,Honduras,Trinidad and Tobago,4,0,CONCACAF Nations League,San Pedro Sula,Honduras,False
+2020-10-10,Honduras,Nicaragua,1,1,Friendly,Comayagua,Honduras,False
+2020-11-15,Guatemala,Honduras,2,1,Friendly,Guatemala City,Guatemala,False
+2021-03-24,Belarus,Honduras,1,1,Friendly,Zhodzina,Belarus,False
+2021-03-28,Greece,Honduras,2,1,Friendly,Thessaloniki,Greece,False
+2021-06-03,United States,Honduras,1,0,CONCACAF Nations League,Denver,United States,False
+2021-06-06,Honduras,Costa Rica,2,2,CONCACAF Nations League,Denver,United States,True
+2021-06-12,Mexico,Honduras,0,0,Friendly,Atlanta,United States,True
+2021-07-13,Honduras,Grenada,4,0,Gold Cup,Houston,United States,True
+2021-07-17,Panama,Honduras,2,3,Gold Cup,Houston,United States,True
+2021-07-20,Honduras,Qatar,0,2,Gold Cup,Houston,United States,True
+2021-07-24,Mexico,Honduras,3,0,Gold Cup,Glendale,United States,True
+2021-09-02,Canada,Honduras,1,1,FIFA World Cup qualification,Toronto,Canada,False
+2021-09-05,El Salvador,Honduras,0,0,FIFA World Cup qualification,San Salvador,El Salvador,False
+2021-09-08,Honduras,United States,1,4,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2021-10-07,Honduras,Costa Rica,0,0,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2021-10-10,Mexico,Honduras,3,0,FIFA World Cup qualification,Mexico City,Mexico,False
+2021-10-13,Honduras,Jamaica,0,2,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2021-11-12,Honduras,Panama,2,3,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2021-11-16,Costa Rica,Honduras,2,1,FIFA World Cup qualification,San José,Costa Rica,False
+2022-01-16,Colombia,Honduras,2,1,Friendly,Fort Lauderdale,United States,True
+2022-01-27,Honduras,Canada,0,2,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2022-01-30,Honduras,El Salvador,0,2,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2022-02-02,United States,Honduras,3,0,FIFA World Cup qualification,Saint Paul,United States,False
+2022-03-24,Panama,Honduras,1,1,FIFA World Cup qualification,Panama City,Panama,False
+2022-03-27,Honduras,Mexico,0,1,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2022-03-30,Jamaica,Honduras,2,1,FIFA World Cup qualification,Kingston,Jamaica,False
+2022-06-03,Curaçao,Honduras,0,1,CONCACAF Nations League,Willemstad,Curaçao,False
+2022-06-06,Honduras,Curaçao,1,2,CONCACAF Nations League,San Pedro Sula,Honduras,False
+2022-06-13,Honduras,Canada,2,1,CONCACAF Nations League,San Pedro Sula,Honduras,False
+2022-09-23,Argentina,Honduras,3,0,Friendly,Miami Gardens,United States,True
+2022-09-27,Honduras,Guatemala,2,1,Friendly,Houston,United States,True
+2022-10-27,Qatar,Honduras,1,0,Friendly,Marbella,Spain,True
+2022-10-30,Saudi Arabia,Honduras,0,0,Friendly,Abu Dhabi,United Arab Emirates,True
+2023-03-22,Honduras,El Salvador,1,0,Friendly,Los Angeles,United States,True
+2023-03-28,Canada,Honduras,4,1,CONCACAF Nations League,Toronto,Canada,False
+2023-06-15,Honduras,Venezuela,0,1,Friendly,"Washington, D.C.",United States,True
+2023-06-25,Mexico,Honduras,4,0,Gold Cup,Houston,United States,True
+2023-06-29,Qatar,Honduras,1,1,Gold Cup,Glendale,United States,True
+2023-07-02,Honduras,Haiti,2,1,Gold Cup,Charlotte,United States,True
+2023-09-03,Guatemala,Honduras,0,0,Friendly,Fort Lauderdale,United States,True
+2023-09-08,Jamaica,Honduras,1,0,CONCACAF Nations League,Kingston,Jamaica,False
+2023-09-12,Honduras,Grenada,4,0,CONCACAF Nations League,Tegucigalpa,Honduras,False
+2023-10-12,Cuba,Honduras,0,0,CONCACAF Nations League,Santo Domingo,Dominican Republic,True
+2023-10-15,Honduras,Cuba,4,0,CONCACAF Nations League,Tegucigalpa,Honduras,False
+2023-11-17,Honduras,Mexico,2,0,CONCACAF Nations League,Tegucigalpa,Honduras,False
+2023-11-21,Mexico,Honduras,2,0,CONCACAF Nations League,Mexico City,Mexico,False
+2024-01-17,Honduras,Iceland,0,2,Friendly,Fort Lauderdale,United States,True
+2024-03-23,Costa Rica,Honduras,3,1,Copa América qualification,Frisco,United States,True
+2024-03-26,El Salvador,Honduras,1,1,Friendly,Los Angeles,United States,True
+2024-06-06,Honduras,Cuba,3,1,FIFA World Cup qualification,Tegucigalpa,Honduras,False
+2024-06-09,Bermuda,Honduras,1,6,FIFA World Cup qualification,Hamilton,Bermuda,False
+2024-06-16,Ecuador,Honduras,2,1,Friendly,Hartford,United States,True
+2024-09-06,Honduras,Trinidad and Tobago,4,0,CONCACAF Nations League,Tegucigalpa,Honduras,False
+2024-09-10,Honduras,Jamaica,1,2,CONCACAF Nations League,Tegucigalpa,Honduras,False
+2024-10-10,French Guiana,Honduras,2,3,CONCACAF Nations League,Cayenne,French Guiana,False
+2024-10-14,Jamaica,Honduras,0,0,CONCACAF Nations League,Kingston,Jamaica,False
+2024-11-15,Honduras,Mexico,2,0,CONCACAF Nations League,San Pedro Sula,Honduras,False
+2024-11-19,Mexico,Honduras,4,0,CONCACAF Nations League,Toluca,Mexico,False
+2025-03-16,Honduras,Guatemala,1,2,Friendly,Fort Lauderdale,United States,True
+2025-03-21,Bermuda,Honduras,3,5,Gold Cup qualification,Hamilton,Bermuda,False
+2025-03-25,Honduras,Bermuda,2,0,Gold Cup qualification,Tegucigalpa,Honduras,False

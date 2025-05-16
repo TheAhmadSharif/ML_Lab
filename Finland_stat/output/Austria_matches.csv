@@ -1,0 +1,850 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1902-10-12,Austria,Hungary,5,0,Friendly,Vienna,Austria,False
+1903-06-11,Hungary,Austria,3,2,Friendly,Budapest,Hungary,False
+1903-10-11,Austria,Hungary,4,2,Friendly,Vienna,Austria,False
+1904-06-02,Hungary,Austria,3,0,Friendly,Budapest,Hungary,False
+1904-10-09,Austria,Hungary,5,4,Friendly,Vienna,Austria,False
+1905-04-09,Hungary,Austria,0,0,Friendly,Budapest,Hungary,False
+1906-11-04,Hungary,Austria,3,1,Friendly,Budapest,Hungary,False
+1907-05-05,Austria,Hungary,3,1,Friendly,Vienna,Austria,False
+1907-11-03,Hungary,Austria,4,1,Friendly,Budapest,Hungary,False
+1908-05-03,Austria,Hungary,4,0,Friendly,Vienna,Austria,False
+1908-06-06,Austria,England,1,6,Friendly,Vienna,Austria,False
+1908-06-07,Austria,Germany,3,2,Friendly,Vienna,Austria,False
+1908-06-08,Austria,England,1,11,Friendly,Vienna,Austria,False
+1908-11-01,Hungary,Austria,5,3,Friendly,Budapest,Hungary,False
+1909-05-02,Austria,Hungary,3,4,Friendly,Vienna,Austria,False
+1909-05-30,Hungary,Austria,1,1,Friendly,Budapest,Hungary,False
+1909-06-01,Austria,England,1,8,Friendly,Vienna,Austria,False
+1909-11-07,Hungary,Austria,2,2,Friendly,Budapest,Hungary,False
+1910-05-01,Austria,Hungary,2,1,Friendly,Vienna,Austria,False
+1910-11-06,Hungary,Austria,3,0,Friendly,Budapest,Hungary,False
+1911-05-07,Austria,Hungary,3,1,Friendly,Vienna,Austria,False
+1911-10-09,Germany,Austria,1,2,Friendly,Dresden,Germany,False
+1911-11-05,Hungary,Austria,2,0,Friendly,Budapest,Hungary,False
+1912-05-05,Austria,Hungary,1,1,Friendly,Vienna,Austria,False
+1912-06-29,Austria,Germany,5,1,Olympic Games,Stockholm,Sweden,True
+1912-06-30,Netherlands,Austria,3,1,Olympic Games,Stockholm,Sweden,True
+1912-07-01,Austria,Norway,1,0,Olympic Games,Stockholm,Sweden,True
+1912-07-03,Austria,Italy,5,1,Olympic Games,Stockholm,Sweden,True
+1912-07-05,Hungary,Austria,3,0,Olympic Games,Stockholm,Sweden,True
+1912-11-03,Hungary,Austria,4,0,Friendly,Budapest,Hungary,False
+1912-12-22,Italy,Austria,1,3,Friendly,Genoa,Italy,False
+1913-04-27,Austria,Hungary,1,4,Friendly,Vienna,Austria,False
+1913-06-15,Austria,Italy,2,0,Friendly,Vienna,Austria,False
+1913-10-26,Hungary,Austria,4,3,Friendly,Budapest,Hungary,False
+1914-01-11,Italy,Austria,0,0,Friendly,Milan,Italy,False
+1914-05-03,Austria,Hungary,2,0,Friendly,Vienna,Austria,False
+1914-10-04,Hungary,Austria,2,2,Friendly,Budapest,Hungary,False
+1914-11-08,Austria,Hungary,1,2,Friendly,Vienna,Austria,False
+1915-05-02,Hungary,Austria,2,5,Friendly,Budapest,Hungary,False
+1915-05-30,Austria,Hungary,1,2,Friendly,Vienna,Austria,False
+1915-10-03,Austria,Hungary,4,2,Friendly,Vienna,Austria,False
+1915-11-07,Hungary,Austria,6,2,Friendly,Budapest,Hungary,False
+1916-05-07,Austria,Hungary,3,1,Friendly,Vienna,Austria,False
+1916-06-04,Hungary,Austria,2,1,Friendly,Budapest,Hungary,False
+1916-10-01,Hungary,Austria,2,3,Friendly,Budapest,Hungary,False
+1916-11-05,Austria,Hungary,3,3,Friendly,Vienna,Austria,False
+1917-05-06,Austria,Hungary,1,1,Friendly,Vienna,Austria,False
+1917-06-03,Hungary,Austria,6,2,Friendly,Budapest,Hungary,False
+1917-07-15,Austria,Hungary,1,4,Friendly,Vienna,Austria,False
+1917-10-07,Hungary,Austria,2,1,Friendly,Budapest,Hungary,False
+1917-11-04,Austria,Hungary,1,2,Friendly,Vienna,Austria,False
+1917-12-23,Switzerland,Austria,0,1,Friendly,Basel,Switzerland,False
+1917-12-26,Switzerland,Austria,3,2,Friendly,Zürich,Switzerland,False
+1918-04-14,Hungary,Austria,2,0,Friendly,Budapest,Hungary,False
+1918-05-09,Austria,Switzerland,5,1,Friendly,Vienna,Austria,False
+1918-06-02,Austria,Hungary,0,2,Friendly,Vienna,Austria,False
+1918-10-06,Austria,Hungary,0,3,Friendly,Vienna,Austria,False
+1919-04-06,Hungary,Austria,2,1,Friendly,Budapest,Hungary,False
+1919-10-05,Austria,Hungary,2,0,Friendly,Vienna,Austria,False
+1919-11-09,Hungary,Austria,3,2,Friendly,Budapest,Hungary,False
+1920-05-02,Austria,Hungary,2,2,Friendly,Vienna,Austria,False
+1920-09-26,Austria,Germany,3,2,Friendly,Vienna,Austria,False
+1920-11-07,Hungary,Austria,1,2,Friendly,Budapest,Hungary,False
+1921-03-26,Austria,Sweden,2,2,Friendly,Vienna,Austria,False
+1921-04-24,Austria,Hungary,4,1,Friendly,Vienna,Austria,False
+1921-05-01,Switzerland,Austria,2,2,Friendly,St. Gallen,Switzerland,False
+1921-05-05,Germany,Austria,3,3,Friendly,Dresden,Germany,False
+1921-07-24,Sweden,Austria,1,3,Friendly,Stockholm,Sweden,False
+1921-07-31,Finland,Austria,2,3,Friendly,Helsinki,Finland,False
+1922-01-15,Italy,Austria,3,3,Friendly,Milan,Italy,False
+1922-04-23,Austria,Germany,0,2,Friendly,Vienna,Austria,False
+1922-04-30,Hungary,Austria,1,1,Friendly,Budapest,Hungary,False
+1922-06-11,Austria,Switzerland,7,1,Friendly,Vienna,Austria,False
+1922-09-24,Austria,Hungary,2,2,Friendly,Vienna,Austria,False
+1922-11-26,Hungary,Austria,1,2,Friendly,Budapest,Hungary,False
+1923-01-21,Switzerland,Austria,2,0,Friendly,Geneva,Switzerland,False
+1923-04-15,Austria,Italy,0,0,Friendly,Vienna,Austria,False
+1923-05-06,Austria,Hungary,1,0,Friendly,Vienna,Austria,False
+1923-06-10,Sweden,Austria,4,2,Friendly,Gothenburg,Sweden,False
+1923-08-15,Austria,Finland,2,1,Friendly,Vienna,Austria,False
+1923-09-23,Hungary,Austria,2,0,Friendly,Budapest,Hungary,False
+1924-01-13,Germany,Austria,4,3,Friendly,Nuremberg,Germany,False
+1924-01-20,Italy,Austria,0,4,Friendly,Genoa,Italy,False
+1924-02-10,Yugoslavia,Austria,1,4,Friendly,Zagreb,Yugoslavia,False
+1924-05-04,Hungary,Austria,2,2,Friendly,Budapest,Hungary,False
+1924-05-20,Austria,Romania,4,1,Friendly,Vienna,Austria,False
+1924-05-21,Austria,Bulgaria,6,0,Friendly,Vienna,Austria,False
+1924-06-22,Austria,Egypt,3,1,Friendly,Vienna,Austria,False
+1924-09-14,Austria,Hungary,2,1,Friendly,Vienna,Austria,False
+1924-11-09,Austria,Sweden,1,1,Friendly,Vienna,Austria,False
+1924-12-21,Spain,Austria,2,1,Friendly,Barcelona,Spain,False
+1925-03-22,Austria,Switzerland,2,0,Friendly,Vienna,Austria,False
+1925-04-19,France,Austria,0,4,Friendly,Vincennes,France,False
+1925-05-05,Austria,Hungary,3,1,Friendly,Vienna,Austria,False
+1925-05-24,Czechoslovakia,Austria,3,1,Friendly,Prague,Czechoslovakia,False
+1925-07-05,Sweden,Austria,2,4,Friendly,Stockholm,Sweden,False
+1925-07-10,Finland,Austria,1,2,Friendly,Helsinki,Finland,False
+1925-09-20,Hungary,Austria,1,1,Friendly,Budapest,Hungary,False
+1925-09-27,Austria,Spain,0,1,Friendly,Vienna,Austria,False
+1925-11-08,Switzerland,Austria,2,0,Friendly,Bern,Switzerland,False
+1925-12-13,Belgium,Austria,3,4,Friendly,Liège,Belgium,False
+1926-03-14,Austria,Czechoslovakia,2,0,Friendly,Vienna,Austria,False
+1926-05-02,Hungary,Austria,0,3,Friendly,Budapest,Hungary,False
+1926-05-30,Austria,France,4,1,Friendly,Vienna,Austria,False
+1926-09-19,Austria,Hungary,2,3,Friendly,Vienna,Austria,False
+1926-09-28,Czechoslovakia,Austria,1,2,Friendly,Prague,Czechoslovakia,False
+1926-10-10,Austria,Switzerland,7,1,Friendly,Vienna,Austria,False
+1926-11-07,Austria,Sweden,3,1,Friendly,Vienna,Austria,False
+1927-03-20,Austria,Czechoslovakia,1,2,Friendly,Vienna,Austria,False
+1927-04-10,Austria,Hungary,6,0,Friendly,Vienna,Austria,False
+1927-05-22,Austria,Belgium,4,1,Friendly,Vienna,Austria,False
+1927-05-29,Switzerland,Austria,1,4,Friendly,Zürich,Switzerland,False
+1927-09-18,Czechoslovakia,Austria,2,0,Central European International Cup,Prague,Czechoslovakia,False
+1927-09-25,Hungary,Austria,5,3,Central European International Cup,Budapest,Hungary,False
+1927-11-06,Italy,Austria,0,1,Central European International Cup,Bologna,Italy,False
+1928-01-08,Belgium,Austria,1,2,Friendly,Brussels,Belgium,False
+1928-04-01,Austria,Czechoslovakia,0,1,Central European International Cup,Vienna,Austria,False
+1928-05-06,Austria,Yugoslavia,3,0,Friendly,Vienna,Austria,False
+1928-05-06,Hungary,Austria,5,5,Friendly,Budapest,Hungary,False
+1928-07-29,Sweden,Austria,2,3,Friendly,Stockholm,Sweden,False
+1928-10-07,Austria,Hungary,5,1,Central European International Cup,Vienna,Austria,False
+1928-10-28,Austria,Switzerland,2,0,Central European International Cup,Vienna,Austria,False
+1928-11-11,Italy,Austria,2,2,Friendly,Rome,Italy,False
+1929-03-17,Czechoslovakia,Austria,3,3,Friendly,Prague,Czechoslovakia,False
+1929-04-07,Austria,Italy,3,0,Central European International Cup,Vienna,Austria,False
+1929-05-05,Austria,Hungary,2,2,Friendly,Vienna,Austria,False
+1929-09-15,Austria,Czechoslovakia,2,1,Friendly,Vienna,Austria,False
+1929-10-06,Hungary,Austria,2,1,Friendly,Budapest,Hungary,False
+1929-10-27,Switzerland,Austria,1,3,Central European International Cup,Bern,Switzerland,False
+1930-03-23,Czechoslovakia,Austria,2,2,Friendly,Prague,Czechoslovakia,False
+1930-05-14,Austria,England,0,0,Friendly,Vienna,Austria,False
+1930-06-01,Hungary,Austria,2,1,Friendly,Budapest,Hungary,False
+1930-09-21,Austria,Hungary,2,3,Friendly,Vienna,Austria,False
+1930-11-16,Austria,Sweden,4,1,Friendly,Vienna,Austria,False
+1931-02-22,Italy,Austria,2,1,Central European International Cup,Milan,Italy,False
+1931-04-12,Austria,Czechoslovakia,2,1,Central European International Cup,Vienna,Austria,False
+1931-05-03,Austria,Hungary,0,0,Central European International Cup,Vienna,Austria,False
+1931-05-16,Austria,Scotland,5,0,Friendly,Vienna,Austria,False
+1931-05-24,Germany,Austria,0,6,Friendly,Berlin,Germany,False
+1931-06-16,Austria,Switzerland,2,0,Friendly,Vienna,Austria,False
+1931-09-13,Austria,Germany,5,0,Friendly,Vienna,Austria,False
+1931-10-04,Hungary,Austria,2,2,Central European International Cup,Budapest,Hungary,False
+1931-11-29,Switzerland,Austria,1,8,Central European International Cup,Basel,Switzerland,False
+1932-03-20,Austria,Italy,2,1,Central European International Cup,Vienna,Austria,False
+1932-04-24,Austria,Hungary,8,2,Friendly,Vienna,Austria,False
+1932-05-22,Czechoslovakia,Austria,1,1,Central European International Cup,Prague,Czechoslovakia,False
+1932-07-17,Sweden,Austria,3,4,Friendly,Stockholm,Sweden,False
+1932-10-02,Hungary,Austria,2,3,Friendly,Budapest,Hungary,False
+1932-10-23,Austria,Switzerland,3,1,Central European International Cup,Vienna,Austria,False
+1932-12-07,England,Austria,4,3,Friendly,London,England,False
+1932-12-11,Belgium,Austria,1,6,Friendly,Brussels,Belgium,False
+1933-02-12,France,Austria,0,4,Friendly,Paris,France,False
+1933-04-09,Austria,Czechoslovakia,1,2,Friendly,Vienna,Austria,False
+1933-04-30,Hungary,Austria,1,1,Friendly,Budapest,Hungary,False
+1933-06-11,Austria,Belgium,4,1,Friendly,Vienna,Austria,False
+1933-09-17,Czechoslovakia,Austria,3,3,Friendly,Prague,Czechoslovakia,False
+1933-10-01,Austria,Hungary,2,2,Friendly,Vienna,Austria,False
+1933-11-29,Scotland,Austria,2,2,Friendly,Glasgow,Scotland,False
+1933-12-10,Netherlands,Austria,0,1,Friendly,Amsterdam,Netherlands,False
+1934-02-11,Italy,Austria,2,4,Central European International Cup,Turin,Italy,False
+1934-03-25,Switzerland,Austria,2,3,Central European International Cup,Geneva,Switzerland,False
+1934-04-15,Austria,Hungary,5,2,Friendly,Vienna,Austria,False
+1934-04-25,Austria,Bulgaria,6,1,FIFA World Cup qualification,Vienna,Austria,False
+1934-05-27,Austria,France,3,2,FIFA World Cup,Turin,Italy,True
+1934-05-31,Austria,Hungary,2,1,FIFA World Cup,Bologna,Italy,True
+1934-06-03,Italy,Austria,1,0,FIFA World Cup,Milan,Italy,False
+1934-06-07,Austria,Germany,2,3,FIFA World Cup,Naples,Italy,True
+1934-09-23,Austria,Czechoslovakia,2,2,Central European International Cup,Vienna,Austria,False
+1934-10-07,Hungary,Austria,3,1,Central European International Cup,Budapest,Hungary,False
+1934-11-11,Austria,Switzerland,3,0,Central European International Cup,Vienna,Austria,False
+1935-03-24,Austria,Italy,0,2,Central European International Cup,Vienna,Austria,False
+1935-04-14,Czechoslovakia,Austria,0,0,Central European International Cup,Prague,Czechoslovakia,False
+1935-05-12,Austria,Poland,5,2,Friendly,Vienna,Austria,False
+1935-05-12,Hungary,Austria,6,3,Friendly,Budapest,Hungary,False
+1935-10-06,Austria,Hungary,4,4,Central European International Cup,Vienna,Austria,False
+1935-10-06,Poland,Austria,1,0,Friendly,Warsaw,Poland,False
+1936-01-19,Spain,Austria,4,5,Friendly,Madrid,Spain,False
+1936-01-26,Portugal,Austria,2,3,Friendly,Porto,Portugal,False
+1936-03-22,Austria,Czechoslovakia,1,1,Central European International Cup,Vienna,Austria,False
+1936-04-05,Austria,Hungary,3,5,Friendly,Vienna,Austria,False
+1936-05-06,Austria,England,2,1,Friendly,Vienna,Austria,False
+1936-05-17,Italy,Austria,2,2,Friendly,Rome,Italy,False
+1936-09-27,Hungary,Austria,5,3,Central European International Cup,Budapest,Hungary,False
+1936-11-08,Switzerland,Austria,1,3,Central European International Cup,Zürich,Switzerland,False
+1937-01-24,France,Austria,1,2,Friendly,Paris,France,False
+1937-05-09,Austria,Scotland,1,1,Friendly,Vienna,Austria,False
+1937-05-23,Hungary,Austria,2,2,Friendly,Budapest,Hungary,False
+1937-09-19,Austria,Switzerland,4,3,Central European International Cup,Vienna,Austria,False
+1937-10-05,Austria,Latvia,2,1,FIFA World Cup qualification,Vienna,Austria,False
+1937-10-10,Austria,Hungary,1,2,Central European International Cup,Vienna,Austria,False
+1937-10-24,Czechoslovakia,Austria,2,1,Central European International Cup,Prague,Czechoslovakia,False
+1939-11-12,Czechoslovakia,Austria,4,4,Friendly,Prague,Bohemia and Moravia,False
+1945-08-19,Hungary,Austria,2,0,Friendly,Budapest,Hungary,False
+1945-08-20,Hungary,Austria,5,2,Friendly,Budapest,Hungary,False
+1945-12-06,Austria,France,4,1,Friendly,Vienna,Austria,False
+1946-04-14,Austria,Hungary,3,2,Friendly,Vienna,Austria,False
+1946-05-05,France,Austria,3,1,Friendly,Colombes,France,False
+1946-10-06,Hungary,Austria,2,0,Friendly,Budapest,Hungary,False
+1946-10-27,Austria,Czechoslovakia,3,4,Friendly,Vienna,Austria,False
+1946-11-10,Switzerland,Austria,1,0,Friendly,Bern,Switzerland,False
+1946-12-01,Italy,Austria,3,2,Friendly,Milan,Italy,False
+1947-05-04,Hungary,Austria,5,2,Friendly,Budapest,Hungary,False
+1947-09-14,Austria,Hungary,4,3,Friendly,Vienna,Austria,False
+1947-10-05,Czechoslovakia,Austria,3,2,Friendly,Prague,Czechoslovakia,False
+1947-11-09,Austria,Italy,5,1,Friendly,Vienna,Austria,False
+1948-04-18,Austria,Switzerland,3,1,Friendly,Vienna,Austria,False
+1948-05-02,Austria,Hungary,3,2,Central European International Cup,Vienna,Austria,False
+1948-05-30,Turkey,Austria,0,1,Friendly,Istanbul,Turkey,False
+1948-07-11,Sweden,Austria,3,2,Friendly,Solna,Sweden,False
+1948-08-02,Sweden,Austria,3,0,Friendly,London,England,True
+1948-10-03,Hungary,Austria,2,1,Friendly,Budapest,Hungary,False
+1948-10-31,Czechoslovakia,Austria,3,1,Central European International Cup,Bratislava,Czechoslovakia,False
+1948-11-14,Austria,Sweden,2,1,Friendly,Vienna,Austria,False
+1949-03-20,Austria,Turkey,1,0,Friendly,Vienna,Austria,False
+1949-04-03,Switzerland,Austria,1,2,Central European International Cup,Lausanne,Switzerland,False
+1949-05-08,Hungary,Austria,6,1,Central European International Cup,Budapest,Hungary,False
+1949-05-22,Italy,Austria,3,1,Central European International Cup,Florence,Italy,False
+1949-09-25,Austria,Czechoslovakia,3,1,Central European International Cup,Vienna,Austria,False
+1949-10-16,Austria,Hungary,3,4,Friendly,Vienna,Austria,False
+1949-11-13,Yugoslavia,Austria,2,5,Friendly,Belgrade,Yugoslavia,False
+1950-03-19,Austria,Switzerland,3,3,Central European International Cup,Vienna,Austria,False
+1950-04-02,Austria,Italy,1,0,Central European International Cup,Vienna,Austria,False
+1950-05-14,Austria,Hungary,5,3,Friendly,Vienna,Austria,False
+1950-10-08,Austria,Yugoslavia,7,2,Friendly,Vienna,Austria,False
+1950-10-29,Hungary,Austria,4,3,Friendly,Budapest,Hungary,False
+1950-11-05,Austria,Denmark,5,1,Friendly,Vienna,Austria,False
+1950-12-13,Scotland,Austria,0,1,Friendly,Glasgow,Scotland,False
+1951-05-27,Austria,Scotland,4,0,Friendly,Vienna,Austria,False
+1951-06-17,Denmark,Austria,3,3,Friendly,Copenhagen,Denmark,False
+1951-09-23,Austria,Germany,0,2,Friendly,Vienna,Austria,False
+1951-10-14,Belgium,Austria,1,8,Friendly,Brussels,Belgium,False
+1951-11-01,France,Austria,2,2,Friendly,Colombes,France,False
+1951-11-28,England,Austria,2,2,Friendly,London,England,False
+1952-03-23,Austria,Belgium,2,0,Friendly,Vienna,Austria,False
+1952-05-07,Austria,Republic of Ireland,6,0,Friendly,Vienna,Austria,False
+1952-05-25,Austria,England,2,3,Friendly,Vienna,Austria,False
+1952-06-22,Switzerland,Austria,1,1,Friendly,Geneva,Switzerland,False
+1952-09-21,Yugoslavia,Austria,4,2,Friendly,Belgrade,Yugoslavia,False
+1952-10-19,Austria,France,1,2,Friendly,Vienna,Austria,False
+1952-11-23,Portugal,Austria,1,1,Friendly,Porto,Portugal,False
+1953-03-22,Germany,Austria,0,0,Friendly,Cologne,Germany,False
+1953-03-25,Republic of Ireland,Austria,4,0,Friendly,Dublin,Éire,False
+1953-04-26,Hungary,Austria,1,1,Friendly,Budapest,Hungary,False
+1953-09-27,Austria,Portugal,9,1,FIFA World Cup qualification,Vienna,Austria,False
+1953-10-11,Austria,Hungary,2,3,Friendly,Vienna,Austria,False
+1953-11-29,Portugal,Austria,0,0,FIFA World Cup qualification,Oeiras,Portugal,False
+1954-04-11,Austria,Hungary,0,1,Friendly,Vienna,Austria,False
+1954-05-09,Austria,Wales,2,0,Friendly,Vienna,Austria,False
+1954-05-30,Austria,Norway,5,0,Friendly,Vienna,Austria,False
+1954-06-16,Austria,Scotland,1,0,FIFA World Cup,Zürich,Switzerland,True
+1954-06-19,Austria,Czechoslovakia,5,0,FIFA World Cup,Zürich,Switzerland,True
+1954-06-26,Switzerland,Austria,5,7,FIFA World Cup,Lausanne,Switzerland,False
+1954-06-30,Austria,Germany,1,6,FIFA World Cup,Basel,Switzerland,True
+1954-07-03,Austria,Uruguay,3,1,FIFA World Cup,Zürich,Switzerland,True
+1954-10-03,Austria,Yugoslavia,2,2,Friendly,Vienna,Austria,False
+1954-10-31,Sweden,Austria,2,1,Friendly,Solna,Sweden,False
+1954-11-14,Hungary,Austria,4,1,Friendly,Budapest,Hungary,False
+1955-03-27,Czechoslovakia,Austria,3,2,Central European International Cup,Brno,Czechoslovakia,False
+1955-04-24,Austria,Hungary,2,2,Central European International Cup,Vienna,Austria,False
+1955-05-01,Switzerland,Austria,2,3,Central European International Cup,Bern,Switzerland,False
+1955-05-19,Austria,Scotland,1,4,Friendly,Vienna,Austria,False
+1955-10-16,Hungary,Austria,6,1,Central European International Cup,Budapest,Hungary,False
+1955-10-30,Austria,Yugoslavia,2,1,Central European International Cup,Vienna,Austria,False
+1955-11-23,Wales,Austria,1,2,Friendly,Wrexham,Wales,False
+1956-03-25,France,Austria,3,1,Friendly,Colombes,France,False
+1956-04-15,Austria,Brazil,2,3,Friendly,Vienna,Austria,False
+1956-05-02,Scotland,Austria,1,1,Friendly,Glasgow,Scotland,False
+1956-06-17,Yugoslavia,Austria,1,1,Central European International Cup,Zagreb,Yugoslavia,False
+1956-09-30,Austria,Luxembourg,7,0,FIFA World Cup qualification,Vienna,Austria,False
+1956-10-14,Austria,Hungary,0,2,Friendly,Vienna,Austria,False
+1956-12-09,Italy,Austria,2,1,Central European International Cup,Genoa,Italy,False
+1957-02-24,Malta,Austria,2,3,Friendly,Gżira,Malta,False
+1957-03-10,Austria,Germany,2,3,Friendly,Vienna,Austria,False
+1957-04-14,Austria,Switzerland,4,0,Central European International Cup,Vienna,Austria,False
+1957-05-05,Austria,Sweden,1,0,Friendly,Vienna,Austria,False
+1957-05-26,Austria,Netherlands,3,2,FIFA World Cup qualification,Vienna,Austria,False
+1957-09-15,Yugoslavia,Austria,3,3,Friendly,Belgrade,Yugoslavia,False
+1957-09-25,Netherlands,Austria,1,1,FIFA World Cup qualification,Amsterdam,Netherlands,False
+1957-09-29,Luxembourg,Austria,0,3,FIFA World Cup qualification,Luxembourg,Luxembourg,False
+1957-10-13,Austria,Czechoslovakia,2,2,Central European International Cup,Vienna,Austria,False
+1958-03-23,Austria,Italy,3,2,Central European International Cup,Vienna,Austria,False
+1958-05-14,Austria,Republic of Ireland,3,1,Friendly,Vienna,Austria,False
+1958-06-08,Austria,Brazil,0,3,FIFA World Cup,Uddevalla,Sweden,True
+1958-06-11,Austria,Russia,0,2,FIFA World Cup,Borås,Sweden,True
+1958-06-15,Austria,England,2,2,FIFA World Cup,Borås,Sweden,True
+1958-09-14,Austria,Yugoslavia,3,4,Friendly,Vienna,Austria,False
+1958-10-05,Austria,France,1,2,Friendly,Vienna,Austria,False
+1958-11-19,Germany,Austria,2,2,Friendly,Berlin,Germany,False
+1959-05-20,Norway,Austria,0,1,UEFA Euro qualification,Oslo,Norway,False
+1959-05-24,Belgium,Austria,0,2,Friendly,Brussels,Belgium,False
+1959-06-14,Austria,Belgium,4,2,Friendly,Vienna,Austria,False
+1959-09-23,Austria,Norway,5,2,UEFA Euro qualification,Vienna,Austria,False
+1959-11-22,Spain,Austria,6,3,Friendly,Valencia,Spain,False
+1959-12-13,France,Austria,5,2,UEFA Euro qualification,Colombes,France,False
+1960-03-27,Austria,France,2,4,UEFA Euro qualification,Vienna,Austria,False
+1960-05-01,Czechoslovakia,Austria,4,0,Friendly,Prague,Czechoslovakia,False
+1960-05-29,Austria,Scotland,4,1,Friendly,Vienna,Austria,False
+1960-06-22,Norway,Austria,1,2,Friendly,Oslo,Norway,False
+1960-09-04,Austria,Russia,3,1,Friendly,Vienna,Austria,False
+1960-10-30,Austria,Spain,3,0,Friendly,Vienna,Austria,False
+1960-11-20,Hungary,Austria,2,0,Friendly,Budapest,Hungary,False
+1960-12-10,Italy,Austria,1,2,Friendly,Naples,Italy,False
+1961-05-27,Austria,England,3,1,Friendly,Vienna,Austria,False
+1961-06-11,Hungary,Austria,1,2,Friendly,Budapest,Hungary,False
+1961-09-10,Russia,Austria,0,1,Friendly,Moscow,Soviet Union,False
+1961-10-08,Austria,Hungary,2,1,Friendly,Vienna,Austria,False
+1961-11-19,Yugoslavia,Austria,2,1,Friendly,Zagreb,Yugoslavia,False
+1962-01-05,Egypt,Austria,1,0,Friendly,Cairo,Egypt,False
+1962-04-04,England,Austria,3,1,Friendly,London,England,False
+1962-04-08,Republic of Ireland,Austria,2,3,Friendly,Dublin,Republic of Ireland,False
+1962-05-06,Austria,Bulgaria,2,0,Friendly,Vienna,Austria,False
+1962-06-24,Austria,Hungary,1,2,Friendly,Vienna,Austria,False
+1962-09-16,Austria,Czechoslovakia,0,6,Friendly,Vienna,Austria,False
+1962-10-17,Israel,Austria,1,1,Friendly,Ramat Gan,Israel,False
+1962-10-28,Hungary,Austria,2,0,Friendly,Budapest,Hungary,False
+1962-11-11,Austria,Italy,1,2,Friendly,Vienna,Austria,False
+1962-11-25,Bulgaria,Austria,1,1,Friendly,Sofia,Bulgaria,False
+1963-04-24,Austria,Czechoslovakia,3,1,Friendly,Vienna,Austria,False
+1963-05-08,Scotland,Austria,4,1,Friendly,Glasgow,Scotland,False
+1963-06-09,Austria,Italy,0,1,Friendly,Vienna,Austria,False
+1963-09-25,Austria,Republic of Ireland,0,0,UEFA Euro qualification,Vienna,Austria,False
+1963-10-13,Republic of Ireland,Austria,3,2,UEFA Euro qualification,Dublin,Republic of Ireland,False
+1963-10-27,Hungary,Austria,2,1,Friendly,Budapest,Hungary,False
+1963-12-14,Italy,Austria,1,0,Friendly,Turin,Italy,False
+1964-04-12,Netherlands,Austria,1,1,Friendly,Amsterdam,Netherlands,False
+1964-05-03,Austria,Hungary,1,0,Friendly,Vienna,Austria,False
+1964-05-14,Austria,Uruguay,0,2,Friendly,Vienna,Austria,False
+1964-09-27,Austria,Yugoslavia,3,2,Friendly,Vienna,Austria,False
+1964-10-11,Austria,Russia,1,0,Friendly,Vienna,Austria,False
+1965-03-24,France,Austria,1,2,Friendly,Paris,France,False
+1965-04-25,Austria,German DR,1,1,FIFA World Cup qualification,Vienna,Austria,False
+1965-05-16,Russia,Austria,0,0,Friendly,Moscow,Soviet Union,False
+1965-06-13,Austria,Hungary,0,1,FIFA World Cup qualification,Vienna,Austria,False
+1965-09-05,Hungary,Austria,3,0,FIFA World Cup qualification,Budapest,Hungary,False
+1965-10-09,Germany,Austria,4,1,Friendly,Stuttgart,Germany,False
+1965-10-20,England,Austria,2,3,Friendly,London,England,False
+1965-10-31,German DR,Austria,1,0,FIFA World Cup qualification,Leipzig,German DR,False
+1966-04-24,Austria,Russia,0,1,Friendly,Vienna,Austria,False
+1966-05-22,Austria,Republic of Ireland,1,0,Friendly,Vienna,Austria,False
+1966-06-18,Italy,Austria,1,0,Friendly,Milan,Italy,False
+1966-09-18,Austria,Netherlands,2,1,Friendly,Vienna,Austria,False
+1966-10-02,Finland,Austria,0,0,UEFA Euro qualification,Helsinki,Finland,False
+1966-10-05,Sweden,Austria,4,1,Friendly,Solna,Sweden,False
+1966-10-30,Hungary,Austria,3,1,Friendly,Budapest,Hungary,False
+1967-05-27,Austria,England,0,1,Friendly,Vienna,Austria,False
+1967-06-11,Russia,Austria,4,3,UEFA Euro qualification,Moscow,Soviet Union,False
+1967-09-06,Austria,Hungary,1,3,Friendly,Vienna,Austria,False
+1967-09-24,Austria,Finland,2,1,UEFA Euro qualification,Vienna,Austria,False
+1967-10-04,Greece,Austria,4,1,UEFA Euro qualification,Piraeus,Greece,False
+1967-10-15,Austria,Russia,1,0,UEFA Euro qualification,Vienna,Austria,False
+1967-11-05,Austria,Greece,1,1,UEFA Euro qualification,Vienna,Austria,False
+1968-05-01,Austria,Romania,1,1,Friendly,Linz,Austria,False
+1968-05-19,Austria,Cyprus,7,1,FIFA World Cup qualification,Vienna,Austria,False
+1968-06-16,Russia,Austria,3,1,Friendly,Leningrad,Soviet Union,False
+1968-09-22,Switzerland,Austria,1,0,Friendly,Bern,Switzerland,False
+1968-10-13,Austria,Germany,0,2,FIFA World Cup qualification,Vienna,Austria,False
+1968-11-06,Scotland,Austria,2,1,FIFA World Cup qualification,Glasgow,Scotland,False
+1968-11-10,Republic of Ireland,Austria,2,2,Friendly,Dublin,Republic of Ireland,False
+1969-04-19,Cyprus,Austria,1,2,FIFA World Cup qualification,Nicosia,Cyprus,False
+1969-04-23,Israel,Austria,1,1,Friendly,Ramat Gan,Israel,False
+1969-04-27,Malta,Austria,1,3,Friendly,Gżira,Malta,False
+1969-05-10,Germany,Austria,1,0,FIFA World Cup qualification,Nuremberg,Germany,False
+1969-09-21,Austria,Germany,1,1,Friendly,Vienna,Austria,False
+1969-11-05,Austria,Scotland,2,0,FIFA World Cup qualification,Vienna,Austria,False
+1970-04-08,Yugoslavia,Austria,1,1,Friendly,Sarajevo,Yugoslavia,False
+1970-04-12,Austria,Czechoslovakia,1,3,Friendly,Vienna,Austria,False
+1970-04-29,Brazil,Austria,1,0,Friendly,Rio de Janeiro,Brazil,False
+1970-09-10,Austria,Yugoslavia,0,1,Friendly,Graz,Austria,False
+1970-09-27,Hungary,Austria,1,1,Friendly,Budapest,Hungary,False
+1970-10-07,Austria,France,1,0,Friendly,Vienna,Austria,False
+1970-10-31,Austria,Italy,1,2,UEFA Euro qualification,Vienna,Austria,False
+1971-04-04,Austria,Hungary,0,2,Friendly,Vienna,Austria,False
+1971-05-26,Sweden,Austria,1,0,UEFA Euro qualification,Solna,Sweden,False
+1971-05-30,Republic of Ireland,Austria,1,4,UEFA Euro qualification,Dublin,Republic of Ireland,False
+1971-07-11,Brazil,Austria,1,1,Friendly,São Paulo,Brazil,False
+1971-09-04,Austria,Sweden,1,0,UEFA Euro qualification,Vienna,Austria,False
+1971-10-10,Austria,Republic of Ireland,6,0,UEFA Euro qualification,Linz,Austria,False
+1971-11-20,Italy,Austria,2,2,UEFA Euro qualification,Rome,Italy,False
+1972-02-20,Tunisia,Austria,3,3,Friendly,Tunis,Tunisia,False
+1972-04-08,Czechoslovakia,Austria,2,0,Friendly,Brno,Czechoslovakia,False
+1972-04-30,Austria,Malta,4,0,FIFA World Cup qualification,Vienna,Austria,False
+1972-06-10,Austria,Sweden,2,0,FIFA World Cup qualification,Vienna,Austria,False
+1972-09-03,Romania,Austria,1,1,Friendly,Craiova,Romania,False
+1972-10-15,Austria,Hungary,2,2,FIFA World Cup qualification,Vienna,Austria,False
+1972-11-25,Malta,Austria,0,2,FIFA World Cup qualification,Gżira,Malta,False
+1973-03-28,Austria,Netherlands,1,0,Friendly,Vienna,Austria,False
+1973-04-29,Hungary,Austria,2,2,FIFA World Cup qualification,Budapest,Hungary,False
+1973-05-23,Sweden,Austria,3,2,FIFA World Cup qualification,Gothenburg,Sweden,False
+1973-06-13,Austria,Brazil,1,1,Friendly,Vienna,Austria,False
+1973-09-26,England,Austria,7,0,Friendly,London,England,False
+1973-10-10,Germany,Austria,4,0,Friendly,Hanover,Germany,False
+1973-11-27,Austria,Sweden,1,2,FIFA World Cup qualification,Gelsenkirchen,Germany,True
+1974-03-27,Netherlands,Austria,1,1,Friendly,Rotterdam,Netherlands,False
+1974-05-01,Brazil,Austria,0,0,Friendly,São Paulo,Brazil,False
+1974-06-08,Austria,Italy,0,0,Friendly,Vienna,Austria,False
+1974-09-04,Austria,Wales,2,1,UEFA Euro qualification,Vienna,Austria,False
+1974-09-28,Austria,Hungary,1,0,Friendly,Vienna,Austria,False
+1974-11-13,Turkey,Austria,0,1,Friendly,Istanbul,Turkey,False
+1975-03-16,Luxembourg,Austria,1,2,UEFA Euro qualification,Luxembourg,Luxembourg,False
+1975-04-02,Austria,Hungary,0,0,UEFA Euro qualification,Vienna,Austria,False
+1975-06-07,Austria,Czechoslovakia,0,0,Friendly,Vienna,Austria,False
+1975-09-03,Austria,Germany,0,2,Friendly,Vienna,Austria,False
+1975-09-24,Hungary,Austria,2,1,UEFA Euro qualification,Budapest,Hungary,False
+1975-10-15,Austria,Luxembourg,6,2,UEFA Euro qualification,Vienna,Austria,False
+1975-11-19,Wales,Austria,1,0,UEFA Euro qualification,Wrexham,Wales,False
+1976-04-28,Austria,Sweden,1,0,Friendly,Vienna,Austria,False
+1976-06-12,Hungary,Austria,2,0,Friendly,Budapest,Hungary,False
+1976-06-23,Austria,Russia,1,2,Friendly,Vienna,Austria,False
+1976-09-22,Austria,Switzerland,3,1,Friendly,Linz,Austria,False
+1976-10-13,Austria,Hungary,2,4,Friendly,Vienna,Austria,False
+1976-11-10,Greece,Austria,0,3,Friendly,Kavála,Greece,False
+1976-12-05,Malta,Austria,0,1,FIFA World Cup qualification,Gżira,Malta,False
+1976-12-15,Israel,Austria,1,3,Friendly,Ramat Gan,Israel,False
+1977-03-09,Austria,Greece,2,0,Friendly,Vienna,Austria,False
+1977-04-17,Austria,Turkey,1,0,FIFA World Cup qualification,Vienna,Austria,False
+1977-04-30,Austria,Malta,9,0,FIFA World Cup qualification,Salzburg,Austria,False
+1977-06-01,Czechoslovakia,Austria,0,0,Friendly,Ostrava,Czechoslovakia,False
+1977-08-24,Austria,Poland,2,1,Friendly,Vienna,Austria,False
+1977-09-24,Austria,German DR,1,1,FIFA World Cup qualification,Vienna,Austria,False
+1977-10-12,German DR,Austria,1,1,FIFA World Cup qualification,Leipzig,German DR,False
+1977-10-30,Turkey,Austria,0,1,FIFA World Cup qualification,İzmir,Turkey,False
+1978-02-15,Greece,Austria,1,1,Friendly,Athens,Greece,False
+1978-03-22,Belgium,Austria,1,0,Friendly,Charleroi,Belgium,False
+1978-04-04,Switzerland,Austria,0,1,Friendly,Basel,Switzerland,False
+1978-05-20,Austria,Netherlands,0,1,Friendly,Vienna,Austria,False
+1978-06-03,Austria,Spain,2,1,FIFA World Cup,Buenos Aires,Argentina,True
+1978-06-07,Austria,Sweden,1,0,FIFA World Cup,Buenos Aires,Argentina,True
+1978-06-11,Austria,Brazil,0,1,FIFA World Cup,Mar del Plata,Argentina,True
+1978-06-14,Austria,Netherlands,1,5,FIFA World Cup,Córdoba,Argentina,True
+1978-06-18,Austria,Italy,0,1,FIFA World Cup,Buenos Aires,Argentina,True
+1978-06-21,Austria,Germany,3,2,FIFA World Cup,Córdoba,Argentina,True
+1978-08-30,Norway,Austria,0,2,UEFA Euro qualification,Oslo,Norway,False
+1978-09-20,Austria,Scotland,3,2,UEFA Euro qualification,Vienna,Austria,False
+1978-11-15,Austria,Portugal,1,2,UEFA Euro qualification,Vienna,Austria,False
+1979-01-30,Israel,Austria,0,1,Friendly,Jaffa,Israel,False
+1979-03-28,Belgium,Austria,1,1,UEFA Euro qualification,Brussels,Belgium,False
+1979-05-02,Austria,Belgium,0,0,UEFA Euro qualification,Vienna,Austria,False
+1979-06-13,Austria,England,4,3,Friendly,Vienna,Austria,False
+1979-08-29,Austria,Norway,4,0,UEFA Euro qualification,Vienna,Austria,False
+1979-09-26,Austria,Hungary,3,1,Friendly,Vienna,Austria,False
+1979-10-17,Scotland,Austria,1,1,UEFA Euro qualification,Glasgow,Scotland,False
+1979-11-21,Portugal,Austria,1,2,UEFA Euro qualification,Lisbon,Portugal,False
+1980-04-02,Germany,Austria,1,0,Friendly,Munich,Germany,False
+1980-05-21,Austria,Argentina,1,5,Friendly,Vienna,Austria,False
+1980-06-04,Hungary,Austria,1,1,Friendly,Budapest,Hungary,False
+1980-09-24,Finland,Austria,0,2,FIFA World Cup qualification,Helsinki,Finland,False
+1980-10-08,Austria,Hungary,3,1,Friendly,Vienna,Austria,False
+1980-11-15,Austria,Albania,5,0,FIFA World Cup qualification,Vienna,Austria,False
+1980-12-06,Albania,Austria,0,1,FIFA World Cup qualification,Tirana,Albania,False
+1981-04-29,Germany,Austria,2,0,FIFA World Cup qualification,Hamburg,Germany,False
+1981-05-28,Austria,Bulgaria,2,0,FIFA World Cup qualification,Vienna,Austria,False
+1981-06-17,Austria,Finland,5,1,FIFA World Cup qualification,Linz,Austria,False
+1981-09-23,Austria,Spain,0,0,Friendly,Vienna,Austria,False
+1981-10-14,Austria,Germany,1,3,FIFA World Cup qualification,Vienna,Austria,False
+1981-11-11,Bulgaria,Austria,0,0,FIFA World Cup qualification,Sofia,Bulgaria,False
+1982-03-24,Hungary,Austria,2,3,Friendly,Budapest,Hungary,False
+1982-04-28,Austria,Czechoslovakia,2,1,Friendly,Vienna,Austria,False
+1982-05-19,Austria,Denmark,1,0,Friendly,Vienna,Austria,False
+1982-06-17,Chile,Austria,0,1,FIFA World Cup,Oviedo,Spain,True
+1982-06-21,Algeria,Austria,0,2,FIFA World Cup,Oviedo,Spain,True
+1982-06-25,Germany,Austria,1,0,FIFA World Cup,Gijón,Spain,True
+1982-06-28,Austria,France,0,1,FIFA World Cup,Madrid,Spain,True
+1982-07-01,Austria,Northern Ireland,2,2,FIFA World Cup,Madrid,Spain,True
+1982-09-22,Austria,Albania,5,0,UEFA Euro qualification,Vienna,Austria,False
+1982-10-13,Austria,Northern Ireland,2,0,UEFA Euro qualification,Vienna,Austria,False
+1982-11-17,Austria,Turkey,4,0,UEFA Euro qualification,Vienna,Austria,False
+1983-04-27,Austria,Germany,0,0,UEFA Euro qualification,Vienna,Austria,False
+1983-05-17,Austria,Russia,2,2,Friendly,Vienna,Austria,False
+1983-06-08,Albania,Austria,1,2,UEFA Euro qualification,Tirana,Albania,False
+1983-09-21,Northern Ireland,Austria,3,1,UEFA Euro qualification,Belfast,Northern Ireland,False
+1983-10-05,Germany,Austria,3,0,UEFA Euro qualification,Gelsenkirchen,Germany,False
+1983-11-16,Turkey,Austria,3,1,UEFA Euro qualification,Istanbul,Turkey,False
+1984-03-28,France,Austria,1,0,Friendly,Bordeaux,France,False
+1984-04-18,Austria,Greece,0,0,Friendly,Vienna,Austria,False
+1984-05-02,Cyprus,Austria,1,2,FIFA World Cup qualification,Nicosia,Cyprus,False
+1984-06-07,Liechtenstein,Austria,0,6,Friendly,Vaduz,Liechtenstein,False
+1984-09-12,Denmark,Austria,3,1,Friendly,Copenhagen,Denmark,False
+1984-09-26,Hungary,Austria,3,1,FIFA World Cup qualification,Budapest,Hungary,False
+1984-11-14,Austria,Netherlands,1,0,FIFA World Cup qualification,Vienna,Austria,False
+1985-03-27,Russia,Austria,2,0,Friendly,Tbilisi,Soviet Union,False
+1985-04-17,Austria,Hungary,0,3,FIFA World Cup qualification,Vienna,Austria,False
+1985-05-01,Netherlands,Austria,1,1,FIFA World Cup qualification,Rotterdam,Netherlands,False
+1985-05-07,Austria,Cyprus,4,0,FIFA World Cup qualification,Graz,Austria,False
+1985-10-16,Austria,Yugoslavia,0,3,Friendly,Linz,Austria,False
+1985-11-20,Spain,Austria,0,0,Friendly,Zaragoza,Spain,False
+1986-03-26,Italy,Austria,2,1,Friendly,Udine,Italy,False
+1986-05-14,Austria,Sweden,1,0,Friendly,Salzburg,Austria,False
+1986-08-27,Austria,Switzerland,1,1,Friendly,Innsbruck,Austria,False
+1986-09-10,Romania,Austria,4,0,UEFA Euro qualification,Bucharest,Romania,False
+1986-10-15,Austria,Albania,3,0,UEFA Euro qualification,Graz,Austria,False
+1986-10-29,Austria,Germany,4,1,Friendly,Vienna,Austria,False
+1987-02-07,Tunisia,Austria,1,3,Friendly,Tunis,Tunisia,False
+1987-03-25,Yugoslavia,Austria,4,0,Friendly,Banja Luka,Yugoslavia,False
+1987-04-01,Austria,Spain,2,3,UEFA Euro qualification,Vienna,Austria,False
+1987-04-29,Albania,Austria,0,1,UEFA Euro qualification,Tirana,Albania,False
+1987-08-18,Switzerland,Austria,2,2,Friendly,St. Gallen,Switzerland,False
+1987-10-14,Spain,Austria,2,0,UEFA Euro qualification,Seville,Spain,False
+1987-11-18,Austria,Romania,0,0,UEFA Euro qualification,Vienna,Austria,False
+1988-02-02,Austria,Morocco,1,3,Tournoi de France,Toulouse,France,True
+1988-02-05,Austria,Switzerland,1,2,Tournoi de France,Monaco,Monaco,True
+1988-04-06,Greece,Austria,2,2,Friendly,Piraeus,Greece,False
+1988-04-27,Austria,Denmark,1,0,Friendly,Vienna,Austria,False
+1988-05-17,Hungary,Austria,0,4,Friendly,Budapest,Hungary,False
+1988-08-03,Austria,Brazil,0,2,Friendly,Vienna,Austria,False
+1988-08-31,Austria,Hungary,0,0,Friendly,Linz,Austria,False
+1988-09-20,Czechoslovakia,Austria,4,2,Friendly,Prague,Czechoslovakia,False
+1988-10-19,Russia,Austria,2,0,FIFA World Cup qualification,Kyiv,Soviet Union,True
+1988-11-02,Austria,Turkey,3,2,FIFA World Cup qualification,Vienna,Austria,False
+1989-03-25,Austria,Italy,0,1,Friendly,Vienna,Austria,False
+1989-04-11,Austria,Czechoslovakia,1,2,Friendly,Graz,Austria,False
+1989-05-20,German DR,Austria,1,1,FIFA World Cup qualification,Leipzig,German DR,False
+1989-05-31,Norway,Austria,4,1,Friendly,Oslo,Norway,False
+1989-06-14,Iceland,Austria,0,0,FIFA World Cup qualification,Reykjavík,Iceland,False
+1989-08-23,Austria,Iceland,2,1,FIFA World Cup qualification,Salzburg,Austria,False
+1989-09-06,Austria,Russia,0,0,FIFA World Cup qualification,Vienna,Austria,False
+1989-10-04,Malta,Austria,1,2,Friendly,Attard,Malta,False
+1989-10-25,Turkey,Austria,3,0,FIFA World Cup qualification,Istanbul,Turkey,False
+1989-11-15,Austria,German DR,3,0,FIFA World Cup qualification,Vienna,Austria,False
+1990-02-28,Egypt,Austria,0,0,Friendly,Cairo,Egypt,False
+1990-03-28,Spain,Austria,2,3,Friendly,Málaga,Spain,False
+1990-04-11,Austria,Hungary,3,0,Friendly,Salzburg,Austria,False
+1990-05-03,Austria,Argentina,1,1,Friendly,Vienna,Austria,False
+1990-05-30,Austria,Netherlands,3,2,Friendly,Vienna,Austria,False
+1990-06-09,Italy,Austria,1,0,FIFA World Cup,Rome,Italy,False
+1990-06-15,Austria,Czechoslovakia,0,1,FIFA World Cup,Florence,Italy,True
+1990-06-19,Austria,United States,2,1,FIFA World Cup,Florence,Italy,True
+1990-08-21,Austria,Switzerland,1,3,Friendly,Vienna,Austria,False
+1990-09-12,Faroe Islands,Austria,1,0,UEFA Euro qualification,Landskrona,Sweden,True
+1990-10-31,Yugoslavia,Austria,4,1,UEFA Euro qualification,Belgrade,Yugoslavia,False
+1990-11-14,Austria,Northern Ireland,0,0,UEFA Euro qualification,Vienna,Austria,False
+1991-04-17,Austria,Norway,0,0,Friendly,Vienna,Austria,False
+1991-05-01,Sweden,Austria,6,0,Friendly,Solna,Sweden,False
+1991-05-22,Austria,Faroe Islands,3,0,UEFA Euro qualification,Salzburg,Austria,False
+1991-06-05,Denmark,Austria,2,1,UEFA Euro qualification,Odense,Denmark,False
+1991-09-04,Portugal,Austria,1,1,Friendly,Porto,Portugal,False
+1991-10-09,Austria,Denmark,0,3,UEFA Euro qualification,Vienna,Austria,False
+1991-10-16,Northern Ireland,Austria,2,1,UEFA Euro qualification,Belfast,Northern Ireland,False
+1991-11-13,Austria,Yugoslavia,0,2,UEFA Euro qualification,Vienna,Austria,False
+1992-03-25,Hungary,Austria,2,1,Friendly,Budapest,Hungary,False
+1992-04-14,Austria,Lithuania,4,0,Friendly,Vienna,Austria,False
+1992-04-29,Austria,Wales,1,1,Friendly,Vienna,Austria,False
+1992-05-19,Austria,Poland,2,4,Friendly,Salzburg,Austria,False
+1992-05-27,Netherlands,Austria,3,2,Friendly,Sittard,Netherlands,False
+1992-08-19,Czechoslovakia,Austria,2,2,Friendly,Bratislava,Czechoslovakia,False
+1992-09-02,Austria,Portugal,1,1,Friendly,Linz,Austria,False
+1992-10-14,France,Austria,2,0,FIFA World Cup qualification,Paris,France,False
+1992-10-28,Austria,Israel,5,2,FIFA World Cup qualification,Vienna,Austria,False
+1992-11-18,Germany,Austria,0,0,Friendly,Nuremberg,Germany,False
+1993-03-10,Austria,Greece,2,1,Friendly,Vienna,Austria,False
+1993-03-27,Austria,France,0,1,FIFA World Cup qualification,Vienna,Austria,False
+1993-04-14,Austria,Bulgaria,3,1,FIFA World Cup qualification,Vienna,Austria,False
+1993-05-13,Finland,Austria,3,1,FIFA World Cup qualification,Turku,Finland,False
+1993-05-19,Sweden,Austria,1,0,FIFA World Cup qualification,Solna,Sweden,False
+1993-08-25,Austria,Finland,3,0,FIFA World Cup qualification,Vienna,Austria,False
+1993-10-13,Bulgaria,Austria,4,1,FIFA World Cup qualification,Sofia,Bulgaria,False
+1993-10-27,Israel,Austria,1,1,FIFA World Cup qualification,Ramat Gan,Israel,False
+1993-11-10,Austria,Sweden,1,1,FIFA World Cup qualification,Vienna,Austria,False
+1994-03-23,Austria,Hungary,1,1,Friendly,Linz,Austria,False
+1994-04-20,Austria,Scotland,1,2,Friendly,Vienna,Austria,False
+1994-05-17,Poland,Austria,3,4,Friendly,Katowice,Poland,False
+1994-06-02,Austria,Germany,1,5,Friendly,Vienna,Austria,False
+1994-08-17,Austria,Russia,0,3,Friendly,Klagenfurt,Austria,False
+1994-09-07,Liechtenstein,Austria,0,4,UEFA Euro qualification,Eschen,Liechtenstein,False
+1994-10-12,Austria,Northern Ireland,1,2,UEFA Euro qualification,Vienna,Austria,False
+1994-11-13,Portugal,Austria,1,0,UEFA Euro qualification,Lisbon,Portugal,False
+1995-03-29,Austria,Latvia,5,0,UEFA Euro qualification,Salzburg,Austria,False
+1995-04-26,Austria,Liechtenstein,7,0,UEFA Euro qualification,Salzburg,Austria,False
+1995-06-11,Republic of Ireland,Austria,1,3,UEFA Euro qualification,Dublin,Republic of Ireland,False
+1995-08-16,Latvia,Austria,3,2,UEFA Euro qualification,Riga,Latvia,False
+1995-09-06,Austria,Republic of Ireland,3,1,UEFA Euro qualification,Vienna,Austria,False
+1995-10-11,Austria,Portugal,1,1,UEFA Euro qualification,Vienna,Austria,False
+1995-11-15,Northern Ireland,Austria,5,3,UEFA Euro qualification,Belfast,Northern Ireland,False
+1996-03-27,Austria,Switzerland,1,0,Friendly,Vienna,Austria,False
+1996-04-24,Hungary,Austria,0,2,Friendly,Budapest,Hungary,False
+1996-05-29,Austria,Czech Republic,1,0,Friendly,Salzburg,Austria,False
+1996-08-31,Austria,Scotland,0,0,FIFA World Cup qualification,Vienna,Austria,False
+1996-10-09,Sweden,Austria,0,1,FIFA World Cup qualification,Solna,Sweden,False
+1996-11-09,Austria,Latvia,2,1,FIFA World Cup qualification,Vienna,Austria,False
+1997-03-18,Austria,Slovenia,0,2,Friendly,Linz,Austria,False
+1997-04-02,Scotland,Austria,2,0,FIFA World Cup qualification,Glasgow,Scotland,False
+1997-04-30,Austria,Estonia,2,0,FIFA World Cup qualification,Vienna,Austria,False
+1997-06-08,Latvia,Austria,1,3,FIFA World Cup qualification,Riga,Latvia,False
+1997-08-20,Estonia,Austria,0,3,FIFA World Cup qualification,Tallinn,Estonia,False
+1997-09-06,Austria,Sweden,1,0,FIFA World Cup qualification,Vienna,Austria,False
+1997-09-10,Belarus,Austria,0,1,FIFA World Cup qualification,Minsk,Belarus,False
+1997-10-11,Austria,Belarus,4,0,FIFA World Cup qualification,Vienna,Austria,False
+1998-03-25,Austria,Hungary,2,3,Friendly,Vienna,Austria,False
+1998-04-22,Austria,United States,0,3,Friendly,Vienna,Austria,False
+1998-05-27,Austria,Tunisia,2,1,Friendly,Vienna,Austria,False
+1998-06-02,Austria,Liechtenstein,6,0,Friendly,Vienna,Austria,False
+1998-06-11,Cameroon,Austria,1,1,FIFA World Cup,Toulouse,France,True
+1998-06-17,Chile,Austria,1,1,FIFA World Cup,Saint-Étienne,France,True
+1998-06-23,Italy,Austria,2,1,FIFA World Cup,Saint-Denis,France,True
+1998-08-19,Austria,France,2,2,Friendly,Vienna,Austria,False
+1998-09-05,Austria,Israel,1,1,UEFA Euro qualification,Vienna,Austria,False
+1998-10-10,Cyprus,Austria,0,3,UEFA Euro qualification,Larnaca,Cyprus,False
+1998-10-14,San Marino,Austria,1,4,UEFA Euro qualification,Serravalle,San Marino,False
+1999-03-10,Switzerland,Austria,2,4,Friendly,St. Gallen,Switzerland,False
+1999-03-27,Spain,Austria,9,0,UEFA Euro qualification,Valencia,Spain,False
+1999-04-28,Austria,San Marino,7,0,UEFA Euro qualification,Graz,Austria,False
+1999-06-06,Israel,Austria,5,0,UEFA Euro qualification,Ramat Gan,Israel,False
+1999-08-18,Sweden,Austria,0,0,Friendly,Malmö,Sweden,False
+1999-09-04,Austria,Spain,1,3,UEFA Euro qualification,Vienna,Austria,False
+1999-10-09,Austria,Cyprus,3,1,UEFA Euro qualification,Vienna,Austria,False
+2000-02-23,Greece,Austria,4,1,Friendly,Kalamáta,Greece,False
+2000-03-29,Austria,Sweden,1,1,Friendly,Graz,Austria,False
+2000-04-26,Austria,Croatia,1,2,Friendly,Vienna,Austria,False
+2000-08-16,Hungary,Austria,1,1,Friendly,Budapest,Hungary,False
+2000-09-01,Austria,Iran,5,1,Friendly,Vienna,Austria,False
+2000-10-07,Liechtenstein,Austria,0,1,FIFA World Cup qualification,Vaduz,Liechtenstein,False
+2000-10-11,Austria,Spain,1,1,FIFA World Cup qualification,Vienna,Austria,False
+2001-02-28,Croatia,Austria,1,0,Friendly,Rijeka,Croatia,False
+2001-03-24,Bosnia and Herzegovina,Austria,1,1,FIFA World Cup qualification,Sarajevo,Bosnia and Herzegovina,False
+2001-03-28,Austria,Israel,2,1,FIFA World Cup qualification,Vienna,Austria,False
+2001-04-25,Austria,Liechtenstein,2,0,FIFA World Cup qualification,Innsbruck,Austria,False
+2001-08-15,Austria,Switzerland,1,2,Friendly,Vienna,Austria,False
+2001-09-01,Spain,Austria,4,0,FIFA World Cup qualification,Valencia,Spain,False
+2001-09-05,Austria,Bosnia and Herzegovina,2,0,FIFA World Cup qualification,Vienna,Austria,False
+2001-10-27,Israel,Austria,1,1,FIFA World Cup qualification,Ramat Gan,Israel,False
+2001-11-10,Austria,Turkey,0,1,FIFA World Cup qualification,Vienna,Austria,False
+2001-11-14,Turkey,Austria,5,0,FIFA World Cup qualification,Istanbul,Turkey,False
+2002-03-27,Austria,Slovakia,2,0,Friendly,Graz,Austria,False
+2002-04-17,Austria,Cameroon,0,0,Friendly,Vienna,Austria,False
+2002-05-18,Germany,Austria,6,2,Friendly,Leverkusen,Germany,False
+2002-08-21,Switzerland,Austria,3,2,Friendly,Basel,Switzerland,False
+2002-09-07,Austria,Moldova,2,0,UEFA Euro qualification,Vienna,Austria,False
+2002-10-12,Belarus,Austria,0,2,UEFA Euro qualification,Minsk,Belarus,False
+2002-10-16,Austria,Netherlands,0,3,UEFA Euro qualification,Vienna,Austria,False
+2002-11-20,Austria,Norway,0,1,Friendly,Vienna,Austria,False
+2003-03-26,Austria,Greece,2,2,Friendly,Graz,Austria,False
+2003-04-02,Czech Republic,Austria,4,0,UEFA Euro qualification,Prague,Czech Republic,False
+2003-04-30,Scotland,Austria,0,2,Friendly,Glasgow,Scotland,False
+2003-06-07,Moldova,Austria,1,0,UEFA Euro qualification,Tiraspol,Moldova,False
+2003-06-11,Austria,Belarus,5,0,UEFA Euro qualification,Innsbruck,Austria,False
+2003-08-20,Austria,Costa Rica,2,0,Friendly,Vienna,Austria,False
+2003-09-06,Netherlands,Austria,3,1,UEFA Euro qualification,Rotterdam,Netherlands,False
+2003-10-11,Austria,Czech Republic,2,3,UEFA Euro qualification,Vienna,Austria,False
+2004-03-31,Slovakia,Austria,1,1,Friendly,Bratislava,Slovakia,False
+2004-04-28,Austria,Luxembourg,4,1,Friendly,Innsbruck,Austria,False
+2004-05-25,Austria,Russia,0,0,Friendly,Graz,Austria,False
+2004-08-18,Austria,Germany,1,3,Friendly,Vienna,Austria,False
+2004-09-04,Austria,England,2,2,FIFA World Cup qualification,Vienna,Austria,False
+2004-09-08,Austria,Azerbaijan,2,0,FIFA World Cup qualification,Vienna,Austria,False
+2004-10-09,Austria,Poland,1,3,FIFA World Cup qualification,Vienna,Austria,False
+2004-10-13,Northern Ireland,Austria,3,3,FIFA World Cup qualification,Belfast,Northern Ireland,False
+2005-02-08,Cyprus,Austria,1,1,Cyprus International Tournament,Limassol,Cyprus,False
+2005-02-09,Austria,Latvia,1,1,Cyprus International Tournament,Limassol,Cyprus,True
+2005-03-26,Wales,Austria,0,2,FIFA World Cup qualification,Cardiff,Wales,False
+2005-03-30,Austria,Wales,1,0,FIFA World Cup qualification,Vienna,Austria,False
+2005-08-17,Austria,Scotland,2,2,Friendly,Graz,Austria,False
+2005-09-03,Poland,Austria,3,2,FIFA World Cup qualification,Chorzów,Poland,False
+2005-09-07,Azerbaijan,Austria,0,0,FIFA World Cup qualification,Baku,Azerbaijan,False
+2005-10-08,England,Austria,1,0,FIFA World Cup qualification,Manchester,England,False
+2005-10-12,Austria,Northern Ireland,2,0,FIFA World Cup qualification,Vienna,Austria,False
+2006-03-01,Austria,Canada,0,2,Friendly,Vienna,Austria,False
+2006-05-23,Austria,Croatia,1,4,Friendly,Vienna,Austria,False
+2006-08-16,Austria,Hungary,1,2,Friendly,Graz,Austria,False
+2006-09-02,Austria,Costa Rica,2,2,Friendly,Geneva,Switzerland,True
+2006-09-06,Austria,Venezuela,0,1,Friendly,Basel,Switzerland,True
+2006-10-06,Liechtenstein,Austria,1,2,Friendly,Vaduz,Liechtenstein,False
+2006-10-11,Austria,Switzerland,2,1,Friendly,Innsbruck,Austria,False
+2006-11-15,Austria,Trinidad and Tobago,4,1,Friendly,Vienna,Austria,False
+2007-02-07,Malta,Austria,1,1,Friendly,Attard,Malta,False
+2007-03-24,Austria,Ghana,1,1,Friendly,Graz,Austria,False
+2007-03-28,France,Austria,1,0,Friendly,Saint-Denis,France,False
+2007-05-30,Austria,Scotland,0,1,Friendly,Vienna,Austria,False
+2007-06-02,Austria,Paraguay,0,0,Friendly,Vienna,Austria,False
+2007-08-22,Austria,Czech Republic,1,1,Friendly,Vienna,Austria,False
+2007-09-07,Austria,Japan,0,0,Friendly,Klagenfurt,Austria,False
+2007-09-11,Austria,Chile,0,2,Friendly,Vienna,Austria,False
+2007-10-13,Switzerland,Austria,3,1,Friendly,Zürich,Switzerland,False
+2007-10-17,Austria,Ivory Coast,3,2,Friendly,Innsbruck,Austria,False
+2007-11-16,Austria,England,0,1,Friendly,Vienna,Austria,False
+2007-11-21,Austria,Tunisia,0,0,Friendly,Vienna,Austria,False
+2008-02-06,Austria,Germany,0,3,Friendly,Vienna,Austria,False
+2008-03-26,Austria,Netherlands,3,4,Friendly,Vienna,Austria,False
+2008-05-27,Austria,Nigeria,1,1,Friendly,Graz,Austria,False
+2008-05-30,Austria,Malta,5,1,Friendly,Graz,Austria,False
+2008-06-08,Austria,Croatia,0,1,UEFA Euro,Vienna,Austria,False
+2008-06-12,Austria,Poland,1,1,UEFA Euro,Vienna,Austria,False
+2008-06-16,Austria,Germany,0,1,UEFA Euro,Vienna,Austria,False
+2008-08-20,Italy,Austria,2,2,Friendly,Nice,France,True
+2008-09-06,Austria,France,3,1,FIFA World Cup qualification,Vienna,Austria,False
+2008-09-10,Lithuania,Austria,2,0,FIFA World Cup qualification,Marijampolė,Lithuania,False
+2008-10-11,Faroe Islands,Austria,1,1,FIFA World Cup qualification,Tórshavn,Faroe Islands,False
+2008-10-15,Austria,Serbia,1,3,FIFA World Cup qualification,Vienna,Austria,False
+2008-11-19,Austria,Turkey,2,4,Friendly,Vienna,Austria,False
+2009-02-11,Austria,Sweden,0,2,Friendly,Graz,Austria,False
+2009-04-01,Austria,Romania,2,1,FIFA World Cup qualification,Klagenfurt,Austria,False
+2009-06-06,Serbia,Austria,1,0,FIFA World Cup qualification,Belgrade,Serbia,False
+2009-08-12,Austria,Cameroon,0,2,Friendly,Klagenfurt,Austria,False
+2009-09-05,Austria,Faroe Islands,3,1,FIFA World Cup qualification,Graz,Austria,False
+2009-09-09,Romania,Austria,1,1,FIFA World Cup qualification,Bucharest,Romania,False
+2009-10-10,Austria,Lithuania,2,1,FIFA World Cup qualification,Innsbruck,Austria,False
+2009-10-14,France,Austria,3,1,FIFA World Cup qualification,Saint-Denis,France,False
+2009-11-18,Austria,Spain,1,5,Friendly,Vienna,Austria,False
+2010-03-03,Austria,Denmark,2,1,Friendly,Vienna,Austria,False
+2010-05-19,Austria,Croatia,0,1,Friendly,Klagenfurt,Austria,False
+2010-08-11,Austria,Switzerland,0,1,Friendly,Klagenfurt,Austria,False
+2010-09-07,Austria,Kazakhstan,2,0,UEFA Euro qualification,Salzburg,Austria,False
+2010-10-08,Austria,Azerbaijan,3,0,UEFA Euro qualification,Vienna,Austria,False
+2010-10-12,Belgium,Austria,4,4,UEFA Euro qualification,Brussels,Belgium,False
+2010-11-17,Austria,Greece,1,2,Friendly,Vienna,Austria,False
+2011-02-09,Netherlands,Austria,3,1,Friendly,Eindhoven,Netherlands,False
+2011-03-25,Austria,Belgium,0,2,UEFA Euro qualification,Vienna,Austria,False
+2011-03-29,Turkey,Austria,2,0,UEFA Euro qualification,Istanbul,Turkey,False
+2011-06-03,Austria,Germany,1,2,UEFA Euro qualification,Vienna,Austria,False
+2011-06-07,Austria,Latvia,3,1,Friendly,Graz,Austria,False
+2011-08-10,Austria,Slovakia,1,2,Friendly,Klagenfurt,Austria,False
+2011-09-02,Germany,Austria,6,2,UEFA Euro qualification,Gelsenkirchen,Germany,False
+2011-09-06,Austria,Turkey,0,0,UEFA Euro qualification,Vienna,Austria,False
+2011-10-07,Azerbaijan,Austria,1,4,UEFA Euro qualification,Baku,Azerbaijan,False
+2011-10-11,Kazakhstan,Austria,0,0,UEFA Euro qualification,Astana,Kazakhstan,False
+2011-11-15,Ukraine,Austria,2,1,Friendly,Lviv,Ukraine,False
+2012-02-29,Austria,Finland,3,1,Friendly,Klagenfurt,Austria,False
+2012-06-01,Austria,Ukraine,3,2,Friendly,Innsbruck,Austria,False
+2012-06-05,Austria,Romania,0,0,Friendly,Innsbruck,Austria,False
+2012-08-15,Austria,Turkey,2,0,Friendly,Vienna,Austria,False
+2012-09-11,Austria,Germany,1,2,FIFA World Cup qualification,Vienna,Austria,False
+2012-10-12,Kazakhstan,Austria,0,0,FIFA World Cup qualification,Astana,Kazakhstan,False
+2012-10-16,Austria,Kazakhstan,4,0,FIFA World Cup qualification,Vienna,Austria,False
+2012-11-14,Austria,Ivory Coast,0,3,Friendly,Linz,Austria,False
+2013-02-06,Wales,Austria,2,1,Friendly,Swansea,Wales,False
+2013-03-22,Austria,Faroe Islands,6,0,FIFA World Cup qualification,Vienna,Austria,False
+2013-03-26,Republic of Ireland,Austria,2,2,FIFA World Cup qualification,Dublin,Republic of Ireland,False
+2013-06-07,Austria,Sweden,2,1,FIFA World Cup qualification,Vienna,Austria,False
+2013-08-14,Austria,Greece,0,2,Friendly,Salzburg,Austria,False
+2013-09-06,Germany,Austria,3,0,FIFA World Cup qualification,Munich,Germany,False
+2013-09-10,Austria,Republic of Ireland,1,0,FIFA World Cup qualification,Vienna,Austria,False
+2013-10-11,Sweden,Austria,2,1,FIFA World Cup qualification,Solna,Sweden,False
+2013-10-15,Faroe Islands,Austria,0,3,FIFA World Cup qualification,Tórshavn,Faroe Islands,False
+2013-11-19,Austria,United States,1,0,Friendly,Vienna,Austria,False
+2014-03-05,Austria,Uruguay,1,1,Friendly,Klagenfurt,Austria,False
+2014-05-30,Austria,Iceland,1,1,Friendly,Innsbruck,Austria,False
+2014-06-03,Czech Republic,Austria,1,2,Friendly,Olomouc,Czech Republic,False
+2014-09-08,Austria,Sweden,1,1,UEFA Euro qualification,Vienna,Austria,False
+2014-10-09,Moldova,Austria,1,2,UEFA Euro qualification,Chișinău,Moldova,False
+2014-10-12,Austria,Montenegro,1,0,UEFA Euro qualification,Vienna,Austria,False
+2014-11-15,Austria,Russia,1,0,UEFA Euro qualification,Vienna,Austria,False
+2014-11-18,Austria,Brazil,1,2,Friendly,Vienna,Austria,False
+2015-03-27,Liechtenstein,Austria,0,5,UEFA Euro qualification,Vaduz,Liechtenstein,False
+2015-03-31,Austria,Bosnia and Herzegovina,1,1,Friendly,Vienna,Austria,False
+2015-06-14,Russia,Austria,0,1,UEFA Euro qualification,Moscow,Russia,False
+2015-09-05,Austria,Moldova,1,0,UEFA Euro qualification,Vienna,Austria,False
+2015-09-08,Sweden,Austria,1,4,UEFA Euro qualification,Solna,Sweden,False
+2015-10-09,Montenegro,Austria,2,3,UEFA Euro qualification,Podgorica,Montenegro,False
+2015-10-12,Austria,Liechtenstein,3,0,UEFA Euro qualification,Vienna,Austria,False
+2015-11-17,Austria,Switzerland,1,2,Friendly,Vienna,Austria,False
+2016-03-26,Austria,Albania,2,1,Friendly,Vienna,Austria,False
+2016-03-29,Austria,Turkey,1,2,Friendly,Vienna,Austria,False
+2016-05-31,Austria,Malta,2,1,Friendly,Klagenfurt,Austria,False
+2016-06-04,Austria,Netherlands,0,2,Friendly,Vienna,Austria,False
+2016-06-14,Austria,Hungary,0,2,UEFA Euro,Bordeaux,France,True
+2016-06-18,Portugal,Austria,0,0,UEFA Euro,Lyon,France,True
+2016-06-22,Iceland,Austria,2,1,UEFA Euro,Saint-Denis,France,True
+2016-09-05,Georgia,Austria,1,2,FIFA World Cup qualification,Tbilisi,Georgia,False
+2016-10-06,Austria,Wales,2,2,FIFA World Cup qualification,Vienna,Austria,False
+2016-10-09,Serbia,Austria,3,2,FIFA World Cup qualification,Belgrade,Serbia,False
+2016-11-12,Austria,Republic of Ireland,0,1,FIFA World Cup qualification,Vienna,Austria,False
+2016-11-15,Austria,Slovakia,0,0,Friendly,Vienna,Austria,False
+2017-03-24,Austria,Moldova,2,0,FIFA World Cup qualification,Vienna,Austria,False
+2017-03-28,Austria,Finland,1,1,Friendly,Innsbruck,Austria,False
+2017-06-11,Republic of Ireland,Austria,1,1,FIFA World Cup qualification,Dublin,Republic of Ireland,False
+2017-09-02,Wales,Austria,1,0,FIFA World Cup qualification,Cardiff,Wales,False
+2017-09-05,Austria,Georgia,1,1,FIFA World Cup qualification,Vienna,Austria,False
+2017-10-06,Austria,Serbia,3,2,FIFA World Cup qualification,Vienna,Austria,False
+2017-10-09,Moldova,Austria,0,1,FIFA World Cup qualification,Chișinău,Moldova,False
+2017-11-14,Austria,Uruguay,2,1,Friendly,Vienna,Austria,False
+2018-03-23,Austria,Slovenia,3,0,Friendly,Klagenfurt,Austria,False
+2018-03-27,Luxembourg,Austria,0,4,Friendly,Luxembourg,Luxembourg,False
+2018-05-30,Austria,Russia,1,0,Friendly,Innsbruck,Austria,False
+2018-06-02,Austria,Germany,2,1,Friendly,Klagenfurt,Austria,False
+2018-06-10,Austria,Brazil,0,3,Friendly,Vienna,Austria,False
+2018-09-06,Austria,Sweden,2,0,Friendly,Vienna,Austria,False
+2018-09-11,Bosnia and Herzegovina,Austria,1,0,UEFA Nations League,Zenica,Bosnia and Herzegovina,False
+2018-10-12,Austria,Northern Ireland,1,0,UEFA Nations League,Vienna,Austria,False
+2018-10-16,Denmark,Austria,2,0,Friendly,Herning,Denmark,False
+2018-11-15,Austria,Bosnia and Herzegovina,0,0,UEFA Nations League,Vienna,Austria,False
+2018-11-18,Northern Ireland,Austria,1,2,UEFA Nations League,Belfast,Northern Ireland,False
+2019-03-21,Austria,Poland,0,1,UEFA Euro qualification,Vienna,Austria,False
+2019-03-24,Israel,Austria,4,2,UEFA Euro qualification,Haifa,Israel,False
+2019-06-07,Austria,Slovenia,1,0,UEFA Euro qualification,Klagenfurt,Austria,False
+2019-06-10,North Macedonia,Austria,1,4,UEFA Euro qualification,Skopje,North Macedonia,False
+2019-09-06,Austria,Latvia,6,0,UEFA Euro qualification,Salzburg,Austria,False
+2019-09-09,Poland,Austria,0,0,UEFA Euro qualification,Warsaw,Poland,False
+2019-10-10,Austria,Israel,3,1,UEFA Euro qualification,Vienna,Austria,False
+2019-10-13,Slovenia,Austria,0,1,UEFA Euro qualification,Ljubljana,Slovenia,False
+2019-11-16,Austria,North Macedonia,2,1,UEFA Euro qualification,Vienna,Austria,False
+2019-11-19,Latvia,Austria,1,0,UEFA Euro qualification,Riga,Latvia,False
+2020-09-04,Norway,Austria,1,2,UEFA Nations League,Oslo,Norway,False
+2020-09-07,Austria,Romania,2,3,UEFA Nations League,Klagenfurt,Austria,False
+2020-10-07,Austria,Greece,2,1,Friendly,Klagenfurt,Austria,False
+2020-10-11,Northern Ireland,Austria,0,1,UEFA Nations League,Belfast,Northern Ireland,False
+2020-10-14,Romania,Austria,0,1,UEFA Nations League,Ploiești,Romania,False
+2020-11-11,Luxembourg,Austria,0,3,Friendly,Luxembourg,Luxembourg,False
+2020-11-15,Austria,Northern Ireland,2,1,UEFA Nations League,Vienna,Austria,False
+2020-11-18,Austria,Norway,1,1,UEFA Nations League,Vienna,Austria,False
+2021-03-25,Scotland,Austria,2,2,FIFA World Cup qualification,Glasgow,Scotland,False
+2021-03-28,Austria,Faroe Islands,3,1,FIFA World Cup qualification,Vienna,Austria,False
+2021-03-31,Austria,Denmark,0,4,FIFA World Cup qualification,Vienna,Austria,False
+2021-06-02,England,Austria,1,0,Friendly,London,England,False
+2021-06-06,Austria,Slovakia,0,0,Friendly,Vienna,Austria,False
+2021-06-13,Austria,North Macedonia,3,1,UEFA Euro,Bucharest,Romania,True
+2021-06-17,Netherlands,Austria,2,0,UEFA Euro,Amsterdam,Netherlands,False
+2021-06-21,Ukraine,Austria,0,1,UEFA Euro,Bucharest,Romania,True
+2021-06-26,Italy,Austria,2,1,UEFA Euro,London,England,True
+2021-09-01,Moldova,Austria,0,2,FIFA World Cup qualification,Chișinău,Moldova,False
+2021-09-04,Israel,Austria,5,2,FIFA World Cup qualification,Haifa,Israel,False
+2021-09-07,Austria,Scotland,0,1,FIFA World Cup qualification,Vienna,Austria,False
+2021-10-09,Faroe Islands,Austria,0,2,FIFA World Cup qualification,Tórshavn,Faroe Islands,False
+2021-10-12,Denmark,Austria,1,0,FIFA World Cup qualification,Copenhagen,Denmark,False
+2021-11-12,Austria,Israel,4,2,FIFA World Cup qualification,Klagenfurt,Austria,False
+2021-11-15,Austria,Moldova,4,1,FIFA World Cup qualification,Klagenfurt,Austria,False
+2022-03-24,Wales,Austria,2,1,FIFA World Cup qualification,Cardiff,Wales,False
+2022-03-29,Austria,Scotland,2,2,Friendly,Vienna,Austria,False
+2022-06-03,Croatia,Austria,0,3,UEFA Nations League,Osijek,Croatia,False
+2022-06-06,Austria,Denmark,1,2,UEFA Nations League,Vienna,Austria,False
+2022-06-10,Austria,France,1,1,UEFA Nations League,Vienna,Austria,False
+2022-06-13,Denmark,Austria,2,0,UEFA Nations League,Copenhagen,Denmark,False
+2022-09-22,France,Austria,2,0,UEFA Nations League,Paris,France,False
+2022-09-25,Austria,Croatia,1,3,UEFA Nations League,Vienna,Austria,False
+2022-11-16,Andorra,Austria,0,1,Friendly,Málaga,Spain,True
+2022-11-20,Austria,Italy,2,0,Friendly,Vienna,Austria,False
+2023-03-24,Austria,Azerbaijan,4,1,UEFA Euro qualification,Pasching,Austria,False
+2023-03-27,Austria,Estonia,2,1,UEFA Euro qualification,Pasching,Austria,False
+2023-06-17,Belgium,Austria,1,1,UEFA Euro qualification,Brussels,Belgium,False
+2023-06-20,Austria,Sweden,2,0,UEFA Euro qualification,Vienna,Austria,False
+2023-09-07,Austria,Moldova,1,1,Friendly,Pasching,Austria,False
+2023-09-12,Sweden,Austria,1,3,UEFA Euro qualification,Stockholm,Sweden,False
+2023-10-13,Austria,Belgium,2,3,UEFA Euro qualification,Vienna,Austria,False
+2023-10-16,Azerbaijan,Austria,0,1,UEFA Euro qualification,Baku,Azerbaijan,False
+2023-11-16,Estonia,Austria,0,2,UEFA Euro qualification,Tallinn,Estonia,False
+2023-11-21,Austria,Germany,2,0,Friendly,Vienna,Austria,False
+2024-03-23,Slovakia,Austria,0,2,Friendly,Bratislava,Slovakia,False
+2024-03-26,Austria,Turkey,6,1,Friendly,Vienna,Austria,False
+2024-06-04,Austria,Serbia,2,1,Friendly,Vienna,Austria,False
+2024-06-08,Switzerland,Austria,1,1,Friendly,St. Gallen,Switzerland,False
+2024-06-17,Austria,France,0,1,UEFA Euro,Düsseldorf,Germany,True
+2024-06-21,Poland,Austria,1,3,UEFA Euro,Berlin,Germany,True
+2024-06-25,Netherlands,Austria,2,3,UEFA Euro,Berlin,Germany,True
+2024-07-02,Austria,Turkey,1,2,UEFA Euro,Leipzig,Germany,True
+2024-09-06,Slovenia,Austria,1,1,UEFA Nations League,Ljubljana,Slovenia,False
+2024-09-09,Norway,Austria,2,1,UEFA Nations League,Oslo,Norway,False
+2024-10-10,Austria,Kazakhstan,4,0,UEFA Nations League,Salzburg,Austria,False
+2024-10-13,Austria,Norway,5,1,UEFA Nations League,Linz,Austria,False
+2024-11-14,Kazakhstan,Austria,0,2,UEFA Nations League,Almaty,Kazakhstan,False
+2024-11-17,Austria,Slovenia,1,1,UEFA Nations League,Vienna,Austria,False
+2025-03-20,Austria,Serbia,1,1,UEFA Nations League,Vienna,Austria,False
+2025-03-23,Serbia,Austria,2,0,UEFA Nations League,Belgrade,Serbia,False

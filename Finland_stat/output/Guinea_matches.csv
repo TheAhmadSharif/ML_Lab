@@ -1,0 +1,529 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1962-05-09,Togo,Guinea,2,1,Friendly,Lomé,Togo,False
+1962-12-16,Guinea,German DR,2,3,Friendly,Conakry,Guinea,False
+1963-07-27,Nigeria,Guinea,2,2,African Cup of Nations qualification,Lagos,Nigeria,False
+1963-12-15,Senegal,Guinea,1,1,Friendly,Dakar,Senegal,False
+1963-12-31,Cameroon,Guinea,1,5,Friendly,Yaoundé,Cameroon,False
+1964-06-20,Congo,Guinea,1,2,Friendly,Brazzaville,Congo,False
+1965-02-25,Senegal,Guinea,2,0,African Cup of Nations qualification,Dakar,Senegal,False
+1965-03-31,Guinea,Senegal,3,1,African Cup of Nations qualification,Conakry,Guinea,False
+1965-05-23,Mali,Guinea,2,1,African Cup of Nations qualification,Bamako,Mali,False
+1965-06-06,Guinea,Mali,2,1,African Cup of Nations qualification,Conakry,Guinea,False
+1965-08-03,Guinea,Indonesia,3,1,Friendly,Pyongyang,North Korea,True
+1965-08-06,Guinea,North Vietnam,1,2,Friendly,Pyongyang,North Korea,True
+1965-08-07,North Korea,Guinea,3,0,Friendly,Pyongyang,North Korea,False
+1965-08-10,China PR,Guinea,2,0,Friendly,Pyongyang,North Korea,True
+1966-03-06,Guinea,Senegal,5,0,Friendly,Conakry,Guinea,False
+1966-08-28,Guinea,Cameroon,2,2,Friendly,Conakry,Guinea,False
+1966-08-30,Guinea,Mali,5,0,Friendly,Conakry,Guinea,False
+1966-11-20,Mali,Guinea,1,0,Friendly,Bamako,Mali,False
+1967-01-26,Liberia,Guinea,2,2,African Cup of Nations qualification,Monrovia,Liberia,False
+1967-02-25,Guinea,Senegal,3,0,African Cup of Nations qualification,Conakry,Guinea,False
+1967-03-19,Senegal,Guinea,4,1,African Cup of Nations qualification,Dakar,Senegal,False
+1967-04-02,Guinea,Liberia,3,0,African Cup of Nations qualification,Conakry,Guinea,False
+1967-11-22,Senegal,Guinea,2,1,African Cup of Nations qualification,Dakar,Senegal,False
+1967-12-02,Sierra Leone,Guinea,2,1,Friendly,Freetown,Sierra Leone,False
+1968-02-25,Burkina Faso,Guinea,2,0,Friendly,Ouagadougou,Upper Volta,False
+1968-03-07,Guinea,DR Congo,1,0,Friendly,Conakry,Guinea,False
+1968-03-31,Guinea,Burkina Faso,3,1,Friendly,Conakry,Guinea,False
+1968-04-02,Guinea,Burkina Faso,1,3,Friendly,Conakry,Guinea,False
+1968-04-07,Togo,Guinea,1,1,Friendly,Lomé,Togo,False
+1968-04-10,Benin,Guinea,2,5,Friendly,Cotonou,Dahomey,False
+1968-12-14,Sierra Leone,Guinea,1,1,Friendly,Freetown,Sierra Leone,False
+1969-02-02,Guinea,Sierra Leone,1,1,Friendly,Conakry,Guinea,False
+1969-05-22,Guinea,Gambia,6,2,Friendly,Conakry,Guinea,False
+1969-08-10,Guinea,Togo,4,0,African Cup of Nations qualification,Conakry,Guinea,False
+1969-08-24,Togo,Guinea,1,1,African Cup of Nations qualification,Lomé,Togo,False
+1969-10-12,Guinea,Senegal,4,3,African Cup of Nations qualification,Conakry,Guinea,False
+1969-10-26,Senegal,Guinea,1,1,African Cup of Nations qualification,Dakar,Senegal,False
+1969-11-12,Congo,Guinea,1,1,Friendly,Brazzaville,Congo,False
+1970-02-07,Egypt,Guinea,4,1,African Cup of Nations,Wad Madani,Sudan,True
+1970-02-09,DR Congo,Guinea,2,2,African Cup of Nations,Wad Madani,Sudan,True
+1970-02-11,Ghana,Guinea,1,1,African Cup of Nations,Wad Madani,Sudan,True
+1970-03-22,Guinea,Ivory Coast,4,2,Friendly,Conakry,Guinea,False
+1970-03-26,Guinea,Mali,2,1,Friendly,Conakry,Guinea,False
+1970-05-14,Guinea,Senegal,3,1,Friendly,Conakry,Guinea,False
+1970-05-17,Guinea,Senegal,4,0,Friendly,Conakry,Guinea,False
+1970-07-26,Ivory Coast,Guinea,3,2,Friendly,Abidjan,Ivory Coast,False
+1970-11-01,Sierra Leone,Guinea,1,2,Friendly,Freetown,Sierra Leone,False
+1970-11-15,Guinea,Senegal,1,0,Friendly,Conakry,Guinea,False
+1971-05-02,Guinea,Gambia,4,2,Friendly,Conakry,Guinea,False
+1971-07-14,Tanzania,Guinea,3,2,Friendly,Dar es Salaam,Tanzania,False
+1971-07-18,Zambia,Guinea,4,2,Friendly,Lusaka,Zambia,False
+1971-07-21,Zambia,Guinea,1,5,Friendly,Mufulira,Zambia,False
+1971-07-25,Zambia,Guinea,2,1,Friendly,Ndola,Zambia,False
+1971-08-18,Guinea,Senegal,1,0,African Cup of Nations qualification,Conakry,Guinea,False
+1971-09-01,Senegal,Guinea,0,0,African Cup of Nations qualification,Dakar,Senegal,False
+1971-10-13,Guinea,Mali,0,0,African Cup of Nations qualification,Conakry,Guinea,False
+1971-10-27,Mali,Guinea,3,1,African Cup of Nations qualification,Bamako,Mali,False
+1971-11-14,Guinea,Tanzania,3,2,Friendly,Conakry,Guinea,False
+1971-12-01,Guinea,Nigeria,3,0,Friendly,Conakry,Guinea,False
+1972-01-12,Guinea,Congo,0,1,Friendly,Conakry,Guinea,False
+1972-01-30,Nigeria,Guinea,1,1,Friendly,Lagos,Nigeria,False
+1972-02-07,Congo,Guinea,2,2,Friendly,Brazzaville,Congo,False
+1972-03-02,Algeria,Guinea,1,0,FIFA World Cup qualification,Algiers,Algeria,False
+1972-03-12,Guinea,Algeria,5,1,FIFA World Cup qualification,Conakry,Guinea,False
+1972-05-31,Liberia,Guinea,0,2,Friendly,Monrovia,Liberia,False
+1972-07-02,DR Congo,Guinea,6,0,Friendly,Kinshasa,Zaïre,False
+1972-11-24,Guinea,China PR,1,1,Friendly,Conakry,Guinea,False
+1973-01-08,Guinea,Egypt,4,1,All-African Games,Ibadan,Nigeria,True
+1973-01-10,Guinea,Burkina Faso,3,2,All-African Games,Ibadan,Nigeria,True
+1973-01-12,Guinea,Congo,5,1,All-African Games,Ibadan,Nigeria,True
+1973-01-14,Guinea,Ghana,2,1,All-African Games,Ibadan,Nigeria,True
+1973-01-16,Nigeria,Guinea,2,0,All-African Games,Lagos,Nigeria,False
+1973-02-11,Guinea,Morocco,1,1,FIFA World Cup qualification,Conakry,Guinea,False
+1973-02-25,Morocco,Guinea,2,0,FIFA World Cup qualification,Tétouan,Morocco,False
+1973-05-27,Mali,Guinea,2,2,African Cup of Nations qualification,Bamako,Mali,False
+1973-06-14,Guinea,Mali,1,1,African Cup of Nations qualification,Conakry,Guinea,False
+1973-08-03,China PR,Guinea,5,2,Friendly,Beijing,China PR,False
+1973-12-30,Guinea,Tunisia,0,0,Friendly,Conakry,Guinea,False
+1974-02-15,Ghana,Guinea,5,2,Friendly,Accra,Ghana,False
+1974-02-17,Ghana,Guinea,3,1,Friendly,Accra,Ghana,False
+1974-03-03,Guinea,DR Congo,1,2,African Cup of Nations,Damanhur,Egypt,True
+1974-03-05,Guinea,Mauritius,2,1,African Cup of Nations,Damanhur,Egypt,True
+1974-03-07,Congo,Guinea,1,1,African Cup of Nations,Alexandria,Egypt,True
+1974-12-15,Ghana,Guinea,1,1,Friendly,Accra,Ghana,False
+1974-12-29,Cameroon,Guinea,1,1,Friendly,Yaoundé,Cameroon,False
+1975-01-01,Cameroon,Guinea,1,0,Friendly,Yaoundé,Cameroon,False
+1975-01-19,Mali,Guinea,0,2,Friendly,Bamako,Mali,False
+1975-01-26,Guinea,Cameroon,3,0,Friendly,Conakry,Guinea,False
+1975-03-23,Niger,Guinea,2,4,African Cup of Nations qualification,Niamey,Niger,False
+1975-04-06,Guinea,Niger,3,0,African Cup of Nations qualification,Conakry,Guinea,False
+1975-07-03,Togo,Guinea,2,2,African Cup of Nations qualification,Lomé,Togo,False
+1975-07-17,Guinea,Togo,2,0,African Cup of Nations qualification,Conakry,Guinea,False
+1976-01-16,Guinea,Senegal,2,2,Friendly,Banjul,Gambia,True
+1976-01-17,Guinea,Mauritania,4,0,Friendly,Banjul,Gambia,True
+1976-01-18,Guinea,Mali,0,1,Friendly,Banjul,Gambia,True
+1976-02-29,Egypt,Guinea,1,1,African Cup of Nations,Addis Ababa,Ethiopia,True
+1976-03-03,Ethiopia,Guinea,1,2,African Cup of Nations,Addis Ababa,Ethiopia,False
+1976-03-05,Guinea,Uganda,2,1,African Cup of Nations,Addis Ababa,Ethiopia,True
+1976-03-09,Guinea,Nigeria,1,1,African Cup of Nations,Addis Ababa,Ethiopia,True
+1976-03-11,Egypt,Guinea,2,4,African Cup of Nations,Addis Ababa,Ethiopia,True
+1976-03-14,Guinea,Morocco,1,1,African Cup of Nations,Addis Ababa,Ethiopia,True
+1976-04-19,Sierra Leone,Guinea,1,1,Friendly,Freetown,Sierra Leone,False
+1976-05-02,Algeria,Guinea,1,2,Friendly,Algiers,Algeria,False
+1976-10-10,Ghana,Guinea,2,1,FIFA World Cup qualification,Accra,Ghana,False
+1976-10-31,Guinea,Ghana,2,1,FIFA World Cup qualification,Conakry,Guinea,False
+1977-01-16,Guinea,Ghana,2,0,FIFA World Cup qualification,Lomé,Togo,True
+1977-02-13,Togo,Guinea,0,2,FIFA World Cup qualification,Lomé,Togo,False
+1977-02-27,Guinea,Togo,2,1,FIFA World Cup qualification,Conakry,Guinea,False
+1977-03-05,Senegal,Guinea,1,0,Friendly,Dakar,Senegal,False
+1977-03-13,Guinea,Libya,3,0,African Cup of Nations qualification,Conakry,Guinea,False
+1977-03-25,Libya,Guinea,0,2,African Cup of Nations qualification,Benghazi,Libya,False
+1977-06-05,Guinea,Tunisia,1,0,FIFA World Cup qualification,Conakry,Guinea,False
+1977-06-19,Tunisia,Guinea,3,1,FIFA World Cup qualification,Tunis,Tunisia,False
+1977-10-02,Tunisia,Guinea,3,0,African Cup of Nations qualification,Tunis,Tunisia,False
+1977-10-16,Guinea,Tunisia,3,2,African Cup of Nations qualification,Conakry,Guinea,False
+1979-01-08,Guinea,Mali,0,1,Amílcar Cabral Cup,Bissau,Guinea-Bissau,True
+1979-01-10,Guinea,Mauritania,4,1,Amílcar Cabral Cup,Bissau,Guinea-Bissau,True
+1979-01-12,Gambia,Guinea,1,1,Amílcar Cabral Cup,Bissau,Guinea-Bissau,True
+1979-01-13,Guinea,Senegal,1,3,Amílcar Cabral Cup,Bissau,Guinea-Bissau,True
+1979-01-14,Guinea-Bissau,Guinea,2,2,Amílcar Cabral Cup,Bissau,Guinea-Bissau,False
+1979-01-28,Liberia,Guinea,2,1,Friendly,Monrovia,Liberia,False
+1979-01-30,Guinea,Senegal,1,1,Friendly,Monrovia,Liberia,True
+1979-04-15,Guinea,Cameroon,3,0,African Cup of Nations qualification,Conakry,Guinea,False
+1979-04-29,Cameroon,Guinea,3,0,African Cup of Nations qualification,Yaoundé,Cameroon,False
+1979-08-05,DR Congo,Guinea,3,2,African Cup of Nations qualification,Kinshasa,Zaïre,False
+1979-08-19,Guinea,DR Congo,3,1,African Cup of Nations qualification,Conakry,Guinea,False
+1980-02-11,Guinea-Bissau,Guinea,1,2,Amílcar Cabral Cup,Banjul,Gambia,True
+1980-02-13,Gambia,Guinea,0,0,Amílcar Cabral Cup,Banjul,Gambia,False
+1980-02-16,Guinea,Senegal,1,2,Amílcar Cabral Cup,Banjul,Gambia,True
+1980-03-04,Sierra Leone,Guinea,3,2,Friendly,Freetown,Sierra Leone,False
+1980-03-09,Guinea,Morocco,1,1,African Cup of Nations,Ibadan,Nigeria,True
+1980-03-13,Ghana,Guinea,1,0,African Cup of Nations,Ibadan,Nigeria,True
+1980-03-16,Algeria,Guinea,3,2,African Cup of Nations,Ibadan,Nigeria,True
+1980-05-01,Senegal,Guinea,1,0,Friendly,Dakar,Senegal,False
+1980-06-22,Guinea,Lesotho,3,1,FIFA World Cup qualification,Conakry,Guinea,False
+1980-06-24,Congo,Guinea,1,1,Friendly,Brazzaville,Congo,False
+1980-07-06,Lesotho,Guinea,1,1,FIFA World Cup qualification,Maseru,Lesotho,False
+1980-11-23,Guinea,DR Congo,2,1,Friendly,Conakry,Guinea,False
+1980-12-07,Liberia,Guinea,0,0,FIFA World Cup qualification,Monrovia,Liberia,False
+1980-12-21,Guinea,Liberia,1,0,FIFA World Cup qualification,Conakry,Guinea,False
+1981-02-02,Gambia,Guinea,1,1,Amílcar Cabral Cup,Bamako,Mali,True
+1981-02-04,Mali,Guinea,1,1,Amílcar Cabral Cup,Bamako,Mali,False
+1981-02-06,Guinea,Mauritania,2,1,Amílcar Cabral Cup,Bamako,Mali,True
+1981-02-10,Guinea,Senegal,1,0,Amílcar Cabral Cup,Bamako,Mali,True
+1981-02-13,Mali,Guinea,0,0,Amílcar Cabral Cup,Bamako,Mali,False
+1981-03-25,Senegal,Guinea,0,1,Friendly,Dakar,Senegal,False
+1981-04-12,Guinea,Nigeria,1,1,FIFA World Cup qualification,Conakry,Guinea,False
+1981-04-15,Nigeria,Guinea,1,0,FIFA World Cup qualification,Lagos,Nigeria,False
+1981-05-06,Liberia,Guinea,2,1,Friendly,Monrovia,Liberia,False
+1981-06-28,Guinea,Ethiopia,2,2,African Cup of Nations qualification,Conakry,Guinea,False
+1981-10-04,Ethiopia,Guinea,1,1,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+1982-02-05,Libya,Guinea,3,0,Friendly,Tripoli,Libya,False
+1982-02-11,Guinea,Senegal,1,1,Amílcar Cabral Cup,Praia,Cape Verde,True
+1982-02-13,Guinea,Sierra Leone,1,0,Amílcar Cabral Cup,Praia,Cape Verde,True
+1982-02-15,Guinea-Bissau,Guinea,0,0,Amílcar Cabral Cup,Praia,Cape Verde,True
+1982-02-17,Cape Verde,Guinea,0,1,Amílcar Cabral Cup,Praia,Cape Verde,False
+1982-02-19,Guinea,Senegal,3,0,Amílcar Cabral Cup,Praia,Cape Verde,True
+1982-05-02,Cameroon,Guinea,1,1,Friendly,Yaoundé,Cameroon,False
+1982-05-05,Guinea,Senegal,1,1,Friendly,Yaoundé,Cameroon,True
+1982-05-07,Ghana,Guinea,0,0,Friendly,Yaoundé,Cameroon,True
+1983-02-01,Senegal,Guinea,1,0,Friendly,Dakar,Senegal,False
+1983-02-13,Guinea,Mali,1,1,Friendly,Conakry,Guinea,False
+1983-02-23,Ivory Coast,Guinea,3,2,Friendly,Abidjan,Ivory Coast,False
+1983-02-27,Mali,Guinea,1,1,Friendly,Bamako,Mali,False
+1983-04-10,Guinea,Togo,0,1,African Cup of Nations qualification,Conakry,Guinea,False
+1983-04-24,Togo,Guinea,2,0,African Cup of Nations qualification,Lomé,Togo,False
+1983-05-01,Guinea,Guinea-Bissau,3,0,Friendly,Conakry,Guinea,False
+1983-07-21,Gambia,Guinea,4,1,Amílcar Cabral Cup,Nouakchott,Mauritania,True
+1983-07-22,Guinea-Bissau,Guinea,2,1,Amílcar Cabral Cup,Nouakchott,Mauritania,True
+1983-07-24,Guinea,Senegal,1,1,Amílcar Cabral Cup,Nouakchott,Mauritania,True
+1984-01-17,Gambia,Guinea,1,0,Friendly,Banjul,Gambia,False
+1984-01-18,Senegal,Guinea,1,0,Friendly,Dakar,Senegal,False
+1984-01-22,Ivory Coast,Guinea,3,0,Friendly,Abidjan,Ivory Coast,False
+1984-01-31,Guinea,Ghana,1,2,Friendly,Conakry,Guinea,False
+1984-02-08,Gambia,Guinea,2,2,Amílcar Cabral Cup,Freetown,Sierra Leone,True
+1984-02-10,Cape Verde,Guinea,1,1,Amílcar Cabral Cup,Freetown,Sierra Leone,True
+1984-02-12,Sierra Leone,Guinea,0,0,Amílcar Cabral Cup,Freetown,Sierra Leone,False
+1984-07-26,Gambia,Guinea,1,1,Friendly,Nouakchott,Mauritania,True
+1984-07-27,Mauritania,Guinea,1,1,Friendly,Nouakchott,Mauritania,False
+1984-07-29,Gambia,Guinea,0,1,Friendly,Nouakchott,Mauritania,True
+1984-07-31,Mauritania,Guinea,0,2,Friendly,Nouakchott,Mauritania,False
+1984-08-02,Mauritania,Guinea,0,0,Friendly,Nouakchott,Mauritania,False
+1984-12-09,Ivory Coast,Guinea,2,2,Friendly,Abidjan,Ivory Coast,False
+1985-02-10,Guinea,Tunisia,1,0,FIFA World Cup qualification,Conakry,Guinea,False
+1985-02-12,Guinea,Senegal,0,2,Amílcar Cabral Cup,Bakau,Gambia,True
+1985-02-14,Guinea,Mali,1,3,Amílcar Cabral Cup,Bakau,Gambia,True
+1985-02-16,Guinea,Mauritania,1,0,Amílcar Cabral Cup,Banjul,Gambia,True
+1985-02-24,Tunisia,Guinea,2,0,FIFA World Cup qualification,Tunis,Tunisia,False
+1985-03-31,Ghana,Guinea,1,1,African Cup of Nations qualification,Accra,Ghana,False
+1985-04-14,Guinea,Ghana,1,4,African Cup of Nations qualification,Conakry,Guinea,False
+1985-06-24,Guinea,Gambia,1,0,Friendly,Conakry,Guinea,False
+1985-08-11,Guinea,Mali,1,1,Friendly,Conakry,Guinea,False
+1985-08-25,Mali,Guinea,1,1,Friendly,Bamako,Mali,False
+1985-12-15,Gambia,Guinea,0,0,Friendly,Bakau,Gambia,False
+1985-12-25,Senegal,Guinea,3,1,Friendly,Dakar,Senegal,False
+1985-12-27,Ivory Coast,Guinea,1,0,Friendly,Dakar,Senegal,True
+1986-02-01,Senegal,Guinea,2,1,Amílcar Cabral Cup,Dakar,Senegal,False
+1986-02-03,Guinea,Mali,1,1,Amílcar Cabral Cup,Dakar,Senegal,True
+1986-02-08,Guinea,Sierra Leone,1,2,Amílcar Cabral Cup,Dakar,Senegal,True
+1986-07-26,Liberia,Guinea,0,0,Friendly,Monrovia,Liberia,False
+1986-07-28,Guinea,Ivory Coast,0,2,Friendly,Monrovia,Liberia,True
+1986-08-01,Liberia,Guinea,2,1,Friendly,Monrovia,Liberia,False
+1986-08-16,Guinea,Gambia,2,1,African Cup of Nations qualification,Conakry,Guinea,False
+1986-08-30,Gambia,Guinea,0,1,African Cup of Nations qualification,Banjul,Gambia,False
+1987-01-19,Guinea,Mali,1,0,Friendly,Conakry,Guinea,False
+1987-02-22,Guinea,Mauritania,1,0,Amílcar Cabral Cup,Conakry,Guinea,False
+1987-02-24,Guinea,Mali,0,0,Amílcar Cabral Cup,Conakry,Guinea,False
+1987-02-26,Guinea,Guinea-Bissau,0,0,Amílcar Cabral Cup,Conakry,Guinea,False
+1987-03-01,Guinea,Senegal,1,0,Amílcar Cabral Cup,Conakry,Guinea,False
+1987-03-03,Guinea,Mali,1,0,Amílcar Cabral Cup,Conakry,Guinea,False
+1987-03-29,Senegal,Guinea,4,0,African Cup of Nations qualification,Dakar,Senegal,False
+1987-04-12,Guinea,Senegal,0,0,African Cup of Nations qualification,Conakry,Guinea,False
+1988-04-29,Guinea,Mauritania,1,1,Amílcar Cabral Cup,Bissau,Guinea-Bissau,True
+1988-05-01,Guinea,Mali,1,0,Amílcar Cabral Cup,Bissau,Guinea-Bissau,True
+1988-05-03,Cape Verde,Guinea,1,1,Amílcar Cabral Cup,Bissau,Guinea-Bissau,True
+1988-05-05,Guinea,Sierra Leone,3,0,Amílcar Cabral Cup,Bissau,Guinea-Bissau,True
+1988-05-08,Guinea,Mali,0,0,Amílcar Cabral Cup,Bissau,Guinea-Bissau,True
+1988-08-05,Tunisia,Guinea,5,0,FIFA World Cup qualification,Tunis,Tunisia,False
+1988-08-21,Guinea,Tunisia,3,0,FIFA World Cup qualification,Conakry,Guinea,False
+1988-11-25,Guinea,Sierra Leone,1,0,Friendly,Monrovia,Liberia,True
+1988-11-27,Liberia,Guinea,0,1,Friendly,Monrovia,Liberia,False
+1988-12-22,Morocco,Guinea,1,0,Friendly,Rabat,Morocco,False
+1989-04-15,Guinea,Nigeria,1,1,African Cup of Nations qualification,Conakry,Guinea,False
+1989-04-22,Nigeria,Guinea,3,0,African Cup of Nations qualification,Ibadan,Nigeria,False
+1989-05-30,Guinea,Mauritania,3,1,Amílcar Cabral Cup,Bamako,Mali,True
+1989-06-02,Cape Verde,Guinea,0,1,Amílcar Cabral Cup,Bamako,Mali,True
+1989-06-04,Mali,Guinea,3,0,Amílcar Cabral Cup,Bamako,Mali,False
+1989-10-22,Liberia,Guinea,2,0,Friendly,Monrovia,Liberia,False
+1989-10-31,Guinea,Iraq,1,0,Friendly,Kuwait City,Kuwait,True
+1989-11-03,Guinea,Iran,1,1,Friendly,Kuwait City,Kuwait,True
+1989-11-05,Guinea,Yemen DPR,0,1,Friendly,Kuwait City,Kuwait,True
+1989-11-26,Ghana,Guinea,1,1,Friendly,Paynesville,Liberia,True
+1989-11-28,Liberia,Guinea,2,0,Friendly,Paynesville,Liberia,False
+1990-08-19,Guinea,Sierra Leone,1,2,African Cup of Nations qualification,Conakry,Guinea,False
+1990-09-02,Mali,Guinea,1,1,African Cup of Nations qualification,Bamako,Mali,False
+1991-04-14,Guinea,Cameroon,0,0,African Cup of Nations qualification,Conakry,Guinea,False
+1991-04-28,Sierra Leone,Guinea,0,1,African Cup of Nations qualification,Freetown,Sierra Leone,False
+1991-07-14,Guinea,Mali,2,1,African Cup of Nations qualification,Conakry,Guinea,False
+1991-07-24,Ivory Coast,Guinea,0,0,Friendly,Abidjan,Ivory Coast,False
+1991-07-28,Cameroon,Guinea,1,0,African Cup of Nations qualification,Yaoundé,Cameroon,False
+1991-09-08,Mali,Guinea,0,0,Friendly,Bamako,Mali,False
+1991-11-24,Guinea,Sierra Leone,0,1,Amílcar Cabral Cup,Dakar,Senegal,True
+1991-11-26,Gambia,Guinea,0,0,Amílcar Cabral Cup,Dakar,Senegal,True
+1991-11-28,Guinea,Mali,0,2,Amílcar Cabral Cup,Dakar,Senegal,True
+1992-08-30,Guinea,Burundi,2,2,African Cup of Nations qualification,Conakry,Guinea,False
+1992-12-16,Guinea,Sierra Leone,0,0,Friendly,Conakry,Guinea,False
+1992-12-20,Guinea,Kenya,4,0,FIFA World Cup qualification,Conakry,Guinea,False
+1993-01-20,Guinea-Bissau,Guinea,2,1,Friendly,Bissau,Guinea-Bissau,False
+1993-02-27,Kenya,Guinea,2,0,FIFA World Cup qualification,Nairobi,Kenya,False
+1993-04-11,Guinea,Congo,1,0,African Cup of Nations qualification,Conakry,Guinea,False
+1993-04-18,Cameroon,Guinea,3,1,FIFA World Cup qualification,Yaoundé,Cameroon,False
+1993-05-02,Guinea,Zimbabwe,3,0,FIFA World Cup qualification,Conakry,Guinea,False
+1993-07-11,Burundi,Guinea,2,2,African Cup of Nations qualification,Bujumbura,Burundi,False
+1993-07-18,Guinea,Cameroon,0,1,FIFA World Cup qualification,Conakry,Guinea,False
+1993-08-08,Guinea,Sierra Leone,1,0,Friendly,Conakry,Guinea,False
+1993-08-09,Guinea,Sierra Leone,4,0,Friendly,Conakry,Guinea,False
+1993-08-15,Congo,Guinea,0,0,African Cup of Nations qualification,Pointe-Noire,Congo,False
+1993-09-26,Zimbabwe,Guinea,1,0,FIFA World Cup qualification,Harare,Zimbabwe,False
+1993-10-24,Burundi,Guinea,0,0,African Cup of Nations qualification,Libreville,Gabon,True
+1993-11-26,Sierra Leone,Guinea,1,1,Amílcar Cabral Cup,Freetown,Sierra Leone,False
+1993-11-28,Guinea,Gambia,1,2,Amílcar Cabral Cup,Freetown,Sierra Leone,True
+1993-11-30,Ghana,Guinea,1,0,Friendly,Freetown,Sierra Leone,True
+1994-01-18,Guinea,Ivory Coast,3,0,Friendly,Conakry,Guinea,False
+1994-01-29,Burkina Faso,Guinea,1,1,Friendly,Ouagadougou,Burkina Faso,False
+1994-01-30,Guinea,Niger,1,3,Friendly,Ouagadougou,Burkina Faso,True
+1994-03-27,Ghana,Guinea,1,0,African Cup of Nations,Sousse,Tunisia,True
+1994-03-29,Senegal,Guinea,2,1,African Cup of Nations,Sousse,Tunisia,True
+1994-09-04,Botswana,Guinea,0,1,African Cup of Nations qualification,Gaborone,Botswana,False
+1994-10-16,Guinea,Angola,3,1,African Cup of Nations qualification,Conakry,Guinea,False
+1994-10-30,Mali,Guinea,2,0,African Cup of Nations qualification,Bamako,Mali,False
+1994-11-13,Mozambique,Guinea,2,1,African Cup of Nations qualification,Maputo,Mozambique,False
+1994-12-29,Liberia,Guinea,0,0,Friendly,Monrovia,Liberia,False
+1995-01-01,Guinea,Sierra Leone,3,1,Friendly,Conakry,Guinea,False
+1995-01-08,Guinea,Namibia,3,0,African Cup of Nations qualification,Conakry,Guinea,False
+1995-04-09,Guinea,Botswana,5,0,African Cup of Nations qualification,Conakry,Guinea,False
+1995-04-23,Angola,Guinea,3,0,African Cup of Nations qualification,Luanda,Angola,False
+1995-06-04,Guinea,Mozambique,0,0,African Cup of Nations qualification,Conakry,Guinea,False
+1995-07-16,Namibia,Guinea,0,0,African Cup of Nations qualification,Windhoek,Namibia,False
+1995-07-30,Guinea,Mali,4,1,African Cup of Nations qualification,Conakry,Guinea,False
+1995-11-18,Sierra Leone,Guinea,2,0,Amílcar Cabral Cup,Nouakchott,Mauritania,True
+1995-11-20,Senegal,Guinea,3,0,Amílcar Cabral Cup,Nouakchott,Mauritania,True
+1995-11-22,Guinea-Bissau,Guinea,2,1,Amílcar Cabral Cup,Nouakchott,Mauritania,True
+1996-05-19,Gambia,Guinea,1,1,Friendly,Banjul,Gambia,False
+1996-06-01,Guinea-Bissau,Guinea,3,2,FIFA World Cup qualification,Bissau,Guinea-Bissau,False
+1996-06-16,Guinea,Guinea-Bissau,3,1,FIFA World Cup qualification,Conakry,Guinea,False
+1996-09-22,Guinea,Gabon,0,1,Friendly,Conakry,Guinea,False
+1996-09-23,Mali,Guinea,0,0,Friendly,Bamako,Mali,False
+1996-11-10,Guinea,Kenya,3,1,FIFA World Cup qualification,Conakry,Guinea,False
+1997-01-08,Ivory Coast,Guinea,2,1,Friendly,Bouaké,Ivory Coast,False
+1997-01-12,Burkina Faso,Guinea,0,2,FIFA World Cup qualification,Ouagadougou,Burkina Faso,False
+1997-01-26,Guinea,Tunisia,1,0,African Cup of Nations qualification,Conakry,Guinea,False
+1997-02-23,Guinea,Sierra Leone,1,0,African Cup of Nations qualification,Conakry,Guinea,False
+1997-04-05,Nigeria,Guinea,2,1,FIFA World Cup qualification,Lagos,Nigeria,False
+1997-04-27,Kenya,Guinea,1,0,FIFA World Cup qualification,Nairobi,Kenya,False
+1997-06-08,Guinea,Burkina Faso,3,1,FIFA World Cup qualification,Conakry,Guinea,False
+1997-07-13,Tunisia,Guinea,1,0,African Cup of Nations qualification,Tunis,Tunisia,False
+1997-08-16,Guinea,Nigeria,1,0,FIFA World Cup qualification,Conakry,Guinea,False
+1997-11-29,Guinea,Mali,0,0,Amílcar Cabral Cup,Banjul,Gambia,True
+1997-12-01,Guinea,Sierra Leone,3,0,Amílcar Cabral Cup,Banjul,Gambia,True
+1997-12-03,Guinea,Guinea-Bissau,2,0,Amílcar Cabral Cup,Banjul,Gambia,True
+1997-12-05,Guinea,Senegal,1,2,Amílcar Cabral Cup,Banjul,Gambia,True
+1997-12-07,Gambia,Guinea,2,2,Amílcar Cabral Cup,Banjul,Gambia,False
+1998-01-04,Guinea,Togo,1,0,Friendly,Conakry,Guinea,False
+1998-01-31,Tunisia,Guinea,4,1,Friendly,Tunis,Tunisia,False
+1998-02-08,Algeria,Guinea,0,1,African Cup of Nations,Ouagadougou,Burkina Faso,True
+1998-02-11,Cameroon,Guinea,2,2,African Cup of Nations,Ouagadougou,Burkina Faso,True
+1998-02-15,Burkina Faso,Guinea,1,0,African Cup of Nations,Ouagadougou,Burkina Faso,False
+1998-10-04,Togo,Guinea,2,0,African Cup of Nations qualification,Lomé,Togo,False
+1999-01-10,Senegal,Guinea,1,0,Friendly,Dakar,Senegal,False
+1999-01-13,Senegal,Guinea,1,0,Friendly,Dakar,Senegal,False
+1999-01-24,Guinea,Morocco,1,1,African Cup of Nations qualification,Conakry,Guinea,False
+1999-06-06,Morocco,Guinea,1,0,African Cup of Nations qualification,Rabat,Morocco,False
+1999-06-20,Guinea,Togo,2,1,African Cup of Nations qualification,Conakry,Guinea,False
+2000-04-08,Uganda,Guinea,4,4,FIFA World Cup qualification,Kampala,Uganda,False
+2000-04-23,Guinea,Uganda,3,0,FIFA World Cup qualification,Conakry,Guinea,False
+2000-05-05,Guinea,Mali,3,1,Amílcar Cabral Cup,Praia,Cape Verde,True
+2000-05-07,Guinea,Mauritania,1,1,Amílcar Cabral Cup,Praia,Cape Verde,True
+2000-05-09,Guinea,Guinea-Bissau,2,1,Amílcar Cabral Cup,Praia,Cape Verde,True
+2000-05-11,Cape Verde,Guinea,2,0,Amílcar Cabral Cup,Praia,Cape Verde,False
+2000-05-14,Guinea,Mali,2,0,Amílcar Cabral Cup,Praia,Cape Verde,True
+2000-06-03,Algeria,Guinea,4,0,Friendly,Annaba,Algeria,False
+2000-07-01,Gambia,Guinea,2,2,African Cup of Nations qualification,Bakau,Gambia,False
+2000-07-16,Guinea,Gambia,2,0,African Cup of Nations qualification,Conakry,Guinea,False
+2001-01-20,Mali,Guinea,0,1,Friendly,Bamako,Mali,False
+2002-01-13,Morocco,Guinea,2,1,Friendly,Rabat,Morocco,False
+2002-09-01,Gambia,Guinea,1,0,Friendly,Banjul,Gambia,False
+2002-09-08,Guinea,Liberia,3,0,African Cup of Nations qualification,Conakry,Guinea,False
+2002-10-13,Ethiopia,Guinea,1,0,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+2003-02-12,Guinea,Mali,0,1,Friendly,Toulon,France,True
+2003-03-30,Guinea,Niger,2,0,African Cup of Nations qualification,Conakry,Guinea,False
+2003-06-07,Niger,Guinea,1,0,African Cup of Nations qualification,Niamey,Niger,False
+2003-06-21,Liberia,Guinea,1,2,African Cup of Nations qualification,Accra,Ghana,True
+2003-07-06,Guinea,Ethiopia,3,0,African Cup of Nations qualification,Conakry,Guinea,False
+2003-08-20,Tunisia,Guinea,0,0,Friendly,Tunis,Tunisia,False
+2003-10-12,Guinea,Mozambique,1,0,FIFA World Cup qualification,Conakry,Guinea,False
+2003-11-16,Mozambique,Guinea,3,4,FIFA World Cup qualification,Maputo,Mozambique,False
+2004-01-20,Guinea,Burkina Faso,1,0,Friendly,Toulon,France,True
+2004-01-25,DR Congo,Guinea,1,2,African Cup of Nations,Tunis,Tunisia,True
+2004-01-28,Rwanda,Guinea,1,1,African Cup of Nations,Bizerte,Tunisia,True
+2004-02-01,Tunisia,Guinea,1,1,African Cup of Nations,Radès,Tunisia,False
+2004-02-07,Mali,Guinea,2,1,African Cup of Nations,Tunis,Tunisia,True
+2004-04-28,Ivory Coast,Guinea,4,2,Friendly,Chambéry,France,True
+2004-05-29,Senegal,Guinea,1,1,Friendly,Paris,France,True
+2004-06-20,Guinea,Tunisia,2,1,FIFA World Cup qualification,Conakry,Guinea,False
+2004-07-03,Malawi,Guinea,1,1,FIFA World Cup qualification,Blantyre,Malawi,False
+2004-09-05,Guinea,Botswana,4,0,FIFA World Cup qualification,Conakry,Guinea,False
+2004-10-10,Guinea,Morocco,1,1,FIFA World Cup qualification,Conakry,Guinea,False
+2004-11-17,Kenya,Guinea,2,1,FIFA World Cup qualification,Nairobi,Kenya,False
+2005-02-09,Guinea,Mali,2,2,Friendly,Saint-Denis,France,True
+2005-03-26,Morocco,Guinea,1,0,FIFA World Cup qualification,Rabat,Morocco,False
+2005-06-05,Guinea,Kenya,1,0,FIFA World Cup qualification,Conakry,Guinea,False
+2005-06-10,Gambia,Guinea,2,3,Friendly,Freetown,Sierra Leone,True
+2005-06-11,Tunisia,Guinea,2,0,FIFA World Cup qualification,Radès,Tunisia,False
+2005-06-14,Sierra Leone,Guinea,2,0,Friendly,Freetown,Sierra Leone,False
+2005-08-16,DR Congo,Guinea,3,1,Friendly,Colombes,France,True
+2005-09-04,Guinea,Malawi,3,1,FIFA World Cup qualification,Conakry,Guinea,False
+2005-10-08,Botswana,Guinea,1,2,FIFA World Cup qualification,Gaborone,Botswana,False
+2005-11-18,Guinea,Guinea-Bissau,2,2,Amílcar Cabral Cup,Conakry,Guinea,False
+2005-11-22,Guinea,Sierra Leone,1,0,Amílcar Cabral Cup,Conakry,Guinea,False
+2006-01-07,Guinea,Togo,1,0,Friendly,Viry-Châtillon,France,True
+2006-01-22,South Africa,Guinea,0,2,African Cup of Nations,Alexandria,Egypt,True
+2006-01-26,Zambia,Guinea,1,2,African Cup of Nations,Alexandria,Egypt,True
+2006-01-30,Tunisia,Guinea,0,3,African Cup of Nations,Alexandria,Egypt,True
+2006-02-03,Guinea,Senegal,2,3,African Cup of Nations,Alexandria,Egypt,True
+2006-08-16,Cameroon,Guinea,1,1,Friendly,Rouen,France,True
+2006-09-03,Guinea,Algeria,0,0,African Cup of Nations qualification,Conakry,Guinea,False
+2006-10-07,Cape Verde,Guinea,1,0,African Cup of Nations qualification,Praia,Cape Verde,False
+2007-02-06,Ivory Coast,Guinea,1,0,Friendly,Le Havre,France,True
+2007-03-24,Gambia,Guinea,0,2,African Cup of Nations qualification,Bakau,Gambia,False
+2007-06-03,Guinea,Gambia,2,2,African Cup of Nations qualification,Conakry,Guinea,False
+2007-06-16,Algeria,Guinea,0,2,African Cup of Nations qualification,Algiers,Algeria,False
+2007-08-22,Tunisia,Guinea,1,1,Friendly,Tunis,Tunisia,False
+2007-09-09,Guinea,Cape Verde,4,0,African Cup of Nations qualification,Conakry,Guinea,False
+2007-10-14,Senegal,Guinea,3,1,Friendly,Rouen,France,True
+2007-11-20,Angola,Guinea,0,3,Friendly,Melun,France,True
+2008-01-11,Guinea,Sudan,6,0,Friendly,Estepona,Spain,True
+2008-01-20,Ghana,Guinea,2,1,African Cup of Nations,Accra,Ghana,False
+2008-01-24,Guinea,Morocco,3,2,African Cup of Nations,Accra,Ghana,True
+2008-01-28,Guinea,Namibia,1,1,African Cup of Nations,Sekondi,Ghana,True
+2008-02-03,Ivory Coast,Guinea,5,0,African Cup of Nations,Sekondi,Ghana,True
+2008-03-25,Togo,Guinea,0,2,Friendly,Paris,France,True
+2008-06-01,Guinea,Zimbabwe,0,0,FIFA World Cup qualification,Conakry,Guinea,False
+2008-06-07,Kenya,Guinea,2,0,FIFA World Cup qualification,Nairobi,Kenya,False
+2008-06-14,Namibia,Guinea,1,2,FIFA World Cup qualification,Windhoek,Namibia,False
+2008-06-22,Guinea,Namibia,4,0,FIFA World Cup qualification,Conakry,Guinea,False
+2008-08-20,Guinea,Ivory Coast,1,2,Friendly,Chantilly,France,True
+2008-09-07,Zimbabwe,Guinea,0,0,FIFA World Cup qualification,Harare,Zimbabwe,False
+2008-09-09,South Africa,Guinea,0,1,Friendly,Atteridgeville,South Africa,False
+2008-10-12,Guinea,Kenya,3,2,FIFA World Cup qualification,Conakry,Guinea,False
+2008-11-18,Gabon,Guinea,3,3,Friendly,Compiègne,France,True
+2009-02-11,Cameroon,Guinea,3,1,Friendly,Bondoufle,France,True
+2009-03-28,Burkina Faso,Guinea,4,2,FIFA World Cup qualification,Ouagadougou,Burkina Faso,False
+2009-06-07,Guinea,Ivory Coast,1,2,FIFA World Cup qualification,Conakry,Guinea,False
+2009-06-21,Guinea,Malawi,2,1,FIFA World Cup qualification,Conakry,Guinea,False
+2009-08-12,Egypt,Guinea,3,3,Friendly,Cairo,Egypt,False
+2009-09-05,Malawi,Guinea,2,1,FIFA World Cup qualification,Blantyre,Malawi,False
+2009-10-11,Guinea,Burkina Faso,1,2,FIFA World Cup qualification,Accra,Ghana,True
+2009-11-14,Ivory Coast,Guinea,3,0,FIFA World Cup qualification,Abidjan,Ivory Coast,False
+2010-08-11,Mali,Guinea,0,2,Friendly,Marignane,France,True
+2010-09-05,Ethiopia,Guinea,1,4,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+2010-10-10,Guinea,Nigeria,1,0,African Cup of Nations qualification,Conakry,Guinea,False
+2010-11-17,Burkina Faso,Guinea,2,1,Friendly,Mantes-la-Ville,France,True
+2011-02-09,Senegal,Guinea,3,0,Friendly,Dakar,Senegal,False
+2011-03-27,Madagascar,Guinea,1,1,African Cup of Nations qualification,Antananarivo,Madagascar,False
+2011-06-05,Guinea,Madagascar,4,1,African Cup of Nations qualification,Conakry,Guinea,False
+2011-08-10,Gabon,Guinea,1,1,Friendly,Saint-Leu-la-Forêt,France,True
+2011-09-04,Guinea,Ethiopia,1,0,African Cup of Nations qualification,Conakry,Guinea,False
+2011-09-06,Venezuela,Guinea,2,1,Friendly,Caracas,Venezuela,False
+2011-10-08,Nigeria,Guinea,2,2,African Cup of Nations qualification,Abuja,Nigeria,False
+2011-11-15,Guinea,Burkina Faso,1,1,Friendly,Viry-Châtillon,France,True
+2012-01-24,Mali,Guinea,1,0,African Cup of Nations,Franceville,Gabon,True
+2012-01-28,Botswana,Guinea,1,6,African Cup of Nations,Franceville,Gabon,True
+2012-02-01,Ghana,Guinea,1,1,African Cup of Nations,Franceville,Gabon,True
+2012-02-29,Ivory Coast,Guinea,0,0,Friendly,Abidjan,Ivory Coast,False
+2012-05-26,Guinea,Cameroon,1,2,Friendly,Amanvillers,France,True
+2012-06-03,Zimbabwe,Guinea,0,1,FIFA World Cup qualification,Harare,Zimbabwe,False
+2012-06-10,Guinea,Egypt,2,3,FIFA World Cup qualification,Conakry,Guinea,False
+2012-08-15,Morocco,Guinea,1,2,Friendly,Rabat,Morocco,False
+2012-09-09,Guinea,Niger,1,0,African Cup of Nations qualification,Conakry,Guinea,False
+2012-10-14,Niger,Guinea,2,0,African Cup of Nations qualification,Niamey,Niger,False
+2012-12-29,Bahrain,Guinea,3,0,Friendly,Riffa,Bahrain,False
+2013-03-24,Mozambique,Guinea,0,0,FIFA World Cup qualification,Maputo,Mozambique,False
+2013-06-09,Guinea,Mozambique,6,1,FIFA World Cup qualification,Conakry,Guinea,False
+2013-06-16,Guinea,Zimbabwe,1,0,FIFA World Cup qualification,Conakry,Guinea,False
+2013-08-14,Algeria,Guinea,2,2,Friendly,Blida,Algeria,False
+2013-09-10,Egypt,Guinea,4,2,FIFA World Cup qualification,el-Gouna,Egypt,False
+2014-03-05,Iran,Guinea,1,2,Friendly,Tehran,Iran,False
+2014-05-25,Mali,Guinea,1,2,Friendly,Colombes,France,True
+2014-09-05,Guinea,Togo,2,1,African Cup of Nations qualification,Casablanca,Morocco,True
+2014-09-10,Uganda,Guinea,2,0,African Cup of Nations qualification,Kampala,Uganda,False
+2014-10-11,Guinea,Ghana,1,1,African Cup of Nations qualification,Casablanca,Morocco,True
+2014-10-15,Ghana,Guinea,3,1,African Cup of Nations qualification,Accra,Ghana,False
+2014-11-15,Togo,Guinea,1,4,African Cup of Nations qualification,Lomé,Togo,False
+2014-11-19,Guinea,Uganda,2,0,African Cup of Nations qualification,Casablanca,Morocco,True
+2015-01-13,Senegal,Guinea,5,2,Friendly,Casablanca,Morocco,True
+2015-01-20,Ivory Coast,Guinea,1,1,African Cup of Nations,Malabo,Equatorial Guinea,True
+2015-01-24,Cameroon,Guinea,1,1,African Cup of Nations,Malabo,Equatorial Guinea,True
+2015-01-28,Guinea,Mali,1,1,African Cup of Nations,Mongomo,Equatorial Guinea,True
+2015-02-01,Ghana,Guinea,3,0,African Cup of Nations,Malabo,Equatorial Guinea,True
+2015-06-06,Guinea,Chad,2,1,Friendly,Saint-Leu-la-Forêt,France,True
+2015-06-12,Guinea,Eswatini,1,2,African Cup of Nations qualification,Casablanca,Morocco,True
+2015-09-06,Zimbabwe,Guinea,1,1,African Cup of Nations qualification,Harare,Zimbabwe,False
+2015-10-09,Algeria,Guinea,1,2,Friendly,Algiers,Algeria,False
+2015-10-12,Morocco,Guinea,1,1,Friendly,Agadir,Morocco,False
+2015-11-12,Namibia,Guinea,0,1,FIFA World Cup qualification,Windhoek,Namibia,False
+2015-11-15,Guinea,Namibia,2,0,FIFA World Cup qualification,Casablanca,Morocco,True
+2016-03-25,Guinea,Malawi,0,0,African Cup of Nations qualification,Conakry,Guinea,False
+2016-03-29,Malawi,Guinea,1,2,African Cup of Nations qualification,Blantyre,Malawi,False
+2016-06-05,Eswatini,Guinea,1,0,African Cup of Nations qualification,Lobamba,Swaziland,False
+2016-08-30,Egypt,Guinea,1,1,Friendly,Alexandria,Egypt,False
+2016-09-04,Guinea,Zimbabwe,1,0,African Cup of Nations qualification,Conakry,Guinea,False
+2016-10-09,Tunisia,Guinea,2,0,FIFA World Cup qualification,Monastir,Tunisia,False
+2016-11-13,Guinea,DR Congo,1,2,FIFA World Cup qualification,Conakry,Guinea,False
+2017-03-24,Guinea,Gabon,2,2,Friendly,Le Havre,France,True
+2017-03-28,Cameroon,Guinea,1,2,Friendly,Molenbeek,Belgium,True
+2017-06-06,Algeria,Guinea,2,1,Friendly,Blida,Algeria,False
+2017-06-10,Ivory Coast,Guinea,2,3,African Cup of Nations qualification,Bouaké,Ivory Coast,False
+2017-08-31,Guinea,Libya,3,2,FIFA World Cup qualification,Conakry,Guinea,False
+2017-09-04,Libya,Guinea,1,0,FIFA World Cup qualification,Monastir,Tunisia,True
+2017-10-07,Guinea,Tunisia,1,4,FIFA World Cup qualification,Conakry,Guinea,False
+2017-11-11,DR Congo,Guinea,3,1,FIFA World Cup qualification,Kinshasa,DR Congo,False
+2018-03-24,Mauritania,Guinea,2,0,Friendly,Nouakchott,Mauritania,False
+2018-09-09,Guinea,Central African Republic,1,0,African Cup of Nations qualification,Conakry,Guinea,False
+2018-10-12,Guinea,Rwanda,2,0,African Cup of Nations qualification,Conakry,Guinea,False
+2018-10-16,Rwanda,Guinea,1,1,African Cup of Nations qualification,Kigali,Rwanda,False
+2018-11-18,Guinea,Ivory Coast,1,1,African Cup of Nations qualification,Conakry,Guinea,False
+2019-03-24,Central African Republic,Guinea,0,0,African Cup of Nations qualification,Bangui,Central African Republic,False
+2019-06-11,Benin,Guinea,1,0,Friendly,Marrakech,Morocco,True
+2019-06-16,Egypt,Guinea,3,1,Friendly,Alexandria,Egypt,False
+2019-06-22,Guinea,Madagascar,2,2,African Cup of Nations,Alexandria,Egypt,True
+2019-06-26,Nigeria,Guinea,1,0,African Cup of Nations,Alexandria,Egypt,True
+2019-06-30,Burundi,Guinea,0,2,African Cup of Nations,Cairo,Egypt,True
+2019-07-07,Algeria,Guinea,3,0,African Cup of Nations,Cairo,Egypt,True
+2019-10-12,Guinea,Comoros,0,1,Friendly,Guinea,Guinea,False
+2019-10-15,Chile,Guinea,3,2,Friendly,Alicante,Spain,True
+2019-11-14,Mali,Guinea,2,2,African Cup of Nations qualification,Bamako,Mali,False
+2019-11-17,Guinea,Namibia,2,0,African Cup of Nations qualification,Conakry,Guinea,False
+2020-10-10,Cape Verde,Guinea,1,2,Friendly,Faro-Loulé,Portugal,True
+2020-11-11,Guinea,Chad,1,0,African Cup of Nations qualification,Conakry,Guinea,False
+2020-11-15,Chad,Guinea,1,1,African Cup of Nations qualification,N'Djamena,Chad,False
+2021-03-24,Guinea,Mali,1,0,African Cup of Nations qualification,Clermont-Ferrand,France,True
+2021-03-28,Namibia,Guinea,2,1,African Cup of Nations qualification,Windhoek,Namibia,False
+2021-05-31,Turkey,Guinea,0,0,Friendly,Antalya,Turkey,False
+2021-06-05,Guinea,Togo,0,2,Friendly,Antalya,Turkey,True
+2021-06-08,Kosovo,Guinea,1,2,Friendly,Antalya,Turkey,True
+2021-06-11,Guinea,Niger,2,1,Friendly,Antalya,Turkey,True
+2021-09-01,Guinea-Bissau,Guinea,1,1,FIFA World Cup qualification,Nouakchott,Mauritania,True
+2021-10-06,Sudan,Guinea,1,1,FIFA World Cup qualification,Marrakech,Morocco,True
+2021-10-09,Guinea,Sudan,2,2,FIFA World Cup qualification,Agadir,Morocco,True
+2021-10-12,Morocco,Guinea,4,1,FIFA World Cup qualification,Agadir,Morocco,False
+2021-11-12,Guinea,Guinea-Bissau,0,0,FIFA World Cup qualification,Conakry,Guinea,False
+2021-11-16,Morocco,Guinea,3,0,FIFA World Cup qualification,Casablanca,Morocco,False
+2022-01-03,Rwanda,Guinea,3,0,Friendly,Kigali,Rwanda,False
+2022-01-06,Rwanda,Guinea,0,2,Friendly,Kigali,Rwanda,False
+2022-01-10,Guinea,Malawi,1,0,African Cup of Nations,Bafoussam,Cameroon,True
+2022-01-14,Senegal,Guinea,0,0,African Cup of Nations,Bafoussam,Cameroon,True
+2022-01-18,Zimbabwe,Guinea,2,1,African Cup of Nations,Yaoundé,Cameroon,True
+2022-01-24,Guinea,Gambia,0,1,African Cup of Nations,Bafoussam,Cameroon,True
+2022-03-25,South Africa,Guinea,0,0,Friendly,Kortrijk,Belgium,True
+2022-06-05,Egypt,Guinea,1,0,African Cup of Nations qualification,Cairo,Egypt,False
+2022-06-09,Guinea,Malawi,1,0,African Cup of Nations qualification,Conakry,Guinea,False
+2022-09-23,Algeria,Guinea,1,0,Friendly,Oran,Algeria,False
+2022-09-27,Ivory Coast,Guinea,3,1,Friendly,Amiens,France,True
+2023-03-24,Guinea,Ethiopia,2,0,African Cup of Nations qualification,Casablanca,Morocco,True
+2023-03-27,Ethiopia,Guinea,2,3,African Cup of Nations qualification,Rabat,Morocco,True
+2023-06-14,Guinea,Egypt,1,2,African Cup of Nations qualification,Marrakech,Morocco,True
+2023-06-17,Brazil,Guinea,4,1,Friendly,Barcelona,Spain,True
+2023-09-09,Malawi,Guinea,2,2,African Cup of Nations qualification,Lilongwe,Malawi,False
+2023-10-13,Guinea,Guinea-Bissau,1,0,Friendly,Setúbal,Portugal,True
+2023-10-17,Guinea,Gabon,1,1,Friendly,Faro-Loulé,Portugal,True
+2023-11-17,Guinea,Uganda,2,1,FIFA World Cup qualification,Berkane,Morocco,True
+2023-11-21,Botswana,Guinea,1,0,FIFA World Cup qualification,Francistown,Botswana,False
+2024-01-08,Nigeria,Guinea,0,2,Friendly,Abu Dhabi,United Arab Emirates,True
+2024-01-15,Cameroon,Guinea,1,1,African Cup of Nations,Yamoussoukro,Ivory Coast,True
+2024-01-19,Guinea,Gambia,1,0,African Cup of Nations,Yamoussoukro,Ivory Coast,True
+2024-01-23,Guinea,Senegal,0,2,African Cup of Nations,Yamoussoukro,Ivory Coast,True
+2024-01-28,Equatorial Guinea,Guinea,0,1,African Cup of Nations,Ebimpé,Ivory Coast,True
+2024-02-02,DR Congo,Guinea,3,1,African Cup of Nations,Ebimpé,Ivory Coast,True
+2024-03-21,Guinea,Vanuatu,6,0,FIFA Series,Jeddah,Saudi Arabia,True
+2024-03-25,Bermuda,Guinea,1,5,FIFA Series,Jeddah,Saudi Arabia,True
+2024-06-06,Algeria,Guinea,1,2,FIFA World Cup qualification,Algiers,Algeria,False
+2024-06-10,Guinea,Mozambique,0,1,FIFA World Cup qualification,El Jadida,Morocco,True
+2024-09-06,DR Congo,Guinea,1,0,African Cup of Nations qualification,Kinshasa,DR Congo,False
+2024-09-10,Guinea,Tanzania,1,2,African Cup of Nations qualification,Yamoussoukro,Ivory Coast,True
+2024-10-12,Guinea,Ethiopia,4,1,African Cup of Nations qualification,Ebimpé,Ivory Coast,True
+2024-10-15,Ethiopia,Guinea,0,3,African Cup of Nations qualification,Ebimpé,Ivory Coast,True
+2025-03-21,Guinea,Somalia,0,0,FIFA World Cup qualification,Ebimpé,Ivory Coast,True
+2025-03-25,Uganda,Guinea,1,0,FIFA World Cup qualification,Kira,Uganda,False

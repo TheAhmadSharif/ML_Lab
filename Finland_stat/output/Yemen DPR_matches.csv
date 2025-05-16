@@ -1,0 +1,26 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1972-01-01,Syria,Yemen DPR,1,0,Palestine Cup,Baghdad,Iraq,True
+1972-01-06,Palestine,Yemen DPR,1,2,Palestine Cup,Baghdad,Iraq,True
+1972-01-08,Qatar,Yemen DPR,1,2,Palestine Cup,Baghdad,Iraq,True
+1972-01-10,Algeria,Yemen DPR,4,1,Palestine Cup,Baghdad,Iraq,True
+1973-08-12,Egypt,Yemen DPR,6,1,Palestine Cup,Tripoli,Libya,True
+1973-08-13,Palestine,Yemen DPR,1,0,Palestine Cup,Tripoli,Libya,True
+1973-08-16,Syria,Yemen DPR,7,1,Palestine Cup,Tripoli,Libya,True
+1973-08-19,Tunisia,Yemen DPR,2,0,Palestine Cup,Tripoli,Libya,True
+1974-05-02,Yemen DPR,Iraq,2,0,Friendly,Aden,Yemen DPR,False
+1974-07-10,China PR,Yemen DPR,6,5,Friendly,Beijing,China PR,False
+1975-12-19,Egypt,Yemen DPR,5,0,Palestine Cup,Tunis,Tunisia,True
+1975-12-21,Saudi Arabia,Yemen DPR,0,1,Palestine Cup,Tunis,Tunisia,True
+1976-06-06,Iraq,Yemen DPR,1,0,AFC Asian Cup,Tehran,Iran,True
+1976-06-08,Iran,Yemen DPR,8,0,AFC Asian Cup,Tehran,Iran,False
+1978-09-20,Libya,Yemen DPR,2,0,Friendly,Tripoli,Libya,False
+1981-05-17,Ethiopia,Yemen DPR,1,1,Friendly,Addis Ababa,Ethiopia,False
+1985-03-29,Yemen DPR,Bahrain,1,4,FIFA World Cup qualification,Aden,Yemen DPR,False
+1985-04-12,Bahrain,Yemen DPR,3,3,FIFA World Cup qualification,Riffa,Bahrain,False
+1988-02-25,Djibouti,Yemen DPR,4,1,Friendly,Djibouti,Djibouti,False
+1988-06-17,Indonesia,Yemen DPR,1,0,AFC Asian Cup qualification,Jakarta,Indonesia,False
+1988-06-19,South Korea,Yemen DPR,1,1,AFC Asian Cup qualification,Jakarta,Indonesia,True
+1988-06-22,Bahrain,Yemen DPR,2,0,AFC Asian Cup qualification,Jakarta,Indonesia,True
+1989-11-01,Iran,Yemen DPR,2,0,Friendly,Kuwait City,Kuwait,True
+1989-11-03,Iraq,Yemen DPR,6,2,Friendly,Kuwait City,Kuwait,True
+1989-11-05,Guinea,Yemen DPR,0,1,Friendly,Kuwait City,Kuwait,True

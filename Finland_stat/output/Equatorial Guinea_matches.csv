@@ -1,0 +1,165 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1975-05-23,China PR,Equatorial Guinea,6,2,Friendly,Beijing,China PR,False
+1981-06-01,Equatorial Guinea,São Tomé and Príncipe,1,1,Friendly,Malabo,Equatorial Guinea,False
+1984-12-09,Congo,Equatorial Guinea,5,0,UDEAC Cup,Brazzaville,Congo,False
+1984-12-14,Central African Republic,Equatorial Guinea,1,1,UDEAC Cup,Brazzaville,Congo,True
+1984-12-16,Chad,Equatorial Guinea,1,1,UDEAC Cup,Brazzaville,Congo,True
+1985-12-08,Cameroon,Equatorial Guinea,2,0,UDEAC Cup,Libreville,Gabon,True
+1985-12-10,Chad,Equatorial Guinea,1,1,UDEAC Cup,Libreville,Gabon,True
+1986-12-09,Equatorial Guinea,Cameroon,0,2,UDEAC Cup,Malabo,Equatorial Guinea,False
+1986-12-13,Equatorial Guinea,Chad,0,1,UDEAC Cup,Malabo,Equatorial Guinea,False
+1987-12-08,Cameroon,Equatorial Guinea,1,0,UDEAC Cup,N'Djamena,Chad,True
+1987-12-10,Cameroon,Equatorial Guinea,0,0,UDEAC Cup,N'Djamena,Chad,True
+1987-12-15,Chad,Equatorial Guinea,4,0,UDEAC Cup,N'Djamena,Chad,False
+1987-12-18,Equatorial Guinea,Gabon,0,0,UDEAC Cup,N'Djamena,Chad,True
+1988-10-02,Angola,Equatorial Guinea,0,1,African Cup of Nations qualification,Luanda,Angola,False
+1988-10-16,Equatorial Guinea,Angola,0,0,African Cup of Nations qualification,Malabo,Equatorial Guinea,False
+1988-12-02,Cameroon,Equatorial Guinea,2,1,UDEAC Cup,Douala,Cameroon,False
+1988-12-04,Equatorial Guinea,Gabon,0,3,UDEAC Cup,Douala,Cameroon,True
+1990-12-12,Chad,Equatorial Guinea,1,0,UDEAC Cup,Brazzaville,Congo,True
+1990-12-13,Congo,Equatorial Guinea,6,0,UDEAC Cup,Brazzaville,Congo,False
+1990-12-17,Central African Republic,Equatorial Guinea,3,3,UDEAC Cup,Brazzaville,Congo,True
+1998-08-02,Equatorial Guinea,Gabon,0,2,African Cup of Nations qualification,Bata,Equatorial Guinea,False
+1998-08-16,Gabon,Equatorial Guinea,3,0,African Cup of Nations qualification,Libreville,Gabon,False
+1999-11-07,Gabon,Equatorial Guinea,4,0,UNIFFAC Cup,Libreville,Gabon,False
+1999-11-10,Congo,Equatorial Guinea,2,1,UNIFFAC Cup,Libreville,Gabon,True
+1999-11-11,Equatorial Guinea,Central African Republic,4,2,UNIFFAC Cup,Libreville,Gabon,True
+1999-11-13,Chad,Equatorial Guinea,1,0,UNIFFAC Cup,Libreville,Gabon,True
+1999-11-14,São Tomé and Príncipe,Equatorial Guinea,2,0,UNIFFAC Cup,Libreville,Gabon,True
+2000-04-09,Equatorial Guinea,Congo,1,3,FIFA World Cup qualification,Malabo,Equatorial Guinea,False
+2000-04-23,Congo,Equatorial Guinea,2,1,FIFA World Cup qualification,Pointe-Noire,Congo,False
+2000-07-02,Equatorial Guinea,Angola,0,1,African Cup of Nations qualification,Malabo,Equatorial Guinea,False
+2000-07-16,Angola,Equatorial Guinea,4,1,African Cup of Nations qualification,Luanda,Angola,False
+2002-09-08,Equatorial Guinea,Sierra Leone,1,3,African Cup of Nations qualification,Malabo,Equatorial Guinea,False
+2002-10-13,Morocco,Equatorial Guinea,5,0,African Cup of Nations qualification,Rabat,Morocco,False
+2003-03-23,Benin,Equatorial Guinea,2,1,Friendly,Cotonou,Benin,False
+2003-03-29,Gabon,Equatorial Guinea,4,0,African Cup of Nations qualification,Libreville,Gabon,False
+2003-06-08,Equatorial Guinea,Gabon,2,1,African Cup of Nations qualification,Bata,Equatorial Guinea,False
+2003-06-22,Sierra Leone,Equatorial Guinea,2,0,African Cup of Nations qualification,Freetown,Sierra Leone,False
+2003-07-06,Equatorial Guinea,Morocco,0,1,African Cup of Nations qualification,Malabo,Equatorial Guinea,False
+2003-10-11,Equatorial Guinea,Togo,1,0,FIFA World Cup qualification,Bata,Equatorial Guinea,False
+2003-11-12,Equatorial Guinea,São Tomé and Príncipe,3,1,Friendly,Malabo,Equatorial Guinea,False
+2003-11-16,Togo,Equatorial Guinea,2,0,FIFA World Cup qualification,Lomé,Togo,False
+2006-03-29,Equatorial Guinea,Benin,2,0,Friendly,Bata,Equatorial Guinea,False
+2006-09-03,Equatorial Guinea,Liberia,2,1,African Cup of Nations qualification,Malabo,Equatorial Guinea,False
+2006-10-07,Cameroon,Equatorial Guinea,3,0,African Cup of Nations qualification,Yaoundé,Cameroon,False
+2007-03-25,Equatorial Guinea,Rwanda,3,1,African Cup of Nations qualification,Malabo,Equatorial Guinea,False
+2007-06-02,Rwanda,Equatorial Guinea,2,0,African Cup of Nations qualification,Kigali,Rwanda,False
+2007-06-17,Liberia,Equatorial Guinea,0,0,African Cup of Nations qualification,Monrovia,Liberia,False
+2007-09-09,Equatorial Guinea,Cameroon,1,0,African Cup of Nations qualification,Malabo,Equatorial Guinea,False
+2007-11-21,Equatorial Guinea,Niger,1,1,Friendly,Malabo,Equatorial Guinea,False
+2008-06-01,Equatorial Guinea,Sierra Leone,2,0,FIFA World Cup qualification,Malabo,Equatorial Guinea,False
+2008-06-07,South Africa,Equatorial Guinea,4,1,FIFA World Cup qualification,Pretoria,South Africa,False
+2008-06-15,Equatorial Guinea,Nigeria,0,1,FIFA World Cup qualification,Malabo,Equatorial Guinea,False
+2008-06-21,Nigeria,Equatorial Guinea,2,0,FIFA World Cup qualification,Abuja,Nigeria,False
+2008-09-06,Sierra Leone,Equatorial Guinea,2,1,FIFA World Cup qualification,Freetown,Sierra Leone,False
+2008-10-11,Equatorial Guinea,South Africa,0,1,FIFA World Cup qualification,Malabo,Equatorial Guinea,False
+2009-03-28,Cape Verde,Equatorial Guinea,5,0,Friendly,Espargos,Cape Verde,False
+2009-06-06,Estonia,Equatorial Guinea,3,0,Friendly,Tallinn,Estonia,False
+2010-08-11,Morocco,Equatorial Guinea,2,1,Friendly,Rabat,Morocco,False
+2010-10-12,Equatorial Guinea,Botswana,0,2,Friendly,Malabo,Equatorial Guinea,False
+2011-03-29,Equatorial Guinea,Gambia,1,0,Friendly,Malabo,Equatorial Guinea,False
+2011-06-02,Brittany,Equatorial Guinea,0,1,Friendly,Saint-Nazaire,France,False
+2011-08-10,Equatorial Guinea,Guinea-Bissau,1,4,Friendly,Lisbon,Portugal,True
+2011-09-03,Burkina Faso,Equatorial Guinea,1,0,Friendly,Bobo Dioulasso,Burkina Faso,False
+2011-09-07,Equatorial Guinea,Central African Republic,3,0,Friendly,Malabo,Equatorial Guinea,False
+2011-10-07,Gabon,Equatorial Guinea,2,0,Friendly,Nice,France,True
+2011-10-11,Equatorial Guinea,Cameroon,1,1,Friendly,Malabo,Equatorial Guinea,False
+2011-11-11,Equatorial Guinea,Madagascar,2,0,FIFA World Cup qualification,Malabo,Equatorial Guinea,False
+2011-11-15,Madagascar,Equatorial Guinea,2,1,FIFA World Cup qualification,Antananarivo,Madagascar,False
+2012-01-06,Equatorial Guinea,South Africa,0,0,Friendly,Bata,Equatorial Guinea,False
+2012-01-21,Equatorial Guinea,Libya,1,0,African Cup of Nations,Bata,Equatorial Guinea,False
+2012-01-25,Equatorial Guinea,Senegal,2,1,African Cup of Nations,Bata,Equatorial Guinea,False
+2012-01-29,Equatorial Guinea,Zambia,0,1,African Cup of Nations,Malabo,Equatorial Guinea,False
+2012-02-04,Equatorial Guinea,Ivory Coast,0,3,African Cup of Nations,Malabo,Equatorial Guinea,False
+2012-06-02,Tunisia,Equatorial Guinea,3,1,FIFA World Cup qualification,Monastir,Tunisia,False
+2012-06-09,Equatorial Guinea,Sierra Leone,2,2,FIFA World Cup qualification,Malabo,Equatorial Guinea,False
+2012-08-15,Equatorial Guinea,Liberia,1,0,Friendly,Malabo,Equatorial Guinea,False
+2012-09-09,DR Congo,Equatorial Guinea,4,0,African Cup of Nations qualification,Kinshasa,DR Congo,False
+2012-10-14,Equatorial Guinea,DR Congo,2,1,African Cup of Nations qualification,Malabo,Equatorial Guinea,False
+2013-03-24,Equatorial Guinea,Cape Verde,0,3,FIFA World Cup qualification,Malabo,Equatorial Guinea,False
+2013-06-08,Cape Verde,Equatorial Guinea,3,0,FIFA World Cup qualification,Praia,Cape Verde,False
+2013-06-16,Equatorial Guinea,Tunisia,1,1,FIFA World Cup qualification,Malabo,Equatorial Guinea,False
+2013-09-04,Equatorial Guinea,Libya,1,1,Friendly,Malabo,Equatorial Guinea,False
+2013-09-07,Sierra Leone,Equatorial Guinea,3,2,FIFA World Cup qualification,Freetown,Sierra Leone,False
+2013-11-16,Equatorial Guinea,Spain,1,2,Friendly,Malabo,Equatorial Guinea,False
+2014-05-17,Mauritania,Equatorial Guinea,1,0,African Cup of Nations qualification,Nouakchott,Mauritania,False
+2014-06-01,Equatorial Guinea,Mauritania,3,0,African Cup of Nations qualification,Malabo,Equatorial Guinea,False
+2015-01-17,Equatorial Guinea,Congo,1,1,African Cup of Nations,Bata,Equatorial Guinea,False
+2015-01-21,Equatorial Guinea,Burkina Faso,0,0,African Cup of Nations,Bata,Equatorial Guinea,False
+2015-01-25,Equatorial Guinea,Gabon,2,0,African Cup of Nations,Bata,Equatorial Guinea,False
+2015-01-31,Equatorial Guinea,Tunisia,2,1,African Cup of Nations,Bata,Equatorial Guinea,False
+2015-02-05,Equatorial Guinea,Ghana,0,3,African Cup of Nations,Malabo,Equatorial Guinea,False
+2015-02-07,Equatorial Guinea,DR Congo,0,0,African Cup of Nations,Malabo,Equatorial Guinea,False
+2015-03-26,Egypt,Equatorial Guinea,2,0,Friendly,Cairo,Egypt,False
+2015-03-29,Ivory Coast,Equatorial Guinea,1,1,Friendly,Abidjan,Ivory Coast,False
+2015-06-06,Andorra,Equatorial Guinea,0,1,Friendly,Sant Julià de Lòria,Andorra,False
+2015-06-14,Equatorial Guinea,Benin,1,1,African Cup of Nations qualification,Bata,Equatorial Guinea,False
+2015-09-05,South Sudan,Equatorial Guinea,1,0,African Cup of Nations qualification,Juba,South Sudan,False
+2015-10-10,Kosovo,Equatorial Guinea,2,0,Friendly,Pristina,Kosovo,False
+2015-11-12,Morocco,Equatorial Guinea,2,0,FIFA World Cup qualification,Agadir,Morocco,False
+2015-11-15,Equatorial Guinea,Morocco,1,0,FIFA World Cup qualification,Bata,Equatorial Guinea,False
+2016-03-25,Mali,Equatorial Guinea,1,0,African Cup of Nations qualification,Bamako,Mali,False
+2016-03-28,Equatorial Guinea,Mali,0,1,African Cup of Nations qualification,Malabo,Equatorial Guinea,False
+2016-06-12,Benin,Equatorial Guinea,2,1,African Cup of Nations qualification,Cotonou,Benin,False
+2016-09-04,Equatorial Guinea,South Sudan,4,0,African Cup of Nations qualification,Malabo,Equatorial Guinea,False
+2016-10-11,Lebanon,Equatorial Guinea,1,1,Friendly,Beirut,Lebanon,False
+2017-06-10,Senegal,Equatorial Guinea,3,0,African Cup of Nations qualification,Dakar,Senegal,False
+2017-09-03,Equatorial Guinea,Benin,1,2,Friendly,Malabo,Equatorial Guinea,False
+2017-10-09,Equatorial Guinea,Mauritius,3,1,Friendly,Bata,Equatorial Guinea,False
+2018-05-28,Kenya,Equatorial Guinea,1,0,Friendly,Machakos,Kenya,False
+2018-09-08,Equatorial Guinea,Sudan,1,0,African Cup of Nations qualification,Bata,Equatorial Guinea,False
+2018-10-13,Equatorial Guinea,Madagascar,0,1,African Cup of Nations qualification,Bata,Equatorial Guinea,False
+2018-10-16,Madagascar,Equatorial Guinea,1,0,African Cup of Nations qualification,Antananarivo,Madagascar,False
+2018-11-17,Equatorial Guinea,Senegal,0,1,African Cup of Nations qualification,Bata,Equatorial Guinea,False
+2019-03-22,Sudan,Equatorial Guinea,1,4,African Cup of Nations qualification,Omdurman,Sudan,False
+2019-03-25,Saudi Arabia,Equatorial Guinea,3,2,Friendly,Riyadh,Saudi Arabia,False
+2019-07-21,Equatorial Guinea,Liberia,1,1,Friendly,Malabo,Equatorial Guinea,False
+2019-09-04,South Sudan,Equatorial Guinea,1,1,FIFA World Cup qualification,Omdurman,Sudan,True
+2019-09-08,Equatorial Guinea,South Sudan,1,0,FIFA World Cup qualification,Malabo,Equatorial Guinea,False
+2019-10-13,Equatorial Guinea,Togo,1,1,Friendly,Equatorial Guinea,Equatorial Guinea,False
+2019-11-15,Tanzania,Equatorial Guinea,2,1,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+2019-11-19,Equatorial Guinea,Tunisia,0,1,African Cup of Nations qualification,Malabo,Equatorial Guinea,False
+2020-11-11,Libya,Equatorial Guinea,2,3,African Cup of Nations qualification,Radès,Tunisia,True
+2020-11-15,Equatorial Guinea,Libya,1,0,African Cup of Nations qualification,Malabo,Equatorial Guinea,False
+2021-03-25,Equatorial Guinea,Tanzania,1,0,African Cup of Nations qualification,Malabo,Equatorial Guinea,False
+2021-03-28,Tunisia,Equatorial Guinea,2,1,African Cup of Nations qualification,Radès,Tunisia,False
+2021-09-03,Tunisia,Equatorial Guinea,3,0,FIFA World Cup qualification,Radès,Tunisia,False
+2021-09-07,Equatorial Guinea,Mauritania,1,0,FIFA World Cup qualification,Malabo,Equatorial Guinea,False
+2021-10-07,Equatorial Guinea,Zambia,2,0,FIFA World Cup qualification,Malabo,Equatorial Guinea,False
+2021-10-10,Zambia,Equatorial Guinea,1,1,FIFA World Cup qualification,Lusaka,Zambia,False
+2021-11-13,Equatorial Guinea,Tunisia,1,0,FIFA World Cup qualification,Malabo,Equatorial Guinea,False
+2021-11-16,Mauritania,Equatorial Guinea,1,1,FIFA World Cup qualification,Nouakchott,Mauritania,False
+2022-01-12,Equatorial Guinea,Ivory Coast,0,1,African Cup of Nations,Douala,Cameroon,True
+2022-01-16,Algeria,Equatorial Guinea,0,1,African Cup of Nations,Douala,Cameroon,True
+2022-01-20,Sierra Leone,Equatorial Guinea,0,1,African Cup of Nations,Limbé,Cameroon,True
+2022-01-26,Mali,Equatorial Guinea,0,0,African Cup of Nations,Limbé,Cameroon,True
+2022-01-30,Senegal,Equatorial Guinea,3,1,African Cup of Nations,Yaoundé,Cameroon,True
+2022-03-23,Guinea-Bissau,Equatorial Guinea,3,0,Friendly,Óbidos,Portugal,True
+2022-03-29,Angola,Equatorial Guinea,0,0,Friendly,Óbidos,Portugal,True
+2022-06-02,Tunisia,Equatorial Guinea,4,0,African Cup of Nations qualification,Radès,Tunisia,False
+2022-06-06,Equatorial Guinea,Libya,2,0,African Cup of Nations qualification,Malabo,Equatorial Guinea,False
+2022-09-23,Rwanda,Equatorial Guinea,0,0,Friendly,Berrechid,Egypt,True
+2022-09-27,Equatorial Guinea,Togo,2,2,Friendly,Casablanca,Morocco,True
+2023-03-24,Equatorial Guinea,Botswana,2,0,African Cup of Nations qualification,Malabo,Equatorial Guinea,False
+2023-03-28,Botswana,Equatorial Guinea,2,3,African Cup of Nations qualification,Francistown,Botswana,False
+2023-06-17,Equatorial Guinea,Tunisia,1,0,African Cup of Nations qualification,Malabo,Equatorial Guinea,False
+2023-09-06,Libya,Equatorial Guinea,1,1,African Cup of Nations qualification,Benghazi,Libya,False
+2023-10-13,Equatorial Guinea,Burkina Faso,0,0,Friendly,Malabo,Equatorial Guinea,False
+2023-11-15,Equatorial Guinea,Namibia,1,0,FIFA World Cup qualification,Malabo,Equatorial Guinea,False
+2023-11-20,Liberia,Equatorial Guinea,0,1,FIFA World Cup qualification,Monrovia,Liberia,False
+2024-01-09,Equatorial Guinea,Djibouti,1,1,Friendly,Malabo,Equatorial Guinea,False
+2024-01-14,Nigeria,Equatorial Guinea,1,1,African Cup of Nations,Ebimpé,Ivory Coast,True
+2024-01-18,Equatorial Guinea,Guinea-Bissau,4,2,African Cup of Nations,Ebimpé,Ivory Coast,True
+2024-01-22,Ivory Coast,Equatorial Guinea,0,4,African Cup of Nations,Ebimpé,Ivory Coast,False
+2024-01-28,Equatorial Guinea,Guinea,0,1,African Cup of Nations,Ebimpé,Ivory Coast,True
+2024-03-22,Equatorial Guinea,Cambodia,2,0,FIFA Series,Jeddah,Saudi Arabia,True
+2024-03-25,Cape Verde,Equatorial Guinea,1,0,FIFA Series,Jeddah,Saudi Arabia,True
+2024-06-05,Tunisia,Equatorial Guinea,1,0,FIFA World Cup qualification,Radès,Tunisia,False
+2024-06-10,Equatorial Guinea,Malawi,1,0,FIFA World Cup qualification,Malabo,Equatorial Guinea,False
+2024-09-05,Algeria,Equatorial Guinea,2,0,African Cup of Nations qualification,Oran,Algeria,False
+2024-09-09,Equatorial Guinea,Togo,2,2,African Cup of Nations qualification,Malabo,Equatorial Guinea,False
+2024-10-11,Equatorial Guinea,Liberia,1,0,African Cup of Nations qualification,Malabo,Equatorial Guinea,False
+2024-10-14,Liberia,Equatorial Guinea,1,2,African Cup of Nations qualification,Monrovia,Liberia,False
+2025-03-21,Equatorial Guinea,São Tomé and Príncipe,2,0,FIFA World Cup qualification,Malabo,Equatorial Guinea,False
+2025-03-24,Namibia,Equatorial Guinea,1,1,FIFA World Cup qualification,Johannesburg,South Africa,True

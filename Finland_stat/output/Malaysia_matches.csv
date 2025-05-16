@@ -1,0 +1,828 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1953-04-16,Malaysia,South Korea,2,3,Friendly,Kallang,Singapore,True
+1956-03-17,Malaysia,Cambodia,9,2,AFC Asian Cup qualification,Kuala Lumpur,Malaya,True
+1956-04-24,Cambodia,Malaysia,3,2,AFC Asian Cup qualification,Phnom Penh,Cambodia,False
+1956-05-03,Vietnam Republic,Malaysia,4,0,AFC Asian Cup qualification,Saigon,Vietnam Republic,False
+1956-05-24,Malaysia,Vietnam Republic,3,3,AFC Asian Cup qualification,Kuala Lumpur,Malaya,True
+1957-02-16,Malaysia,India,2,3,Friendly,Kuala Lumpur,Malaya,False
+1957-09-01,Malaysia,Myanmar,5,2,Merdeka Tournament,Kuala Lumpur,Malaya,False
+1957-09-03,Malaysia,Vietnam Republic,1,4,Merdeka Tournament,Kuala Lumpur,Malaya,False
+1957-09-07,Malaysia,Indonesia,4,2,Merdeka Tournament,Kuala Lumpur,Malaya,False
+1957-10-31,Cambodia,Malaysia,1,3,Friendly,Phnom Penh,Cambodia,False
+1958-03-01,Malaysia,Singapore,5,2,Friendly,Kuala Lumpur,Malaya,False
+1958-03-02,Malaysia,Singapore,3,1,Friendly,Kuala Lumpur,Malaya,False
+1958-05-03,Singapore,Malaysia,3,3,Friendly,Kallang,Singapore,False
+1958-05-04,Singapore,Malaysia,0,3,Friendly,Kallang,Singapore,False
+1958-05-14,Malaysia,Pakistan,4,2,Friendly,Kuala Lumpur,Malaya,False
+1958-05-25,Taiwan,Malaysia,2,1,Asian Games,Tokyo,Japan,True
+1958-05-27,Malaysia,Vietnam Republic,1,6,Asian Games,Tokyo,Japan,True
+1958-06-04,Hong Kong,Malaysia,2,2,Friendly,Victoria,Hong Kong,False
+1958-07-03,Malaysia,Indonesia,2,4,Friendly,Kallang,Singapore,True
+1958-08-30,Malaysia,Indonesia,3,2,Merdeka Tournament,Kuala Lumpur,Malaya,False
+1958-09-02,Malaysia,Singapore,0,0,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1958-09-04,Malaysia,Vietnam Republic,2,0,Merdeka Tournament,Kuala Lumpur,Malaya,False
+1958-12-28,Malaysia,Japan,6,2,Friendly,Kuala Lumpur,Malaya,False
+1959-01-04,Malaysia,Japan,1,3,Friendly,George Town,Malaya,True
+1959-05-11,Singapore,Malaysia,2,5,AFC Asian Cup qualification,Kallang,Singapore,False
+1959-05-13,Malaysia,Vietnam Republic,0,1,AFC Asian Cup qualification,Kallang,Singapore,True
+1959-09-02,Malaysia,Vietnam Republic,4,3,Merdeka Tournament,Kuala Lumpur,Malaya,False
+1959-09-04,Malaysia,India,1,1,Merdeka Tournament,Kuala Lumpur,Malaya,False
+1959-09-07,Malaysia,South Korea,2,4,Friendly,Kuala Lumpur,Malaya,False
+1959-12-13,Malaysia,Myanmar,2,1,Southeast Asian Peninsular Games,Bangkok,Thailand,True
+1959-12-14,Thailand,Malaysia,3,1,Southeast Asian Peninsular Games,Bangkok,Thailand,False
+1959-12-15,Malaysia,Vietnam Republic,2,1,Southeast Asian Peninsular Games,Bangkok,Thailand,True
+1960-04-20,Indonesia,Malaysia,5,0,Friendly,Surakarta,Indonesia,False
+1960-05-06,Malaysia,India,0,0,Friendly,Kuala Lumpur,Malaya,False
+1960-08-05,Malaysia,Japan,3,0,Merdeka Tournament,Kuala Lumpur,Malaya,False
+1960-08-07,Malaysia,Thailand,8,2,Merdeka Tournament,Kuala Lumpur,Malaya,False
+1960-08-12,Malaysia,Pakistan,1,0,Merdeka Tournament,Kuala Lumpur,Malaya,False
+1960-08-14,Malaysia,South Korea,0,0,Merdeka Tournament,Kuala Lumpur,Malaya,False
+1961-05-28,Japan,Malaysia,3,2,Friendly,Tokyo,Japan,False
+1961-08-02,Malaysia,Japan,3,2,Merdeka Tournament,Kuala Lumpur,Malaya,False
+1961-08-05,Malaysia,Vietnam Republic,3,1,Merdeka Tournament,Kuala Lumpur,Malaya,False
+1961-08-09,Malaysia,India,1,2,Merdeka Tournament,Kuala Lumpur,Malaya,False
+1961-08-13,Malaysia,Indonesia,1,2,Merdeka Tournament,Kuala Lumpur,Malaya,False
+1961-10-23,Indonesia,Malaysia,1,3,Vietnam Independence Cup,Saigon,Vietnam Republic,True
+1961-10-26,Vietnam Republic,Malaysia,1,0,Vietnam Independence Cup,Saigon,Vietnam Republic,False
+1961-12-12,Malaysia,Cambodia,4,0,Southeast Asian Peninsular Games,Rangoon,Burma,True
+1961-12-13,Myanmar,Malaysia,1,2,Southeast Asian Peninsular Games,Rangoon,Burma,False
+1961-12-14,Malaysia,Thailand,2,2,Southeast Asian Peninsular Games,Rangoon,Burma,True
+1961-12-16,Myanmar,Malaysia,0,2,Southeast Asian Peninsular Games,Rangoon,Burma,False
+1962-08-26,Malaysia,Philippines,15,1,Asian Games,Jakarta,Indonesia,True
+1962-08-28,Indonesia,Malaysia,2,3,Asian Games,Jakarta,Indonesia,False
+1962-08-29,Vietnam Republic,Malaysia,3,0,Asian Games,Jakarta,Indonesia,True
+1962-09-01,South Korea,Malaysia,2,1,Asian Games,Jakarta,Indonesia,True
+1962-09-03,Vietnam Republic,Malaysia,1,4,Asian Games,Jakarta,Indonesia,True
+1962-09-08,Malaysia,Japan,2,2,Merdeka Tournament,Kuala Lumpur,Malaya,False
+1962-09-13,Malaysia,Myanmar,3,2,Merdeka Tournament,Kuala Lumpur,Malaya,False
+1962-09-16,Malaysia,Pakistan,0,0,Merdeka Tournament,Kuala Lumpur,Malaya,False
+1962-10-27,Malaysia,Thailand,4,2,Vietnam Independence Cup,Saigon,Vietnam Republic,True
+1962-10-28,Indonesia,Malaysia,2,1,Vietnam Independence Cup,Saigon,Vietnam Republic,True
+1962-10-30,Vietnam Republic,Malaysia,2,0,Vietnam Independence Cup,Saigon,Vietnam Republic,False
+1962-11-22,Malaysia,Sweden,0,1,Friendly,Kuala Lumpur,Malaya,False
+1963-08-08,Malaysia,Japan,3,4,Merdeka Tournament,Kuala Lumpur,Malaya,False
+1963-08-11,Malaysia,Vietnam Republic,0,5,Merdeka Tournament,Kuala Lumpur,Malaya,False
+1963-08-12,Malaysia,Taiwan,2,3,Merdeka Tournament,Kuala Lumpur,Malaya,False
+1963-08-14,Malaysia,Thailand,2,2,Merdeka Tournament,Kuala Lumpur,Malaya,False
+1963-08-16,Malaysia,South Korea,3,0,Merdeka Tournament,Kuala Lumpur,Malaya,False
+1963-12-07,Vietnam Republic,Malaysia,5,3,AFC Asian Cup qualification,Saigon,Vietnam Republic,False
+1963-12-11,Malaysia,Thailand,3,1,AFC Asian Cup qualification,Saigon,Vietnam Republic,True
+1963-12-14,Hong Kong,Malaysia,4,3,AFC Asian Cup qualification,Saigon,Vietnam Republic,True
+1964-08-22,Malaysia,Thailand,3,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1964-08-24,Malaysia,India,1,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1964-08-28,Malaysia,Myanmar,0,3,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1964-08-30,Malaysia,Vietnam Republic,1,2,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1964-09-02,Malaysia,Taiwan,5,2,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1964-09-05,Malaysia,Thailand,1,1,Merdeka Tournament,Ipoh,Malaysia,False
+1965-03-27,Malaysia,Japan,1,1,Friendly,Kuala Lumpur,Malaysia,False
+1965-08-14,Malaysia,Japan,2,2,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1965-08-17,Malaysia,South Korea,0,2,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1965-08-19,Malaysia,Vietnam Republic,3,3,Merdeka Tournament,Ipoh,Malaysia,False
+1965-08-21,Malaysia,India,0,3,Merdeka Tournament,Ipoh,Malaysia,False
+1965-08-23,Malaysia,Hong Kong,1,3,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1965-11-16,Vietnam Republic,Malaysia,2,2,Vietnam Independence Cup,Saigon,Vietnam Republic,False
+1965-12-07,Malaysia,Australia,0,1,Friendly,Ipoh,Malaysia,False
+1965-12-08,Malaysia,Australia,0,3,Friendly,Ipoh,Malaysia,False
+1965-12-18,Malaysia,Myanmar,0,2,Southeast Asian Peninsular Games,Kuala Lumpur,Malaysia,False
+1965-12-20,Malaysia,Vietnam Republic,0,2,Southeast Asian Peninsular Games,Kuala Lumpur,Malaysia,False
+1966-08-13,Malaysia,Vietnam Republic,5,2,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1966-08-19,Malaysia,Thailand,0,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1966-08-23,Malaysia,Myanmar,0,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1966-08-25,Malaysia,Hong Kong,1,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1966-08-27,Malaysia,South Korea,1,2,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1966-11-01,Vietnam Republic,Malaysia,3,2,Vietnam Independence Cup,Saigon,Vietnam Republic,False
+1966-11-03,Malaysia,Thailand,1,1,Vietnam Independence Cup,Saigon,Vietnam Republic,True
+1966-12-10,Iran,Malaysia,2,0,Asian Games,Bangkok,Thailand,True
+1966-12-12,Malaysia,India,1,2,Asian Games,Bangkok,Thailand,True
+1966-12-14,Malaysia,Japan,0,1,Asian Games,Bangkok,Thailand,True
+1967-03-29,Vietnam Republic,Malaysia,0,2,AFC Asian Cup qualification,So Kon Po,Hong Kong,True
+1967-08-10,Malaysia,Western Australia,3,2,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1967-08-13,Malaysia,Hong Kong,3,0,Merdeka Tournament,Ipoh,Malaysia,False
+1967-08-15,Malaysia,Vietnam Republic,1,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1967-08-19,Malaysia,India,0,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1967-08-20,Malaysia,Thailand,1,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1967-08-23,Malaysia,South Korea,1,3,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1967-08-25,Malaysia,Vietnam Republic,1,2,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1967-11-04,Malaysia,Thailand,3,2,Vietnam Independence Cup,Saigon,Vietnam Republic,True
+1967-11-08,Hong Kong,Malaysia,0,2,Vietnam Independence Cup,Saigon,Vietnam Republic,True
+1967-11-11,South Korea,Malaysia,2,1,Vietnam Independence Cup,Saigon,Vietnam Republic,True
+1967-11-12,Australia,Malaysia,1,0,Vietnam Independence Cup,Saigon,Vietnam Republic,True
+1967-11-14,Vietnam Republic,Malaysia,4,1,Vietnam Independence Cup,Saigon,Vietnam Republic,False
+1967-11-16,Malaysia,New Zealand,2,8,Friendly,Kuala Lumpur,Malaysia,False
+1967-12-10,Thailand,Malaysia,4,0,Southeast Asian Peninsular Games,Bangkok,Thailand,False
+1967-12-11,Myanmar,Malaysia,2,1,Southeast Asian Peninsular Games,Bangkok,Thailand,True
+1968-08-09,Malaysia,Hong Kong,1,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1968-08-11,Malaysia,India,2,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1968-08-14,Malaysia,Vietnam Republic,4,0,Merdeka Tournament,Ipoh,Malaysia,False
+1968-08-17,Malaysia,Thailand,4,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1968-08-18,Malaysia,Myanmar,1,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1968-08-22,Malaysia,Western Australia,4,3,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1968-08-25,Malaysia,Myanmar,3,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1968-11-21,Indonesia,Malaysia,1,0,King's Cup,Bangkok,Thailand,True
+1968-11-24,Laos,Malaysia,0,5,King's Cup,Bangkok,Thailand,True
+1968-11-26,Thailand,Malaysia,3,0,King's Cup,Bangkok,Thailand,False
+1968-11-28,Indonesia,Malaysia,6,1,King's Cup,Bangkok,Thailand,True
+1968-12-01,Thailand,Malaysia,6,0,King's Cup,Bangkok,Thailand,False
+1969-10-30,Malaysia,Thailand,1,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1969-11-03,Malaysia,South Korea,4,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1969-11-07,Malaysia,Myanmar,3,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1969-11-09,Malaysia,Indonesia,2,3,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1969-11-19,Thailand,Malaysia,2,2,King's Cup,Bangkok,Thailand,False
+1969-11-21,South Korea,Malaysia,2,0,King's Cup,Bangkok,Thailand,True
+1969-11-23,Laos,Malaysia,1,1,King's Cup,Bangkok,Thailand,True
+1969-12-06,Malaysia,Laos,2,1,Southeast Asian Peninsular Games,Rangoon,Burma,True
+1969-12-07,Malaysia,Vietnam Republic,2,1,Southeast Asian Peninsular Games,Rangoon,Burma,True
+1969-12-10,Malaysia,Thailand,0,3,Southeast Asian Peninsular Games,Rangoon,Burma,True
+1970-06-20,Malaysia,Singapore,5,0,Indonesia Tournament,Jakarta,Indonesia,True
+1970-06-23,South Korea,Malaysia,0,1,Indonesia Tournament,Jakarta,Indonesia,True
+1970-06-26,Hong Kong,Malaysia,1,1,Indonesia Tournament,Jakarta,Indonesia,True
+1970-06-28,South Korea,Malaysia,0,2,Indonesia Tournament,Jakarta,Indonesia,True
+1970-07-30,Malaysia,Vietnam Republic,0,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1970-08-01,Malaysia,India,1,3,Merdeka Tournament,Ipoh,Malaysia,False
+1970-08-04,Malaysia,Taiwan,3,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1970-08-07,Malaysia,Western Australia,4,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1970-08-09,Malaysia,Myanmar,1,2,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1970-08-15,Malaysia,Indonesia,4,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1970-10-29,Vietnam Republic,Malaysia,1,1,Vietnam Independence Cup,Saigon,Vietnam Republic,False
+1970-10-31,Malaysia,Thailand,1,4,Vietnam Independence Cup,Saigon,Vietnam Republic,True
+1970-11-01,Indonesia,Malaysia,1,3,Vietnam Independence Cup,Saigon,Vietnam Republic,True
+1970-11-09,Cambodia,Malaysia,1,1,King's Cup,Bangkok,Thailand,True
+1970-11-13,Indonesia,Malaysia,3,0,King's Cup,Bangkok,Thailand,True
+1970-11-15,Malaysia,Vietnam Republic,2,1,King's Cup,Bangkok,Thailand,True
+1970-11-18,South Korea,Malaysia,2,0,King's Cup,Bangkok,Thailand,True
+1970-11-20,Indonesia,Malaysia,1,3,King's Cup,Bangkok,Thailand,True
+1970-12-10,Japan,Malaysia,1,0,Asian Games,Bangkok,Thailand,True
+1970-12-12,Myanmar,Malaysia,1,0,Asian Games,Bangkok,Thailand,True
+1970-12-14,Malaysia,Cambodia,0,2,Asian Games,Bangkok,Thailand,True
+1971-05-03,Cambodia,Malaysia,1,3,Korea Cup,Seoul,South Korea,True
+1971-05-06,South Korea,Malaysia,5,1,Korea Cup,Seoul,South Korea,False
+1971-05-08,Malaysia,Thailand,4,1,Korea Cup,Seoul,South Korea,True
+1971-05-11,Myanmar,Malaysia,6,1,Korea Cup,Seoul,South Korea,True
+1971-05-13,Indonesia,Malaysia,4,2,Korea Cup,Seoul,South Korea,True
+1971-05-15,Malaysia,Thailand,0,3,Friendly,Taipei,Taiwan,True
+1971-05-22,Malaysia,Brunei,8,0,AFC Asian Cup qualification,Bangkok,Thailand,True
+1971-05-26,Malaysia,Cambodia,2,1,AFC Asian Cup qualification,Bangkok,Thailand,True
+1971-05-28,Malaysia,Hong Kong,2,1,AFC Asian Cup qualification,Bangkok,Thailand,True
+1971-05-30,Thailand,Malaysia,1,0,AFC Asian Cup qualification,Bangkok,Thailand,False
+1971-06-01,Malaysia,Indonesia,3,0,AFC Asian Cup qualification,Bangkok,Thailand,True
+1971-06-08,Cambodia,Malaysia,1,1,Indonesia Tournament,Jakarta,Indonesia,True
+1971-06-09,Malaysia,Western Australia,3,2,Indonesia Tournament,Jakarta,Indonesia,True
+1971-06-11,Myanmar,Malaysia,5,1,Indonesia Tournament,Jakarta,Indonesia,True
+1971-06-13,South Korea,Malaysia,1,2,Indonesia Tournament,Jakarta,Indonesia,True
+1971-06-14,Indonesia,Malaysia,2,1,Indonesia Tournament,Jakarta,Indonesia,False
+1971-06-15,Cambodia,Malaysia,1,2,Indonesia Tournament,Jakarta,Indonesia,True
+1971-08-04,Malaysia,Vietnam Republic,2,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1971-08-07,Malaysia,Taiwan,0,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1971-08-07,Malaysia,Thailand,0,2,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1971-08-23,Singapore,Malaysia,2,4,Friendly,Kallang,Singapore,False
+1971-08-26,India,Malaysia,6,0,Friendly,Kallang,Singapore,True
+1971-10-28,Vietnam Republic,Malaysia,0,1,Vietnam Independence Cup,Saigon,Vietnam Republic,False
+1971-10-30,Malaysia,Singapore,1,1,Vietnam Independence Cup,Saigon,Vietnam Republic,True
+1971-10-31,Vietnam Republic,Malaysia,1,1,Vietnam Independence Cup,Saigon,Vietnam Republic,False
+1971-11-08,South Korea,Malaysia,2,2,King's Cup,Bangkok,Thailand,True
+1971-11-10,Indonesia,Malaysia,2,0,King's Cup,Bangkok,Thailand,True
+1971-12-12,Malaysia,Laos,5,0,Southeast Asian Peninsular Games,Malaysia,Malaysia,False
+1971-12-14,Malaysia,Thailand,4,2,Southeast Asian Peninsular Games,Malaysia,Malaysia,False
+1971-12-14,Malaysia,Cambodia,3,0,Southeast Asian Peninsular Games,Malaysia,Malaysia,False
+1971-12-17,Malaysia,Vietnam Republic,3,2,Southeast Asian Peninsular Games,Kuala Lumpur,Malaysia,False
+1971-12-18,Malaysia,Myanmar,1,2,Southeast Asian Peninsular Games,Kuala Lumpur,Malaysia,False
+1972-06-09,Laos,Malaysia,1,2,Indonesia Tournament,Jakarta,Indonesia,True
+1972-06-15,Myanmar,Malaysia,2,2,Indonesia Tournament,Jakarta,Indonesia,True
+1972-07-12,Malaysia,Sri Lanka,4,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1972-07-14,Malaysia,Philippines,1,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1972-07-19,Malaysia,Cambodia,6,1,Merdeka Tournament,Ipoh,Malaysia,False
+1972-07-22,Malaysia,Japan,3,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1972-07-29,Malaysia,South Korea,1,2,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1972-09-20,Cambodia,Malaysia,0,1,Korea Cup,Seoul,South Korea,True
+1972-09-22,Malaysia,Thailand,1,1,Korea Cup,Seoul,South Korea,True
+1972-09-24,South Korea,Malaysia,2,0,Korea Cup,Seoul,South Korea,False
+1972-09-28,Indonesia,Malaysia,3,1,Korea Cup,Seoul,South Korea,True
+1972-09-30,South Korea,Malaysia,1,0,Korea Cup,Seoul,South Korea,False
+1972-10-28,Vietnam Republic,Malaysia,0,0,Vietnam Independence Cup,Saigon,Vietnam Republic,False
+1972-10-29,Cambodia,Malaysia,1,0,Vietnam Independence Cup,Saigon,Vietnam Republic,True
+1972-11-01,Malaysia,Singapore,1,3,Vietnam Independence Cup,Saigon,Vietnam Republic,True
+1972-11-18,South Korea,Malaysia,4,1,King's Cup,Bangkok,Thailand,True
+1972-11-20,Thailand,Malaysia,0,2,King's Cup,Bangkok,Thailand,False
+1972-11-22,Malaysia,Singapore,2,0,King's Cup,Bangkok,Thailand,True
+1972-11-26,Indonesia,Malaysia,0,2,King's Cup,Bangkok,Thailand,True
+1972-11-28,Thailand,Malaysia,0,1,King's Cup,Bangkok,Thailand,False
+1973-05-17,Hong Kong,Malaysia,1,0,FIFA World Cup qualification,Seoul,South Korea,True
+1973-05-19,Israel,Malaysia,3,0,FIFA World Cup qualification,Seoul,South Korea,True
+1973-05-21,South Korea,Malaysia,0,0,FIFA World Cup qualification,Seoul,South Korea,False
+1973-05-23,Thailand,Malaysia,0,2,FIFA World Cup qualification,Seoul,South Korea,True
+1973-06-12,Myanmar,Malaysia,2,2,Indonesia Tournament,Jakarta,Indonesia,True
+1973-06-14,Indonesia,Malaysia,2,0,Indonesia Tournament,Jakarta,Indonesia,False
+1973-07-26,Malaysia,Kuwait,0,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1973-07-30,Malaysia,South Korea,1,2,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1973-08-03,Malaysia,Thailand,2,2,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1973-08-03,Malaysia,Cambodia,1,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1973-08-03,Malaysia,India,4,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1973-08-10,Malaysia,Myanmar,2,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1973-08-12,Malaysia,Kuwait,3,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1973-09-02,Malaysia,Thailand,1,1,Southeast Asian Peninsular Games,Singapore,Singapore,True
+1973-09-04,Singapore,Malaysia,0,0,Southeast Asian Peninsular Games,Singapore,Singapore,False
+1973-09-04,Singapore,Malaysia,0,3,Southeast Asian Peninsular Games,Singapore,Singapore,False
+1973-09-06,Myanmar,Malaysia,1,0,Southeast Asian Peninsular Games,Singapore,Singapore,True
+1973-09-24,Malaysia,Thailand,5,1,Korea Cup,Seoul,South Korea,True
+1973-09-26,Myanmar,Malaysia,1,3,Korea Cup,Seoul,South Korea,True
+1973-09-28,Cambodia,Malaysia,2,0,Korea Cup,Seoul,South Korea,True
+1973-09-30,South Korea,Malaysia,2,0,Korea Cup,Seoul,South Korea,False
+1973-11-01,Vietnam Republic,Malaysia,1,5,Vietnam Independence Cup,Saigon,Vietnam Republic,False
+1973-11-03,Malaysia,Singapore,2,1,Vietnam Independence Cup,Saigon,Vietnam Republic,True
+1973-12-18,South Korea,Malaysia,0,0,King's Cup,Bangkok,Thailand,True
+1973-12-20,Cambodia,Malaysia,2,3,King's Cup,Bangkok,Thailand,True
+1973-12-23,Thailand,Malaysia,0,1,King's Cup,Bangkok,Thailand,False
+1973-12-25,South Korea,Malaysia,2,1,King's Cup,Bangkok,Thailand,True
+1974-06-03,Myanmar,Malaysia,3,0,Indonesia Tournament,Jakarta,Indonesia,True
+1974-06-07,Indonesia,Malaysia,4,3,Indonesia Tournament,Jakarta,Indonesia,False
+1974-06-09,South Korea,Malaysia,0,0,Indonesia Tournament,Jakarta,Indonesia,True
+1974-07-25,Malaysia,India,4,1,Merdeka Tournament,Ipoh,Malaysia,False
+1974-08-01,Malaysia,Thailand,3,2,Merdeka Tournament,Ipoh,Malaysia,False
+1974-09-03,Israel,Malaysia,8,3,Asian Games,Tehran,Iran,True
+1974-09-05,Japan,Malaysia,1,1,Asian Games,Tehran,Iran,True
+1974-09-07,Malaysia,Philippines,11,0,Asian Games,Tehran,Iran,True
+1974-09-09,Iran,Malaysia,1,0,Asian Games,Tehran,Iran,False
+1974-09-11,Malaysia,Iraq,0,0,Asian Games,Tehran,Iran,True
+1974-09-13,South Korea,Malaysia,2,3,Asian Games,Tehran,Iran,True
+1974-09-15,North Korea,Malaysia,1,2,Asian Games,Tehran,Iran,True
+1974-11-02,Laos,Malaysia,0,0,Vietnam Independence Cup,Saigon,Vietnam Republic,True
+1974-11-03,Malaysia,Taiwan,0,0,Vietnam Independence Cup,Saigon,Vietnam Republic,True
+1974-11-05,Vietnam Republic,Malaysia,1,0,Vietnam Independence Cup,Saigon,Vietnam Republic,False
+1974-12-10,Thailand,Malaysia,0,2,King's Cup,Bangkok,Thailand,False
+1974-12-12,Malaysia,Singapore,0,0,King's Cup,Bangkok,Thailand,True
+1974-12-14,Laos,Malaysia,2,2,King's Cup,Bangkok,Thailand,True
+1974-12-16,Thailand,Malaysia,4,1,King's Cup,Bangkok,Thailand,False
+1974-12-18,South Korea,Malaysia,0,0,King's Cup,Bangkok,Thailand,True
+1974-12-20,Cambodia,Malaysia,0,3,King's Cup,Bangkok,Thailand,True
+1975-03-16,Malaysia,South Korea,2,1,AFC Asian Cup qualification,Bangkok,Thailand,True
+1975-03-18,Thailand,Malaysia,0,1,AFC Asian Cup qualification,Bangkok,Thailand,False
+1975-03-20,Malaysia,Indonesia,0,0,AFC Asian Cup qualification,Bangkok,Thailand,True
+1975-03-23,Malaysia,Vietnam Republic,3,0,AFC Asian Cup qualification,Bangkok,Thailand,True
+1975-06-13,Malaysia,Thailand,1,0,Indonesia Tournament,Jakarta,Indonesia,True
+1975-06-14,Indonesia,Malaysia,3,1,Indonesia Tournament,Jakarta,Indonesia,False
+1975-06-16,South Korea,Malaysia,1,1,Indonesia Tournament,Jakarta,Indonesia,True
+1975-06-18,Myanmar,Malaysia,2,0,Indonesia Tournament,Jakarta,Indonesia,True
+1975-07-27,Malaysia,Thailand,1,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1975-07-29,Malaysia,South Korea,1,3,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1975-07-31,Malaysia,Hong Kong,3,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1975-08-02,Malaysia,Japan,2,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1975-08-05,Malaysia,Indonesia,2,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1975-08-07,Malaysia,Bangladesh,3,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1975-08-10,Malaysia,Myanmar,2,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1975-08-17,Malaysia,South Korea,0,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1975-12-09,Thailand,Malaysia,1,1,Southeast Asian Peninsular Games,Thailand,Thailand,False
+1975-12-13,Myanmar,Malaysia,0,1,Southeast Asian Peninsular Games,Thailand,Thailand,True
+1975-12-16,Thailand,Malaysia,2,1,Southeast Asian Peninsular Games,Thailand,Thailand,False
+1975-12-21,Malaysia,Singapore,0,0,King's Cup,Bangkok,Thailand,True
+1975-12-27,Myanmar,Malaysia,2,1,King's Cup,Bangkok,Thailand,True
+1975-12-29,Thailand,Malaysia,1,0,King's Cup,Bangkok,Thailand,False
+1976-01-02,South Korea,Malaysia,4,0,King's Cup,Bangkok,Thailand,True
+1976-05-06,China PR,Malaysia,2,0,Friendly,Beijing,China PR,False
+1976-06-03,Kuwait,Malaysia,2,0,AFC Asian Cup,Tehran,Iran,True
+1976-06-05,China PR,Malaysia,1,1,AFC Asian Cup,Tehran,Iran,True
+1976-06-08,Myanmar,Malaysia,3,1,Indonesia Tournament,Jakarta,Indonesia,True
+1976-06-10,Indonesia,Malaysia,1,2,Indonesia Tournament,Jakarta,Indonesia,False
+1976-08-07,Malaysia,South Korea,2,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1976-08-09,Malaysia,Thailand,0,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1976-08-10,Malaysia,India,5,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1976-08-14,Malaysia,Indonesia,7,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1976-08-17,Malaysia,Myanmar,3,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1976-08-20,Malaysia,Japan,2,2,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1976-08-22,Malaysia,Japan,2,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1976-09-11,South Korea,Malaysia,4,4,Korea Cup,Seoul,South Korea,False
+1976-09-13,Malaysia,Singapore,4,1,Korea Cup,Seoul,South Korea,True
+1976-09-19,India,Malaysia,0,4,Korea Cup,Seoul,South Korea,True
+1976-12-18,Bangladesh,Malaysia,0,6,King's Cup,Bangkok,Thailand,True
+1976-12-22,South Korea,Malaysia,1,1,King's Cup,Bangkok,Thailand,True
+1976-12-25,Thailand,Malaysia,1,1,King's Cup,Bangkok,Thailand,False
+1977-03-01,Malaysia,Thailand,6,4,FIFA World Cup qualification,Kallang,Singapore,True
+1977-03-03,Indonesia,Malaysia,0,0,FIFA World Cup qualification,Kallang,Singapore,True
+1977-03-06,Singapore,Malaysia,1,0,FIFA World Cup qualification,Kallang,Singapore,False
+1977-03-08,Malaysia,Hong Kong,1,1,FIFA World Cup qualification,Kallang,Singapore,True
+1977-07-16,Malaysia,Myanmar,1,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1977-07-18,Malaysia,Thailand,3,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1977-07-21,Malaysia,Libya,1,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1977-07-23,Malaysia,Iraq,0,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1977-07-26,Malaysia,South Korea,1,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1977-09-08,Bahrain,Malaysia,1,3,Korea Cup,Daegu,South Korea,True
+1977-09-13,South Korea,Malaysia,3,0,Korea Cup,Seoul,South Korea,False
+1977-09-15,Malaysia,Thailand,1,1,Korea Cup,Seoul,South Korea,True
+1977-11-01,Malaysia,Singapore,4,3,King's Cup,Bangkok,Thailand,True
+1977-11-06,Thailand,Malaysia,1,2,King's Cup,Bangkok,Thailand,False
+1977-11-10,India,Malaysia,0,3,King's Cup,Bangkok,Thailand,True
+1977-11-19,Malaysia,Indonesia,1,2,Southeast Asian Games,Kuala Lumpur,Malaysia,False
+1977-11-21,Malaysia,Philippines,5,0,Southeast Asian Games,Kuala Lumpur,Malaysia,False
+1977-11-23,Malaysia,Brunei,7,0,Southeast Asian Games,Kuala Lumpur,Malaysia,False
+1977-11-25,Malaysia,Myanmar,9,1,Southeast Asian Games,Kuala Lumpur,Malaysia,False
+1977-11-26,Malaysia,Thailand,2,0,Southeast Asian Games,Kuala Lumpur,Malaysia,False
+1978-04-26,Malaysia,Singapore,0,1,King's Cup,Bangkok,Thailand,True
+1978-06-13,Indonesia,Malaysia,3,0,Indonesia Tournament,Jakarta,Indonesia,False
+1978-06-16,Malaysia,Singapore,1,1,Indonesia Tournament,Jakarta,Indonesia,True
+1978-06-21,Malaysia,Thailand,1,1,Indonesia Tournament,Jakarta,Indonesia,True
+1978-06-23,Malaysia,Thailand,3,3,Indonesia Tournament,Jakarta,Indonesia,True
+1978-07-12,Malaysia,South Korea,1,3,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1978-07-14,Malaysia,Singapore,6,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1978-07-16,Malaysia,Thailand,2,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1978-07-16,Malaysia,Indonesia,1,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1978-07-18,Malaysia,Iraq,1,2,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1978-07-21,Malaysia,Japan,4,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1978-07-23,Malaysia,Syria,5,2,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1978-09-09,Bahrain,Malaysia,1,2,Korea Cup,Seoul,South Korea,True
+1978-09-11,South Korea,Malaysia,2,2,Korea Cup,Busan,South Korea,False
+1978-12-10,India,Malaysia,0,1,Asian Games,Bangkok,Thailand,True
+1978-12-12,Bangladesh,Malaysia,0,1,Asian Games,Bangkok,Thailand,True
+1978-12-17,Thailand,Malaysia,2,1,Asian Games,Bangkok,Thailand,False
+1978-12-18,Malaysia,South Korea,0,1,Asian Games,Bangkok,Thailand,True
+1978-12-19,China PR,Malaysia,7,1,Asian Games,Bangkok,Thailand,True
+1979-05-09,Malaysia,North Korea,1,1,AFC Asian Cup qualification,Bangkok,Thailand,True
+1979-05-11,Malaysia,Hong Kong,0,0,AFC Asian Cup qualification,Bangkok,Thailand,True
+1979-05-14,North Korea,Malaysia,1,0,AFC Asian Cup qualification,Bangkok,Thailand,True
+1979-06-29,Malaysia,Japan,1,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1979-06-29,Malaysia,Myanmar,4,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1979-07-01,Malaysia,Thailand,4,2,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1979-07-04,Malaysia,Indonesia,1,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1979-07-09,Malaysia,Singapore,3,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1979-09-23,Singapore,Malaysia,0,2,Southeast Asian Games,Jakarta,Indonesia,True
+1979-09-25,Malaysia,Myanmar,0,0,Southeast Asian Games,Jakarta,Indonesia,True
+1979-09-26,Indonesia,Malaysia,0,0,Southeast Asian Games,Jakarta,Indonesia,False
+1979-09-28,Malaysia,Thailand,1,0,Southeast Asian Games,Jakarta,Indonesia,True
+1979-09-30,Indonesia,Malaysia,0,1,Southeast Asian Games,Jakarta,Indonesia,False
+1979-11-14,Malaysia,Sweden,1,3,Friendly,Kuala Lumpur,Malaysia,False
+1979-11-21,Malaysia,Taiwan,0,3,Friendly,Bangkok,Thailand,True
+1980-03-12,Malaysia,Saudi Arabia,3,0,Friendly,Kuala Lumpur,Malaysia,False
+1980-03-16,Malaysia,China PR,3,1,Friendly,Kuala Lumpur,Malaysia,False
+1980-08-23,South Korea,Malaysia,2,0,Korea Cup,Seoul,South Korea,False
+1980-08-25,Bahrain,Malaysia,1,1,Korea Cup,Seoul,South Korea,True
+1980-08-29,Malaysia,Thailand,1,4,Korea Cup,Seoul,South Korea,True
+1980-08-31,Indonesia,Malaysia,1,1,Korea Cup,Seoul,South Korea,True
+1980-09-16,Malaysia,South Korea,1,1,AFC Asian Cup,Kuwait City,Kuwait,True
+1980-09-18,Kuwait,Malaysia,3,1,AFC Asian Cup,Kuwait City,Kuwait,False
+1980-09-20,United Arab Emirates,Malaysia,0,2,AFC Asian Cup,Kuwait City,Kuwait,True
+1980-09-23,Malaysia,Qatar,1,1,AFC Asian Cup,Kuwait City,Kuwait,True
+1980-10-17,Malaysia,Myanmar,3,2,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1980-10-20,Malaysia,Thailand,2,2,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1980-10-22,Malaysia,South Korea,1,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1980-10-27,Malaysia,Indonesia,1,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1980-10-29,Malaysia,Kuwait,2,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1980-10-30,Malaysia,New Zealand,2,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1980-11-02,Malaysia,Morocco,1,2,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1981-02-08,Malaysia,Japan,1,0,Friendly,Kuantan,Malaysia,False
+1981-02-10,Malaysia,Japan,1,1,Friendly,Kuala Lumpur,Malaysia,False
+1981-04-05,Singapore,Malaysia,1,1,Friendly,Kallang,Singapore,False
+1981-04-17,Malaysia,Singapore,1,2,Friendly,Kuala Lumpur,Malaysia,False
+1981-04-21,South Korea,Malaysia,2,1,FIFA World Cup qualification,Kuwait City,Kuwait,True
+1981-04-25,Kuwait,Malaysia,4,0,FIFA World Cup qualification,Kuwait City,Kuwait,False
+1981-04-27,Malaysia,Thailand,2,2,FIFA World Cup qualification,Kuwait City,Kuwait,True
+1981-06-17,South Korea,Malaysia,2,0,Korea Cup,Jeonju,South Korea,False
+1981-06-19,Japan,Malaysia,2,0,Korea Cup,Daegu,South Korea,True
+1981-08-30,Malaysia,Japan,0,2,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1981-09-04,Malaysia,New Zealand,0,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1981-09-09,Malaysia,Indonesia,2,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1981-09-12,Malaysia,United Arab Emirates,0,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1981-09-15,Malaysia,India,2,2,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1981-11-11,Malaysia,Singapore,0,1,King's Cup,Chonburi,Thailand,True
+1981-11-13,Malaysia,Pakistan,2,3,King's Cup,Bangkok,Thailand,True
+1981-11-15,Thailand,Malaysia,2,0,King's Cup,Bangkok,Thailand,False
+1981-12-06,Malaysia,Myanmar,1,0,Southeast Asian Games,Manila,Philippines,True
+1981-12-08,Malaysia,Thailand,2,2,Southeast Asian Games,Manila,Philippines,True
+1981-12-13,Malaysia,Singapore,1,1,Southeast Asian Games,Manila,Philippines,True
+1981-12-15,Thailand,Malaysia,2,1,Southeast Asian Games,Manila,Philippines,True
+1982-05-05,South Korea,Malaysia,5,0,King's Cup,Bangkok,Thailand,True
+1982-06-10,Malaysia,Thailand,1,1,Korea Cup,Busan,South Korea,True
+1982-08-05,Malaysia,Indonesia,0,2,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1982-08-07,Malaysia,United Arab Emirates,1,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1982-08-09,Malaysia,Pakistan,4,1,Friendly,Dhaka,Bangladesh,True
+1982-08-10,Malaysia,South Korea,1,2,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1982-08-13,Malaysia,Senegal,1,0,Merdeka Tournament,Kuantan,Malaysia,False
+1982-10-05,Singapore,Malaysia,0,1,Merlion Cup,Kallang,Singapore,False
+1982-10-10,Brunei,Malaysia,0,4,Merlion Cup,Kallang,Singapore,True
+1982-10-14,Australia,Malaysia,5,0,Merlion Cup,Kallang,Singapore,True
+1982-10-17,Indonesia,Malaysia,0,0,Merlion Cup,Kallang,Singapore,True
+1982-11-10,Singapore,Malaysia,3,1,Friendly,Kallang,Singapore,False
+1982-11-20,China PR,Malaysia,1,0,Asian Games,New Delhi,India,True
+1982-11-22,India,Malaysia,1,0,Asian Games,New Delhi,India,False
+1982-11-24,Malaysia,Bangladesh,1,2,Asian Games,New Delhi,India,True
+1983-05-28,Singapore,Malaysia,2,1,Southeast Asian Games,Singapore,Singapore,False
+1983-05-30,Philippines,Malaysia,0,0,Southeast Asian Games,Singapore,Singapore,True
+1983-06-04,Thailand,Malaysia,1,1,Southeast Asian Games,Singapore,Singapore,True
+1983-06-05,Malaysia,Brunei,5,0,Southeast Asian Games,Singapore,Singapore,True
+1983-09-03,Malaysia,Singapore,0,0,Friendly,Kuala Lumpur,Malaysia,False
+1983-09-10,Singapore,Malaysia,0,1,Friendly,Kallang,Singapore,False
+1983-09-19,Malaysia,Nepal,7,0,Merdeka Tournament,Kota Bharu,Malaysia,False
+1983-09-28,Malaysia,Bangladesh,1,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1984-03-31,New Zealand,Malaysia,2,0,Friendly,Wellington,New Zealand,False
+1984-04-03,New Zealand,Malaysia,6,1,Friendly,Christchurch,New Zealand,False
+1984-04-08,New Zealand,Malaysia,0,0,Friendly,Auckland,New Zealand,False
+1984-08-12,Malaysia,Singapore,1,0,Friendly,Kuala Lumpur,Malaysia,False
+1984-08-18,Singapore,Malaysia,1,1,Friendly,Kallang,Singapore,False
+1984-08-26,Malaysia,Indonesia,2,2,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1984-08-29,Malaysia,Liberia,3,1,Merdeka Tournament,Kota Bharu,Malaysia,False
+1984-09-04,Malaysia,Papua New Guinea,5,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1984-10-11,Malaysia,Pakistan,5,0,AFC Asian Cup qualification,Calcutta,India,True
+1984-10-14,India,Malaysia,2,1,AFC Asian Cup qualification,Calcutta,India,False
+1984-10-16,South Korea,Malaysia,0,0,AFC Asian Cup qualification,Calcutta,India,True
+1984-10-18,Malaysia,Yemen,4,1,AFC Asian Cup qualification,Calcutta,India,True
+1985-03-10,Malaysia,South Korea,1,0,FIFA World Cup qualification,Kuala Lumpur,Malaysia,False
+1985-03-16,Nepal,Malaysia,0,0,FIFA World Cup qualification,Kathmandu,Nepal,False
+1985-03-31,Malaysia,Nepal,5,0,FIFA World Cup qualification,Kuala Lumpur,Malaysia,False
+1985-05-19,South Korea,Malaysia,2,0,FIFA World Cup qualification,Seoul,South Korea,False
+1985-06-03,Bahrain,Malaysia,3,1,Korea Cup,Seoul,South Korea,True
+1985-10-13,Brunei,Malaysia,0,4,Merlion Cup,Kallang,Singapore,True
+1985-10-20,Singapore,Malaysia,2,0,Merlion Cup,Kallang,Singapore,False
+1985-10-23,Singapore,Malaysia,4,0,Merlion Cup,Kallang,Singapore,False
+1985-12-08,Thailand,Malaysia,1,1,Southeast Asian Games,Bangkok,Thailand,False
+1985-12-10,Malaysia,Philippines,6,0,Southeast Asian Games,Bangkok,Thailand,True
+1985-12-15,Singapore,Malaysia,2,2,Southeast Asian Games,Bangkok,Thailand,True
+1985-12-16,Malaysia,Indonesia,1,0,Southeast Asian Games,Bangkok,Thailand,True
+1986-07-24,Malaysia,India,3,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1986-07-26,Malaysia,Thailand,2,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1986-08-01,Malaysia,Japan,2,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1986-08-23,Malaysia,Algeria,2,2,Friendly,Kuala Lumpur,Malaysia,False
+1986-09-21,Malaysia,Saudi Arabia,1,3,Asian Games,Gwangju,South Korea,True
+1986-09-23,Qatar,Malaysia,1,1,Asian Games,Gwangju,South Korea,True
+1986-09-27,Indonesia,Malaysia,1,0,Asian Games,Gwangju,South Korea,True
+1986-12-06,South Korea,Malaysia,2,1,Friendly,Pokhara,Nepal,True
+1987-09-10,Singapore,Malaysia,0,0,Southeast Asian Games,Jakarta,Indonesia,True
+1987-09-16,Thailand,Malaysia,0,2,Southeast Asian Games,Jakarta,Indonesia,True
+1987-09-20,Indonesia,Malaysia,1,0,Southeast Asian Games,Jakarta,Indonesia,False
+1987-12-17,Malaysia,South Korea,0,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1988-01-21,Malaysia,South Korea,0,0,King's Cup,Bangkok,Thailand,True
+1988-04-07,Malaysia,Pakistan,4,0,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,False
+1988-04-11,Malaysia,Japan,0,1,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,False
+1988-04-14,Malaysia,Jordan,0,0,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,False
+1988-04-18,Malaysia,Kuwait,0,5,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,False
+1988-12-08,Malaysia,Indonesia,0,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1988-12-10,Malaysia,Thailand,0,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1989-01-28,Thailand,Malaysia,1,0,King's Cup,Bangkok,Thailand,False
+1989-02-03,Indonesia,Malaysia,1,3,King's Cup,Bangkok,Thailand,True
+1989-03-27,Qatar,Malaysia,1,0,Friendly,Doha,Qatar,False
+1989-05-23,Malaysia,Nepal,2,0,FIFA World Cup qualification,Seoul,South Korea,True
+1989-05-25,Malaysia,Singapore,1,0,FIFA World Cup qualification,Seoul,South Korea,True
+1989-05-27,South Korea,Malaysia,3,0,FIFA World Cup qualification,Seoul,South Korea,False
+1989-06-03,Singapore,Malaysia,2,2,FIFA World Cup qualification,Singapore,Singapore,False
+1989-06-05,Malaysia,South Korea,0,3,FIFA World Cup qualification,Singapore,Singapore,True
+1989-06-07,Malaysia,Nepal,3,0,FIFA World Cup qualification,Singapore,Singapore,True
+1989-08-21,Malaysia,Philippines,3,0,Southeast Asian Games,Kuala Lumpur,Malaysia,False
+1989-08-23,Malaysia,Brunei,2,1,Southeast Asian Games,Kuala Lumpur,Malaysia,False
+1989-08-25,Malaysia,Indonesia,2,0,Southeast Asian Games,Kuala Lumpur,Malaysia,False
+1989-08-28,Malaysia,Thailand,1,0,Southeast Asian Games,Kuala Lumpur,Malaysia,False
+1989-08-31,Malaysia,Singapore,3,1,Southeast Asian Games,Kuala Lumpur,Malaysia,False
+1990-09-08,Malaysia,Yemen,0,1,Friendly,Kuala Lumpur,Malaysia,False
+1990-09-13,Singapore,Malaysia,3,0,Friendly,Singapore,Singapore,False
+1990-09-24,Iran,Malaysia,3,0,Asian Games,Beijing,China PR,True
+1990-09-26,Malaysia,North Korea,0,0,Asian Games,Beijing,China PR,True
+1991-02-06,Malaysia,Indonesia,1,2,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1991-05-14,Hong Kong,Malaysia,2,0,Friendly,Victoria,Hong Kong,False
+1991-06-12,Malaysia,England,2,4,Friendly,Kuala Lumpur,Malaysia,False
+1991-11-26,Indonesia,Malaysia,2,0,Southeast Asian Games,Manila,Philippines,True
+1991-11-28,Philippines,Malaysia,1,0,Southeast Asian Games,Manila,Philippines,False
+1991-11-30,Malaysia,Vietnam,2,1,Southeast Asian Games,Manila,Philippines,True
+1992-04-19,Singapore,Malaysia,1,1,AFC Asian Cup qualification,Singapore,Singapore,False
+1992-04-23,China PR,Malaysia,4,0,AFC Asian Cup qualification,Singapore,Singapore,True
+1992-04-24,Indonesia,Malaysia,1,1,AFC Asian Cup qualification,Singapore,Singapore,True
+1992-08-08,Indonesia,Malaysia,1,1,Friendly,Jakarta,Indonesia,False
+1992-08-11,Australia,Malaysia,0,1,Friendly,Jakarta,Indonesia,True
+1992-12-08,Singapore,Malaysia,3,0,Merlion Cup,Kallang,Singapore,False
+1993-02-05,Malaysia,Singapore,2,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1993-02-07,Malaysia,Thailand,1,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1993-04-02,Malaysia,United Arab Emirates,0,1,Friendly,Kuala Lumpur,Malaysia,False
+1993-04-09,Oman,Malaysia,1,0,Friendly,Muscat,Oman,False
+1993-05-01,Malaysia,Kuwait,1,1,FIFA World Cup qualification,Kuala Lumpur,Malaysia,False
+1993-05-03,Malaysia,Saudi Arabia,1,1,FIFA World Cup qualification,Kuala Lumpur,Malaysia,False
+1993-05-05,Malaysia,Macau,9,0,FIFA World Cup qualification,Kuala Lumpur,Malaysia,False
+1993-05-14,Kuwait,Malaysia,2,0,FIFA World Cup qualification,Taif,Saudi Arabia,True
+1993-05-16,Saudi Arabia,Malaysia,3,0,FIFA World Cup qualification,Taif,Saudi Arabia,False
+1993-05-18,Macau,Malaysia,0,5,FIFA World Cup qualification,Taif,Saudi Arabia,True
+1993-06-09,Malaysia,Brunei,3,1,Southeast Asian Games,Jurong Stadium,Singapore,True
+1993-06-11,Malaysia,Laos,9,0,Southeast Asian Games,Jurong Stadium,Singapore,True
+1993-06-13,Myanmar,Malaysia,2,1,Southeast Asian Games,Singapore,Singapore,True
+1993-06-15,Thailand,Malaysia,2,0,Southeast Asian Games,Jurong Stadium,Singapore,True
+1994-09-22,Malaysia,Kuwait,0,2,Friendly,Kuala Lumpur,Malaysia,False
+1994-10-01,Malaysia,Hong Kong,4,3,Asian Games,Hiroshima,Japan,True
+1994-10-03,Uzbekistan,Malaysia,5,0,Asian Games,Hiroshima,Japan,True
+1994-10-07,Malaysia,Saudi Arabia,1,2,Asian Games,Hiroshima,Japan,True
+1994-10-09,Thailand,Malaysia,1,1,Asian Games,Hiroshima,Japan,True
+1995-07-21,Malaysia,Iraq,1,2,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1995-12-04,Vietnam,Malaysia,2,0,Southeast Asian Games,Chiang Mai,Thailand,True
+1995-12-06,Thailand,Malaysia,0,0,Southeast Asian Games,Chiang Mai,Thailand,False
+1995-12-08,Indonesia,Malaysia,3,0,Southeast Asian Games,Chiang Mai,Thailand,True
+1995-12-10,Malaysia,Cambodia,9,0,Southeast Asian Games,Chiang Mai,Thailand,True
+1996-03-02,Malaysia,Indonesia,1,1,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,False
+1996-03-06,Malaysia,India,5,2,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,False
+1996-09-01,Singapore,Malaysia,1,1,AFF Championship,Singapore,Singapore,False
+1996-09-04,Malaysia,Philippines,7,0,AFF Championship,Singapore,Singapore,True
+1996-09-08,Thailand,Malaysia,1,1,AFF Championship,Singapore,Singapore,True
+1996-09-10,Brunei,Malaysia,0,6,AFF Championship,Singapore,Singapore,True
+1996-09-13,Malaysia,Indonesia,3,1,AFF Championship,Singapore,Singapore,True
+1996-09-15,Thailand,Malaysia,1,0,AFF Championship,Singapore,Singapore,True
+1997-02-21,Malaysia,Finland,2,1,Dunhill Cup,Kuala Lumpur,Malaysia,False
+1997-02-23,Malaysia,Singapore,0,0,Dunhill Cup,Kuala Lumpur,Malaysia,False
+1997-02-25,Malaysia,China PR,0,2,Dunhill Cup,Kuala Lumpur,Malaysia,False
+1997-02-28,Malaysia,Bosnia and Herzegovina,0,1,Dunhill Cup,Kuala Lumpur,Malaysia,False
+1997-03-16,Malaysia,Bangladesh,2,0,FIFA World Cup qualification,Kuala Lumpur,Malaysia,False
+1997-03-18,Malaysia,Saudi Arabia,0,0,FIFA World Cup qualification,Kuala Lumpur,Malaysia,False
+1997-03-20,Malaysia,Taiwan,2,0,FIFA World Cup qualification,Kuala Lumpur,Malaysia,False
+1997-03-29,Saudi Arabia,Malaysia,3,0,FIFA World Cup qualification,Jeddah,Saudi Arabia,False
+1997-03-31,Bangladesh,Malaysia,0,1,FIFA World Cup qualification,Jeddah,Saudi Arabia,True
+1997-10-05,Vietnam,Malaysia,0,1,Southeast Asian Games,Jakarta,Indonesia,True
+1997-10-07,Malaysia,Philippines,4,0,Southeast Asian Games,Jakarta,Indonesia,True
+1997-10-09,Indonesia,Malaysia,4,0,Southeast Asian Games,Jakarta,Indonesia,False
+1997-10-14,Laos,Malaysia,1,0,Southeast Asian Games,Jakarta,Indonesia,True
+1998-08-26,Malaysia,Singapore,0,2,AFF Championship,Hanoi,Vietnam,True
+1998-08-28,Malaysia,Laos,0,0,AFF Championship,Hanoi,Vietnam,True
+1998-08-30,Vietnam,Malaysia,1,0,AFF Championship,Hanoi,Vietnam,False
+1999-07-01,Malaysia,New Zealand,2,1,Friendly,Shah Alam,Malaysia,False
+1999-07-03,Malaysia,New Zealand,1,5,Friendly,Kuala Lumpur,Malaysia,False
+1999-07-11,Uzbekistan,Malaysia,3,0,Friendly,Samarqand,Uzbekistan,False
+1999-07-31,Singapore,Malaysia,2,1,Southeast Asian Games,Bandar Seri Begawan,Brunei,True
+1999-08-02,Indonesia,Malaysia,6,0,Southeast Asian Games,Bandar Seri Begawan,Brunei,True
+1999-08-04,Cambodia,Malaysia,2,7,Southeast Asian Games,Bandar Seri Begawan,Brunei,True
+1999-08-06,Brunei,Malaysia,0,2,Southeast Asian Games,Bandar Seri Begawan,Brunei,False
+1999-12-28,Malaysia,Singapore,1,0,Friendly,Dubai,United Arab Emirates,True
+2000-02-07,Singapore,Malaysia,3,1,Friendly,Singapore,Singapore,False
+2000-02-15,Malaysia,Maldives,2,0,Friendly,Kuala Lumpur,Malaysia,False
+2000-02-17,Malaysia,Maldives,3,0,Friendly,Kuala Lumpur,Malaysia,False
+2000-03-25,Malaysia,Taiwan,3,0,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,False
+2000-03-27,Malaysia,North Korea,1,1,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,False
+2000-03-29,Malaysia,Thailand,3,2,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,False
+2000-04-04,Malaysia,Taiwan,2,3,AFC Asian Cup qualification,Bangkok,Thailand,True
+2000-04-06,Malaysia,North Korea,1,4,AFC Asian Cup qualification,Bangkok,Thailand,True
+2000-04-08,Thailand,Malaysia,3,2,AFC Asian Cup qualification,Bangkok,Thailand,False
+2000-08-06,Malaysia,Myanmar,6,0,Friendly,Kuala Lumpur,Malaysia,False
+2000-08-09,Malaysia,Myanmar,1,2,Friendly,Ipoh,Malaysia,False
+2000-08-13,Malaysia,New Zealand,0,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+2000-08-15,Malaysia,Oman,2,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+2000-08-19,Malaysia,New Zealand,0,2,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+2000-10-14,Malaysia,Cambodia,2,0,Friendly,Kuala Lumpur,Malaysia,False
+2000-10-17,Malaysia,Cambodia,1,1,Friendly,Kuala Lumpur,Malaysia,False
+2000-10-23,Malaysia,Sri Lanka,2,0,Friendly,Kuala Lumpur,Malaysia,False
+2000-10-25,Malaysia,Sri Lanka,3,1,Friendly,Kuala Lumpur,Malaysia,False
+2000-11-05,Vietnam,Malaysia,0,0,AFF Championship,Songkhla,Thailand,True
+2000-11-07,Laos,Malaysia,0,5,AFF Championship,Songkhla,Thailand,True
+2000-11-09,Malaysia,Cambodia,3,2,AFF Championship,Songkhla,Thailand,True
+2000-11-13,Malaysia,Singapore,1,0,AFF Championship,Songkhla,Thailand,True
+2000-11-16,Thailand,Malaysia,2,0,AFF Championship,Bangkok,Thailand,False
+2000-11-18,Vietnam,Malaysia,0,3,AFF Championship,Bangkok,Thailand,True
+2001-02-05,Fiji,Malaysia,4,1,Friendly,Lautoka,Fiji,False
+2001-02-07,Fiji,Malaysia,2,0,Friendly,Suva,Fiji,False
+2001-02-09,Fiji,Malaysia,1,2,Friendly,Ba,Fiji,False
+2001-03-04,Qatar,Malaysia,5,1,FIFA World Cup qualification,So Kon Po,Hong Kong,True
+2001-03-08,Hong Kong,Malaysia,0,2,FIFA World Cup qualification,So Kon Po,Hong Kong,False
+2001-03-11,Palestine,Malaysia,1,0,FIFA World Cup qualification,So Kon Po,Hong Kong,True
+2001-03-20,Qatar,Malaysia,0,0,FIFA World Cup qualification,Doha,Qatar,False
+2001-03-23,Hong Kong,Malaysia,2,1,FIFA World Cup qualification,Doha,Qatar,True
+2001-03-25,Malaysia,Palestine,4,3,FIFA World Cup qualification,Doha,Qatar,True
+2001-06-21,Malaysia,Bahrain,2,4,Merdeka Tournament,Shah Alam,Malaysia,False
+2001-06-23,Malaysia,Slovakia,0,2,Merdeka Tournament,Shah Alam,Malaysia,False
+2001-06-25,Malaysia,Bosnia and Herzegovina,2,2,Merdeka Tournament,Shah Alam,Malaysia,False
+2001-07-19,Malaysia,Saudi Arabia,0,4,Friendly,Kuala Lumpur,Malaysia,False
+2002-05-17,Myanmar,Malaysia,1,1,Friendly,Yangon,Myanmar,False
+2002-05-19,Myanmar,Malaysia,0,0,Friendly,Yangon,Myanmar,False
+2002-05-25,Malaysia,Brazil,0,4,Friendly,Kuala Lumpur,Malaysia,False
+2002-07-16,Malaysia,Singapore,1,2,Friendly,Kuantan,Malaysia,False
+2002-11-29,Jordan,Malaysia,1,0,Friendly,Abu Dhabi,United Arab Emirates,True
+2002-12-11,Malaysia,Cambodia,5,0,Friendly,Petaling Jaya,Malaysia,False
+2002-12-18,Singapore,Malaysia,0,4,AFF Championship,Singapore,Singapore,False
+2002-12-20,Thailand,Malaysia,1,3,AFF Championship,Singapore,Singapore,True
+2002-12-22,Malaysia,Laos,1,1,AFF Championship,Singapore,Singapore,True
+2002-12-27,Indonesia,Malaysia,1,0,AFF Championship,Jakarta,Indonesia,False
+2002-12-29,Vietnam,Malaysia,2,1,AFF Championship,Jakarta,Indonesia,True
+2003-09-26,Malaysia,Indonesia,1,1,Friendly,Kuala Lumpur,Malaysia,False
+2003-10-08,Malaysia,Myanmar,4,0,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,False
+2003-10-10,Malaysia,Iraq,0,0,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,False
+2003-10-12,Malaysia,Bahrain,2,2,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,False
+2003-10-20,Iraq,Malaysia,5,1,AFC Asian Cup qualification,Riffa,Bahrain,True
+2003-10-22,Bahrain,Malaysia,3,1,AFC Asian Cup qualification,Riffa,Bahrain,False
+2003-10-24,Myanmar,Malaysia,2,1,AFC Asian Cup qualification,Riffa,Bahrain,True
+2004-02-07,Japan,Malaysia,4,0,Friendly,Kashima,Japan,False
+2004-02-18,Malaysia,Hong Kong,1,3,FIFA World Cup qualification,Kuantan,Malaysia,False
+2004-03-17,Malaysia,Indonesia,0,0,Friendly,Johor Bahru,Malaysia,False
+2004-03-31,Malaysia,Kuwait,0,2,FIFA World Cup qualification,Kuantan,Malaysia,False
+2004-06-09,China PR,Malaysia,4,0,FIFA World Cup qualification,Tianjin,China PR,False
+2004-07-12,Malaysia,Singapore,2,0,Friendly,Kuala Lumpur,Malaysia,False
+2004-08-19,Thailand,Malaysia,1,2,Friendly,Bangkok,Thailand,False
+2004-09-08,Malaysia,China PR,0,1,FIFA World Cup qualification,George Town,Malaysia,False
+2004-10-13,Hong Kong,Malaysia,2,0,FIFA World Cup qualification,Kowloon,Hong Kong,False
+2004-11-17,Kuwait,Malaysia,6,1,FIFA World Cup qualification,Kuwait City,Kuwait,False
+2004-12-08,Malaysia,Timor-Leste,5,0,AFF Championship,Kuala Lumpur,Malaysia,False
+2004-12-10,Malaysia,Philippines,4,1,AFF Championship,Kuala Lumpur,Malaysia,False
+2004-12-12,Malaysia,Myanmar,0,1,AFF Championship,Kuala Lumpur,Malaysia,False
+2004-12-14,Malaysia,Thailand,2,1,AFF Championship,Kuala Lumpur,Malaysia,False
+2004-12-28,Indonesia,Malaysia,1,2,AFF Championship,Jakarta,Indonesia,False
+2005-01-03,Malaysia,Indonesia,1,4,AFF Championship,Kuala Lumpur,Malaysia,False
+2005-01-15,Malaysia,Myanmar,2,1,AFF Championship,Singapore,Singapore,True
+2005-06-04,Singapore,Malaysia,2,0,Friendly,Singapore,Singapore,False
+2005-06-08,Malaysia,Singapore,1,2,Friendly,George Town,Malaysia,False
+2006-02-19,New Zealand,Malaysia,1,0,Friendly,Christchurch,New Zealand,False
+2006-02-23,New Zealand,Malaysia,2,1,Friendly,North Shore,New Zealand,False
+2006-05-31,Singapore,Malaysia,0,0,Friendly,Singapore,Singapore,False
+2006-06-03,Malaysia,Singapore,0,0,Friendly,Seremban,Malaysia,False
+2006-08-23,Malaysia,Indonesia,1,1,Merdeka Tournament,Shah Alam,Malaysia,False
+2006-08-27,Malaysia,Myanmar,1,2,Merdeka Tournament,Shah Alam,Malaysia,False
+2007-01-12,Malaysia,Philippines,4,0,AFF Championship,Bangkok,Thailand,True
+2007-01-14,Malaysia,Myanmar,0,0,AFF Championship,Bangkok,Thailand,True
+2007-01-16,Thailand,Malaysia,1,0,AFF Championship,Bangkok,Thailand,False
+2007-01-23,Malaysia,Singapore,1,1,AFF Championship,Shah Alam,Malaysia,False
+2007-01-27,Singapore,Malaysia,1,1,AFF Championship,Singapore,Singapore,False
+2007-06-18,Malaysia,Cambodia,6,0,Friendly,Shah Alam,Malaysia,False
+2007-06-21,Malaysia,United Arab Emirates,1,3,Friendly,Petaling Jaya,Malaysia,False
+2007-06-28,Malaysia,Jamaica,0,2,Friendly,Kuala Lumpur,Malaysia,False
+2007-07-10,Malaysia,China PR,1,5,AFC Asian Cup,Kuala Lumpur,Malaysia,False
+2007-07-14,Malaysia,Uzbekistan,0,5,AFC Asian Cup,Kuala Lumpur,Malaysia,False
+2007-07-18,Malaysia,Iran,0,2,AFC Asian Cup,Kuala Lumpur,Malaysia,False
+2007-10-21,Bahrain,Malaysia,4,1,FIFA World Cup qualification,Riffa,Bahrain,False
+2007-10-28,Malaysia,Bahrain,0,0,FIFA World Cup qualification,Shah Alam,Malaysia,False
+2008-06-06,Indonesia,Malaysia,1,1,Friendly,Jakarta,Indonesia,False
+2008-07-22,India,Malaysia,1,1,Friendly,Hyderabad,India,False
+2008-10-10,Malaysia,Pakistan,4,1,Friendly,Kuala Lumpur,Malaysia,False
+2008-10-15,Malaysia,Nepal,4,0,Merdeka Tournament,Petaling Jaya,Malaysia,False
+2008-10-20,Malaysia,Afghanistan,6,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+2008-10-23,Malaysia,Myanmar,4,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+2008-11-18,Myanmar,Malaysia,4,1,Friendly,Yangon,Myanmar,False
+2008-11-29,Malaysia,Singapore,2,2,Friendly,Petaling Jaya,Malaysia,False
+2008-12-06,Malaysia,Laos,3,0,AFF Championship,Phuket,Thailand,True
+2008-12-08,Malaysia,Vietnam,2,3,AFF Championship,Phuket,Thailand,True
+2008-12-10,Thailand,Malaysia,3,0,AFF Championship,Phuket,Thailand,False
+2009-01-21,Malaysia,United Arab Emirates,0,5,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,False
+2009-08-12,Malaysia,Kenya,0,0,Friendly,Kuala Lumpur,Malaysia,False
+2009-08-15,Malaysia,China PR,0,0,Friendly,Kuala Lumpur,Malaysia,False
+2009-08-30,Saudi Arabia,Malaysia,2,1,Friendly,Riyadh,Saudi Arabia,False
+2009-09-05,Jordan,Malaysia,0,0,Friendly,Amman,Jordan,False
+2009-09-11,Malaysia,Lesotho,5,0,Friendly,Kuala Lumpur,Malaysia,False
+2009-11-14,Uzbekistan,Malaysia,3,1,AFC Asian Cup qualification,Tashkent,Uzbekistan,False
+2009-11-18,Malaysia,Uzbekistan,1,3,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,False
+2009-12-30,Malaysia,Syria,4,1,Friendly,Kuala Lumpur,Malaysia,False
+2010-01-06,United Arab Emirates,Malaysia,1,0,AFC Asian Cup qualification,Dubai,United Arab Emirates,False
+2010-02-27,Malaysia,Yemen,1,0,Friendly,Kuala Lumpur,Malaysia,False
+2010-09-03,Oman,Malaysia,3,0,Friendly,Doha,Qatar,True
+2010-12-01,Indonesia,Malaysia,5,1,AFF Championship,Jakarta,Indonesia,False
+2010-12-04,Thailand,Malaysia,0,0,AFF Championship,Jakarta,Indonesia,True
+2010-12-07,Malaysia,Laos,5,1,AFF Championship,Palembang,Indonesia,True
+2010-12-15,Malaysia,Vietnam,2,0,AFF Championship,Kuala Lumpur,Malaysia,False
+2010-12-18,Vietnam,Malaysia,0,0,AFF Championship,Hanoi,Vietnam,False
+2010-12-26,Malaysia,Indonesia,3,0,AFF Championship,Kuala Lumpur,Malaysia,False
+2010-12-29,Indonesia,Malaysia,2,1,AFF Championship,Jakarta,Indonesia,False
+2011-02-09,Malaysia,Hong Kong,2,0,Friendly,Kuala Lumpur,Malaysia,False
+2011-06-03,Hong Kong,Malaysia,1,1,Friendly,Siu Sai Wan,Hong Kong,False
+2011-06-18,Malaysia,Myanmar,2,0,Friendly,Kota Bharu,Malaysia,False
+2011-06-29,Malaysia,Taiwan,2,1,FIFA World Cup qualification,Kuala Lumpur,Malaysia,False
+2011-07-03,Taiwan,Malaysia,3,2,FIFA World Cup qualification,Taipei,Taiwan,False
+2011-07-23,Singapore,Malaysia,5,3,FIFA World Cup qualification,Singapore,Singapore,False
+2011-07-28,Malaysia,Singapore,1,1,FIFA World Cup qualification,Kuala Lumpur,Malaysia,False
+2011-10-07,Australia,Malaysia,5,0,Friendly,Canberra,Australia,False
+2011-11-13,India,Malaysia,1,1,Friendly,Guwahati,India,False
+2011-11-16,India,Malaysia,3,2,Friendly,Calcutta,India,False
+2012-02-29,Philippines,Malaysia,1,1,Friendly,Manila,Philippines,False
+2012-04-28,Malaysia,Sri Lanka,6,0,Friendly,Kuala Lumpur,Malaysia,False
+2012-06-01,Malaysia,Philippines,0,0,Friendly,Shah Alam,Malaysia,False
+2012-06-08,Singapore,Malaysia,2,2,Friendly,Singapore,Singapore,False
+2012-06-12,Malaysia,Singapore,2,0,Friendly,Shah Alam,Malaysia,False
+2012-09-11,Malaysia,Vietnam,0,2,Friendly,Shah Alam,Malaysia,False
+2012-10-16,Hong Kong,Malaysia,0,3,Friendly,Kowloon,Hong Kong,False
+2012-11-03,Vietnam,Malaysia,1,0,Friendly,Hanoi,Vietnam,False
+2012-11-07,Thailand,Malaysia,2,0,Friendly,Nonthaburi,Thailand,False
+2012-11-14,Malaysia,Hong Kong,1,1,Friendly,Shah Alam,Malaysia,False
+2012-11-20,Malaysia,Bangladesh,1,1,Friendly,Kuala Lumpur,Malaysia,False
+2012-11-25,Malaysia,Singapore,0,3,AFF Championship,Kuala Lumpur,Malaysia,False
+2012-11-28,Malaysia,Laos,4,1,AFF Championship,Kuala Lumpur,Malaysia,False
+2012-12-01,Malaysia,Indonesia,2,0,AFF Championship,Kuala Lumpur,Malaysia,False
+2012-12-09,Malaysia,Thailand,1,1,AFF Championship,Kuala Lumpur,Malaysia,False
+2012-12-13,Thailand,Malaysia,2,0,AFF Championship,Bangkok,Thailand,False
+2013-02-06,Qatar,Malaysia,2,0,AFC Asian Cup qualification,Doha,Qatar,False
+2013-03-17,Malaysia,Saudi Arabia,1,4,Friendly,Shah Alam,Malaysia,False
+2013-03-22,Malaysia,Yemen,2,1,AFC Asian Cup qualification,Shah Alam,Malaysia,False
+2013-03-26,Malaysia,Palestine,0,2,Friendly,Kuantan,Malaysia,False
+2013-09-10,China PR,Malaysia,2,0,Friendly,Tianjin,China PR,False
+2013-10-15,Malaysia,Bahrain,1,1,AFC Asian Cup qualification,Shah Alam,Malaysia,False
+2013-11-08,Kuwait,Malaysia,3,0,Friendly,Kuwait City,Kuwait,False
+2013-11-15,Bahrain,Malaysia,1,0,AFC Asian Cup qualification,Riffa,Bahrain,False
+2013-11-19,Malaysia,Qatar,0,1,AFC Asian Cup qualification,Shah Alam,Malaysia,False
+2014-03-01,Malaysia,Philippines,0,0,Friendly,Selayang,Malaysia,False
+2014-03-05,Yemen,Malaysia,1,2,AFC Asian Cup qualification,Al Ain,United Arab Emirates,True
+2014-04-27,Philippines,Malaysia,0,0,Friendly,Cebu,Philippines,False
+2014-08-08,Tajikistan,Malaysia,4,1,Friendly,Dushanbe,Tajikistan,False
+2014-09-14,Indonesia,Malaysia,2,0,Friendly,Sidoarjo,Indonesia,False
+2014-09-20,Malaysia,Cambodia,4,1,Friendly,Shah Alam,Malaysia,False
+2014-11-16,Vietnam,Malaysia,3,1,Friendly,Hanoi,Vietnam,False
+2014-11-23,Malaysia,Myanmar,0,0,AFF Championship,Kallang,Singapore,True
+2014-11-26,Malaysia,Thailand,2,3,AFF Championship,Kallang,Singapore,True
+2014-11-29,Singapore,Malaysia,1,3,AFF Championship,Kallang,Singapore,False
+2014-12-07,Malaysia,Vietnam,1,2,AFF Championship,Shah Alam,Malaysia,False
+2014-12-11,Vietnam,Malaysia,2,4,AFF Championship,Hanoi,Vietnam,False
+2014-12-17,Thailand,Malaysia,2,0,AFF Championship,Bangkok,Thailand,False
+2014-12-20,Malaysia,Thailand,3,2,AFF Championship,Shah Alam,Malaysia,False
+2015-03-26,Oman,Malaysia,6,0,Friendly,Seeb,Oman,False
+2015-06-06,Malaysia,Hong Kong,0,0,Friendly,Shah Alam,Malaysia,False
+2015-06-11,Malaysia,Timor-Leste,3,0,FIFA World Cup qualification,Kuala Lumpur,Malaysia,False
+2015-06-16,Malaysia,Palestine,0,6,FIFA World Cup qualification,Kuala Lumpur,Malaysia,False
+2015-08-29,Malaysia,Bangladesh,0,0,Friendly,Shah Alam,Malaysia,False
+2015-09-03,United Arab Emirates,Malaysia,10,0,FIFA World Cup qualification,Abu Dhabi,United Arab Emirates,False
+2015-09-08,Malaysia,Saudi Arabia,0,3,FIFA World Cup qualification,Shah Alam,Malaysia,False
+2015-10-08,Laos,Malaysia,1,3,Friendly,Pathum Thani,Thailand,True
+2015-10-13,Timor-Leste,Malaysia,0,3,FIFA World Cup qualification,Dili,Timor-Leste,False
+2015-11-12,Palestine,Malaysia,6,0,FIFA World Cup qualification,Amman,Jordan,True
+2015-11-17,Malaysia,United Arab Emirates,1,2,FIFA World Cup qualification,Shah Alam,Malaysia,False
+2016-03-24,Saudi Arabia,Malaysia,2,0,FIFA World Cup qualification,Jeddah,Saudi Arabia,False
+2016-03-29,Malaysia,Macau,0,0,Friendly,Krubong,Malaysia,False
+2016-05-28,Myanmar,Malaysia,0,0,Friendly,Yangon,Myanmar,False
+2016-06-02,Malaysia,Timor-Leste,3,0,AFC Asian Cup qualification,Johor Bahru,Malaysia,False
+2016-06-06,Malaysia,Timor-Leste,3,0,AFC Asian Cup qualification,Johor Bahru,Malaysia,False
+2016-06-22,New Caledonia,Malaysia,1,2,Friendly,Nouméa,New Caledonia,False
+2016-06-26,Fiji,Malaysia,1,1,Friendly,Nadi,Fiji,False
+2016-09-06,Indonesia,Malaysia,3,0,Friendly,Surakarta,Indonesia,False
+2016-10-07,Singapore,Malaysia,0,0,Friendly,Kallang,Singapore,False
+2016-10-11,Malaysia,Afghanistan,1,1,Friendly,Shah Alam,Malaysia,False
+2016-11-14,Malaysia,Papua New Guinea,2,1,Friendly,Shah Alam,Malaysia,False
+2016-11-20,Malaysia,Cambodia,3,2,AFF Championship,Yangon,Myanmar,True
+2016-11-23,Malaysia,Vietnam,0,1,AFF Championship,Yangon,Myanmar,True
+2016-11-26,Myanmar,Malaysia,1,0,AFF Championship,Yangon,Myanmar,False
+2017-03-22,Philippines,Malaysia,0,0,Friendly,Manila,Philippines,False
+2017-06-13,Malaysia,Lebanon,1,2,AFC Asian Cup qualification,Johor Bahru,Malaysia,False
+2017-08-22,Malaysia,Syria,1,2,Friendly,Paya Rumput,Malaysia,False
+2017-08-29,Myanmar,Malaysia,1,0,Friendly,Yangon,Myanmar,False
+2017-09-05,Malaysia,Hong Kong,1,1,AFC Asian Cup qualification,Paya Rumput,Malaysia,False
+2017-10-10,Hong Kong,Malaysia,2,0,AFC Asian Cup qualification,So Kon Po,Hong Kong,False
+2017-11-10,North Korea,Malaysia,4,1,AFC Asian Cup qualification,Buriram,Thailand,True
+2017-11-13,Malaysia,North Korea,1,4,AFC Asian Cup qualification,Buriram,Thailand,True
+2018-03-22,Malaysia,Mongolia,2,2,Friendly,Kuala Lumpur,Malaysia,False
+2018-03-27,Lebanon,Malaysia,2,1,AFC Asian Cup qualification,Beirut,Lebanon,False
+2018-04-01,Malaysia,Bhutan,7,0,Friendly,Kuala Lumpur,Malaysia,False
+2018-07-05,Malaysia,Fiji,1,0,Friendly,Kuala Lumpur,Malaysia,False
+2018-09-07,Taiwan,Malaysia,2,0,Friendly,Taipei,Taiwan,False
+2018-09-10,Cambodia,Malaysia,1,3,Friendly,Phnom Penh,Cambodia,False
+2018-10-12,Sri Lanka,Malaysia,1,4,Friendly,Colombo,Sri Lanka,False
+2018-10-16,Malaysia,Kyrgyzstan,0,1,Friendly,Malacca City,Malaysia,False
+2018-11-03,Malaysia,Maldives,3,0,Friendly,Kuala Lumpur,Malaysia,False
+2018-11-08,Cambodia,Malaysia,0,1,AFF Championship,Phnom Penh,Cambodia,False
+2018-11-12,Malaysia,Laos,3,1,AFF Championship,Kuala Lumpur,Malaysia,False
+2018-11-16,Vietnam,Malaysia,2,0,AFF Championship,Hanoi,Vietnam,False
+2018-11-24,Malaysia,Myanmar,3,0,AFF Championship,Kuala Lumpur,Malaysia,False
+2018-12-01,Malaysia,Thailand,0,0,AFF Championship,Kuala Lumpur,Malaysia,False
+2018-12-05,Thailand,Malaysia,2,2,AFF Championship,Bangkok,Thailand,False
+2018-12-11,Malaysia,Vietnam,2,2,AFF Championship,Kuala Lumpur,Malaysia,False
+2018-12-15,Vietnam,Malaysia,1,0,AFF Championship,Hanoi,Vietnam,False
+2019-03-23,Malaysia,Afghanistan,2,1,Friendly,Kuala Lumpur,Malaysia,False
+2019-06-02,Malaysia,Nepal,2,0,Friendly,Kuala Lumpur,Malaysia,False
+2019-06-07,Malaysia,Timor-Leste,7,1,FIFA World Cup qualification,Kuala Lumpur,Malaysia,False
+2019-06-11,Malaysia,Timor-Leste,5,1,FIFA World Cup qualification,Kuala Lumpur,Malaysia,False
+2019-08-30,Malaysia,Jordan,0,1,Friendly,Kuala Lumpur,Malaysia,False
+2019-09-05,Indonesia,Malaysia,2,3,FIFA World Cup qualification,Jakarta,Indonesia,False
+2019-09-10,Malaysia,United Arab Emirates,1,2,FIFA World Cup qualification,Kuala Lumpur,Malaysia,False
+2019-10-05,Malaysia,Sri Lanka,6,0,Friendly,Kuala Lumpur,Malaysia,False
+2019-10-10,Vietnam,Malaysia,1,0,FIFA World Cup qualification,Hanoi,Vietnam,False
+2019-11-09,Malaysia,Tajikistan,1,0,Friendly,Kuala Lumpur,Malaysia,False
+2019-11-14,Malaysia,Thailand,2,1,FIFA World Cup qualification,Kuala Lumpur,Malaysia,False
+2019-11-19,Malaysia,Indonesia,2,0,FIFA World Cup qualification,Kuala Lumpur,Malaysia,False
+2021-05-28,Bahrain,Malaysia,2,0,Friendly,Riffa,Bahrain,False
+2021-06-03,United Arab Emirates,Malaysia,4,0,FIFA World Cup qualification,Dubai,United Arab Emirates,False
+2021-06-11,Malaysia,Vietnam,1,2,FIFA World Cup qualification,Dubai,United Arab Emirates,True
+2021-06-15,Thailand,Malaysia,0,1,FIFA World Cup qualification,Dubai,United Arab Emirates,True
+2021-10-06,Jordan,Malaysia,4,0,Friendly,Amman,Jordan,False
+2021-10-09,Uzbekistan,Malaysia,5,1,Friendly,Amman,Jordan,True
+2021-12-06,Cambodia,Malaysia,1,3,AFF Championship,Bishan,Singapore,True
+2021-12-09,Malaysia,Laos,4,0,AFF Championship,Bishan,Singapore,True
+2021-12-12,Vietnam,Malaysia,3,0,AFF Championship,Bishan,Singapore,True
+2021-12-19,Malaysia,Indonesia,1,4,AFF Championship,Kallang,Singapore,True
+2022-03-23,Malaysia,Philippines,2,0,Friendly,Kallang,Singapore,True
+2022-03-26,Singapore,Malaysia,2,1,Friendly,Kallang,Singapore,False
+2022-05-27,Malaysia,Brunei,4,0,Friendly,Kuala Lumpur,Malaysia,False
+2022-06-01,Malaysia,Hong Kong,2,0,Friendly,Kuala Lumpur,Malaysia,False
+2022-06-08,Malaysia,Turkmenistan,3,1,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,False
+2022-06-11,Malaysia,Bahrain,1,2,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,False
+2022-06-14,Malaysia,Bangladesh,4,1,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,False
+2022-09-22,Thailand,Malaysia,1,1,King's Cup,Chiang Mai,Thailand,False
+2022-09-25,Malaysia,Tajikistan,0,0,King's Cup,Chiang Mai,Thailand,True
+2022-12-09,Malaysia,Cambodia,4,0,Friendly,Kuala Lumpur,Malaysia,False
+2022-12-14,Malaysia,Maldives,3,0,Friendly,Kuala Lumpur,Malaysia,False
+2022-12-21,Myanmar,Malaysia,0,1,AFF Championship,Yangon,Myanmar,False
+2022-12-24,Malaysia,Laos,5,0,AFF Championship,Kuala Lumpur,Malaysia,False
+2022-12-27,Vietnam,Malaysia,3,0,AFF Championship,Hanoi,Vietnam,False
+2023-01-03,Malaysia,Singapore,4,1,AFF Championship,Kuala Lumpur,Malaysia,False
+2023-01-07,Malaysia,Thailand,1,0,AFF Championship,Kuala Lumpur,Malaysia,False
+2023-01-10,Thailand,Malaysia,3,0,AFF Championship,Pathum Thani,Thailand,False
+2023-03-23,Malaysia,Turkmenistan,1,0,Friendly,Johor Bahru,Malaysia,False
+2023-03-28,Malaysia,Hong Kong,2,0,Friendly,Johor Bahru,Malaysia,False
+2023-06-14,Malaysia,Solomon Islands,4,1,Friendly,Terengganu,Malaysia,False
+2023-06-20,Malaysia,Papua New Guinea,10,0,Friendly,Terengganu,Malaysia,False
+2023-09-06,Syria,Malaysia,2,2,Friendly,Chengdu,China PR,True
+2023-09-09,China PR,Malaysia,1,1,Friendly,Chengdu,China PR,False
+2023-11-16,Malaysia,Kyrgyzstan,4,3,FIFA World Cup qualification,Kuala Lumpur,Malaysia,False
+2023-11-21,Taiwan,Malaysia,0,1,FIFA World Cup qualification,Taipei,Taiwan,False
+2024-01-08,Syria,Malaysia,2,2,Friendly,Doha,Qatar,True
+2024-01-15,Malaysia,Jordan,0,4,AFC Asian Cup,Al Wakrah,Qatar,True
+2024-01-20,Bahrain,Malaysia,1,0,AFC Asian Cup,Doha,Qatar,True
+2024-01-25,South Korea,Malaysia,3,3,AFC Asian Cup,Al Wakrah,Qatar,True
+2024-03-21,Oman,Malaysia,2,0,FIFA World Cup qualification,Muscat,Oman,False
+2024-03-26,Malaysia,Oman,0,2,FIFA World Cup qualification,Kuala Lumpur,Malaysia,False
+2024-06-06,Kyrgyzstan,Malaysia,1,1,FIFA World Cup qualification,Bishkek,Kyrgyzstan,False
+2024-06-11,Malaysia,Taiwan,3,1,FIFA World Cup qualification,Kuala Lumpur,Malaysia,False
+2024-09-04,Malaysia,Philippines,2,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+2024-09-08,Malaysia,Lebanon,1,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+2024-10-14,New Zealand,Malaysia,4,0,Friendly,Auckland,New Zealand,False
+2024-11-14,Malaysia,Laos,3,1,Friendly,Bangkok,Thailand,True
+2024-11-18,India,Malaysia,1,1,Friendly,Hyderabad,India,False
+2024-12-08,Cambodia,Malaysia,2,2,ASEAN Championship,Phnom Penh,Cambodia,False
+2024-12-11,Malaysia,Timor-Leste,3,2,ASEAN Championship,Kuala Lumpur,Malaysia,False
+2024-12-14,Thailand,Malaysia,1,0,ASEAN Championship,Bangkok,Thailand,False
+2024-12-20,Malaysia,Singapore,0,0,ASEAN Championship,Kuala Lumpur,Malaysia,False
+2025-03-25,Malaysia,Nepal,2,0,AFC Asian Cup qualification,Johor,Malaysia,False

@@ -1,0 +1,375 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1957-06-02,Tunisia,Libya,4,2,Friendly,Tunis,Tunisia,False
+1958-04-03,Morocco,Libya,3,1,Friendly,Casablanca,Morocco,False
+1958-05-09,Tunisia,Libya,4,1,Friendly,Tunis,Tunisia,False
+1962-03-11,Libya,Tunisia,6,3,Friendly,Tripoli,Libya,False
+1962-06-03,Tunisia,Libya,2,2,Friendly,Tunis,Tunisia,False
+1964-03-08,Libya,Lebanon,0,1,Friendly,Tripoli,Libya,False
+1964-03-15,Libya,Malta,2,2,Friendly,Tripoli,Libya,False
+1964-11-14,Libya,Lebanon,2,1,Arab Cup,Kuwait City,Kuwait,True
+1964-11-16,Jordan,Libya,2,5,Arab Cup,Kuwait City,Kuwait,True
+1964-11-17,Iraq,Libya,1,1,Arab Cup,Kuwait City,Kuwait,True
+1964-11-19,Kuwait,Libya,1,1,Arab Cup,Kuwait City,Kuwait,False
+1965-03-14,Libya,Kuwait,4,1,Friendly,Tripoli,Libya,False
+1965-03-19,Libya,Morocco,1,0,Friendly,Tripoli,Libya,False
+1966-02-13,Malta,Libya,1,0,Friendly,Gżira,Malta,False
+1966-03-11,Libya,Morocco,4,0,Friendly,Tripoli,Libya,False
+1966-03-14,Libya,Iraq,0,2,Friendly,Tripoli,Libya,False
+1966-03-27,Libya,Malta,0,1,Friendly,Tripoli,Libya,False
+1966-04-01,Libya,Palestine,0,0,Arab Cup,Baghdad,Iraq,True
+1966-04-03,Libya,Oman,21,0,Arab Cup,Baghdad,Iraq,True
+1966-04-04,Libya,Syria,0,0,Arab Cup,Baghdad,Iraq,True
+1966-04-06,Libya,Yemen,13,0,Arab Cup,Kut,Iraq,True
+1966-04-09,Iraq,Libya,3,1,Arab Cup,Baghdad,Iraq,False
+1966-04-10,Libya,Lebanon,6,1,Arab Cup,Baghdad,Iraq,True
+1966-05-25,Lithuania,Libya,6,0,Friendly,Vilnius,Lithuania,False
+1966-12-09,Libya,Egypt,2,2,African Cup of Nations qualification,Tripoli,Libya,False
+1967-02-15,Greece,Libya,4,0,Friendly,Athens,Greece,False
+1967-03-07,Libya,Sudan,1,1,Friendly,Tripoli,Libya,False
+1967-03-12,Libya,Iraq,0,1,Friendly,Tripoli,Libya,False
+1967-03-24,Egypt,Libya,3,2,African Cup of Nations qualification,Cairo,Egypt,False
+1969-01-26,Libya,Ethiopia,2,0,FIFA World Cup qualification,Tripoli,Libya,False
+1969-02-09,Ethiopia,Libya,5,1,FIFA World Cup qualification,Addis Ababa,Ethiopia,False
+1970-09-01,Libya,Tunisia,2,2,Friendly,Benghazi,Libya,False
+1970-09-04,Libya,Tunisia,3,2,Friendly,Tripoli,Libya,False
+1970-09-24,Tunisia,Libya,2,0,Friendly,Tunis,Tunisia,False
+1970-12-27,Libya,Egypt,0,1,African Cup of Nations qualification,Tripoli,Libya,False
+1971-01-03,Egypt,Libya,2,1,African Cup of Nations qualification,Cairo,Egypt,False
+1971-07-09,Libya,Syria,2,1,Friendly,Benghazi,Libya,False
+1971-07-13,Libya,Egypt,0,2,Friendly,Benghazi,Libya,False
+1971-07-16,Libya,Sudan,4,6,Friendly,Benghazi,Libya,False
+1971-07-18,Libya,Egypt,2,0,Friendly,Tripoli,Libya,False
+1971-11-24,Libya,Algeria,0,0,Friendly,Tripoli,Libya,False
+1971-12-19,Niger,Libya,0,1,Friendly,Niamey,Niger,False
+1972-01-01,Kuwait,Libya,3,2,Palestine Cup,Baghdad,Iraq,True
+1972-01-05,Iraq,Libya,3,0,Palestine Cup,Baghdad,Iraq,False
+1972-01-07,Egypt,Libya,1,1,Palestine Cup,Baghdad,Iraq,True
+1973-08-11,Libya,United Arab Emirates,2,2,Palestine Cup,Benghazi,Libya,False
+1973-08-14,Libya,Yemen,10,0,Palestine Cup,Benghazi,Libya,False
+1973-08-18,Libya,Iraq,0,0,Palestine Cup,Benghazi,Libya,False
+1973-08-21,Libya,Algeria,0,2,Palestine Cup,Benghazi,Libya,False
+1974-06-07,Libya,Iraq,1,0,Friendly,Tripoli,Libya,False
+1974-08-24,Malta,Libya,0,1,Friendly,Gżira,Malta,False
+1974-09-04,Libya,Malta,0,0,Friendly,Tripoli,Libya,False
+1974-09-06,Libya,DR Congo,0,2,Friendly,Tripoli,Libya,False
+1974-09-10,Libya,Somalia,3,2,Friendly,Tripoli,Libya,False
+1974-09-13,Libya,Somalia,3,2,Friendly,Tripoli,Libya,False
+1974-09-30,Libya,Yemen,9,1,Kuneitra Cup,Damascus,Syria,True
+1974-10-02,Libya,Palestine,0,0,Kuneitra Cup,Damascus,Syria,True
+1974-10-04,Libya,Sudan,1,3,Kuneitra Cup,Damascus,Syria,True
+1974-11-10,Tunisia,Libya,1,0,African Cup of Nations qualification,Tunis,Tunisia,False
+1974-11-22,Libya,Tunisia,1,0,African Cup of Nations qualification,Tripoli,Libya,False
+1975-01-09,Iraq,Libya,3,1,Friendly,Baghdad,Iraq,False
+1975-01-14,Kuwait,Libya,1,0,Friendly,Kuwait City,Kuwait,False
+1975-12-21,Libya,Syria,2,3,Palestine Cup,Tunis,Tunisia,True
+1975-12-23,Libya,Syria,1,0,Palestine Cup,Tunis,Tunisia,True
+1976-01-01,Libya,Sudan,1,0,Friendly,Tripoli,Libya,False
+1976-03-10,Malta,Libya,2,2,Friendly,Gżira,Malta,False
+1976-04-01,Algeria,Libya,1,0,FIFA World Cup qualification,Algiers,Algeria,False
+1976-04-16,Libya,Algeria,0,0,FIFA World Cup qualification,Tripoli,Libya,False
+1976-09-08,Libya,Algeria,0,1,Friendly,Benghazi,Libya,False
+1976-09-10,Libya,Algeria,1,0,Friendly,Tripoli,Libya,False
+1976-10-20,Iraq,Libya,1,0,Friendly,Baghdad,Iraq,False
+1976-10-22,Iraq,Libya,3,1,Friendly,Baghdad,Iraq,False
+1976-11-01,Algeria,Libya,2,0,Friendly,Algiers,Algeria,False
+1976-11-04,Tunisia,Libya,3,0,Friendly,Tunis,Tunisia,False
+1977-03-13,Guinea,Libya,3,0,African Cup of Nations qualification,Conakry,Guinea,False
+1977-03-25,Libya,Guinea,0,2,African Cup of Nations qualification,Benghazi,Libya,False
+1977-06-03,Libya,Cuba,1,0,Friendly,Tripoli,Libya,False
+1977-07-17,South Korea,Libya,4,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1977-07-19,Iraq,Libya,0,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1977-07-21,Malaysia,Libya,1,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1977-07-23,Libya,Thailand,2,2,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1977-07-27,Myanmar,Libya,3,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1977-09-24,Libya,Malta,1,0,Friendly,Tripoli,Libya,False
+1977-09-28,Libya,Cyprus,1,0,Friendly,Benghazi,Libya,False
+1978-01-18,Libya,Morocco,0,1,Friendly,Tripoli,Libya,False
+1978-03-12,Libya,Algeria,1,0,Friendly,Tripoli,Libya,False
+1978-05-14,Libya,Malta,1,0,Friendly,Tripoli,Libya,False
+1978-07-14,Libya,Malawi,2,1,All-African Games,Algiers,Algeria,True
+1978-07-18,Algeria,Libya,2,1,All-African Games,Algiers,Algeria,False
+1978-07-22,Egypt,Libya,1,0,All-African Games,Algiers,Algeria,True
+1978-09-20,Libya,Yemen DPR,2,0,Friendly,Tripoli,Libya,False
+1979-02-07,Libya,Greece,2,2,Friendly,Tripoli,Libya,False
+1979-02-16,Libya,Poland,1,0,Friendly,Tripoli,Libya,False
+1979-04-15,Libya,Ethiopia,2,1,African Cup of Nations qualification,Tripoli,Libya,False
+1979-04-29,Ethiopia,Libya,1,1,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+1979-06-24,Algeria,Libya,3,1,African Cup of Nations qualification,Algiers,Algeria,False
+1979-07-08,Libya,Algeria,1,0,African Cup of Nations qualification,Tripoli,Libya,False
+1979-08-19,Poland,Libya,5,0,Friendly,Słupsk,Poland,False
+1979-09-03,Libya,Palestine,0,0,Friendly,Tripoli,Libya,False
+1980-04-27,Malta,Libya,0,3,Friendly,Gżira,Malta,False
+1980-05-08,Libya,Gambia,2,1,FIFA World Cup qualification,Tripoli,Libya,False
+1980-07-06,Gambia,Libya,0,0,FIFA World Cup qualification,Banjul,Gambia,False
+1980-10-01,Turkey,Libya,1,2,Friendly,İzmir,Turkey,False
+1980-10-04,Libya,Saudi Arabia,2,0,Friendly,İzmir,Turkey,True
+1982-02-05,Libya,Guinea,3,0,Friendly,Tripoli,Libya,False
+1982-02-19,Libya,Qatar,2,1,Friendly,Tripoli,Libya,False
+1982-03-05,Libya,Ghana,2,2,African Cup of Nations,Tripoli,Libya,False
+1982-03-09,Libya,Tunisia,2,0,African Cup of Nations,Tripoli,Libya,False
+1982-03-12,Libya,Cameroon,0,0,African Cup of Nations,Tripoli,Libya,False
+1982-03-16,Libya,Zambia,2,1,African Cup of Nations,Tripoli,Libya,False
+1982-03-19,Libya,Ghana,1,1,African Cup of Nations,Tripoli,Libya,False
+1983-04-08,Libya,Senegal,2,1,African Cup of Nations qualification,Tripoli,Libya,False
+1983-04-24,Senegal,Libya,1,0,African Cup of Nations qualification,Dakar,Senegal,False
+1983-04-28,Ghana,Libya,1,0,Friendly,Addis Ababa,Ethiopia,True
+1983-05-01,Ethiopia,Libya,1,0,Friendly,Addis Ababa,Ethiopia,False
+1983-05-03,Ethiopia,Libya,0,1,Friendly,Addis Ababa,Ethiopia,False
+1983-08-20,Greece,Libya,3,2,Friendly,Athens,Greece,False
+1983-08-24,Turkey,Libya,0,0,Friendly,Istanbul,Turkey,False
+1983-08-29,Libya,Zimbabwe,3,1,Friendly,Tripoli,Libya,False
+1983-10-09,Libya,Malta,4,0,Friendly,Tripoli,Libya,False
+1985-01-02,Libya,Morocco,0,0,Friendly,Tripoli,Libya,False
+1985-02-22,Sudan,Libya,0,0,FIFA World Cup qualification,Khartoum,Sudan,False
+1985-03-08,Libya,Sudan,4,0,FIFA World Cup qualification,Tripoli,Libya,False
+1985-03-29,Libya,Tunisia,2,0,African Cup of Nations qualification,Tripoli,Libya,False
+1985-04-14,Tunisia,Libya,1,0,African Cup of Nations qualification,Tunis,Tunisia,False
+1985-07-14,Ghana,Libya,0,0,FIFA World Cup qualification,Accra,Ghana,False
+1985-07-26,Libya,Ghana,2,0,FIFA World Cup qualification,Bin Ghashir,Libya,False
+1985-08-23,Libya,Mozambique,2,1,African Cup of Nations qualification,Benghazi,Libya,False
+1985-09-15,Mozambique,Libya,2,1,African Cup of Nations qualification,Maputo,Mozambique,False
+1985-10-06,Morocco,Libya,3,0,FIFA World Cup qualification,Rabat,Morocco,False
+1985-10-11,Libya,Mexico,3,1,Friendly,Benghazi,Libya,False
+1985-10-18,Libya,Morocco,1,0,FIFA World Cup qualification,Bin Ghashir,Libya,False
+1988-03-10,Libya,Malta,1,0,Friendly,Tripoli,Libya,False
+1988-06-03,Libya,Burkina Faso,3,0,FIFA World Cup qualification,Tripoli,Libya,False
+1988-07-03,Burkina Faso,Libya,2,0,FIFA World Cup qualification,Ouagadougou,Burkina Faso,False
+1989-01-08,Ivory Coast,Libya,1,0,FIFA World Cup qualification,Abidjan,Ivory Coast,False
+1991-11-27,Malta,Libya,2,0,Friendly,Attard,Malta,False
+1992-07-03,Kazakhstan,Libya,1,0,Friendly,Pyongyang,North Korea,True
+1992-08-09,Libya,Niger,0,0,Friendly,Tripoli,Libya,False
+1992-08-12,Libya,Mali,0,1,Friendly,Tripoli,Libya,False
+1992-08-14,Mali,Libya,2,1,Friendly,Bamako,Mali,False
+1997-04-27,Lebanon,Libya,2,0,Friendly,Beirut,Lebanon,False
+1997-04-30,Syria,Libya,1,1,Friendly,Damascus,Syria,False
+1997-09-20,Libya,Bahrain,2,1,Friendly,Tripoli,Libya,False
+1997-09-25,Libya,Jordan,1,1,Friendly,Tripoli,Libya,False
+1998-07-31,Libya,Algeria,0,2,African Cup of Nations qualification,Tripoli,Libya,False
+1998-08-14,Algeria,Libya,3,0,African Cup of Nations qualification,Algiers,Algeria,False
+1998-09-13,Bahrain,Libya,2,2,Friendly,Doha,Qatar,True
+1998-09-16,United Arab Emirates,Libya,5,1,Friendly,Abu Dhabi,United Arab Emirates,False
+1998-09-22,Qatar,Libya,2,1,Arab Cup,Doha,Qatar,False
+1998-09-24,Libya,Jordan,1,2,Arab Cup,Doha,Qatar,True
+1999-05-16,Libya,Senegal,2,1,Friendly,Tripoli,Libya,False
+1999-11-19,Libya,Togo,2,1,Friendly,Agilat,Libya,False
+1999-11-27,Zimbabwe,Libya,2,1,Friendly,Harare,Zimbabwe,False
+1999-12-04,Malawi,Libya,1,2,Friendly,Lilongwe,Malawi,False
+1999-12-23,Libya,Gabon,2,0,Friendly,Benghazi,Libya,False
+1999-12-29,Libya,Togo,2,0,Friendly,Benghazi,Libya,False
+2000-01-26,Uganda,Libya,3,2,Friendly,Kampala,Uganda,False
+2000-04-09,Libya,Mali,3,0,FIFA World Cup qualification,Tripoli,Libya,False
+2000-04-23,Mali,Libya,3,1,FIFA World Cup qualification,Bamako,Mali,False
+2000-06-18,Libya,Cameroon,0,3,FIFA World Cup qualification,Tripoli,Libya,False
+2000-06-30,Chad,Libya,3,1,African Cup of Nations qualification,N'Djamena,Chad,False
+2000-07-14,Libya,Chad,3,1,African Cup of Nations qualification,Tripoli,Libya,False
+2000-09-10,Libya,Sudan,1,0,African Cup of Nations qualification,Tripoli,Libya,False
+2000-11-19,Ivory Coast,Libya,2,1,African Cup of Nations qualification,Abidjan,Ivory Coast,False
+2000-11-22,Morocco,Libya,0,0,Friendly,Casablanca,Morocco,False
+2001-01-14,Egypt,Libya,4,0,African Cup of Nations qualification,Cairo,Egypt,False
+2001-01-28,Angola,Libya,3,1,FIFA World Cup qualification,Luanda,Angola,False
+2001-02-23,Libya,Togo,3,3,FIFA World Cup qualification,Benghazi,Libya,False
+2001-03-10,Zambia,Libya,2,0,FIFA World Cup qualification,Chingola,Zambia,False
+2001-03-23,Libya,Egypt,2,0,African Cup of Nations qualification,Tripoli,Libya,False
+2001-04-22,Cameroon,Libya,1,0,FIFA World Cup qualification,Yaoundé,Cameroon,False
+2001-06-03,Libya,Ivory Coast,0,3,African Cup of Nations qualification,Tripoli,Libya,False
+2001-06-17,Sudan,Libya,1,0,African Cup of Nations qualification,Khartoum,Sudan,False
+2001-06-29,Libya,Angola,1,1,FIFA World Cup qualification,Tripoli,Libya,False
+2001-07-15,Togo,Libya,2,0,FIFA World Cup qualification,Lomé,Togo,False
+2001-07-27,Libya,Zambia,2,4,FIFA World Cup qualification,Tripoli,Libya,False
+2002-08-27,Egypt,Libya,0,1,Friendly,Alexandria,Egypt,False
+2002-09-02,Libya,Togo,4,0,Friendly,Misrata,Libya,False
+2002-09-08,Libya,DR Congo,3,2,African Cup of Nations qualification,Misrata,Libya,False
+2002-10-13,Eswatini,Libya,2,1,African Cup of Nations qualification,Lobamba,Swaziland,False
+2003-02-12,Libya,Canada,2,4,Friendly,Tripoli,Libya,False
+2003-03-30,Libya,Botswana,0,0,African Cup of Nations qualification,Tripoli,Libya,False
+2003-04-30,Libya,Argentina,1,3,Friendly,Tripoli,Libya,False
+2003-06-03,Uganda,Libya,3,2,Friendly,Kampala,Uganda,False
+2003-06-07,Botswana,Libya,0,1,African Cup of Nations qualification,Gaborone,Botswana,False
+2003-06-22,DR Congo,Libya,2,1,African Cup of Nations qualification,Kinshasa,DR Congo,False
+2003-07-05,Libya,Eswatini,6,2,African Cup of Nations qualification,Tripoli,Libya,False
+2003-10-11,São Tomé and Príncipe,Libya,0,1,FIFA World Cup qualification,São Tomé,São Tomé and Príncipe,False
+2003-11-16,Libya,São Tomé and Príncipe,8,0,FIFA World Cup qualification,Benghazi,Libya,False
+2004-01-16,Libya,Kenya,2,0,Friendly,Az Zawiyah,Libya,False
+2004-01-19,Libya,Kenya,2,0,Friendly,Tripoli,Libya,False
+2004-02-18,Libya,Ukraine,1,1,Friendly,Tripoli,Libya,False
+2004-03-26,Libya,Qatar,1,0,Friendly,Rome,Italy,True
+2004-04-30,Libya,Jordan,1,0,Friendly,Lagos,Nigeria,True
+2004-05-30,Burkina Faso,Libya,3,2,Friendly,Ouagadougou,Burkina Faso,False
+2004-06-06,Ivory Coast,Libya,2,0,FIFA World Cup qualification,Abidjan,Ivory Coast,False
+2004-06-18,Libya,Cameroon,0,0,FIFA World Cup qualification,Misrata,Libya,False
+2004-07-03,Sudan,Libya,0,1,FIFA World Cup qualification,Khartoum,Sudan,False
+2004-09-03,Libya,Benin,4,1,FIFA World Cup qualification,Tripoli,Libya,False
+2004-10-08,Libya,Egypt,2,1,FIFA World Cup qualification,Tripoli,Libya,False
+2004-10-22,Libya,Jordan,1,0,Friendly,Tripoli,Libya,False
+2005-03-27,Egypt,Libya,4,1,FIFA World Cup qualification,Cairo,Egypt,False
+2005-05-27,Libya,Malawi,1,1,Friendly,Tripoli,Libya,False
+2005-06-03,Libya,Ivory Coast,0,0,FIFA World Cup qualification,Tripoli,Libya,False
+2005-06-19,Cameroon,Libya,1,0,FIFA World Cup qualification,Yaoundé,Cameroon,False
+2005-08-17,Libya,Nigeria,0,1,Friendly,Tripoli,Libya,False
+2005-08-24,Iran,Libya,4,0,Friendly,Tehran,Iran,False
+2005-09-02,Libya,Sudan,0,0,FIFA World Cup qualification,Tripoli,Libya,False
+2005-10-09,Benin,Libya,1,0,FIFA World Cup qualification,Cotonou,Benin,False
+2005-11-16,Libya,DR Congo,2,1,Friendly,Paris,France,True
+2005-12-02,United Arab Emirates,Libya,1,1,Friendly,Sharjah,United Arab Emirates,False
+2006-01-02,Qatar,Libya,2,0,Friendly,Doha,Qatar,False
+2006-01-12,Tunisia,Libya,1,0,Friendly,Tunis,Tunisia,False
+2006-01-20,Egypt,Libya,3,0,African Cup of Nations,Cairo,Egypt,False
+2006-01-24,Libya,Ivory Coast,1,2,African Cup of Nations,Cairo,Egypt,True
+2006-01-28,Libya,Morocco,0,0,African Cup of Nations,Cairo,Egypt,True
+2006-05-30,Libya,Uruguay,1,2,Friendly,Radès,Tunisia,True
+2006-06-02,Libya,Belarus,1,1,Friendly,Radès,Tunisia,True
+2006-06-05,Ukraine,Libya,3,0,Friendly,Gossau,Switzerland,True
+2006-08-05,Syria,Libya,2,1,Friendly,Damascus,Syria,False
+2006-08-16,Libya,Uganda,3,2,Friendly,Tripoli,Libya,False
+2006-08-26,Yemen,Libya,0,1,Friendly,Sana'a,Yemen,False
+2006-08-29,Yemen,Libya,1,1,Friendly,Sana'a,Yemen,False
+2006-09-03,Ethiopia,Libya,1,0,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+2006-10-01,Libya,Sudan,1,0,Friendly,Tripoli,Libya,False
+2006-10-08,Libya,DR Congo,1,1,African Cup of Nations qualification,Tripoli,Libya,False
+2006-11-15,Tunisia,Libya,2,0,Friendly,Tunis,Tunisia,False
+2007-02-07,Algeria,Libya,2,1,Friendly,Algiers,Algeria,False
+2007-03-20,Libya,Mauritania,0,0,Friendly,Tripoli,Libya,False
+2007-03-25,Libya,Namibia,2,1,African Cup of Nations qualification,Tripoli,Libya,False
+2007-05-27,Botswana,Libya,0,0,Friendly,Gaborone,Botswana,False
+2007-06-02,Namibia,Libya,1,0,African Cup of Nations qualification,Windhoek,Namibia,False
+2007-06-17,Libya,Ethiopia,3,1,African Cup of Nations qualification,Tripoli,Libya,False
+2007-08-22,Sudan,Libya,1,0,Friendly,Khartoum,Sudan,False
+2007-09-08,DR Congo,Libya,1,1,African Cup of Nations qualification,Kinshasa,DR Congo,False
+2007-10-16,Bahrain,Libya,2,0,Friendly,Muharraq,Bahrain,False
+2008-03-26,Uganda,Libya,1,1,Friendly,Kampala,Uganda,False
+2008-05-22,Libya,Zambia,2,2,Friendly,Tripoli,Libya,False
+2008-05-27,Libya,Liberia,4,2,Friendly,Tripoli,Libya,False
+2008-06-01,Ghana,Libya,3,0,FIFA World Cup qualification,Kumasi,Ghana,False
+2008-06-07,Libya,Gabon,1,0,FIFA World Cup qualification,Tripoli,Libya,False
+2008-06-15,Lesotho,Libya,0,1,FIFA World Cup qualification,Bloemfontein,South Africa,True
+2008-06-20,Libya,Lesotho,4,0,FIFA World Cup qualification,Tripoli,Libya,False
+2008-08-20,Libya,Senegal,0,0,Friendly,Tripoli,Libya,False
+2008-08-24,Libya,Chad,3,0,Friendly,Tripoli,Libya,False
+2008-08-28,Libya,Niger,6,2,Friendly,Tripoli,Libya,False
+2008-09-05,Libya,Ghana,1,0,FIFA World Cup qualification,Tripoli,Libya,False
+2008-10-11,Gabon,Libya,1,0,FIFA World Cup qualification,Libreville,Gabon,False
+2009-02-11,Libya,Uruguay,2,3,Friendly,Tripoli,Libya,False
+2009-10-05,Kuwait,Libya,1,1,Friendly,Cairo,Egypt,True
+2010-01-06,Benin,Libya,1,0,Friendly,Cotonou,Benin,False
+2010-03-03,Libya,Mali,2,1,Friendly,Tripoli,Libya,False
+2010-09-05,Mozambique,Libya,0,0,African Cup of Nations qualification,Maputo,Mozambique,False
+2010-10-10,Libya,Zambia,1,0,African Cup of Nations qualification,Tripoli,Libya,False
+2010-11-17,Libya,Niger,1,1,Friendly,Tripoli,Libya,False
+2011-02-09,Libya,Benin,3,2,Friendly,Tripoli,Libya,False
+2011-03-28,Libya,Comoros,3,0,African Cup of Nations qualification,Bamako,Mali,True
+2011-06-05,Comoros,Libya,1,1,African Cup of Nations qualification,Mitsamiouli,Comoros,False
+2011-09-03,Libya,Mozambique,1,0,African Cup of Nations qualification,Cairo,Egypt,True
+2011-10-08,Zambia,Libya,0,0,African Cup of Nations qualification,Chingola,Zambia,False
+2011-11-15,Belarus,Libya,1,1,Friendly,Dubai,United Arab Emirates,True
+2012-01-16,Ivory Coast,Libya,1,0,Friendly,Abu Dhabi,United Arab Emirates,True
+2012-01-21,Equatorial Guinea,Libya,1,0,African Cup of Nations,Bata,Equatorial Guinea,False
+2012-01-25,Libya,Zambia,2,2,African Cup of Nations,Bata,Equatorial Guinea,True
+2012-01-29,Libya,Senegal,2,1,African Cup of Nations,Bata,Equatorial Guinea,True
+2012-05-23,Libya,Rwanda,2,0,Friendly,Tunis,Tunisia,True
+2012-05-27,Chad,Libya,0,1,Friendly,Tunis,Tunisia,True
+2012-06-03,Togo,Libya,1,1,FIFA World Cup qualification,Lomé,Togo,False
+2012-06-10,Libya,Cameroon,2,1,FIFA World Cup qualification,Sfax,Tunisia,True
+2012-06-23,Libya,Yemen,3,1,Arab Cup,Jeddah,Saudi Arabia,True
+2012-06-29,Libya,Bahrain,2,1,Arab Cup,Taif,Saudi Arabia,True
+2012-07-03,Saudi Arabia,Libya,0,2,Arab Cup,Jeddah,Saudi Arabia,False
+2012-08-26,Libya,Sudan,3,0,Friendly,Tunis,Tunisia,True
+2012-09-09,Libya,Algeria,0,1,African Cup of Nations qualification,Casablanca,Morocco,True
+2012-10-14,Algeria,Libya,2,0,African Cup of Nations qualification,Blida,Algeria,False
+2013-02-06,Kenya,Libya,3,0,Friendly,Tunis,Tunisia,True
+2013-03-16,Senegal,Libya,0,4,Friendly,Casablanca,Morocco,True
+2013-03-20,Rwanda,Libya,0,1,Friendly,Kigali,Rwanda,False
+2013-03-24,DR Congo,Libya,0,0,FIFA World Cup qualification,Kinshasa,DR Congo,False
+2013-05-13,Libya,Mauritania,2,0,Friendly,Tripoli,Libya,False
+2013-05-27,Jordan,Libya,1,0,Friendly,Amman,Jordan,False
+2013-06-01,Libya,Uganda,3,0,Friendly,Tripoli,Libya,False
+2013-06-07,Libya,DR Congo,0,0,FIFA World Cup qualification,Tripoli,Libya,False
+2013-06-14,Libya,Togo,2,0,FIFA World Cup qualification,Tripoli,Libya,False
+2013-06-29,Libya,Burkina Faso,2,1,Friendly,Misrata,Libya,False
+2013-08-09,Jordan,Libya,2,1,Friendly,Amman,Jordan,False
+2013-08-14,Libya,Central African Republic,0,0,Friendly,Tripoli,Libya,False
+2013-08-27,Libya,Mali,1,0,Friendly,Aïn Draham,Tunisia,True
+2013-08-30,Libya,Ghana,1,0,Friendly,Aïn Draham,Tunisia,True
+2013-09-04,Equatorial Guinea,Libya,1,1,Friendly,Malabo,Equatorial Guinea,False
+2013-09-08,Cameroon,Libya,1,0,FIFA World Cup qualification,Yaoundé,Cameroon,False
+2013-11-15,Libya,Niger,1,1,Friendly,Sousse,Tunisia,True
+2013-12-14,Libya,Mali,1,0,Friendly,El Jadida,Morocco,True
+2014-05-18,Libya,Rwanda,0,0,African Cup of Nations qualification,Radès,Tunisia,True
+2014-05-31,Rwanda,Libya,3,0,African Cup of Nations qualification,Kigali,Rwanda,False
+2014-09-07,Morocco,Libya,3,0,Friendly,Marrakech,Morocco,False
+2015-06-12,Morocco,Libya,1,0,African Cup of Nations qualification,Agadir,Morocco,False
+2015-08-28,Tanzania,Libya,1,2,Friendly,Kertepe,Turkey,True
+2015-09-06,Libya,Cape Verde,1,2,African Cup of Nations qualification,Cairo,Egypt,True
+2015-11-13,Libya,Rwanda,1,0,FIFA World Cup qualification,Sfax,Tunisia,True
+2015-11-17,Rwanda,Libya,1,3,FIFA World Cup qualification,Kigali,Rwanda,False
+2016-01-29,Egypt,Libya,2,0,Friendly,Aswan,Egypt,False
+2016-03-23,São Tomé and Príncipe,Libya,2,1,African Cup of Nations qualification,São Tomé,São Tomé and Príncipe,False
+2016-03-28,Libya,São Tomé and Príncipe,4,0,African Cup of Nations qualification,Cairo,Egypt,True
+2016-06-03,Libya,Morocco,1,1,African Cup of Nations qualification,Radès,Tunisia,True
+2016-09-03,Cape Verde,Libya,0,1,African Cup of Nations qualification,Praia,Cape Verde,False
+2016-10-08,DR Congo,Libya,4,0,FIFA World Cup qualification,Kinshasa,DR Congo,False
+2016-11-11,Libya,Tunisia,0,1,FIFA World Cup qualification,Algiers,Algeria,True
+2017-01-08,Libya,Senegal,1,2,Friendly,Brazzaville,Congo,True
+2017-03-24,Libya,Togo,0,0,Friendly,Alexandria,Egypt,True
+2017-05-13,Egypt,Libya,1,0,Friendly,Cairo,Egypt,False
+2017-06-05,Egypt,Libya,1,0,Friendly,New Cairo,Egypt,False
+2017-06-09,Libya,Seychelles,5,1,African Cup of Nations qualification,New Cairo,Egypt,True
+2017-08-31,Guinea,Libya,3,2,FIFA World Cup qualification,Conakry,Guinea,False
+2017-09-04,Libya,Guinea,1,0,FIFA World Cup qualification,Monastir,Tunisia,True
+2017-10-07,Libya,DR Congo,1,2,FIFA World Cup qualification,Monastir,Tunisia,True
+2017-11-11,Tunisia,Libya,0,0,FIFA World Cup qualification,Radès,Tunisia,False
+2017-12-03,Libya,Tanzania,0,0,CECAFA Cup,Machakos,Kenya,True
+2017-12-05,Kenya,Libya,0,0,CECAFA Cup,Machakos,Kenya,False
+2017-12-07,Rwanda,Libya,0,0,CECAFA Cup,Machakos,Kenya,True
+2017-12-11,Libya,Zanzibar,1,0,CECAFA Cup,Machakos,Kenya,True
+2017-12-25,Jordan,Libya,1,1,Friendly,Amman,Jordan,False
+2018-09-08,South Africa,Libya,0,0,African Cup of Nations qualification,Durban,South Africa,False
+2018-10-13,Nigeria,Libya,4,0,African Cup of Nations qualification,Uyo,Nigeria,False
+2018-10-16,Libya,Nigeria,2,3,African Cup of Nations qualification,Sfax,Tunisia,True
+2018-11-17,Seychelles,Libya,1,8,African Cup of Nations qualification,Victoria,Seychelles,False
+2019-03-24,Libya,South Africa,1,2,African Cup of Nations qualification,Sfax,Tunisia,True
+2019-09-04,Libya,Burkina Faso,0,1,Friendly,Marrakech,Morocco,True
+2019-09-07,Libya,Niger,2,0,Friendly,Berrechid,Egypt,True
+2019-10-11,Morocco,Libya,1,1,Friendly,Morocco,Morocco,False
+2019-10-15,Mauritania,Libya,0,0,Friendly,Nouakchott,Mauritania,False
+2019-11-15,Tunisia,Libya,4,1,African Cup of Nations qualification,Radès,Tunisia,False
+2019-11-19,Libya,Tanzania,2,1,African Cup of Nations qualification,Monastir,Tunisia,True
+2020-11-11,Libya,Equatorial Guinea,2,3,African Cup of Nations qualification,Radès,Tunisia,True
+2020-11-15,Equatorial Guinea,Libya,1,0,African Cup of Nations qualification,Malabo,Equatorial Guinea,False
+2021-03-25,Libya,Tunisia,2,5,African Cup of Nations qualification,Benina,Libya,False
+2021-03-28,Tanzania,Libya,1,0,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+2021-06-14,Libya,Liberia,0,1,Friendly,Tunis,Tunisia,True
+2021-06-19,Libya,Sudan,0,1,Arab Cup qualification,Doha,Qatar,True
+2021-09-01,Libya,Gabon,2,1,FIFA World Cup qualification,Benina,Libya,False
+2021-09-07,Angola,Libya,0,1,FIFA World Cup qualification,Luanda,Angola,False
+2021-10-08,Egypt,Libya,1,0,FIFA World Cup qualification,Alexandria,Egypt,False
+2021-10-11,Libya,Egypt,0,3,FIFA World Cup qualification,Benina,Libya,False
+2021-11-12,Gabon,Libya,1,0,FIFA World Cup qualification,Franceville,Gabon,False
+2021-11-16,Libya,Angola,1,1,FIFA World Cup qualification,Benghazi,Libya,False
+2022-01-29,Kuwait,Libya,2,0,Friendly,Kuwait City,Kuwait,False
+2022-02-01,Kuwait,Libya,0,2,Friendly,Kuwait City,Kuwait,False
+2022-03-26,Libya,Niger,2,1,Friendly,Nouakchott,Mauritania,True
+2022-03-29,Mauritania,Libya,2,0,Friendly,Nouakchott,Mauritania,False
+2022-06-01,Libya,Botswana,1,0,African Cup of Nations qualification,Benghazi,Libya,False
+2022-06-06,Equatorial Guinea,Libya,2,0,African Cup of Nations qualification,Malabo,Equatorial Guinea,False
+2022-09-21,Libya,Uganda,0,0,Friendly,Benghazi,Libya,False
+2022-09-27,Libya,Tanzania,2,1,Friendly,Benghazi,Libya,False
+2022-11-17,Niger,Libya,2,3,Friendly,Antalya,Turkey,True
+2023-03-24,Tunisia,Libya,3,0,African Cup of Nations qualification,Radès,Tunisia,False
+2023-03-28,Libya,Tunisia,0,1,African Cup of Nations qualification,Benghazi,Libya,False
+2023-06-17,Botswana,Libya,1,0,African Cup of Nations qualification,Francistown,Botswana,False
+2023-09-06,Libya,Equatorial Guinea,1,1,African Cup of Nations qualification,Benghazi,Libya,False
+2023-10-14,Liberia,Libya,2,3,Friendly,Khouribga,Morocco,True
+2023-10-17,Libya,Niger,1,1,Friendly,Khouribga,Morocco,True
+2023-11-17,Eswatini,Libya,0,1,FIFA World Cup qualification,Mbombela,South Africa,True
+2023-11-21,Libya,Cameroon,1,1,FIFA World Cup qualification,Benghazi,Libya,False
+2024-01-02,Indonesia,Libya,0,4,Friendly,Antalya,Turkey,True
+2024-01-05,Indonesia,Libya,1,2,Friendly,Antalya,Turkey,True
+2024-01-12,Kuwait,Libya,1,3,Friendly,Cairo,Egypt,True
+2024-03-22,Burkina Faso,Libya,1,2,Friendly,Casablanca,Morocco,True
+2024-06-06,Libya,Mauritius,2,1,FIFA World Cup qualification,Benghazi,Libya,False
+2024-06-11,Cape Verde,Libya,1,0,FIFA World Cup qualification,Praia,Cape Verde,False
+2024-09-04,Libya,Rwanda,1,1,African Cup of Nations qualification,Tripoli,Libya,False
+2024-09-10,Benin,Libya,2,1,African Cup of Nations qualification,Abidjan,Ivory Coast,True
+2024-10-11,Nigeria,Libya,1,0,African Cup of Nations qualification,Uyo,Nigeria,False
+2025-03-20,Libya,Angola,1,1,FIFA World Cup qualification,Benghazi,Libya,False
+2025-03-25,Cameroon,Libya,3,1,FIFA World Cup qualification,Yaounde,Cameroon,False

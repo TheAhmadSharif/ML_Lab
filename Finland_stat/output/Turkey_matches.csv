@@ -1,0 +1,631 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1923-10-26,Turkey,Romania,2,2,Friendly,Istanbul,Turkey,False
+1924-05-25,Czechoslovakia,Turkey,5,2,Olympic Games,Paris,France,True
+1924-06-17,Finland,Turkey,2,4,Friendly,Helsinki,Finland,False
+1924-06-19,Estonia,Turkey,1,4,Friendly,Tallinn,Estonia,False
+1924-06-22,Latvia,Turkey,1,3,Friendly,Riga,Latvia,False
+1924-06-29,Poland,Turkey,2,0,Friendly,Łódź,Poland,False
+1924-11-16,Russia,Turkey,3,0,Friendly,Moscow,Soviet Union,False
+1925-04-10,Turkey,Bulgaria,2,1,Friendly,Istanbul,Turkey,False
+1925-05-01,Romania,Turkey,1,2,Friendly,Bucharest,Romania,False
+1925-05-15,Turkey,Russia,1,2,Friendly,Ankara,Turkey,False
+1925-10-02,Turkey,Poland,1,2,Friendly,Istanbul,Turkey,False
+1926-05-07,Turkey,Romania,1,3,Friendly,Istanbul,Turkey,False
+1926-09-12,Poland,Turkey,6,1,Friendly,Lwów,Poland,False
+1927-07-17,Bulgaria,Turkey,3,3,Friendly,Sofia,Bulgaria,False
+1927-10-14,Turkey,Bulgaria,3,1,Friendly,Istanbul,Turkey,False
+1928-04-08,Yugoslavia,Turkey,2,1,Friendly,Zagreb,Yugoslavia,False
+1928-04-15,Romania,Turkey,4,2,Friendly,Arad,Romania,False
+1928-05-28,Egypt,Turkey,7,1,Olympic Games,Amsterdam,Netherlands,True
+1931-09-27,Bulgaria,Turkey,5,1,Balkan Cup,Sofia,Bulgaria,False
+1931-10-02,Turkey,Yugoslavia,2,0,Balkan Cup,Sofia,Bulgaria,True
+1932-11-04,Turkey,Bulgaria,2,3,Friendly,Istanbul,Turkey,False
+1936-07-12,Turkey,Yugoslavia,3,3,Friendly,Istanbul,Turkey,False
+1937-08-01,Yugoslavia,Turkey,3,1,Friendly,Belgrade,Yugoslavia,False
+1947-10-26,Iran,Turkey,1,3,Friendly,Tehran,Iran,False
+1948-04-23,Greece,Turkey,1,3,Friendly,Athens,Greece,False
+1948-05-30,Turkey,Austria,0,1,Friendly,Istanbul,Turkey,False
+1948-10-28,Iran,Turkey,1,1,Friendly,Tehran,Iran,False
+1948-11-28,Turkey,Greece,2,1,Friendly,Istanbul,Turkey,False
+1949-03-20,Austria,Turkey,1,0,Friendly,Vienna,Austria,False
+1949-05-12,Egypt,Turkey,2,3,Friendly,Athens,Greece,True
+1949-05-15,Greece,Turkey,1,2,Friendly,Athens,Greece,False
+1949-11-20,Turkey,Syria,7,0,FIFA World Cup qualification,Ankara,Turkey,False
+1950-05-28,Turkey,Iran,6,1,Friendly,Istanbul,Turkey,False
+1950-10-28,Israel,Turkey,5,1,Friendly,Tel Aviv,Israel,False
+1950-12-03,Turkey,Israel,3,2,Friendly,Istanbul,Turkey,False
+1951-06-10,Sweden,Turkey,3,1,Friendly,Solna,Sweden,False
+1951-06-17,Germany,Turkey,1,2,Friendly,Berlin,Germany,False
+1951-11-14,Turkey,Sweden,1,0,Friendly,Istanbul,Turkey,False
+1951-11-21,Turkey,Germany,0,2,Friendly,Istanbul,Turkey,False
+1952-06-01,Turkey,Switzerland,1,5,Friendly,Ankara,Turkey,False
+1952-06-08,Turkey,Spain,0,0,Friendly,Istanbul,Turkey,False
+1953-05-25,Switzerland,Turkey,1,2,Friendly,Bern,Switzerland,False
+1953-06-05,Turkey,Yugoslavia,2,2,Friendly,Istanbul,Turkey,False
+1954-01-06,Spain,Turkey,4,1,FIFA World Cup qualification,Madrid,Spain,False
+1954-03-14,Turkey,Spain,1,0,FIFA World Cup qualification,Istanbul,Turkey,False
+1954-03-17,Turkey,Spain,2,2,FIFA World Cup qualification,Rome,Italy,True
+1954-06-17,Germany,Turkey,4,1,FIFA World Cup,Bern,Switzerland,True
+1954-06-20,South Korea,Turkey,0,7,FIFA World Cup,Geneva,Switzerland,True
+1954-06-23,Germany,Turkey,7,2,FIFA World Cup,Zürich,Switzerland,True
+1954-10-17,Yugoslavia,Turkey,5,1,Friendly,Sarajevo,Yugoslavia,False
+1955-12-18,Turkey,Portugal,3,1,Friendly,Istanbul,Turkey,False
+1956-02-19,Turkey,Hungary,3,1,Friendly,Istanbul,Turkey,False
+1956-03-25,Portugal,Turkey,3,1,Friendly,Oeiras,Portugal,False
+1956-05-01,Turkey,Brazil,0,1,Friendly,Istanbul,Turkey,False
+1956-11-16,Turkey,Poland,1,1,Friendly,Istanbul,Turkey,False
+1956-11-25,Czechoslovakia,Turkey,1,1,Friendly,Prague,Czechoslovakia,False
+1957-05-19,Poland,Turkey,0,1,Friendly,Warsaw,Poland,False
+1957-12-08,Turkey,Belgium,1,1,Friendly,Ankara,Turkey,False
+1958-05-04,Netherlands,Turkey,1,2,Friendly,Amsterdam,Netherlands,False
+1958-10-26,Belgium,Turkey,1,1,Friendly,Brussels,Belgium,False
+1958-11-02,Romania,Turkey,3,0,UEFA Euro qualification,Bucharest,Romania,False
+1958-12-07,Turkey,Bulgaria,0,0,Friendly,Ankara,Turkey,False
+1958-12-18,Turkey,Czechoslovakia,1,0,Friendly,Istanbul,Turkey,False
+1959-04-26,Turkey,Romania,2,0,UEFA Euro qualification,Istanbul,Turkey,False
+1959-05-10,Turkey,Netherlands,0,0,Friendly,Istanbul,Turkey,False
+1960-06-08,Turkey,Scotland,4,2,Friendly,Ankara,Turkey,False
+1960-11-27,Bulgaria,Turkey,2,1,Friendly,Sofia,Bulgaria,False
+1961-05-14,Turkey,Romania,0,1,Friendly,Ankara,Turkey,False
+1961-06-01,Norway,Turkey,0,1,FIFA World Cup qualification,Oslo,Norway,False
+1961-06-18,Russia,Turkey,1,0,FIFA World Cup qualification,Moscow,Soviet Union,True
+1961-10-08,Romania,Turkey,4,0,Friendly,Bucharest,Romania,False
+1961-10-18,Turkey,South Korea,1,0,Friendly,Ankara,Turkey,False
+1961-10-29,Turkey,Norway,2,1,FIFA World Cup qualification,Istanbul,Turkey,False
+1961-11-12,Turkey,Russia,1,2,FIFA World Cup qualification,Istanbul,Turkey,False
+1962-04-29,Hungary,Turkey,2,1,Friendly,Budapest,Hungary,False
+1962-05-16,Turkey,Israel,1,0,Friendly,Istanbul,Turkey,False
+1962-10-10,Turkey,Ethiopia,3,0,Friendly,Ankara,Turkey,False
+1962-11-25,Israel,Turkey,0,2,Friendly,Ramat Gan,Israel,False
+1962-12-02,Italy,Turkey,6,0,UEFA Euro qualification,Bologna,Italy,False
+1962-12-12,Turkey,Denmark,1,1,Friendly,Istanbul,Turkey,False
+1962-12-16,Ethiopia,Turkey,0,0,Friendly,Addis Ababa,Ethiopia,False
+1963-03-27,Turkey,Italy,0,1,UEFA Euro qualification,Istanbul,Turkey,False
+1963-09-22,Poland,Turkey,0,0,Friendly,Poznań,Poland,False
+1963-09-28,Germany,Turkey,3,0,Friendly,Frankfurt am Main,Germany,False
+1963-10-09,Turkey,Romania,0,0,Friendly,Ankara,Turkey,False
+1964-09-27,Turkey,Poland,2,3,Friendly,Istanbul,Turkey,False
+1964-11-01,Turkey,Tunisia,4,1,Friendly,Ankara,Turkey,False
+1964-12-20,Turkey,Bulgaria,0,0,Friendly,Istanbul,Turkey,False
+1965-01-24,Portugal,Turkey,5,1,FIFA World Cup qualification,Oeiras,Portugal,False
+1965-04-19,Turkey,Portugal,0,1,FIFA World Cup qualification,Ankara,Turkey,False
+1965-05-02,Romania,Turkey,3,0,FIFA World Cup qualification,Bucharest,Romania,False
+1965-05-09,Bulgaria,Turkey,4,1,Friendly,Sofia,Bulgaria,False
+1965-05-22,Iran,Turkey,1,2,Friendly,Tehran,Iran,False
+1965-05-24,Iran,Turkey,2,1,Friendly,Tehran,Iran,False
+1965-07-21,Pakistan,Turkey,1,3,Friendly,Tehran,Iran,True
+1965-07-25,Iran,Turkey,0,0,Friendly,Tehran,Iran,False
+1965-10-09,Turkey,Czechoslovakia,0,6,FIFA World Cup qualification,Istanbul,Turkey,False
+1965-10-23,Turkey,Romania,2,1,FIFA World Cup qualification,Ankara,Turkey,False
+1965-11-21,Czechoslovakia,Turkey,3,1,FIFA World Cup qualification,Brno,Czechoslovakia,False
+1966-03-16,Iran,Turkey,0,0,Friendly,Tehran,Iran,False
+1966-05-30,Denmark,Turkey,0,0,Friendly,Copenhagen,Denmark,False
+1966-10-12,Turkey,Germany,0,2,Friendly,Ankara,Turkey,False
+1966-10-16,Russia,Turkey,0,2,Friendly,Moscow,Soviet Union,False
+1966-11-16,Republic of Ireland,Turkey,2,1,UEFA Euro qualification,Dublin,Republic of Ireland,False
+1967-01-22,Tunisia,Turkey,0,0,Friendly,Tunis,Tunisia,False
+1967-02-01,Turkey,Spain,0,0,UEFA Euro qualification,Istanbul,Turkey,False
+1967-02-22,Turkey,Republic of Ireland,2,1,UEFA Euro qualification,Ankara,Turkey,False
+1967-05-31,Spain,Turkey,2,0,UEFA Euro qualification,Bilbao,Spain,False
+1967-06-18,Czechoslovakia,Turkey,3,0,UEFA Euro qualification,Bratislava,Czechoslovakia,False
+1967-11-15,Turkey,Czechoslovakia,0,0,UEFA Euro qualification,Ankara,Turkey,False
+1967-11-26,Iran,Turkey,0,1,Friendly,Dhaka,Pakistan,True
+1967-11-28,Pakistan,Turkey,4,7,Friendly,Dhaka,Pakistan,False
+1968-03-13,Turkey,Tunisia,0,0,Friendly,İzmir,Turkey,False
+1968-04-24,Poland,Turkey,8,0,Friendly,Chorzów,Poland,False
+1968-10-09,Turkey,Bulgaria,0,2,Friendly,Istanbul,Turkey,False
+1968-10-23,Northern Ireland,Turkey,4,1,FIFA World Cup qualification,Belfast,Northern Ireland,False
+1968-12-11,Turkey,Northern Ireland,0,3,FIFA World Cup qualification,Istanbul,Turkey,False
+1969-01-17,Saudi Arabia,Turkey,1,2,Friendly,Riyadh,Saudi Arabia,False
+1969-04-30,Turkey,Poland,1,3,Friendly,Ankara,Turkey,False
+1969-09-10,Turkey,Pakistan,4,2,Friendly,Ankara,Turkey,False
+1969-09-17,Turkey,Iran,4,0,Friendly,Ankara,Turkey,False
+1969-09-24,Turkey,Switzerland,3,0,Friendly,Istanbul,Turkey,False
+1969-10-15,Russia,Turkey,3,0,FIFA World Cup qualification,Kyiv,Soviet Union,True
+1969-11-16,Turkey,Russia,1,3,FIFA World Cup qualification,Istanbul,Turkey,False
+1970-09-09,Pakistan,Turkey,1,3,Friendly,Tehran,Iran,True
+1970-09-11,Iran,Turkey,1,1,Friendly,Tehran,Iran,False
+1970-10-17,Germany,Turkey,1,1,UEFA Euro qualification,Cologne,Germany,False
+1970-12-13,Turkey,Albania,2,1,UEFA Euro qualification,Istanbul,Turkey,False
+1971-04-25,Turkey,Germany,0,3,UEFA Euro qualification,Istanbul,Turkey,False
+1971-09-22,Poland,Turkey,5,1,UEFA Euro qualification,Kraków,Poland,False
+1971-09-26,Switzerland,Turkey,4,0,Friendly,Zürich,Switzerland,False
+1971-11-14,Albania,Turkey,3,0,UEFA Euro qualification,Tirana,Albania,False
+1971-12-05,Turkey,Poland,1,0,UEFA Euro qualification,İzmir,Turkey,False
+1972-10-04,Algeria,Turkey,1,0,Friendly,Algiers,Algeria,False
+1972-10-22,Luxembourg,Turkey,2,0,FIFA World Cup qualification,Luxembourg,Luxembourg,False
+1972-12-10,Turkey,Luxembourg,3,0,FIFA World Cup qualification,Istanbul,Turkey,False
+1973-01-13,Italy,Turkey,0,0,FIFA World Cup qualification,Naples,Italy,False
+1973-02-14,Turkey,Algeria,4,0,Friendly,İzmir,Turkey,False
+1973-02-25,Turkey,Italy,0,1,FIFA World Cup qualification,Istanbul,Turkey,False
+1973-04-18,Turkey,Bulgaria,5,2,Balkan Cup,İzmir,Turkey,False
+1973-05-09,Switzerland,Turkey,0,0,FIFA World Cup qualification,Basel,Switzerland,False
+1973-10-17,Turkey,Spain,0,0,Friendly,Istanbul,Turkey,False
+1973-11-18,Turkey,Switzerland,2,0,FIFA World Cup qualification,İzmir,Turkey,False
+1974-01-18,Pakistan,Turkey,2,2,Friendly,Karachi,Pakistan,False
+1974-01-20,Iran,Turkey,0,1,Friendly,Karachi,Pakistan,True
+1974-05-08,Bulgaria,Turkey,5,1,Balkan Cup,Sofia,Bulgaria,False
+1974-11-13,Turkey,Austria,0,1,Friendly,Istanbul,Turkey,False
+1974-11-20,Turkey,Republic of Ireland,1,1,UEFA Euro qualification,İzmir,Turkey,False
+1974-12-01,Turkey,Switzerland,2,1,UEFA Euro qualification,İzmir,Turkey,False
+1975-03-19,Turkey,Romania,1,1,Friendly,Istanbul,Turkey,False
+1975-04-02,Russia,Turkey,3,0,UEFA Euro qualification,Kyiv,Soviet Union,False
+1975-04-30,Switzerland,Turkey,1,1,UEFA Euro qualification,Basel,Switzerland,False
+1975-10-12,Romania,Turkey,2,2,Friendly,Bucharest,Romania,False
+1975-10-29,Republic of Ireland,Turkey,4,0,UEFA Euro qualification,Dublin,Republic of Ireland,False
+1975-11-23,Turkey,Russia,1,0,UEFA Euro qualification,İzmir,Turkey,False
+1975-12-20,Turkey,Germany,0,5,Friendly,Istanbul,Turkey,False
+1976-02-08,Iraq,Turkey,0,0,Friendly,Baghdad,Iraq,False
+1976-08-25,Finland,Turkey,2,1,Friendly,Helsinki,Finland,False
+1976-09-22,Bulgaria,Turkey,2,2,Friendly,Sofia,Bulgaria,False
+1976-10-13,Turkey,Republic of Ireland,3,3,Friendly,Ankara,Turkey,False
+1976-10-31,Turkey,Malta,4,0,FIFA World Cup qualification,İzmir,Turkey,False
+1976-11-17,German DR,Turkey,1,1,FIFA World Cup qualification,Dresden,German DR,False
+1977-01-05,Northern Cyprus,Turkey,0,1,Friendly,Kyrenia,Cyprus,False
+1977-02-16,Turkey,Bulgaria,2,0,Balkan Cup,Istanbul,Turkey,False
+1977-03-23,Romania,Turkey,4,0,Balkan Cup,Bucharest,Romania,False
+1977-04-06,Turkey,Finland,1,2,Friendly,Ankara,Turkey,False
+1977-04-17,Austria,Turkey,1,0,FIFA World Cup qualification,Vienna,Austria,False
+1977-09-07,Czechoslovakia,Turkey,1,0,Friendly,Bratislava,Czechoslovakia,False
+1977-09-21,Bulgaria,Turkey,3,1,Balkan Cup,Sofia,Bulgaria,False
+1977-10-30,Turkey,Austria,0,1,FIFA World Cup qualification,İzmir,Turkey,False
+1977-11-16,Turkey,German DR,1,2,FIFA World Cup qualification,İzmir,Turkey,False
+1977-11-27,Malta,Turkey,0,3,FIFA World Cup qualification,Gżira,Malta,False
+1978-03-22,Turkey,Romania,1,1,Balkan Cup,Istanbul,Turkey,False
+1978-04-05,Republic of Ireland,Turkey,4,2,Friendly,Dublin,Republic of Ireland,False
+1978-09-23,Italy,Turkey,1,0,Friendly,Florence,Italy,False
+1978-10-05,Turkey,Russia,0,2,Friendly,Ankara,Turkey,False
+1978-11-29,Wales,Turkey,1,0,UEFA Euro qualification,Wrexham,Wales,False
+1979-02-28,Turkey,Algeria,0,1,Friendly,Bursa,Turkey,False
+1979-03-18,Turkey,Malta,2,1,UEFA Euro qualification,İzmir,Turkey,False
+1979-04-01,Turkey,Germany,0,0,UEFA Euro qualification,İzmir,Turkey,False
+1979-10-28,Malta,Turkey,1,2,UEFA Euro qualification,Gżira,Malta,False
+1979-11-21,Turkey,Wales,1,0,UEFA Euro qualification,İzmir,Turkey,False
+1979-12-22,Germany,Turkey,2,0,UEFA Euro qualification,Gelsenkirchen,Germany,False
+1980-09-24,Turkey,Iceland,1,3,FIFA World Cup qualification,İzmir,Turkey,False
+1980-09-28,Turkey,Northern Cyprus,5,0,Friendly,İzmir,Turkey,False
+1980-10-01,Turkey,Libya,1,2,Friendly,İzmir,Turkey,False
+1980-10-03,Turkey,Saudi Arabia,3,0,Friendly,İzmir,Turkey,False
+1980-10-15,Wales,Turkey,4,0,FIFA World Cup qualification,Cardiff,Wales,False
+1980-12-03,Czechoslovakia,Turkey,2,0,FIFA World Cup qualification,Prague,Czechoslovakia,False
+1981-03-25,Turkey,Wales,0,1,FIFA World Cup qualification,Ankara,Turkey,False
+1981-04-15,Turkey,Czechoslovakia,0,3,FIFA World Cup qualification,Istanbul,Turkey,False
+1981-09-09,Iceland,Turkey,2,0,FIFA World Cup qualification,Reykjavík,Iceland,False
+1981-09-23,Russia,Turkey,4,0,FIFA World Cup qualification,Moscow,Soviet Union,True
+1981-10-07,Turkey,Russia,0,3,FIFA World Cup qualification,İzmir,Turkey,False
+1982-09-22,Hungary,Turkey,5,0,Friendly,Győr,Hungary,False
+1982-10-27,Turkey,Albania,1,0,UEFA Euro qualification,İzmir,Turkey,False
+1982-11-17,Austria,Turkey,4,0,UEFA Euro qualification,Vienna,Austria,False
+1983-01-29,Turkey,Romania,1,1,Friendly,Istanbul,Turkey,False
+1983-03-09,Romania,Turkey,3,1,Friendly,Târgu Mureș,Romania,False
+1983-03-30,Northern Ireland,Turkey,2,1,UEFA Euro qualification,Belfast,Northern Ireland,False
+1983-04-23,Turkey,Germany,0,3,UEFA Euro qualification,İzmir,Turkey,False
+1983-05-11,Albania,Turkey,1,1,UEFA Euro qualification,Tirana,Albania,False
+1983-08-24,Turkey,Libya,0,0,Friendly,Istanbul,Turkey,False
+1983-10-12,Turkey,Northern Ireland,1,0,UEFA Euro qualification,Ankara,Turkey,False
+1983-10-26,Germany,Turkey,5,1,UEFA Euro qualification,Berlin,Germany,False
+1983-11-16,Turkey,Austria,3,1,UEFA Euro qualification,Istanbul,Turkey,False
+1984-01-20,Egypt,Turkey,1,0,Friendly,Cairo,Egypt,False
+1984-01-22,Egypt,Turkey,0,1,Friendly,Port Said,Egypt,False
+1984-03-03,Turkey,Italy,1,2,Friendly,Istanbul,Turkey,False
+1984-03-11,Luxembourg,Turkey,1,3,Friendly,Esch-sur-Alzette,Luxembourg,False
+1984-04-04,Turkey,Hungary,0,6,Friendly,Istanbul,Turkey,False
+1984-09-26,Poland,Turkey,2,0,Friendly,Słupsk,Poland,False
+1984-10-16,Turkey,Bulgaria,0,0,Friendly,Istanbul,Turkey,False
+1984-10-31,Turkey,Finland,1,2,FIFA World Cup qualification,Antalya,Turkey,False
+1984-11-14,Turkey,England,0,8,FIFA World Cup qualification,Istanbul,Turkey,False
+1984-12-22,Turkey,Luxembourg,1,0,Friendly,Istanbul,Turkey,False
+1985-03-28,Albania,Turkey,0,0,Friendly,Tirana,Albania,False
+1985-04-03,Romania,Turkey,3,0,FIFA World Cup qualification,Craiova,Romania,False
+1985-05-01,Northern Ireland,Turkey,2,0,FIFA World Cup qualification,Belfast,Northern Ireland,False
+1985-08-28,Switzerland,Turkey,0,0,Friendly,St. Gallen,Switzerland,False
+1985-09-11,Turkey,Northern Ireland,0,0,FIFA World Cup qualification,İzmir,Turkey,False
+1985-09-25,Finland,Turkey,1,0,FIFA World Cup qualification,Tampere,Finland,False
+1985-10-16,England,Turkey,5,0,FIFA World Cup qualification,London,England,False
+1985-11-13,Turkey,Romania,1,3,FIFA World Cup qualification,İzmir,Turkey,False
+1985-12-11,Turkey,Poland,1,1,Friendly,Adana,Turkey,False
+1986-03-12,Turkey,Switzerland,1,0,Friendly,Adana,Turkey,False
+1986-10-29,Yugoslavia,Turkey,4,0,UEFA Euro qualification,Split,Yugoslavia,False
+1986-11-12,Turkey,Northern Ireland,0,0,UEFA Euro qualification,İzmir,Turkey,False
+1987-03-04,Turkey,Romania,1,3,Friendly,Ankara,Turkey,False
+1987-03-25,Turkey,German DR,3,1,Friendly,Istanbul,Turkey,False
+1987-04-29,Turkey,England,0,0,UEFA Euro qualification,İzmir,Turkey,False
+1987-10-14,England,Turkey,8,0,UEFA Euro qualification,London,England,False
+1987-11-11,Northern Ireland,Turkey,1,0,UEFA Euro qualification,Belfast,Northern Ireland,False
+1987-12-16,Turkey,Yugoslavia,2,3,UEFA Euro qualification,İzmir,Turkey,False
+1988-03-16,Hungary,Turkey,1,0,Friendly,Budapest,Hungary,False
+1988-09-21,Turkey,Greece,3,1,Friendly,Istanbul,Turkey,False
+1988-10-12,Turkey,Iceland,1,1,FIFA World Cup qualification,Istanbul,Turkey,False
+1988-11-02,Austria,Turkey,3,2,FIFA World Cup qualification,Vienna,Austria,False
+1988-11-30,Turkey,German DR,3,1,FIFA World Cup qualification,Istanbul,Turkey,False
+1989-03-29,Greece,Turkey,0,1,Friendly,Athens,Greece,False
+1989-04-12,German DR,Turkey,0,2,FIFA World Cup qualification,Magdeburg,German DR,False
+1989-05-10,Turkey,Russia,0,1,FIFA World Cup qualification,Istanbul,Turkey,False
+1989-09-20,Iceland,Turkey,2,1,FIFA World Cup qualification,Reykjavík,Iceland,False
+1989-10-25,Turkey,Austria,3,0,FIFA World Cup qualification,Istanbul,Turkey,False
+1989-11-15,Russia,Turkey,2,0,FIFA World Cup qualification,Simferopol,Soviet Union,True
+1990-04-11,Denmark,Turkey,1,0,Friendly,Copenhagen,Denmark,False
+1990-05-26,Turkey,Republic of Ireland,0,0,Friendly,İzmir,Turkey,False
+1990-09-05,Hungary,Turkey,4,1,Friendly,Budapest,Hungary,False
+1990-10-17,Republic of Ireland,Turkey,5,0,UEFA Euro qualification,Dublin,Republic of Ireland,False
+1990-11-14,Turkey,Poland,0,1,UEFA Euro qualification,Istanbul,Turkey,False
+1991-02-27,Turkey,Yugoslavia,1,1,Friendly,İzmir,Turkey,False
+1991-03-27,Tunisia,Turkey,0,0,Friendly,Tunis,Tunisia,False
+1991-04-17,Poland,Turkey,3,0,UEFA Euro qualification,Warsaw,Poland,False
+1991-05-01,Turkey,England,0,1,UEFA Euro qualification,İzmir,Turkey,False
+1991-07-15,Faroe Islands,Turkey,1,1,Friendly,Tórshavn,Faroe Islands,False
+1991-07-17,Iceland,Turkey,5,1,Friendly,Reykjavík,Iceland,False
+1991-08-21,Bulgaria,Turkey,0,0,Friendly,Stara Zagora,Bulgaria,False
+1991-09-04,Turkey,United States,1,1,Friendly,Istanbul,Turkey,False
+1991-10-16,England,Turkey,1,0,UEFA Euro qualification,London,England,False
+1991-11-13,Turkey,Republic of Ireland,1,3,UEFA Euro qualification,Istanbul,Turkey,False
+1992-02-12,Turkey,Finland,1,1,Friendly,Adana,Turkey,False
+1992-03-25,Luxembourg,Turkey,2,3,Friendly,Luxembourg,Luxembourg,False
+1992-04-08,Turkey,Denmark,2,1,Friendly,Ankara,Turkey,False
+1992-05-30,Germany,Turkey,1,0,Friendly,Gelsenkirchen,Germany,False
+1992-08-26,Turkey,Bulgaria,3,2,Friendly,Trabzon,Turkey,False
+1992-09-23,Poland,Turkey,1,0,FIFA World Cup qualification,Poznań,Poland,False
+1992-10-28,Turkey,San Marino,4,1,FIFA World Cup qualification,Ankara,Turkey,False
+1992-11-18,England,Turkey,4,0,FIFA World Cup qualification,London,England,False
+1992-12-16,Turkey,Netherlands,1,3,FIFA World Cup qualification,Istanbul,Turkey,False
+1993-02-24,Netherlands,Turkey,3,1,FIFA World Cup qualification,Utrecht,Netherlands,False
+1993-03-10,San Marino,Turkey,0,0,FIFA World Cup qualification,Serravalle,San Marino,False
+1993-03-31,Turkey,England,0,2,FIFA World Cup qualification,İzmir,Turkey,False
+1993-04-28,Norway,Turkey,3,1,FIFA World Cup qualification,Oslo,Norway,False
+1993-10-27,Turkey,Poland,2,1,FIFA World Cup qualification,Istanbul,Turkey,False
+1993-11-10,Turkey,Norway,2,1,FIFA World Cup qualification,Istanbul,Turkey,False
+1994-02-23,Turkey,Czech Republic,1,4,Friendly,Istanbul,Turkey,False
+1994-04-20,Turkey,Russia,0,1,Friendly,Bursa,Turkey,False
+1994-08-31,North Macedonia,Turkey,0,2,Friendly,Skopje,North Macedonia,False
+1994-09-07,Hungary,Turkey,2,2,UEFA Euro qualification,Budapest,Hungary,False
+1994-10-12,Turkey,Iceland,5,0,UEFA Euro qualification,Istanbul,Turkey,False
+1994-12-14,Turkey,Switzerland,1,2,UEFA Euro qualification,Istanbul,Turkey,False
+1994-12-21,Italy,Turkey,3,1,Friendly,Pescara,Italy,False
+1995-02-15,Turkey,Romania,1,1,Friendly,İzmir,Turkey,False
+1995-03-08,Turkey,Israel,2,1,Friendly,Istanbul,Turkey,False
+1995-03-29,Turkey,Sweden,2,1,UEFA Euro qualification,Istanbul,Turkey,False
+1995-04-26,Switzerland,Turkey,1,2,UEFA Euro qualification,Bern,Switzerland,False
+1995-06-04,Canada,Turkey,1,3,Friendly,Toronto,Canada,False
+1995-06-07,Canada,Turkey,0,3,Friendly,Montreal,Canada,False
+1995-06-11,Honduras,Turkey,0,1,Friendly,Toronto,Canada,True
+1995-06-20,New Zealand,Turkey,1,2,Friendly,Coquimbo,Chile,True
+1995-06-22,Chile,Turkey,0,0,Friendly,Santiago,Chile,False
+1995-08-30,Turkey,North Macedonia,2,1,Friendly,Istanbul,Turkey,False
+1995-09-06,Turkey,Hungary,2,0,UEFA Euro qualification,Istanbul,Turkey,False
+1995-10-04,Finland,Turkey,0,0,Friendly,Helsinki,Finland,False
+1995-10-11,Iceland,Turkey,0,0,UEFA Euro qualification,Reykjavík,Iceland,False
+1995-11-15,Sweden,Turkey,2,2,UEFA Euro qualification,Solna,Sweden,False
+1996-02-14,Turkey,Belarus,3,2,Friendly,İzmir,Turkey,False
+1996-03-26,Czech Republic,Turkey,3,0,Friendly,Ostrava,Czech Republic,False
+1996-04-09,Azerbaijan,Turkey,0,1,Friendly,Baku,Azerbaijan,False
+1996-05-01,Turkey,Ukraine,3,2,Friendly,Samsun,Turkey,False
+1996-05-29,Estonia,Turkey,0,0,Friendly,Tallinn,Estonia,False
+1996-06-02,Finland,Turkey,1,2,Friendly,Helsinki,Finland,False
+1996-06-11,Turkey,Croatia,0,1,UEFA Euro,Nottingham,England,True
+1996-06-14,Portugal,Turkey,1,0,UEFA Euro,Nottingham,England,True
+1996-06-19,Turkey,Denmark,0,3,UEFA Euro,Sheffield,England,True
+1996-08-14,Turkey,Moldova,2,0,Friendly,Istanbul,Turkey,False
+1996-08-31,Belgium,Turkey,2,1,FIFA World Cup qualification,Brussels,Belgium,False
+1996-10-09,France,Turkey,4,0,Friendly,Paris,France,False
+1996-11-10,Turkey,San Marino,7,0,FIFA World Cup qualification,Istanbul,Turkey,False
+1996-12-14,Wales,Turkey,0,0,FIFA World Cup qualification,Cardiff,Wales,False
+1997-02-12,Turkey,Finland,1,1,Friendly,Denizli,Turkey,False
+1997-04-02,Turkey,Netherlands,1,0,FIFA World Cup qualification,Bursa,Turkey,False
+1997-04-30,Turkey,Belgium,1,3,FIFA World Cup qualification,Istanbul,Turkey,False
+1997-06-12,Croatia,Turkey,1,1,Kirin Cup,Sendai,Japan,True
+1997-06-15,Japan,Turkey,1,0,Kirin Cup,Osaka,Japan,False
+1997-08-20,Turkey,Wales,6,4,FIFA World Cup qualification,Istanbul,Turkey,False
+1997-09-10,San Marino,Turkey,0,5,FIFA World Cup qualification,Serravalle,San Marino,False
+1997-10-11,Netherlands,Turkey,0,0,FIFA World Cup qualification,Amsterdam,Netherlands,False
+1998-01-21,Turkey,Albania,1,4,Friendly,Antalya,Turkey,False
+1998-02-18,Israel,Turkey,4,0,Friendly,Ramat Gan,Israel,False
+1998-04-22,Russia,Turkey,1,0,Friendly,Moscow,Russia,False
+1998-09-05,Turkey,Northern Ireland,3,0,UEFA Euro qualification,Istanbul,Turkey,False
+1998-10-10,Turkey,Germany,1,0,UEFA Euro qualification,Bursa,Turkey,False
+1998-10-14,Turkey,Finland,1,3,UEFA Euro qualification,Istanbul,Turkey,False
+1999-03-27,Turkey,Moldova,2,0,UEFA Euro qualification,Istanbul,Turkey,False
+1999-06-05,Finland,Turkey,2,4,UEFA Euro qualification,Helsinki,Finland,False
+1999-09-04,Northern Ireland,Turkey,0,3,UEFA Euro qualification,Belfast,Northern Ireland,False
+1999-09-08,Moldova,Turkey,1,1,UEFA Euro qualification,Chișinău,Moldova,False
+1999-10-09,Germany,Turkey,0,0,UEFA Euro qualification,Munich,Germany,False
+1999-11-13,Republic of Ireland,Turkey,1,1,UEFA Euro qualification,Dublin,Republic of Ireland,False
+1999-11-17,Turkey,Republic of Ireland,0,0,UEFA Euro qualification,Bursa,Turkey,False
+2000-02-23,Turkey,Norway,0,2,Friendly,Istanbul,Turkey,False
+2000-06-11,Turkey,Italy,1,2,UEFA Euro,Arnhem,Netherlands,True
+2000-06-15,Sweden,Turkey,0,0,UEFA Euro,Eindhoven,Netherlands,True
+2000-06-19,Belgium,Turkey,0,2,UEFA Euro,Brussels,Belgium,False
+2000-06-24,Turkey,Portugal,0,2,UEFA Euro,Amsterdam,Netherlands,True
+2000-08-16,Bosnia and Herzegovina,Turkey,2,0,Friendly,Sarajevo,Bosnia and Herzegovina,False
+2000-09-02,Turkey,Moldova,2,0,FIFA World Cup qualification,Istanbul,Turkey,False
+2000-10-07,Sweden,Turkey,1,1,FIFA World Cup qualification,Gothenburg,Sweden,False
+2000-10-11,Azerbaijan,Turkey,0,1,FIFA World Cup qualification,Baku,Azerbaijan,False
+2000-11-15,Turkey,France,0,4,Friendly,Istanbul,Turkey,False
+2001-02-28,Netherlands,Turkey,0,0,Friendly,Amsterdam,Netherlands,False
+2001-03-24,Turkey,Slovakia,1,1,FIFA World Cup qualification,Istanbul,Turkey,False
+2001-03-28,North Macedonia,Turkey,1,2,FIFA World Cup qualification,Skopje,North Macedonia,False
+2001-04-25,Turkey,Albania,0,2,Friendly,Gaziantep,Turkey,False
+2001-06-02,Turkey,Azerbaijan,3,0,FIFA World Cup qualification,Istanbul,Turkey,False
+2001-06-06,Turkey,North Macedonia,3,3,FIFA World Cup qualification,Bursa,Turkey,False
+2001-08-15,Norway,Turkey,1,1,Friendly,Oslo,Norway,False
+2001-09-01,Slovakia,Turkey,0,1,FIFA World Cup qualification,Bratislava,Slovakia,False
+2001-09-05,Turkey,Sweden,1,2,FIFA World Cup qualification,Istanbul,Turkey,False
+2001-10-06,Moldova,Turkey,0,3,FIFA World Cup qualification,Chișinău,Moldova,False
+2001-11-10,Austria,Turkey,0,1,FIFA World Cup qualification,Vienna,Austria,False
+2001-11-14,Turkey,Austria,5,0,FIFA World Cup qualification,Istanbul,Turkey,False
+2002-02-12,Turkey,Ecuador,0,1,Friendly,Breda,Netherlands,True
+2002-03-26,South Korea,Turkey,0,0,Friendly,Bochum,Germany,True
+2002-04-17,Turkey,Chile,2,0,Friendly,Kerkrade,Netherlands,True
+2002-05-23,South Africa,Turkey,2,0,Friendly,So Kon Po,Hong Kong,True
+2002-06-03,Brazil,Turkey,2,1,FIFA World Cup,Ulsan,South Korea,True
+2002-06-09,Costa Rica,Turkey,1,1,FIFA World Cup,Incheon,South Korea,True
+2002-06-13,Turkey,China PR,3,0,FIFA World Cup,Seoul,South Korea,True
+2002-06-18,Japan,Turkey,0,1,FIFA World Cup,Rifu,Japan,False
+2002-06-22,Senegal,Turkey,0,1,FIFA World Cup,Osaka,Japan,True
+2002-06-26,Brazil,Turkey,1,0,FIFA World Cup,Saitama,Japan,True
+2002-06-29,South Korea,Turkey,2,3,FIFA World Cup,Daegu,South Korea,False
+2002-08-21,Turkey,Georgia,3,0,Friendly,Trabzon,Turkey,False
+2002-09-07,Turkey,Slovakia,3,0,UEFA Euro qualification,Istanbul,Turkey,False
+2002-10-12,North Macedonia,Turkey,1,2,UEFA Euro qualification,Skopje,North Macedonia,False
+2002-10-16,Turkey,Liechtenstein,5,0,UEFA Euro qualification,Istanbul,Turkey,False
+2002-11-20,Italy,Turkey,1,1,Friendly,Pescara,Italy,False
+2003-02-12,Turkey,Ukraine,0,0,Friendly,İzmir,Turkey,False
+2003-04-02,England,Turkey,2,0,UEFA Euro qualification,Sunderland,England,False
+2003-04-30,Czech Republic,Turkey,4,0,Friendly,Teplice,Czech Republic,False
+2003-06-07,Slovakia,Turkey,0,1,UEFA Euro qualification,Bratislava,Slovakia,False
+2003-06-11,Turkey,North Macedonia,3,2,UEFA Euro qualification,Istanbul,Turkey,False
+2003-06-19,Turkey,United States,2,1,Confederations Cup,Saint-Étienne,France,True
+2003-06-21,Cameroon,Turkey,1,0,Confederations Cup,Saint-Denis,France,True
+2003-06-23,Brazil,Turkey,2,2,Confederations Cup,Saint-Étienne,France,True
+2003-06-26,France,Turkey,3,2,Confederations Cup,Saint-Denis,France,False
+2003-06-28,Colombia,Turkey,1,2,Confederations Cup,Saint-Étienne,France,True
+2003-08-20,Turkey,Moldova,2,0,Friendly,Ankara,Turkey,False
+2003-09-06,Liechtenstein,Turkey,0,3,UEFA Euro qualification,Vaduz,Liechtenstein,False
+2003-09-09,Republic of Ireland,Turkey,2,2,Friendly,Dublin,Republic of Ireland,False
+2003-10-11,Turkey,England,0,0,UEFA Euro qualification,Istanbul,Turkey,False
+2003-11-15,Latvia,Turkey,1,0,UEFA Euro qualification,Riga,Latvia,False
+2003-11-19,Turkey,Latvia,2,2,UEFA Euro qualification,Istanbul,Turkey,False
+2004-03-31,Croatia,Turkey,2,2,Friendly,Zagreb,Croatia,False
+2004-04-28,Belgium,Turkey,2,3,Friendly,Brussels,Belgium,False
+2004-05-21,Australia,Turkey,1,3,Friendly,Sydney,Australia,False
+2004-05-24,Australia,Turkey,0,1,Friendly,Melbourne,Australia,False
+2004-06-02,South Korea,Turkey,0,1,Friendly,Seoul,South Korea,False
+2004-06-05,South Korea,Turkey,2,1,Friendly,Daegu,South Korea,False
+2004-08-18,Turkey,Belarus,1,2,Friendly,Denizli,Turkey,False
+2004-09-04,Turkey,Georgia,1,1,FIFA World Cup qualification,Trabzon,Turkey,False
+2004-09-08,Greece,Turkey,0,0,FIFA World Cup qualification,Piraeus,Greece,False
+2004-10-09,Turkey,Kazakhstan,4,0,FIFA World Cup qualification,Istanbul,Turkey,False
+2004-10-13,Denmark,Turkey,1,1,FIFA World Cup qualification,Copenhagen,Denmark,False
+2004-11-17,Turkey,Ukraine,0,3,FIFA World Cup qualification,Istanbul,Turkey,False
+2005-03-26,Turkey,Albania,2,0,FIFA World Cup qualification,Istanbul,Turkey,False
+2005-03-30,Georgia,Turkey,2,5,FIFA World Cup qualification,Tbilisi,Georgia,False
+2005-06-04,Turkey,Greece,0,0,FIFA World Cup qualification,Istanbul,Turkey,False
+2005-06-08,Kazakhstan,Turkey,0,6,FIFA World Cup qualification,Almaty,Kazakhstan,False
+2005-08-17,Bulgaria,Turkey,3,1,Friendly,Sofia,Bulgaria,False
+2005-09-03,Turkey,Denmark,2,2,FIFA World Cup qualification,Istanbul,Turkey,False
+2005-09-07,Ukraine,Turkey,0,1,FIFA World Cup qualification,Kyiv,Ukraine,False
+2005-10-08,Turkey,Germany,2,1,Friendly,Istanbul,Turkey,False
+2005-10-12,Albania,Turkey,0,1,FIFA World Cup qualification,Tirana,Albania,False
+2005-11-12,Switzerland,Turkey,2,0,FIFA World Cup qualification,Bern,Switzerland,False
+2005-11-16,Turkey,Switzerland,4,2,FIFA World Cup qualification,Istanbul,Turkey,False
+2006-03-01,Turkey,Czech Republic,2,2,Friendly,İzmir,Turkey,False
+2006-04-12,Azerbaijan,Turkey,1,1,Friendly,Baku,Azerbaijan,False
+2006-05-24,Belgium,Turkey,3,3,Friendly,Genk,Belgium,False
+2006-05-26,Turkey,Ghana,1,1,Friendly,Bochum,Germany,True
+2006-05-28,Turkey,Estonia,1,1,Friendly,Hamburg,Germany,True
+2006-05-31,Saudi Arabia,Turkey,0,1,Friendly,Offenbach am Main,Germany,True
+2006-06-02,Angola,Turkey,2,3,Friendly,Sittard,Netherlands,True
+2006-06-04,Turkey,North Macedonia,0,1,Friendly,Krefeld,Germany,True
+2006-08-16,Luxembourg,Turkey,0,1,Friendly,Luxembourg,Luxembourg,False
+2006-09-06,Turkey,Malta,2,0,UEFA Euro qualification,Frankfurt am Main,Germany,True
+2006-10-07,Hungary,Turkey,0,1,UEFA Euro qualification,Budapest,Hungary,False
+2006-10-11,Turkey,Moldova,5,0,UEFA Euro qualification,Frankfurt am Main,Germany,True
+2006-11-15,Italy,Turkey,1,1,Friendly,Bergamo,Italy,False
+2007-02-07,Georgia,Turkey,1,0,Friendly,Tbilisi,Georgia,False
+2007-03-24,Greece,Turkey,1,4,UEFA Euro qualification,Piraeus,Greece,False
+2007-03-28,Turkey,Norway,2,2,UEFA Euro qualification,Frankfurt am Main,Germany,True
+2007-06-02,Bosnia and Herzegovina,Turkey,3,2,UEFA Euro qualification,Sarajevo,Bosnia and Herzegovina,False
+2007-06-05,Turkey,Brazil,0,0,Friendly,Dortmund,Germany,True
+2007-08-22,Romania,Turkey,2,0,Friendly,Bucharest,Romania,False
+2007-09-08,Malta,Turkey,2,2,UEFA Euro qualification,Attard,Malta,False
+2007-09-12,Turkey,Hungary,3,0,UEFA Euro qualification,Istanbul,Turkey,False
+2007-10-13,Moldova,Turkey,1,1,UEFA Euro qualification,Chișinău,Moldova,False
+2007-10-17,Turkey,Greece,0,1,UEFA Euro qualification,Istanbul,Turkey,False
+2007-11-17,Norway,Turkey,1,2,UEFA Euro qualification,Oslo,Norway,False
+2007-11-21,Turkey,Bosnia and Herzegovina,1,0,UEFA Euro qualification,Istanbul,Turkey,False
+2008-02-06,Turkey,Sweden,0,0,Friendly,Istanbul,Turkey,False
+2008-03-26,Belarus,Turkey,2,2,Friendly,Minsk,Belarus,False
+2008-05-20,Turkey,Slovakia,1,0,Friendly,Bielefeld,Germany,True
+2008-05-25,Turkey,Uruguay,2,3,Friendly,Bochum,Germany,True
+2008-05-29,Finland,Turkey,0,2,Friendly,Duisburg,Germany,True
+2008-06-07,Portugal,Turkey,2,0,UEFA Euro,Geneva,Switzerland,True
+2008-06-11,Switzerland,Turkey,1,2,UEFA Euro,Basel,Switzerland,False
+2008-06-15,Turkey,Czech Republic,3,2,UEFA Euro,Geneva,Switzerland,True
+2008-06-20,Croatia,Turkey,1,1,UEFA Euro,Vienna,Austria,True
+2008-06-25,Germany,Turkey,3,2,UEFA Euro,Basel,Switzerland,True
+2008-08-20,Turkey,Chile,1,0,Friendly,İzmit,Turkey,False
+2008-09-06,Armenia,Turkey,0,2,FIFA World Cup qualification,Yerevan,Armenia,False
+2008-09-10,Turkey,Belgium,1,1,FIFA World Cup qualification,Istanbul,Turkey,False
+2008-10-11,Turkey,Bosnia and Herzegovina,2,1,FIFA World Cup qualification,Istanbul,Turkey,False
+2008-10-15,Estonia,Turkey,0,0,FIFA World Cup qualification,Tallinn,Estonia,False
+2008-11-19,Austria,Turkey,2,4,Friendly,Vienna,Austria,False
+2009-02-11,Turkey,Ivory Coast,1,1,Friendly,İzmir,Turkey,False
+2009-03-28,Spain,Turkey,1,0,FIFA World Cup qualification,Madrid,Spain,False
+2009-04-01,Turkey,Spain,1,2,FIFA World Cup qualification,Istanbul,Turkey,False
+2009-06-02,Turkey,Azerbaijan,2,0,Friendly,Kayseri,Turkey,False
+2009-06-05,France,Turkey,1,0,Friendly,Lyon,France,False
+2009-08-12,Ukraine,Turkey,0,3,Friendly,Kyiv,Ukraine,False
+2009-09-05,Turkey,Estonia,4,2,FIFA World Cup qualification,Kayseri,Turkey,False
+2009-09-09,Bosnia and Herzegovina,Turkey,1,1,FIFA World Cup qualification,Zenica,Bosnia and Herzegovina,False
+2009-10-10,Belgium,Turkey,2,0,FIFA World Cup qualification,Brussels,Belgium,False
+2009-10-14,Turkey,Armenia,2,0,FIFA World Cup qualification,Bursa,Turkey,False
+2010-03-03,Turkey,Honduras,2,0,Friendly,Istanbul,Turkey,False
+2010-05-22,Turkey,Czech Republic,2,1,Friendly,Harrison,United States,True
+2010-05-26,Northern Ireland,Turkey,0,2,Friendly,New Britain,United States,True
+2010-05-29,United States,Turkey,2,1,Friendly,Philadelphia,United States,False
+2010-08-11,Turkey,Romania,2,0,Friendly,Istanbul,Turkey,False
+2010-09-03,Kazakhstan,Turkey,0,3,UEFA Euro qualification,Astana,Kazakhstan,False
+2010-09-07,Turkey,Belgium,3,2,UEFA Euro qualification,Istanbul,Turkey,False
+2010-10-08,Germany,Turkey,3,0,UEFA Euro qualification,Berlin,Germany,False
+2010-10-12,Azerbaijan,Turkey,1,0,UEFA Euro qualification,Baku,Azerbaijan,False
+2010-11-17,Netherlands,Turkey,1,0,Friendly,Amsterdam,Netherlands,False
+2011-02-09,Turkey,South Korea,0,0,Friendly,Trabzon,Turkey,False
+2011-03-29,Turkey,Austria,2,0,UEFA Euro qualification,Istanbul,Turkey,False
+2011-06-03,Belgium,Turkey,1,1,UEFA Euro qualification,Brussels,Belgium,False
+2011-08-10,Turkey,Estonia,3,0,Friendly,Istanbul,Turkey,False
+2011-09-02,Turkey,Kazakhstan,2,1,UEFA Euro qualification,Istanbul,Turkey,False
+2011-09-06,Austria,Turkey,0,0,UEFA Euro qualification,Vienna,Austria,False
+2011-10-07,Turkey,Germany,1,3,UEFA Euro qualification,Istanbul,Turkey,False
+2011-10-11,Turkey,Azerbaijan,1,0,UEFA Euro qualification,Istanbul,Turkey,False
+2011-11-11,Turkey,Croatia,0,3,UEFA Euro qualification,Istanbul,Turkey,False
+2011-11-15,Croatia,Turkey,0,0,UEFA Euro qualification,Zagreb,Croatia,False
+2012-02-29,Turkey,Slovakia,1,2,Friendly,Bursa,Turkey,False
+2012-05-24,Georgia,Turkey,1,3,Friendly,Salzburg,Austria,True
+2012-05-26,Finland,Turkey,3,2,Friendly,Salzburg,Austria,True
+2012-05-29,Bulgaria,Turkey,0,2,Friendly,Salzburg,Austria,True
+2012-06-02,Portugal,Turkey,1,3,Friendly,Lisbon,Portugal,False
+2012-06-05,Turkey,Ukraine,2,0,Friendly,Ingolstadt,Germany,True
+2012-08-15,Austria,Turkey,2,0,Friendly,Vienna,Austria,False
+2012-09-07,Netherlands,Turkey,2,0,FIFA World Cup qualification,Amsterdam,Netherlands,False
+2012-09-11,Turkey,Estonia,3,0,FIFA World Cup qualification,Istanbul,Turkey,False
+2012-10-12,Turkey,Romania,0,1,FIFA World Cup qualification,Istanbul,Turkey,False
+2012-10-16,Hungary,Turkey,3,1,FIFA World Cup qualification,Budapest,Hungary,False
+2012-11-14,Turkey,Denmark,1,1,Friendly,Istanbul,Turkey,False
+2013-02-06,Turkey,Czech Republic,0,2,Friendly,Manisa,Turkey,False
+2013-03-22,Andorra,Turkey,0,2,FIFA World Cup qualification,Sant Julià de Lòria,Andorra,False
+2013-03-26,Turkey,Hungary,1,1,FIFA World Cup qualification,Istanbul,Turkey,False
+2013-05-28,Turkey,Latvia,3,3,Friendly,Duisburg,Germany,True
+2013-05-31,Turkey,Slovenia,0,2,Friendly,Bielefeld,Germany,True
+2013-08-14,Turkey,Ghana,2,2,Friendly,Istanbul,Turkey,False
+2013-09-06,Turkey,Andorra,5,0,FIFA World Cup qualification,Kayseri,Turkey,False
+2013-09-10,Romania,Turkey,0,2,FIFA World Cup qualification,Bucharest,Romania,False
+2013-10-11,Estonia,Turkey,0,2,FIFA World Cup qualification,Tallinn,Estonia,False
+2013-10-15,Turkey,Netherlands,0,2,FIFA World Cup qualification,Istanbul,Turkey,False
+2013-11-15,Turkey,Northern Ireland,1,0,Friendly,Adana,Turkey,False
+2013-11-19,Turkey,Belarus,2,1,Friendly,Mersin,Turkey,False
+2014-03-05,Turkey,Sweden,2,1,Friendly,Ankara,Turkey,False
+2014-05-21,Kosovo,Turkey,1,6,Friendly,Mitrovica,Kosovo,False
+2014-05-25,Republic of Ireland,Turkey,1,2,Friendly,Dublin,Republic of Ireland,False
+2014-06-01,United States,Turkey,2,1,Friendly,Harrison,United States,False
+2014-09-03,Denmark,Turkey,1,2,Friendly,Odense,Denmark,False
+2014-09-09,Iceland,Turkey,3,0,UEFA Euro qualification,Reykjavík,Iceland,False
+2014-10-10,Turkey,Czech Republic,1,2,UEFA Euro qualification,Istanbul,Turkey,False
+2014-10-13,Latvia,Turkey,1,1,UEFA Euro qualification,Riga,Latvia,False
+2014-11-12,Turkey,Brazil,0,4,Friendly,Istanbul,Turkey,False
+2014-11-16,Turkey,Kazakhstan,3,1,UEFA Euro qualification,Istanbul,Turkey,False
+2015-03-28,Netherlands,Turkey,1,1,UEFA Euro qualification,Amsterdam,Netherlands,False
+2015-03-31,Luxembourg,Turkey,1,2,Friendly,Luxembourg,Luxembourg,False
+2015-06-08,Turkey,Bulgaria,4,0,Friendly,Istanbul,Turkey,False
+2015-06-12,Kazakhstan,Turkey,0,1,UEFA Euro qualification,Almaty,Kazakhstan,False
+2015-09-03,Turkey,Latvia,1,1,UEFA Euro qualification,Konya,Turkey,False
+2015-09-06,Turkey,Netherlands,3,0,UEFA Euro qualification,Konya,Turkey,False
+2015-10-10,Czech Republic,Turkey,0,2,UEFA Euro qualification,Prague,Czech Republic,False
+2015-10-13,Turkey,Iceland,1,0,UEFA Euro qualification,Konya,Turkey,False
+2015-11-13,Qatar,Turkey,1,2,Friendly,Doha,Qatar,False
+2015-11-17,Turkey,Greece,0,0,Friendly,Istanbul,Turkey,False
+2016-03-24,Turkey,Sweden,2,1,Friendly,Antalya,Turkey,False
+2016-03-29,Austria,Turkey,1,2,Friendly,Vienna,Austria,False
+2016-05-22,England,Turkey,2,1,Friendly,Manchester,England,False
+2016-05-29,Turkey,Montenegro,1,0,Friendly,Antalya,Turkey,False
+2016-06-05,Slovenia,Turkey,0,1,Friendly,Ljubljana,Slovenia,False
+2016-06-12,Turkey,Croatia,0,1,UEFA Euro,Paris,France,True
+2016-06-17,Spain,Turkey,3,0,UEFA Euro,Nice,France,True
+2016-06-21,Czech Republic,Turkey,0,2,UEFA Euro,Lens,France,True
+2016-08-31,Turkey,Russia,0,0,Friendly,Antalya,Turkey,False
+2016-09-05,Croatia,Turkey,1,1,FIFA World Cup qualification,Zagreb,Croatia,False
+2016-10-06,Turkey,Ukraine,2,2,FIFA World Cup qualification,Konya,Turkey,False
+2016-10-09,Iceland,Turkey,2,0,FIFA World Cup qualification,Reykjavík,Iceland,False
+2016-11-12,Turkey,Kosovo,2,0,FIFA World Cup qualification,Antalya,Turkey,False
+2017-03-24,Turkey,Finland,2,0,FIFA World Cup qualification,Antalya,Turkey,False
+2017-03-27,Turkey,Moldova,3,1,Friendly,Eskişehir,Turkey,False
+2017-06-05,North Macedonia,Turkey,0,0,Friendly,Skopje,North Macedonia,False
+2017-06-11,Kosovo,Turkey,1,4,FIFA World Cup qualification,Shkodër,Albania,True
+2017-09-02,Ukraine,Turkey,2,0,FIFA World Cup qualification,Kharkiv,Ukraine,False
+2017-09-05,Turkey,Croatia,1,0,FIFA World Cup qualification,Eskişehir,Turkey,False
+2017-10-06,Turkey,Iceland,0,3,FIFA World Cup qualification,Eskişehir,Turkey,False
+2017-10-09,Finland,Turkey,2,2,FIFA World Cup qualification,Turku,Finland,False
+2017-11-09,Romania,Turkey,2,0,Friendly,Cluj,Romania,False
+2017-11-13,Turkey,Albania,2,3,Friendly,Antalya,Turkey,False
+2018-03-23,Turkey,Republic of Ireland,1,0,Friendly,Antalya,Turkey,False
+2018-03-27,Montenegro,Turkey,2,2,Friendly,Podgorica,Montenegro,False
+2018-05-28,Turkey,Iran,2,1,Friendly,Istanbul,Turkey,False
+2018-06-01,Turkey,Tunisia,2,2,Friendly,Geneva,Switzerland,True
+2018-06-05,Russia,Turkey,1,1,Friendly,Moscow,Russia,False
+2018-09-07,Turkey,Russia,1,2,UEFA Nations League,Trabzon,Turkey,False
+2018-09-10,Sweden,Turkey,2,3,UEFA Nations League,Stockholm,Sweden,False
+2018-10-11,Turkey,Bosnia and Herzegovina,0,0,Friendly,Rize,Turkey,False
+2018-10-14,Russia,Turkey,2,0,UEFA Nations League,Sochi,Russia,False
+2018-11-17,Turkey,Sweden,0,1,UEFA Nations League,Konya,Turkey,False
+2018-11-20,Turkey,Ukraine,0,0,Friendly,Antalya,Turkey,False
+2019-03-22,Albania,Turkey,0,2,UEFA Euro qualification,Shkodër,Albania,False
+2019-03-25,Turkey,Moldova,4,0,UEFA Euro qualification,Eskişehir,Turkey,False
+2019-05-30,Turkey,Greece,2,1,Friendly,Antalya,Turkey,False
+2019-06-02,Turkey,Uzbekistan,2,0,Friendly,Alanya,Turkey,False
+2019-06-08,Turkey,France,2,0,UEFA Euro qualification,Konya,Turkey,False
+2019-06-11,Iceland,Turkey,2,1,UEFA Euro qualification,Reykjavík,Iceland,False
+2019-09-07,Turkey,Andorra,1,0,UEFA Euro qualification,Istanbul,Turkey,False
+2019-09-10,Moldova,Turkey,0,4,UEFA Euro qualification,Chișinău,Moldova,False
+2019-10-11,Turkey,Albania,1,0,UEFA Euro qualification,Istanbul,Turkey,False
+2019-10-14,France,Turkey,1,1,UEFA Euro qualification,Paris,France,False
+2019-11-14,Turkey,Iceland,0,0,UEFA Euro qualification,Istanbul,Turkey,False
+2019-11-17,Andorra,Turkey,0,2,UEFA Euro qualification,Andorra la Vella,Andorra,False
+2020-09-03,Turkey,Hungary,0,1,UEFA Nations League,Sivas,Turkey,False
+2020-09-06,Serbia,Turkey,0,0,UEFA Nations League,Belgrade,Serbia,False
+2020-10-07,Germany,Turkey,3,3,Friendly,Cologne,Germany,False
+2020-10-11,Russia,Turkey,1,1,UEFA Nations League,Moscow,Russia,False
+2020-10-14,Turkey,Serbia,2,2,UEFA Nations League,Istanbul,Turkey,False
+2020-11-11,Turkey,Croatia,3,3,Friendly,Istanbul,Turkey,False
+2020-11-15,Turkey,Russia,3,2,UEFA Nations League,Istanbul,Turkey,False
+2020-11-18,Hungary,Turkey,2,0,UEFA Nations League,Budapest,Hungary,False
+2021-03-24,Turkey,Netherlands,4,2,FIFA World Cup qualification,Istanbul,Turkey,False
+2021-03-27,Norway,Turkey,0,3,FIFA World Cup qualification,Málaga,Spain,True
+2021-03-30,Turkey,Latvia,3,3,FIFA World Cup qualification,Istanbul,Turkey,False
+2021-05-27,Turkey,Azerbaijan,2,1,Friendly,Alanya,Turkey,False
+2021-05-31,Turkey,Guinea,0,0,Friendly,Antalya,Turkey,False
+2021-06-03,Turkey,Moldova,2,0,Friendly,Paderborn,Germany,True
+2021-06-11,Italy,Turkey,3,0,UEFA Euro,Rome,Italy,False
+2021-06-16,Turkey,Wales,0,2,UEFA Euro,Baku,Azerbaijan,True
+2021-06-20,Switzerland,Turkey,3,1,UEFA Euro,Baku,Azerbaijan,True
+2021-09-01,Turkey,Montenegro,2,2,FIFA World Cup qualification,Istanbul,Turkey,False
+2021-09-04,Gibraltar,Turkey,0,3,FIFA World Cup qualification,Gibraltar,Gibraltar,False
+2021-09-07,Netherlands,Turkey,6,1,FIFA World Cup qualification,Amsterdam,Netherlands,False
+2021-10-08,Turkey,Norway,1,1,FIFA World Cup qualification,Istanbul,Turkey,False
+2021-10-11,Latvia,Turkey,1,2,FIFA World Cup qualification,Riga,Latvia,False
+2021-11-13,Turkey,Gibraltar,6,0,FIFA World Cup qualification,Istanbul,Turkey,False
+2021-11-16,Montenegro,Turkey,1,2,FIFA World Cup qualification,Podgorica,Montenegro,False
+2022-03-24,Portugal,Turkey,3,1,FIFA World Cup qualification,Porto,Portugal,False
+2022-03-29,Turkey,Italy,2,3,Friendly,Konya,Turkey,False
+2022-06-04,Turkey,Faroe Islands,4,0,UEFA Nations League,Istanbul,Turkey,False
+2022-06-07,Lithuania,Turkey,0,6,UEFA Nations League,Vilnius,Lithuania,False
+2022-06-11,Luxembourg,Turkey,0,2,UEFA Nations League,Luxembourg,Luxembourg,False
+2022-06-14,Turkey,Lithuania,2,0,UEFA Nations League,İzmir,Turkey,False
+2022-09-22,Turkey,Luxembourg,3,3,UEFA Nations League,Istanbul,Turkey,False
+2022-09-25,Faroe Islands,Turkey,2,1,UEFA Nations League,Tórshavn,Faroe Islands,False
+2022-11-16,Turkey,Scotland,2,1,Friendly,Diyarbakir,Turkey,False
+2022-11-19,Turkey,Czech Republic,2,1,Friendly,Gaziantep,Turkey,False
+2023-03-25,Armenia,Turkey,1,2,UEFA Euro qualification,Yerevan,Armenia,False
+2023-03-28,Turkey,Croatia,0,2,UEFA Euro qualification,Bursa,Turkey,False
+2023-06-16,Latvia,Turkey,2,3,UEFA Euro qualification,Riga,Latvia,False
+2023-06-19,Turkey,Wales,2,0,UEFA Euro qualification,Samsun,Turkey,False
+2023-09-08,Turkey,Armenia,1,1,UEFA Euro qualification,Eskişehir,Turkey,False
+2023-09-12,Japan,Turkey,4,2,Friendly,Genk,Belgium,True
+2023-10-12,Croatia,Turkey,0,1,UEFA Euro qualification,Osijek,Croatia,False
+2023-10-15,Turkey,Latvia,4,0,UEFA Euro qualification,Konya,Turkey,False
+2023-11-18,Germany,Turkey,2,3,Friendly,Berlin,Germany,False
+2023-11-21,Wales,Turkey,1,1,UEFA Euro qualification,Cardiff,Wales,False
+2024-03-22,Hungary,Turkey,1,0,Friendly,Budapest,Hungary,False
+2024-03-26,Austria,Turkey,6,1,Friendly,Vienna,Austria,False
+2024-06-04,Italy,Turkey,0,0,Friendly,Bologna,Italy,False
+2024-06-10,Poland,Turkey,2,1,Friendly,Warsaw,Poland,False
+2024-06-18,Turkey,Georgia,3,1,UEFA Euro,Dortmund,Germany,True
+2024-06-22,Turkey,Portugal,0,3,UEFA Euro,Dortmund,Germany,True
+2024-06-26,Czech Republic,Turkey,1,2,UEFA Euro,Hamburg,Germany,True
+2024-07-02,Austria,Turkey,1,2,UEFA Euro,Leipzig,Germany,True
+2024-07-06,Netherlands,Turkey,2,1,UEFA Euro,Berlin,Germany,True
+2024-09-06,Wales,Turkey,0,0,UEFA Nations League,Cardiff,Wales,False
+2024-09-09,Turkey,Iceland,3,1,UEFA Nations League,Izmir,Turkey,False
+2024-10-11,Turkey,Montenegro,1,0,UEFA Nations League,Tekkeköy,Turkey,False
+2024-10-14,Iceland,Turkey,2,4,UEFA Nations League,Reykjavík,Iceland,False
+2024-11-16,Turkey,Wales,0,0,UEFA Nations League,Kayseri,Turkey,False
+2024-11-19,Montenegro,Turkey,3,1,UEFA Nations League,Podgorica,Montenegro,False
+2025-03-20,Turkey,Hungary,3,1,UEFA Nations League,Istanbul,Turkey,False
+2025-03-23,Hungary,Turkey,0,3,UEFA Nations League,Budapest,Hungary,False

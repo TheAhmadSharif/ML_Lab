@@ -1,0 +1,35 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1977-01-05,Northern Cyprus,Turkey,0,1,Friendly,Kyrenia,Cyprus,False
+1980-09-28,Turkey,Northern Cyprus,5,0,Friendly,İzmir,Turkey,False
+1980-09-30,Northern Cyprus,Saudi Arabia,0,2,Friendly,İzmir,Turkey,True
+2006-01-27,Northern Cyprus,Kyrgyzstan,3,2,Friendly,Nicosia,Northern Cyprus,False
+2006-05-29,Northern Cyprus,Greenland,1,0,FIFI Wild Cup,Hamburg,Germany,True
+2006-05-30,Zanzibar,Northern Cyprus,1,3,FIFI Wild Cup,Hamburg,Germany,True
+2006-06-01,Northern Cyprus,Gibraltar,2,0,FIFI Wild Cup,Hamburg,Germany,True
+2006-06-03,Northern Cyprus,Zanzibar,0,0,FIFI Wild Cup,Hamburg,Germany,True
+2006-11-19,Northern Cyprus,Crimea,5,0,ELF Cup,Lefkoşa,Northern Cyprus,False
+2006-11-20,Northern Cyprus,Tajikistan,5,1,ELF Cup,Güzelyurt,Northern Cyprus,False
+2006-11-21,Northern Cyprus,Tibet,10,0,ELF Cup,Gazimağusa,Northern Cyprus,False
+2006-11-23,Northern Cyprus,Zanzibar,5,0,ELF Cup,Lefkoşa,Northern Cyprus,False
+2006-11-25,Northern Cyprus,Crimea,3,1,ELF Cup,Lefkoşa,Northern Cyprus,False
+2007-01-24,Zanzibar,Northern Cyprus,2,1,Friendly,Zanzibar City,Zanzibar,False
+2012-06-04,Northern Cyprus,Darfur,15,0,Viva World Cup,Erbil,Iraq,True
+2012-06-06,Provence,Northern Cyprus,2,1,Viva World Cup,Erbil,Iraq,True
+2012-06-08,Zanzibar,Northern Cyprus,0,2,Viva World Cup,Duhok,Iraq,True
+2012-06-09,Iraqi Kurdistan,Northern Cyprus,2,1,Viva World Cup,Erbil,Iraq,False
+2016-05-29,Padania,Northern Cyprus,1,2,CONIFA World Football Cup,Gagra,Georgia,True
+2016-05-31,Northern Cyprus,Raetia,7,0,CONIFA World Football Cup,Gagra,Georgia,True
+2016-06-01,United Koreans in Japan,Northern Cyprus,1,1,CONIFA World Football Cup,Sukhumi,Georgia,True
+2016-06-04,Abkhazia,Northern Cyprus,2,0,CONIFA World Football Cup,Sukhumi,Georgia,False
+2016-06-05,Padania,Northern Cyprus,0,2,CONIFA World Football Cup,Sukhumi,Georgia,True
+2017-06-04,Northern Cyprus,Kárpátalja,1,0,CONIFA European Football Cup,Nicosia,Northern Cyprus,False
+2017-06-06,Northern Cyprus,South Ossetia,8,0,CONIFA European Football Cup,Kyrenia,Northern Cyprus,False
+2017-06-07,Northern Cyprus,Abkhazia,0,0,CONIFA European Football Cup,Morphou,Northern Cyprus,False
+2017-06-09,Northern Cyprus,Székely Land,2,1,CONIFA European Football Cup,Nicosia,Northern Cyprus,False
+2017-06-10,Northern Cyprus,Padania,1,1,CONIFA European Football Cup,Nicosia,Northern Cyprus,False
+2018-05-31,Northern Cyprus,Kárpátalja,1,1,CONIFA World Football Cup,Enfield,England,True
+2018-06-02,Northern Cyprus,Tibet,3,1,CONIFA World Football Cup,Enfield,England,True
+2018-06-03,Abkhazia,Northern Cyprus,2,2,CONIFA World Football Cup,Enfield,England,True
+2018-06-05,Barawa,Northern Cyprus,0,8,CONIFA World Football Cup,Sutton,England,False
+2018-06-07,Northern Cyprus,Padania,3,2,CONIFA World Football Cup,Carshalton,England,True
+2018-06-09,Northern Cyprus,Kárpátalja,0,0,CONIFA World Football Cup,Enfield,England,True

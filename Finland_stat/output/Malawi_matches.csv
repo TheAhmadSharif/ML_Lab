@@ -1,0 +1,634 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1957-08-28,Malawi,Zambia,0,5,Friendly,Blantyre,Nyasaland,False
+1962-10-15,Malawi,Ghana,0,12,Friendly,Blantyre,Nyasaland,False
+1962-12-08,Tanzania,Malawi,6,2,Friendly,Dar es Salaam,Tanganyika,False
+1963-07-06,Zambia,Malawi,5,1,Friendly,Kitwe,Northern Rhodesia,False
+1964-07-04,Malawi,Zambia,0,5,Friendly,Blantyre,Nyasaland,False
+1966-07-01,Zambia,Malawi,4,1,Friendly,Ndola,Zambia,False
+1966-07-04,Malawi,Zambia,0,3,Friendly,Blantyre,Malawi,False
+1966-07-06,Malawi,Zambia,0,6,Friendly,Blantyre,Malawi,False
+1966-07-08,Malawi,Zambia,1,5,Friendly,Blantyre,Malawi,False
+1966-07-09,Malawi,Madagascar,1,6,Friendly,Lilongwe,Malawi,False
+1967-11-12,Zimbabwe,Malawi,1,0,Friendly,Salisbury,Southern Rhodesia,False
+1968-05-01,Eswatini,Malawi,2,0,Friendly,Mbabane,Swaziland,False
+1968-07-06,Malawi,Kenya,2,2,Friendly,Blantyre,Malawi,False
+1968-07-13,Malawi,Botswana,8,1,Friendly,Blantyre,Malawi,False
+1968-07-20,Eswatini,Malawi,2,0,Friendly,Mbabane,Swaziland,False
+1969-02-01,Malawi,Zimbabwe,2,2,Friendly,Zomba,Malawi,False
+1969-02-08,Zimbabwe,Malawi,4,0,Friendly,Salisbury,Southern Rhodesia,False
+1969-02-09,Zimbabwe,Malawi,1,1,Friendly,Salisbury,Southern Rhodesia,False
+1969-07-01,Madagascar,Malawi,3,0,Friendly,Antananarivo,Madagascar,False
+1969-07-06,Malawi,Eswatini,3,0,Friendly,Blantyre,Malawi,False
+1969-08-30,Zambia,Malawi,4,0,Friendly,Lusaka,Zambia,False
+1969-08-31,Zambia,Malawi,5,0,Friendly,Ndola,Zambia,False
+1969-09-02,Zambia,Malawi,7,0,Friendly,Kitwe,Zambia,False
+1969-12-01,Malawi,Zimbabwe,2,2,Friendly,Blantyre,Malawi,False
+1970-07-06,Malawi,Mauritius,1,0,Friendly,Zomba,Malawi,False
+1970-07-09,Malawi,Mauritius,0,0,Friendly,Lilongwe,Malawi,False
+1970-08-08,Malawi,Lesotho,1,2,Friendly,Lilongwe,Malawi,False
+1970-08-10,Malawi,Lesotho,6,1,Friendly,Lilongwe,Malawi,False
+1970-12-19,Senegal,Malawi,4,1,Friendly,Dakar,Senegal,False
+1971-03-18,Malawi,Zambia,5,4,Friendly,Zomba,Malawi,False
+1971-03-20,Malawi,Zambia,1,3,Friendly,Blantyre,Malawi,False
+1971-03-23,Malawi,Zambia,0,3,Friendly,Blantyre,Malawi,False
+1971-05-25,Uganda,Malawi,3,3,Friendly,Kampala,Uganda,False
+1971-07-06,Malawi,Uganda,3,1,Friendly,Blantyre,Malawi,False
+1971-07-10,Malawi,Uganda,0,1,Friendly,Blantyre,Malawi,False
+1971-10-08,Lesotho,Malawi,0,0,Friendly,Maseru,Lesotho,False
+1971-10-10,Lesotho,Malawi,0,2,Friendly,Maseru,Lesotho,False
+1972-07-06,Malawi,Lesotho,1,0,Friendly,Blantyre,Malawi,False
+1972-07-08,Malawi,Lesotho,4,0,Friendly,Blantyre,Malawi,False
+1972-10-15,Malawi,Kenya,0,1,Friendly,Lilongwe,Malawi,False
+1972-10-22,Malawi,Kenya,2,1,Friendly,Blantyre,Malawi,False
+1973-07-06,Malawi,Mauritius,4,1,Friendly,Lilongwe,Malawi,False
+1973-07-08,Malawi,Mauritius,1,0,Friendly,Lilongwe,Malawi,False
+1973-08-06,Eswatini,Malawi,0,1,Friendly,Mbabane,Swaziland,False
+1974-01-13,Mauritius,Malawi,4,1,Friendly,Port Louis,Mauritius,False
+1974-01-17,Mauritius,Malawi,2,1,Friendly,Port Louis,Mauritius,False
+1974-01-20,Mauritius,Malawi,2,2,Friendly,Port Louis,Mauritius,False
+1974-07-06,Malawi,Ivory Coast,5,1,Friendly,Lilongwe,Malawi,False
+1974-07-07,Malawi,Tanzania,1,0,Friendly,Lilongwe,Malawi,False
+1974-07-08,Malawi,Zambia,0,1,Friendly,Lilongwe,Malawi,False
+1974-12-29,Malawi,Tanzania,1,1,Friendly,Lilongwe,Malawi,False
+1974-12-31,Malawi,Tanzania,3,3,Friendly,Lilongwe,Malawi,False
+1975-01-29,Malawi,Mauritius,1,0,Friendly,Zomba,Malawi,False
+1975-01-31,Malawi,Mauritius,1,1,Friendly,Blantyre,Malawi,False
+1975-02-02,Malawi,Mauritius,3,0,Friendly,Blantyre,Malawi,False
+1975-02-23,Tanzania,Malawi,3,1,Friendly,Dar es Salaam,Tanzania,False
+1975-02-25,Tanzania,Malawi,2,0,Friendly,Dar es Salaam,Tanzania,False
+1975-02-27,Zanzibar,Malawi,2,7,Friendly,Zanzibar City,Zanzibar,False
+1975-03-30,Malawi,Zambia,1,6,African Cup of Nations qualification,Blantyre,Malawi,False
+1975-04-14,Zambia,Malawi,3,3,African Cup of Nations qualification,Lusaka,Zambia,False
+1975-07-06,Malawi,Kenya,3,3,Friendly,Blantyre,Malawi,False
+1975-07-08,Malawi,Kenya,1,2,Friendly,Blantyre,Malawi,False
+1975-07-10,Malawi,Kenya,3,1,Friendly,Lilongwe,Malawi,False
+1975-11-01,Malawi,Tanzania,3,1,CECAFA Cup,Ndola,Zambia,True
+1975-11-03,Malawi,Zanzibar,4,2,CECAFA Cup,Kitwe,Zambia,True
+1975-11-07,Malawi,Uganda,2,1,CECAFA Cup,Chingola,Zambia,True
+1975-11-09,Kenya,Malawi,2,2,CECAFA Cup,Lusaka,Zambia,True
+1975-12-20,Malawi,Eswatini,2,0,Friendly,Blantyre,Malawi,False
+1975-12-22,Malawi,Eswatini,0,0,Friendly,Blantyre,Malawi,False
+1976-02-08,Malawi,Lesotho,4,1,Friendly,Zomba,Malawi,False
+1976-05-09,Zambia,Malawi,4,0,FIFA World Cup qualification,Lusaka,Zambia,False
+1976-05-30,Malawi,Zambia,0,1,FIFA World Cup qualification,Blantyre,Malawi,False
+1976-07-06,Malawi,Kenya,1,0,Friendly,Blantyre,Malawi,False
+1976-07-08,Malawi,Sierra Leone,4,2,Friendly,Zomba,Malawi,False
+1976-09-04,Malawi,Uganda,1,1,Friendly,Blantyre,Malawi,False
+1976-09-06,Malawi,Uganda,1,2,Friendly,Blantyre,Malawi,False
+1976-09-13,Malawi,Botswana,7,1,Friendly,Blantyre,Malawi,False
+1976-09-17,Malawi,Botswana,3,0,Friendly,Blantyre,Malawi,False
+1976-10-24,Malawi,Mauritius,1,1,African Cup of Nations qualification,Lilongwe,Malawi,False
+1976-11-07,Tanzania,Malawi,1,1,CECAFA Cup,Zanzibar,Tanzania,False
+1976-11-09,Kenya,Malawi,2,2,CECAFA Cup,Zanzibar,Tanzania,True
+1976-11-12,Malawi,Uganda,1,2,CECAFA Cup,Zanzibar,Tanzania,True
+1977-01-28,Mauritius,Malawi,3,2,African Cup of Nations qualification,Curepipe,Mauritius,False
+1977-03-26,Zambia,Malawi,8,1,Friendly,Lusaka,Zambia,False
+1977-07-06,Malawi,Tanzania,0,0,Friendly,Zomba,Malawi,False
+1977-07-08,Malawi,Tanzania,1,0,Friendly,Zomba,Malawi,False
+1977-09-30,Botswana,Malawi,0,2,Friendly,Gaborone,Botswana,False
+1977-10-01,Botswana,Malawi,1,5,Friendly,Gaborone,Botswana,False
+1977-11-11,Malawi,Lesotho,3,0,Friendly,Zomba,Malawi,False
+1977-11-13,Malawi,Lesotho,6,1,Friendly,Zomba,Malawi,False
+1977-11-29,Malawi,Zambia,1,0,CECAFA Cup,Mogadishu,Somalia,True
+1977-12-01,Malawi,Tanzania,0,0,CECAFA Cup,Mogadishu,Somalia,True
+1977-12-06,Malawi,Uganda,0,1,CECAFA Cup,Mogadishu,Somalia,True
+1977-12-08,Kenya,Malawi,1,2,CECAFA Cup,Mogadishu,Somalia,True
+1977-12-12,Kenya,Malawi,1,1,Friendly,Nairobi,Kenya,False
+1978-06-18,Malawi,Zambia,1,2,Friendly,Blantyre,Malawi,False
+1978-06-25,Zambia,Malawi,0,0,Friendly,Lusaka,Zambia,False
+1978-07-06,Malawi,Sierra Leone,5,0,Friendly,Lilongwe,Malawi,False
+1978-07-09,Malawi,Sierra Leone,4,2,Friendly,Lilongwe,Malawi,False
+1978-07-14,Libya,Malawi,2,1,All-African Games,Algiers,Algeria,True
+1978-07-18,Egypt,Malawi,4,1,All-African Games,Algiers,Algeria,True
+1978-07-22,Algeria,Malawi,3,0,All-African Games,Algiers,Algeria,False
+1978-07-25,Nigeria,Malawi,3,2,All-African Games,Algiers,Algeria,True
+1978-07-28,Ghana,Malawi,1,0,All-African Games,Algiers,Algeria,True
+1978-10-22,Malawi,Algeria,1,1,Friendly,Blantyre,Malawi,False
+1978-10-24,Malawi,Algeria,2,1,Friendly,Lilongwe,Malawi,False
+1978-11-01,Malawi,Kenya,1,0,CECAFA Cup,Blantyre,Malawi,False
+1978-11-03,Malawi,Somalia,3,1,CECAFA Cup,Lilongwe,Malawi,False
+1978-11-05,Malawi,Uganda,0,2,CECAFA Cup,Lilongwe,Malawi,False
+1978-11-11,Malawi,Zambia,2,1,CECAFA Cup,Blantyre,Malawi,False
+1978-11-17,Malawi,Kenya,2,0,CECAFA Cup,Blantyre,Malawi,False
+1978-11-19,Malawi,Zambia,3,2,CECAFA Cup,Blantyre,Malawi,False
+1978-12-03,Madagascar,Malawi,2,1,African Cup of Nations qualification,Antananarivo,Madagascar,False
+1978-12-17,Malawi,Madagascar,5,1,African Cup of Nations qualification,Blantyre,Malawi,False
+1979-04-15,Malawi,Zambia,0,2,African Cup of Nations qualification,Blantyre,Malawi,False
+1979-04-29,Zambia,Malawi,2,0,African Cup of Nations qualification,Ndola,Zambia,False
+1979-06-24,Malawi,Lesotho,1,0,Friendly,Lilongwe,Malawi,False
+1979-06-26,Malawi,Lesotho,1,2,Friendly,Blantyre,Malawi,False
+1979-07-06,Malawi,Kenya,1,0,Friendly,Blantyre,Malawi,False
+1979-07-08,Malawi,Kenya,0,0,Friendly,Lilongwe,Malawi,False
+1979-07-15,Malawi,Tanzania,2,0,Friendly,Blantyre,Malawi,False
+1979-07-17,Malawi,Tanzania,2,0,Friendly,Blantyre,Malawi,False
+1979-07-19,Malawi,Tanzania,0,1,Friendly,Blantyre,Malawi,False
+1979-08-25,Lesotho,Malawi,0,3,Friendly,Maseru,Lesotho,False
+1979-11-04,Malawi,Zanzibar,4,0,CECAFA Cup,Mombasa,Kenya,True
+1979-11-07,Malawi,Sudan,4,0,CECAFA Cup,Mombasa,Kenya,True
+1979-11-13,Malawi,Tanzania,1,1,CECAFA Cup,Mombasa,Kenya,True
+1979-11-14,Malawi,Tanzania,4,0,CECAFA Cup,Nairobi,Kenya,True
+1979-11-17,Kenya,Malawi,2,3,CECAFA Cup,Nairobi,Kenya,False
+1980-05-04,Zambia,Malawi,1,1,Friendly,Lusaka,Zambia,False
+1980-06-15,Malawi,Zambia,2,0,Friendly,Blantyre,Malawi,False
+1980-06-29,Cameroon,Malawi,3,0,FIFA World Cup qualification,Yaoundé,Cameroon,False
+1980-07-06,Malawi,Zimbabwe,0,1,Friendly,Blantyre,Malawi,False
+1980-07-08,Malawi,Zimbabwe,1,1,Friendly,Blantyre,Malawi,False
+1980-07-20,Malawi,Cameroon,1,1,FIFA World Cup qualification,Blantyre,Malawi,False
+1980-10-26,Malawi,Zimbabwe,0,1,African Cup of Nations qualification,Blantyre,Malawi,False
+1980-11-09,Zimbabwe,Malawi,1,1,African Cup of Nations qualification,Salisbury,Zimbabwe,False
+1980-11-16,Malawi,Zanzibar,1,0,CECAFA Cup,Port Sudan,Sudan,True
+1980-11-19,Kenya,Malawi,0,1,CECAFA Cup,Port Sudan,Sudan,True
+1980-11-24,Malawi,Tanzania,0,1,CECAFA Cup,Khartoum,Sudan,True
+1981-04-18,Botswana,Malawi,2,5,Friendly,Gwelo,Zimbabwe,True
+1981-04-19,Malawi,Zambia,2,1,Friendly,Salisbury,Zimbabwe,True
+1981-04-20,Zimbabwe,Malawi,4,0,Friendly,Bulawayo,Zimbabwe,False
+1981-06-19,Malawi,Tanzania,4,1,Friendly,Blantyre,Malawi,False
+1981-06-21,Malawi,Tanzania,3,1,Friendly,Lilongwe,Malawi,False
+1981-06-23,Malawi,Tanzania,0,0,Friendly,Nchalo,Malawi,False
+1981-07-06,Malawi,Mozambique,3,1,Friendly,Blantyre,Malawi,False
+1981-07-10,Malawi,Zimbabwe,2,0,Friendly,Blantyre,Malawi,False
+1981-09-04,Malawi,Zimbabwe,1,2,Friendly,Mbabane,Swaziland,True
+1981-09-05,Lesotho,Malawi,1,4,Friendly,Mbabane,Swaziland,True
+1981-09-06,Eswatini,Malawi,0,0,Friendly,Mbabane,Swaziland,False
+1981-11-14,Kenya,Malawi,1,0,CECAFA Cup,Dar es Salaam,Tanzania,True
+1981-11-17,Tanzania,Malawi,2,2,CECAFA Cup,Dar es Salaam,Tanzania,False
+1981-11-20,Malawi,Zanzibar,4,1,CECAFA Cup,Dodoma,Tanzania,True
+1982-07-06,Malawi,Tanzania,0,1,Friendly,Blantyre,Malawi,False
+1982-07-08,Malawi,Tanzania,2,0,Friendly,Lilongwe,Malawi,False
+1982-09-12,Malawi,Zimbabwe,2,0,African Cup of Nations qualification,Lilongwe,Malawi,False
+1982-10-03,Zimbabwe,Malawi,0,2,African Cup of Nations qualification,Harare,Zimbabwe,False
+1982-11-13,Uganda,Malawi,2,1,CECAFA Cup,Kampala,Uganda,False
+1982-11-16,Malawi,Zimbabwe,1,1,CECAFA Cup,Kampala,Uganda,True
+1982-11-19,Malawi,Tanzania,2,0,CECAFA Cup,Kampala,Uganda,True
+1983-06-16,Malawi,Mozambique,2,0,Friendly,Lilongwe,Malawi,False
+1983-06-18,Malawi,Mozambique,0,0,Friendly,Blantyre,Malawi,False
+1983-07-06,Malawi,Zimbabwe,0,0,Friendly,Blantyre,Malawi,False
+1983-07-08,Malawi,Zimbabwe,1,0,Friendly,Blantyre,Malawi,False
+1983-08-14,Madagascar,Malawi,0,1,African Cup of Nations qualification,Antananarivo,Madagascar,False
+1983-08-28,Malawi,Madagascar,1,1,African Cup of Nations qualification,Blantyre,Malawi,False
+1983-10-22,Tanzania,Malawi,1,1,Friendly,Dodoma,Tanzania,False
+1983-10-24,Tanzania,Malawi,0,0,Friendly,Dar es Salaam,Tanzania,False
+1983-10-26,Zanzibar,Malawi,0,1,Friendly,Zanzibar City,Zanzibar,False
+1983-10-29,Tanzania,Malawi,1,0,Friendly,Dodoma,Tanzania,False
+1983-11-13,Malawi,Zimbabwe,0,1,CECAFA Cup,Mombasa,Kenya,True
+1983-11-17,Malawi,Somalia,2,1,CECAFA Cup,Mombasa,Kenya,True
+1983-11-20,Malawi,Zanzibar,3,1,CECAFA Cup,Mombasa,Kenya,True
+1983-11-23,Kenya,Malawi,2,0,CECAFA Cup,Nairobi,Kenya,False
+1983-11-25,Malawi,Uganda,1,2,CECAFA Cup,Nairobi,Kenya,True
+1984-02-12,Malawi,Zambia,1,0,Friendly,Blantyre,Malawi,False
+1984-02-15,Malawi,Zambia,0,0,Friendly,Blantyre,Malawi,False
+1984-03-05,Algeria,Malawi,3,0,African Cup of Nations,Bouaké,Ivory Coast,True
+1984-03-08,Malawi,Nigeria,2,2,African Cup of Nations,Bouaké,Ivory Coast,True
+1984-03-11,Ghana,Malawi,1,0,African Cup of Nations,Bouaké,Ivory Coast,True
+1984-07-06,Malawi,Kenya,2,1,Friendly,Blantyre,Malawi,False
+1984-07-08,Malawi,Kenya,1,1,Friendly,Lilongwe,Malawi,False
+1984-07-10,Malawi,Kenya,2,1,Friendly,Mzuzu,Malawi,False
+1984-07-15,Mauritius,Malawi,0,1,FIFA World Cup qualification,Curepipe,Mauritius,False
+1984-07-28,Malawi,Mauritius,4,0,FIFA World Cup qualification,Lilongwe,Malawi,False
+1984-11-17,Malawi,Zimbabwe,3,0,Friendly,Lilongwe,Malawi,False
+1984-11-19,Malawi,Zimbabwe,1,0,Friendly,Blantyre,Malawi,False
+1984-12-02,Kenya,Malawi,1,2,CECAFA Cup,Mbale,Uganda,True
+1984-12-05,Malawi,Somalia,1,0,CECAFA Cup,Mbale,Uganda,True
+1984-12-09,Malawi,Zanzibar,1,0,CECAFA Cup,Mbale,Uganda,True
+1984-12-12,Uganda,Malawi,0,2,CECAFA Cup,Mbale,Uganda,False
+1984-12-15,Malawi,Zambia,0,0,CECAFA Cup,Kampala,Uganda,True
+1985-03-23,Zambia,Malawi,1,1,Friendly,Ndola,Zambia,False
+1985-03-25,Zambia,Malawi,2,2,Friendly,Lusaka,Zambia,False
+1985-03-31,Malawi,Mozambique,1,1,African Cup of Nations qualification,Lilongwe,Malawi,False
+1985-04-07,Morocco,Malawi,2,0,FIFA World Cup qualification,Rabat,Morocco,False
+1985-04-16,Mozambique,Malawi,1,1,African Cup of Nations qualification,Maputo,Mozambique,False
+1985-04-21,Malawi,Morocco,0,0,FIFA World Cup qualification,Blantyre,Malawi,False
+1985-05-02,Zimbabwe,Malawi,1,3,Friendly,Harare,Zimbabwe,False
+1985-07-04,Malawi,DR Congo,0,1,Friendly,Saint-Paul,Réunion,True
+1985-07-06,Malawi,Tanzania,0,0,Friendly,Blantyre,Malawi,False
+1985-07-07,Réunion,Malawi,2,8,Friendly,Saint-Paul,Réunion,False
+1985-07-08,Malawi,Tanzania,2,0,Friendly,Lilongwe,Malawi,False
+1985-07-10,Malawi,Tanzania,0,0,Friendly,Mzuzu,Malawi,False
+1985-10-04,Malawi,Uganda,1,0,CECAFA Cup,Bulawayo,Zimbabwe,True
+1985-10-06,Malawi,Zambia,2,2,CECAFA Cup,Bulawayo,Zimbabwe,True
+1985-10-11,Zimbabwe,Malawi,1,0,CECAFA Cup,Bulawayo,Zimbabwe,False
+1985-10-12,Malawi,Uganda,3,1,CECAFA Cup,Bulawayo,Zimbabwe,True
+1986-06-21,Malawi,Zambia,0,2,Friendly,Blantyre,Malawi,False
+1986-06-22,Malawi,Zambia,0,1,Friendly,Lilongwe,Malawi,False
+1986-07-06,Malawi,Uganda,2,1,Friendly,Blantyre,Malawi,False
+1986-07-08,Malawi,Uganda,0,0,Friendly,Lilongwe,Malawi,False
+1986-07-10,Malawi,Uganda,0,0,Friendly,Mzuzu,Malawi,False
+1986-09-30,Botswana,Malawi,2,0,Friendly,Gaborone,Botswana,False
+1987-06-13,Malawi,Zimbabwe,1,4,Friendly,Lilongwe,Malawi,False
+1987-06-14,Malawi,Zimbabwe,2,1,Friendly,Blantyre,Malawi,False
+1987-07-03,Malawi,Ivory Coast,1,2,African Cup of Nations qualification,Lilongwe,Malawi,False
+1987-07-06,Malawi,Burundi,1,1,Friendly,Blantyre,Malawi,False
+1987-07-08,Malawi,Burundi,1,1,Friendly,Lilongwe,Malawi,False
+1987-07-11,Malawi,Burundi,2,4,Friendly,Mzuzu,Malawi,False
+1987-07-19,Ivory Coast,Malawi,2,0,African Cup of Nations qualification,Abidjan,Ivory Coast,False
+1987-08-02,Ivory Coast,Malawi,1,0,All-African Games,Nairobi,Kenya,True
+1987-08-04,Malawi,Senegal,2,0,All-African Games,Nairobi,Kenya,True
+1987-08-06,Malawi,Egypt,2,1,All-African Games,Nairobi,Kenya,True
+1987-08-10,Kenya,Malawi,1,1,All-African Games,Nairobi,Kenya,False
+1987-08-12,Cameroon,Malawi,1,3,All-African Games,Nairobi,Kenya,True
+1987-12-02,Tunisia,Malawi,2,3,Friendly,Tunis,Tunisia,False
+1987-12-13,Malawi,Zimbabwe,1,1,CECAFA Cup,Addis Ababa,Ethiopia,True
+1987-12-17,Malawi,Zambia,2,1,CECAFA Cup,Addis Ababa,Ethiopia,True
+1987-12-20,Malawi,Uganda,0,2,CECAFA Cup,Addis Ababa,Ethiopia,True
+1988-06-10,Mozambique,Malawi,1,2,Friendly,Maputo,Mozambique,False
+1988-06-14,Mozambique,Malawi,1,1,Friendly,Maputo,Mozambique,False
+1988-07-06,Malawi,Zambia,1,0,Friendly,Blantyre,Malawi,False
+1988-07-08,Malawi,Zambia,0,1,Friendly,Lilongwe,Malawi,False
+1988-07-10,Malawi,Zambia,1,1,Friendly,Mzuzu,Malawi,False
+1988-07-16,Uganda,Malawi,1,0,FIFA World Cup qualification,Kampala,Uganda,False
+1988-07-30,Malawi,Uganda,3,1,FIFA World Cup qualification,Lilongwe,Malawi,False
+1988-08-03,Zambia,Malawi,4,1,Friendly,Lusaka,Zambia,False
+1988-08-04,Zambia,Malawi,7,1,Friendly,Lusaka,Zambia,False
+1988-09-26,Malawi,Mozambique,1,1,Friendly,Blantyre,Malawi,False
+1988-09-28,Malawi,Mozambique,1,0,Friendly,Lilongwe,Malawi,False
+1988-11-06,Malawi,Tanzania,0,0,CECAFA Cup,Lilongwe,Malawi,False
+1988-11-10,Malawi,Zanzibar,1,0,CECAFA Cup,Lilongwe,Malawi,False
+1988-11-12,Malawi,Kenya,3,0,CECAFA Cup,Lilongwe,Malawi,False
+1988-11-19,Malawi,Zambia,3,1,CECAFA Cup,Blantyre,Malawi,False
+1989-01-07,Kenya,Malawi,1,1,FIFA World Cup qualification,Nairobi,Kenya,False
+1989-01-21,Malawi,Egypt,1,1,FIFA World Cup qualification,Lilongwe,Malawi,False
+1989-03-26,Ethiopia,Malawi,1,1,Friendly,Addis Ababa,Ethiopia,False
+1989-03-28,Ethiopia,Malawi,1,0,Friendly,Addis Ababa,Ethiopia,False
+1989-04-09,Eswatini,Malawi,0,2,African Cup of Nations qualification,Mbabane,Swaziland,False
+1989-04-23,Malawi,Eswatini,1,1,African Cup of Nations qualification,Blantyre,Malawi,False
+1989-06-03,Malawi,Tunisia,1,0,Friendly,Lilongwe,Malawi,False
+1989-06-11,Liberia,Malawi,1,0,FIFA World Cup qualification,Monrovia,Liberia,False
+1989-06-24,Malawi,Kenya,1,0,FIFA World Cup qualification,Lilongwe,Malawi,False
+1989-07-06,Malawi,Gabon,2,0,Friendly,Blantyre,Malawi,False
+1989-07-09,Malawi,Mozambique,0,1,Friendly,Blantyre,Malawi,False
+1989-07-11,Malawi,Mozambique,0,2,Friendly,Mzuzu,Malawi,False
+1989-07-16,Malawi,Kenya,2,3,African Cup of Nations qualification,Blantyre,Malawi,False
+1989-07-29,Kenya,Malawi,0,0,African Cup of Nations qualification,Nairobi,Kenya,False
+1989-08-05,Tunisia,Malawi,3,0,Friendly,Tunis,Tunisia,False
+1989-08-12,Egypt,Malawi,1,0,FIFA World Cup qualification,Cairo,Egypt,False
+1989-08-26,Malawi,Liberia,0,0,FIFA World Cup qualification,Lilongwe,Malawi,False
+1989-12-02,Malawi,Zanzibar,0,0,CECAFA Cup,Nairobi,Kenya,True
+1989-12-09,Malawi,Zambia,0,0,CECAFA Cup,Nairobi,Kenya,True
+1989-12-14,Kenya,Malawi,0,1,CECAFA Cup,Nairobi,Kenya,False
+1989-12-16,Malawi,Uganda,3,3,CECAFA Cup,Nairobi,Kenya,True
+1990-01-20,Malawi,Tanzania,2,2,Friendly,Lobamba,Swaziland,True
+1990-01-21,Botswana,Malawi,2,2,Friendly,Lobamba,Swaziland,True
+1990-07-06,Malawi,Tanzania,2,0,Friendly,Blantyre,Malawi,False
+1990-07-09,Malawi,Tanzania,1,1,Friendly,Lilongwe,Malawi,False
+1990-07-11,Malawi,Tanzania,0,0,Friendly,Mzuzu,Malawi,False
+1990-08-04,Malawi,DR Congo,1,0,Friendly,Blantyre,Malawi,False
+1990-08-06,Malawi,DR Congo,1,0,Friendly,Lilongwe,Malawi,False
+1990-08-08,Malawi,DR Congo,0,0,Friendly,Mzuzu,Malawi,False
+1990-08-18,Malawi,Congo,0,1,African Cup of Nations qualification,Zomba,Malawi,False
+1990-12-09,Malawi,Zimbabwe,0,0,CECAFA Cup,Zanzibar City,Zanzibar,True
+1990-12-11,Malawi,Tanzania,1,0,CECAFA Cup,Zanzibar City,Zanzibar,True
+1990-12-14,Zanzibar,Malawi,2,1,CECAFA Cup,Zanzibar City,Zanzibar,False
+1991-04-14,Zimbabwe,Malawi,4,0,African Cup of Nations qualification,Harare,Zimbabwe,False
+1991-04-28,Congo,Malawi,2,1,African Cup of Nations qualification,Brazzaville,Congo,False
+1991-07-06,Malawi,Kenya,0,2,Friendly,Blantyre,Malawi,False
+1991-07-08,Malawi,Kenya,1,1,Friendly,Lilongwe,Malawi,False
+1991-07-10,Malawi,Kenya,1,1,Friendly,Mzuzu,Malawi,False
+1991-07-27,Malawi,Zimbabwe,2,2,African Cup of Nations qualification,Zomba,Malawi,False
+1991-08-19,Malawi,Mozambique,1,0,Friendly,Sucoma,Malawi,False
+1991-08-20,Malawi,Mozambique,2,0,Friendly,Blantyre,Malawi,False
+1991-11-25,Malawi,Zanzibar,1,0,CECAFA Cup,Kampala,Uganda,True
+1991-11-28,Kenya,Malawi,1,0,CECAFA Cup,Kampala,Uganda,True
+1991-12-01,Malawi,Zambia,0,0,CECAFA Cup,Kampala,Uganda,True
+1991-12-30,Malawi,Zambia,0,2,Friendly,Blantyre,Malawi,False
+1992-07-06,Malawi,Zimbabwe,0,0,Friendly,Blantyre,Malawi,False
+1992-07-08,Malawi,Zimbabwe,0,0,Friendly,Blantyre,Malawi,False
+1992-08-15,Malawi,Egypt,1,0,African Cup of Nations qualification,Lilongwe,Malawi,False
+1992-08-29,Malawi,Mali,1,1,African Cup of Nations qualification,Lilongwe,Malawi,False
+1992-11-07,Zimbabwe,Malawi,0,1,Friendly,Harare,Zimbabwe,False
+1992-11-09,Zimbabwe,Malawi,4,1,Friendly,Harare,Zimbabwe,False
+1992-11-16,Tanzania,Malawi,1,1,CECAFA Cup,Mwanza,Tanzania,False
+1992-11-19,Malawi,Zambia,1,0,CECAFA Cup,Mwanza,Tanzania,True
+1992-11-22,Ethiopia,Malawi,1,2,CECAFA Cup,Mwanza,Tanzania,True
+1992-11-24,Malawi,Zanzibar,3,1,CECAFA Cup,Mwanza,Tanzania,True
+1992-11-28,Malawi,Zambia,0,4,CECAFA Cup,Mwanza,Tanzania,True
+1993-03-27,Malawi,Zambia,1,0,Friendly,Lilongwe,Malawi,False
+1993-04-11,Morocco,Malawi,0,1,African Cup of Nations qualification,Rabat,Morocco,False
+1993-04-23,Egypt,Malawi,2,0,African Cup of Nations qualification,Alexandria,Egypt,False
+1993-05-20,Zambia,Malawi,1,1,Friendly,Lusaka,Zambia,False
+1993-05-22,Zambia,Malawi,0,1,Friendly,Lusaka,Zambia,False
+1993-05-24,Zambia,Malawi,4,2,Friendly,Lusaka,Zambia,False
+1993-07-06,Malawi,Eswatini,3,1,Friendly,Blantyre,Malawi,False
+1993-07-08,Malawi,Eswatini,1,1,Friendly,Lilongwe,Malawi,False
+1993-07-10,Malawi,Eswatini,0,1,Friendly,Mzuzu,Malawi,False
+1993-07-11,Mali,Malawi,2,1,African Cup of Nations qualification,Bamako,Mali,False
+1993-07-25,Malawi,Morocco,0,2,African Cup of Nations qualification,Lilongwe,Malawi,False
+1993-07-29,Malawi,Eswatini,3,0,Friendly,Blantyre,Malawi,False
+1994-02-12,Malawi,Zambia,0,3,Friendly,Blantyre,Malawi,False
+1994-02-13,Malawi,Zambia,0,2,Friendly,Blantyre,Malawi,False
+1994-09-04,DR Congo,Malawi,1,1,African Cup of Nations qualification,Kinshasa,Zaïre,False
+1994-10-09,Zambia,Malawi,2,1,Friendly,Lusaka,Zambia,False
+1994-10-15,Malawi,Zimbabwe,3,1,African Cup of Nations qualification,Blantyre,Malawi,False
+1995-01-08,Cameroon,Malawi,0,0,African Cup of Nations qualification,Yaoundé,Cameroon,False
+1995-04-09,Malawi,DR Congo,0,1,African Cup of Nations qualification,Lilongwe,Malawi,False
+1995-04-23,Zimbabwe,Malawi,1,1,African Cup of Nations qualification,Harare,Zimbabwe,False
+1995-07-16,Malawi,Cameroon,1,3,African Cup of Nations qualification,Blantyre,Malawi,False
+1996-05-11,Malawi,Zambia,0,1,Friendly,Blantyre,Malawi,False
+1996-05-12,Malawi,Zambia,1,1,Friendly,Blantyre,Malawi,False
+1996-05-26,Malawi,Mozambique,1,0,Friendly,Blantyre,Malawi,False
+1996-06-01,Malawi,South Africa,0,1,FIFA World Cup qualification,Blantyre,Malawi,False
+1996-06-15,South Africa,Malawi,3,0,FIFA World Cup qualification,Johannesburg,South Africa,False
+1996-07-06,Malawi,Tanzania,3,2,Friendly,Blantyre,Malawi,False
+1996-07-08,Malawi,Tanzania,1,0,Friendly,Lilongwe,Malawi,False
+1996-07-10,Malawi,Tanzania,1,1,Friendly,Mzuzu,Malawi,False
+1996-10-06,Mauritius,Malawi,1,2,African Cup of Nations qualification,Curepipe,Mauritius,False
+1997-01-25,Malawi,Zambia,0,2,African Cup of Nations qualification,Blantyre,Malawi,False
+1997-02-22,Malawi,Mozambique,2,0,African Cup of Nations qualification,Blantyre,Malawi,False
+1997-03-01,Botswana,Malawi,1,4,COSAFA Cup qualification,Gaborone,Botswana,False
+1997-04-12,Malawi,Mozambique,2,2,COSAFA Cup,Lilongwe,Malawi,False
+1997-04-19,Zambia,Malawi,4,0,COSAFA Cup,Lusaka,Zambia,False
+1997-06-21,Malawi,Mauritius,3,2,African Cup of Nations qualification,Lilongwe,Malawi,False
+1997-06-28,Namibia,Malawi,4,1,COSAFA Cup,Windhoek,Namibia,False
+1997-07-06,Malawi,Botswana,0,0,Friendly,Lilongwe,Malawi,False
+1997-07-12,Zambia,Malawi,3,1,African Cup of Nations qualification,Lusaka,Zambia,False
+1997-07-27,Mozambique,Malawi,2,1,African Cup of Nations qualification,Maputo,Mozambique,False
+1997-08-09,Malawi,Tanzania,2,2,COSAFA Cup,Lilongwe,Malawi,False
+1998-01-03,Malawi,Zimbabwe,1,0,Friendly,Blantyre,Malawi,False
+1998-01-04,Malawi,Zimbabwe,0,2,Friendly,Lilongwe,Malawi,False
+1998-01-10,Malawi,Zambia,0,1,COSAFA Cup qualification,Blantyre,Malawi,False
+1998-07-06,Malawi,Mozambique,2,1,Friendly,Mzuzu,Malawi,False
+1998-07-08,Malawi,Mozambique,2,2,Friendly,Lilongwe,Malawi,False
+1998-07-11,Malawi,Mozambique,0,0,Friendly,Blantyre,Malawi,False
+1998-07-18,Malawi,Zimbabwe,1,0,Friendly,Blantyre,Malawi,False
+1998-07-20,Malawi,Zimbabwe,0,0,Friendly,Lilongwe,Malawi,False
+1998-08-01,Namibia,Malawi,2,1,African Cup of Nations qualification,Windhoek,Namibia,False
+1998-08-15,Malawi,Namibia,0,1,African Cup of Nations qualification,Blantyre,Malawi,False
+1999-01-23,Zimbabwe,Malawi,3,0,Friendly,Bulawayo,Zimbabwe,False
+1999-01-24,Zimbabwe,Malawi,1,0,Friendly,Harare,Zimbabwe,False
+1999-04-24,Malawi,Angola,1,2,COSAFA Cup qualification,Blantyre,Malawi,False
+1999-05-22,Malawi,Namibia,1,1,COSAFA Cup qualification,Blantyre,Malawi,False
+1999-07-06,Malawi,Uganda,0,2,Friendly,Blantyre,Malawi,False
+1999-12-04,Malawi,Libya,1,2,Friendly,Lilongwe,Malawi,False
+1999-12-11,Malawi,Rwanda,1,1,Friendly,Lilongwe,Malawi,False
+1999-12-13,Malawi,Rwanda,1,1,Friendly,Blantyre,Malawi,False
+1999-12-15,Malawi,Rwanda,1,2,Friendly,Blantyre,Malawi,False
+2000-03-12,Zambia,Malawi,1,1,Friendly,Kitwe,Zambia,False
+2000-03-13,Zambia,Malawi,0,1,Friendly,Lusaka,Zambia,False
+2000-03-25,Tanzania,Malawi,1,1,Friendly,Morogoro,Tanzania,False
+2000-03-26,Tanzania,Malawi,4,3,Friendly,Dar es Salaam,Tanzania,False
+2000-04-08,Malawi,Kenya,2,0,FIFA World Cup qualification,Blantyre,Malawi,False
+2000-04-15,Malawi,Mozambique,2,1,COSAFA Cup,Blantyre,Malawi,False
+2000-04-22,Kenya,Malawi,0,0,FIFA World Cup qualification,Nairobi,Kenya,False
+2000-05-20,Malawi,Angola,0,0,COSAFA Cup,Blantyre,Malawi,False
+2000-06-04,Nigeria,Malawi,3,2,Friendly,Kano,Nigeria,False
+2000-06-06,Nigeria,Malawi,4,1,Friendly,Port Harcourt,Nigeria,False
+2000-06-17,Malawi,Burkina Faso,1,1,FIFA World Cup qualification,Blantyre,Malawi,False
+2000-07-01,Uganda,Malawi,3,1,African Cup of Nations qualification,Kampala,Uganda,False
+2000-07-06,Malawi,Namibia,1,2,Friendly,Lilongwe,Malawi,False
+2000-07-15,Malawi,Uganda,1,2,African Cup of Nations qualification,Blantyre,Malawi,False
+2001-02-25,Malawi,South Africa,1,2,FIFA World Cup qualification,Blantyre,Malawi,False
+2001-03-11,Zimbabwe,Malawi,2,0,FIFA World Cup qualification,Harare,Zimbabwe,False
+2001-03-17,Botswana,Malawi,0,1,COSAFA Cup,Gaborone,Botswana,False
+2001-04-21,Burkina Faso,Malawi,4,2,FIFA World Cup qualification,Ouagadougou,Burkina Faso,False
+2001-07-01,Malawi,Eswatini,2,2,Friendly,Lilongwe,Malawi,False
+2001-07-14,South Africa,Malawi,2,0,FIFA World Cup qualification,Durban,South Africa,False
+2001-07-21,Malawi,South Africa,1,0,COSAFA Cup,Blantyre,Malawi,False
+2001-07-28,Malawi,Zimbabwe,0,1,FIFA World Cup qualification,Blantyre,Malawi,False
+2001-08-25,Malawi,Zimbabwe,0,2,COSAFA Cup,Blantyre,Malawi,False
+2002-05-04,Malawi,Tanzania,1,0,Friendly,Blantyre,Malawi,False
+2002-05-18,Malawi,Angola,2,1,COSAFA Cup,Blantyre,Malawi,False
+2002-06-08,Malawi,Botswana,2,0,Friendly,Lilongwe,Malawi,False
+2002-06-09,Malawi,Botswana,1,0,Friendly,Blantyre,Malawi,False
+2002-07-07,Malawi,Zimbabwe,3,2,Friendly,Blantyre,Malawi,False
+2002-07-08,Malawi,Zimbabwe,2,2,Friendly,Lilongwe,Malawi,False
+2002-08-10,Malawi,Zambia,1,0,COSAFA Cup,Blantyre,Malawi,False
+2002-09-21,Malawi,South Africa,1,3,COSAFA Cup,Blantyre,Malawi,False
+2002-09-28,South Africa,Malawi,1,0,COSAFA Cup,Durban,South Africa,False
+2002-10-12,Malawi,Angola,1,0,African Cup of Nations qualification,Lilongwe,Malawi,False
+2003-02-22,Malawi,DR Congo,1,1,Friendly,Blantyre,Malawi,False
+2003-02-23,Malawi,DR Congo,2,3,Friendly,Lilongwe,Malawi,False
+2003-03-16,Zimbabwe,Malawi,0,0,Friendly,Harare,Zimbabwe,False
+2003-03-29,Malawi,Nigeria,0,1,African Cup of Nations qualification,Blantyre,Malawi,False
+2003-05-17,Malawi,Zambia,0,1,Friendly,Blantyre,Malawi,False
+2003-05-21,Lesotho,Malawi,0,0,Friendly,Maseru,Lesotho,False
+2003-05-24,Botswana,Malawi,1,1,COSAFA Cup,Gaborone,Botswana,False
+2003-06-07,Nigeria,Malawi,4,1,African Cup of Nations qualification,Abuja,Nigeria,False
+2003-07-06,Angola,Malawi,5,1,African Cup of Nations qualification,Luanda,Angola,False
+2003-08-16,Malawi,Zambia,1,1,COSAFA Cup,Blantyre,Malawi,False
+2003-09-27,Malawi,Zimbabwe,1,2,COSAFA Cup,Blantyre,Malawi,False
+2003-10-05,Zimbabwe,Malawi,2,0,COSAFA Cup,Harare,Zimbabwe,False
+2003-10-12,Ethiopia,Malawi,1,3,FIFA World Cup qualification,Addis Ababa,Ethiopia,False
+2003-11-15,Malawi,Ethiopia,0,0,FIFA World Cup qualification,Blantyre,Malawi,False
+2004-05-22,Zambia,Malawi,0,2,Friendly,Kitwe,Zambia,False
+2004-06-05,Malawi,Morocco,1,1,FIFA World Cup qualification,Blantyre,Malawi,False
+2004-06-13,Mozambique,Malawi,2,0,COSAFA Cup,Maputo,Mozambique,False
+2004-06-19,Botswana,Malawi,2,0,FIFA World Cup qualification,Gaborone,Botswana,False
+2004-07-03,Malawi,Guinea,1,1,FIFA World Cup qualification,Blantyre,Malawi,False
+2004-07-06,Malawi,Eswatini,1,2,Friendly,Blantyre,Malawi,False
+2004-07-08,Malawi,Eswatini,1,1,Friendly,Lilongwe,Malawi,False
+2004-09-04,Kenya,Malawi,3,2,FIFA World Cup qualification,Nairobi,Kenya,False
+2004-10-09,Malawi,Tunisia,2,2,FIFA World Cup qualification,Blantyre,Malawi,False
+2005-02-27,Malawi,Zimbabwe,2,1,Friendly,Blantyre,Malawi,False
+2005-03-26,Tunisia,Malawi,7,0,FIFA World Cup qualification,Radès,Tunisia,False
+2005-05-27,Libya,Malawi,1,1,Friendly,Tripoli,Libya,False
+2005-06-04,Morocco,Malawi,4,1,FIFA World Cup qualification,Rabat,Morocco,False
+2005-06-11,Lesotho,Malawi,1,2,COSAFA Cup,Lusaka,Zambia,True
+2005-06-12,Zambia,Malawi,2,1,COSAFA Cup,Lusaka,Zambia,False
+2005-06-18,Malawi,Botswana,1,3,FIFA World Cup qualification,Blantyre,Malawi,False
+2005-09-04,Guinea,Malawi,3,1,FIFA World Cup qualification,Conakry,Guinea,False
+2005-09-24,Malawi,Zimbabwe,2,0,Friendly,Maputo,Mozambique,True
+2005-10-08,Malawi,Kenya,3,0,FIFA World Cup qualification,Blantyre,Malawi,False
+2006-06-24,Malawi,Zimbabwe,1,1,Friendly,Maputo,Mozambique,True
+2006-06-25,Mozambique,Malawi,1,2,Friendly,Maputo,Mozambique,False
+2006-07-06,Malawi,Botswana,2,1,Friendly,Lilongwe,Malawi,False
+2006-07-08,Malawi,Botswana,0,0,Friendly,Blantyre,Malawi,False
+2006-07-22,Malawi,Zambia,1,3,COSAFA Cup,Windhoek,Namibia,True
+2006-07-23,Namibia,Malawi,3,2,COSAFA Cup,Windhoek,Namibia,False
+2006-10-07,Malawi,Zimbabwe,1,0,African Cup of Nations qualification,Blantyre,Malawi,False
+2006-11-26,Djibouti,Malawi,0,3,CECAFA Cup,Addis Ababa,Ethiopia,True
+2006-11-28,Malawi,Tanzania,1,2,CECAFA Cup,Addis Ababa,Ethiopia,True
+2006-12-01,Ethiopia,Malawi,1,0,CECAFA Cup,Addis Ababa,Ethiopia,False
+2006-12-06,Uganda,Malawi,0,0,CECAFA Cup,Addis Ababa,Ethiopia,True
+2007-05-26,Malawi,South Africa,0,0,COSAFA Cup,Lobamba,Swaziland,True
+2007-05-27,Eswatini,Malawi,1,0,COSAFA Cup,Lobamba,Swaziland,False
+2007-06-10,Malawi,Senegal,2,3,Friendly,Blantyre,Malawi,False
+2007-06-16,Malawi,Morocco,0,1,African Cup of Nations qualification,Blantyre,Malawi,False
+2007-07-06,Malawi,Namibia,1,2,Friendly,Blantyre,Malawi,False
+2007-09-09,Zimbabwe,Malawi,3,1,African Cup of Nations qualification,Bulawayo,Zimbabwe,False
+2007-11-18,Eswatini,Malawi,0,3,Friendly,Manzini,Swaziland,False
+2008-03-26,Namibia,Malawi,1,3,Friendly,Windhoek,Namibia,False
+2008-05-25,Tanzania,Malawi,1,1,Friendly,Dar es Salaam,Tanzania,False
+2008-05-31,Malawi,Djibouti,8,1,FIFA World Cup qualification,Blantyre,Malawi,False
+2008-06-08,DR Congo,Malawi,1,0,FIFA World Cup qualification,Kinshasa,DR Congo,False
+2008-06-14,Malawi,Egypt,1,0,FIFA World Cup qualification,Blantyre,Malawi,False
+2008-06-22,Egypt,Malawi,2,0,FIFA World Cup qualification,Cairo,Egypt,False
+2008-07-20,Lesotho,Malawi,0,1,COSAFA Cup qualification,Secunda,South Africa,True
+2008-07-22,Comoros,Malawi,0,1,COSAFA Cup qualification,Secunda,South Africa,True
+2008-07-24,Malawi,Namibia,0,1,COSAFA Cup qualification,Secunda,South Africa,True
+2008-09-05,Djibouti,Malawi,0,3,FIFA World Cup qualification,Djibouti,Djibouti,False
+2008-09-30,South Africa,Malawi,3,0,Friendly,Johannesburg,South Africa,False
+2008-10-11,Malawi,DR Congo,2,1,FIFA World Cup qualification,Blantyre,Malawi,False
+2009-02-11,Mozambique,Malawi,2,0,Friendly,Maputo,Mozambique,False
+2009-03-21,Uganda,Malawi,2,1,Friendly,Kampala,Uganda,False
+2009-03-29,Ivory Coast,Malawi,5,0,FIFA World Cup qualification,Abidjan,Ivory Coast,False
+2009-05-31,Malawi,Rwanda,2,0,Friendly,Blantyre,Malawi,False
+2009-06-06,Malawi,Burkina Faso,0,1,FIFA World Cup qualification,Blantyre,Malawi,False
+2009-06-21,Guinea,Malawi,2,1,FIFA World Cup qualification,Conakry,Guinea,False
+2009-07-06,Malawi,Eswatini,3,1,Friendly,Blantyre,Malawi,False
+2009-09-05,Malawi,Guinea,2,1,FIFA World Cup qualification,Blantyre,Malawi,False
+2009-10-10,Malawi,Ivory Coast,1,1,FIFA World Cup qualification,Blantyre,Malawi,False
+2009-10-25,Malawi,Mozambique,0,1,COSAFA Cup,Harare,Zimbabwe,True
+2009-11-14,Burkina Faso,Malawi,1,0,FIFA World Cup qualification,Ouagadougou,Burkina Faso,False
+2009-12-19,Mozambique,Malawi,0,1,Friendly,Tete,Mozambique,False
+2009-12-29,Egypt,Malawi,1,1,Friendly,Cairo,Egypt,False
+2010-01-05,Ghana,Malawi,0,0,Friendly,Manzini,Swaziland,True
+2010-01-11,Malawi,Algeria,3,0,African Cup of Nations,Luanda,Angola,True
+2010-01-14,Angola,Malawi,2,0,African Cup of Nations,Luanda,Angola,False
+2010-01-18,Mali,Malawi,3,1,African Cup of Nations,Cabinda,Angola,True
+2010-03-03,Zimbabwe,Malawi,2,1,Friendly,Harare,Zimbabwe,False
+2010-05-12,Yemen,Malawi,1,0,Friendly,Sana'a,Yemen,False
+2010-07-09,Togo,Malawi,1,1,African Cup of Nations qualification,Lomé,Togo,False
+2010-08-11,Malawi,Botswana,1,1,African Cup of Nations qualification,Blantyre,Malawi,False
+2010-09-04,Tunisia,Malawi,2,2,African Cup of Nations qualification,Radès,Tunisia,False
+2010-10-09,Malawi,Chad,6,2,African Cup of Nations qualification,Blantyre,Malawi,False
+2010-11-17,Malawi,Rwanda,2,1,Friendly,Blantyre,Malawi,False
+2010-11-29,Malawi,Kenya,3,2,CECAFA Cup,Dar es Salaam,Tanzania,True
+2010-12-02,Malawi,Uganda,1,1,CECAFA Cup,Dar es Salaam,Tanzania,True
+2011-02-09,Namibia,Malawi,1,2,Friendly,Windhoek,Namibia,False
+2011-03-26,Malawi,Togo,1,0,African Cup of Nations qualification,Blantyre,Malawi,False
+2011-05-29,Eswatini,Malawi,1,1,Friendly,Mhlume,Swaziland,False
+2011-06-05,Botswana,Malawi,0,0,African Cup of Nations qualification,Gaborone,Botswana,False
+2011-07-06,Malawi,Namibia,0,1,Friendly,Mzuzu,Malawi,False
+2011-09-03,Malawi,Tunisia,0,0,African Cup of Nations qualification,Blantyre,Malawi,False
+2011-10-04,Ethiopia,Malawi,0,0,Friendly,Addis Ababa,Ethiopia,False
+2011-10-08,Chad,Malawi,2,2,African Cup of Nations qualification,N'Djamena,Chad,False
+2011-11-28,Kenya,Malawi,0,2,CECAFA Cup,Dar es Salaam,Tanzania,True
+2011-11-30,Malawi,Sudan,0,0,CECAFA Cup,Dar es Salaam,Tanzania,True
+2011-12-02,Ethiopia,Malawi,1,1,CECAFA Cup,Dar es Salaam,Tanzania,True
+2011-12-06,Tanzania,Malawi,1,0,CECAFA Cup,Dar es Salaam,Tanzania,False
+2012-02-29,Chad,Malawi,3,2,African Cup of Nations qualification,N'Djamena,Chad,False
+2012-05-26,Tanzania,Malawi,0,0,Friendly,Dar es Salaam,Tanzania,False
+2012-06-02,Kenya,Malawi,0,0,FIFA World Cup qualification,Nairobi,Kenya,False
+2012-06-09,Malawi,Nigeria,1,1,FIFA World Cup qualification,Blantyre,Malawi,False
+2012-06-16,Malawi,Chad,2,0,African Cup of Nations qualification,Blantyre,Malawi,False
+2012-07-06,Malawi,Zambia,1,0,Friendly,Blantyre,Malawi,False
+2012-09-04,Liberia,Malawi,1,0,Friendly,Paynesville,Liberia,False
+2012-09-08,Ghana,Malawi,2,0,African Cup of Nations qualification,Accra,Ghana,False
+2012-10-13,Malawi,Ghana,0,1,African Cup of Nations qualification,Lilongwe,Malawi,False
+2012-11-26,Rwanda,Malawi,2,0,CECAFA Cup,Kampala,Uganda,True
+2012-11-29,Malawi,Eritrea,3,2,CECAFA Cup,Kampala,Uganda,True
+2012-12-01,Malawi,Zanzibar,2,0,CECAFA Cup,Kampala,Uganda,True
+2012-12-04,Kenya,Malawi,1,0,CECAFA Cup,Kampala,Uganda,True
+2012-12-22,South Africa,Malawi,3,1,Friendly,Durban,South Africa,False
+2013-03-19,Botswana,Malawi,1,0,Friendly,Gaborone,Botswana,False
+2013-03-23,Namibia,Malawi,0,1,FIFA World Cup qualification,Windhoek,Namibia,False
+2013-05-25,Malawi,Zimbabwe,1,1,Friendly,Blantyre,Malawi,False
+2013-06-05,Malawi,Namibia,0,0,FIFA World Cup qualification,Blantyre,Malawi,False
+2013-06-12,Malawi,Kenya,2,2,FIFA World Cup qualification,Blantyre,Malawi,False
+2013-07-13,Zimbabwe,Malawi,1,1,COSAFA Cup,Lusaka,Zambia,True
+2013-07-16,Malawi,Angola,2,3,COSAFA Cup,Kitwe,Zambia,True
+2013-08-14,Rwanda,Malawi,0,1,Friendly,Kigali,Rwanda,False
+2013-09-03,Botswana,Malawi,1,0,Friendly,Gaborone,Botswana,False
+2013-09-07,Nigeria,Malawi,2,0,FIFA World Cup qualification,Calabar,Nigeria,False
+2014-03-05,Malawi,Zimbabwe,1,4,Friendly,Blantyre,Malawi,False
+2014-05-17,Malawi,Chad,2,0,African Cup of Nations qualification,Blantyre,Malawi,False
+2014-05-27,Tanzania,Malawi,1,0,Friendly,Dar es Salaam,Tanzania,False
+2014-05-31,Chad,Malawi,3,1,African Cup of Nations qualification,N'Djamena,Chad,False
+2014-07-06,Malawi,Mozambique,1,1,Friendly,Lilongwe,Malawi,False
+2014-07-15,Uganda,Malawi,0,0,Friendly,Kampala,Uganda,False
+2014-07-20,Benin,Malawi,1,0,African Cup of Nations qualification,Cotonou,Benin,False
+2014-08-02,Malawi,Benin,1,0,African Cup of Nations qualification,Blantyre,Malawi,False
+2014-09-07,Mali,Malawi,2,0,African Cup of Nations qualification,Bamako,Mali,False
+2014-09-10,Malawi,Ethiopia,3,2,African Cup of Nations qualification,Blantyre,Malawi,False
+2014-10-11,Malawi,Algeria,0,2,African Cup of Nations qualification,Blantyre,Malawi,False
+2014-10-15,Algeria,Malawi,3,0,African Cup of Nations qualification,Blida,Algeria,False
+2014-11-15,Malawi,Mali,2,0,African Cup of Nations qualification,Blantyre,Malawi,False
+2014-11-19,Ethiopia,Malawi,0,0,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+2015-03-29,Tanzania,Malawi,1,1,Friendly,Mwanza,Tanzania,False
+2015-05-10,Zambia,Malawi,2,0,Friendly,Lusaka,Zambia,False
+2015-05-25,Mozambique,Malawi,2,2,COSAFA Cup,Phokeng,South Africa,True
+2015-05-27,South Africa,Malawi,0,0,COSAFA Cup,Moruleng-Saulspoort,South Africa,False
+2015-05-29,Zambia,Malawi,0,1,COSAFA Cup,Phokeng,South Africa,True
+2015-06-08,Egypt,Malawi,2,1,Friendly,Alexandria,Egypt,False
+2015-06-13,Malawi,Zimbabwe,1,2,African Cup of Nations qualification,Blantyre,Malawi,False
+2015-07-06,Malawi,Uganda,1,0,Friendly,Blantyre,Malawi,False
+2015-09-06,Eswatini,Malawi,2,2,African Cup of Nations qualification,Lobamba,Swaziland,False
+2015-10-07,Tanzania,Malawi,2,0,FIFA World Cup qualification,Dar es Salaam,Tanzania,False
+2015-10-11,Malawi,Tanzania,1,0,FIFA World Cup qualification,Blantyre,Malawi,False
+2015-11-23,Sudan,Malawi,1,2,CECAFA Cup,Bahir Dar,Ethiopia,True
+2015-11-25,Malawi,Djibouti,3,0,CECAFA Cup,Bahir Dar,Ethiopia,True
+2015-11-27,South Sudan,Malawi,2,0,CECAFA Cup,Bahir Dar,Ethiopia,True
+2015-11-30,Uganda,Malawi,2,0,CECAFA Cup,Addis Ababa,Ethiopia,True
+2016-03-25,Guinea,Malawi,0,0,African Cup of Nations qualification,Conakry,Guinea,False
+2016-03-29,Malawi,Guinea,1,2,African Cup of Nations qualification,Blantyre,Malawi,False
+2016-06-05,Zimbabwe,Malawi,3,0,African Cup of Nations qualification,Harare,Zimbabwe,False
+2016-06-12,Malawi,Angola,3,0,COSAFA Cup,Windhoek,Namibia,True
+2016-06-14,Mauritius,Malawi,0,1,COSAFA Cup,Windhoek,Namibia,True
+2016-06-16,Malawi,Lesotho,0,1,COSAFA Cup,Windhoek,Namibia,True
+2016-09-04,Malawi,Eswatini,1,0,African Cup of Nations qualification,Blantyre,Malawi,False
+2017-06-10,Malawi,Comoros,1,0,African Cup of Nations qualification,Lilongwe,Malawi,False
+2017-06-25,Tanzania,Malawi,2,0,COSAFA Cup,Moruleng,South Africa,True
+2017-06-27,Malawi,Mauritius,0,0,COSAFA Cup,Rustenburg,South Africa,True
+2017-06-29,Malawi,Angola,0,0,COSAFA Cup,Rustenburg,South Africa,True
+2017-09-04,Malawi,Togo,1,0,Friendly,Agadir,Morocco,True
+2017-10-07,Tanzania,Malawi,1,1,Friendly,Dar es Salaam,Tanzania,False
+2017-11-11,Malawi,Lesotho,1,1,Friendly,Lilongwe,Malawi,False
+2018-03-27,Uganda,Malawi,0,0,Friendly,Kampala,Uganda,False
+2018-05-28,Malawi,Mauritius,0,1,COSAFA Cup,Polokwane,South Africa,True
+2018-05-30,Malawi,Botswana,1,1,COSAFA Cup,Polokwane,South Africa,True
+2018-06-01,Angola,Malawi,0,0,COSAFA Cup,Polokwane,South Africa,True
+2018-09-08,Morocco,Malawi,3,0,African Cup of Nations qualification,Casablanca,Morocco,False
+2018-09-11,Kenya,Malawi,1,0,Friendly,Nairobi,Kenya,False
+2018-10-12,Cameroon,Malawi,1,0,African Cup of Nations qualification,Yaoundé,Cameroon,False
+2018-10-16,Malawi,Cameroon,0,0,African Cup of Nations qualification,Blantyre,Malawi,False
+2018-11-17,Comoros,Malawi,2,1,African Cup of Nations qualification,Moroni,Comoros,False
+2019-03-22,Malawi,Morocco,0,0,African Cup of Nations qualification,Blantyre,Malawi,False
+2019-05-26,Malawi,Seychelles,3,0,COSAFA Cup,Durban,South Africa,True
+2019-05-28,Namibia,Malawi,1,2,COSAFA Cup,Durban,South Africa,True
+2019-05-30,Mozambique,Malawi,1,1,COSAFA Cup,Durban,South Africa,True
+2019-06-02,Zambia,Malawi,2,2,COSAFA Cup,Durban,South Africa,True
+2019-06-04,Comoros,Malawi,1,2,COSAFA Cup,Durban,South Africa,True
+2019-06-07,South Africa,Malawi,0,0,COSAFA Cup,Durban,South Africa,False
+2019-09-07,Botswana,Malawi,0,0,FIFA World Cup qualification,Francistown,Botswana,False
+2019-09-10,Malawi,Botswana,1,0,FIFA World Cup qualification,Blantyre,Malawi,False
+2019-10-13,Lesotho,Malawi,1,1,Friendly,Lesotho,Lesotho,False
+2019-11-13,Malawi,South Sudan,1,0,African Cup of Nations qualification,Blantyre,Malawi,False
+2019-11-17,Uganda,Malawi,2,0,African Cup of Nations qualification,Kira,Uganda,False
+2020-10-07,Zambia,Malawi,1,0,Friendly,Lusaka,Zambia,False
+2020-10-11,Malawi,Zimbabwe,0,0,Friendly,Blantyre,Malawi,False
+2020-11-12,Burkina Faso,Malawi,3,1,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+2020-11-16,Malawi,Burkina Faso,0,0,African Cup of Nations qualification,Blantyre,Malawi,False
+2021-03-17,Ethiopia,Malawi,4,0,Friendly,Bahir Dar,Ethiopia,False
+2021-03-24,South Sudan,Malawi,0,1,African Cup of Nations qualification,Omdurman,Sudan,True
+2021-03-29,Malawi,Uganda,1,0,African Cup of Nations qualification,Lilongwe,Malawi,False
+2021-06-13,Tanzania,Malawi,2,0,Friendly,Dar es Salaam,Tanzania,False
+2021-07-09,Malawi,Zimbabwe,2,2,COSAFA Cup,Port Elizabeth,South Africa,True
+2021-07-11,Mozambique,Malawi,2,0,COSAFA Cup,Port Elizabeth,South Africa,True
+2021-07-13,Malawi,Namibia,1,1,COSAFA Cup,Port Elizabeth,South Africa,True
+2021-07-14,Senegal,Malawi,2,1,COSAFA Cup,Port Elizabeth,South Africa,True
+2021-09-03,Cameroon,Malawi,2,0,FIFA World Cup qualification,Yaoundé,Cameroon,False
+2021-09-07,Malawi,Mozambique,1,0,FIFA World Cup qualification,Johannesburg,South Africa,True
+2021-10-08,Malawi,Ivory Coast,0,3,FIFA World Cup qualification,Johannesburg,South Africa,True
+2021-10-11,Ivory Coast,Malawi,2,1,FIFA World Cup qualification,Cotonou,Benin,True
+2021-11-13,Malawi,Cameroon,0,4,FIFA World Cup qualification,Johannesburg,South Africa,True
+2021-11-16,Mozambique,Malawi,1,0,FIFA World Cup qualification,Cotonou,Benin,True
+2021-12-31,Malawi,Comoros,2,1,Friendly,Jeddah,Saudi Arabia,True
+2022-01-10,Guinea,Malawi,1,0,African Cup of Nations,Bafoussam,Cameroon,True
+2022-01-14,Malawi,Zimbabwe,2,1,African Cup of Nations,Bafoussam,Cameroon,True
+2022-01-18,Malawi,Senegal,0,0,African Cup of Nations,Bafoussam,Cameroon,True
+2022-01-25,Morocco,Malawi,2,1,African Cup of Nations,Yaoundé,Cameroon,True
+2022-06-05,Malawi,Ethiopia,2,1,African Cup of Nations qualification,Lilongwe,Malawi,False
+2022-06-09,Guinea,Malawi,1,0,African Cup of Nations qualification,Conakry,Guinea,False
+2022-07-06,Lesotho,Malawi,2,1,COSAFA Cup,Durban,South Africa,True
+2022-07-08,Malawi,Eswatini,1,1,COSAFA Cup,Durban,South Africa,True
+2022-07-10,Mauritius,Malawi,0,2,COSAFA Cup,KwaMashu,South Africa,True
+2023-03-15,Bangladesh,Malawi,1,1,Friendly,Medina,Saudi Arabia,True
+2023-03-24,Egypt,Malawi,2,0,African Cup of Nations qualification,Cairo,Egypt,False
+2023-03-28,Malawi,Egypt,0,4,African Cup of Nations qualification,Lilongwe,Malawi,False
+2023-06-14,Mozambique,Malawi,1,1,Friendly,Maputo,Mozambique,False
+2023-06-20,Ethiopia,Malawi,0,0,African Cup of Nations qualification,Maputo,Mozambique,True
+2023-07-06,Zambia,Malawi,0,1,COSAFA Cup,Durban,South Africa,True
+2023-07-09,Malawi,Seychelles,2,0,COSAFA Cup,Durban,South Africa,True
+2023-07-11,Malawi,Comoros,2,0,COSAFA Cup,Durban,South Africa,True
+2023-07-14,Malawi,Lesotho,1,1,COSAFA Cup,Durban,South Africa,True
+2023-07-16,South Africa,Malawi,0,0,COSAFA Cup,Durban,South Africa,False
+2023-09-09,Malawi,Guinea,2,2,African Cup of Nations qualification,Lilongwe,Malawi,False
+2023-11-17,Liberia,Malawi,0,1,FIFA World Cup qualification,Monrovia,Liberia,False
+2023-11-21,Malawi,Tunisia,0,1,FIFA World Cup qualification,Lilongwe,Malawi,False
+2024-06-06,Malawi,São Tomé and Príncipe,3,1,FIFA World Cup qualification,Lilongwe,Malawi,False
+2024-06-10,Equatorial Guinea,Malawi,1,0,FIFA World Cup qualification,Malabo,Equatorial Guinea,False
+2024-09-05,Malawi,Burundi,2,3,African Cup of Nations qualification,Lilongwe,Malawi,False
+2024-09-10,Burkina Faso,Malawi,3,1,African Cup of Nations qualification,Bamako,Mali,True
+2024-10-11,Senegal,Malawi,4,0,African Cup of Nations qualification,Diamniadio,Senegal,False
+2024-10-15,Malawi,Senegal,0,1,African Cup of Nations qualification,Lilongwe,Malawi,False
+2025-03-20,Malawi,Namibia,0,1,FIFA World Cup qualification,Lilongwe,Malawi,False
+2025-03-24,Tunisia,Malawi,2,0,FIFA World Cup qualification,Radès,Tunisia,False

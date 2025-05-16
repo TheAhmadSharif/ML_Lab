@@ -1,0 +1,54 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1983-08-20,Samoa,American Samoa,3,1,South Pacific Games,Apia,Western Samoa,False
+1983-08-22,American Samoa,Wallis Islands and Futuna,3,0,South Pacific Games,Apia,Western Samoa,True
+1983-08-24,American Samoa,Tonga,2,3,South Pacific Games,Apia,Western Samoa,True
+1987-12-09,New Caledonia,American Samoa,10,0,South Pacific Games,Nouméa,New Caledonia,False
+1987-12-10,American Samoa,Vanuatu,0,7,South Pacific Games,Nouméa,New Caledonia,True
+1987-12-12,American Samoa,Wallis Islands and Futuna,1,5,South Pacific Games,Nouméa,New Caledonia,True
+1987-12-15,American Samoa,Papua New Guinea,0,20,South Pacific Games,Nouméa,New Caledonia,True
+1994-11-24,Samoa,American Samoa,3,1,Oceania Nations Cup qualification,Apia,Western Samoa,False
+1994-11-25,Tahiti,American Samoa,2,1,Oceania Nations Cup qualification,Apia,Western Samoa,True
+1994-11-28,Tonga,American Samoa,2,1,Oceania Nations Cup qualification,Apia,Western Samoa,True
+1998-09-02,Tonga,American Samoa,3,0,Oceania Nations Cup qualification,Avarua,Cook Islands,True
+1998-09-03,Cook Islands,American Samoa,4,3,Oceania Nations Cup qualification,Avarua,Cook Islands,False
+1998-09-07,Tahiti,American Samoa,12,0,Oceania Nations Cup qualification,Avarua,Cook Islands,True
+1998-09-08,Samoa,American Samoa,4,0,Oceania Nations Cup qualification,Avarua,Cook Islands,True
+2000-06-14,American Samoa,Tonga,1,2,Oceania Nations Cup qualification,Papeete,Tahiti,True
+2001-04-07,Fiji,American Samoa,13,0,FIFA World Cup qualification,Coffs Harbour,Australia,True
+2001-04-09,American Samoa,Samoa,0,8,FIFA World Cup qualification,Coffs Harbour,Australia,True
+2001-04-11,Australia,American Samoa,31,0,FIFA World Cup qualification,Coffs Harbour,Australia,False
+2001-04-14,American Samoa,Tonga,0,5,FIFA World Cup qualification,Coffs Harbour,Australia,True
+2002-03-09,American Samoa,New Caledonia,0,10,Oceania Nations Cup qualification,Apia,Samoa,True
+2002-03-12,American Samoa,Tonga,2,7,Oceania Nations Cup qualification,Apia,Samoa,True
+2002-03-14,Samoa,American Samoa,5,0,Oceania Nations Cup qualification,Apia,Samoa,False
+2002-03-18,American Samoa,Papua New Guinea,0,7,Oceania Nations Cup qualification,Apia,Samoa,True
+2004-05-10,Samoa,American Samoa,4,0,FIFA World Cup qualification,Apia,Samoa,False
+2004-05-12,American Samoa,Vanuatu,1,9,FIFA World Cup qualification,Apia,Samoa,True
+2004-05-15,Fiji,American Samoa,11,0,FIFA World Cup qualification,Apia,Samoa,True
+2004-05-17,American Samoa,Papua New Guinea,0,10,FIFA World Cup qualification,Apia,Samoa,True
+2007-08-25,Solomon Islands,American Samoa,12,1,South Pacific Games,Apia,Samoa,True
+2007-08-27,Samoa,American Samoa,7,0,South Pacific Games,Apia,Samoa,False
+2007-08-29,American Samoa,Vanuatu,0,15,South Pacific Games,Apia,Samoa,True
+2007-09-01,Tonga,American Samoa,4,0,South Pacific Games,Apia,Samoa,True
+2011-08-27,Tuvalu,American Samoa,4,0,Pacific Games,Nouméa,New Caledonia,True
+2011-08-30,American Samoa,Solomon Islands,0,4,Pacific Games,Nouméa,New Caledonia,True
+2011-09-01,American Samoa,Guam,0,2,Pacific Games,Nouméa,New Caledonia,True
+2011-09-03,New Caledonia,American Samoa,8,0,Pacific Games,Nouméa,New Caledonia,False
+2011-09-05,American Samoa,Vanuatu,0,8,Pacific Games,Nouméa,New Caledonia,True
+2011-11-22,American Samoa,Tonga,2,1,FIFA World Cup qualification,Apia,Samoa,True
+2011-11-24,American Samoa,Cook Islands,1,1,FIFA World Cup qualification,Apia,Samoa,True
+2011-11-26,Samoa,American Samoa,1,0,FIFA World Cup qualification,Apia,Samoa,False
+2015-08-27,Fiji,American Samoa,6,0,Friendly,Nadi,Fiji,False
+2015-08-31,Samoa,American Samoa,3,2,FIFA World Cup qualification,‘Atele,Tonga,True
+2015-09-02,Tonga,American Samoa,1,2,FIFA World Cup qualification,‘Atele,Tonga,False
+2015-09-04,American Samoa,Cook Islands,2,0,FIFA World Cup qualification,‘Atele,Tonga,True
+2019-07-08,American Samoa,New Caledonia,0,5,Pacific Games,Apia,Samoa,True
+2019-07-10,American Samoa,Fiji,0,9,Pacific Games,Apia,Samoa,True
+2019-07-12,American Samoa,Tuvalu,1,1,Pacific Games,Apia,Samoa,True
+2019-07-15,Solomon Islands,American Samoa,13,0,Pacific Games,Apia,Samoa,True
+2019-07-18,Tahiti,American Samoa,8,1,Pacific Games,Apia,Samoa,True
+2023-11-20,Samoa,American Samoa,10,0,Pacific Games,Honiara,Solomon Islands,True
+2023-11-23,Solomon Islands,American Samoa,11,0,Pacific Games,Honiara,Solomon Islands,False
+2023-11-27,Northern Mariana Islands,American Samoa,4,0,Pacific Games,Honiara,Solomon Islands,True
+2023-11-30,American Samoa,Tonga,2,6,Pacific Games,Solomon Islands,Solomon Islands,True
+2024-09-06,Samoa,American Samoa,2,0,FIFA World Cup qualification,Apia,Samoa,False

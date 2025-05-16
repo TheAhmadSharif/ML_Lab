@@ -1,0 +1,40 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+2010-10-29,Suriname,Bonaire,4,2,ABCS Tournament,Willemstad,Curaçao,True
+2010-10-31,Aruba,Bonaire,3,3,ABCS Tournament,Willemstad,Curaçao,True
+2011-12-02,Curaçao,Bonaire,1,3,ABCS Tournament,Paramaribo,Suriname,True
+2011-12-04,Bonaire,Aruba,2,2,ABCS Tournament,Paramaribo,Suriname,True
+2012-07-13,Suriname,Bonaire,8,0,ABCS Tournament,Oranjestad,Aruba,True
+2012-07-15,Bonaire,Curaçao,2,9,ABCS Tournament,Oranjestad,Aruba,True
+2013-11-14,Bonaire,Suriname,0,2,ABCS Tournament,Willemstad,Curaçao,True
+2013-11-16,Aruba,Bonaire,1,2,ABCS Tournament,Willemstad,Curaçao,True
+2014-06-01,United States Virgin Islands,Bonaire,1,2,CFU Caribbean Cup qualification,Lookout,Montserrat,True
+2014-09-05,Suriname,Bonaire,2,3,CFU Caribbean Cup qualification,Rivière-Pilote,Martinique,True
+2014-09-07,Bonaire,Barbados,1,4,CFU Caribbean Cup qualification,Fort-de-France,Martinique,True
+2015-01-30,Suriname,Bonaire,3,0,ABCS Tournament,Paramaribo,Suriname,False
+2015-02-01,Curaçao,Bonaire,4,1,ABCS Tournament,Paramaribo,Suriname,True
+2018-09-09,Bonaire,Dominican Republic,0,5,CONCACAF Nations League qualification,Willemstad,Curaçao,True
+2018-10-14,Bonaire,Jamaica,0,6,CONCACAF Nations League qualification,Willemstad,Curaçao,True
+2019-03-22,Saint Vincent and the Grenadines,Bonaire,2,1,CONCACAF Nations League qualification,Arnos Vale,Saint Vincent and the Grenadines,False
+2019-03-24,British Virgin Islands,Bonaire,1,2,CONCACAF Nations League qualification,The Valley,Anguilla,True
+2019-09-06,Bonaire,British Virgin Islands,4,2,CONCACAF Nations League,Willemstad,Curaçao,True
+2019-09-09,Bahamas,Bonaire,2,1,CONCACAF Nations League,Nassau,Bahamas,False
+2019-10-13,British Virgin Islands,Bonaire,3,4,CONCACAF Nations League,Basseterre,Saint Kitts and Nevis,True
+2019-11-17,Bonaire,Bahamas,1,1,CONCACAF Nations League,Willemstad,Curaçao,True
+2022-06-03,Turks and Caicos Islands,Bonaire,1,4,CONCACAF Nations League,Providenciales,Turks and Caicos Islands,False
+2022-06-06,Bonaire,Sint Maarten,2,2,CONCACAF Nations League,Willemstad,Curaçao,True
+2022-06-11,United States Virgin Islands,Bonaire,0,2,CONCACAF Nations League,Saint Croix,United States Virgin Islands,False
+2022-06-14,Bonaire,United States Virgin Islands,2,0,CONCACAF Nations League,Willemstad,Curaçao,True
+2023-03-25,Sint Maarten,Bonaire,6,1,CONCACAF Nations League,Saint Croix,United States Virgin Islands,True
+2023-03-28,Bonaire,Turks and Caicos Islands,1,2,CONCACAF Nations League,Rincon,Bonaire,False
+2023-09-11,Saint Martin,Bonaire,2,1,CONCACAF Nations League,Basseterre,Saint Kitts and Nevis,True
+2023-10-12,Bonaire,Anguilla,2,0,CONCACAF Nations League,Rincon,Bonaire,False
+2023-11-18,Anguilla,Bonaire,0,3,CONCACAF Nations League,The Valley,Anguilla,False
+2023-11-21,Bonaire,Saint Martin,0,4,CONCACAF Nations League,Rincon,Bonaire,False
+2024-03-20,Bonaire,El Salvador,1,1,Friendly,"Washington, D.C.",United States,True
+2024-09-05,Bonaire,Saint Vincent and the Grenadines,1,1,CONCACAF Nations League,Rincon,Bonaire,False
+2024-09-08,Bonaire,El Salvador,1,2,CONCACAF Nations League,Rincon,Bonaire,False
+2024-10-10,Bonaire,Montserrat,0,1,CONCACAF Nations League,Kingstown,Saint Vincent and the Grenadines,True
+2024-10-13,Montserrat,Bonaire,0,1,CONCACAF Nations League,Kingstown,Saint Vincent and the Grenadines,True
+2024-11-14,El Salvador,Bonaire,1,0,CONCACAF Nations League,San Salvador,El Salvador,False
+2024-11-17,Saint Vincent and the Grenadines,Bonaire,3,1,CONCACAF Nations League,San Salvador,El Salvador,True
+2025-03-25,Niger,Bonaire,6,0,Friendly,Casablanca,Morocco,True

@@ -1,0 +1,107 @@
+05 May 2025
+––––––––––––––––––––
+
+
+1. Total matches played in every n year (Note: 2) by country_1 and country_2 (Note: 1), country_3 (Note: 1), and plotted as a grouped bar chart ## Done
+2. Time or Year against Cumulative goal and matches ## Done
+3. Average goals played by country list in a time interval show in box plot. ## Done 
+4. Average goals held in every match played by country_1 in every n years (Note: 2) and plot in a grouped bar chart  ## Done
+5. Average goals held in every match played by country_1 against country_2 in every n years (Note: 2) and plot as a Grouped bar chart ## Done
+
+
+6. Average Win/loss played by country_1 against country_2 and country_3 in every n years, and plot as a Grouped bar chart ## Done
+
+7. Average goal score played by country_1 against country_2 in every n years, and plot as a grouped bar chart ## Done
+12. Top n countries' highest score on average and graph in bubble plot and grouped bar chart
+
+
+13. Top n countries highest concede on average and graphed in a bubble plot, grouped bar chart
+14. Win/loss percentage in every n years by country_1 against all other countries, use a bar chart
+15. Win/loss percentage in every n years by country_1 against country_2 and country_3 using a grouped bar chart
+16. Average goal difference played by country_1 against all other countries every n years
+17. Average goal difference played by country_1 against country_2 and country_3 in every n years
+18. Similar team performance
+
+
+
+
+19 Average match played in n interval against "Sweden, Norway"
+win percentage
+Lost percentage
+Draw percentage
+Total match
+
+
+20. 
+Performance comparison Sweden Vs ["Finland", "Norway", "Denmark"] in every n interval year with start_year and end_year parameter.
+win percentage
+Lost percentage
+Draw percentage
+Total match
+
+
+Present this table in an appropriate graph 
+
+
+win percentage Lost percentage Draw percentage Total match
+
+21. Apply correlated team by using statistical correlation formula by comparing goal score, goal concede, win/loss match parameter. 
+
+
+22. Implement k-means Cluster by using goal-score (x-axis), goal-concede (y-axis)
+
+
+
+
+
+Note: 
+1. country_2 and country_3 are optional parameter.
+2. The year number will be provided as a function parameter
+3. In every case, use a bar chart, and when multiple countries are provided as country_1, country_2, then plot as a Grouped bar chart
+4. Every time, print/display the table
+5. First, write the 15 questions in a list or appendix in Markdown and style them accordingly, if necessary.
+6. Every time, use the title question and write code as well as a plot
+
+
+
+
+"Egypt": "#C09300" 
+"United States": "#B31942" 
+"Spain": "#AA151B" 
+"Japan": "#BC002D"
+
+
+<h1 style="line-height:3rem;">7. Average goal score played by country_1 against country_2 in every n years, and plot as a grouped bar chart
+</h1>
+
+
+Can you please share code to implement 
+1. Average Win/loss played by team_1 ("Finland") vs Opponent ["Sweden", "Norway", "Denmark"] in every n years and plot in a bar chart
+If opposite_team is not provided then count all of them.
+2. Include mean (Dash Line) and standard deviation (Rectangular) 
+
+
+def total_average_win_loss_by_specific_team(df, interval = 10, team_1 = "Finland", opposite_team = ["Sweden", "Norway", "Denmark"], start_year = 1990, end_year = 2024):
+    .............
+    return fig
+
+
+
+"Greece": 0D5EAF,
+"Poland": DC143C,
+"Portugal": 046A38,
+"Greece": 0D5EAF,
+"Turkey": C8102E,
+"Wales": 00B140,
+
+
+
+Can you please share code to implement 
+def average_goal_score_conced(df, interval = 10, team_1 = "Finland", opposite_team = ["Sweden", "Norway", "Denmark"], start_year = 1990, end_year = 2024):
+
+
+7. Average goal scored and conceded played by team_1 against opposite_team in every n years, and plot as a grouped bar chart and stack. 
+
+
+Include goal difference in the stack graph. Goal score + concede + Goal difference in one bar stack graph
+ If it is positive I mean win the game then color it withrgb(8, 162, 201) If negative or lost the game then color it withrgb(249, 206, 65)

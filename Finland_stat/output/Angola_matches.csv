@@ -1,0 +1,403 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1976-02-08,Congo,Angola,3,2,Friendly,Brazzaville,Congo,False
+1976-02-15,Angola,Congo,1,1,Friendly,Luanda,Angola,False
+1978-08-16,São Tomé and Príncipe,Angola,3,3,Friendly,São Tomé,São Tomé and Príncipe,False
+1979-04-25,São Tomé and Príncipe,Angola,1,2,Friendly,São Tomé,São Tomé and Príncipe,False
+1979-11-25,Angola,Gabon,1,0,Friendly,Luanda,Angola,False
+1979-11-27,Angola,Cameroon,0,1,Friendly,Luanda,Angola,False
+1979-11-29,Angola,Congo,0,1,Friendly,Luanda,Angola,False
+1980-11-01,Zambia,Angola,0,0,Friendly,Lusaka,Zambia,False
+1980-11-02,Zambia,Angola,1,1,Friendly,Lusaka,Zambia,False
+1980-11-16,Angola,Congo,1,1,African Cup of Nations qualification,Luanda,Angola,False
+1980-11-30,Congo,Angola,0,0,African Cup of Nations qualification,Brazzaville,Congo,False
+1981-04-04,Nigeria,Angola,0,0,Friendly,Lagos,Nigeria,False
+1981-06-25,Mozambique,Angola,0,1,Friendly,Maputo,Mozambique,False
+1981-06-27,Angola,Zimbabwe,1,1,Friendly,Maputo,Mozambique,True
+1982-10-13,Gabon,Angola,2,2,African Cup of Nations qualification,Libreville,Gabon,False
+1982-11-11,Angola,Ghana,1,2,Friendly,Luanda,Angola,False
+1982-11-14,Angola,Gabon,4,0,African Cup of Nations qualification,Luanda,Angola,False
+1982-12-08,Tunisia,Angola,3,1,Friendly,Tunis,Tunisia,False
+1983-04-03,Congo,Angola,1,0,Friendly,Brazzaville,Congo,False
+1983-04-09,Nigeria,Angola,2,0,African Cup of Nations qualification,Lagos,Nigeria,False
+1983-04-24,Angola,Nigeria,1,0,African Cup of Nations qualification,Luanda,Angola,False
+1984-07-01,Angola,Senegal,1,0,FIFA World Cup qualification,Luanda,Angola,False
+1984-07-15,Senegal,Angola,1,0,FIFA World Cup qualification,Dakar,Senegal,False
+1984-09-30,Botswana,Angola,1,3,Friendly,Gaborone,Botswana,False
+1984-11-11,Angola,Congo,1,0,Friendly,Luanda,Angola,False
+1985-03-31,Angola,Algeria,0,0,FIFA World Cup qualification,Luanda,Angola,False
+1985-04-19,Algeria,Angola,3,2,FIFA World Cup qualification,Algiers,Algeria,False
+1985-06-30,Angola,São Tomé and Príncipe,3,2,Friendly,Praia,Cape Verde,True
+1985-07-09,Cape Verde,Angola,0,0,Friendly,Mindelo,Cape Verde,False
+1985-07-10,Angola,Guinea-Bissau,3,1,Friendly,Praia,Cape Verde,True
+1985-11-08,Angola,Mozambique,0,0,Friendly,Luanda,Angola,False
+1985-11-10,Angola,Zimbabwe,2,3,Friendly,Luanda,Angola,False
+1986-10-05,Angola,Gabon,1,0,African Cup of Nations qualification,Luanda,Angola,False
+1986-10-19,Gabon,Angola,1,0,African Cup of Nations qualification,Libreville,Gabon,False
+1986-12-07,Angola,Tanzania,1,0,Friendly,Luanda,Angola,False
+1986-12-10,Angola,Zambia,0,1,Friendly,Luanda,Angola,False
+1987-03-29,DR Congo,Angola,3,0,African Cup of Nations qualification,Kinshasa,Zaïre,False
+1987-04-11,Angola,DR Congo,1,0,African Cup of Nations qualification,Luanda,Angola,False
+1987-07-26,Angola,Guinea-Bissau,0,0,Friendly,São Tomé,São Tomé and Príncipe,True
+1987-07-27,São Tomé and Príncipe,Angola,1,1,Friendly,São Tomé,São Tomé and Príncipe,False
+1987-10-24,Zambia,Angola,2,0,Friendly,Lusaka,Zambia,False
+1987-11-29,Gabon,Angola,0,0,Friendly,Libreville,Gabon,False
+1987-12-08,Angola,Cuba,3,2,Friendly,Luanda,Angola,False
+1987-12-10,Angola,Benin,0,0,Friendly,Luanda,Angola,False
+1988-08-01,Angola,Gabon,4,1,Friendly,Luanda,Angola,False
+1988-08-07,Angola,Sudan,0,0,FIFA World Cup qualification,Luanda,Angola,False
+1988-10-02,Angola,Equatorial Guinea,0,1,African Cup of Nations qualification,Luanda,Angola,False
+1988-10-16,Equatorial Guinea,Angola,0,0,African Cup of Nations qualification,Malabo,Equatorial Guinea,False
+1988-10-29,Algeria,Angola,1,1,Friendly,Mascara,Algeria,False
+1988-11-08,Tunisia,Angola,5,0,Friendly,Tunis,Tunisia,False
+1988-11-11,Sudan,Angola,1,2,FIFA World Cup qualification,Khartoum,Sudan,False
+1988-11-18,Angola,Senegal,1,2,Friendly,Praia,Cape Verde,True
+1988-11-19,Cape Verde,Angola,2,3,Friendly,Praia,Cape Verde,False
+1988-12-30,DR Congo,Angola,0,0,Friendly,Kinshasa,Zaïre,False
+1989-01-08,Cameroon,Angola,1,1,FIFA World Cup qualification,Yaoundé,Cameroon,False
+1989-01-22,Angola,Nigeria,2,2,FIFA World Cup qualification,Luanda,Angola,False
+1989-03-29,Portugal,Angola,6,0,Friendly,Lisbon,Portugal,False
+1989-04-09,Angola,Ivory Coast,0,2,African Cup of Nations qualification,Luanda,Angola,False
+1989-04-13,Angola,Mozambique,1,1,Friendly,Luanda,Angola,False
+1989-04-23,Ivory Coast,Angola,4,1,African Cup of Nations qualification,Abidjan,Ivory Coast,False
+1989-05-16,Namibia,Angola,0,1,Friendly,Windhoek,Namibia,False
+1989-06-11,Angola,Gabon,2,0,FIFA World Cup qualification,Luanda,Angola,False
+1989-06-25,Angola,Cameroon,1,2,FIFA World Cup qualification,Luanda,Angola,False
+1989-08-12,Nigeria,Angola,1,0,FIFA World Cup qualification,Lagos,Nigeria,False
+1989-08-27,Gabon,Angola,1,0,FIFA World Cup qualification,Libreville,Gabon,False
+1990-03-06,Mozambique,Angola,2,1,Friendly,Maputo,Mozambique,False
+1990-03-08,Angola,Zimbabwe,0,2,Friendly,Maputo,Mozambique,True
+1990-03-10,Angola,Lesotho,3,1,Friendly,Maputo,Mozambique,True
+1990-08-19,Angola,Madagascar,0,1,African Cup of Nations qualification,Luanda,Angola,False
+1990-08-30,Mozambique,Angola,0,2,Friendly,Maputo,Mozambique,False
+1990-09-01,Eswatini,Angola,1,1,African Cup of Nations qualification,Lobamba,Swaziland,False
+1990-11-09,Angola,Mozambique,4,2,Friendly,Luanda,Angola,False
+1990-11-11,Angola,Congo,1,0,Friendly,Luanda,Angola,False
+1991-04-14,Angola,Zambia,1,2,African Cup of Nations qualification,Luanda,Angola,False
+1991-05-04,Madagascar,Angola,0,0,African Cup of Nations qualification,Antananarivo,Madagascar,False
+1991-07-15,Angola,Eswatini,1,1,African Cup of Nations qualification,Luanda,Angola,False
+1991-07-28,Zambia,Angola,1,0,African Cup of Nations qualification,Lusaka,Zambia,False
+1992-10-11,Egypt,Angola,1,0,FIFA World Cup qualification,Cairo,Egypt,False
+1993-01-10,Angola,Zimbabwe,1,1,FIFA World Cup qualification,Luanda,Angola,False
+1993-01-18,Angola,Egypt,0,0,FIFA World Cup qualification,Luanda,Angola,False
+1993-01-31,Zimbabwe,Angola,2,1,FIFA World Cup qualification,Harare,Zimbabwe,False
+1993-02-28,Togo,Angola,0,1,FIFA World Cup qualification,Lomé,Togo,False
+1994-03-19,Angola,Gabon,2,1,Friendly,Luanda,Angola,False
+1994-09-04,Angola,Namibia,2,0,African Cup of Nations qualification,Luanda,Angola,False
+1994-10-16,Guinea,Angola,3,1,African Cup of Nations qualification,Conakry,Guinea,False
+1994-11-13,Mali,Angola,0,0,African Cup of Nations qualification,Bamako,Mali,False
+1995-01-08,Angola,Mozambique,1,0,African Cup of Nations qualification,Luanda,Angola,False
+1995-01-22,Botswana,Angola,1,2,African Cup of Nations qualification,Gaborone,Botswana,False
+1995-04-09,Namibia,Angola,2,2,African Cup of Nations qualification,Windhoek,Namibia,False
+1995-04-23,Angola,Guinea,3,0,African Cup of Nations qualification,Luanda,Angola,False
+1995-06-04,Angola,Mali,1,0,African Cup of Nations qualification,Luanda,Angola,False
+1995-07-16,Mozambique,Angola,2,1,African Cup of Nations qualification,Maputo,Mozambique,False
+1995-07-30,Angola,Botswana,4,0,African Cup of Nations qualification,Luanda,Angola,False
+1996-01-15,Egypt,Angola,2,1,African Cup of Nations,Johannesburg,South Africa,True
+1996-01-20,South Africa,Angola,1,0,African Cup of Nations,Johannesburg,South Africa,False
+1996-01-24,Angola,Cameroon,3,3,African Cup of Nations,Durban,South Africa,True
+1996-06-01,Uganda,Angola,0,2,FIFA World Cup qualification,Kampala,Uganda,False
+1996-06-16,Angola,Uganda,3,1,FIFA World Cup qualification,Luanda,Angola,False
+1996-10-06,Ghana,Angola,2,1,African Cup of Nations qualification,Kumasi,Ghana,False
+1996-11-10,Angola,Zimbabwe,2,1,FIFA World Cup qualification,Luanda,Angola,False
+1997-01-12,Cameroon,Angola,0,0,FIFA World Cup qualification,Yaoundé,Cameroon,False
+1997-02-23,Zimbabwe,Angola,1,0,African Cup of Nations qualification,Harare,Zimbabwe,False
+1997-04-06,Angola,Togo,3,1,FIFA World Cup qualification,Luanda,Angola,False
+1997-04-27,Zimbabwe,Angola,0,0,FIFA World Cup qualification,Harare,Zimbabwe,False
+1997-06-08,Angola,Cameroon,1,1,FIFA World Cup qualification,Luanda,Angola,False
+1997-06-22,Angola,Ghana,1,0,African Cup of Nations qualification,Luanda,Angola,False
+1997-07-27,Angola,Zimbabwe,2,1,African Cup of Nations qualification,Luanda,Angola,False
+1997-08-17,Togo,Angola,1,1,FIFA World Cup qualification,Lomé,Togo,False
+1998-01-14,Morocco,Angola,2,1,Friendly,Casablanca,Morocco,False
+1998-01-28,Cameroon,Angola,1,0,Friendly,Garoua,Cameroon,False
+1998-02-08,South Africa,Angola,0,0,African Cup of Nations,Bobo Dioulasso,Burkina Faso,True
+1998-02-12,Angola,Namibia,3,3,African Cup of Nations,Bobo Dioulasso,Burkina Faso,True
+1998-02-16,Ivory Coast,Angola,5,2,African Cup of Nations,Ouagadougou,Burkina Faso,True
+1998-03-08,Eswatini,Angola,0,1,COSAFA Cup qualification,Lobamba,Swaziland,False
+1998-05-03,Angola,Zambia,1,1,COSAFA Cup,Luanda,Angola,False
+1998-05-30,Namibia,Angola,1,1,COSAFA Cup,Windhoek,Namibia,False
+1998-07-19,Mozambique,Angola,1,1,COSAFA Cup,Maputo,Mozambique,False
+1998-08-02,Benin,Angola,2,1,African Cup of Nations qualification,Cotonou,Benin,False
+1998-08-16,Angola,Benin,2,0,African Cup of Nations qualification,Luanda,Angola,False
+1998-08-30,Angola,Zimbabwe,2,1,COSAFA Cup,Luanda,Angola,False
+1998-10-03,South Africa,Angola,1,0,African Cup of Nations qualification,Johannesburg,South Africa,False
+1999-01-24,Angola,Gabon,3,1,African Cup of Nations qualification,Luanda,Angola,False
+1999-02-28,Angola,Mauritius,0,2,African Cup of Nations qualification,Luanda,Angola,False
+1999-04-10,Mauritius,Angola,1,1,African Cup of Nations qualification,Curepipe,Mauritius,False
+1999-04-24,Malawi,Angola,1,2,COSAFA Cup qualification,Blantyre,Malawi,False
+1999-06-06,Gabon,Angola,3,1,African Cup of Nations qualification,Libreville,Gabon,False
+1999-06-20,Angola,South Africa,2,2,African Cup of Nations qualification,Luanda,Angola,False
+1999-07-04,Lesotho,Angola,0,1,COSAFA Cup,Maseru,Lesotho,False
+1999-08-14,Zambia,Angola,0,1,COSAFA Cup,Lusaka,Zambia,False
+1999-09-26,Angola,Namibia,1,0,COSAFA Cup,Luanda,Angola,False
+1999-10-02,Namibia,Angola,1,1,COSAFA Cup,Windhoek,Namibia,False
+2000-04-09,Eswatini,Angola,0,1,FIFA World Cup qualification,Lobamba,Swaziland,False
+2000-04-23,Angola,Eswatini,7,1,FIFA World Cup qualification,Luanda,Angola,False
+2000-05-20,Malawi,Angola,0,0,COSAFA Cup,Blantyre,Malawi,False
+2000-06-18,Angola,Zambia,2,1,FIFA World Cup qualification,Luanda,Angola,False
+2000-07-02,Equatorial Guinea,Angola,0,1,African Cup of Nations qualification,Malabo,Equatorial Guinea,False
+2000-07-06,Cape Verde,Angola,1,1,Friendly,Praia,Cape Verde,False
+2000-07-09,Cameroon,Angola,3,0,FIFA World Cup qualification,Yaoundé,Cameroon,False
+2000-07-16,Angola,Equatorial Guinea,4,1,African Cup of Nations qualification,Luanda,Angola,False
+2000-07-23,Lesotho,Angola,2,1,COSAFA Cup,Maseru,Lesotho,False
+2000-09-03,Burundi,Angola,0,0,African Cup of Nations qualification,Bujumbura,Burundi,False
+2000-10-08,Angola,Algeria,2,2,African Cup of Nations qualification,Luanda,Angola,False
+2001-01-06,Eswatini,Angola,1,0,Friendly,Manzini,Swaziland,False
+2001-01-07,Angola,Lesotho,2,0,Friendly,Manzini,Swaziland,True
+2001-01-13,Burkina Faso,Angola,1,0,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+2001-01-28,Angola,Libya,3,1,FIFA World Cup qualification,Luanda,Angola,False
+2001-03-11,Togo,Angola,1,1,FIFA World Cup qualification,Lomé,Togo,False
+2001-03-25,Angola,Burkina Faso,2,0,African Cup of Nations qualification,Luanda,Angola,False
+2001-04-21,Zambia,Angola,1,1,FIFA World Cup qualification,Chingola,Zambia,False
+2001-05-06,Angola,Cameroon,2,0,FIFA World Cup qualification,Luanda,Angola,False
+2001-06-01,Algeria,Angola,3,2,African Cup of Nations qualification,Algiers,Algeria,False
+2001-06-10,Angola,Mauritius,1,0,COSAFA Cup,Luanda,Angola,False
+2001-06-17,Angola,Burundi,2,1,African Cup of Nations qualification,Cabinda,Angola,False
+2001-06-29,Libya,Angola,1,1,FIFA World Cup qualification,Tripoli,Libya,False
+2001-07-29,Angola,Togo,1,1,FIFA World Cup qualification,Luanda,Angola,False
+2001-08-18,Zambia,Angola,1,1,COSAFA Cup,Lusaka,Zambia,False
+2001-09-16,Angola,Zimbabwe,0,0,COSAFA Cup,Luanda,Angola,False
+2001-09-30,Zimbabwe,Angola,0,1,COSAFA Cup,Harare,Zimbabwe,False
+2001-11-14,Portugal,Angola,5,1,Friendly,Lisbon,Portugal,False
+2002-01-15,South Africa,Angola,1,0,Friendly,Mafikeng,South Africa,False
+2002-05-18,Malawi,Angola,2,1,COSAFA Cup,Blantyre,Malawi,False
+2002-06-25,Mozambique,Angola,1,1,Friendly,Maputo,Mozambique,False
+2002-08-25,Angola,Gabon,1,0,Friendly,Luanda,Angola,False
+2002-09-08,Angola,Nigeria,0,0,African Cup of Nations qualification,Luanda,Angola,False
+2002-10-12,Malawi,Angola,1,0,African Cup of Nations qualification,Lilongwe,Malawi,False
+2003-03-29,Angola,Algeria,1,1,Friendly,Luanda,Angola,False
+2003-04-20,Zimbabwe,Angola,1,0,COSAFA Cup,Harare,Zimbabwe,False
+2003-05-31,Gabon,Angola,1,1,Friendly,Libreville,Gabon,False
+2003-06-21,Nigeria,Angola,2,2,African Cup of Nations qualification,Benin City,Nigeria,False
+2003-07-06,Angola,Malawi,5,1,African Cup of Nations qualification,Luanda,Angola,False
+2003-08-20,Angola,DR Congo,0,2,Friendly,Luanda,Angola,False
+2003-09-07,Angola,Namibia,2,0,Friendly,Luanda,Angola,False
+2003-09-20,Namibia,Angola,1,3,Friendly,Windhoek,Namibia,False
+2003-10-12,Chad,Angola,3,1,FIFA World Cup qualification,N'Djamena,Chad,False
+2003-11-16,Angola,Chad,2,0,FIFA World Cup qualification,Luanda,Angola,False
+2004-03-31,Morocco,Angola,3,1,Friendly,Casablanca,Morocco,False
+2004-04-28,Ghana,Angola,1,1,Friendly,Accra,Ghana,False
+2004-05-09,Angola,Namibia,2,1,COSAFA Cup,Luanda,Angola,False
+2004-05-23,DR Congo,Angola,1,3,Friendly,Kinshasa,DR Congo,False
+2004-06-05,Algeria,Angola,0,0,FIFA World Cup qualification,Annaba,Algeria,False
+2004-06-20,Angola,Nigeria,1,0,FIFA World Cup qualification,Luanda,Angola,False
+2004-07-03,Gabon,Angola,2,2,FIFA World Cup qualification,Libreville,Gabon,False
+2004-07-18,Angola,Botswana,1,1,COSAFA Cup,Luanda,Angola,False
+2004-09-05,Angola,Rwanda,1,0,FIFA World Cup qualification,Luanda,Angola,False
+2004-09-19,Mozambique,Angola,0,1,COSAFA Cup,Maputo,Mozambique,False
+2004-10-10,Angola,Zimbabwe,1,0,FIFA World Cup qualification,Luanda,Angola,False
+2004-11-20,Zambia,Angola,0,0,COSAFA Cup,Lusaka,Zambia,False
+2005-02-22,Congo,Angola,0,2,Friendly,Brazzaville,Congo,False
+2005-03-27,Zimbabwe,Angola,2,0,FIFA World Cup qualification,Harare,Zimbabwe,False
+2005-05-27,Tunisia,Angola,4,1,Friendly,Tunis,Tunisia,False
+2005-06-05,Angola,Algeria,2,1,FIFA World Cup qualification,Luanda,Angola,False
+2005-06-18,Nigeria,Angola,1,1,FIFA World Cup qualification,Kano,Nigeria,False
+2005-08-09,Botswana,Angola,0,0,Friendly,Johannesburg,South Africa,True
+2005-08-10,Angola,Botswana,0,0,Friendly,Johannesburg,South Africa,True
+2005-08-13,Angola,Zimbabwe,1,2,COSAFA Cup,Mafikeng,South Africa,True
+2005-08-17,Angola,Cape Verde,2,1,Friendly,Lisbon,Portugal,True
+2005-09-04,Angola,Gabon,3,0,FIFA World Cup qualification,Luanda,Angola,False
+2005-10-08,Rwanda,Angola,0,1,FIFA World Cup qualification,Kigali,Rwanda,False
+2005-11-16,Japan,Angola,1,0,Friendly,Tokyo,Japan,False
+2006-01-17,Morocco,Angola,2,2,Friendly,Marrakech,Morocco,False
+2006-01-21,Cameroon,Angola,3,1,African Cup of Nations,Cairo,Egypt,True
+2006-01-25,Angola,DR Congo,0,0,African Cup of Nations,Cairo,Egypt,True
+2006-01-29,Angola,Togo,3,2,African Cup of Nations,Cairo,Egypt,True
+2006-03-01,South Korea,Angola,1,0,Friendly,Seoul,South Korea,False
+2006-04-29,Angola,Mauritius,5,1,COSAFA Cup,Maseru,Lesotho,True
+2006-04-30,Lesotho,Angola,1,3,COSAFA Cup,Maseru,Lesotho,False
+2006-05-30,Argentina,Angola,2,0,Friendly,Salerno,Italy,True
+2006-06-02,Angola,Turkey,2,3,Friendly,Sittard,Netherlands,True
+2006-06-11,Angola,Portugal,0,1,FIFA World Cup,Cologne,Germany,True
+2006-06-16,Mexico,Angola,0,0,FIFA World Cup,Hanover,Germany,True
+2006-06-21,Iran,Angola,1,1,FIFA World Cup,Leipzig,Germany,True
+2006-09-03,Eswatini,Angola,0,2,African Cup of Nations qualification,Lobamba,Swaziland,False
+2006-09-17,Zimbabwe,Angola,1,2,COSAFA Cup,Harare,Zimbabwe,False
+2006-10-08,Angola,Kenya,3,1,African Cup of Nations qualification,Luanda,Angola,False
+2006-10-21,Zambia,Angola,2,0,COSAFA Cup,Lusaka,Zambia,False
+2006-11-18,Tanzania,Angola,1,1,Friendly,Dar es Salaam,Tanzania,False
+2007-03-25,Angola,Eritrea,6,1,African Cup of Nations qualification,Luanda,Angola,False
+2007-04-04,Angola,Congo,0,0,Friendly,Cabinda,Angola,False
+2007-06-02,Eritrea,Angola,1,1,African Cup of Nations qualification,Asmara,Eritrea,False
+2007-06-17,Angola,Eswatini,3,0,African Cup of Nations qualification,Luanda,Angola,False
+2007-07-28,Angola,Lesotho,2,0,COSAFA Cup,Gaborone,Botswana,True
+2007-07-29,Botswana,Angola,0,0,COSAFA Cup,Gaborone,Botswana,False
+2007-08-22,DR Congo,Angola,3,1,Friendly,Kinshasa,DR Congo,False
+2007-09-08,Kenya,Angola,2,1,African Cup of Nations qualification,Nairobi,Kenya,False
+2007-11-17,Angola,Ivory Coast,2,1,Friendly,Melun,France,True
+2007-11-20,Angola,Guinea,0,3,Friendly,Melun,France,True
+2007-12-29,Canary Islands,Angola,2,0,Friendly,Las Palmas,Spain,False
+2008-01-13,Angola,Egypt,3,3,Friendly,Alverca do Ribatejo,Portugal,True
+2008-01-16,Morocco,Angola,2,1,Friendly,Rabat,Morocco,False
+2008-01-23,South Africa,Angola,1,1,African Cup of Nations,Tamale,Ghana,True
+2008-01-27,Senegal,Angola,1,3,African Cup of Nations,Tamale,Ghana,True
+2008-01-31,Tunisia,Angola,0,0,African Cup of Nations,Tamale,Ghana,True
+2008-02-04,Egypt,Angola,2,1,African Cup of Nations,Kumasi,Ghana,True
+2008-06-01,Angola,Benin,3,0,FIFA World Cup qualification,Luanda,Angola,False
+2008-06-08,Niger,Angola,1,2,FIFA World Cup qualification,Niamey,Niger,False
+2008-06-14,Uganda,Angola,3,1,FIFA World Cup qualification,Kampala,Uganda,False
+2008-06-23,Angola,Uganda,0,0,FIFA World Cup qualification,Luanda,Angola,False
+2008-08-20,Tunisia,Angola,1,1,Friendly,Monastir,Tunisia,False
+2008-09-07,Benin,Angola,3,2,FIFA World Cup qualification,Cotonou,Benin,False
+2008-10-12,Angola,Niger,3,1,FIFA World Cup qualification,Luanda,Angola,False
+2008-11-19,Venezuela,Angola,0,0,Friendly,Barinas,Venezuela,False
+2009-02-11,Angola,Mali,0,4,Friendly,Bois-Guillaume,France,True
+2009-03-25,Angola,Cape Verde,0,1,Friendly,Olhão,Portugal,True
+2009-03-31,Angola,Morocco,0,2,Friendly,Lisbon,Portugal,True
+2009-04-04,Angola,Namibia,0,0,Friendly,Dundo,Angola,False
+2009-08-12,Togo,Angola,0,2,Friendly,Lisbon,Portugal,True
+2009-09-05,Angola,Senegal,1,1,Friendly,Lisbon,Portugal,True
+2009-09-09,Angola,Cape Verde,1,1,Friendly,Lisbon,Portugal,True
+2009-10-10,Malta,Angola,1,2,Friendly,Vila Real de Santo António,Portugal,True
+2009-10-14,Angola,Cameroon,0,0,Friendly,Olhão,Portugal,True
+2009-10-26,South Africa,Angola,2,0,COSAFA Cup,Bulawayo,Zimbabwe,True
+2009-11-14,Angola,Congo,1,1,Friendly,Luanda,Angola,False
+2009-11-18,Angola,Ghana,0,0,Friendly,Luanda,Angola,False
+2009-12-30,Angola,Estonia,0,1,Friendly,Vila Real de Santo António,Portugal,True
+2010-01-03,Angola,Gambia,1,1,Friendly,Vila Real de Santo António,Portugal,True
+2010-01-10,Angola,Mali,4,4,African Cup of Nations,Luanda,Angola,False
+2010-01-14,Angola,Malawi,2,0,African Cup of Nations,Luanda,Angola,False
+2010-01-18,Angola,Algeria,0,0,African Cup of Nations,Luanda,Angola,False
+2010-01-24,Angola,Ghana,0,1,African Cup of Nations,Luanda,Angola,False
+2010-03-03,Angola,Latvia,1,1,Friendly,Luanda,Angola,False
+2010-05-13,Mexico,Angola,1,0,Friendly,Houston,United States,True
+2010-08-11,Angola,Uruguay,0,2,Friendly,Lisbon,Portugal,True
+2010-09-04,Uganda,Angola,3,0,African Cup of Nations qualification,Kampala,Uganda,False
+2010-10-09,Angola,Guinea-Bissau,1,0,African Cup of Nations qualification,Luanda,Angola,False
+2010-10-12,United Arab Emirates,Angola,0,2,Friendly,Abu Dhabi,United Arab Emirates,False
+2011-01-02,Iran,Angola,1,0,Friendly,Doha,Qatar,True
+2011-01-04,Saudi Arabia,Angola,0,0,Friendly,Dammam,Saudi Arabia,False
+2011-03-26,Kenya,Angola,2,1,African Cup of Nations qualification,Nairobi,Kenya,False
+2011-06-05,Angola,Kenya,1,0,African Cup of Nations qualification,Luanda,Angola,False
+2011-08-10,Liberia,Angola,0,0,Friendly,Paynesville,Liberia,False
+2011-08-27,Angola,DR Congo,1,2,Friendly,Dundo,Angola,False
+2011-09-04,Angola,Uganda,2,0,African Cup of Nations qualification,Luanda,Angola,False
+2011-10-08,Guinea-Bissau,Angola,0,2,African Cup of Nations qualification,Bissau,Guinea-Bissau,False
+2011-12-14,Angola,Cameroon,1,1,Friendly,Cabinda,Angola,False
+2011-12-18,Angola,Zambia,1,0,Friendly,Dundo,Angola,False
+2011-12-22,Angola,Namibia,0,0,Friendly,Lubango,Angola,False
+2012-01-11,Nigeria,Angola,0,0,Friendly,Abuja,Nigeria,False
+2012-01-14,Angola,Sierra Leone,3,1,Friendly,Cabinda,Angola,False
+2012-01-22,Burkina Faso,Angola,1,2,African Cup of Nations,Malabo,Equatorial Guinea,True
+2012-01-26,Sudan,Angola,2,2,African Cup of Nations,Malabo,Equatorial Guinea,True
+2012-01-30,Ivory Coast,Angola,2,0,African Cup of Nations,Malabo,Equatorial Guinea,True
+2012-05-16,Angola,Zambia,0,0,Friendly,Luanda,Angola,False
+2012-05-29,Angola,North Macedonia,0,0,Friendly,Cascais,Portugal,True
+2012-06-03,Angola,Uganda,1,1,FIFA World Cup qualification,Luanda,Angola,False
+2012-06-10,Liberia,Angola,0,0,FIFA World Cup qualification,Monrovia,Liberia,False
+2012-08-15,Angola,Mozambique,2,0,Friendly,Benguela,Angola,False
+2012-09-09,Zimbabwe,Angola,3,1,African Cup of Nations qualification,Harare,Zimbabwe,False
+2012-10-14,Angola,Zimbabwe,2,0,African Cup of Nations qualification,Luanda,Angola,False
+2012-11-14,Angola,Congo,1,1,Friendly,Estoril,Portugal,True
+2012-12-15,Angola,Gambia,1,1,Friendly,Benguela,Angola,False
+2012-12-22,Angola,Rwanda,1,0,Friendly,Luanda,Angola,False
+2013-01-05,Zambia,Angola,0,2,Friendly,Johannesburg,South Africa,True
+2013-01-13,Angola,Botswana,2,0,Friendly,Johannesburg,South Africa,True
+2013-01-19,Angola,Morocco,0,0,African Cup of Nations,Johannesburg,South Africa,True
+2013-01-23,South Africa,Angola,2,0,African Cup of Nations,Durban,South Africa,False
+2013-01-27,Cape Verde,Angola,2,1,African Cup of Nations,Port Elizabeth,South Africa,True
+2013-03-23,Senegal,Angola,1,1,FIFA World Cup qualification,Conakry,Guinea,True
+2013-06-08,Angola,Senegal,1,1,FIFA World Cup qualification,Luanda,Angola,False
+2013-06-15,Uganda,Angola,2,1,FIFA World Cup qualification,Kampala,Uganda,False
+2013-07-14,Angola,Lesotho,1,1,COSAFA Cup,Kitwe,Zambia,True
+2013-07-16,Malawi,Angola,2,3,COSAFA Cup,Kitwe,Zambia,True
+2013-07-18,Angola,Mozambique,0,1,COSAFA Cup,Kitwe,Zambia,True
+2013-09-07,Angola,Liberia,4,1,FIFA World Cup qualification,Lubango,Angola,False
+2014-03-05,Mozambique,Angola,1,1,Friendly,Maputo,Mozambique,False
+2014-05-28,Angola,Morocco,2,0,Friendly,Faro,Portugal,True
+2014-05-30,Angola,Iran,1,1,Friendly,Hartberg,Austria,True
+2014-08-13,Angola,Botswana,0,0,Friendly,Luanda,Angola,False
+2014-09-06,Gabon,Angola,1,0,African Cup of Nations qualification,Libreville,Gabon,False
+2014-09-10,Angola,Burkina Faso,0,3,African Cup of Nations qualification,Luanda,Angola,False
+2014-10-10,Lesotho,Angola,0,0,African Cup of Nations qualification,Maseru,Lesotho,False
+2014-10-15,Angola,Lesotho,4,0,African Cup of Nations qualification,Luanda,Angola,False
+2014-11-15,Angola,Gabon,0,0,African Cup of Nations qualification,Luanda,Angola,False
+2014-11-19,Burkina Faso,Angola,1,1,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+2015-03-26,Ivory Coast,Angola,2,0,Friendly,Abidjan,Ivory Coast,False
+2015-06-13,Angola,Central African Republic,4,0,African Cup of Nations qualification,Lubango,Angola,False
+2015-06-16,South Africa,Angola,2,1,Friendly,Cape Town,South Africa,False
+2015-09-06,Madagascar,Angola,0,0,African Cup of Nations qualification,Antananarivo,Madagascar,False
+2015-11-06,Angola,Namibia,1,0,Friendly,Luanda,Angola,False
+2015-11-07,Angola,DR Congo,1,0,Friendly,Luanda,Angola,False
+2015-11-13,Angola,South Africa,1,3,FIFA World Cup qualification,Benguela,Angola,False
+2015-11-17,South Africa,Angola,1,0,FIFA World Cup qualification,Durban,South Africa,False
+2016-03-26,DR Congo,Angola,2,1,African Cup of Nations qualification,Kinshasa,DR Congo,False
+2016-03-29,Angola,DR Congo,0,2,African Cup of Nations qualification,Luanda,Angola,False
+2016-06-05,Central African Republic,Angola,3,0,African Cup of Nations qualification,Bangui,Central African Republic,False
+2016-06-12,Malawi,Angola,3,0,COSAFA Cup,Windhoek,Namibia,True
+2016-06-14,Angola,Lesotho,0,2,COSAFA Cup,Windhoek,Namibia,True
+2016-06-16,Angola,Mauritius,0,2,COSAFA Cup,Windhoek,Namibia,True
+2016-09-03,Angola,Madagascar,1,1,African Cup of Nations qualification,Luanda,Angola,False
+2016-09-30,Botswana,Angola,1,1,Friendly,Gaborone,Botswana,False
+2017-03-25,Mozambique,Angola,2,0,Friendly,Maputo,Mozambique,False
+2017-03-28,South Africa,Angola,0,0,Friendly,East London,South Africa,False
+2017-06-10,Burkina Faso,Angola,3,1,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+2017-06-25,Mauritius,Angola,0,1,COSAFA Cup,Moruleng,South Africa,True
+2017-06-27,Angola,Tanzania,0,0,COSAFA Cup,Rustenburg,South Africa,True
+2017-06-29,Malawi,Angola,0,0,COSAFA Cup,Rustenburg,South Africa,True
+2018-03-21,South Africa,Angola,1,1,Friendly,Ndola,Zambia,True
+2018-03-24,Angola,Zimbabwe,2,2,Friendly,Ndola,Zambia,True
+2018-05-28,Angola,Botswana,1,2,COSAFA Cup,Polokwane,South Africa,True
+2018-05-30,Angola,Mauritius,1,0,COSAFA Cup,Polokwane,South Africa,True
+2018-06-01,Angola,Malawi,0,0,COSAFA Cup,Polokwane,South Africa,True
+2018-09-09,Angola,Botswana,1,0,African Cup of Nations qualification,Luanda,Angola,False
+2018-10-12,Angola,Mauritania,4,1,African Cup of Nations qualification,Luanda,Angola,False
+2018-10-16,Mauritania,Angola,1,0,African Cup of Nations qualification,Nouakchott,Mauritania,False
+2018-11-18,Angola,Burkina Faso,2,1,African Cup of Nations qualification,Luanda,Angola,False
+2019-03-22,Botswana,Angola,0,1,African Cup of Nations qualification,Francistown,Botswana,False
+2019-06-08,Angola,Guinea-Bissau,2,0,Friendly,Penafiel,Angola,False
+2019-06-24,Tunisia,Angola,1,1,African Cup of Nations,Suez,Egypt,True
+2019-06-29,Mauritania,Angola,0,0,African Cup of Nations,Suez,Egypt,True
+2019-07-02,Angola,Mali,0,1,African Cup of Nations,Ismailia,Egypt,True
+2019-09-06,Gambia,Angola,0,1,FIFA World Cup qualification,Bakau,Gambia,False
+2019-09-10,Angola,Gambia,2,1,FIFA World Cup qualification,Luanda,Angola,False
+2019-11-13,Angola,Gambia,1,3,African Cup of Nations qualification,Luanda,Angola,False
+2019-11-17,Gabon,Angola,2,1,African Cup of Nations qualification,Franceville,Gabon,False
+2020-10-13,Mozambique,Angola,0,3,Friendly,Rio Maior,Portugal,True
+2020-11-14,DR Congo,Angola,0,0,African Cup of Nations qualification,Kinshasa,DR Congo,False
+2020-11-17,Angola,DR Congo,0,1,African Cup of Nations qualification,Luanda,Angola,False
+2021-03-25,Gambia,Angola,1,0,African Cup of Nations qualification,Bakau,Gambia,False
+2021-03-29,Angola,Gabon,2,0,African Cup of Nations qualification,Luanda,Angola,False
+2021-09-01,Egypt,Angola,1,0,FIFA World Cup qualification,Cairo,Egypt,False
+2021-09-07,Angola,Libya,0,1,FIFA World Cup qualification,Luanda,Angola,False
+2021-10-08,Angola,Gabon,3,1,FIFA World Cup qualification,Luanda,Angola,False
+2021-10-11,Gabon,Angola,2,0,FIFA World Cup qualification,Franceville,Gabon,False
+2021-11-12,Angola,Egypt,2,2,FIFA World Cup qualification,Luanda,Angola,False
+2021-11-16,Libya,Angola,1,1,FIFA World Cup qualification,Benghazi,Libya,False
+2022-03-26,Angola,Guinea-Bissau,3,2,Friendly,Óbidos,Portugal,True
+2022-03-29,Angola,Equatorial Guinea,0,0,Friendly,Óbidos,Portugal,True
+2022-06-01,Angola,Central African Republic,2,1,African Cup of Nations qualification,Luanda,Angola,False
+2022-06-05,Madagascar,Angola,1,1,African Cup of Nations qualification,Antananarivo,Madagascar,False
+2022-07-05,Angola,Comoros,3,1,COSAFA Cup,Durban,South Africa,True
+2022-07-07,Angola,Seychelles,3,0,COSAFA Cup,Durban,South Africa,True
+2022-07-10,Botswana,Angola,1,0,COSAFA Cup,Durban,South Africa,True
+2022-11-17,Angola,Botswana,1,0,Friendly,Soweto,South Africa,True
+2022-11-20,South Africa,Angola,1,1,Friendly,Mbombela,South Africa,False
+2023-03-23,Ghana,Angola,1,0,African Cup of Nations qualification,Kumasi,Ghana,False
+2023-03-27,Angola,Ghana,1,1,African Cup of Nations qualification,Luanda,Angola,False
+2023-06-17,Central African Republic,Angola,1,2,African Cup of Nations qualification,Douala,Cameroon,True
+2023-07-07,Mozambique,Angola,1,1,COSAFA Cup,Durban,South Africa,True
+2023-07-10,Angola,Mauritius,0,1,COSAFA Cup,KwaMashu,South Africa,True
+2023-07-12,Angola,Lesotho,4,2,COSAFA Cup,Durban,South Africa,True
+2023-09-07,Angola,Madagascar,0,0,African Cup of Nations qualification,Lubango,Angola,False
+2023-09-12,Iran,Angola,4,0,Friendly,Tehran,Iran,False
+2023-10-13,Angola,Mozambique,1,1,Friendly,Albufeira,Portugal,True
+2023-10-17,Angola,DR Congo,0,0,Friendly,Setúbal,Portugal,True
+2023-11-16,Cape Verde,Angola,0,0,FIFA World Cup qualification,Praia,Cape Verde,False
+2023-11-21,Mauritius,Angola,0,0,FIFA World Cup qualification,Saint Pierre,Mauritius,False
+2024-01-06,DR Congo,Angola,0,0,Friendly,Dubai,United Arab Emirates,True
+2024-01-10,Bahrain,Angola,0,3,Friendly,Dubai,United Arab Emirates,True
+2024-01-15,Algeria,Angola,1,1,African Cup of Nations,Bouaké,Ivory Coast,True
+2024-01-20,Mauritania,Angola,2,3,African Cup of Nations,Bouaké,Ivory Coast,True
+2024-01-23,Angola,Burkina Faso,2,0,African Cup of Nations,Yamoussoukro,Ivory Coast,True
+2024-01-27,Angola,Namibia,3,0,African Cup of Nations,Bouaké,Ivory Coast,True
+2024-02-02,Nigeria,Angola,1,0,African Cup of Nations,Abidjan,Ivory Coast,True
+2024-03-22,Morocco,Angola,1,0,Friendly,Agadir,Morocco,False
+2024-03-25,Comoros,Angola,0,0,Friendly,Marrakech,Morocco,True
+2024-06-07,Angola,Eswatini,1,0,FIFA World Cup qualification,Luanda,Angola,False
+2024-06-11,Angola,Cameroon,1,1,FIFA World Cup qualification,Luanda,Angola,False
+2024-09-05,Ghana,Angola,0,1,African Cup of Nations qualification,Kumasi,Ghana,False
+2024-09-09,Angola,Sudan,2,1,African Cup of Nations qualification,Luanda,Angola,False
+2024-10-11,Angola,Niger,2,0,African Cup of Nations qualification,Luanda,Angola,False
+2024-10-15,Niger,Angola,0,1,African Cup of Nations qualification,Casablanca,Morocco,True
+2025-03-20,Libya,Angola,1,1,FIFA World Cup qualification,Benghazi,Libya,False
+2025-03-25,Angola,Cape Verde,1,2,FIFA World Cup qualification,Luanda,Angola,False

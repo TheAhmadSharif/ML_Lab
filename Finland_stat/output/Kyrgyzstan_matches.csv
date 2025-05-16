@@ -1,0 +1,186 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1956-08-03,Belarus,Kyrgyzstan,1,0,Friendly,Moscow,Soviet Union,True
+1979-07-20,Kyrgyzstan,Lithuania,0,0,Friendly,Moscow,Soviet Union,True
+1992-08-23,Uzbekistan,Kyrgyzstan,3,0,Friendly,Tashkent,Uzbekistan,False
+1992-09-26,Kyrgyzstan,Kazakhstan,1,1,Friendly,Bishkek,Kyrgyzstan,False
+1992-10-03,Kyrgyzstan,Uzbekistan,2,6,Friendly,Bishkek,Kyrgyzstan,False
+1992-10-14,Turkmenistan,Kyrgyzstan,4,0,Friendly,Ashgabat,Turkmenistan,False
+1992-10-25,Kazakhstan,Kyrgyzstan,2,0,Friendly,Qyzylorda,Kazakhstan,False
+1993-06-07,Azerbaijan,Kyrgyzstan,3,2,Friendly,Tehran,Iran,True
+1993-06-08,Kyrgyzstan,Tajikistan,1,1,Friendly,Tehran,Iran,True
+1994-04-13,Kyrgyzstan,Turkmenistan,1,5,Friendly,Tashkent,Uzbekistan,True
+1994-04-15,Kyrgyzstan,Tajikistan,0,1,Friendly,Tashkent,Uzbekistan,True
+1994-04-17,Kazakhstan,Kyrgyzstan,0,0,Friendly,Tashkent,Uzbekistan,True
+1994-04-19,Uzbekistan,Kyrgyzstan,3,0,Friendly,Tashkent,Uzbekistan,False
+1996-01-24,Saudi Arabia,Kyrgyzstan,3,0,AFC Asian Cup qualification,Riyadh,Saudi Arabia,False
+1996-01-26,Yemen,Kyrgyzstan,1,0,AFC Asian Cup qualification,Riyadh,Saudi Arabia,True
+1996-01-31,Saudi Arabia,Kyrgyzstan,2,0,AFC Asian Cup qualification,Riyadh,Saudi Arabia,False
+1996-02-02,Kyrgyzstan,Yemen,3,1,AFC Asian Cup qualification,Riyadh,Saudi Arabia,True
+1997-06-04,Kyrgyzstan,Iran,0,7,FIFA World Cup qualification,Damascus,Syria,True
+1997-06-06,Kyrgyzstan,Maldives,3,0,FIFA World Cup qualification,Damascus,Syria,True
+1997-06-09,Iran,Kyrgyzstan,3,1,FIFA World Cup qualification,Tehran,Iran,False
+1997-06-11,Kyrgyzstan,Syria,2,1,FIFA World Cup qualification,Tehran,Iran,True
+1997-06-13,Maldives,Kyrgyzstan,0,6,FIFA World Cup qualification,Tehran,Iran,True
+1999-08-03,Oman,Kyrgyzstan,3,0,AFC Asian Cup qualification,Dushanbe,Tajikistan,True
+1999-08-05,Tajikistan,Kyrgyzstan,3,2,AFC Asian Cup qualification,Dushanbe,Tajikistan,False
+1999-08-07,Iraq,Kyrgyzstan,5,1,AFC Asian Cup qualification,Dushanbe,Tajikistan,True
+2000-05-23,Jordan,Kyrgyzstan,2,0,WAFF Championship,Amman,Jordan,False
+2000-05-25,Kyrgyzstan,Lebanon,0,2,WAFF Championship,Amman,Jordan,True
+2000-05-27,Iraq,Kyrgyzstan,4,0,WAFF Championship,Amman,Jordan,True
+2000-11-15,Estonia,Kyrgyzstan,1,0,Friendly,Kuressaare,Estonia,False
+2001-01-30,Thailand,Kyrgyzstan,3,1,Friendly,Bangkok,Thailand,False
+2001-02-03,Singapore,Kyrgyzstan,0,1,FIFA World Cup qualification,Singapore,Singapore,False
+2001-02-06,Bahrain,Kyrgyzstan,1,0,FIFA World Cup qualification,Singapore,Singapore,True
+2001-02-09,Kyrgyzstan,Kuwait,0,3,FIFA World Cup qualification,Singapore,Singapore,True
+2001-02-21,Kyrgyzstan,Bahrain,1,2,FIFA World Cup qualification,Kuwait City,Kuwait,True
+2001-02-24,Kuwait,Kyrgyzstan,2,0,FIFA World Cup qualification,Kuwait City,Kuwait,False
+2001-02-27,Kyrgyzstan,Singapore,1,1,FIFA World Cup qualification,Kuwait City,Kuwait,True
+2003-03-16,Kyrgyzstan,Afghanistan,1,2,AFC Asian Cup qualification,Kathmandu,Nepal,True
+2003-03-20,Nepal,Kyrgyzstan,0,2,AFC Asian Cup qualification,Kathmandu,Nepal,False
+2003-11-29,Pakistan,Kyrgyzstan,0,2,FIFA World Cup qualification,Karachi,Pakistan,False
+2003-12-03,Kyrgyzstan,Pakistan,4,0,FIFA World Cup qualification,Bishkek,Kyrgyzstan,False
+2004-02-18,Kyrgyzstan,Tajikistan,1,2,FIFA World Cup qualification,Bishkek,Kyrgyzstan,False
+2004-03-31,Kyrgyzstan,Syria,1,1,FIFA World Cup qualification,Bishkek,Kyrgyzstan,False
+2004-06-05,Qatar,Kyrgyzstan,0,0,Friendly,Doha,Qatar,False
+2004-06-09,Bahrain,Kyrgyzstan,5,0,FIFA World Cup qualification,Muharraq,Bahrain,False
+2004-09-08,Kyrgyzstan,Bahrain,1,2,FIFA World Cup qualification,Bishkek,Kyrgyzstan,False
+2004-10-13,Tajikistan,Kyrgyzstan,2,1,FIFA World Cup qualification,Dushanbe,Tajikistan,False
+2004-11-10,Kuwait,Kyrgyzstan,3,0,Friendly,Kuwait City,Kuwait,False
+2004-11-17,Syria,Kyrgyzstan,0,1,FIFA World Cup qualification,Damascus,Syria,False
+2006-01-27,Northern Cyprus,Kyrgyzstan,3,2,Friendly,Nicosia,Northern Cyprus,False
+2006-04-02,Kyrgyzstan,Pakistan,0,1,AFC Challenge Cup,Dhaka,Bangladesh,True
+2006-04-06,Tajikistan,Kyrgyzstan,0,1,AFC Challenge Cup,Dhaka,Bangladesh,True
+2006-04-07,Macau,Kyrgyzstan,0,2,AFC Challenge Cup,Dhaka,Bangladesh,True
+2006-04-09,Palestine,Kyrgyzstan,0,1,AFC Challenge Cup,Dhaka,Bangladesh,True
+2006-04-13,Tajikistan,Kyrgyzstan,2,0,AFC Challenge Cup,Dhaka,Bangladesh,True
+2006-07-05,Kazakhstan,Kyrgyzstan,1,0,Friendly,Almaty,Kazakhstan,False
+2006-11-19,Kyrgyzstan,Zanzibar,0,1,ELF Cup,Kyrenia,Northern Cyprus,True
+2006-11-20,Găgăuzia,Kyrgyzstan,1,6,ELF Cup,Gazimağusa,Northern Cyprus,True
+2006-11-21,Greenland,Kyrgyzstan,0,1,ELF Cup,Kyrenia,Northern Cyprus,True
+2006-11-23,Kyrgyzstan,Crimea,2,3,ELF Cup,Lefkoşa,Northern Cyprus,True
+2006-11-25,Kyrgyzstan,Zanzibar,2,2,ELF Cup,Lefkoşa,Northern Cyprus,True
+2007-03-07,Kazakhstan,Kyrgyzstan,2,0,Friendly,Shymkent,Kazakhstan,False
+2007-03-09,Kyrgyzstan,Uzbekistan,0,6,Friendly,Shymkent,Kazakhstan,True
+2007-03-11,Azerbaijan,Kyrgyzstan,1,0,Friendly,Shymkent,Kazakhstan,True
+2007-08-19,Kyrgyzstan,Cambodia,4,3,Nehru Cup,New Delhi,India,True
+2007-08-21,Syria,Kyrgyzstan,4,1,Nehru Cup,New Delhi,India,True
+2007-08-24,Bangladesh,Kyrgyzstan,0,3,Nehru Cup,New Delhi,India,True
+2007-08-26,India,Kyrgyzstan,3,0,Nehru Cup,New Delhi,India,False
+2007-10-18,Kyrgyzstan,Jordan,2,0,FIFA World Cup qualification,Bishkek,Kyrgyzstan,False
+2007-10-28,Jordan,Kyrgyzstan,2,0,FIFA World Cup qualification,Amman,Jordan,False
+2008-04-27,Oman,Kyrgyzstan,2,0,Friendly,Muscat,Oman,False
+2008-05-07,Kyrgyzstan,Afghanistan,0,1,AFC Challenge Cup qualification,Bishkek,Kyrgyzstan,False
+2008-05-09,Kyrgyzstan,Bangladesh,2,1,AFC Challenge Cup qualification,Bishkek,Kyrgyzstan,False
+2009-03-28,Nepal,Kyrgyzstan,1,1,AFC Challenge Cup qualification,Kathmandu,Nepal,False
+2009-03-30,Kyrgyzstan,Palestine,1,1,AFC Challenge Cup qualification,Kathmandu,Nepal,True
+2009-07-25,China PR,Kyrgyzstan,3,0,Friendly,Tianjin,China PR,False
+2009-08-20,Syria,Kyrgyzstan,2,0,Nehru Cup,New Delhi,India,True
+2009-08-23,India,Kyrgyzstan,2,1,Nehru Cup,New Delhi,India,False
+2009-08-25,Kyrgyzstan,Lebanon,1,1,Nehru Cup,New Delhi,India,True
+2009-08-28,Sri Lanka,Kyrgyzstan,1,4,Nehru Cup,New Delhi,India,True
+2010-02-19,Kyrgyzstan,North Korea,0,4,AFC Challenge Cup,Colombo,Sri Lanka,True
+2010-02-21,Turkmenistan,Kyrgyzstan,1,0,AFC Challenge Cup,Colombo,Sri Lanka,True
+2011-03-21,Tajikistan,Kyrgyzstan,1,0,AFC Challenge Cup qualification,Malé,Maldives,True
+2011-03-23,Maldives,Kyrgyzstan,2,1,AFC Challenge Cup qualification,Malé,Maldives,False
+2011-03-25,Cambodia,Kyrgyzstan,3,4,AFC Challenge Cup qualification,Malé,Maldives,True
+2011-07-23,Uzbekistan,Kyrgyzstan,4,0,FIFA World Cup qualification,Tashkent,Uzbekistan,False
+2011-07-28,Kyrgyzstan,Uzbekistan,0,3,FIFA World Cup qualification,Bishkek,Kyrgyzstan,False
+2012-06-01,Kazakhstan,Kyrgyzstan,5,2,Friendly,Almaty,Kazakhstan,False
+2013-03-17,Kyrgyzstan,Macau,1,0,AFC Challenge Cup qualification,Bishkek,Kyrgyzstan,False
+2013-03-19,Kyrgyzstan,Pakistan,1,0,AFC Challenge Cup qualification,Bishkek,Kyrgyzstan,False
+2013-03-21,Kyrgyzstan,Tajikistan,1,0,AFC Challenge Cup qualification,Bishkek,Kyrgyzstan,False
+2013-06-11,Estonia,Kyrgyzstan,1,1,Friendly,Tallinn,Estonia,False
+2013-06-14,Moldova,Kyrgyzstan,2,1,Friendly,Tiraspol,Moldova,False
+2013-09-06,Belarus,Kyrgyzstan,3,1,Friendly,Barysaw,Belarus,False
+2013-10-15,Kyrgyzstan,Tajikistan,1,4,Friendly,Bishkek,Kyrgyzstan,False
+2013-11-01,Indonesia,Kyrgyzstan,4,0,Friendly,Jakarta,Indonesia,False
+2013-11-19,Kyrgyzstan,Azerbaijan,0,0,Friendly,Bishkek,Kyrgyzstan,False
+2014-04-13,Afghanistan,Kyrgyzstan,0,0,Friendly,Dubai,United Arab Emirates,True
+2014-05-12,Afghanistan,Kyrgyzstan,1,0,Friendly,Kuwait City,Kuwait,True
+2014-05-16,Kuwait,Kyrgyzstan,2,2,Friendly,Kuwait City,Kuwait,False
+2014-05-19,Palestine,Kyrgyzstan,1,0,AFC Challenge Cup,Malé,Maldives,True
+2014-05-21,Maldives,Kyrgyzstan,2,0,AFC Challenge Cup,Malé,Maldives,False
+2014-05-23,Kyrgyzstan,Myanmar,1,0,AFC Challenge Cup,Addu City,Maldives,True
+2014-09-05,Kazakhstan,Kyrgyzstan,7,1,Friendly,Astana,Kazakhstan,False
+2015-06-11,Bangladesh,Kyrgyzstan,1,3,FIFA World Cup qualification,Dhaka,Bangladesh,False
+2015-06-16,Kyrgyzstan,Australia,1,2,FIFA World Cup qualification,Bishkek,Kyrgyzstan,False
+2015-09-03,Jordan,Kyrgyzstan,0,0,FIFA World Cup qualification,Irbid,Jordan,False
+2015-10-08,Kyrgyzstan,Tajikistan,2,2,FIFA World Cup qualification,Bishkek,Kyrgyzstan,False
+2015-10-13,Kyrgyzstan,Bangladesh,2,0,FIFA World Cup qualification,Bishkek,Kyrgyzstan,False
+2015-11-12,Australia,Kyrgyzstan,3,0,FIFA World Cup qualification,Canberra,Australia,False
+2015-11-17,Kyrgyzstan,Jordan,1,0,FIFA World Cup qualification,Bishkek,Kyrgyzstan,False
+2016-03-29,Tajikistan,Kyrgyzstan,0,1,FIFA World Cup qualification,Dushanbe,Tajikistan,False
+2016-06-07,Iran,Kyrgyzstan,6,0,Friendly,Tehran,Iran,False
+2016-08-30,Kyrgyzstan,Kazakhstan,2,0,Friendly,Bishkek,Kyrgyzstan,False
+2016-09-06,Kyrgyzstan,Philippines,1,2,Friendly,Bishkek,Kyrgyzstan,False
+2016-10-06,Kyrgyzstan,Lebanon,0,0,Friendly,Bishkek,Kyrgyzstan,False
+2016-10-11,Kyrgyzstan,Turkmenistan,1,0,Friendly,Bishkek,Kyrgyzstan,False
+2016-11-09,Philippines,Kyrgyzstan,1,0,Friendly,Manila,Philippines,False
+2016-11-15,Bahrain,Kyrgyzstan,0,0,Friendly,Riffa,Bahrain,False
+2017-03-28,Kyrgyzstan,Macau,1,0,AFC Asian Cup qualification,Bishkek,Kyrgyzstan,False
+2017-06-13,India,Kyrgyzstan,1,0,AFC Asian Cup qualification,Bangalore,India,False
+2017-10-10,Myanmar,Kyrgyzstan,2,2,AFC Asian Cup qualification,Yangon,Myanmar,False
+2017-11-14,Macau,Kyrgyzstan,3,4,AFC Asian Cup qualification,Macau,Macau,False
+2017-12-02,Kyrgyzstan,Mongolia,3,0,Friendly,Banda Aceh,Indonesia,True
+2017-12-04,Brunei,Kyrgyzstan,0,4,Friendly,Banda Aceh,Indonesia,True
+2017-12-06,Indonesia,Kyrgyzstan,0,1,Friendly,Banda Aceh,Indonesia,False
+2018-03-22,Kyrgyzstan,Myanmar,5,1,AFC Asian Cup qualification,Incheon,South Korea,True
+2018-03-27,Kyrgyzstan,India,2,1,AFC Asian Cup qualification,Bishkek,Kyrgyzstan,False
+2018-05-29,Azerbaijan,Kyrgyzstan,3,0,Friendly,Baku,Azerbaijan,False
+2018-09-06,Kyrgyzstan,Palestine,1,1,Friendly,Bishkek,Kyrgyzstan,False
+2018-09-10,Kyrgyzstan,Syria,2,1,Friendly,Bishkek,Kyrgyzstan,False
+2018-10-16,Malaysia,Kyrgyzstan,0,1,Friendly,Malacca City,Malaysia,False
+2018-11-20,Japan,Kyrgyzstan,4,0,Kirin Challenge Cup,Toyota,Japan,False
+2018-12-20,Jordan,Kyrgyzstan,0,1,Friendly,Doha,Qatar,True
+2018-12-25,Qatar,Kyrgyzstan,1,0,Friendly,Doha,Qatar,False
+2018-12-31,Kyrgyzstan,Palestine,2,1,Friendly,Doha,Qatar,True
+2019-01-07,China PR,Kyrgyzstan,2,1,AFC Asian Cup,Al Ain,United Arab Emirates,True
+2019-01-11,Kyrgyzstan,South Korea,0,1,AFC Asian Cup,Al Ain,United Arab Emirates,True
+2019-01-16,Kyrgyzstan,Philippines,3,1,AFC Asian Cup,Dubai,United Arab Emirates,True
+2019-01-21,United Arab Emirates,Kyrgyzstan,3,2,AFC Asian Cup,Abu Dhabi,United Arab Emirates,False
+2019-06-11,Kyrgyzstan,Palestine,2,2,Friendly,Bishkek,Kyrgyzstan,False
+2019-09-05,Tajikistan,Kyrgyzstan,1,0,FIFA World Cup qualification,Dushanbe,Tajikistan,False
+2019-10-10,Kyrgyzstan,Myanmar,7,0,FIFA World Cup qualification,Bishkek,Kyrgyzstan,False
+2019-10-15,Mongolia,Kyrgyzstan,1,2,FIFA World Cup qualification,Ulaanbaatar,Mongolia,False
+2019-11-09,Uzbekistan,Kyrgyzstan,3,1,Friendly,Tashkent,Uzbekistan,False
+2019-11-14,Kyrgyzstan,Japan,0,2,FIFA World Cup qualification,Bishkek,Kyrgyzstan,False
+2019-11-19,Kyrgyzstan,Tajikistan,1,1,FIFA World Cup qualification,Bishkek,Kyrgyzstan,False
+2021-06-07,Kyrgyzstan,Mongolia,0,1,FIFA World Cup qualification,Osaka,Japan,True
+2021-06-11,Myanmar,Kyrgyzstan,1,8,FIFA World Cup qualification,Osaka,Japan,True
+2021-06-15,Japan,Kyrgyzstan,5,1,FIFA World Cup qualification,Suita,Japan,False
+2021-09-02,Kyrgyzstan,Palestine,1,0,Three Nations Cup,Bishkek,Kyrgyzstan,False
+2021-09-07,Kyrgyzstan,Bangladesh,4,1,Three Nations Cup,Bishkek,Kyrgyzstan,False
+2021-11-11,Kyrgyzstan,Singapore,2,1,Friendly,Sharjah,United Arab Emirates,True
+2021-11-16,Bahrain,Kyrgyzstan,4,2,Friendly,Isa Town,Bahrain,False
+2022-03-25,Uzbekistan,Kyrgyzstan,3,1,Navruz Cup,Namangan,Uzbekistan,False
+2022-03-29,Tajikistan,Kyrgyzstan,1,0,Navruz Cup,Namangan,Uzbekistan,True
+2022-06-08,Kyrgyzstan,Singapore,2,1,AFC Asian Cup qualification,Bishkek,Kyrgyzstan,False
+2022-06-11,Kyrgyzstan,Myanmar,2,0,AFC Asian Cup qualification,Bishkek,Kyrgyzstan,False
+2022-06-14,Kyrgyzstan,Tajikistan,0,0,AFC Asian Cup qualification,Bishkek,Kyrgyzstan,False
+2022-09-24,Kyrgyzstan,Russia,1,2,Friendly,Bishkek,Kyrgyzstan,False
+2023-03-25,Myanmar,Kyrgyzstan,1,1,Tri Nation Tournament,Imphal,India,True
+2023-03-28,India,Kyrgyzstan,2,0,Tri Nation Tournament,Imphal,India,False
+2023-06-16,Kyrgyzstan,Iran,1,5,CAFA Nations Cup,Bishkek,Kyrgyzstan,False
+2023-06-20,Kyrgyzstan,Oman,0,1,CAFA Nations Cup,Tashkent,Uzbekistan,True
+2023-09-11,Kuwait,Kyrgyzstan,1,3,Friendly,Dubai,United Arab Emirates,True
+2023-10-12,Bahrain,Kyrgyzstan,2,0,Friendly,Arad,Bahrain,False
+2023-10-15,Kyrgyzstan,Philippines,0,1,Friendly,Manama,Bahrain,True
+2023-11-16,Malaysia,Kyrgyzstan,4,3,FIFA World Cup qualification,Kuala Lumpur,Malaysia,False
+2023-11-21,Kyrgyzstan,Oman,1,0,FIFA World Cup qualification,Bishkek,Kyrgyzstan,False
+2024-01-05,Kyrgyzstan,Syria,1,1,Friendly,Abu Dhabi,United Arab Emirates,True
+2024-01-09,Kyrgyzstan,Vietnam,2,1,Friendly,Al Khor,Qatar,True
+2024-01-16,Thailand,Kyrgyzstan,2,0,AFC Asian Cup,Doha,Qatar,True
+2024-01-21,Kyrgyzstan,Saudi Arabia,0,2,AFC Asian Cup,Al Rayyan,Qatar,True
+2024-01-25,Kyrgyzstan,Oman,1,1,AFC Asian Cup,Doha,Qatar,True
+2024-03-21,Taiwan,Kyrgyzstan,0,2,FIFA World Cup qualification,Taipei,Taiwan,False
+2024-03-26,Kyrgyzstan,Taiwan,5,1,FIFA World Cup qualification,Bishkek,Kyrgyzstan,False
+2024-06-06,Kyrgyzstan,Malaysia,1,1,FIFA World Cup qualification,Bishkek,Kyrgyzstan,False
+2024-06-11,Oman,Kyrgyzstan,1,1,FIFA World Cup qualification,Muscat,Oman,False
+2024-09-05,Iran,Kyrgyzstan,1,0,FIFA World Cup qualification,Fuladshahr,Iran,False
+2024-09-10,Kyrgyzstan,Uzbekistan,2,3,FIFA World Cup qualification,Bishkek,Kyrgyzstan,False
+2024-10-10,Qatar,Kyrgyzstan,3,1,FIFA World Cup qualification,Doha,Qatar,False
+2024-10-15,Kyrgyzstan,North Korea,1,0,FIFA World Cup qualification,Bishkek,Kyrgyzstan,False
+2024-11-14,United Arab Emirates,Kyrgyzstan,3,0,FIFA World Cup qualification,Abu Dhabi,United Arab Emirates,False
+2024-11-19,Kyrgyzstan,Iran,2,3,FIFA World Cup qualification,Bishkek,Kyrgyzstan,False
+2025-03-20,Uzbekistan,Kyrgyzstan,1,0,FIFA World Cup qualification,Tashkent,Uzbekistan,False
+2025-03-25,Kyrgyzstan,Qatar,3,1,FIFA World Cup qualification,Bishkek,Kyrgyzstan,False

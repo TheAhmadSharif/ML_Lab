@@ -1,0 +1,75 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1998-03-22,United States Virgin Islands,British Virgin Islands,1,0,Friendly,Saint Croix,United States Virgin Islands,False
+1999-02-26,United States Virgin Islands,Turks and Caicos Islands,2,2,CFU Caribbean Cup qualification,Nassau,Bahamas,True
+1999-02-28,Bahamas,United States Virgin Islands,0,0,CFU Caribbean Cup qualification,Nassau,Bahamas,False
+2000-01-28,United States Virgin Islands,Saint Lucia,0,9,Friendly,Saint Croix,United States Virgin Islands,False
+2000-01-30,United States Virgin Islands,Saint Lucia,0,2,Friendly,Saint Croix,United States Virgin Islands,False
+2000-03-05,Saint Vincent and the Grenadines,United States Virgin Islands,9,0,FIFA World Cup qualification,Kingstown,Saint Vincent and the Grenadines,False
+2000-03-19,United States Virgin Islands,Saint Vincent and the Grenadines,1,5,FIFA World Cup qualification,Frederiksted,United States Virgin Islands,False
+2001-03-24,British Virgin Islands,United States Virgin Islands,2,0,Friendly,Road Town,British Virgin Islands,False
+2001-04-10,Haiti,United States Virgin Islands,12,1,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,False
+2001-04-12,Guadeloupe,United States Virgin Islands,11,0,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,True
+2001-04-14,Saint Lucia,United States Virgin Islands,14,1,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,True
+2002-08-16,Dominican Republic,United States Virgin Islands,6,1,Gold Cup qualification,San Cristóbal,Dominican Republic,False
+2002-08-18,Dominican Republic,United States Virgin Islands,5,1,Gold Cup qualification,San Cristóbal,Dominican Republic,False
+2004-01-30,British Virgin Islands,United States Virgin Islands,5,0,Friendly,Road Town,British Virgin Islands,False
+2004-01-31,Dominica,United States Virgin Islands,5,0,Friendly,Spanish Town,British Virgin Islands,True
+2004-02-18,United States Virgin Islands,Saint Kitts and Nevis,0,4,FIFA World Cup qualification,Charlotte Amalie,United States Virgin Islands,False
+2004-03-31,Saint Kitts and Nevis,United States Virgin Islands,7,0,FIFA World Cup qualification,Basseterre,Saint Kitts and Nevis,False
+2004-09-25,British Virgin Islands,United States Virgin Islands,2,1,Friendly,Road Town,British Virgin Islands,False
+2004-11-24,Haiti,United States Virgin Islands,11,0,CFU Caribbean Cup qualification,Kingston,Jamaica,True
+2004-11-26,Jamaica,United States Virgin Islands,11,1,CFU Caribbean Cup qualification,Montego Bay,Jamaica,False
+2004-11-28,United States Virgin Islands,Saint Martin,0,0,CFU Caribbean Cup qualification,Kingston,Jamaica,True
+2006-09-27,United States Virgin Islands,Bermuda,0,6,CFU Caribbean Cup qualification,Charlotte Amalie,United States Virgin Islands,False
+2006-10-01,United States Virgin Islands,Dominican Republic,1,6,CFU Caribbean Cup qualification,Charlotte Amalie,United States Virgin Islands,False
+2008-03-14,British Virgin Islands,United States Virgin Islands,0,0,Friendly,Road Town,British Virgin Islands,False
+2008-03-15,British Virgin Islands,United States Virgin Islands,1,1,Friendly,Road Town,British Virgin Islands,False
+2008-03-26,Grenada,United States Virgin Islands,10,0,FIFA World Cup qualification,St. George's,Grenada,False
+2011-06-19,Anguilla,United States Virgin Islands,0,0,Friendly,The Valley,Anguilla,False
+2011-07-03,United States Virgin Islands,British Virgin Islands,2,0,FIFA World Cup qualification,Charlotte Amalie,United States Virgin Islands,False
+2011-07-10,British Virgin Islands,United States Virgin Islands,1,2,FIFA World Cup qualification,Road Town,British Virgin Islands,False
+2011-09-02,Haiti,United States Virgin Islands,6,0,FIFA World Cup qualification,Port-au-Prince,Haiti,False
+2011-09-06,United States Virgin Islands,Antigua and Barbuda,1,8,FIFA World Cup qualification,Frederiksted,United States Virgin Islands,False
+2011-10-07,United States Virgin Islands,Haiti,0,7,FIFA World Cup qualification,Frederiksted,United States Virgin Islands,False
+2011-10-11,Antigua and Barbuda,United States Virgin Islands,10,0,FIFA World Cup qualification,St. John's,Antigua and Barbuda,False
+2011-11-11,United States Virgin Islands,Curaçao,0,3,FIFA World Cup qualification,Frederiksted,United States Virgin Islands,False
+2011-11-15,Curaçao,United States Virgin Islands,6,1,FIFA World Cup qualification,Willemstad,Curaçao,False
+2014-05-30,Montserrat,United States Virgin Islands,1,0,CFU Caribbean Cup qualification,Lookout,Montserrat,False
+2014-06-01,United States Virgin Islands,Bonaire,1,2,CFU Caribbean Cup qualification,Lookout,Montserrat,True
+2015-03-08,Antigua and Barbuda,United States Virgin Islands,2,0,Friendly,St. John's,Antigua and Barbuda,False
+2015-03-22,Barbados,United States Virgin Islands,0,1,FIFA World Cup qualification,Bridgetown,Barbados,False
+2015-03-26,United States Virgin Islands,Barbados,0,4,FIFA World Cup qualification,Charlotte Amalie,United States Virgin Islands,False
+2016-03-26,Sint Maarten,United States Virgin Islands,1,2,CFU Caribbean Cup qualification,Philipsburg,Sint Maarten,False
+2016-03-29,United States Virgin Islands,Grenada,1,2,CFU Caribbean Cup qualification,Charlotte Amalie,United States Virgin Islands,False
+2016-06-04,United States Virgin Islands,Guyana,0,7,CFU Caribbean Cup qualification,Charlotte Amalie,United States Virgin Islands,False
+2016-06-07,Curaçao,United States Virgin Islands,7,0,CFU Caribbean Cup qualification,Willemstad,Curaçao,False
+2018-09-09,United States Virgin Islands,Canada,0,8,CONCACAF Nations League qualification,Bradenton,United States,True
+2018-10-12,United States Virgin Islands,Curaçao,0,5,CONCACAF Nations League qualification,Bradenton,United States,True
+2018-11-18,Barbados,United States Virgin Islands,3,0,CONCACAF Nations League qualification,Bridgetown,Barbados,False
+2019-03-22,Anguilla,United States Virgin Islands,0,3,CONCACAF Nations League qualification,The Valley,Anguilla,False
+2019-09-05,United States Virgin Islands,Cayman Islands,0,2,CONCACAF Nations League,Saint Croix,United States Virgin Islands,False
+2019-09-08,Saint Martin,United States Virgin Islands,1,2,CONCACAF Nations League,The Valley,Anguilla,True
+2019-10-12,Barbados,United States Virgin Islands,1,0,CONCACAF Nations League,Bridgetown,Barbados,False
+2019-10-15,United States Virgin Islands,Barbados,0,4,CONCACAF Nations League,Saint Croix,United States Virgin Islands,False
+2019-11-16,Cayman Islands,United States Virgin Islands,1,0,CONCACAF Nations League,George Town,Cayman Islands,False
+2019-11-19,United States Virgin Islands,Saint Martin,1,2,CONCACAF Nations League,Upper Bethlehem,United States Virgin Islands,False
+2021-03-27,United States Virgin Islands,Antigua and Barbuda,0,3,FIFA World Cup qualification,Saint Croix,United States Virgin Islands,False
+2021-03-30,Grenada,United States Virgin Islands,1,0,FIFA World Cup qualification,St. George's,Grenada,False
+2021-06-02,Montserrat,United States Virgin Islands,4,0,FIFA World Cup qualification,San Cristóbal,Dominican Republic,True
+2021-06-05,United States Virgin Islands,El Salvador,0,7,FIFA World Cup qualification,Saint Croix,United States Virgin Islands,False
+2022-06-03,Sint Maarten,United States Virgin Islands,1,1,CONCACAF Nations League,Willemstad,Curaçao,True
+2022-06-06,United States Virgin Islands,Turks and Caicos Islands,3,2,CONCACAF Nations League,Saint Croix,United States Virgin Islands,False
+2022-06-11,United States Virgin Islands,Bonaire,0,2,CONCACAF Nations League,Saint Croix,United States Virgin Islands,False
+2022-06-14,Bonaire,United States Virgin Islands,2,0,CONCACAF Nations League,Willemstad,Curaçao,True
+2023-03-25,Turks and Caicos Islands,United States Virgin Islands,1,0,CONCACAF Nations League,Providenciales,Turks and Caicos Islands,False
+2023-03-28,United States Virgin Islands,Sint Maarten,1,2,CONCACAF Nations League,Saint Croix,United States Virgin Islands,False
+2023-09-07,United States Virgin Islands,Cayman Islands,2,2,CONCACAF Nations League,Saint Croix,United States Virgin Islands,False
+2023-10-14,Aruba,United States Virgin Islands,3,1,CONCACAF Nations League,Oranjestad,Aruba,False
+2023-10-17,Cayman Islands,United States Virgin Islands,2,1,CONCACAF Nations League,George Town,Cayman Islands,False
+2023-11-16,United States Virgin Islands,Aruba,1,4,CONCACAF Nations League,Saint Croix,United States Virgin Islands,False
+2024-03-22,United States Virgin Islands,British Virgin Islands,1,1,FIFA World Cup qualification,Saint Croix,United States Virgin Islands,False
+2024-03-26,British Virgin Islands,United States Virgin Islands,0,0,FIFA World Cup qualification,Road Town,British Virgin Islands,False
+2024-09-04,United States Virgin Islands,Bahamas,3,3,CONCACAF Nations League,Saint Croix,United States Virgin Islands,False
+2024-09-10,United States Virgin Islands,Barbados,0,3,CONCACAF Nations League,Saint Croix,United States Virgin Islands,False
+2024-10-09,Barbados,United States Virgin Islands,5,0,CONCACAF Nations League,Bridgetown,Barbados,False
+2024-10-12,Bahamas,United States Virgin Islands,3,1,CONCACAF Nations League,Bridgetown,Barbados,True

@@ -1,0 +1,288 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1956-08-12,Lithuania,Moldova,1,4,Friendly,Moscow,Soviet Union,True
+1991-07-02,Moldova,Georgia,2,4,Friendly,Chișinău,Moldova,False
+1992-05-20,Moldova,Lithuania,1,1,Friendly,Chișinău,Moldova,False
+1992-08-18,Moldova,Pakistan,5,0,Jordan International Tournament,Amman,Jordan,True
+1992-08-20,Moldova,Sudan,2,1,Jordan International Tournament,Amman,Jordan,True
+1992-08-22,Jordan,Moldova,1,0,Jordan International Tournament,Amman,Jordan,False
+1992-08-26,Iraq,Moldova,1,0,Jordan International Tournament,Irbid,Jordan,True
+1992-08-28,Congo,Moldova,1,3,Jordan International Tournament,Amman,Jordan,True
+1992-10-14,Armenia,Moldova,0,0,Friendly,Yerevan,Armenia,False
+1994-04-16,United States,Moldova,1,1,Friendly,Jacksonville,United States,False
+1994-04-20,United States,Moldova,3,0,Friendly,Davidson,United States,False
+1994-09-07,Georgia,Moldova,0,1,UEFA Euro qualification,Tbilisi,Georgia,False
+1994-10-12,Moldova,Wales,3,2,UEFA Euro qualification,Chișinău,Moldova,False
+1994-11-16,Bulgaria,Moldova,4,1,UEFA Euro qualification,Sofia,Bulgaria,False
+1994-12-14,Moldova,Germany,0,3,UEFA Euro qualification,Chișinău,Moldova,False
+1995-03-29,Albania,Moldova,3,0,UEFA Euro qualification,Tirana,Albania,False
+1995-04-26,Moldova,Bulgaria,0,3,UEFA Euro qualification,Chișinău,Moldova,False
+1995-06-07,Moldova,Albania,2,3,UEFA Euro qualification,Chișinău,Moldova,False
+1995-09-06,Wales,Moldova,1,0,UEFA Euro qualification,Cardiff,Wales,False
+1995-10-08,Germany,Moldova,6,1,UEFA Euro qualification,Leverkusen,Germany,False
+1995-11-15,Moldova,Georgia,3,2,UEFA Euro qualification,Chișinău,Moldova,False
+1996-04-09,Moldova,Ukraine,2,2,Friendly,Chișinău,Moldova,False
+1996-06-01,Romania,Moldova,3,1,Friendly,Bucharest,Romania,False
+1996-08-14,Turkey,Moldova,2,0,Friendly,Istanbul,Turkey,False
+1996-09-01,Moldova,England,0,3,FIFA World Cup qualification,Chișinău,Moldova,False
+1996-10-05,Moldova,Italy,1,3,FIFA World Cup qualification,Chișinău,Moldova,False
+1996-10-30,Indonesia,Moldova,1,2,Friendly,Genoa,Italy,True
+1996-11-10,Poland,Moldova,2,1,FIFA World Cup qualification,Katowice,Poland,False
+1997-03-29,Italy,Moldova,3,0,FIFA World Cup qualification,Trieste,Italy,False
+1997-06-07,Georgia,Moldova,2,0,FIFA World Cup qualification,Batumi,Georgia,False
+1997-09-10,England,Moldova,4,0,FIFA World Cup qualification,London,England,False
+1997-09-24,Moldova,Georgia,0,1,FIFA World Cup qualification,Chișinău,Moldova,False
+1997-10-07,Moldova,Poland,0,3,FIFA World Cup qualification,Chișinău,Moldova,False
+1998-03-22,Azerbaijan,Moldova,1,0,Friendly,Baku,Azerbaijan,False
+1998-06-06,Romania,Moldova,5,1,Friendly,Ploiești,Romania,False
+1998-08-16,Lithuania,Moldova,1,1,Friendly,Kaunas,Lithuania,False
+1998-08-20,Estonia,Moldova,0,1,Friendly,Kohtla-Järve,Estonia,False
+1998-09-05,Finland,Moldova,3,2,UEFA Euro qualification,Helsinki,Finland,False
+1998-10-14,Moldova,Germany,1,3,UEFA Euro qualification,Chișinău,Moldova,False
+1998-11-18,Northern Ireland,Moldova,2,2,UEFA Euro qualification,Belfast,Northern Ireland,False
+1999-03-10,Malta,Moldova,0,2,Friendly,Attard,Malta,False
+1999-03-27,Turkey,Moldova,2,0,UEFA Euro qualification,Istanbul,Turkey,False
+1999-03-31,Moldova,Northern Ireland,0,0,UEFA Euro qualification,Chișinău,Moldova,False
+1999-06-04,Germany,Moldova,6,1,UEFA Euro qualification,Leverkusen,Germany,False
+1999-06-09,Moldova,Finland,0,0,UEFA Euro qualification,Chișinău,Moldova,False
+1999-08-18,Hungary,Moldova,1,1,Friendly,Budapest,Hungary,False
+1999-09-08,Moldova,Turkey,1,1,UEFA Euro qualification,Chișinău,Moldova,False
+1999-12-16,Greece,Moldova,2,0,Friendly,Lárisa,Greece,False
+2000-02-02,Armenia,Moldova,2,1,Cyprus International Tournament,Larnaca,Cyprus,True
+2000-02-04,Moldova,Lithuania,2,1,Cyprus International Tournament,Larnaca,Cyprus,True
+2000-04-26,San Marino,Moldova,0,1,Friendly,Serravalle,San Marino,False
+2000-06-04,Moldova,Russia,0,1,Friendly,Chișinău,Moldova,False
+2000-08-16,Moldova,Malta,1,0,Friendly,Chișinău,Moldova,False
+2000-09-02,Turkey,Moldova,2,0,FIFA World Cup qualification,Istanbul,Turkey,False
+2000-10-07,Moldova,Slovakia,0,1,FIFA World Cup qualification,Chișinău,Moldova,False
+2000-10-11,Moldova,North Macedonia,0,0,FIFA World Cup qualification,Chișinău,Moldova,False
+2001-02-14,Israel,Moldova,1,0,Friendly,Herzliyya,Israel,False
+2001-03-24,Azerbaijan,Moldova,0,0,FIFA World Cup qualification,Baku,Azerbaijan,False
+2001-03-28,Moldova,Sweden,0,2,FIFA World Cup qualification,Chișinău,Moldova,False
+2001-04-25,Moldova,Estonia,0,0,Friendly,Chișinău,Moldova,False
+2001-06-02,North Macedonia,Moldova,2,2,FIFA World Cup qualification,Skopje,North Macedonia,False
+2001-06-06,Sweden,Moldova,6,0,FIFA World Cup qualification,Gothenburg,Sweden,False
+2001-08-15,Portugal,Moldova,3,0,Friendly,Faro,Portugal,False
+2001-09-01,Moldova,Azerbaijan,2,0,FIFA World Cup qualification,Chișinău,Moldova,False
+2001-09-05,Slovakia,Moldova,4,2,FIFA World Cup qualification,Trenčín,Slovakia,False
+2001-10-06,Moldova,Turkey,0,3,FIFA World Cup qualification,Chișinău,Moldova,False
+2002-02-09,Lithuania,Moldova,1,0,Malta International Tournament,Attard,Malta,True
+2002-02-11,Moldova,Jordan,2,0,Malta International Tournament,Attard,Malta,True
+2002-02-13,Malta,Moldova,3,0,Malta International Tournament,Attard,Malta,False
+2002-03-27,Moldova,Hungary,0,2,Friendly,Chișinău,Moldova,False
+2002-08-21,Estonia,Moldova,1,0,Friendly,Tallinn,Estonia,False
+2002-09-07,Austria,Moldova,2,0,UEFA Euro qualification,Vienna,Austria,False
+2002-10-12,Moldova,Czech Republic,0,2,UEFA Euro qualification,Chișinău,Moldova,False
+2002-11-20,Hungary,Moldova,1,1,Friendly,Budapest,Hungary,False
+2003-02-12,Georgia,Moldova,2,2,Friendly,Tbilisi,Georgia,False
+2003-03-05,Israel,Moldova,0,0,Friendly,Ramat Gan,Israel,False
+2003-03-29,Belarus,Moldova,2,1,UEFA Euro qualification,Minsk,Belarus,False
+2003-04-02,Moldova,Netherlands,1,2,UEFA Euro qualification,Tiraspol,Moldova,False
+2003-06-07,Moldova,Austria,1,0,UEFA Euro qualification,Tiraspol,Moldova,False
+2003-06-11,Czech Republic,Moldova,5,0,UEFA Euro qualification,Olomouc,Czech Republic,False
+2003-08-20,Turkey,Moldova,2,0,Friendly,Ankara,Turkey,False
+2003-09-10,Moldova,Belarus,2,1,UEFA Euro qualification,Tiraspol,Moldova,False
+2003-10-11,Netherlands,Moldova,5,0,UEFA Euro qualification,Eindhoven,Netherlands,False
+2003-11-20,Luxembourg,Moldova,1,2,Friendly,Hesperange,Luxembourg,False
+2004-02-14,Malta,Moldova,0,0,Malta International Tournament,Attard,Malta,False
+2004-02-18,Estonia,Moldova,1,0,Malta International Tournament,Attard,Malta,True
+2004-03-31,Moldova,Azerbaijan,2,1,Friendly,Chișinău,Moldova,False
+2004-04-28,Israel,Moldova,1,1,Friendly,Ramat Gan,Israel,False
+2004-08-18,Moldova,Georgia,1,0,Friendly,Tiraspol,Moldova,False
+2004-09-04,Slovenia,Moldova,3,0,FIFA World Cup qualification,Celje,Slovenia,False
+2004-09-08,Moldova,Italy,0,1,FIFA World Cup qualification,Chișinău,Moldova,False
+2004-10-09,Belarus,Moldova,4,0,FIFA World Cup qualification,Minsk,Belarus,False
+2004-10-13,Moldova,Scotland,1,1,FIFA World Cup qualification,Chișinău,Moldova,False
+2005-02-09,Azerbaijan,Moldova,0,0,Friendly,Baku,Azerbaijan,False
+2005-03-30,Moldova,Norway,0,0,FIFA World Cup qualification,Chișinău,Moldova,False
+2005-06-04,Scotland,Moldova,2,0,FIFA World Cup qualification,Glasgow,Scotland,False
+2005-09-03,Moldova,Belarus,2,0,FIFA World Cup qualification,Chișinău,Moldova,False
+2005-09-07,Moldova,Slovenia,1,2,FIFA World Cup qualification,Chișinău,Moldova,False
+2005-10-08,Norway,Moldova,1,0,FIFA World Cup qualification,Oslo,Norway,False
+2005-10-12,Italy,Moldova,2,1,FIFA World Cup qualification,Lecce,Italy,False
+2006-05-18,Moldova,Azerbaijan,0,0,Friendly,Chișinău,Moldova,False
+2006-08-16,Moldova,Lithuania,3,2,Friendly,Chișinău,Moldova,False
+2006-09-02,Moldova,Greece,0,1,UEFA Euro qualification,Chișinău,Moldova,False
+2006-09-06,Norway,Moldova,2,0,UEFA Euro qualification,Oslo,Norway,False
+2006-10-07,Moldova,Bosnia and Herzegovina,2,2,UEFA Euro qualification,Chișinău,Moldova,False
+2006-10-11,Turkey,Moldova,5,0,UEFA Euro qualification,Frankfurt am Main,Germany,True
+2007-02-07,Romania,Moldova,2,0,Friendly,Bucharest,Romania,False
+2007-03-24,Moldova,Malta,1,1,UEFA Euro qualification,Chișinău,Moldova,False
+2007-03-28,Hungary,Moldova,2,0,UEFA Euro qualification,Budapest,Hungary,False
+2007-06-06,Greece,Moldova,2,1,UEFA Euro qualification,Heraklion,Greece,False
+2007-08-22,Latvia,Moldova,1,2,Friendly,Riga,Latvia,False
+2007-09-08,Moldova,Norway,0,1,UEFA Euro qualification,Chișinău,Moldova,False
+2007-09-12,Bosnia and Herzegovina,Moldova,0,1,UEFA Euro qualification,Sarajevo,Bosnia and Herzegovina,False
+2007-10-13,Moldova,Turkey,1,1,UEFA Euro qualification,Chișinău,Moldova,False
+2007-10-17,Malta,Moldova,2,3,UEFA Euro qualification,Attard,Malta,False
+2007-11-17,Moldova,Hungary,3,0,UEFA Euro qualification,Chișinău,Moldova,False
+2008-02-06,Kazakhstan,Moldova,0,1,Friendly,Antalya,Turkey,True
+2008-05-24,Croatia,Moldova,1,0,Friendly,Rijeka,Croatia,False
+2008-05-28,Moldova,Armenia,2,2,Friendly,Tiraspol,Moldova,False
+2008-08-20,Lithuania,Moldova,3,0,Friendly,Marijampolė,Lithuania,False
+2008-09-06,Moldova,Latvia,1,2,FIFA World Cup qualification,Tiraspol,Moldova,False
+2008-09-10,Moldova,Israel,1,2,FIFA World Cup qualification,Chișinău,Moldova,False
+2008-10-11,Greece,Moldova,3,0,FIFA World Cup qualification,Athens,Greece,False
+2008-10-15,Luxembourg,Moldova,0,0,FIFA World Cup qualification,Luxembourg,Luxembourg,False
+2008-11-18,Estonia,Moldova,1,0,Friendly,Tallinn,Estonia,False
+2008-11-19,Moldova,Lithuania,1,1,Friendly,Tallinn,Estonia,True
+2009-02-11,North Macedonia,Moldova,1,1,Friendly,Antalya,Turkey,True
+2009-03-28,Moldova,Switzerland,0,2,FIFA World Cup qualification,Chișinău,Moldova,False
+2009-04-01,Switzerland,Moldova,2,0,FIFA World Cup qualification,Geneva,Switzerland,False
+2009-06-06,Georgia,Moldova,1,2,Friendly,Tbilisi,Georgia,False
+2009-06-10,Belarus,Moldova,2,2,Friendly,Barysaw,Belarus,False
+2009-08-12,Armenia,Moldova,1,4,Friendly,Yerevan,Armenia,False
+2009-09-05,Moldova,Luxembourg,0,0,FIFA World Cup qualification,Chișinău,Moldova,False
+2009-09-09,Moldova,Greece,1,1,FIFA World Cup qualification,Chișinău,Moldova,False
+2009-10-10,Israel,Moldova,3,1,FIFA World Cup qualification,Ramat Gan,Israel,False
+2009-10-14,Latvia,Moldova,3,2,FIFA World Cup qualification,Riga,Latvia,False
+2010-03-03,Kazakhstan,Moldova,0,1,Friendly,Antalya,Turkey,True
+2010-05-26,Azerbaijan,Moldova,1,1,Friendly,Seekirchen am Wallersee,Austria,True
+2010-05-29,Moldova,United Arab Emirates,2,3,Friendly,Anif,Austria,True
+2010-08-11,Moldova,Georgia,0,0,Friendly,Chișinău,Moldova,False
+2010-09-03,Moldova,Finland,2,0,UEFA Euro qualification,Chișinău,Moldova,False
+2010-09-07,Hungary,Moldova,2,1,UEFA Euro qualification,Budapest,Hungary,False
+2010-10-08,Moldova,Netherlands,0,1,UEFA Euro qualification,Chișinău,Moldova,False
+2010-10-12,San Marino,Moldova,0,2,UEFA Euro qualification,Serravalle,San Marino,False
+2011-02-06,Moldova,Poland,0,1,Friendly,Vila Real de Santo António,Portugal,True
+2011-02-09,Andorra,Moldova,1,2,Friendly,Lagos,Portugal,True
+2011-03-29,Sweden,Moldova,2,1,UEFA Euro qualification,Solna,Sweden,False
+2011-06-03,Moldova,Sweden,1,4,UEFA Euro qualification,Chișinău,Moldova,False
+2011-08-10,Cyprus,Moldova,3,2,Friendly,Nicosia,Cyprus,False
+2011-09-02,Finland,Moldova,4,1,UEFA Euro qualification,Helsinki,Finland,False
+2011-09-06,Moldova,Hungary,0,2,UEFA Euro qualification,Chișinău,Moldova,False
+2011-10-07,Netherlands,Moldova,1,0,UEFA Euro qualification,Rotterdam,Netherlands,False
+2011-10-11,Moldova,San Marino,4,0,UEFA Euro qualification,Chișinău,Moldova,False
+2011-11-11,Georgia,Moldova,2,0,Friendly,Tbilisi,Georgia,False
+2012-02-29,Moldova,Belarus,0,0,Friendly,Antalya,Turkey,True
+2012-05-23,Venezuela,Moldova,4,0,Friendly,Puerto Ordaz,Venezuela,False
+2012-05-26,El Salvador,Moldova,2,0,Friendly,Dallas,United States,True
+2012-08-15,Albania,Moldova,0,0,Friendly,Tirana,Albania,False
+2012-09-07,Moldova,England,0,5,FIFA World Cup qualification,Chișinău,Moldova,False
+2012-09-11,Poland,Moldova,2,0,FIFA World Cup qualification,Wrocław,Poland,False
+2012-10-12,Moldova,Ukraine,0,0,FIFA World Cup qualification,Chișinău,Moldova,False
+2012-10-16,San Marino,Moldova,0,2,FIFA World Cup qualification,Serravalle,San Marino,False
+2013-02-06,Moldova,Kazakhstan,1,3,Friendly,Antalya,Turkey,True
+2013-03-22,Moldova,Montenegro,0,1,FIFA World Cup qualification,Chișinău,Moldova,False
+2013-03-26,Ukraine,Moldova,2,1,FIFA World Cup qualification,Odessa,Ukraine,False
+2013-06-07,Moldova,Poland,1,1,FIFA World Cup qualification,Chișinău,Moldova,False
+2013-06-14,Moldova,Kyrgyzstan,2,1,Friendly,Tiraspol,Moldova,False
+2013-08-14,Moldova,Andorra,1,1,Friendly,Chișinău,Moldova,False
+2013-09-06,England,Moldova,4,0,FIFA World Cup qualification,London,England,False
+2013-10-11,Moldova,San Marino,3,0,FIFA World Cup qualification,Chișinău,Moldova,False
+2013-10-15,Montenegro,Moldova,2,5,FIFA World Cup qualification,Podgorica,Montenegro,False
+2013-11-18,Moldova,Lithuania,1,1,Friendly,Chișinău,Moldova,False
+2014-01-15,Moldova,Norway,1,2,Friendly,Abu Dhabi,United Arab Emirates,True
+2014-01-17,Moldova,Sweden,1,2,Friendly,Abu Dhabi,United Arab Emirates,True
+2014-01-20,Moldova,Poland,0,1,Friendly,Abu Dhabi,United Arab Emirates,True
+2014-03-05,Andorra,Moldova,0,3,Friendly,Sant Julià de Lòria,Andorra,False
+2014-05-24,Moldova,Saudi Arabia,4,0,Friendly,Jerez de la Frontera,Spain,True
+2014-05-27,Moldova,Canada,1,1,Friendly,Mauer,Austria,True
+2014-06-07,Cameroon,Moldova,1,0,Friendly,Yaoundé,Cameroon,False
+2014-09-03,Ukraine,Moldova,1,0,Friendly,Kyiv,Ukraine,False
+2014-09-08,Montenegro,Moldova,2,0,UEFA Euro qualification,Podgorica,Montenegro,False
+2014-10-09,Moldova,Austria,1,2,UEFA Euro qualification,Chișinău,Moldova,False
+2014-10-12,Russia,Moldova,1,1,UEFA Euro qualification,Moscow,Russia,False
+2014-11-15,Moldova,Liechtenstein,0,1,UEFA Euro qualification,Chișinău,Moldova,False
+2015-02-18,Kazakhstan,Moldova,1,1,Friendly,Antalya,Turkey,True
+2015-03-27,Moldova,Sweden,0,2,UEFA Euro qualification,Chișinău,Moldova,False
+2015-06-09,Luxembourg,Moldova,0,0,Friendly,Luxembourg,Luxembourg,False
+2015-06-14,Liechtenstein,Moldova,1,1,UEFA Euro qualification,Vaduz,Liechtenstein,False
+2015-09-05,Austria,Moldova,1,0,UEFA Euro qualification,Vienna,Austria,False
+2015-09-08,Moldova,Montenegro,0,2,UEFA Euro qualification,Chișinău,Moldova,False
+2015-10-09,Moldova,Russia,1,2,UEFA Euro qualification,Chișinău,Moldova,False
+2015-10-12,Sweden,Moldova,2,0,UEFA Euro qualification,Solna,Sweden,False
+2015-11-17,Azerbaijan,Moldova,2,1,Friendly,Baku,Azerbaijan,False
+2016-03-24,Malta,Moldova,0,0,Friendly,Attard,Malta,False
+2016-03-28,Andorra,Moldova,0,1,Friendly,Paola,Malta,True
+2016-05-27,Croatia,Moldova,1,0,Friendly,Koprivnica,Croatia,False
+2016-06-03,Switzerland,Moldova,2,1,Friendly,Lugano,Switzerland,False
+2016-09-05,Wales,Moldova,4,0,FIFA World Cup qualification,Cardiff,Wales,False
+2016-10-06,Moldova,Serbia,0,3,FIFA World Cup qualification,Chișinău,Moldova,False
+2016-10-09,Moldova,Republic of Ireland,1,3,FIFA World Cup qualification,Chișinău,Moldova,False
+2016-11-12,Georgia,Moldova,1,1,FIFA World Cup qualification,Tbilisi,Georgia,False
+2017-01-17,Qatar,Moldova,1,1,Friendly,Doha,Qatar,False
+2017-03-19,San Marino,Moldova,0,2,Friendly,Serravalle,San Marino,False
+2017-03-24,Austria,Moldova,2,0,FIFA World Cup qualification,Vienna,Austria,False
+2017-03-27,Turkey,Moldova,3,1,Friendly,Eskişehir,Turkey,False
+2017-06-06,Israel,Moldova,1,1,Friendly,Netanya,Israel,False
+2017-06-11,Moldova,Georgia,2,2,FIFA World Cup qualification,Chișinău,Moldova,False
+2017-09-02,Serbia,Moldova,3,0,FIFA World Cup qualification,Belgrade,Serbia,False
+2017-09-05,Moldova,Wales,0,2,FIFA World Cup qualification,Chișinău,Moldova,False
+2017-10-06,Republic of Ireland,Moldova,2,0,FIFA World Cup qualification,Dublin,Republic of Ireland,False
+2017-10-09,Moldova,Austria,0,1,FIFA World Cup qualification,Chișinău,Moldova,False
+2018-01-27,Moldova,South Korea,0,1,Friendly,Antalya,Turkey,True
+2018-01-30,Azerbaijan,Moldova,0,0,Friendly,Antalya,Turkey,True
+2018-02-26,Saudi Arabia,Moldova,3,0,Friendly,Jeddah,Saudi Arabia,False
+2018-03-27,Moldova,Ivory Coast,1,2,Friendly,Beauvais,France,True
+2018-06-04,Armenia,Moldova,0,0,Friendly,Kematen,Austria,True
+2018-09-08,Luxembourg,Moldova,4,0,UEFA Nations League,Luxembourg,Luxembourg,False
+2018-09-11,Moldova,Belarus,0,0,UEFA Nations League,Chișinău,Moldova,False
+2018-10-12,Moldova,San Marino,2,0,UEFA Nations League,Chișinău,Moldova,False
+2018-10-15,Belarus,Moldova,0,0,UEFA Nations League,Minsk,Belarus,False
+2018-11-15,San Marino,Moldova,0,1,UEFA Nations League,Serravalle,San Marino,False
+2018-11-18,Moldova,Luxembourg,1,1,UEFA Nations League,Chișinău,Moldova,False
+2019-02-21,Kazakhstan,Moldova,1,0,Friendly,Belek,Turkey,True
+2019-03-22,Moldova,France,1,4,UEFA Euro qualification,Chișinău,Moldova,False
+2019-03-25,Turkey,Moldova,4,0,UEFA Euro qualification,Eskişehir,Turkey,False
+2019-06-08,Moldova,Andorra,1,0,UEFA Euro qualification,Chișinău,Moldova,False
+2019-06-11,Albania,Moldova,2,0,UEFA Euro qualification,Elbasan,Albania,False
+2019-09-07,Iceland,Moldova,3,0,UEFA Euro qualification,Reykjavík,Iceland,False
+2019-09-10,Moldova,Turkey,0,4,UEFA Euro qualification,Chișinău,Moldova,False
+2019-10-11,Andorra,Moldova,1,0,UEFA Euro qualification,Andorra la Vella,Andorra,False
+2019-10-14,Moldova,Albania,0,4,UEFA Euro qualification,Chișinău,Moldova,False
+2019-11-14,France,Moldova,2,1,UEFA Euro qualification,Paris,France,False
+2019-11-17,Moldova,Iceland,1,2,UEFA Euro qualification,Chișinău,Moldova,False
+2020-01-09,Moldova,Sweden,0,1,Friendly,Doha,Qatar,True
+2020-09-03,Moldova,Kosovo,1,1,UEFA Nations League,Parma,Italy,True
+2020-09-06,Slovenia,Moldova,1,0,UEFA Nations League,Ljubljana,Slovenia,False
+2020-10-07,Italy,Moldova,6,0,Friendly,Florence,Italy,False
+2020-10-11,Greece,Moldova,2,0,UEFA Nations League,Athens,Greece,False
+2020-10-14,Moldova,Slovenia,0,4,UEFA Nations League,Chișinău,Moldova,False
+2020-11-12,Moldova,Russia,0,0,Friendly,Chișinău,Moldova,False
+2020-11-15,Moldova,Greece,0,2,UEFA Nations League,Chișinău,Moldova,False
+2020-11-18,Kosovo,Moldova,1,0,UEFA Nations League,Pristina,Kosovo,False
+2021-03-25,Moldova,Faroe Islands,1,1,FIFA World Cup qualification,Chișinău,Moldova,False
+2021-03-28,Denmark,Moldova,8,0,FIFA World Cup qualification,Herning,Denmark,False
+2021-03-31,Moldova,Israel,1,4,FIFA World Cup qualification,Chișinău,Moldova,False
+2021-06-03,Turkey,Moldova,2,0,Friendly,Paderborn,Germany,True
+2021-06-06,Moldova,Azerbaijan,1,0,Friendly,Chișinău,Moldova,False
+2021-09-01,Moldova,Austria,0,2,FIFA World Cup qualification,Chișinău,Moldova,False
+2021-09-04,Scotland,Moldova,1,0,FIFA World Cup qualification,Glasgow,Scotland,False
+2021-09-07,Faroe Islands,Moldova,2,1,FIFA World Cup qualification,Tórshavn,Faroe Islands,False
+2021-10-09,Moldova,Denmark,0,4,FIFA World Cup qualification,Chișinău,Moldova,False
+2021-10-12,Israel,Moldova,2,1,FIFA World Cup qualification,Beer Sheva,Israel,False
+2021-11-12,Moldova,Scotland,0,2,FIFA World Cup qualification,Chișinău,Moldova,False
+2021-11-15,Austria,Moldova,4,1,FIFA World Cup qualification,Klagenfurt,Austria,False
+2022-01-18,Moldova,Uganda,2,3,Friendly,Belek,Turkey,True
+2022-01-20,South Korea,Moldova,4,0,Friendly,Antalya,Turkey,True
+2022-03-24,Moldova,Kazakhstan,1,2,UEFA Nations League,Chișinău,Moldova,False
+2022-03-29,Kazakhstan,Moldova,0,1,UEFA Nations League,Nur-Sultan,Kazakhstan,False
+2022-06-03,Liechtenstein,Moldova,0,2,UEFA Nations League,Vaduz,Liechtenstein,False
+2022-06-06,Andorra,Moldova,0,0,UEFA Nations League,Andorra la Vella,Andorra,False
+2022-06-10,Moldova,Latvia,2,4,UEFA Nations League,Chișinău,Moldova,False
+2022-06-14,Moldova,Andorra,2,1,UEFA Nations League,Chișinău,Moldova,False
+2022-09-22,Latvia,Moldova,1,2,UEFA Nations League,Riga,Latvia,False
+2022-09-25,Moldova,Liechtenstein,2,0,UEFA Nations League,Chișinău,Moldova,False
+2022-11-16,Moldova,Azerbaijan,1,2,Friendly,Chișinău,Moldova,False
+2022-11-20,Moldova,Romania,0,5,Friendly,Chișinău,Moldova,False
+2023-03-24,Moldova,Faroe Islands,1,1,UEFA Euro qualification,Chișinău,Moldova,False
+2023-03-27,Moldova,Czech Republic,0,0,UEFA Euro qualification,Chișinău,Moldova,False
+2023-06-17,Albania,Moldova,2,0,UEFA Euro qualification,Tirana,Albania,False
+2023-06-20,Moldova,Poland,3,2,UEFA Euro qualification,Chișinău,Moldova,False
+2023-09-07,Austria,Moldova,1,1,Friendly,Pasching,Austria,False
+2023-09-10,Faroe Islands,Moldova,0,1,UEFA Euro qualification,Tórshavn,Faroe Islands,False
+2023-10-12,Sweden,Moldova,3,1,Friendly,Stockholm,Sweden,False
+2023-10-15,Poland,Moldova,1,1,UEFA Euro qualification,Warsaw,Poland,False
+2023-11-17,Moldova,Albania,1,1,UEFA Euro qualification,Chișinău,Moldova,False
+2023-11-20,Czech Republic,Moldova,3,0,UEFA Euro qualification,Olomouc,Czech Republic,False
+2024-03-22,North Macedonia,Moldova,1,1,Friendly,Antalya,Turkey,True
+2024-06-08,Moldova,Cyprus,3,2,Friendly,Chișinău,Moldova,False
+2024-06-11,Moldova,Ukraine,0,4,Friendly,Chișinău,Moldova,False
+2024-09-07,Moldova,Malta,2,0,UEFA Nations League,Chișinău,Moldova,False
+2024-09-10,Moldova,San Marino,1,0,Friendly,Chișinău,Moldova,False
+2024-10-10,Moldova,Andorra,2,0,UEFA Nations League,Chișinău,Moldova,False
+2024-10-13,Malta,Moldova,1,0,UEFA Nations League,Ta' Qali,Malta,False
+2024-11-16,Andorra,Moldova,0,1,UEFA Nations League,Andorra la Vella,Andorra,False
+2024-11-19,Gibraltar,Moldova,1,1,Friendly,Gibraltar,Gibraltar,False
+2025-03-22,Moldova,Norway,0,5,FIFA World Cup qualification,Chișinău,Moldova,False
+2025-03-25,Moldova,Estonia,2,3,FIFA World Cup qualification,Chișinău,Moldova,False

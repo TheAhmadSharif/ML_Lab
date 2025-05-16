@@ -1,0 +1,77 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1980-07-02,Faroe Islands,Greenland,6,0,Friendly,Sauðárkrókur,Iceland,True
+1980-07-03,Iceland,Greenland,4,1,Friendly,Húsavík,Iceland,False
+1983-06-29,Greenland,Faroe Islands,0,0,Friendly,Nuuk,Greenland,False
+1983-07-03,Greenland,Faroe Islands,2,3,Friendly,Nuuk,Greenland,False
+1984-08-03,Greenland,Iceland,0,1,Friendly,Fuglafjørður,Faroe Islands,True
+1984-08-05,Faroe Islands,Greenland,1,0,Friendly,Klaksvík,Faroe Islands,False
+1984-08-07,Faroe Islands,Greenland,4,2,Friendly,Tórshavn,Faroe Islands,False
+1989-07-06,Greenland,Shetland,4,1,Island Games,Vágur,Faroe Islands,True
+1989-07-09,Faroe Islands,Greenland,3,0,Island Games,Fuglafjørður,Faroe Islands,False
+1989-07-11,Åland Islands,Greenland,3,0,Island Games,Sandur,Faroe Islands,True
+1989-07-12,Ynys Môn,Greenland,1,0,Island Games,Klaksvík,Faroe Islands,True
+1991-06-24,Jersey,Greenland,4,3,Island Games,Åland,Finland,True
+1991-06-25,Faroe Islands,Greenland,3,2,Island Games,Åland,Finland,True
+1991-06-26,Shetland,Greenland,5,2,Island Games,Åland,Finland,True
+1991-06-28,Isle of Wight,Greenland,3,1,Island Games,Åland,Finland,True
+1993-07-04,Ynys Môn,Greenland,0,1,Island Games,Isle of Wight,England,True
+1993-07-05,Jersey,Greenland,4,2,Island Games,Isle of Wight,England,True
+1993-07-06,Greenland,Gibraltar,5,0,Island Games,Isle of Wight,England,True
+1993-07-09,Greenland,Åland Islands,1,2,Island Games,Isle of Wight,England,True
+1995-07-16,Gibraltar,Greenland,0,1,Island Games,Gibraltar,Gibraltar,False
+1995-07-17,Greenland,Ynys Môn,1,2,Island Games,Gibraltar,Gibraltar,True
+1995-07-18,Greenland,Isle of Man,4,0,Island Games,Gibraltar,Gibraltar,True
+1995-07-20,Greenland,Isle of Wight,1,2,Island Games,Gibraltar,Gibraltar,True
+1997-06-30,Jersey,Greenland,2,1,Island Games,St. Peter,Jersey,False
+1997-07-01,Guernsey,Greenland,0,0,Island Games,St Helier,Jersey,True
+1997-07-02,Gibraltar,Greenland,5,1,Island Games,St. Lawrence,Jersey,True
+1997-07-03,Frøya,Greenland,2,1,Island Games,Grouville,Jersey,True
+1999-06-27,Greenland,Saare County,4,1,Island Games,Väskinde,Sweden,True
+1999-06-28,Frøya,Greenland,1,3,Island Games,Dalhem,Sweden,True
+1999-06-29,Isle of Wight,Greenland,7,2,Island Games,Väskinde,Sweden,True
+1999-07-01,Greenland,Rhodes,0,2,Island Games,Fårösund,Sweden,True
+1999-07-01,Gotland,Greenland,7,2,Island Games,Norrbacka,Sweden,False
+2001-06-30,Greenland,Tibet,4,1,Friendly,Copenhagen,Denmark,True
+2001-07-08,Isle of Wight,Greenland,0,0,Island Games,Peel,Isle of Man,True
+2001-07-09,Greenland,Rhodes,0,2,Island Games,Ramsey,Isle of Man,True
+2001-07-12,Greenland,Falkland Islands,4,0,Island Games,Braddan,Isle of Man,True
+2001-07-13,Greenland,Saare County,2,0,Island Games,Ramsey,Isle of Man,True
+2003-06-29,Isle of Wight,Greenland,1,2,Island Games,Saint Martin,Guernsey,True
+2003-06-30,Gibraltar,Greenland,2,0,Island Games,Saint Martin,Guernsey,True
+2003-07-01,Greenland,Sark,16,0,Island Games,Saint Martin,Guernsey,True
+2003-07-03,Alderney,Greenland,0,3,Island Games,Saint Sampson,Guernsey,True
+2003-07-04,Gotland,Greenland,2,1,Island Games,Saint Sampson,Guernsey,True
+2005-07-10,Greenland,Ynys Môn,0,0,Island Games,Shetland,Scotland,True
+2005-07-11,Orkney,Greenland,1,2,Island Games,Shetland,Scotland,True
+2005-07-12,Western Isles,Greenland,4,4,Island Games,Shetland,Scotland,True
+2005-07-13,Greenland,Guernsey,0,6,Island Games,Shetland,Scotland,True
+2005-07-15,Åland Islands,Greenland,3,2,Island Games,Shetland,Scotland,True
+2006-05-29,Northern Cyprus,Greenland,1,0,FIFI Wild Cup,Hamburg,Germany,True
+2006-05-31,Greenland,Zanzibar,2,4,FIFI Wild Cup,Hamburg,Germany,True
+2006-11-19,Găgăuzia,Greenland,0,2,ELF Cup,Kyrenia,Northern Cyprus,True
+2006-11-20,Greenland,Zanzibar,1,1,ELF Cup,Gazimağusa,Northern Cyprus,True
+2006-11-21,Greenland,Kyrgyzstan,0,1,ELF Cup,Kyrenia,Northern Cyprus,True
+2009-06-28,Åland Islands,Greenland,4,2,Island Games,Mariehamn,Sweden,False
+2009-06-29,Menorca,Greenland,6,0,Island Games,Sund,Sweden,True
+2009-06-30,Greenland,Shetland,3,1,Island Games,Sund,Sweden,True
+2009-07-02,Gotland,Greenland,4,2,Island Games,Jomala,Sweden,True
+2011-06-26,Rhodes,Greenland,2,1,Island Games,Brading,England,True
+2011-06-27,Greenland,Menorca,2,3,Island Games,East Cowes,England,True
+2011-06-28,Greenland,Jersey,1,2,Island Games,Freshwater,England,True
+2011-06-30,Greenland,Western Isles,1,0,Island Games,Shanklin,England,True
+2013-07-14,Bermuda,Greenland,3,0,Island Games,Hamilton,Bermuda,False
+2013-07-15,Greenland,Frøya,12,0,Island Games,Hamilton,Bermuda,True
+2013-07-17,Falkland Islands,Greenland,0,9,Island Games,Hamilton,Bermuda,True
+2013-07-18,Bermuda,Greenland,1,0,Island Games,Hamilton,Bermuda,False
+2015-06-28,Greenland,Menorca,2,2,Island Games,Grouville,Jersey,True
+2015-06-29,Åland Islands,Greenland,0,2,Island Games,St. Clement,Jersey,True
+2015-06-30,Greenland,Saare County,2,1,Island Games,Grouville,Jersey,True
+2015-07-02,Isle of Wight,Greenland,1,2,Island Games,St. Clement,Jersey,True
+2017-06-25,Western Isles,Greenland,0,3,Island Games,Dalhem,Sweden,True
+2017-06-26,Frøya,Greenland,2,2,Island Games,Hemse,Sweden,True
+2017-06-27,Gotland,Greenland,0,1,Island Games,Visby,Sweden,False
+2017-06-29,Greenland,Menorca,1,1,Island Games,Väskinde,Sweden,True
+2017-06-30,Greenland,Isle of Man,0,6,Island Games,Visby,Sweden,True
+2023-07-09,Orkney,Greenland,2,2,Island Games,Saint Martin,Guernsey,True
+2023-07-10,Greenland,Frøya,2,0,Island Games,Saint Sampson,Guernsey,True
+2023-07-13,Shetland,Greenland,5,1,Island Games,Saint Sampson,Guernsey,True

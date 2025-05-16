@@ -1,0 +1,119 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1963-11-11,North Korea,Somalia,14,0,Friendly,Jakarta,Indonesia,True
+1969-01-05,Ethiopia,Somalia,7,0,Friendly,Addis Ababa,Ethiopia,False
+1969-01-07,Somalia,Uganda,1,7,Friendly,Addis Ababa,Ethiopia,True
+1972-01-18,Somalia,China PR,1,3,Friendly,Mogadishu,Somalia,False
+1973-06-17,China PR,Somalia,7,4,Friendly,Beijing,China PR,False
+1973-09-22,Uganda,Somalia,6,1,CECAFA Cup,Kampala,Uganda,False
+1973-09-24,Somalia,Zambia,1,6,CECAFA Cup,Kampala,Uganda,True
+1974-08-10,Somalia,Burundi,0,2,African Cup of Nations qualification,Mogadishu,Somalia,False
+1974-08-24,Burundi,Somalia,0,1,African Cup of Nations qualification,Bujumbura,Burundi,False
+1974-09-10,Libya,Somalia,3,2,Friendly,Tripoli,Libya,False
+1974-09-13,Libya,Somalia,3,2,Friendly,Tripoli,Libya,False
+1974-10-30,Zanzibar,Somalia,2,1,CECAFA Cup,Zanzibar,Tanzania,False
+1974-11-04,Somalia,Uganda,1,1,CECAFA Cup,Zanzibar,Tanzania,True
+1976-11-06,Somalia,Uganda,0,2,CECAFA Cup,Zanzibar,Tanzania,True
+1976-11-08,Somalia,Zambia,2,4,CECAFA Cup,Zanzibar,Tanzania,True
+1976-11-10,Zanzibar,Somalia,1,0,CECAFA Cup,Zanzibar,Tanzania,False
+1976-11-16,Zanzibar,Somalia,1,1,Friendly,Zanzibar,Tanzania,False
+1977-11-30,Somalia,Zanzibar,1,0,CECAFA Cup,Mogadishu,Somalia,False
+1978-11-03,Malawi,Somalia,3,1,CECAFA Cup,Lilongwe,Malawi,False
+1978-11-09,Somalia,Zambia,0,4,CECAFA Cup,Blantyre,Malawi,True
+1978-11-11,Kenya,Somalia,1,0,CECAFA Cup,Blantyre,Malawi,True
+1978-11-13,Somalia,Uganda,2,2,CECAFA Cup,Lilongwe,Malawi,True
+1980-07-16,Niger,Somalia,0,0,FIFA World Cup qualification,Niamey,Niger,False
+1980-07-27,Somalia,Niger,1,1,FIFA World Cup qualification,Mogadishu,Somalia,False
+1980-11-17,Somalia,Tanzania,1,1,CECAFA Cup,Khartoum,Sudan,True
+1980-11-20,Sudan,Somalia,2,0,CECAFA Cup,Khartoum,Sudan,False
+1982-09-19,Somalia,Rwanda,0,1,African Cup of Nations qualification,Mogadishu,Somalia,False
+1983-11-14,Somalia,Zanzibar,1,1,CECAFA Cup,Nairobi,Kenya,True
+1983-11-17,Malawi,Somalia,2,1,CECAFA Cup,Mombasa,Kenya,True
+1983-11-19,Somalia,Zimbabwe,1,2,CECAFA Cup,Mombasa,Kenya,True
+1984-11-09,Somalia,Kenya,1,0,African Cup of Nations qualification,Mogadishu,Somalia,False
+1984-11-23,Kenya,Somalia,1,0,African Cup of Nations qualification,Nairobi,Kenya,False
+1984-12-03,Somalia,Zanzibar,2,1,CECAFA Cup,Mbale,Uganda,True
+1984-12-05,Malawi,Somalia,1,0,CECAFA Cup,Mbale,Uganda,True
+1984-12-08,Kenya,Somalia,1,1,CECAFA Cup,Mbale,Uganda,True
+1986-10-05,Uganda,Somalia,5,0,African Cup of Nations qualification,Kampala,Uganda,False
+1986-10-07,Kenya,Somalia,2,1,Friendly,Nairobi,Kenya,False
+1986-10-19,Somalia,Uganda,0,0,African Cup of Nations qualification,Mogadishu,Somalia,False
+1994-11-26,Kenya,Somalia,3,1,CECAFA Cup,Nairobi,Kenya,False
+1994-11-29,Tanzania,Somalia,4,0,CECAFA Cup,Nairobi,Kenya,True
+1994-12-01,Somalia,Djibouti,2,1,CECAFA Cup,Nairobi,Kenya,True
+1995-12-01,Tanzania,Somalia,7,0,CECAFA Cup,Jinja,Uganda,True
+1995-12-03,Ethiopia,Somalia,5,0,CECAFA Cup,Jinja,Uganda,True
+1999-07-27,Burundi,Somalia,3,0,CECAFA Cup,Kigali,Rwanda,True
+1999-07-29,Somalia,Uganda,0,2,CECAFA Cup,Kigali,Rwanda,True
+2000-04-19,Cameroon,Somalia,3,0,FIFA World Cup qualification,Yaoundé,Cameroon,False
+2000-04-23,Cameroon,Somalia,3,0,FIFA World Cup qualification,Yaoundé,Cameroon,False
+2000-11-19,Djibouti,Somalia,0,0,CECAFA Cup,Kampala,Uganda,True
+2000-11-21,Somalia,Ethiopia,1,2,CECAFA Cup,Kampala,Uganda,True
+2000-11-23,Uganda,Somalia,6,0,CECAFA Cup,Kampala,Uganda,False
+2001-12-08,Rwanda,Somalia,3,0,CECAFA Cup,Kigali,Rwanda,False
+2001-12-12,Kenya,Somalia,3,0,CECAFA Cup,Kigali,Rwanda,True
+2001-12-14,Eritrea,Somalia,0,0,CECAFA Cup,Kigali,Rwanda,True
+2002-12-01,Somalia,Uganda,0,2,CECAFA Cup,Arusha,Tanzania,True
+2002-12-03,Somalia,Rwanda,0,1,CECAFA Cup,Arusha,Tanzania,True
+2002-12-05,Zanzibar,Somalia,1,0,CECAFA Cup,Arusha,Tanzania,True
+2002-12-07,Ethiopia,Somalia,0,1,CECAFA Cup,Arusha,Tanzania,True
+2003-11-16,Ghana,Somalia,5,0,FIFA World Cup qualification,Accra,Ghana,False
+2003-11-19,Ghana,Somalia,2,0,FIFA World Cup qualification,Kumasi,Ghana,False
+2004-12-12,Uganda,Somalia,2,0,CECAFA Cup,Addis Ababa,Ethiopia,True
+2004-12-14,Somalia,Kenya,0,1,CECAFA Cup,Addis Ababa,Ethiopia,True
+2004-12-18,Sudan,Somalia,4,0,CECAFA Cup,Addis Ababa,Ethiopia,True
+2005-11-27,Djibouti,Somalia,1,2,CECAFA Cup,Kigali,Rwanda,True
+2005-11-29,Somalia,Sudan,1,4,CECAFA Cup,Kigali,Rwanda,True
+2005-12-01,Somalia,Uganda,0,7,CECAFA Cup,Kigali,Rwanda,True
+2005-12-05,Ethiopia,Somalia,3,1,CECAFA Cup,Kigali,Rwanda,True
+2006-11-27,Somalia,Rwanda,0,3,CECAFA Cup,Addis Ababa,Ethiopia,True
+2006-11-30,Somalia,Sudan,0,3,CECAFA Cup,Addis Ababa,Ethiopia,True
+2006-12-03,Uganda,Somalia,2,0,CECAFA Cup,Addis Ababa,Ethiopia,True
+2006-12-21,Sudan,Somalia,6,1,Arab Cup qualification,Beirut,Lebanon,True
+2006-12-24,Lebanon,Somalia,4,0,Arab Cup qualification,Beirut,Lebanon,False
+2006-12-27,Somalia,Mauritania,2,8,Arab Cup qualification,Beirut,Lebanon,True
+2007-11-16,Djibouti,Somalia,1,0,FIFA World Cup qualification,Djibouti,Djibouti,False
+2007-12-10,Somalia,Burundi,0,3,CECAFA Cup,Dar es Salaam,Tanzania,True
+2007-12-12,Tanzania,Somalia,1,0,CECAFA Cup,Dar es Salaam,Tanzania,False
+2007-12-14,Kenya,Somalia,2,0,CECAFA Cup,Dar es Salaam,Tanzania,True
+2008-12-23,Djibouti,Somalia,2,3,Friendly,Djibouti,Djibouti,False
+2009-01-01,Zanzibar,Somalia,2,0,CECAFA Cup,Kampala,Uganda,True
+2009-01-03,Somalia,Tanzania,1,0,CECAFA Cup,Kampala,Uganda,True
+2009-01-05,Rwanda,Somalia,3,0,CECAFA Cup,Kampala,Uganda,True
+2009-01-07,Uganda,Somalia,4,0,CECAFA Cup,Kampala,Uganda,False
+2009-11-29,Rwanda,Somalia,1,0,CECAFA Cup,Nairobi,Kenya,True
+2009-12-05,Somalia,Eritrea,1,3,CECAFA Cup,Nairobi,Kenya,True
+2010-11-28,Burundi,Somalia,2,0,CECAFA Cup,Dar es Salaam,Tanzania,True
+2010-11-30,Tanzania,Somalia,3,0,CECAFA Cup,Dar es Salaam,Tanzania,False
+2010-12-03,Zambia,Somalia,6,0,CECAFA Cup,Dar es Salaam,Tanzania,True
+2011-11-12,Somalia,Ethiopia,0,0,FIFA World Cup qualification,Djibouti,Djibouti,True
+2011-11-16,Ethiopia,Somalia,5,0,FIFA World Cup qualification,Addis Ababa,Ethiopia,False
+2011-11-25,Burundi,Somalia,4,1,CECAFA Cup,Dar es Salaam,Tanzania,True
+2011-11-28,Somalia,Uganda,0,4,CECAFA Cup,Chamazi,Tanzania,True
+2011-12-01,Somalia,Zanzibar,0,3,CECAFA Cup,Dar es Salaam,Tanzania,True
+2012-11-25,Burundi,Somalia,5,1,CECAFA Cup,Kampala,Uganda,True
+2012-11-28,Somalia,Sudan,0,1,CECAFA Cup,Kampala,Uganda,True
+2012-12-01,Somalia,Tanzania,0,7,CECAFA Cup,Kampala,Uganda,True
+2013-11-28,Burundi,Somalia,2,0,CECAFA Cup,Machakos,Kenya,True
+2013-12-01,Somalia,Tanzania,0,1,CECAFA Cup,Nairobi,Kenya,True
+2013-12-04,Somalia,Zambia,0,4,CECAFA Cup,Nakuru,Kenya,True
+2015-10-09,Somalia,Niger,0,2,FIFA World Cup qualification,Addis Ababa,Ethiopia,True
+2015-10-13,Niger,Somalia,4,0,FIFA World Cup qualification,Niamey,Niger,False
+2015-11-22,Somalia,Tanzania,0,4,CECAFA Cup,Addis Ababa,Ethiopia,True
+2015-11-25,Ethiopia,Somalia,2,0,CECAFA Cup,Hawassa,Ethiopia,False
+2015-11-27,Rwanda,Somalia,3,0,CECAFA Cup,Hawassa,Ethiopia,True
+2019-09-05,Somalia,Zimbabwe,1,0,FIFA World Cup qualification,Djibouti,Djibouti,True
+2019-09-10,Zimbabwe,Somalia,3,1,FIFA World Cup qualification,Harare,Zimbabwe,False
+2021-06-15,Djibouti,Somalia,1,0,Friendly,Djibouti,Djibouti,False
+2021-06-20,Oman,Somalia,2,1,Arab Cup qualification,Doha,Qatar,True
+2022-03-23,Somalia,Eswatini,0,3,African Cup of Nations qualification,Dar es Salaam,Tanzania,True
+2022-03-27,Eswatini,Somalia,2,1,African Cup of Nations qualification,Mbombela,South Africa,True
+2023-10-14,Niger,Somalia,3,0,Friendly,Mohammedia,Morocco,True
+2023-10-17,Somalia,Sierra Leone,0,2,Friendly,Khouribga,Morocco,True
+2023-11-16,Algeria,Somalia,3,1,FIFA World Cup qualification,Algiers,Algeria,False
+2023-11-21,Somalia,Uganda,0,1,FIFA World Cup qualification,Berkane,Morocco,True
+2024-03-20,Somalia,Eswatini,0,3,African Cup of Nations qualification,El Jadida,Morocco,True
+2024-03-26,Eswatini,Somalia,2,2,African Cup of Nations qualification,Mbombela,South Africa,True
+2024-06-07,Mozambique,Somalia,2,1,FIFA World Cup qualification,Maputo,Mozambique,False
+2024-06-10,Somalia,Botswana,1,3,FIFA World Cup qualification,Maputo,Mozambique,True
+2025-03-21,Guinea,Somalia,0,0,FIFA World Cup qualification,Ebimpé,Ivory Coast,True
+2025-03-25,Botswana,Somalia,2,0,FIFA World Cup qualification,Francistown,Botswana,False

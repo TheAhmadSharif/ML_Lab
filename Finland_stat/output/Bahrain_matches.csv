@@ -1,0 +1,574 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1966-04-02,Lebanon,Bahrain,6,1,Arab Cup,Baghdad,Iraq,True
+1966-04-05,Iraq,Bahrain,10,1,Arab Cup,Baghdad,Iraq,False
+1966-04-06,Bahrain,Kuwait,4,4,Arab Cup,Habbaniyah,Iraq,True
+1966-04-07,Bahrain,Jordan,1,5,Arab Cup,Baghdad,Iraq,True
+1970-03-27,Bahrain,Qatar,2,1,Gulf Cup,Isa Town,Bahrain,False
+1970-03-30,Bahrain,Saudi Arabia,0,0,Gulf Cup,Isa Town,Bahrain,False
+1970-04-03,Bahrain,Kuwait,1,3,Gulf Cup,Isa Town,Bahrain,False
+1971-12-11,Bahrain,Lebanon,3,0,AFC Asian Cup qualification,Kuwait City,Kuwait,True
+1971-12-13,Jordan,Bahrain,3,2,AFC Asian Cup qualification,Kuwait City,Kuwait,True
+1971-12-15,Iraq,Bahrain,1,0,AFC Asian Cup qualification,Kuwait City,Kuwait,True
+1971-12-20,Bahrain,Sri Lanka,3,0,AFC Asian Cup qualification,Kuwait City,Kuwait,True
+1972-03-18,Bahrain,Kuwait,0,2,Gulf Cup,Riyadh,Saudi Arabia,True
+1972-03-21,Bahrain,Qatar,6,2,Gulf Cup,Riyadh,Saudi Arabia,True
+1972-03-25,Bahrain,United Arab Emirates,2,0,Gulf Cup,Riyadh,Saudi Arabia,True
+1972-03-28,Saudi Arabia,Bahrain,2,1,Gulf Cup,Riyadh,Saudi Arabia,False
+1974-03-01,Bahrain,Morocco,0,1,Friendly,Manama,Bahrain,False
+1974-03-16,Bahrain,Oman,4,0,Gulf Cup,Kuwait City,Kuwait,True
+1974-03-18,Bahrain,United Arab Emirates,0,4,Gulf Cup,Kuwait City,Kuwait,True
+1974-03-21,Bahrain,Saudi Arabia,1,4,Gulf Cup,Kuwait City,Kuwait,True
+1974-08-14,Iraq,Bahrain,4,0,Friendly,Baghdad,Iraq,False
+1974-09-03,Myanmar,Bahrain,4,0,Asian Games,Tehran,Iran,True
+1974-09-05,Pakistan,Bahrain,5,1,Asian Games,Tehran,Iran,True
+1974-09-07,Iran,Bahrain,6,0,Asian Games,Tehran,Iran,False
+1976-03-27,Bahrain,United Arab Emirates,3,2,Gulf Cup,Doha,Qatar,True
+1976-03-29,Bahrain,Iraq,1,4,Gulf Cup,Doha,Qatar,True
+1976-04-02,Bahrain,Oman,1,0,Gulf Cup,Doha,Qatar,True
+1976-04-06,Bahrain,Kuwait,2,5,Gulf Cup,Doha,Qatar,True
+1976-04-08,Bahrain,Saudi Arabia,2,1,Gulf Cup,Doha,Qatar,True
+1976-04-10,Qatar,Bahrain,3,0,Gulf Cup,Doha,Qatar,False
+1977-02-17,Bahrain,South Korea,1,4,Friendly,Manama,Bahrain,False
+1977-02-19,Bahrain,South Korea,1,1,Friendly,Manama,Bahrain,False
+1977-03-11,Bahrain,Kuwait,0,2,FIFA World Cup qualification,Doha,Qatar,True
+1977-03-13,Qatar,Bahrain,2,0,FIFA World Cup qualification,Doha,Qatar,False
+1977-03-17,Bahrain,Kuwait,1,2,FIFA World Cup qualification,Doha,Qatar,True
+1977-03-19,Qatar,Bahrain,0,3,FIFA World Cup qualification,Doha,Qatar,False
+1977-09-08,Bahrain,Malaysia,1,3,Korea Cup,Daegu,South Korea,True
+1978-09-09,Bahrain,Malaysia,1,2,Korea Cup,Seoul,South Korea,True
+1978-09-13,South Korea,Bahrain,3,1,Korea Cup,Daegu,South Korea,False
+1978-12-11,Bahrain,South Korea,1,5,Asian Games,Bangkok,Thailand,True
+1978-12-13,Bahrain,Japan,0,4,Asian Games,Bangkok,Thailand,True
+1978-12-15,Bahrain,Kuwait,0,3,Asian Games,Bangkok,Thailand,True
+1979-02-09,Bahrain,Finland,0,1,Friendly,Isa Town,Bahrain,False
+1979-03-23,Iraq,Bahrain,4,0,Gulf Cup,Baghdad,Iraq,False
+1979-03-27,Bahrain,United Arab Emirates,3,0,Gulf Cup,Baghdad,Iraq,True
+1979-03-30,Bahrain,Oman,3,1,Gulf Cup,Baghdad,Iraq,True
+1979-04-02,Saudi Arabia,Bahrain,1,1,Gulf Cup,Baghdad,Iraq,True
+1979-04-07,Bahrain,Qatar,1,1,Gulf Cup,Baghdad,Iraq,True
+1979-04-09,Bahrain,Kuwait,0,2,Gulf Cup,Baghdad,Iraq,True
+1979-09-14,South Korea,Bahrain,5,1,Korea Cup,Chungju,South Korea,False
+1979-10-03,Bahrain,New Zealand,0,2,Friendly,Isa Town,Bahrain,False
+1979-10-08,Bahrain,New Zealand,1,2,Friendly,Isa Town,Bahrain,False
+1980-08-25,Bahrain,Malaysia,1,1,Korea Cup,Seoul,South Korea,True
+1980-08-27,Bahrain,Indonesia,2,3,Korea Cup,Seoul,South Korea,True
+1980-08-29,South Korea,Bahrain,5,0,Korea Cup,Gwangju,South Korea,False
+1980-08-31,Bahrain,Thailand,0,1,Korea Cup,Seoul,South Korea,True
+1981-02-27,Bahrain,Jordan,1,0,Friendly,Manama,Bahrain,False
+1981-03-05,Bahrain,Tunisia,0,3,Friendly,Manama,Bahrain,False
+1981-03-19,Syria,Bahrain,0,1,FIFA World Cup qualification,Riyadh,Saudi Arabia,True
+1981-03-22,Qatar,Bahrain,3,0,FIFA World Cup qualification,Riyadh,Saudi Arabia,True
+1981-03-25,Iraq,Bahrain,2,0,FIFA World Cup qualification,Riyadh,Saudi Arabia,True
+1981-03-28,Saudi Arabia,Bahrain,1,0,FIFA World Cup qualification,Riyadh,Saudi Arabia,False
+1982-01-17,Singapore,Bahrain,2,0,Friendly,Kallang,Singapore,False
+1982-03-20,Bahrain,Kuwait,0,2,Gulf Cup,Abu Dhabi,United Arab Emirates,True
+1982-03-25,Bahrain,Oman,4,1,Gulf Cup,Abu Dhabi,United Arab Emirates,True
+1982-03-27,United Arab Emirates,Bahrain,2,3,Gulf Cup,Abu Dhabi,United Arab Emirates,False
+1982-03-31,Bahrain,Qatar,1,0,Gulf Cup,Abu Dhabi,United Arab Emirates,True
+1982-04-02,Bahrain,Saudi Arabia,2,2,Gulf Cup,Abu Dhabi,United Arab Emirates,True
+1982-06-11,South Korea,Bahrain,3,0,Korea Cup,Gwangju,South Korea,False
+1982-06-13,Bahrain,India,0,0,Korea Cup,Incheon,South Korea,True
+1984-03-09,Oman,Bahrain,0,1,Gulf Cup,Muscat,Oman,False
+1984-03-12,Bahrain,Kuwait,0,1,Gulf Cup,Muscat,Oman,True
+1984-03-18,Bahrain,United Arab Emirates,1,1,Gulf Cup,Muscat,Oman,True
+1984-03-20,Bahrain,Iraq,0,1,Gulf Cup,Muscat,Oman,True
+1984-03-22,Bahrain,Qatar,1,1,Gulf Cup,Muscat,Oman,True
+1984-03-26,Bahrain,Saudi Arabia,0,2,Gulf Cup,Muscat,Oman,True
+1985-03-29,Yemen DPR,Bahrain,1,4,FIFA World Cup qualification,Aden,Yemen DPR,False
+1985-04-05,Bahrain,United Arab Emirates,3,2,Friendly,Manama,Bahrain,False
+1985-04-12,Bahrain,Yemen DPR,3,3,FIFA World Cup qualification,Riffa,Bahrain,False
+1985-06-03,Bahrain,Malaysia,3,1,Korea Cup,Seoul,South Korea,True
+1985-06-08,South Korea,Bahrain,3,0,Korea Cup,Gwangju,South Korea,False
+1985-07-04,Bahrain,Iraq,1,1,Arab Cup,Taif,Saudi Arabia,True
+1985-07-06,Bahrain,Mauritania,2,0,Arab Cup,Taif,Saudi Arabia,True
+1985-07-10,Bahrain,Qatar,1,1,Arab Cup,Taif,Saudi Arabia,True
+1985-07-12,Bahrain,Iraq,0,1,Arab Cup,Taif,Saudi Arabia,True
+1985-09-06,Bahrain,Syria,1,1,FIFA World Cup qualification,Riffa,Bahrain,False
+1985-09-20,Syria,Bahrain,1,0,FIFA World Cup qualification,Damascus,Syria,False
+1986-02-21,Bahrain,Finland,0,0,Friendly,Manama,Bahrain,False
+1986-02-24,Bahrain,Finland,0,4,Friendly,Manama,Bahrain,False
+1986-03-08,Bahrain,Paraguay,1,2,Friendly,Manama,Bahrain,False
+1986-03-11,Bahrain,Iceland,2,1,Friendly,Manama,Bahrain,False
+1986-03-15,Bahrain,Iceland,0,2,Friendly,Manama,Bahrain,False
+1986-03-22,Bahrain,Iraq,0,0,Gulf Cup,Riffa,Bahrain,False
+1986-03-25,Bahrain,Saudi Arabia,2,1,Gulf Cup,Riffa,Bahrain,False
+1986-03-29,Bahrain,Qatar,0,0,Gulf Cup,Riffa,Bahrain,False
+1986-04-02,Bahrain,Oman,0,0,Gulf Cup,Riffa,Bahrain,False
+1986-04-05,Bahrain,United Arab Emirates,1,3,Gulf Cup,Riffa,Bahrain,False
+1986-04-07,Bahrain,Kuwait,1,1,Gulf Cup,Riffa,Bahrain,False
+1986-08-12,Bahrain,Oman,2,3,Friendly,Manama,Bahrain,False
+1986-08-14,Bahrain,Oman,2,0,Friendly,Manama,Bahrain,False
+1986-08-24,Oman,Bahrain,1,0,Friendly,Muscat,Oman,False
+1986-08-26,Oman,Bahrain,1,2,Friendly,Muscat,Oman,False
+1986-09-20,China PR,Bahrain,5,1,Asian Games,Busan,South Korea,True
+1986-09-24,South Korea,Bahrain,0,0,Asian Games,Busan,South Korea,False
+1986-09-26,Bahrain,India,3,0,Asian Games,Busan,South Korea,True
+1987-04-08,Bahrain,Iraq,1,3,Friendly,Manama,Bahrain,False
+1987-04-10,Bahrain,Iraq,1,2,Friendly,Manama,Bahrain,False
+1988-03-03,United Arab Emirates,Bahrain,2,0,Gulf Cup,Riyadh,Saudi Arabia,True
+1988-03-07,Oman,Bahrain,0,2,Gulf Cup,Riyadh,Saudi Arabia,True
+1988-03-09,Saudi Arabia,Bahrain,1,0,Gulf Cup,Riyadh,Saudi Arabia,False
+1988-03-12,Kuwait,Bahrain,0,1,Gulf Cup,Riyadh,Saudi Arabia,True
+1988-03-16,Bahrain,Qatar,1,0,Gulf Cup,Riyadh,Saudi Arabia,True
+1988-03-18,Bahrain,Iraq,0,1,Gulf Cup,Riyadh,Saudi Arabia,True
+1988-06-17,Bahrain,South Korea,2,0,AFC Asian Cup qualification,Jakarta,Indonesia,True
+1988-06-19,Indonesia,Bahrain,0,0,AFC Asian Cup qualification,Jakarta,Indonesia,False
+1988-06-22,Bahrain,Yemen DPR,2,0,AFC Asian Cup qualification,Jakarta,Indonesia,True
+1988-07-08,Jordan,Bahrain,0,0,Arab Cup,Amman,Jordan,False
+1988-07-12,Bahrain,Syria,1,2,Arab Cup,Amman,Jordan,True
+1988-12-03,Kuwait,Bahrain,0,0,AFC Asian Cup,Doha,Qatar,True
+1988-12-06,Bahrain,China PR,0,1,AFC Asian Cup,Doha,Qatar,True
+1988-12-09,Saudi Arabia,Bahrain,1,1,AFC Asian Cup,Doha,Qatar,True
+1988-12-11,Bahrain,Syria,0,1,AFC Asian Cup,Doha,Qatar,True
+1990-02-21,Kuwait,Bahrain,1,0,Gulf Cup,Kuwait City,Kuwait,False
+1990-02-23,Qatar,Bahrain,0,0,Gulf Cup,Kuwait City,Kuwait,True
+1990-03-01,Bahrain,Oman,0,0,Gulf Cup,Kuwait City,Kuwait,True
+1990-03-05,Bahrain,United Arab Emirates,1,0,Gulf Cup,Kuwait City,Kuwait,True
+1992-05-19,Bahrain,Algeria,0,0,Friendly,Manama,Bahrain,False
+1992-11-28,Saudi Arabia,Bahrain,1,2,Gulf Cup,Doha,Qatar,True
+1992-12-01,Qatar,Bahrain,1,0,Gulf Cup,Doha,Qatar,False
+1992-12-04,Bahrain,United Arab Emirates,0,2,Gulf Cup,Doha,Qatar,True
+1992-12-07,Bahrain,Oman,3,0,Gulf Cup,Doha,Qatar,True
+1992-12-10,Kuwait,Bahrain,0,1,Gulf Cup,Doha,Qatar,True
+1993-05-07,Hong Kong,Bahrain,2,1,FIFA World Cup qualification,Beirut,Lebanon,True
+1993-05-09,Bahrain,South Korea,0,0,FIFA World Cup qualification,Beirut,Lebanon,True
+1993-05-13,Lebanon,Bahrain,0,0,FIFA World Cup qualification,Beirut,Lebanon,False
+1993-05-15,Bahrain,India,2,1,FIFA World Cup qualification,Beirut,Lebanon,True
+1993-06-05,Bahrain,Lebanon,0,0,FIFA World Cup qualification,Seoul,South Korea,True
+1993-06-07,India,Bahrain,0,3,FIFA World Cup qualification,Seoul,South Korea,True
+1993-06-11,Bahrain,Hong Kong,3,0,FIFA World Cup qualification,Seoul,South Korea,True
+1993-06-13,South Korea,Bahrain,3,0,FIFA World Cup qualification,Seoul,South Korea,False
+1994-10-01,Yemen,Bahrain,0,2,Asian Games,Hiroshima,Japan,True
+1994-10-03,Iran,Bahrain,0,0,Asian Games,Hiroshima,Japan,True
+1994-10-05,Bahrain,China PR,2,3,Asian Games,Onomichi,Japan,True
+1994-10-09,Bahrain,Turkmenistan,2,2,Asian Games,Miyoshi,Japan,True
+1994-11-04,Bahrain,Kuwait,2,1,Gulf Cup,Abu Dhabi,United Arab Emirates,True
+1994-11-06,Oman,Bahrain,1,1,Gulf Cup,Abu Dhabi,United Arab Emirates,True
+1994-11-10,Saudi Arabia,Bahrain,3,1,Gulf Cup,Abu Dhabi,United Arab Emirates,True
+1994-11-12,United Arab Emirates,Bahrain,0,0,Gulf Cup,Abu Dhabi,United Arab Emirates,False
+1994-11-15,Bahrain,Qatar,1,1,Gulf Cup,Abu Dhabi,United Arab Emirates,True
+1996-06-03,Oman,Bahrain,3,0,Friendly,Muscat,Oman,False
+1996-10-03,Lebanon,Bahrain,2,3,Friendly,Tripoli,Lebanon,False
+1996-10-16,Kuwait,Bahrain,1,0,Gulf Cup,Muscat,Oman,True
+1996-10-18,United Arab Emirates,Bahrain,1,1,Gulf Cup,Muscat,Oman,True
+1996-10-21,Saudi Arabia,Bahrain,3,1,Gulf Cup,Muscat,Oman,True
+1996-10-25,Bahrain,Qatar,1,2,Gulf Cup,Muscat,Oman,True
+1996-10-28,Oman,Bahrain,1,1,Gulf Cup,Muscat,Oman,False
+1997-03-06,Bahrain,Oman,1,0,Friendly,Muharraq,Bahrain,False
+1997-03-18,Kuwait,Bahrain,3,1,Friendly,Kuwait City,Kuwait,False
+1997-04-11,Bahrain,United Arab Emirates,1,2,FIFA World Cup qualification,Manama,Bahrain,False
+1997-04-14,Bahrain,Jordan,1,0,FIFA World Cup qualification,Manama,Bahrain,False
+1997-04-19,Jordan,Bahrain,4,1,FIFA World Cup qualification,Sharjah,United Arab Emirates,True
+1997-04-22,United Arab Emirates,Bahrain,3,0,FIFA World Cup qualification,Sharjah,United Arab Emirates,False
+1997-09-20,Libya,Bahrain,2,1,Friendly,Tripoli,Libya,False
+1997-09-25,Bahrain,Chad,1,1,Friendly,Tripoli,Libya,True
+1998-09-13,Bahrain,Libya,2,2,Friendly,Doha,Qatar,True
+1998-09-18,Bahrain,Syria,2,0,Friendly,Manama,Bahrain,False
+1998-10-03,Bahrain,Sudan,2,3,Friendly,Manama,Bahrain,False
+1998-10-23,Bahrain,Burkina Faso,2,1,Friendly,Manama,Bahrain,False
+1998-10-30,Bahrain,United Arab Emirates,0,1,Gulf Cup,Manama,Bahrain,False
+1998-11-02,Bahrain,Saudi Arabia,1,1,Gulf Cup,Manama,Bahrain,False
+1998-11-06,Bahrain,Kuwait,0,2,Gulf Cup,Manama,Bahrain,False
+1998-11-08,Bahrain,Qatar,0,0,Gulf Cup,Manama,Bahrain,False
+1998-11-12,Bahrain,Oman,2,2,Gulf Cup,Manama,Bahrain,False
+2000-03-20,Bahrain,Kazakhstan,0,1,Friendly,Manama,Bahrain,False
+2000-03-22,Bahrain,Qatar,1,0,Friendly,Manama,Bahrain,False
+2000-03-25,Bahrain,Jordan,1,1,Friendly,Manama,Bahrain,False
+2000-03-31,Syria,Bahrain,1,0,AFC Asian Cup qualification,Damascus,Syria,False
+2000-04-02,Bahrain,Maldives,4,1,AFC Asian Cup qualification,Damascus,Syria,True
+2000-04-04,Bahrain,Iran,1,0,AFC Asian Cup qualification,Damascus,Syria,True
+2000-04-09,Iran,Bahrain,3,0,AFC Asian Cup qualification,Tehran,Iran,False
+2000-04-11,Bahrain,Maldives,1,0,AFC Asian Cup qualification,Tehran,Iran,True
+2000-04-13,Bahrain,Syria,0,1,AFC Asian Cup qualification,Tehran,Iran,True
+2000-08-09,Syria,Bahrain,1,0,Friendly,Latakia,Syria,False
+2000-08-11,Bahrain,Jordan,0,2,Friendly,Latakia,Syria,True
+2000-11-21,Oman,Bahrain,2,1,Friendly,Muscat,Oman,False
+2001-01-12,Uzbekistan,Bahrain,5,0,Millennium Cup,Calcutta,India,True
+2001-01-15,Chile,Bahrain,2,0,Millennium Cup,Calcutta,India,True
+2001-02-03,Bahrain,Kuwait,1,2,FIFA World Cup qualification,Singapore,Singapore,True
+2001-02-06,Bahrain,Kyrgyzstan,1,0,FIFA World Cup qualification,Singapore,Singapore,True
+2001-02-09,Singapore,Bahrain,1,2,FIFA World Cup qualification,Singapore,Singapore,False
+2001-02-21,Kyrgyzstan,Bahrain,1,2,FIFA World Cup qualification,Kuwait City,Kuwait,True
+2001-02-24,Bahrain,Singapore,2,0,FIFA World Cup qualification,Kuwait City,Kuwait,True
+2001-02-27,Kuwait,Bahrain,0,1,FIFA World Cup qualification,Kuwait City,Kuwait,False
+2001-04-04,Lebanon,Bahrain,1,1,Friendly,Beirut,Lebanon,False
+2001-04-16,Bahrain,Oman,0,1,Friendly,Manama,Bahrain,False
+2001-06-21,Malaysia,Bahrain,2,4,Merdeka Tournament,Shah Alam,Malaysia,False
+2001-06-23,Bahrain,Bosnia and Herzegovina,0,1,Merdeka Tournament,Shah Alam,Malaysia,True
+2001-06-25,Bahrain,Slovakia,2,0,Merdeka Tournament,Shah Alam,Malaysia,True
+2001-06-28,Bahrain,Uzbekistan,0,2,Merdeka Tournament,Shah Alam,Malaysia,True
+2001-08-10,Qatar,Bahrain,1,1,Friendly,Doha,Qatar,False
+2001-08-17,Saudi Arabia,Bahrain,1,1,FIFA World Cup qualification,Riyadh,Saudi Arabia,False
+2001-08-23,Bahrain,Iraq,2,0,FIFA World Cup qualification,Riffa,Bahrain,False
+2001-09-06,Bahrain,Thailand,1,1,FIFA World Cup qualification,Riffa,Bahrain,False
+2001-09-14,Iran,Bahrain,0,0,FIFA World Cup qualification,Tehran,Iran,False
+2001-09-21,Bahrain,Saudi Arabia,0,4,FIFA World Cup qualification,Riffa,Bahrain,False
+2001-09-28,Iraq,Bahrain,1,0,FIFA World Cup qualification,Baghdad,Iraq,False
+2001-10-05,Bahrain,Qatar,1,0,Friendly,Manama,Bahrain,False
+2001-10-16,Thailand,Bahrain,1,1,FIFA World Cup qualification,Bangkok,Thailand,False
+2001-10-21,Bahrain,Iran,3,1,FIFA World Cup qualification,Riffa,Bahrain,False
+2001-12-13,Bahrain,Oman,2,2,Friendly,Manama,Bahrain,False
+2002-01-04,Bahrain,Finland,0,2,Prime Minister's Cup,Riffa,Bahrain,False
+2002-01-07,Bahrain,North Macedonia,1,1,Prime Minister's Cup,Riffa,Bahrain,False
+2002-01-10,Bahrain,Albania,3,0,Prime Minister's Cup,Riffa,Bahrain,False
+2002-01-17,Qatar,Bahrain,1,0,Gulf Cup,Riyadh,Saudi Arabia,True
+2002-01-20,Saudi Arabia,Bahrain,3,1,Gulf Cup,Riyadh,Saudi Arabia,False
+2002-01-22,Kuwait,Bahrain,0,0,Gulf Cup,Riyadh,Saudi Arabia,True
+2002-01-27,United Arab Emirates,Bahrain,1,2,Gulf Cup,Riyadh,Saudi Arabia,True
+2002-01-30,Bahrain,Oman,1,1,Gulf Cup,Riyadh,Saudi Arabia,True
+2002-11-23,Bahrain,Iraq,2,2,Friendly,Doha,Qatar,True
+2002-12-07,Bahrain,Jordan,0,3,Prime Minister's Cup,Riffa,Bahrain,False
+2002-12-09,Bahrain,Syria,2,3,Prime Minister's Cup,Riffa,Bahrain,False
+2002-12-12,Bahrain,China PR,2,2,Prime Minister's Cup,Riffa,Bahrain,False
+2002-12-17,Saudi Arabia,Bahrain,2,1,Arab Cup,Kuwait City,Kuwait,True
+2002-12-19,Bahrain,Syria,2,0,Arab Cup,Kuwait City,Kuwait,True
+2002-12-21,Bahrain,Yemen,3,1,Arab Cup,Kuwait City,Kuwait,True
+2002-12-26,Lebanon,Bahrain,0,0,Arab Cup,Kuwait City,Kuwait,True
+2002-12-28,Jordan,Bahrain,1,2,Arab Cup,Kuwait City,Kuwait,True
+2002-12-30,Saudi Arabia,Bahrain,1,0,Arab Cup,Kuwait City,Kuwait,True
+2003-09-10,Oman,Bahrain,1,0,Friendly,Muscat,Oman,False
+2003-09-19,Bahrain,Lebanon,4,3,Friendly,Manama,Bahrain,False
+2003-10-08,Iraq,Bahrain,5,1,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,True
+2003-10-10,Myanmar,Bahrain,1,3,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,True
+2003-10-12,Malaysia,Bahrain,2,2,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,False
+2003-10-20,Bahrain,Myanmar,4,0,AFC Asian Cup qualification,Riffa,Bahrain,False
+2003-10-22,Bahrain,Malaysia,3,1,AFC Asian Cup qualification,Riffa,Bahrain,False
+2003-10-24,Bahrain,Iraq,1,0,AFC Asian Cup qualification,Riffa,Bahrain,False
+2003-12-12,Bahrain,Iraq,2,2,Prime Minister's Cup,Riffa,Bahrain,False
+2003-12-15,Bahrain,Egypt,0,1,Prime Minister's Cup,Riffa,Bahrain,False
+2003-12-18,Bahrain,Kenya,2,1,Prime Minister's Cup,Riffa,Bahrain,False
+2003-12-27,Bahrain,Qatar,0,0,Gulf Cup,Kuwait City,Kuwait,True
+2003-12-30,Bahrain,Yemen,5,1,Gulf Cup,Kuwait City,Kuwait,True
+2004-01-01,Bahrain,Saudi Arabia,0,1,Gulf Cup,Kuwait City,Kuwait,True
+2004-01-03,Oman,Bahrain,0,1,Gulf Cup,Kuwait City,Kuwait,True
+2004-01-07,United Arab Emirates,Bahrain,1,3,Gulf Cup,Kuwait City,Kuwait,True
+2004-01-10,Kuwait,Bahrain,0,4,Gulf Cup,Kuwait City,Kuwait,False
+2004-02-08,Lebanon,Bahrain,2,1,Friendly,Beirut,Lebanon,False
+2004-02-13,Qatar,Bahrain,2,0,Friendly,Doha,Qatar,False
+2004-02-18,Bahrain,Syria,2,1,FIFA World Cup qualification,Muharraq,Bahrain,False
+2004-03-21,Bahrain,Jordan,0,0,Friendly,Muharraq,Bahrain,False
+2004-03-23,Bahrain,Jordan,0,2,Friendly,Muharraq,Bahrain,False
+2004-03-31,Tajikistan,Bahrain,0,0,FIFA World Cup qualification,Dushanbe,Tajikistan,False
+2004-05-26,Lebanon,Bahrain,2,2,Friendly,Beirut,Lebanon,False
+2004-05-31,United Arab Emirates,Bahrain,2,3,Friendly,Dubai,United Arab Emirates,False
+2004-06-09,Bahrain,Kyrgyzstan,5,0,FIFA World Cup qualification,Muharraq,Bahrain,False
+2004-07-05,Thailand,Bahrain,0,2,Friendly,Bangkok,Thailand,False
+2004-07-10,South Korea,Bahrain,2,0,Friendly,Gwangju,South Korea,False
+2004-07-17,China PR,Bahrain,2,2,AFC Asian Cup,Beijing,China PR,False
+2004-07-21,Bahrain,Qatar,1,1,AFC Asian Cup,Beijing,China PR,True
+2004-07-25,Bahrain,Indonesia,3,1,AFC Asian Cup,Jinan,China PR,True
+2004-07-30,Uzbekistan,Bahrain,2,2,AFC Asian Cup,Chengdu,China PR,True
+2004-08-03,Bahrain,Japan,3,4,AFC Asian Cup,Jinan,China PR,True
+2004-08-06,Iran,Bahrain,4,2,AFC Asian Cup,Beijing,China PR,True
+2004-08-26,Bahrain,Kuwait,0,0,Friendly,Muharraq,Bahrain,False
+2004-09-02,Bahrain,Palestine,1,0,Friendly,Muharraq,Bahrain,False
+2004-09-08,Kyrgyzstan,Bahrain,1,2,FIFA World Cup qualification,Bishkek,Kyrgyzstan,False
+2004-10-13,Syria,Bahrain,2,2,FIFA World Cup qualification,Damascus,Syria,False
+2004-11-17,Bahrain,Tajikistan,4,0,FIFA World Cup qualification,Riffa,Bahrain,False
+2004-12-01,Bahrain,Finland,1,2,Prime Minister's Cup,Riffa,Bahrain,False
+2004-12-03,Bahrain,Latvia,2,2,Prime Minister's Cup,Riffa,Bahrain,False
+2004-12-11,Bahrain,Yemen,1,1,Gulf Cup,Al Rayyan,Qatar,True
+2004-12-14,Kuwait,Bahrain,1,1,Gulf Cup,Al Rayyan,Qatar,True
+2004-12-17,Bahrain,Saudi Arabia,3,0,Gulf Cup,Al Rayyan,Qatar,True
+2004-12-20,Oman,Bahrain,3,2,Gulf Cup,Al Rayyan,Qatar,True
+2004-12-23,Bahrain,Kuwait,3,1,Gulf Cup,Doha,Qatar,True
+2005-01-25,Bahrain,Norway,0,1,Friendly,Riffa,Bahrain,False
+2005-02-02,Bahrain,Lebanon,2,1,Friendly,Doha,Qatar,True
+2005-02-09,Bahrain,Iran,0,0,FIFA World Cup qualification,Riffa,Bahrain,False
+2005-03-25,North Korea,Bahrain,1,2,FIFA World Cup qualification,Pyongyang,North Korea,False
+2005-03-30,Japan,Bahrain,1,0,FIFA World Cup qualification,Saitama,Japan,False
+2005-05-27,Saudi Arabia,Bahrain,1,1,Friendly,Riyadh,Saudi Arabia,False
+2005-06-03,Bahrain,Japan,0,1,FIFA World Cup qualification,Riffa,Bahrain,False
+2005-06-08,Iran,Bahrain,1,0,FIFA World Cup qualification,Tehran,Iran,False
+2005-08-03,Bahrain,Turkmenistan,5,0,Friendly,Manama,Bahrain,False
+2005-08-07,Bahrain,Iraq,2,2,Friendly,Manama,Bahrain,False
+2005-08-17,Bahrain,North Korea,2,3,FIFA World Cup qualification,Riffa,Bahrain,False
+2005-10-08,Uzbekistan,Bahrain,1,1,FIFA World Cup qualification,Tashkent,Uzbekistan,False
+2005-10-12,Bahrain,Uzbekistan,0,0,FIFA World Cup qualification,Riffa,Bahrain,False
+2005-10-27,Bahrain,Panama,5,0,Friendly,Riffa,Bahrain,False
+2005-11-12,Trinidad and Tobago,Bahrain,1,1,FIFA World Cup qualification,Port of Spain,Trinidad and Tobago,False
+2005-11-16,Bahrain,Trinidad and Tobago,0,1,FIFA World Cup qualification,Riffa,Bahrain,False
+2005-12-04,Bahrain,Syria,2,2,Friendly,Doha,Qatar,True
+2005-12-06,Bahrain,Oman,2,2,Friendly,Doha,Qatar,True
+2006-01-30,Bahrain,Syria,1,1,Friendly,Manama,Bahrain,False
+2006-02-16,Bahrain,Palestine,0,2,Friendly,Muharraq,Bahrain,False
+2006-02-22,Bahrain,Australia,1,3,AFC Asian Cup qualification,Riffa,Bahrain,False
+2006-03-01,Kuwait,Bahrain,0,0,AFC Asian Cup qualification,Kuwait City,Kuwait,False
+2006-08-09,Saudi Arabia,Bahrain,1,0,Friendly,Riyadh,Saudi Arabia,False
+2006-09-02,Bahrain,Jordan,0,2,Friendly,Manama,Bahrain,False
+2006-10-11,Australia,Bahrain,2,0,AFC Asian Cup qualification,Sydney,Australia,False
+2006-11-08,Oman,Bahrain,1,1,Friendly,Muscat,Oman,False
+2006-11-15,Bahrain,Kuwait,2,1,AFC Asian Cup qualification,Riffa,Bahrain,False
+2007-01-18,Saudi Arabia,Bahrain,2,1,Gulf Cup,Abu Dhabi,United Arab Emirates,True
+2007-01-21,Bahrain,Iraq,1,1,Gulf Cup,Abu Dhabi,United Arab Emirates,True
+2007-01-24,Qatar,Bahrain,1,2,Gulf Cup,Abu Dhabi,United Arab Emirates,True
+2007-01-27,Oman,Bahrain,1,0,Gulf Cup,Abu Dhabi,United Arab Emirates,True
+2007-06-27,United Arab Emirates,Bahrain,2,2,Friendly,Petaling Jaya,Malaysia,True
+2007-06-30,Vietnam,Bahrain,5,3,Friendly,Hanoi,Vietnam,False
+2007-07-10,Indonesia,Bahrain,2,1,AFC Asian Cup,Jakarta,Indonesia,False
+2007-07-15,Bahrain,South Korea,2,1,AFC Asian Cup,Jakarta,Indonesia,True
+2007-07-18,Saudi Arabia,Bahrain,4,0,AFC Asian Cup,Palembang,Indonesia,True
+2007-09-07,Bahrain,Jordan,1,3,Friendly,Muharraq,Bahrain,False
+2007-10-04,Bahrain,Singapore,3,1,Friendly,Manama,Bahrain,False
+2007-10-16,Bahrain,Libya,2,0,Friendly,Muharraq,Bahrain,False
+2007-10-21,Bahrain,Malaysia,4,1,FIFA World Cup qualification,Riffa,Bahrain,False
+2007-10-28,Malaysia,Bahrain,0,0,FIFA World Cup qualification,Shah Alam,Malaysia,False
+2008-01-16,Bahrain,Kuwait,1,0,Friendly,Manama,Bahrain,False
+2008-01-23,Bahrain,Syria,1,2,Friendly,Manama,Bahrain,False
+2008-01-26,Bahrain,Yemen,2,1,Friendly,Manama,Bahrain,False
+2008-02-06,Oman,Bahrain,0,1,FIFA World Cup qualification,Muscat,Oman,False
+2008-03-04,Qatar,Bahrain,1,2,Friendly,Doha,Qatar,False
+2008-03-21,Bahrain,Iran,1,0,Friendly,Manama,Bahrain,False
+2008-03-26,Bahrain,Japan,1,0,FIFA World Cup qualification,Riffa,Bahrain,False
+2008-05-28,Singapore,Bahrain,0,1,Friendly,Singapore,Singapore,False
+2008-06-02,Thailand,Bahrain,2,3,FIFA World Cup qualification,Bangkok,Thailand,False
+2008-06-07,Bahrain,Thailand,1,1,FIFA World Cup qualification,Riffa,Bahrain,False
+2008-06-14,Bahrain,Oman,1,1,FIFA World Cup qualification,Riffa,Bahrain,False
+2008-06-22,Japan,Bahrain,1,0,FIFA World Cup qualification,Saitama,Japan,False
+2008-08-20,Bahrain,Burkina Faso,3,1,Friendly,Manama,Bahrain,False
+2008-08-29,United Arab Emirates,Bahrain,2,3,Friendly,Abu Dhabi,United Arab Emirates,False
+2008-09-06,Bahrain,Japan,2,3,FIFA World Cup qualification,Riffa,Bahrain,False
+2008-09-10,Qatar,Bahrain,1,1,FIFA World Cup qualification,Doha,Qatar,False
+2008-10-15,Bahrain,Azerbaijan,1,2,Friendly,Arad,Bahrain,False
+2008-11-12,Saudi Arabia,Bahrain,4,0,Friendly,Riyadh,Saudi Arabia,False
+2008-11-19,Bahrain,Australia,0,1,FIFA World Cup qualification,Riffa,Bahrain,False
+2008-12-23,Bahrain,Saudi Arabia,1,0,Friendly,Manama,Bahrain,False
+2008-12-29,Bahrain,Syria,2,2,Friendly,Manama,Bahrain,False
+2009-01-04,Bahrain,Iraq,3,1,Gulf Cup,Muscat,Oman,True
+2009-01-07,Bahrain,Kuwait,0,1,Gulf Cup,Muscat,Oman,True
+2009-01-10,Oman,Bahrain,2,0,Gulf Cup,Muscat,Oman,False
+2009-01-21,Hong Kong,Bahrain,1,3,AFC Asian Cup qualification,So Kon Po,Hong Kong,False
+2009-01-28,Bahrain,Japan,1,0,AFC Asian Cup qualification,Riffa,Bahrain,False
+2009-02-04,Bahrain,South Korea,2,2,Friendly,Dubai,United Arab Emirates,True
+2009-02-11,Uzbekistan,Bahrain,0,1,FIFA World Cup qualification,Tashkent,Uzbekistan,False
+2009-03-23,Bahrain,Zimbabwe,5,2,Friendly,Riffa,Bahrain,False
+2009-03-28,Japan,Bahrain,1,0,FIFA World Cup qualification,Saitama,Japan,False
+2009-04-01,Bahrain,Qatar,1,0,FIFA World Cup qualification,Riffa,Bahrain,False
+2009-05-31,Bahrain,Congo,3,1,Friendly,Riffa,Bahrain,False
+2009-06-03,Bahrain,Jordan,4,0,Friendly,Riffa,Bahrain,False
+2009-06-10,Australia,Bahrain,2,0,FIFA World Cup qualification,Sydney,Australia,False
+2009-06-17,Bahrain,Uzbekistan,1,0,FIFA World Cup qualification,Riffa,Bahrain,False
+2009-08-26,Bahrain,Kenya,2,1,Friendly,Riffa,Bahrain,False
+2009-08-31,Bahrain,Iran,4,2,Friendly,Riffa,Bahrain,False
+2009-09-05,Bahrain,Saudi Arabia,0,0,FIFA World Cup qualification,Riffa,Bahrain,False
+2009-09-09,Saudi Arabia,Bahrain,2,2,FIFA World Cup qualification,Riyadh,Saudi Arabia,False
+2009-10-10,Bahrain,New Zealand,0,0,FIFA World Cup qualification,Riffa,Bahrain,False
+2009-11-06,Bahrain,Togo,5,1,Friendly,Riffa,Bahrain,False
+2009-11-14,New Zealand,Bahrain,1,0,FIFA World Cup qualification,Wellington,New Zealand,False
+2009-11-18,Bahrain,Yemen,4,0,AFC Asian Cup qualification,Riffa,Bahrain,False
+2010-01-06,Bahrain,Hong Kong,4,0,AFC Asian Cup qualification,Riffa,Bahrain,False
+2010-01-20,Yemen,Bahrain,3,0,AFC Asian Cup qualification,Sana'a,Yemen,False
+2010-02-25,Kuwait,Bahrain,4,1,Friendly,Al Ain,United Arab Emirates,True
+2010-03-03,Japan,Bahrain,2,0,AFC Asian Cup qualification,Toyota,Japan,False
+2010-08-11,China PR,Bahrain,1,1,Friendly,Nanning,China PR,False
+2010-09-03,Qatar,Bahrain,1,1,Friendly,Doha,Qatar,False
+2010-09-07,Bahrain,Togo,3,0,Friendly,Riffa,Bahrain,False
+2010-09-19,Jordan,Bahrain,2,0,Friendly,Zarqa,Jordan,False
+2010-09-24,Iran,Bahrain,3,0,WAFF Championship,Amman,Jordan,True
+2010-09-26,Bahrain,Oman,2,0,WAFF Championship,Amman,Jordan,True
+2010-10-08,Kuwait,Bahrain,1,3,Friendly,Kuwait City,Kuwait,False
+2010-10-12,Bahrain,Uzbekistan,2,4,Friendly,Riffa,Bahrain,False
+2010-11-10,Bahrain,Uganda,0,0,Friendly,Riffa,Bahrain,False
+2010-11-14,Bahrain,Syria,0,2,Friendly,Riffa,Bahrain,False
+2010-11-23,Oman,Bahrain,1,1,Gulf Cup,Aden,Yemen,True
+2010-11-26,Bahrain,Iraq,2,3,Gulf Cup,Aden,Yemen,True
+2010-11-29,United Arab Emirates,Bahrain,3,1,Gulf Cup,Zinjibar,Yemen,True
+2010-12-25,Bahrain,Uzbekistan,1,1,Friendly,Dubai,United Arab Emirates,True
+2010-12-28,Bahrain,Jordan,2,1,Friendly,Dubai,United Arab Emirates,True
+2011-01-04,Bahrain,North Korea,0,1,Friendly,Riffa,Bahrain,False
+2011-01-10,South Korea,Bahrain,2,1,AFC Asian Cup,Doha,Qatar,True
+2011-01-14,Bahrain,India,5,2,AFC Asian Cup,Doha,Qatar,True
+2011-01-18,Australia,Bahrain,1,0,AFC Asian Cup,Doha,Qatar,True
+2011-02-14,Bahrain,Kuwait,0,0,Friendly,Riffa,Bahrain,False
+2011-08-10,Oman,Bahrain,1,1,Friendly,Dubai,United Arab Emirates,True
+2011-08-26,Bahrain,Sudan,1,0,Friendly,Riffa,Bahrain,False
+2011-09-02,Bahrain,Qatar,0,0,FIFA World Cup qualification,Riffa,Bahrain,False
+2011-09-06,Indonesia,Bahrain,0,2,FIFA World Cup qualification,Jakarta,Indonesia,False
+2011-10-11,Iran,Bahrain,6,0,FIFA World Cup qualification,Tehran,Iran,False
+2011-11-04,Kuwait,Bahrain,0,1,Friendly,Kuwait City,Kuwait,False
+2011-11-11,Bahrain,Iran,1,1,FIFA World Cup qualification,Riffa,Bahrain,False
+2011-11-15,Qatar,Bahrain,0,0,FIFA World Cup qualification,Doha,Qatar,False
+2011-12-06,Bahrain,Palestine,0,1,Friendly,Arad,Bahrain,False
+2012-01-18,Bahrain,Sweden,0,2,Friendly,Doha,Qatar,True
+2012-02-29,Bahrain,Indonesia,10,0,FIFA World Cup qualification,Riffa,Bahrain,False
+2012-06-08,Bahrain,Kuwait,1,1,Friendly,6th of October City,Egypt,True
+2012-06-12,Bahrain,Kuwait,0,1,Friendly,6th of October City,Egypt,True
+2012-06-26,Bahrain,Yemen,0,2,Arab Cup,Jeddah,Saudi Arabia,True
+2012-06-29,Libya,Bahrain,2,1,Arab Cup,Taif,Saudi Arabia,True
+2012-08-15,Azerbaijan,Bahrain,3,0,Friendly,Bakıxanov,Azerbaijan,False
+2012-10-12,Bahrain,Philippines,0,0,Friendly,Arad,Bahrain,False
+2012-10-16,United Arab Emirates,Bahrain,6,2,Friendly,Dubai,United Arab Emirates,False
+2012-11-08,Bahrain,Jordan,3,0,Friendly,Arad,Bahrain,False
+2012-11-14,Kuwait,Bahrain,1,1,Friendly,Kuwait City,Kuwait,False
+2012-11-29,Palestine,Bahrain,0,2,Friendly,Al Wakrah,Qatar,True
+2012-12-09,Bahrain,Yemen,1,0,WAFF Championship,Al Farwaniyah,Kuwait,True
+2012-12-12,Iran,Bahrain,0,0,WAFF Championship,Kuwait City,Kuwait,True
+2012-12-15,Bahrain,Saudi Arabia,1,0,WAFF Championship,Al Farwaniyah,Kuwait,True
+2012-12-18,Bahrain,Syria,1,1,WAFF Championship,Kuwait City,Kuwait,True
+2012-12-20,Oman,Bahrain,1,0,WAFF Championship,Kuwait City,Kuwait,True
+2012-12-26,Bahrain,Burkina Faso,0,0,Friendly,Riffa,Bahrain,False
+2012-12-29,Bahrain,Guinea,3,0,Friendly,Riffa,Bahrain,False
+2013-01-05,Bahrain,Oman,0,0,Gulf Cup,Riffa,Bahrain,False
+2013-01-08,Bahrain,United Arab Emirates,1,2,Gulf Cup,Riffa,Bahrain,False
+2013-01-11,Bahrain,Qatar,1,0,Gulf Cup,Riffa,Bahrain,False
+2013-01-15,Bahrain,Iraq,1,1,Gulf Cup,Riffa,Bahrain,False
+2013-01-18,Bahrain,Kuwait,1,6,Gulf Cup,Isa Town,Bahrain,False
+2013-02-06,Yemen,Bahrain,0,2,AFC Asian Cup qualification,Sharjah,United Arab Emirates,True
+2013-03-17,Bahrain,Lebanon,0,0,Friendly,Riffa,Bahrain,False
+2013-03-22,Bahrain,Qatar,1,0,AFC Asian Cup qualification,Riffa,Bahrain,False
+2013-09-09,Kuwait,Bahrain,2,1,Friendly,Kuwait City,Kuwait,False
+2013-10-10,Thailand,Bahrain,1,0,Friendly,Bangkok,Thailand,False
+2013-10-15,Malaysia,Bahrain,1,1,AFC Asian Cup qualification,Shah Alam,Malaysia,False
+2013-11-09,Bahrain,Lebanon,1,0,Friendly,Riffa,Bahrain,False
+2013-11-15,Bahrain,Malaysia,1,0,AFC Asian Cup qualification,Riffa,Bahrain,False
+2013-11-19,Bahrain,Yemen,2,0,AFC Asian Cup qualification,Riffa,Bahrain,False
+2013-12-21,Qatar,Bahrain,1,1,Friendly,Doha,Qatar,False
+2013-12-25,Oman,Bahrain,0,0,WAFF Championship,Doha,Qatar,True
+2013-12-28,Bahrain,Iraq,0,0,WAFF Championship,Doha,Qatar,True
+2014-01-04,Bahrain,Jordan,0,1,WAFF Championship,Doha,Qatar,True
+2014-01-07,Bahrain,Kuwait,0,0,WAFF Championship,Doha,Qatar,True
+2014-03-05,Qatar,Bahrain,0,0,AFC Asian Cup qualification,Doha,Qatar,False
+2014-09-09,Kuwait,Bahrain,0,1,Friendly,Al Farwaniyah,Kuwait,False
+2014-10-10,Uzbekistan,Bahrain,0,0,Friendly,Dubai,United Arab Emirates,True
+2014-10-14,Bahrain,Iraq,0,0,Friendly,Riffa,Bahrain,False
+2014-11-02,Bahrain,North Korea,2,2,Friendly,Riffa,Bahrain,False
+2014-11-07,Bahrain,Singapore,2,0,Friendly,Riffa,Bahrain,False
+2014-11-13,Yemen,Bahrain,0,0,Gulf Cup,Riyadh,Saudi Arabia,True
+2014-11-16,Saudi Arabia,Bahrain,3,0,Gulf Cup,Riyadh,Saudi Arabia,False
+2014-11-19,Bahrain,Qatar,0,0,Gulf Cup,Riyadh,Saudi Arabia,True
+2014-12-30,Bahrain,Saudi Arabia,4,1,Friendly,South Geelong,Australia,True
+2015-01-04,Bahrain,Jordan,1,0,Friendly,Ballarat,Australia,True
+2015-01-11,Iran,Bahrain,2,0,AFC Asian Cup,Melbourne,Australia,True
+2015-01-15,Bahrain,United Arab Emirates,1,2,AFC Asian Cup,Canberra,Australia,True
+2015-01-19,Qatar,Bahrain,1,2,AFC Asian Cup,Sydney,Australia,True
+2015-03-26,Bahrain,Colombia,0,6,Friendly,Riffa,Bahrain,False
+2015-03-30,Bahrain,Philippines,2,1,Friendly,Riffa,Bahrain,False
+2015-05-30,Bahrain,Oman,0,0,Friendly,Riffa,Bahrain,False
+2015-06-05,Thailand,Bahrain,1,1,Friendly,Bangkok,Thailand,False
+2015-06-11,Philippines,Bahrain,2,1,FIFA World Cup qualification,Bocaue,Philippines,False
+2015-09-03,Bahrain,North Korea,0,1,FIFA World Cup qualification,Riffa,Bahrain,False
+2015-09-08,Yemen,Bahrain,0,4,FIFA World Cup qualification,Doha,Qatar,True
+2015-10-08,Bahrain,Uzbekistan,0,4,FIFA World Cup qualification,Riffa,Bahrain,False
+2015-10-13,Bahrain,Philippines,2,0,FIFA World Cup qualification,Riffa,Bahrain,False
+2015-11-17,North Korea,Bahrain,2,0,FIFA World Cup qualification,Pyongyang,North Korea,False
+2016-02-05,Bahrain,Lebanon,2,0,Friendly,Riffa,Bahrain,False
+2016-03-24,Bahrain,Yemen,3,0,FIFA World Cup qualification,Riffa,Bahrain,False
+2016-03-29,Uzbekistan,Bahrain,1,0,FIFA World Cup qualification,Tashkent,Uzbekistan,False
+2016-09-01,Bahrain,Singapore,3,1,Friendly,Riffa,Bahrain,False
+2016-09-04,Bahrain,Jordan,0,0,Friendly,Isa Town,Bahrain,False
+2016-10-07,Philippines,Bahrain,1,3,Friendly,Manila,Philippines,False
+2016-10-11,Oman,Bahrain,2,2,Friendly,Muscat,Oman,False
+2016-11-09,United Arab Emirates,Bahrain,2,0,Friendly,Al Ain,United Arab Emirates,False
+2016-11-15,Bahrain,Kyrgyzstan,0,0,Friendly,Riffa,Bahrain,False
+2017-03-23,Bahrain,Tajikistan,1,1,Friendly,Riffa,Bahrain,False
+2017-03-28,Bahrain,Singapore,0,0,AFC Asian Cup qualification,Riffa,Bahrain,False
+2017-06-06,Bahrain,Palestine,0,2,Friendly,Riffa,Bahrain,False
+2017-06-13,Turkmenistan,Bahrain,1,2,AFC Asian Cup qualification,Daşoguz,Turkmenistan,False
+2017-08-29,Bahrain,Jordan,0,0,Friendly,Isa Town,Bahrain,False
+2017-09-05,Bahrain,Taiwan,5,0,AFC Asian Cup qualification,Riffa,Bahrain,False
+2017-10-10,Taiwan,Bahrain,2,1,AFC Asian Cup qualification,Taipei,Taiwan,False
+2017-11-09,Hong Kong,Bahrain,0,2,Friendly,Kowloon,Hong Kong,False
+2017-11-14,Singapore,Bahrain,0,3,AFC Asian Cup qualification,Kallang,Singapore,False
+2017-12-18,Bahrain,Kuwait,0,0,Friendly,Riffa,Bahrain,False
+2017-12-23,Bahrain,Iraq,1,1,Gulf Cup,Kuwait City,Kuwait,True
+2017-12-26,Yemen,Bahrain,0,1,Gulf Cup,Kuwait City,Kuwait,True
+2017-12-29,Qatar,Bahrain,1,1,Gulf Cup,Kuwait City,Kuwait,True
+2018-01-02,Oman,Bahrain,1,0,Gulf Cup,Kuwait City,Kuwait,True
+2018-03-22,Bahrain,Palestine,0,0,Friendly,Riffa,Bahrain,False
+2018-03-27,Bahrain,Turkmenistan,4,0,AFC Asian Cup qualification,Riffa,Bahrain,False
+2018-09-06,Bahrain,Philippines,1,1,Friendly,East Riffa,Bahrain,False
+2018-09-10,Bahrain,China PR,0,0,Friendly,East Riffa,Bahrain,False
+2018-10-11,Bahrain,Syria,0,1,Friendly,East Riffa,Bahrain,False
+2018-10-16,Bahrain,Myanmar,4,1,Friendly,East Riffa,Bahrain,False
+2018-11-19,Oman,Bahrain,2,1,Friendly,Muscat,Oman,False
+2018-12-20,Bahrain,Tajikistan,5,0,Friendly,Isa Town,Bahrain,False
+2018-12-27,Bahrain,Lebanon,1,0,Friendly,East Riffa,Bahrain,False
+2018-12-29,Bahrain,North Korea,4,0,Friendly,Isa Town,Bahrain,False
+2019-01-05,United Arab Emirates,Bahrain,1,1,AFC Asian Cup,Abu Dhabi,United Arab Emirates,False
+2019-01-10,Bahrain,Thailand,0,1,AFC Asian Cup,Dubai,United Arab Emirates,True
+2019-01-14,India,Bahrain,0,1,AFC Asian Cup,Sharjah,United Arab Emirates,True
+2019-01-22,South Korea,Bahrain,2,1,AFC Asian Cup,Dubai,United Arab Emirates,True
+2019-08-04,Jordan,Bahrain,0,1,WAFF Championship,Erbil,Iraq,True
+2019-08-07,Bahrain,Saudi Arabia,0,0,WAFF Championship,Erbil,Iraq,True
+2019-08-10,Kuwait,Bahrain,0,1,WAFF Championship,Erbil,Iraq,True
+2019-08-14,Iraq,Bahrain,0,1,WAFF Championship,Karbala,Iraq,False
+2019-09-05,Bahrain,Iraq,1,1,FIFA World Cup qualification,Riffa,Bahrain,False
+2019-09-10,Cambodia,Bahrain,0,1,FIFA World Cup qualification,Phnom Penh,Cambodia,False
+2019-10-09,Bahrain,Azerbaijan,2,3,Friendly,Riffa,Bahrain,False
+2019-10-15,Bahrain,Iran,1,0,FIFA World Cup qualification,Riffa,Bahrain,False
+2019-11-14,Hong Kong,Bahrain,0,0,FIFA World Cup qualification,Hong Kong,Hong Kong,False
+2019-11-19,Iraq,Bahrain,0,0,FIFA World Cup qualification,Amman,Jordan,True
+2019-11-27,Oman,Bahrain,0,0,Gulf Cup,Doha,Qatar,True
+2019-11-30,Bahrain,Saudi Arabia,0,2,Gulf Cup,Doha,Qatar,True
+2019-12-02,Kuwait,Bahrain,2,4,Gulf Cup,Doha,Qatar,True
+2019-12-05,Iraq,Bahrain,2,2,Gulf Cup,Doha,Qatar,True
+2019-12-08,Bahrain,Saudi Arabia,1,0,Gulf Cup,Doha,Qatar,True
+2020-11-07,Bahrain,Tajikistan,1,0,Friendly,Dubai,United Arab Emirates,True
+2020-11-12,Lebanon,Bahrain,1,3,Friendly,Dubai,United Arab Emirates,True
+2020-11-16,United Arab Emirates,Bahrain,1,3,Friendly,Dubai,United Arab Emirates,False
+2021-03-25,Bahrain,Syria,3,1,Friendly,Isa Town,Bahrain,False
+2021-03-30,Bahrain,Jordan,1,2,Friendly,Riffa,Bahrain,False
+2021-05-23,Ukraine,Bahrain,1,1,Friendly,Kharkiv,Ukraine,False
+2021-05-28,Bahrain,Malaysia,2,0,Friendly,Riffa,Bahrain,False
+2021-06-03,Bahrain,Cambodia,8,0,FIFA World Cup qualification,Riffa,Bahrain,False
+2021-06-07,Bahrain,Iran,0,3,FIFA World Cup qualification,Riffa,Bahrain,False
+2021-06-15,Bahrain,Hong Kong,4,0,FIFA World Cup qualification,Riffa,Bahrain,False
+2021-06-25,Bahrain,Kuwait,2,0,Arab Cup qualification,Doha,Qatar,True
+2021-09-01,Bahrain,Haiti,6,1,Friendly,Riffa,Bahrain,False
+2021-09-07,Bahrain,Jordan,1,2,Friendly,Riffa,Bahrain,False
+2021-10-06,Bahrain,Curaçao,4,0,Friendly,Riffa,Bahrain,False
+2021-10-12,Bahrain,New Zealand,0,1,Friendly,Riffa,Bahrain,False
+2021-11-16,Bahrain,Kyrgyzstan,4,2,Friendly,Isa Town,Bahrain,False
+2021-11-30,Qatar,Bahrain,1,0,Arab Cup,Al Khor,Qatar,False
+2021-12-03,Bahrain,Iraq,0,0,Arab Cup,Doha,Qatar,True
+2021-12-06,Oman,Bahrain,3,0,Arab Cup,Al Rayyan,Qatar,True
+2022-01-27,Bahrain,Uganda,3,1,Friendly,Riffa,Bahrain,False
+2022-02-01,Bahrain,DR Congo,1,0,Friendly,Riffa,Bahrain,False
+2022-03-23,Bahrain,India,2,1,Friendly,Riffa,Bahrain,False
+2022-03-26,Bahrain,Burundi,1,0,Friendly,Arad,Iran,True
+2022-03-29,Bahrain,Belarus,0,1,Friendly,Riffa,Bahrain,False
+2022-05-24,Thailand,Bahrain,3,1,Friendly,Bangkok,Thailand,False
+2022-05-27,Bahrain,Myanmar,2,0,Friendly,Pathum Thani,Thailand,True
+2022-05-31,Thailand,Bahrain,1,2,Friendly,Pathum Thani,Thailand,False
+2022-06-08,Bahrain,Bangladesh,2,0,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,True
+2022-06-11,Malaysia,Bahrain,1,2,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,False
+2022-06-14,Bahrain,Turkmenistan,1,0,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,True
+2022-09-23,Bahrain,Cape Verde,1,2,Friendly,Riffa,Bahrain,False
+2022-09-27,Bahrain,Panama,0,2,Friendly,Riffa,Bahrain,False
+2022-11-11,Bahrain,Canada,2,2,Friendly,Isa Town,Bahrain,False
+2022-11-18,Bahrain,Serbia,1,5,Friendly,Arad,Bahrain,False
+2023-01-07,Bahrain,United Arab Emirates,2,1,Gulf Cup,Basra,Iraq,True
+2023-01-10,Qatar,Bahrain,1,2,Gulf Cup,Basra,Iraq,True
+2023-01-13,Bahrain,Kuwait,1,1,Gulf Cup,Basra,Iraq,True
+2023-01-16,Bahrain,Oman,0,1,Gulf Cup,Basra,Iraq,True
+2023-03-25,Bahrain,Palestine,1,2,Friendly,Arad,Bahrain,False
+2023-03-28,Bahrain,Syria,1,0,Friendly,Arad,Bahrain,False
+2023-09-07,Bahrain,Kuwait,1,3,Friendly,Dubai,United Arab Emirates,True
+2023-09-12,Bahrain,Turkmenistan,1,1,Friendly,Dubai,United Arab Emirates,True
+2023-10-12,Bahrain,Kyrgyzstan,2,0,Friendly,Arad,Bahrain,False
+2023-10-17,Bahrain,Philippines,1,0,Friendly,Arad,Bahrain,False
+2023-11-16,Yemen,Bahrain,0,2,FIFA World Cup qualification,Abha,Saudi Arabia,True
+2023-11-21,Bahrain,United Arab Emirates,0,2,FIFA World Cup qualification,Riffa,Bahrain,False
+2024-01-06,Bahrain,Australia,0,2,Friendly,Abu Dhabi,United Arab Emirates,True
+2024-01-10,Bahrain,Angola,0,3,Friendly,Dubai,United Arab Emirates,True
+2024-01-15,South Korea,Bahrain,3,1,AFC Asian Cup,Doha,Qatar,True
+2024-01-20,Bahrain,Malaysia,1,0,AFC Asian Cup,Doha,Qatar,True
+2024-01-25,Jordan,Bahrain,0,1,AFC Asian Cup,Al Rayyan,Qatar,True
+2024-01-31,Bahrain,Japan,1,3,AFC Asian Cup,Doha,Qatar,True
+2024-03-21,Bahrain,Nepal,5,0,FIFA World Cup qualification,Riffa,Bahrain,False
+2024-03-26,Bahrain,Nepal,3,0,FIFA World Cup qualification,Riffa,Bahrain,False
+2024-06-06,Bahrain,Yemen,0,0,FIFA World Cup qualification,Riffa,Bahrain,False
+2024-06-11,United Arab Emirates,Bahrain,1,1,FIFA World Cup qualification,Dubai,United Arab Emirates,False
+2024-09-05,Australia,Bahrain,0,1,FIFA World Cup qualification,Robina,Australia,False
+2024-09-10,Bahrain,Japan,0,5,FIFA World Cup qualification,Riffa,Bahrain,False
+2024-10-10,Bahrain,Indonesia,2,2,FIFA World Cup qualification,Riffa,Bahrain,False
+2024-10-15,Saudi Arabia,Bahrain,0,0,FIFA World Cup qualification,Jeddah,Saudi Arabia,False
+2024-11-14,Bahrain,China PR,0,1,FIFA World Cup qualification,Riffa,Bahrain,False
+2024-11-19,Bahrain,Australia,2,2,FIFA World Cup qualification,Riffa,Bahrain,False
+2024-12-22,Saudi Arabia,Bahrain,2,3,Gulf Cup,Kuwait City,Kuwait,True
+2024-12-25,Bahrain,Iraq,2,0,Gulf Cup,Kuwait City,Kuwait,True
+2024-12-28,Bahrain,Yemen,1,2,Gulf Cup,Sulaibikhat,Kuwait,True
+2024-12-31,Kuwait,Bahrain,0,1,Gulf Cup,Kuwait City,Kuwait,False
+2025-01-04,Oman,Bahrain,1,2,Gulf Cup,Kuwait City,Kuwait,True
+2025-03-20,Japan,Bahrain,2,0,FIFA World Cup qualification,Saitama,Japan,False
+2025-03-25,Indonesia,Bahrain,1,0,FIFA World Cup qualification,Jakarta,Indonesia,False

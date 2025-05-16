@@ -1,0 +1,645 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1925-03-22,Haiti,Jamaica,1,2,Friendly,Port-au-Prince,Haiti,False
+1925-03-26,Haiti,Jamaica,0,3,Friendly,Port-au-Prince,Haiti,False
+1925-03-29,Haiti,Jamaica,0,1,Friendly,Port-au-Prince,Haiti,False
+1926-03-03,Jamaica,Curaçao,2,0,Friendly,Kingston,Jamaica,False
+1926-11-20,Jamaica,Haiti,6,0,Friendly,Kingston,Jamaica,False
+1930-03-16,Cuba,Jamaica,3,1,Central American and Caribbean Games,Havana,Cuba,False
+1930-03-18,Honduras,Jamaica,5,4,Central American and Caribbean Games,Havana,Cuba,True
+1932-03-13,Haiti,Jamaica,4,1,Friendly,Port-au-Prince,Haiti,False
+1932-03-20,Haiti,Jamaica,0,1,Friendly,Port-au-Prince,Haiti,False
+1935-12-28,Jamaica,Trinidad and Tobago,2,3,Friendly,Kingston,Jamaica,False
+1936-01-04,Jamaica,Trinidad and Tobago,0,1,Friendly,Kingston,Jamaica,False
+1936-01-11,Jamaica,Trinidad and Tobago,1,2,Friendly,Kingston,Jamaica,False
+1938-03-13,Haiti,Jamaica,5,2,Friendly,Port-au-Prince,Haiti,False
+1938-03-17,Haiti,Jamaica,2,0,Friendly,Port-au-Prince,Haiti,False
+1938-03-20,Haiti,Jamaica,2,0,Friendly,Port-au-Prince,Haiti,False
+1947-02-12,Jamaica,Trinidad and Tobago,0,0,Friendly,Kingston,Jamaica,False
+1947-02-15,Jamaica,Trinidad and Tobago,2,1,Friendly,Kingston,Jamaica,False
+1947-02-19,Jamaica,Trinidad and Tobago,1,0,Friendly,Kingston,Jamaica,False
+1947-02-22,Jamaica,Trinidad and Tobago,1,2,Friendly,Kingston,Jamaica,False
+1947-02-26,Jamaica,Trinidad and Tobago,0,6,Friendly,Kingston,Jamaica,False
+1947-11-06,Guyana,Jamaica,2,0,Friendly,Port of Spain,Trinidad and Tobago,True
+1947-11-08,Trinidad and Tobago,Jamaica,6,0,Friendly,Port of Spain,Trinidad and Tobago,False
+1947-11-10,Guyana,Jamaica,0,0,Friendly,Port of Spain,Trinidad and Tobago,True
+1947-11-12,Trinidad and Tobago,Jamaica,1,0,Friendly,San Fernando,Trinidad and Tobago,False
+1948-06-09,Jamaica,Cuba,3,0,Friendly,Kingston,Jamaica,False
+1948-06-12,Jamaica,Cuba,1,1,Friendly,Kingston,Jamaica,False
+1948-10-11,Jamaica,Haiti,1,0,Friendly,Kingston,Jamaica,False
+1948-10-13,Jamaica,Haiti,1,2,Friendly,Kingston,Jamaica,False
+1948-10-16,Jamaica,Haiti,3,0,Friendly,Kingston,Jamaica,False
+1949-05-02,Jamaica,Trinidad and Tobago,3,1,Friendly,Kingston,Jamaica,False
+1949-05-04,Jamaica,Trinidad and Tobago,2,1,Friendly,Kingston,Jamaica,False
+1949-05-07,Jamaica,Trinidad and Tobago,1,2,Friendly,Kingston,Jamaica,False
+1949-12-18,Cuba,Jamaica,2,5,Friendly,Port-au-Prince,Haiti,True
+1949-12-19,Haiti,Jamaica,2,0,Friendly,Port-au-Prince,Haiti,False
+1950-10-14,Jamaica,Haiti,2,1,Friendly,Kingston,Jamaica,False
+1951-05-25,Barbados,Jamaica,3,0,Friendly,Bridgetown,Barbados,False
+1951-05-26,Barbados,Jamaica,0,1,Friendly,Bridgetown,Barbados,False
+1951-05-28,Barbados,Jamaica,5,2,Friendly,Bridgetown,Barbados,False
+1951-12-26,Jamaica,Haiti,2,2,Friendly,Kingston,Jamaica,False
+1951-12-27,Jamaica,Haiti,0,1,Friendly,Kingston,Jamaica,False
+1951-12-29,Jamaica,Haiti,2,1,Friendly,Kingston,Jamaica,False
+1952-07-19,Haiti,Jamaica,4,1,Friendly,Port-au-Prince,Haiti,False
+1952-07-20,Haiti,Jamaica,3,3,Friendly,Port-au-Prince,Haiti,False
+1952-07-23,Haiti,Jamaica,2,0,Friendly,Port-au-Prince,Haiti,False
+1952-07-27,Haiti,Jamaica,3,2,Friendly,Port-au-Prince,Haiti,False
+1953-08-10,Jamaica,Trinidad and Tobago,3,2,Friendly,Kingston,Jamaica,False
+1953-08-11,Jamaica,Trinidad and Tobago,0,1,Friendly,Kingston,Jamaica,False
+1953-11-14,Haiti,Jamaica,4,1,Friendly,Port-au-Prince,Haiti,False
+1953-11-21,Haiti,Jamaica,1,0,Friendly,Port-au-Prince,Haiti,False
+1957-01-21,Jamaica,Trinidad and Tobago,2,0,Friendly,Kingston,Jamaica,False
+1957-01-26,Jamaica,Trinidad and Tobago,1,0,Friendly,Kingston,Jamaica,False
+1957-01-28,Jamaica,Trinidad and Tobago,2,1,Friendly,Kingston,Jamaica,False
+1958-05-04,Trinidad and Tobago,Jamaica,1,0,Friendly,Port of Spain,Trinidad and Tobago,False
+1958-05-11,Trinidad and Tobago,Jamaica,4,0,Friendly,Port of Spain,Trinidad and Tobago,False
+1958-05-13,Trinidad and Tobago,Jamaica,0,1,Friendly,Port of Spain,Trinidad and Tobago,False
+1959-03-01,Guyana,Jamaica,2,2,Friendly,Port of Spain,Trinidad and Tobago,True
+1959-03-04,Barbados,Jamaica,1,3,Friendly,Port of Spain,Trinidad and Tobago,True
+1959-03-10,Trinidad and Tobago,Jamaica,2,1,Friendly,Port of Spain,Trinidad and Tobago,False
+1962-05-19,Jamaica,Haiti,3,4,Friendly,Kingston,Jamaica,False
+1962-05-21,Jamaica,Haiti,1,3,Friendly,Kingston,Jamaica,False
+1962-05-23,Jamaica,Haiti,2,5,Friendly,Kingston,Jamaica,False
+1962-07-07,Jamaica,Curaçao,4,4,Friendly,Kingston,Jamaica,False
+1962-07-09,Jamaica,Curaçao,2,1,Friendly,Kingston,Jamaica,False
+1962-07-11,Jamaica,Curaçao,1,2,Friendly,Kingston,Jamaica,False
+1963-02-23,Jamaica,Haiti,3,2,Phillip Seaga Cup,Kingston,Jamaica,False
+1963-02-27,Jamaica,Curaçao,1,2,Phillip Seaga Cup,Kingston,Jamaica,False
+1963-03-04,Jamaica,Curaçao,1,2,Friendly,Kingston,Jamaica,False
+1963-03-06,Jamaica,Haiti,0,3,Friendly,Kingston,Jamaica,False
+1963-03-24,Costa Rica,Jamaica,6,0,CONCACAF Championship,Santa Ana,El Salvador,True
+1963-03-28,Jamaica,Mexico,0,8,CONCACAF Championship,Santa Ana,El Salvador,True
+1963-03-30,Jamaica,Curaçao,1,2,CONCACAF Championship,Santa Ana,El Salvador,True
+1963-08-05,Jamaica,El Salvador,0,1,Friendly,Kingston,Jamaica,False
+1963-08-07,Jamaica,El Salvador,0,0,Friendly,Kingston,Jamaica,False
+1963-08-09,Jamaica,El Salvador,1,1,Friendly,Kingston,Jamaica,False
+1965-01-16,Jamaica,Cuba,2,0,FIFA World Cup qualification,Kingston,Jamaica,False
+1965-01-23,Jamaica,Curaçao,2,0,FIFA World Cup qualification,Kingston,Jamaica,False
+1965-02-03,Curaçao,Jamaica,0,0,FIFA World Cup qualification,Havana,Cuba,True
+1965-02-07,Cuba,Jamaica,2,1,FIFA World Cup qualification,Havana,Cuba,False
+1965-05-03,Jamaica,Mexico,2,3,FIFA World Cup qualification,Kingston,Jamaica,False
+1965-05-07,Mexico,Jamaica,8,0,FIFA World Cup qualification,Mexico City,Mexico,False
+1965-05-11,Costa Rica,Jamaica,7,0,FIFA World Cup qualification,San José,Costa Rica,False
+1965-05-22,Jamaica,Costa Rica,1,1,FIFA World Cup qualification,Kingston,Jamaica,False
+1965-08-05,Jamaica,Trinidad and Tobago,4,0,Friendly,Kingston,Jamaica,False
+1965-12-28,Bermuda,Jamaica,0,3,Friendly,Hamilton,Bermuda,False
+1966-06-10,Curaçao,Jamaica,0,0,Friendly,Port-au-Prince,Haiti,True
+1966-06-13,Jamaica,Guadeloupe,0,0,Friendly,Port-au-Prince,Haiti,True
+1966-06-15,Trinidad and Tobago,Jamaica,4,1,Friendly,Port-au-Prince,Haiti,True
+1966-06-17,Jamaica,Suriname,3,5,Friendly,Port-au-Prince,Haiti,True
+1966-06-22,Haiti,Jamaica,3,0,Friendly,Port-au-Prince,Haiti,False
+1967-01-11,Jamaica,Curaçao,1,1,CONCACAF Championship qualification,Kingston,Jamaica,False
+1967-01-14,Jamaica,Cuba,2,1,CONCACAF Championship qualification,Kingston,Jamaica,False
+1967-01-18,Jamaica,Trinidad and Tobago,1,1,CONCACAF Championship qualification,Kingston,Jamaica,False
+1967-01-21,Jamaica,Haiti,0,1,CONCACAF Championship qualification,Kingston,Jamaica,False
+1967-11-26,Trinidad and Tobago,Jamaica,1,0,Friendly,San Fernando,Trinidad and Tobago,False
+1967-12-02,Trinidad and Tobago,Jamaica,1,0,Friendly,Port of Spain,Trinidad and Tobago,False
+1968-11-27,Costa Rica,Jamaica,3,0,FIFA World Cup qualification,San José,Costa Rica,False
+1968-12-01,Costa Rica,Jamaica,3,1,FIFA World Cup qualification,San José,Costa Rica,False
+1968-12-05,Honduras,Jamaica,3,1,FIFA World Cup qualification,Tegucigalpa,Honduras,False
+1968-12-08,Honduras,Jamaica,2,0,FIFA World Cup qualification,Tegucigalpa,Honduras,False
+1969-02-06,Haiti,Jamaica,1,2,Friendly,Port-au-Prince,Haiti,False
+1969-02-08,Haiti,Jamaica,3,0,Friendly,Port-au-Prince,Haiti,False
+1969-11-03,Jamaica,Panama,1,1,CONCACAF Championship qualification,Kingston,Jamaica,False
+1969-11-05,Jamaica,Panama,2,1,CONCACAF Championship qualification,Kingston,Jamaica,False
+1969-11-23,Costa Rica,Jamaica,3,0,CONCACAF Championship,San José,Costa Rica,False
+1969-11-27,Mexico,Jamaica,2,0,CONCACAF Championship,San José,Costa Rica,True
+1969-11-30,Jamaica,Trinidad and Tobago,2,3,CONCACAF Championship,San José,Costa Rica,True
+1969-12-04,Jamaica,Guatemala,0,0,CONCACAF Championship,San José,Costa Rica,True
+1969-12-06,Jamaica,Curaçao,1,2,CONCACAF Championship,San José,Costa Rica,True
+1971-10-01,Jamaica,Cuba,0,1,CONCACAF Championship qualification,Kingston,Jamaica,False
+1971-10-04,Cuba,Jamaica,0,0,CONCACAF Championship qualification,Havana,Cuba,False
+1972-04-02,Jamaica,Cuba,2,0,Friendly,Kingston,Jamaica,False
+1972-12-24,Bermuda,Jamaica,0,0,Friendly,Hamilton,Bermuda,False
+1972-12-27,Bermuda,Jamaica,0,3,Friendly,Hamilton,Bermuda,False
+1973-11-04,Guyana,Jamaica,2,1,Friendly,Georgetown,Guyana,False
+1974-03-28,Jamaica,Uruguay,0,3,Friendly,Kingston,Jamaica,False
+1974-08-30,Haiti,Jamaica,0,1,Friendly,New York,United States,True
+1974-08-31,Jamaica,Trinidad and Tobago,2,1,Friendly,New York,United States,True
+1975-02-02,Jamaica,Haiti,1,0,Friendly,Kingston,Jamaica,False
+1975-02-05,Jamaica,Haiti,0,1,Friendly,Kingston,Jamaica,False
+1975-02-22,Haiti,Jamaica,0,1,Friendly,Port-au-Prince,Haiti,False
+1975-02-25,Haiti,Jamaica,3,2,Friendly,Port-au-Prince,Haiti,False
+1976-08-15,Jamaica,Cuba,1,3,CONCACAF Championship qualification,Kingston,Jamaica,False
+1976-08-29,Cuba,Jamaica,2,0,CONCACAF Championship qualification,Havana,Cuba,False
+1977-10-23,Jamaica,China PR,0,1,Friendly,Kingston,Jamaica,False
+1977-10-31,Jamaica,China PR,0,3,Friendly,Kingston,Jamaica,False
+1978-07-02,Guadeloupe,Jamaica,1,0,CFU Caribbean Cup qualification,Pointe-à-Pitre,Guadeloupe,False
+1978-07-30,Jamaica,Guadeloupe,1,2,CFU Caribbean Cup qualification,Kingston,Jamaica,False
+1979-06-03,Jamaica,Saint Kitts and Nevis,2,1,CFU Caribbean Cup qualification,Kingston,Jamaica,False
+1979-06-17,Saint Kitts and Nevis,Jamaica,1,2,CFU Caribbean Cup qualification,Basseterre,Saint Kitts and Nevis,False
+1979-10-28,Haiti,Jamaica,3,0,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,False
+1979-11-02,Jamaica,Haiti,0,4,CFU Caribbean Cup qualification,Kingston,Jamaica,False
+1984-04-29,Jamaica,Haiti,0,1,Friendly,Kingston,Jamaica,False
+1985-03-13,Jamaica,Canada,1,1,Friendly,Montego Bay,Jamaica,False
+1985-03-17,Jamaica,Canada,0,0,Friendly,Kingston,Jamaica,False
+1985-04-20,Barbados,Jamaica,2,2,Friendly,Bridgetown,Barbados,False
+1986-02-05,Jamaica,Paraguay,1,4,Miami Cup,Miami,United States,True
+1987-02-07,Cayman Islands,Jamaica,1,3,Friendly,George Town,Cayman Islands,False
+1987-04-29,Jamaica,Cuba,2,0,Friendly,Kingston,Jamaica,False
+1988-04-05,Jamaica,Canada,0,4,Friendly,Kingston,Jamaica,False
+1988-04-07,Jamaica,Canada,0,0,Friendly,Montego Bay,Jamaica,False
+1988-05-12,Jamaica,Puerto Rico,1,0,CONCACAF Championship qualification,Kingston,Jamaica,False
+1988-05-29,Puerto Rico,Jamaica,1,2,CONCACAF Championship qualification,San Juan,Puerto Rico,False
+1988-07-24,Jamaica,United States,0,0,CONCACAF Championship qualification,Kingston,Jamaica,False
+1988-08-13,United States,Jamaica,5,1,CONCACAF Championship qualification,St. Louis,United States,False
+1989-03-12,Jamaica,Paraguay,0,3,Friendly,Kingston,Jamaica,False
+1989-03-26,Barbados,Jamaica,1,1,Friendly,Bridgetown,Barbados,False
+1989-03-28,Barbados,Jamaica,1,1,Friendly,Bridgetown,Barbados,False
+1989-04-23,Antigua and Barbuda,Jamaica,1,0,CFU Caribbean Cup qualification,St. John's,Antigua and Barbuda,False
+1989-05-07,Jamaica,Guadeloupe,1,3,CFU Caribbean Cup qualification,Kingston,Jamaica,False
+1989-06-04,Dominica,Jamaica,0,0,CFU Caribbean Cup qualification,Roseau,Dominica,False
+1989-06-18,Jamaica,Saint Lucia,1,1,CFU Caribbean Cup qualification,Kingston,Jamaica,False
+1990-03-16,Jamaica,Barbados,0,1,Friendly,Kingston,Jamaica,False
+1990-03-18,Jamaica,Barbados,1,0,Friendly,Kingston,Jamaica,False
+1990-04-29,Jamaica,Saint Kitts and Nevis,3,0,CFU Caribbean Cup qualification,Kingston,Jamaica,False
+1990-05-06,Cayman Islands,Jamaica,1,2,Friendly,George Town,Cayman Islands,False
+1990-05-20,Jamaica,Saint Martin,1,0,CFU Caribbean Cup qualification,Kingston,Jamaica,False
+1990-05-30,Guadeloupe,Jamaica,0,0,CFU Caribbean Cup qualification,Pointe-à-Pitre,Guadeloupe,False
+1990-07-27,Trinidad and Tobago,Jamaica,0,0,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,False
+1991-05-05,Jamaica,Haiti,2,1,Friendly,Kingston,Jamaica,False
+1991-05-06,Jamaica,Haiti,2,0,Friendly,Savanna-la-Mar,Jamaica,False
+1991-05-24,Jamaica,Guyana,6,0,CFU Caribbean Cup,Kingston,Jamaica,False
+1991-05-26,Jamaica,Cayman Islands,3,2,CFU Caribbean Cup,Kingston,Jamaica,False
+1991-05-30,Jamaica,Saint Lucia,2,0,CFU Caribbean Cup,Kingston,Jamaica,False
+1991-06-02,Jamaica,Trinidad and Tobago,2,0,CFU Caribbean Cup,Kingston,Jamaica,False
+1991-06-28,Mexico,Jamaica,4,1,Gold Cup,Los Angeles,United States,True
+1991-06-30,Jamaica,Honduras,0,5,Gold Cup,Los Angeles,United States,True
+1991-07-02,Jamaica,Canada,2,3,Gold Cup,Los Angeles,United States,True
+1991-09-12,Bermuda,Jamaica,1,1,Friendly,Hamilton,Bermuda,False
+1991-09-14,United States,Jamaica,1,0,Friendly,High Point,United States,False
+1992-04-12,Jamaica,Bermuda,0,0,Friendly,Kingston,Jamaica,False
+1992-05-23,Jamaica,Puerto Rico,2,1,FIFA World Cup qualification,Kingston,Jamaica,False
+1992-05-30,Puerto Rico,Jamaica,0,1,FIFA World Cup qualification,San Juan,Puerto Rico,False
+1992-06-20,Guadeloupe,Jamaica,0,1,CFU Caribbean Cup,San Fernando,Trinidad and Tobago,True
+1992-06-22,Cuba,Jamaica,0,0,CFU Caribbean Cup,San Fernando,Trinidad and Tobago,True
+1992-06-24,Jamaica,Martinique,1,0,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,True
+1992-06-27,Trinidad and Tobago,Jamaica,3,1,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,False
+1992-07-05,Trinidad and Tobago,Jamaica,1,2,FIFA World Cup qualification,Port of Spain,Trinidad and Tobago,False
+1992-08-16,Jamaica,Trinidad and Tobago,1,1,FIFA World Cup qualification,Kingston,Jamaica,False
+1992-09-22,Honduras,Jamaica,5,1,Friendly,Tegucigalpa,Honduras,False
+1992-09-24,Honduras,Jamaica,7,0,Friendly,San Pedro Sula,Honduras,False
+1992-09-27,Saint Vincent and the Grenadines,Jamaica,0,1,Friendly,Kingstown,Saint Vincent and the Grenadines,False
+1992-10-04,Jamaica,Saint Vincent and the Grenadines,3,3,Friendly,Kingston,Jamaica,False
+1992-10-18,Jamaica,Canada,1,1,FIFA World Cup qualification,Kingston,Jamaica,False
+1992-10-25,Bermuda,Jamaica,1,1,FIFA World Cup qualification,Hamilton,Bermuda,False
+1992-11-01,Canada,Jamaica,1,0,FIFA World Cup qualification,Toronto,Canada,False
+1992-11-08,Jamaica,Bermuda,3,2,FIFA World Cup qualification,Kingston,Jamaica,False
+1992-11-22,Jamaica,El Salvador,0,2,FIFA World Cup qualification,Kingston,Jamaica,False
+1992-12-02,Guatemala,Jamaica,2,1,Friendly,Guatemala City,Guatemala,False
+1992-12-06,El Salvador,Jamaica,2,1,FIFA World Cup qualification,San Salvador,El Salvador,False
+1993-05-21,Jamaica,Saint Kitts and Nevis,4,1,CFU Caribbean Cup,Kingston,Jamaica,False
+1993-05-23,Jamaica,Sint Maarten,2,0,CFU Caribbean Cup,Kingston,Jamaica,False
+1993-05-25,Jamaica,Puerto Rico,1,0,CFU Caribbean Cup,Kingston,Jamaica,False
+1993-05-28,Jamaica,Trinidad and Tobago,3,0,CFU Caribbean Cup,Kingston,Jamaica,False
+1993-05-30,Jamaica,Martinique,0,0,CFU Caribbean Cup,Kingston,Jamaica,False
+1993-07-04,Jamaica,Costa Rica,1,1,Friendly,Kingston,Jamaica,False
+1993-07-10,United States,Jamaica,1,0,Gold Cup,Dallas,United States,False
+1993-07-14,Honduras,Jamaica,1,3,Gold Cup,Dallas,United States,True
+1993-07-17,Jamaica,Panama,1,1,Gold Cup,Dallas,United States,True
+1993-07-22,Mexico,Jamaica,6,1,Gold Cup,Mexico City,Mexico,False
+1993-07-25,Jamaica,Costa Rica,1,1,Gold Cup,Mexico City,Mexico,True
+1993-11-07,United States,Jamaica,1,0,Friendly,Fullerton,United States,False
+1994-03-02,Jamaica,Sint Maarten,3,2,CFU Caribbean Cup qualification,George Town,Cayman Islands,True
+1994-03-04,Jamaica,British Virgin Islands,12,0,CFU Caribbean Cup qualification,George Town,Cayman Islands,True
+1994-03-06,Cayman Islands,Jamaica,3,2,CFU Caribbean Cup qualification,West Bay,Cayman Islands,False
+1994-11-22,Jamaica,United States,0,3,Friendly,Kingston,Jamaica,False
+1995-03-12,Jamaica,Cuba,0,0,Friendly,Kingston,Jamaica,False
+1995-07-19,Jamaica,Saint Lucia,2,1,CFU Caribbean Cup,Kingston,Jamaica,False
+1995-07-21,Jamaica,Cuba,1,2,CFU Caribbean Cup,Montego Bay,Jamaica,False
+1995-07-23,Jamaica,Trinidad and Tobago,1,0,CFU Caribbean Cup,Kingston,Jamaica,False
+1995-08-01,Canada,Jamaica,3,1,Friendly,Toronto,Canada,False
+1995-08-06,Jamaica,Trinidad and Tobago,1,0,Friendly,Toronto,Canada,True
+1995-08-18,Jamaica,Zambia,1,1,Friendly,Montego Bay,Jamaica,False
+1995-08-20,Jamaica,Zambia,3,1,Friendly,Kingston,Jamaica,False
+1995-09-24,Trinidad and Tobago,Jamaica,1,0,Friendly,Port of Spain,Trinidad and Tobago,False
+1995-09-27,Jamaica,Costa Rica,2,0,Friendly,Kingston,Jamaica,False
+1995-10-18,Jamaica,Honduras,1,0,Friendly,Kingston,Jamaica,False
+1995-10-20,Jamaica,Trinidad and Tobago,1,0,Friendly,George Town,Cayman Islands,True
+1995-10-22,Cayman Islands,Jamaica,1,5,Friendly,George Town,Cayman Islands,False
+1995-11-05,Zambia,Jamaica,4,2,Friendly,Lusaka,Zambia,False
+1995-11-26,Jamaica,Norway,1,1,Friendly,Kingston,Jamaica,False
+1995-12-03,Antigua and Barbuda,Jamaica,1,2,Friendly,St. John's,Antigua and Barbuda,False
+1995-12-06,Saint Kitts and Nevis,Jamaica,0,3,Friendly,Basseterre,Saint Kitts and Nevis,False
+1995-12-20,Jamaica,Mexico,2,1,Friendly,Kingston,Jamaica,False
+1996-01-14,Jamaica,Cuba,1,1,Friendly,Kingston,Jamaica,False
+1996-03-03,Jamaica,Guatemala,2,0,Friendly,Kingston,Jamaica,False
+1996-03-31,Suriname,Jamaica,0,1,FIFA World Cup qualification,Paramaribo,Suriname,False
+1996-04-21,Jamaica,Suriname,1,0,FIFA World Cup qualification,Kingston,Jamaica,False
+1996-04-24,Jamaica,Barbados,2,0,CFU Caribbean Cup qualification,Kingston,Jamaica,False
+1996-04-28,Barbados,Jamaica,2,0,CFU Caribbean Cup qualification,Bridgetown,Barbados,False
+1996-05-24,Trinidad and Tobago,Jamaica,1,0,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,False
+1996-05-26,Jamaica,Saint Kitts and Nevis,4,1,CFU Caribbean Cup,Palo Seco,Trinidad and Tobago,True
+1996-05-28,Suriname,Jamaica,3,1,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,True
+1996-06-23,Barbados,Jamaica,0,1,FIFA World Cup qualification,Bridgetown,Barbados,False
+1996-06-30,Jamaica,Barbados,2,0,FIFA World Cup qualification,Kingston,Jamaica,False
+1996-07-28,Jamaica,Panama,0,0,Friendly,Kingston,Jamaica,False
+1996-08-24,Panama,Jamaica,2,0,Friendly,Panama City,Panama,False
+1996-08-27,Guatemala,Jamaica,2,1,Friendly,Guatemala City,Guatemala,False
+1996-09-04,Jamaica,Costa Rica,2,0,Friendly,Kingston,Jamaica,False
+1996-09-15,Jamaica,Honduras,3,0,FIFA World Cup qualification,Kingston,Jamaica,False
+1996-09-23,Saint Vincent and the Grenadines,Jamaica,1,2,FIFA World Cup qualification,Kingstown,Saint Vincent and the Grenadines,False
+1996-10-04,Ecuador,Jamaica,2,1,Friendly,Ambato,Ecuador,False
+1996-10-09,Costa Rica,Jamaica,0,0,Friendly,San José,Costa Rica,False
+1996-10-16,Mexico,Jamaica,2,1,FIFA World Cup qualification,Mexico City,Mexico,False
+1996-10-26,Honduras,Jamaica,0,0,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+1996-11-10,Jamaica,Saint Vincent and the Grenadines,5,0,FIFA World Cup qualification,Kingston,Jamaica,False
+1996-11-17,Jamaica,Mexico,1,0,FIFA World Cup qualification,Kingston,Jamaica,False
+1997-02-12,Jamaica,Venezuela,0,0,Friendly,Kingston,Jamaica,False
+1997-02-21,Jamaica,Bermuda,1,0,CFU Caribbean Cup qualification,Kingston,Jamaica,False
+1997-02-23,Jamaica,Bermuda,3,2,CFU Caribbean Cup qualification,Kingston,Jamaica,False
+1997-03-02,Jamaica,United States,0,0,FIFA World Cup qualification,Kingston,Jamaica,False
+1997-03-23,Bolivia,Jamaica,6,0,Friendly,Oruro,Bolivia,False
+1997-04-13,Mexico,Jamaica,6,0,FIFA World Cup qualification,Mexico City,Mexico,False
+1997-04-27,Canada,Jamaica,0,0,FIFA World Cup qualification,Burnaby,Canada,False
+1997-05-01,Trinidad and Tobago,Jamaica,1,1,Friendly,Palo Seco,Trinidad and Tobago,False
+1997-05-04,Aruba,Jamaica,0,6,CFU Caribbean Cup qualification,Oranjestad,Aruba,False
+1997-05-11,Costa Rica,Jamaica,3,1,FIFA World Cup qualification,San José,Costa Rica,False
+1997-05-18,Jamaica,El Salvador,1,0,FIFA World Cup qualification,Kingston,Jamaica,False
+1997-06-29,Jamaica,Cuba,3,0,Friendly,Kingston,Jamaica,False
+1997-07-04,Jamaica,Grenada,1,1,CFU Caribbean Cup,St. John's,Antigua and Barbuda,True
+1997-07-08,Antigua and Barbuda,Jamaica,0,2,CFU Caribbean Cup,St. John's,Antigua and Barbuda,False
+1997-07-10,Trinidad and Tobago,Jamaica,1,1,CFU Caribbean Cup,St. John's,Antigua and Barbuda,True
+1997-07-13,Jamaica,Grenada,4,1,CFU Caribbean Cup,St. John's,Antigua and Barbuda,True
+1997-08-06,Jamaica,Colombia,1,0,Friendly,Kingston,Jamaica,False
+1997-08-31,Jamaica,Trinidad and Tobago,6,1,Friendly,Kingston,Jamaica,False
+1997-09-07,Jamaica,Canada,1,0,FIFA World Cup qualification,Kingston,Jamaica,False
+1997-09-14,Jamaica,Costa Rica,1,0,FIFA World Cup qualification,Kingston,Jamaica,False
+1997-10-03,United States,Jamaica,1,1,FIFA World Cup qualification,"Washington, D.C.",United States,False
+1997-10-18,Haiti,Jamaica,0,1,Friendly,Port-au-Prince,Haiti,False
+1997-10-24,Saint Lucia,Jamaica,1,3,Friendly,Castries,Saint Lucia,False
+1997-10-26,Antigua and Barbuda,Jamaica,0,3,Friendly,St. John's,Antigua and Barbuda,False
+1997-10-29,Saint Kitts and Nevis,Jamaica,1,1,Friendly,Basseterre,Saint Kitts and Nevis,False
+1997-11-09,El Salvador,Jamaica,2,2,FIFA World Cup qualification,San Salvador,El Salvador,False
+1997-11-16,Jamaica,Mexico,0,0,FIFA World Cup qualification,Kingston,Jamaica,False
+1998-01-07,Trinidad and Tobago,Jamaica,0,0,Friendly,Port of Spain,Trinidad and Tobago,False
+1998-01-29,Jamaica,Sweden,0,0,Friendly,Kingston,Jamaica,False
+1998-02-03,Brazil,Jamaica,0,0,Gold Cup,Miami,United States,True
+1998-02-08,Guatemala,Jamaica,2,3,Gold Cup,Los Angeles,United States,True
+1998-02-09,Jamaica,El Salvador,2,0,Gold Cup,Los Angeles,United States,True
+1998-02-12,Jamaica,Mexico,0,1,Gold Cup,Los Angeles,United States,True
+1998-02-15,Brazil,Jamaica,1,0,Gold Cup,Los Angeles,United States,True
+1998-02-22,Jamaica,Nigeria,2,2,Friendly,Kingston,Jamaica,False
+1998-03-25,Wales,Jamaica,0,0,Friendly,Cardiff,Wales,False
+1998-04-20,Jamaica,North Macedonia,1,2,Friendly,Tehran,Iran,True
+1998-04-22,Iran,Jamaica,1,0,Friendly,Tehran,Iran,False
+1998-05-04,Jamaica,Saudi Arabia,0,0,Friendly,Nice,France,True
+1998-05-16,South Korea,Jamaica,2,1,Friendly,Seoul,South Korea,False
+1998-05-19,South Korea,Jamaica,0,0,Friendly,Seoul,South Korea,False
+1998-06-14,Jamaica,Croatia,1,3,FIFA World Cup,Lens,France,True
+1998-06-21,Argentina,Jamaica,5,0,FIFA World Cup,Paris,France,True
+1998-06-26,Japan,Jamaica,1,2,FIFA World Cup,Lyon,France,True
+1998-07-22,Jamaica,Cayman Islands,4,0,CFU Caribbean Cup,Kingston,Jamaica,False
+1998-07-24,Jamaica,Curaçao,3,2,CFU Caribbean Cup,Kingston,Jamaica,False
+1998-07-26,Jamaica,Haiti,2,1,CFU Caribbean Cup,Kingston,Jamaica,False
+1998-07-29,Jamaica,Antigua and Barbuda,1,0,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,True
+1998-07-31,Trinidad and Tobago,Jamaica,1,2,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,False
+1999-02-10,Jamaica,Costa Rica,1,1,Friendly,Kingston,Jamaica,False
+1999-02-24,Costa Rica,Jamaica,9,0,Friendly,San José,Costa Rica,False
+1999-03-03,Bolivia,Jamaica,0,0,Friendly,Guatemala City,Guatemala,True
+1999-03-05,Jamaica,Paraguay,1,3,Friendly,Guatemala City,Guatemala,True
+1999-03-07,Guatemala,Jamaica,2,4,Friendly,Guatemala City,Guatemala,False
+1999-03-28,Trinidad and Tobago,Jamaica,2,0,Friendly,Port of Spain,Trinidad and Tobago,False
+1999-03-31,Jamaica,Paraguay,3,0,Friendly,Kingston,Jamaica,False
+1999-05-09,Jamaica,South Africa,1,1,Friendly,Kingston,Jamaica,False
+1999-05-20,Norway,Jamaica,6,0,Friendly,Oslo,Norway,False
+1999-05-27,Sweden,Jamaica,2,1,Friendly,Solna,Sweden,False
+1999-06-03,Trinidad and Tobago,Jamaica,1,0,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,False
+1999-06-05,Jamaica,Guadeloupe,5,1,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,True
+1999-06-07,Jamaica,Grenada,2,1,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,True
+1999-06-10,Cuba,Jamaica,2,0,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,True
+1999-07-13,Jamaica,Saudi Arabia,2,1,Friendly,San Bernardino,United States,True
+1999-07-15,Jamaica,Saudi Arabia,0,4,Friendly,Fullerton,United States,True
+1999-08-07,Ghana,Jamaica,2,1,Friendly,Accra,Ghana,False
+1999-09-02,Canada,Jamaica,1,0,Friendly,Toronto,Canada,False
+1999-09-08,Jamaica,United States,2,2,Friendly,Kingston,Jamaica,False
+1999-10-24,Cayman Islands,Jamaica,1,4,Friendly,George Town,Cayman Islands,False
+2000-01-16,Jamaica,New Zealand,2,1,Friendly,Guangzhou,China PR,True
+2000-02-06,Cayman Islands,Jamaica,0,0,Friendly,George Town,Cayman Islands,False
+2000-02-09,Cayman Islands,Jamaica,0,1,Friendly,George Town,Cayman Islands,False
+2000-02-12,Colombia,Jamaica,1,0,Gold Cup,Miami,United States,True
+2000-02-14,Jamaica,Honduras,0,2,Gold Cup,Miami,United States,True
+2000-05-14,Jamaica,Panama,0,1,Friendly,Montego Bay,Jamaica,False
+2000-05-27,Jamaica,Colombia,0,3,Friendly,East Rutherford,United States,True
+2000-06-04,Morocco,Jamaica,1,0,King Hassan II Tournament,Casablanca,Morocco,False
+2000-06-06,Jamaica,Japan,0,4,King Hassan II Tournament,Casablanca,Morocco,True
+2000-07-02,Jamaica,Cuba,1,1,Friendly,Kingston,Jamaica,False
+2000-07-05,Jamaica,Barbados,5,0,Friendly,Kingston,Jamaica,False
+2000-07-08,Trinidad and Tobago,Jamaica,2,4,Friendly,Port of Spain,Trinidad and Tobago,False
+2000-07-16,Saint Vincent and the Grenadines,Jamaica,0,1,FIFA World Cup qualification,Kingstown,Saint Vincent and the Grenadines,False
+2000-07-23,Jamaica,Honduras,3,1,FIFA World Cup qualification,Kingston,Jamaica,False
+2000-08-16,Jamaica,El Salvador,1,0,FIFA World Cup qualification,Kingston,Jamaica,False
+2000-08-27,Cayman Islands,Jamaica,0,6,Friendly,George Town,Cayman Islands,False
+2000-09-03,Jamaica,Saint Vincent and the Grenadines,2,0,FIFA World Cup qualification,Kingston,Jamaica,False
+2000-10-08,Honduras,Jamaica,1,0,FIFA World Cup qualification,Tegucigalpa,Honduras,False
+2000-11-15,El Salvador,Jamaica,2,0,FIFA World Cup qualification,San Salvador,El Salvador,False
+2001-01-28,Jamaica,Bulgaria,0,0,Friendly,Kingston,Jamaica,False
+2001-02-28,Jamaica,Trinidad and Tobago,1,0,FIFA World Cup qualification,Kingston,Jamaica,False
+2001-03-25,Mexico,Jamaica,4,0,FIFA World Cup qualification,Mexico City,Mexico,False
+2001-04-25,Jamaica,Honduras,1,1,FIFA World Cup qualification,Kingston,Jamaica,False
+2001-05-15,Martinique,Jamaica,0,1,CFU Caribbean Cup,Arima,Trinidad and Tobago,True
+2001-05-17,Trinidad and Tobago,Jamaica,2,1,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,False
+2001-05-19,Barbados,Jamaica,1,2,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,True
+2001-06-10,Jamaica,Cuba,4,1,Friendly,Kingston,Jamaica,False
+2001-06-16,Jamaica,United States,0,0,FIFA World Cup qualification,Kingston,Jamaica,False
+2001-06-20,Costa Rica,Jamaica,2,1,FIFA World Cup qualification,Alajuela,Costa Rica,False
+2001-06-30,Trinidad and Tobago,Jamaica,1,2,FIFA World Cup qualification,Port of Spain,Trinidad and Tobago,False
+2001-07-20,Cuba,Jamaica,0,0,Friendly,Havana,Cuba,False
+2001-07-27,Jamaica,Martinique,0,0,SKN Football Festival,Basseterre,Saint Kitts and Nevis,True
+2001-07-30,Saint Kitts and Nevis,Jamaica,0,0,SKN Football Festival,Basseterre,Saint Kitts and Nevis,False
+2001-08-01,Grenada,Jamaica,2,0,Friendly,St. George's,Grenada,False
+2001-09-02,Jamaica,Mexico,1,2,FIFA World Cup qualification,Kingston,Jamaica,False
+2001-09-05,Honduras,Jamaica,1,0,FIFA World Cup qualification,Tegucigalpa,Honduras,False
+2001-10-07,United States,Jamaica,2,1,FIFA World Cup qualification,Foxborough,United States,False
+2001-11-11,Jamaica,Costa Rica,0,1,FIFA World Cup qualification,Kingston,Jamaica,False
+2002-05-16,United States,Jamaica,5,0,Friendly,East Rutherford,United States,False
+2002-05-18,Jamaica,Nigeria,0,1,Friendly,London,England,True
+2002-08-02,Grenada,Jamaica,0,1,Friendly,St. George's,Grenada,False
+2002-08-11,Saint Lucia,Jamaica,1,3,Friendly,Vieux Fort,Saint Lucia,False
+2002-08-29,India,Jamaica,0,3,Friendly,Watford,England,True
+2002-09-01,India,Jamaica,0,0,Friendly,Wolverhampton,England,True
+2002-10-16,Japan,Jamaica,1,1,Friendly,Tokyo,Japan,False
+2002-11-09,Barbados,Jamaica,1,1,Gold Cup qualification,St. George's,Grenada,True
+2002-11-11,Jamaica,Guadeloupe,2,0,Gold Cup qualification,St. George's,Grenada,True
+2002-11-13,Grenada,Jamaica,1,4,Gold Cup qualification,St. George's,Grenada,False
+2002-11-20,Nigeria,Jamaica,0,0,Friendly,Lagos,Nigeria,False
+2003-01-12,Barbados,Jamaica,1,0,Friendly,Bridgetown,Barbados,False
+2003-02-12,Jamaica,United States,1,2,Friendly,Kingston,Jamaica,False
+2003-03-11,Cuba,Jamaica,0,0,Friendly,Havana,Cuba,False
+2003-03-13,Cuba,Jamaica,1,0,Friendly,Havana,Cuba,False
+2003-03-23,Jamaica,Barbados,2,1,Friendly,Kingston,Jamaica,False
+2003-03-26,Jamaica,Saint Lucia,5,0,Gold Cup qualification,Kingston,Jamaica,False
+2003-03-28,Jamaica,Martinique,2,2,Gold Cup qualification,Kingston,Jamaica,False
+2003-03-30,Jamaica,Haiti,3,0,Gold Cup qualification,Kingston,Jamaica,False
+2003-04-02,Venezuela,Jamaica,2,0,Friendly,Caracas,Venezuela,False
+2003-04-30,South Africa,Jamaica,0,0,Friendly,Cape Town,South Africa,False
+2003-05-25,Jamaica,Nigeria,3,2,Friendly,Kingston,Jamaica,False
+2003-07-06,Jamaica,Cuba,1,2,Friendly,Kingston,Jamaica,False
+2003-07-09,Jamaica,Paraguay,2,0,Friendly,Kingston,Jamaica,False
+2003-07-13,Jamaica,Colombia,0,1,Gold Cup,Miami,United States,True
+2003-07-15,Guatemala,Jamaica,0,2,Gold Cup,Miami,United States,True
+2003-07-20,Mexico,Jamaica,5,0,Gold Cup,Mexico City,Mexico,False
+2003-09-07,Australia,Jamaica,2,1,Friendly,Reading,England,True
+2003-10-12,Brazil,Jamaica,1,0,Friendly,Leicester,England,True
+2003-11-16,Jamaica,El Salvador,3,0,Friendly,Kingston,Jamaica,False
+2004-02-18,Jamaica,Uruguay,2,0,Friendly,Kingston,Jamaica,False
+2004-03-31,Jamaica,Honduras,2,2,Friendly,Kingston,Jamaica,False
+2004-04-28,Jamaica,Venezuela,2,1,Friendly,Kingston,Jamaica,False
+2004-05-31,Nigeria,Jamaica,2,0,Friendly,London,England,True
+2004-06-02,Republic of Ireland,Jamaica,1,0,Friendly,London,England,True
+2004-06-12,Haiti,Jamaica,1,1,FIFA World Cup qualification,Miami,United States,True
+2004-06-20,Jamaica,Haiti,3,0,FIFA World Cup qualification,Kingston,Jamaica,False
+2004-08-18,Jamaica,United States,1,1,FIFA World Cup qualification,Kingston,Jamaica,False
+2004-09-04,Jamaica,Panama,1,2,FIFA World Cup qualification,Kingston,Jamaica,False
+2004-09-08,El Salvador,Jamaica,0,3,FIFA World Cup qualification,San Salvador,El Salvador,False
+2004-10-02,Jamaica,Guatemala,2,2,Friendly,Fort Lauderdale,United States,True
+2004-10-09,Panama,Jamaica,1,1,FIFA World Cup qualification,Panama City,Panama,False
+2004-10-13,Jamaica,El Salvador,0,0,FIFA World Cup qualification,Kingston,Jamaica,False
+2004-11-17,United States,Jamaica,1,1,FIFA World Cup qualification,Columbus,United States,False
+2004-11-24,Jamaica,Saint Martin,12,0,CFU Caribbean Cup qualification,Kingston,Jamaica,False
+2004-11-26,Jamaica,United States Virgin Islands,11,1,CFU Caribbean Cup qualification,Montego Bay,Jamaica,False
+2004-11-28,Jamaica,Haiti,3,1,CFU Caribbean Cup qualification,Kingston,Jamaica,False
+2004-12-12,Saint Lucia,Jamaica,1,1,CFU Caribbean Cup qualification,Vieux Fort,Saint Lucia,False
+2004-12-19,Jamaica,Saint Lucia,2,1,CFU Caribbean Cup qualification,Kingston,Jamaica,False
+2005-01-08,Jamaica,French Guiana,5,0,CFU Caribbean Cup qualification,Kingston,Jamaica,False
+2005-01-15,French Guiana,Jamaica,0,0,CFU Caribbean Cup qualification,Cayenne,French Guiana,False
+2005-02-20,Jamaica,Trinidad and Tobago,2,1,CFU Caribbean Cup,Bridgetown,Barbados,True
+2005-02-22,Barbados,Jamaica,0,1,CFU Caribbean Cup,Bridgetown,Barbados,False
+2005-02-24,Cuba,Jamaica,0,1,CFU Caribbean Cup,Bridgetown,Barbados,True
+2005-04-20,Guatemala,Jamaica,0,1,Friendly,Atlanta,United States,True
+2005-06-04,Jamaica,Honduras,0,0,Friendly,Atlanta,United States,True
+2005-07-08,Guatemala,Jamaica,3,4,Gold Cup,Carson,United States,True
+2005-07-10,Jamaica,South Africa,3,3,Gold Cup,Los Angeles,United States,True
+2005-07-13,Mexico,Jamaica,1,0,Gold Cup,Houston,United States,True
+2005-07-16,United States,Jamaica,3,1,Gold Cup,Foxborough,United States,False
+2005-10-01,Guatemala,Jamaica,1,2,Friendly,Fort Lauderdale,United States,True
+2005-10-09,Australia,Jamaica,5,0,Friendly,London,England,True
+2006-04-11,United States,Jamaica,1,1,Friendly,Cary,United States,False
+2006-05-29,Jamaica,Ghana,1,4,Friendly,Leicester,England,True
+2006-06-03,England,Jamaica,6,0,Friendly,Manchester,England,False
+2006-09-04,Canada,Jamaica,1,0,Friendly,Montreal,Canada,False
+2006-09-27,Jamaica,Saint Lucia,4,0,CFU Caribbean Cup qualification,Kingston,Jamaica,False
+2006-10-01,Jamaica,Haiti,2,0,CFU Caribbean Cup qualification,Kingston,Jamaica,False
+2006-10-08,Jamaica,Canada,2,1,Friendly,Kingston,Jamaica,False
+2006-11-15,Jamaica,Peru,1,1,Friendly,Kingston,Jamaica,False
+2007-03-22,Jamaica,Switzerland,0,2,Friendly,Fort Lauderdale,United States,True
+2007-03-26,Jamaica,Panama,1,1,Friendly,Kingston,Jamaica,False
+2007-06-05,Jamaica,Chile,0,1,Friendly,Kingston,Jamaica,False
+2007-06-21,Indonesia,Jamaica,2,1,Friendly,Jakarta,Indonesia,False
+2007-06-24,Vietnam,Jamaica,3,0,Friendly,Hanoi,Vietnam,False
+2007-06-28,Malaysia,Jamaica,0,2,Friendly,Kuala Lumpur,Malaysia,False
+2007-07-02,Iran,Jamaica,8,1,Friendly,Tehran,Iran,False
+2007-11-18,Jamaica,El Salvador,3,0,Friendly,Kingston,Jamaica,False
+2007-11-21,Jamaica,Guatemala,2,0,Friendly,Kingston,Jamaica,False
+2008-02-06,Jamaica,Costa Rica,1,1,Friendly,Kingston,Jamaica,False
+2008-03-26,Jamaica,Trinidad and Tobago,2,2,Friendly,Kingston,Jamaica,False
+2008-06-07,Trinidad and Tobago,Jamaica,1,1,Friendly,Macoya,Trinidad and Tobago,False
+2008-06-10,Grenada,Jamaica,2,1,Friendly,St. George's,Grenada,False
+2008-06-15,Jamaica,Bahamas,7,0,FIFA World Cup qualification,Kingston,Jamaica,False
+2008-06-18,Jamaica,Bahamas,6,0,FIFA World Cup qualification,Falmouth,Jamaica,False
+2008-07-26,El Salvador,Jamaica,0,0,Friendly,Frisco,United States,True
+2008-08-20,Canada,Jamaica,1,1,FIFA World Cup qualification,Toronto,Canada,False
+2008-09-06,Mexico,Jamaica,3,0,FIFA World Cup qualification,Mexico City,Mexico,False
+2008-09-10,Honduras,Jamaica,2,0,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2008-10-11,Jamaica,Mexico,1,0,FIFA World Cup qualification,Kingston,Jamaica,False
+2008-10-15,Jamaica,Honduras,1,0,FIFA World Cup qualification,Kingston,Jamaica,False
+2008-11-09,Cayman Islands,Jamaica,0,2,Friendly,George Town,Cayman Islands,False
+2008-11-19,Jamaica,Canada,3,0,FIFA World Cup qualification,Kingston,Jamaica,False
+2008-12-03,Jamaica,Barbados,2,1,CFU Caribbean Cup,Kingston,Jamaica,False
+2008-12-05,Jamaica,Grenada,4,0,CFU Caribbean Cup,Montego Bay,Jamaica,False
+2008-12-07,Jamaica,Trinidad and Tobago,1,1,CFU Caribbean Cup,Falmouth,Jamaica,False
+2008-12-11,Jamaica,Guadeloupe,2,0,CFU Caribbean Cup,Kingston,Jamaica,False
+2008-12-14,Jamaica,Grenada,2,0,CFU Caribbean Cup,Kingston,Jamaica,False
+2009-02-11,Nigeria,Jamaica,0,0,Friendly,London,England,True
+2009-05-23,Jamaica,Haiti,2,2,Friendly,Fort Lauderdale,United States,True
+2009-05-30,El Salvador,Jamaica,0,0,Friendly,"Washington, D.C.",United States,True
+2009-06-07,Jamaica,Panama,3,2,Friendly,Kingston,Jamaica,False
+2009-06-28,Cayman Islands,Jamaica,1,4,Friendly,George Town,Cayman Islands,False
+2009-07-03,Canada,Jamaica,1,0,Gold Cup,Carson,United States,True
+2009-07-07,Jamaica,Costa Rica,0,1,Gold Cup,Columbus,United States,True
+2009-07-10,El Salvador,Jamaica,0,1,Gold Cup,Miami,United States,True
+2009-08-12,Ecuador,Jamaica,0,0,Friendly,East Rutherford,United States,True
+2009-08-16,Saint Kitts and Nevis,Jamaica,0,1,Friendly,Basseterre,Saint Kitts and Nevis,False
+2009-11-17,South Africa,Jamaica,0,0,Friendly,Bloemfontein,South Africa,False
+2010-01-31,Jamaica,Canada,1,0,Friendly,Kingston,Jamaica,False
+2010-02-10,Argentina,Jamaica,2,1,Friendly,Mar del Plata,Argentina,False
+2010-04-28,South Africa,Jamaica,2,0,Friendly,Offenbach am Main,Germany,True
+2010-08-11,Trinidad and Tobago,Jamaica,1,3,Friendly,Macoya,Trinidad and Tobago,False
+2010-09-05,Jamaica,Costa Rica,1,0,Friendly,Kingston,Jamaica,False
+2010-09-07,Jamaica,Peru,1,2,Friendly,Fort Lauderdale,United States,True
+2010-10-10,Jamaica,Trinidad and Tobago,1,0,Friendly,Kingston,Jamaica,False
+2010-11-17,Jamaica,Costa Rica,0,0,Friendly,Fort Lauderdale,United States,True
+2010-11-27,Jamaica,Antigua and Barbuda,3,1,CFU Caribbean Cup,Rivière-Pilote,Martinique,True
+2010-11-29,Guadeloupe,Jamaica,0,2,CFU Caribbean Cup,Rivière-Pilote,Martinique,True
+2010-12-01,Guyana,Jamaica,0,4,CFU Caribbean Cup,Rivière-Pilote,Martinique,True
+2010-12-03,Jamaica,Grenada,2,1,CFU Caribbean Cup,Fort-de-France,Martinique,True
+2010-12-05,Guadeloupe,Jamaica,1,1,CFU Caribbean Cup,Fort-de-France,Martinique,True
+2011-03-25,Jamaica,Venezuela,0,2,Friendly,Montego Bay,Jamaica,False
+2011-03-29,El Salvador,Jamaica,2,3,Friendly,San Salvador,El Salvador,False
+2011-06-06,Jamaica,Grenada,4,0,Gold Cup,Carson,United States,True
+2011-06-10,Jamaica,Guatemala,2,0,Gold Cup,Miami,United States,True
+2011-06-13,Honduras,Jamaica,0,1,Gold Cup,Harrison,United States,True
+2011-06-19,United States,Jamaica,2,0,Gold Cup,"Washington, D.C.",United States,False
+2011-08-10,China PR,Jamaica,1,0,Friendly,Hefei,China PR,False
+2011-09-02,Ecuador,Jamaica,5,2,Friendly,Quito,Ecuador,False
+2011-09-06,Jamaica,Colombia,0,2,Friendly,Fort Lauderdale,United States,True
+2011-10-11,Honduras,Jamaica,2,1,Friendly,La Ceiba,Honduras,False
+2012-02-22,Jamaica,Cuba,1,0,Friendly,Kingston,Jamaica,False
+2012-02-24,Jamaica,Cuba,3,0,Friendly,Montego Bay,Jamaica,False
+2012-02-29,New Zealand,Jamaica,2,3,Friendly,Auckland,New Zealand,False
+2012-03-21,Jamaica,Costa Rica,0,0,Friendly,Kingston,Jamaica,False
+2012-05-18,Jamaica,Guyana,1,0,Friendly,Montego Bay,Jamaica,False
+2012-05-27,Jamaica,Panama,0,1,Friendly,Kingston,Jamaica,False
+2012-06-01,Panama,Jamaica,2,1,Friendly,Panama City,Panama,False
+2012-06-08,Jamaica,Guatemala,2,1,FIFA World Cup qualification,Kingston,Jamaica,False
+2012-06-12,Antigua and Barbuda,Jamaica,0,0,FIFA World Cup qualification,St. John's,Antigua and Barbuda,False
+2012-08-15,El Salvador,Jamaica,0,2,Friendly,"Washington, D.C.",United States,True
+2012-09-07,Jamaica,United States,2,1,FIFA World Cup qualification,Kingston,Jamaica,False
+2012-09-11,United States,Jamaica,1,0,FIFA World Cup qualification,Columbus,United States,False
+2012-10-12,Guatemala,Jamaica,2,1,FIFA World Cup qualification,Guatemala City,Guatemala,False
+2012-10-16,Jamaica,Antigua and Barbuda,4,1,FIFA World Cup qualification,Kingston,Jamaica,False
+2012-12-08,Jamaica,French Guiana,1,2,CFU Caribbean Cup,North Sound,Antigua and Barbuda,True
+2012-12-10,Jamaica,Martinique,0,0,CFU Caribbean Cup,North Sound,Antigua and Barbuda,True
+2012-12-12,Jamaica,Cuba,0,1,CFU Caribbean Cup,North Sound,Antigua and Barbuda,True
+2013-02-06,Mexico,Jamaica,0,0,FIFA World Cup qualification,Mexico City,Mexico,False
+2013-03-22,Jamaica,Panama,1,1,FIFA World Cup qualification,Kingston,Jamaica,False
+2013-03-26,Costa Rica,Jamaica,2,0,FIFA World Cup qualification,San José,Costa Rica,False
+2013-06-04,Jamaica,Mexico,0,1,FIFA World Cup qualification,Kingston,Jamaica,False
+2013-06-07,Jamaica,United States,1,2,FIFA World Cup qualification,Kingston,Jamaica,False
+2013-06-11,Honduras,Jamaica,2,0,FIFA World Cup qualification,Tegucigalpa,Honduras,False
+2013-09-06,Panama,Jamaica,0,0,FIFA World Cup qualification,Panama City,Panama,False
+2013-09-10,Jamaica,Costa Rica,1,1,FIFA World Cup qualification,Kingston,Jamaica,False
+2013-10-11,United States,Jamaica,2,0,FIFA World Cup qualification,Kansas City,United States,False
+2013-10-15,Jamaica,Honduras,2,2,FIFA World Cup qualification,Kingston,Jamaica,False
+2013-11-15,Jamaica,Trinidad and Tobago,0,1,Friendly,Montego Bay,Jamaica,False
+2013-11-19,Trinidad and Tobago,Jamaica,2,0,Friendly,Port of Spain,Trinidad and Tobago,False
+2014-03-05,Saint Lucia,Jamaica,0,5,Friendly,Castries,Saint Lucia,False
+2014-05-26,Jamaica,Serbia,1,2,Friendly,Harrison,United States,True
+2014-05-30,Switzerland,Jamaica,1,0,Friendly,Lucerne,Switzerland,False
+2014-06-04,Jamaica,Egypt,2,2,Friendly,London,England,True
+2014-06-08,France,Jamaica,8,0,Friendly,Villeneuve-d'Ascq,France,False
+2014-10-10,Japan,Jamaica,1,0,Friendly,Niigata,Japan,False
+2014-11-18,Jamaica,Trinidad and Tobago,0,0,CFU Caribbean Cup,Montego Bay,Jamaica,False
+2015-03-30,Jamaica,Cuba,3,0,Friendly,Montego Bay,Jamaica,False
+2015-06-13,Uruguay,Jamaica,1,0,Copa América,Antofagasta,Chile,True
+2015-06-16,Paraguay,Jamaica,1,0,Copa América,Antofagasta,Chile,True
+2015-06-20,Argentina,Jamaica,1,0,Copa América,Viña del Mar,Chile,True
+2015-07-08,Costa Rica,Jamaica,2,2,Gold Cup,Carson,United States,True
+2015-07-11,Jamaica,Canada,1,0,Gold Cup,Houston,United States,True
+2015-07-14,Jamaica,El Salvador,1,0,Gold Cup,Toronto,Canada,True
+2015-07-18,Haiti,Jamaica,0,1,Gold Cup,Baltimore,United States,True
+2015-07-22,United States,Jamaica,1,2,Gold Cup,Atlanta,United States,False
+2015-07-26,Jamaica,Mexico,1,3,Gold Cup,Philadelphia,United States,True
+2015-09-04,Jamaica,Nicaragua,2,3,FIFA World Cup qualification,Kingston,Jamaica,False
+2015-09-08,Nicaragua,Jamaica,0,2,FIFA World Cup qualification,Managua,Nicaragua,False
+2015-10-13,South Korea,Jamaica,3,0,Friendly,Seoul,South Korea,False
+2015-11-13,Jamaica,Panama,0,2,FIFA World Cup qualification,Kingston,Jamaica,False
+2015-11-17,Haiti,Jamaica,0,1,FIFA World Cup qualification,Port-au-Prince,Haiti,False
+2016-03-25,Jamaica,Costa Rica,1,1,FIFA World Cup qualification,Kingston,Jamaica,False
+2016-03-29,Costa Rica,Jamaica,3,0,FIFA World Cup qualification,San José,Costa Rica,False
+2016-06-05,Jamaica,Venezuela,0,1,Copa América,Chicago,United States,True
+2016-06-09,Mexico,Jamaica,2,0,Copa América,Pasadena,United States,True
+2016-06-13,Uruguay,Jamaica,3,0,Copa América,Santa Clara,United States,True
+2016-09-02,Panama,Jamaica,2,0,FIFA World Cup qualification,Panama City,Panama,False
+2016-09-06,Jamaica,Haiti,0,2,FIFA World Cup qualification,Kingston,Jamaica,False
+2016-11-13,Jamaica,Suriname,1,0,CFU Caribbean Cup qualification,Kingston,Jamaica,False
+2017-06-13,Peru,Jamaica,3,1,Friendly,Arequipa,Peru,False
+2017-06-22,Jamaica,French Guiana,1,1,CFU Caribbean Cup,Fort-de-France,Martinique,True
+2017-06-25,Jamaica,Curaçao,1,2,CFU Caribbean Cup,Fort-de-France,Martinique,True
+2017-07-09,Curaçao,Jamaica,0,2,Gold Cup,San Diego,United States,True
+2017-07-13,Mexico,Jamaica,0,0,Gold Cup,Denver,United States,True
+2017-07-16,Jamaica,El Salvador,1,1,Gold Cup,San Antonio,United States,True
+2017-07-20,Jamaica,Canada,2,1,Gold Cup,Glendale,United States,True
+2017-07-23,Mexico,Jamaica,0,1,Gold Cup,Pasadena,United States,True
+2017-07-26,United States,Jamaica,2,1,Gold Cup,Santa Clara,United States,False
+2017-08-24,Trinidad and Tobago,Jamaica,1,2,Friendly,Port of Spain,Trinidad and Tobago,False
+2017-09-02,Canada,Jamaica,2,0,Friendly,Toronto,Canada,False
+2017-10-07,Saudi Arabia,Jamaica,5,2,Friendly,Jeddah,Saudi Arabia,False
+2018-01-30,Jamaica,South Korea,2,2,Friendly,Antalya,Turkey,True
+2018-03-25,Jamaica,Antigua and Barbuda,1,1,Friendly,Kingston,Jamaica,False
+2018-04-26,Saint Kitts and Nevis,Jamaica,1,3,Friendly,Basseterre,Saint Kitts and Nevis,False
+2018-04-30,Antigua and Barbuda,Jamaica,0,2,Friendly,St. John's,Antigua and Barbuda,False
+2018-08-18,Grenada,Jamaica,1,5,Friendly,St. George's,Grenada,False
+2018-08-20,Barbados,Jamaica,2,2,Friendly,Bridgetown,Barbados,False
+2018-09-07,Ecuador,Jamaica,2,0,Friendly,Harrison,United States,True
+2018-09-09,Jamaica,Cayman Islands,4,0,CONCACAF Nations League qualification,Kingston,Jamaica,False
+2018-10-14,Bonaire,Jamaica,0,6,CONCACAF Nations League qualification,Willemstad,Curaçao,True
+2018-11-17,Jamaica,Suriname,2,1,CONCACAF Nations League qualification,Kingston,Jamaica,False
+2019-03-24,El Salvador,Jamaica,2,0,CONCACAF Nations League qualification,San Salvador,El Salvador,False
+2019-03-26,Costa Rica,Jamaica,1,0,Friendly,San José,Costa Rica,False
+2019-06-05,United States,Jamaica,0,1,Friendly,"Washington, D.C.",United States,False
+2019-06-17,Jamaica,Honduras,3,2,Gold Cup,Kingston,Jamaica,False
+2019-06-21,El Salvador,Jamaica,0,0,Gold Cup,Houston,United States,True
+2019-06-25,Jamaica,Curaçao,1,1,Gold Cup,Los Angeles,United States,True
+2019-06-30,Jamaica,Panama,1,0,Gold Cup,Philadelphia,United States,True
+2019-07-03,United States,Jamaica,3,1,Gold Cup,Nashville,United States,False
+2019-09-06,Jamaica,Antigua and Barbuda,6,0,CONCACAF Nations League,Montego Bay,Jamaica,False
+2019-09-09,Guyana,Jamaica,0,4,CONCACAF Nations League,Georgetown,Guyana,False
+2019-10-12,Jamaica,Aruba,2,0,CONCACAF Nations League,Kingston,Jamaica,False
+2019-10-15,Aruba,Jamaica,0,6,CONCACAF Nations League,Willemstad,Curaçao,True
+2019-11-15,Antigua and Barbuda,Jamaica,0,2,CONCACAF Nations League,North Sound,Antigua and Barbuda,False
+2019-11-18,Jamaica,Guyana,1,1,CONCACAF Nations League,Montego Bay,Jamaica,False
+2020-11-14,Saudi Arabia,Jamaica,3,0,Friendly,Riyadh,Saudi Arabia,False
+2020-11-17,Saudi Arabia,Jamaica,1,2,Friendly,Riyadh,Saudi Arabia,False
+2021-03-25,United States,Jamaica,4,1,Friendly,Wiener Neustadt,Austria,True
+2021-06-07,Serbia,Jamaica,1,1,Friendly,Miki,Japan,True
+2021-07-12,Jamaica,Suriname,2,0,Gold Cup,Orlando,United States,True
+2021-07-16,Guadeloupe,Jamaica,1,2,Gold Cup,Orlando,United States,True
+2021-07-20,Costa Rica,Jamaica,1,0,Gold Cup,Orlando,United States,True
+2021-07-25,United States,Jamaica,1,0,Gold Cup,Arlington,United States,False
+2021-09-02,Mexico,Jamaica,2,1,FIFA World Cup qualification,Mexico City,Mexico,False
+2021-09-05,Jamaica,Panama,0,3,FIFA World Cup qualification,Kingston,Jamaica,False
+2021-09-08,Costa Rica,Jamaica,1,1,FIFA World Cup qualification,San José,Costa Rica,False
+2021-10-07,United States,Jamaica,2,0,FIFA World Cup qualification,Austin,United States,False
+2021-10-10,Jamaica,Canada,0,0,FIFA World Cup qualification,Kingston,Jamaica,False
+2021-10-13,Honduras,Jamaica,0,2,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2021-11-12,El Salvador,Jamaica,1,1,FIFA World Cup qualification,San Salvador,El Salvador,False
+2021-11-16,Jamaica,United States,1,1,FIFA World Cup qualification,Kingston,Jamaica,False
+2022-01-20,Peru,Jamaica,3,0,Friendly,Lima,Peru,False
+2022-01-27,Jamaica,Mexico,1,2,FIFA World Cup qualification,Kingston,Jamaica,False
+2022-01-30,Panama,Jamaica,3,2,FIFA World Cup qualification,Panama City,Panama,False
+2022-02-02,Jamaica,Costa Rica,0,1,FIFA World Cup qualification,Kingston,Jamaica,False
+2022-03-24,Jamaica,El Salvador,1,1,FIFA World Cup qualification,Kingston,Jamaica,False
+2022-03-27,Canada,Jamaica,4,0,FIFA World Cup qualification,Toronto,Canada,False
+2022-03-30,Jamaica,Honduras,2,1,FIFA World Cup qualification,Kingston,Jamaica,False
+2022-06-04,Suriname,Jamaica,1,1,CONCACAF Nations League,Paramaribo,Suriname,False
+2022-06-07,Jamaica,Suriname,3,1,CONCACAF Nations League,Kingston,Jamaica,False
+2022-06-14,Jamaica,Mexico,1,1,CONCACAF Nations League,Kingston,Jamaica,False
+2022-09-27,Argentina,Jamaica,3,0,Friendly,Harrison,United States,True
+2022-11-09,Cameroon,Jamaica,1,1,Friendly,Yaoundé,Cameroon,False
+2023-03-11,Jamaica,Trinidad and Tobago,0,1,Friendly,Montego Bay,Jamaica,False
+2023-03-14,Jamaica,Trinidad and Tobago,0,0,Friendly,Kingston,Jamaica,False
+2023-03-26,Mexico,Jamaica,2,2,CONCACAF Nations League,Mexico City,Mexico,False
+2023-06-15,Jamaica,Qatar,1,2,Friendly,Ritzing,Austria,True
+2023-06-19,Jamaica,Jordan,1,2,Friendly,Wiener Neustadt,Austria,True
+2023-06-24,United States,Jamaica,1,1,Gold Cup,Chicago,United States,False
+2023-06-28,Jamaica,Trinidad and Tobago,4,1,Gold Cup,St. Louis,United States,True
+2023-07-02,Jamaica,Saint Kitts and Nevis,5,0,Gold Cup,Santa Clara,United States,True
+2023-07-09,Guatemala,Jamaica,0,1,Gold Cup,Cincinnati,United States,True
+2023-07-12,Jamaica,Mexico,0,3,Gold Cup,Paradise,United States,True
+2023-09-08,Jamaica,Honduras,1,0,CONCACAF Nations League,Kingston,Jamaica,False
+2023-09-12,Jamaica,Haiti,2,2,CONCACAF Nations League,Kingston,Jamaica,False
+2023-10-12,Grenada,Jamaica,1,4,CONCACAF Nations League,St. George's,Grenada,False
+2023-10-15,Haiti,Jamaica,2,3,CONCACAF Nations League,Port of Spain,Trinidad and Tobago,True
+2023-11-11,Guatemala,Jamaica,0,0,Friendly,Harrison,United States,True
+2023-11-18,Jamaica,Canada,1,2,CONCACAF Nations League,Kingston,Jamaica,False
+2023-11-21,Canada,Jamaica,2,3,CONCACAF Nations League,Toronto,Canada,False
+2024-03-01,Trinidad and Tobago,Jamaica,0,1,Friendly,Port of Spain,Trinidad and Tobago,False
+2024-03-03,Trinidad and Tobago,Jamaica,0,0,Friendly,Arima,Trinidad and Tobago,False
+2024-03-21,United States,Jamaica,3,1,CONCACAF Nations League,Arlington,United States,False
+2024-03-24,Jamaica,Panama,1,0,CONCACAF Nations League,Arlington,United States,True
+2024-06-06,Jamaica,Dominican Republic,1,0,FIFA World Cup qualification,Kingston,Jamaica,False
+2024-06-09,Dominica,Jamaica,2,3,FIFA World Cup qualification,Roseau,Dominica,False
+2024-06-22,Mexico,Jamaica,1,0,Copa América,Houston,United States,True
+2024-06-26,Ecuador,Jamaica,3,1,Copa América,Las Vegas,United States,True
+2024-06-30,Jamaica,Venezuela,0,3,Copa América,Austin,United States,True
+2024-09-06,Jamaica,Cuba,0,0,CONCACAF Nations League,Kingston,Jamaica,False
+2024-09-10,Honduras,Jamaica,1,2,CONCACAF Nations League,Tegucigalpa,Honduras,False
+2024-10-10,Nicaragua,Jamaica,0,2,CONCACAF Nations League,Managua,Nicaragua,False
+2024-10-14,Jamaica,Honduras,0,0,CONCACAF Nations League,Kingston,Jamaica,False
+2024-11-14,Jamaica,United States,0,1,CONCACAF Nations League,Kingston,Jamaica,False
+2024-11-18,United States,Jamaica,4,2,CONCACAF Nations League,Saint Louis,United States,False
+2025-02-07,Jamaica,Trinidad and Tobago,1,0,Friendly,Montego Bay,Jamaica,False
+2025-02-10,Jamaica,Trinidad and Tobago,1,1,Friendly,Kingston,Jamaica,False
+2025-03-21,Saint Vincent and the Grenadines,Jamaica,1,1,Gold Cup qualification,Kingstown,Saint Vincent and the Grenadines,False
+2025-03-25,Jamaica,Saint Vincent and the Grenadines,3,0,Gold Cup qualification,Kingston,Jamaica,False

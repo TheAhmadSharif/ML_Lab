@@ -1,0 +1,388 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1921-01-28,Suriname,Guyana,1,2,Friendly,Paramaribo,Dutch Guyana,False
+1923-08-27,Suriname,Guyana,2,1,Friendly,Paramaribo,Dutch Guyana,False
+1934-07-22,Curaçao,Suriname,3,1,Friendly,Willemstad,Curaçao,False
+1934-07-25,Curaçao,Suriname,3,2,Friendly,Willemstad,Curaçao,False
+1934-07-29,Curaçao,Suriname,2,2,Friendly,Willemstad,Curaçao,False
+1934-07-31,Aruba,Suriname,1,1,Friendly,Oranjestad,Aruba,False
+1934-08-06,Suriname,Trinidad and Tobago,3,3,Friendly,Paramaribo,Dutch Guyana,False
+1935-05-20,Suriname,Curaçao,0,1,Friendly,Paramaribo,Dutch Guyana,False
+1935-05-22,Suriname,Curaçao,4,1,Friendly,Paramaribo,Dutch Guyana,False
+1935-05-24,Suriname,Curaçao,2,1,Friendly,Paramaribo,Dutch Guyana,False
+1935-07-19,Suriname,Trinidad and Tobago,0,3,Friendly,Paramaribo,Dutch Guyana,False
+1936-01-01,French Guiana,Suriname,1,3,Friendly,Cayenne,French Guiana,False
+1937-01-04,Suriname,Guyana,8,0,Friendly,Paramaribo,Dutch Guyana,False
+1937-01-06,Suriname,Trinidad and Tobago,1,1,Friendly,Paramaribo,Dutch Guyana,False
+1937-01-08,Suriname,Trinidad and Tobago,3,3,Friendly,Paramaribo,Dutch Guyana,False
+1937-01-10,Suriname,Trinidad and Tobago,2,2,Friendly,Paramaribo,Dutch Guyana,False
+1938-07-05,Curaçao,Suriname,2,1,Friendly,Willemstad,Curaçao,False
+1938-07-07,Curaçao,Suriname,1,0,Friendly,Willemstad,Curaçao,False
+1938-07-08,Aruba,Suriname,5,0,Friendly,Oranjestad,Aruba,False
+1938-07-10,Curaçao,Suriname,4,1,Friendly,Willemstad,Curaçao,False
+1938-07-16,Trinidad and Tobago,Suriname,1,2,Friendly,Port of Spain,Trinidad and Tobago,False
+1938-07-18,Suriname,Trinidad and Tobago,3,0,Friendly,Paramaribo,Dutch Guyana,False
+1938-07-20,Suriname,Trinidad and Tobago,0,1,Friendly,Paramaribo,Dutch Guyana,False
+1943-11-14,Guyana,Suriname,2,0,Friendly,Georgetown,British Guiana,False
+1943-11-21,Guyana,Suriname,0,1,Friendly,Georgetown,British Guiana,False
+1943-11-22,Guyana,Suriname,0,4,Friendly,Georgetown,British Guiana,False
+1944-08-25,Suriname,Curaçao,1,2,Friendly,Paramaribo,Dutch Guyana,False
+1944-08-27,Suriname,Aruba,5,0,Friendly,Paramaribo,Dutch Guyana,False
+1944-08-31,Suriname,Curaçao,0,2,Friendly,Paramaribo,Dutch Guyana,False
+1944-09-05,Suriname,Aruba,2,3,Friendly,Paramaribo,Dutch Guyana,False
+1945-08-26,Suriname,Guyana,3,1,Friendly,Paramaribo,Dutch Guyana,False
+1945-08-31,Suriname,Guyana,4,1,Friendly,Paramaribo,Dutch Guyana,False
+1945-09-02,Suriname,Guyana,6,0,Friendly,Paramaribo,Dutch Guyana,False
+1946-06-06,Aruba,Suriname,8,1,Friendly,Willemstad,Curaçao,True
+1946-06-10,Curaçao,Suriname,6,0,Friendly,Willemstad,Curaçao,False
+1946-10-21,Guyana,Suriname,0,3,Friendly,Georgetown,British Guiana,False
+1946-10-24,Guyana,Suriname,0,1,Friendly,Georgetown,British Guiana,False
+1946-10-29,Guyana,Suriname,3,1,Friendly,Georgetown,British Guiana,False
+1947-03-02,Suriname,French Guiana,9,1,Friendly,Paramaribo,Dutch Guyana,False
+1947-09-01,Suriname,Guyana,4,0,Friendly,Paramaribo,Dutch Guyana,False
+1947-09-05,Suriname,Guyana,0,0,Friendly,Paramaribo,Dutch Guyana,False
+1947-09-07,Suriname,Guyana,1,0,Friendly,Paramaribo,Dutch Guyana,False
+1948-03-12,Suriname,Trinidad and Tobago,0,2,Friendly,Paramaribo,Dutch Guyana,False
+1948-03-14,Suriname,Trinidad and Tobago,0,0,Friendly,Paramaribo,Dutch Guyana,False
+1948-03-16,Suriname,Trinidad and Tobago,1,0,Friendly,Paramaribo,Dutch Guyana,False
+1948-09-26,French Guiana,Suriname,2,4,Friendly,Cayenne,French Guiana,False
+1948-10-01,Suriname,Guyana,3,0,Friendly,Cayenne,French Guiana,True
+1948-12-18,Martinique,Suriname,4,3,Friendly,Basse-Terre,Guadeloupe,True
+1949-05-12,Suriname,Cuba,0,1,Friendly,Paramaribo,Dutch Guyana,False
+1949-08-14,Suriname,French Guiana,5,0,Friendly,Paramaribo,Dutch Guyana,False
+1949-08-19,Suriname,French Guiana,2,1,Friendly,Paramaribo,Dutch Guyana,False
+1950-08-27,Suriname,Guyana,0,1,Friendly,Paramaribo,Dutch Guyana,False
+1950-08-31,Suriname,Guyana,3,0,Friendly,Paramaribo,Dutch Guyana,False
+1950-09-03,Suriname,Guyana,4,1,Friendly,Paramaribo,Dutch Guyana,False
+1950-11-18,Curaçao,Suriname,2,3,Friendly,Port of Spain,Trinidad and Tobago,True
+1950-11-25,Trinidad and Tobago,Suriname,5,0,Friendly,Port of Spain,Trinidad and Tobago,False
+1950-11-28,Curaçao,Suriname,3,0,Friendly,Port of Spain,Trinidad and Tobago,True
+1950-11-30,Trinidad and Tobago,Suriname,1,1,Friendly,Port of Spain,Trinidad and Tobago,False
+1951-08-31,Suriname,Guyana,6,1,Friendly,Paramaribo,Dutch Guyana,False
+1951-09-02,Suriname,Guyana,5,0,Friendly,Paramaribo,Dutch Guyana,False
+1951-09-09,Suriname,Guyana,4,0,Friendly,Paramaribo,Dutch Guyana,False
+1952-02-14,Aruba,Suriname,2,1,Friendly,Oranjestad,Aruba,False
+1952-02-17,Guyana,Suriname,0,9,Friendly,Oranjestad,Aruba,True
+1953-08-29,Suriname,Aruba,3,3,Friendly,Paramaribo,Dutch Guyana,False
+1953-09-03,Suriname,Aruba,3,3,Friendly,Paramaribo,Dutch Guyana,False
+1954-08-01,Suriname,Netherlands,3,4,Friendly,Paramaribo,Dutch Guyana,False
+1954-08-05,Suriname,Netherlands,0,2,Friendly,Paramaribo,Dutch Guyana,False
+1955-12-14,Suriname,Trinidad and Tobago,5,2,Friendly,Paramaribo,Dutch Guyana,False
+1955-12-16,Suriname,Trinidad and Tobago,3,1,Friendly,Paramaribo,Dutch Guyana,False
+1955-12-18,Suriname,Trinidad and Tobago,3,0,Friendly,Paramaribo,Dutch Guyana,False
+1956-09-25,Guyana,Suriname,1,1,Friendly,Georgetown,British Guiana,False
+1956-09-28,Guyana,Suriname,2,1,Friendly,Georgetown,British Guiana,False
+1956-09-30,Guyana,Suriname,1,2,Friendly,Georgetown,British Guiana,False
+1959-05-30,Martinique,Suriname,3,1,Friendly,Fort-de-France,Martinique,False
+1959-05-31,Martinique,Suriname,3,0,Friendly,Fort-de-France,Martinique,False
+1959-06-06,Guadeloupe,Suriname,3,3,Friendly,Basse-Terre,Guadeloupe,False
+1959-06-07,Guadeloupe,Suriname,3,1,Friendly,Basse-Terre,Guadeloupe,False
+1959-09-20,Suriname,Martinique,1,0,Friendly,Paramaribo,Dutch Guyana,False
+1959-09-25,Suriname,Martinique,4,1,Friendly,Paramaribo,Dutch Guyana,False
+1960-02-27,Curaçao,Suriname,1,0,CCCF Championship,Havana,Cuba,True
+1960-07-03,Suriname,Netherlands,3,4,Friendly,Paramaribo,Dutch Guyana,False
+1960-10-02,Suriname,Curaçao,1,2,FIFA World Cup qualification,Paramaribo,Dutch Guyana,False
+1960-11-27,Curaçao,Suriname,0,0,FIFA World Cup qualification,Willemstad,Curaçao,True
+1962-03-27,Curaçao,Suriname,1,0,Friendly,Willemstad,Curaçao,False
+1962-08-31,Suriname,Guadeloupe,3,1,Friendly,Paramaribo,Dutch Guyana,False
+1962-09-16,Trinidad and Tobago,Suriname,1,1,Friendly,Port of Spain,Trinidad and Tobago,False
+1962-09-18,Trinidad and Tobago,Suriname,1,0,Friendly,Port of Spain,Trinidad and Tobago,False
+1962-09-20,Trinidad and Tobago,Suriname,1,1,Friendly,Port of Spain,Trinidad and Tobago,False
+1962-09-22,Trinidad and Tobago,Suriname,1,1,Friendly,Port of Spain,Trinidad and Tobago,False
+1962-10-13,Suriname,Guadeloupe,3,3,Friendly,Paramaribo,Dutch Guyana,False
+1962-10-15,Suriname,French Guiana,4,2,Friendly,Paramaribo,Dutch Guyana,False
+1963-03-31,Suriname,Trinidad and Tobago,3,1,Friendly,Paramaribo,Dutch Guyana,False
+1963-04-02,Suriname,Trinidad and Tobago,1,2,Friendly,Paramaribo,Dutch Guyana,False
+1963-04-04,Suriname,Trinidad and Tobago,4,3,Friendly,Paramaribo,Dutch Guyana,False
+1963-10-15,Suriname,Curaçao,2,3,Friendly,Paramaribo,Dutch Guyana,False
+1964-06-04,French Guiana,Suriname,3,1,Friendly,Cayenne,French Guiana,False
+1964-06-05,French Guiana,Suriname,3,3,Friendly,Cayenne,French Guiana,False
+1965-02-07,Trinidad and Tobago,Suriname,4,1,FIFA World Cup qualification,Port of Spain,Trinidad and Tobago,False
+1965-02-12,Costa Rica,Suriname,1,0,FIFA World Cup qualification,San José,Costa Rica,False
+1965-02-28,Suriname,Costa Rica,1,3,FIFA World Cup qualification,Paramaribo,Dutch Guyana,False
+1965-03-14,Suriname,Trinidad and Tobago,6,1,FIFA World Cup qualification,Paramaribo,Dutch Guyana,False
+1965-07-25,Suriname,French Guiana,7,0,Friendly,Paramaribo,Dutch Guyana,False
+1965-07-26,Suriname,French Guiana,5,0,Friendly,Paramaribo,Dutch Guyana,False
+1966-06-10,Trinidad and Tobago,Suriname,3,2,Friendly,Port-au-Prince,Haiti,True
+1966-06-13,Haiti,Suriname,1,4,Friendly,Port-au-Prince,Haiti,False
+1966-06-15,Guadeloupe,Suriname,0,4,Friendly,Port-au-Prince,Haiti,True
+1966-06-17,Jamaica,Suriname,3,5,Friendly,Port-au-Prince,Haiti,True
+1966-06-20,Curaçao,Suriname,1,1,Friendly,Port-au-Prince,Haiti,True
+1966-10-15,French Guiana,Suriname,3,3,Friendly,Cayenne,French Guiana,False
+1966-10-16,French Guiana,Suriname,0,3,Friendly,Cayenne,French Guiana,False
+1967-05-14,Suriname,French Guiana,6,1,Friendly,Paramaribo,Dutch Guyana,False
+1967-05-15,Suriname,French Guiana,3,0,Friendly,Paramaribo,Dutch Guyana,False
+1967-07-30,Guyana,Suriname,2,2,Friendly,Georgetown,Guyana,False
+1967-07-31,Guyana,Suriname,0,1,Friendly,Georgetown,Guyana,False
+1967-08-02,Guyana,Suriname,0,2,Friendly,Georgetown,Guyana,False
+1968-04-06,Barbados,Suriname,0,2,Friendly,Bridgetown,Barbados,False
+1968-04-08,Barbados,Suriname,0,0,Friendly,Bridgetown,Barbados,False
+1968-04-11,Martinique,Suriname,1,3,Friendly,Fort-de-France,Martinique,False
+1968-04-14,Martinique,Suriname,3,2,Friendly,Fort-de-France,Martinique,False
+1968-09-01,Suriname,French Guiana,2,1,Friendly,Paramaribo,Dutch Guyana,False
+1968-10-06,Suriname,Martinique,7,0,Friendly,Paramaribo,Dutch Guyana,False
+1968-10-08,Suriname,Martinique,0,0,Friendly,Paramaribo,Dutch Guyana,False
+1968-11-24,Suriname,Curaçao,6,0,FIFA World Cup qualification,Paramaribo,Dutch Guyana,False
+1968-12-01,El Salvador,Suriname,6,0,FIFA World Cup qualification,San Salvador,El Salvador,False
+1968-12-05,Curaçao,Suriname,2,0,FIFA World Cup qualification,Oranjestad,Aruba,True
+1968-12-22,Suriname,El Salvador,4,1,FIFA World Cup qualification,Paramaribo,Dutch Guyana,False
+1969-01-15,Suriname,Denmark,2,1,Friendly,Paramaribo,Dutch Guyana,False
+1969-04-26,French Guiana,Suriname,1,2,Friendly,Cayenne,French Guiana,False
+1969-10-05,Suriname,French Guiana,1,1,Friendly,Paramaribo,Dutch Guyana,False
+1969-10-14,Dominica,Suriname,1,3,Friendly,Roseau,Dominica,False
+1969-10-16,Dominica,Suriname,1,9,Friendly,Roseau,Dominica,False
+1969-11-11,French Guiana,Suriname,3,2,Friendly,Cayenne,French Guiana,False
+1970-10-04,Suriname,Trinidad and Tobago,3,2,Friendly,Paramaribo,Dutch Guyana,False
+1970-10-09,Suriname,Curaçao,5,1,Friendly,Paramaribo,Dutch Guyana,False
+1970-11-11,Suriname,French Guiana,3,2,Friendly,Paramaribo,Dutch Guyana,False
+1971-09-15,Suriname,Guyana,4,1,CONCACAF Championship qualification,Paramaribo,Dutch Guyana,False
+1971-09-21,Guyana,Suriname,2,3,CONCACAF Championship qualification,Georgetown,Guyana,False
+1972-11-28,Trinidad and Tobago,Suriname,2,1,CONCACAF Championship qualification,Port of Spain,Trinidad and Tobago,False
+1972-11-30,Trinidad and Tobago,Suriname,1,1,CONCACAF Championship qualification,San Fernando,Trinidad and Tobago,False
+1972-12-03,Antigua and Barbuda,Suriname,0,6,CONCACAF Championship qualification,St. John's,Antigua and Barbuda,False
+1972-12-05,Antigua and Barbuda,Suriname,1,3,CONCACAF Championship qualification,St. John's,Antigua and Barbuda,False
+1973-10-27,Curaçao,Suriname,1,1,Friendly,Willemstad,Curaçao,False
+1973-10-29,Curaçao,Suriname,2,2,Friendly,Willemstad,Curaçao,False
+1973-11-06,Barbados,Suriname,0,2,Friendly,Georgetown,Guyana,True
+1973-11-09,Guyana,Suriname,0,2,Friendly,Georgetown,Guyana,False
+1974-11-23,Suriname,Trinidad and Tobago,0,0,Friendly,Paramaribo,Dutch Guyana,False
+1974-11-25,Suriname,Trinidad and Tobago,2,1,Friendly,Paramaribo,Dutch Guyana,False
+1974-12-22,Suriname,Trinidad and Tobago,2,3,Friendly,Paramaribo,Dutch Guyana,False
+1974-12-26,Bermuda,Suriname,2,1,Friendly,Hamilton,Bermuda,False
+1974-12-29,Bermuda,Suriname,1,3,Friendly,Hamilton,Bermuda,False
+1975-01-03,Bermuda,Suriname,2,5,Friendly,Hamilton,Bermuda,False
+1975-03-30,Guadeloupe,Suriname,4,2,Friendly,Basse-Terre,Guadeloupe,False
+1975-03-31,Barbados,Suriname,1,0,Friendly,Bridgetown,Barbados,False
+1975-12-26,Bermuda,Suriname,1,5,Friendly,Hamilton,Bermuda,False
+1976-07-04,Guyana,Suriname,2,0,CONCACAF Championship qualification,Georgetown,Guyana,False
+1976-08-29,Suriname,Guyana,3,0,CONCACAF Championship qualification,Paramaribo,Suriname,False
+1976-11-14,Suriname,Trinidad and Tobago,1,1,CONCACAF Championship qualification,Paramaribo,Suriname,False
+1976-11-28,Trinidad and Tobago,Suriname,2,2,CONCACAF Championship qualification,Port of Spain,Trinidad and Tobago,False
+1976-12-18,Suriname,Trinidad and Tobago,3,2,CONCACAF Championship qualification,Cayenne,French Guiana,True
+1977-09-18,Suriname,Trinidad and Tobago,2,1,Friendly,Paramaribo,Suriname,False
+1977-10-08,Guatemala,Suriname,3,2,CONCACAF Championship,Monterrey,Mexico,True
+1977-10-12,Canada,Suriname,2,1,CONCACAF Championship,Mexico City,Mexico,True
+1977-10-15,Mexico,Suriname,8,1,CONCACAF Championship,Monterrey,Mexico,False
+1977-10-20,El Salvador,Suriname,3,2,CONCACAF Championship,Monterrey,Mexico,True
+1977-10-23,Haiti,Suriname,1,0,CONCACAF Championship,Mexico City,Mexico,True
+1978-07-09,Guyana,Suriname,0,2,CFU Caribbean Cup qualification,Linden,Guyana,False
+1978-07-30,Suriname,Guyana,2,1,CFU Caribbean Cup qualification,Paramaribo,Suriname,False
+1978-09-30,Curaçao,Suriname,0,2,CFU Caribbean Cup qualification,Oranjestad,Aruba,True
+1978-10-13,Suriname,Curaçao,3,0,CFU Caribbean Cup qualification,Paramaribo,Suriname,False
+1978-10-22,Haiti,Suriname,0,3,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,True
+1978-10-25,Trinidad and Tobago,Suriname,0,1,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,False
+1978-10-28,Antigua and Barbuda,Suriname,0,4,CFU Caribbean Cup,San Fernando,Trinidad and Tobago,True
+1979-11-12,Suriname,Saint Vincent and the Grenadines,2,3,CFU Caribbean Cup,Paramaribo,Suriname,False
+1979-11-15,Suriname,Trinidad and Tobago,3,0,CFU Caribbean Cup,Paramaribo,Suriname,False
+1979-11-18,Suriname,Haiti,0,1,CFU Caribbean Cup,Paramaribo,Suriname,False
+1980-08-17,Cuba,Suriname,3,0,CONCACAF Championship qualification,Havana,Cuba,False
+1980-09-07,Suriname,Cuba,0,0,CONCACAF Championship qualification,Paramaribo,Suriname,False
+1980-09-28,Guyana,Suriname,0,1,CONCACAF Championship qualification,Georgetown,Guyana,False
+1980-10-12,Suriname,Guyana,4,0,CONCACAF Championship qualification,Paramaribo,Suriname,False
+1981-06-07,Suriname,French Guiana,3,1,CFU Caribbean Cup qualification,Paramaribo,Suriname,False
+1981-06-21,French Guiana,Suriname,3,1,CFU Caribbean Cup qualification,Cayenne,French Guiana,False
+1981-07-19,Suriname,French Guiana,1,0,CFU Caribbean Cup qualification,Paramaribo,Suriname,False
+1981-08-02,Suriname,Trinidad and Tobago,1,1,CFU Caribbean Cup qualification,Paramaribo,Suriname,False
+1981-08-14,Trinidad and Tobago,Suriname,3,2,CFU Caribbean Cup qualification,San Fernando,Trinidad and Tobago,False
+1981-09-13,Saint Vincent and the Grenadines,Suriname,2,1,CFU Caribbean Cup qualification,Kingstown,Saint Vincent and the Grenadines,False
+1981-09-27,Suriname,Saint Vincent and the Grenadines,3,3,CFU Caribbean Cup qualification,Paramaribo,Suriname,False
+1982-06-27,Trinidad and Tobago,Suriname,2,3,Friendly,Port of Spain,Trinidad and Tobago,False
+1983-03-05,Barbados,Suriname,1,0,CFU Caribbean Cup qualification,Bridgetown,Barbados,False
+1983-03-08,Barbados,Suriname,0,0,CFU Caribbean Cup qualification,Bridgetown,Barbados,False
+1984-06-15,Suriname,India,6,2,Friendly,Paramaribo,Suriname,False
+1984-06-17,Suriname,India,4,1,Friendly,Paramaribo,Suriname,False
+1984-08-15,Suriname,Guyana,1,0,CONCACAF Championship qualification,Paramaribo,Suriname,False
+1984-08-29,Guyana,Suriname,1,1,CONCACAF Championship qualification,Georgetown,Guyana,False
+1984-11-09,Guyana,Suriname,1,1,Friendly,Georgetown,Guyana,False
+1984-11-11,Guyana,Suriname,1,1,Friendly,Georgetown,Guyana,False
+1985-02-24,El Salvador,Suriname,3,0,CONCACAF Championship,San Salvador,El Salvador,False
+1985-02-27,El Salvador,Suriname,3,0,CONCACAF Championship,San Salvador,El Salvador,False
+1985-03-03,Honduras,Suriname,1,1,CONCACAF Championship,Tegucigalpa,Honduras,False
+1985-03-06,Honduras,Suriname,2,1,CONCACAF Championship,Tegucigalpa,Honduras,False
+1985-03-17,French Guiana,Suriname,0,1,CFU Caribbean Cup qualification,Cayenne,French Guiana,False
+1985-03-24,Guyana,Suriname,0,1,CFU Caribbean Cup qualification,Georgetown,Guyana,False
+1985-04-27,Suriname,Guadeloupe,0,1,CFU Caribbean Cup qualification,Cayenne,French Guiana,True
+1985-05-05,Trinidad and Tobago,Suriname,0,1,CFU Caribbean Cup qualification,San Fernando,Trinidad and Tobago,False
+1985-06-25,Barbados,Suriname,0,0,CFU Caribbean Cup,Bridgetown,Barbados,False
+1985-06-27,Martinique,Suriname,2,0,CFU Caribbean Cup,Bridgetown,Barbados,True
+1985-06-30,Guadeloupe,Suriname,2,2,CFU Caribbean Cup,Bridgetown,Barbados,True
+1987-11-11,French Guiana,Suriname,1,1,CFU Caribbean Cup qualification,Cayenne,French Guiana,False
+1987-12-05,Suriname,French Guiana,1,0,CFU Caribbean Cup qualification,Paramaribo,Suriname,False
+1988-03-11,Guadeloupe,Suriname,0,2,CFU Caribbean Cup qualification,Basse-Terre,Guadeloupe,False
+1988-04-19,Guadeloupe,Suriname,1,1,CFU Caribbean Cup qualification,Basse-Terre,Guadeloupe,False
+1990-04-29,Suriname,Guyana,5,0,CFU Caribbean Cup qualification,Paramaribo,Suriname,False
+1990-05-15,Grenada,Suriname,3,1,CFU Caribbean Cup qualification,Georgetown,Guyana,True
+1990-05-17,Barbados,Suriname,5,0,Friendly,Bridgetown,Barbados,False
+1990-05-27,Curaçao,Suriname,1,1,CFU Caribbean Cup qualification,Willemstad,Curaçao,True
+1991-03-02,Suriname,French Guiana,3,0,Friendly,Paramaribo,Suriname,False
+1991-05-08,Aruba,Suriname,0,1,CFU Caribbean Cup qualification,Georgetown,Guyana,True
+1991-05-12,Guyana,Suriname,1,1,CFU Caribbean Cup qualification,Georgetown,Guyana,False
+1992-04-24,Guyana,Suriname,1,2,FIFA World Cup qualification,Georgetown,Guyana,False
+1992-05-09,Suriname,French Guiana,3,2,CFU Caribbean Cup qualification,Paramaribo,Suriname,False
+1992-05-25,Suriname,Guyana,1,1,FIFA World Cup qualification,Paramaribo,Suriname,False
+1992-06-19,Antigua and Barbuda,Suriname,1,1,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,True
+1992-08-02,Suriname,Saint Vincent and the Grenadines,0,0,FIFA World Cup qualification,Paramaribo,Suriname,False
+1992-08-30,Saint Vincent and the Grenadines,Suriname,2,1,FIFA World Cup qualification,Kingstown,Saint Vincent and the Grenadines,False
+1994-01-19,Suriname,French Guiana,1,0,CFU Caribbean Cup qualification,Paramaribo,Suriname,False
+1994-01-23,Suriname,Guyana,2,0,CFU Caribbean Cup qualification,Paramaribo,Suriname,False
+1994-04-07,Martinique,Suriname,2,0,CFU Caribbean Cup,San Fernando,Trinidad and Tobago,True
+1994-04-09,Suriname,Cayman Islands,2,0,CFU Caribbean Cup,San Fernando,Trinidad and Tobago,True
+1994-04-11,Suriname,Haiti,1,1,CFU Caribbean Cup,San Fernando,Trinidad and Tobago,True
+1994-04-14,Trinidad and Tobago,Suriname,3,2,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,False
+1994-04-17,Guadeloupe,Suriname,2,0,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,True
+1994-05-14,Nigeria,Suriname,2,1,Friendly,Amsterdam,Netherlands,True
+1995-05-09,Guadeloupe,Suriname,1,2,CFU Caribbean Cup qualification,Cayenne,French Guiana,True
+1995-05-11,Martinique,Suriname,1,1,CFU Caribbean Cup qualification,Cayenne,French Guiana,True
+1995-05-13,French Guiana,Suriname,4,0,CFU Caribbean Cup qualification,Cayenne,French Guiana,False
+1996-03-24,French Guiana,Suriname,1,2,CFU Caribbean Cup qualification,Cayenne,French Guiana,False
+1996-03-31,Suriname,Jamaica,0,1,FIFA World Cup qualification,Paramaribo,Suriname,False
+1996-04-14,Suriname,French Guiana,1,1,CFU Caribbean Cup qualification,Paramaribo,Suriname,False
+1996-04-21,Jamaica,Suriname,1,0,FIFA World Cup qualification,Kingston,Jamaica,False
+1996-04-28,Suriname,Guyana,2,1,CFU Caribbean Cup qualification,Paramaribo,Suriname,False
+1996-05-05,Guyana,Suriname,2,1,CFU Caribbean Cup qualification,Georgetown,Guyana,False
+1996-05-26,Trinidad and Tobago,Suriname,3,0,CFU Caribbean Cup,Palo Seco,Trinidad and Tobago,False
+1996-05-28,Suriname,Jamaica,3,1,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,True
+1996-05-30,Saint Kitts and Nevis,Suriname,1,1,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,True
+1996-06-03,Cuba,Suriname,4,0,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,True
+1996-06-05,Martinique,Suriname,1,1,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,True
+1998-03-03,Suriname,Curaçao,3,3,CFU Caribbean Cup qualification,Oranjestad,Aruba,True
+1998-03-05,Suriname,French Guiana,2,2,CFU Caribbean Cup qualification,Oranjestad,Aruba,True
+1998-03-07,Aruba,Suriname,3,3,CFU Caribbean Cup qualification,Oranjestad,Aruba,False
+1999-02-22,Suriname,Guyana,2,1,Friendly,Paramaribo,Suriname,False
+1999-05-06,Grenada,Suriname,0,0,CFU Caribbean Cup qualification,Willemstad,Curaçao,True
+1999-05-08,Curaçao,Suriname,1,1,CFU Caribbean Cup qualification,Willemstad,Curaçao,True
+2000-03-05,Saint Lucia,Suriname,1,0,FIFA World Cup qualification,Castries,Saint Lucia,False
+2000-03-19,Suriname,Saint Lucia,1,0,FIFA World Cup qualification,Paramaribo,Suriname,False
+2000-04-02,Cuba,Suriname,1,0,FIFA World Cup qualification,Havana,Cuba,False
+2000-04-16,Suriname,Cuba,0,0,FIFA World Cup qualification,Paramaribo,Suriname,False
+2001-04-04,Suriname,Aruba,5,0,CFU Caribbean Cup qualification,Paramaribo,Suriname,False
+2001-04-06,Suriname,Barbados,2,2,CFU Caribbean Cup qualification,Paramaribo,Suriname,False
+2001-04-08,Suriname,Grenada,3,1,CFU Caribbean Cup qualification,Paramaribo,Suriname,False
+2001-05-16,Cuba,Suriname,4,3,CFU Caribbean Cup,Macoya,Trinidad and Tobago,True
+2001-05-18,Haiti,Suriname,1,1,CFU Caribbean Cup,Macoya,Trinidad and Tobago,True
+2001-05-20,Suriname,Saint Kitts and Nevis,0,4,CFU Caribbean Cup,Arima,Trinidad and Tobago,True
+2002-07-28,Aruba,Suriname,0,2,Gold Cup qualification,Oranjestad,Aruba,False
+2002-08-11,Suriname,Aruba,6,0,Gold Cup qualification,Paramaribo,Suriname,False
+2002-10-17,French Guiana,Suriname,1,1,Friendly,Cayenne,French Guiana,False
+2002-10-19,French Guiana,Suriname,0,1,Friendly,Cayenne,French Guiana,False
+2004-01-10,Suriname,Curaçao,1,1,Friendly,Paramaribo,Suriname,False
+2004-01-17,Curaçao,Suriname,2,0,Friendly,Willemstad,Curaçao,False
+2004-02-28,Aruba,Suriname,1,2,FIFA World Cup qualification,Oranjestad,Aruba,False
+2004-03-27,Suriname,Aruba,8,1,FIFA World Cup qualification,Paramaribo,Suriname,False
+2004-06-12,Suriname,Guatemala,1,1,FIFA World Cup qualification,Paramaribo,Suriname,False
+2004-06-20,Guatemala,Suriname,3,1,FIFA World Cup qualification,Guatemala City,Guatemala,False
+2004-10-19,Suriname,French Guiana,1,2,Friendly,Paramaribo,Suriname,False
+2004-11-24,Grenada,Suriname,2,2,CFU Caribbean Cup qualification,Macoya,Trinidad and Tobago,True
+2004-11-26,Puerto Rico,Suriname,1,1,CFU Caribbean Cup qualification,San Fernando,Trinidad and Tobago,True
+2004-11-28,Trinidad and Tobago,Suriname,1,0,CFU Caribbean Cup qualification,Arima,Trinidad and Tobago,False
+2006-09-06,Suriname,Guyana,0,5,CFU Caribbean Cup qualification,Willemstad,Curaçao,True
+2006-09-08,Suriname,Grenada,1,0,CFU Caribbean Cup qualification,Willemstad,Curaçao,True
+2006-09-10,Curaçao,Suriname,0,1,CFU Caribbean Cup qualification,Willemstad,Curaçao,True
+2006-11-08,Martinique,Suriname,1,0,CFU Caribbean Cup qualification,Fort-de-France,Martinique,False
+2006-11-10,Cuba,Suriname,3,1,CFU Caribbean Cup qualification,Fort-de-France,Martinique,True
+2006-11-12,Haiti,Suriname,1,1,CFU Caribbean Cup qualification,Fort-de-France,Martinique,True
+2008-03-26,Montserrat,Suriname,1,7,FIFA World Cup qualification,Macoya,Trinidad and Tobago,True
+2008-05-21,Curaçao,Suriname,2,1,Friendly,Willemstad,Curaçao,False
+2008-06-14,Suriname,Guyana,1,0,FIFA World Cup qualification,Paramaribo,Suriname,False
+2008-06-22,Guyana,Suriname,1,2,FIFA World Cup qualification,Providence,Guyana,False
+2008-08-09,Dominica,Suriname,1,3,CFU Caribbean Cup qualification,Blairmont,Guyana,True
+2008-08-10,Guyana,Suriname,1,1,CFU Caribbean Cup qualification,Providence,Guyana,False
+2008-08-20,Haiti,Suriname,2,2,FIFA World Cup qualification,Port-au-Prince,Haiti,False
+2008-08-30,Suriname,French Guiana,2,1,Friendly,Paramaribo,Suriname,False
+2008-09-06,Costa Rica,Suriname,7,0,FIFA World Cup qualification,San José,Costa Rica,False
+2008-09-10,Suriname,El Salvador,0,2,FIFA World Cup qualification,Paramaribo,Suriname,False
+2008-10-11,Suriname,Costa Rica,1,4,FIFA World Cup qualification,Paramaribo,Suriname,False
+2008-10-15,El Salvador,Suriname,3,0,FIFA World Cup qualification,San Salvador,El Salvador,False
+2008-10-23,Barbados,Suriname,3,2,CFU Caribbean Cup qualification,Havana,Cuba,True
+2008-10-25,Suriname,Curaçao,2,1,CFU Caribbean Cup qualification,Havana,Cuba,True
+2008-10-27,Cuba,Suriname,6,0,CFU Caribbean Cup qualification,Havana,Cuba,False
+2008-11-19,Suriname,Haiti,1,1,FIFA World Cup qualification,Paramaribo,Suriname,False
+2009-04-22,French Guiana,Suriname,0,0,Friendly,Cayenne,French Guiana,False
+2009-10-30,Suriname,French Guiana,4,0,Friendly,Paramaribo,Suriname,False
+2009-11-01,Suriname,Curaçao,1,1,Friendly,Paramaribo,Suriname,False
+2010-09-11,French Guiana,Suriname,1,2,Friendly,Cayenne,French Guiana,False
+2010-10-13,Suriname,Curaçao,2,1,CFU Caribbean Cup qualification,Paramaribo,Suriname,False
+2010-10-15,Suriname,Saint Lucia,2,1,CFU Caribbean Cup qualification,Paramaribo,Suriname,False
+2010-10-17,Suriname,Guyana,0,2,CFU Caribbean Cup qualification,Paramaribo,Suriname,False
+2010-10-29,Suriname,Bonaire,4,2,ABCS Tournament,Willemstad,Curaçao,True
+2010-10-31,Curaçao,Suriname,2,2,ABCS Tournament,Willemstad,Curaçao,False
+2010-11-10,Antigua and Barbuda,Suriname,2,1,CFU Caribbean Cup qualification,St. John's,Antigua and Barbuda,False
+2010-11-12,Suriname,Cuba,3,3,CFU Caribbean Cup qualification,St. John's,Antigua and Barbuda,True
+2010-11-14,Dominica,Suriname,0,5,CFU Caribbean Cup qualification,St. John's,Antigua and Barbuda,True
+2011-09-02,Suriname,Cayman Islands,1,0,FIFA World Cup qualification,Paramaribo,Suriname,False
+2011-09-06,Dominican Republic,Suriname,1,1,FIFA World Cup qualification,San Cristóbal,Dominican Republic,False
+2011-09-23,Suriname,Curaçao,2,0,Friendly,Paramaribo,Suriname,False
+2011-09-25,Suriname,Curaçao,2,2,Friendly,Paramaribo,Suriname,False
+2011-10-07,Cayman Islands,Suriname,0,1,FIFA World Cup qualification,George Town,Cayman Islands,False
+2011-10-11,Suriname,Dominican Republic,1,3,FIFA World Cup qualification,Paramaribo,Suriname,False
+2011-11-11,Suriname,El Salvador,1,3,FIFA World Cup qualification,Paramaribo,Suriname,False
+2011-11-15,El Salvador,Suriname,4,0,FIFA World Cup qualification,San Salvador,El Salvador,False
+2011-12-02,Suriname,Aruba,0,0,ABCS Tournament,Paramaribo,Suriname,False
+2011-12-04,Suriname,Curaçao,2,0,ABCS Tournament,Paramaribo,Suriname,False
+2012-06-09,French Guiana,Suriname,2,1,Friendly,Cayenne,French Guiana,False
+2012-07-13,Suriname,Bonaire,8,0,ABCS Tournament,Oranjestad,Aruba,True
+2012-07-15,Aruba,Suriname,1,0,ABCS Tournament,Oranjestad,Aruba,False
+2012-09-05,Montserrat,Suriname,1,7,CFU Caribbean Cup qualification,Le Lamentin,Martinique,True
+2012-09-07,British Virgin Islands,Suriname,0,4,CFU Caribbean Cup qualification,Rivière-Pilote,Martinique,True
+2012-09-09,Martinique,Suriname,2,2,CFU Caribbean Cup qualification,Fort-de-France,Martinique,False
+2012-11-14,Cuba,Suriname,5,0,CFU Caribbean Cup qualification,Bacolet,Trinidad and Tobago,True
+2012-11-16,Trinidad and Tobago,Suriname,3,0,CFU Caribbean Cup qualification,Bacolet,Trinidad and Tobago,False
+2013-11-14,Bonaire,Suriname,0,2,ABCS Tournament,Willemstad,Curaçao,True
+2013-11-16,Curaçao,Suriname,1,3,ABCS Tournament,Willemstad,Curaçao,False
+2014-05-20,French Guiana,Suriname,0,0,Friendly,Cayenne,French Guiana,False
+2014-05-27,Suriname,French Guiana,1,0,Friendly,Paramaribo,Suriname,False
+2014-08-24,French Guiana,Suriname,0,1,Friendly,Saint-Laurent-du-Maroni,French Guiana,False
+2014-09-05,Suriname,Bonaire,2,3,CFU Caribbean Cup qualification,Rivière-Pilote,Martinique,True
+2015-01-30,Suriname,Bonaire,3,0,ABCS Tournament,Paramaribo,Suriname,False
+2015-02-01,Suriname,Aruba,1,0,ABCS Tournament,Paramaribo,Suriname,False
+2015-06-07,Nicaragua,Suriname,1,0,FIFA World Cup qualification,Managua,Nicaragua,False
+2015-06-16,Suriname,Nicaragua,1,3,FIFA World Cup qualification,Paramaribo,Suriname,False
+2016-02-21,Guyana,Suriname,2,0,Friendly,Providence,Guyana,False
+2016-02-25,French Guiana,Suriname,2,3,Friendly,Cayenne,French Guiana,False
+2016-03-23,Guadeloupe,Suriname,0,0,CFU Caribbean Cup qualification,Les Abymes,Guadeloupe,False
+2016-03-29,Suriname,Guadeloupe,3,2,CFU Caribbean Cup qualification,Paramaribo,Suriname,False
+2016-06-01,Saint Kitts and Nevis,Suriname,1,0,CFU Caribbean Cup qualification,Basseterre,Saint Kitts and Nevis,False
+2016-10-08,Suriname,Guyana,3,2,CFU Caribbean Cup qualification,Paramaribo,Suriname,False
+2016-11-13,Jamaica,Suriname,1,0,CFU Caribbean Cup qualification,Kingston,Jamaica,False
+2017-01-04,Trinidad and Tobago,Suriname,1,2,CFU Caribbean Cup qualification,Couva,Trinidad and Tobago,False
+2017-01-06,Suriname,Haiti,2,4,CFU Caribbean Cup qualification,Couva,Trinidad and Tobago,True
+2018-09-06,Dominica,Suriname,0,0,CONCACAF Nations League qualification,Les Abymes,Guadeloupe,True
+2018-10-13,Suriname,British Virgin Islands,5,0,CONCACAF Nations League qualification,Paramaribo,Suriname,False
+2018-11-17,Jamaica,Suriname,2,1,CONCACAF Nations League qualification,Kingston,Jamaica,False
+2019-03-23,Suriname,Saint Kitts and Nevis,2,0,CONCACAF Nations League qualification,Paramaribo,Suriname,False
+2019-09-05,Dominica,Suriname,1,2,CONCACAF Nations League,Roseau,Dominica,False
+2019-09-08,Suriname,Nicaragua,6,0,CONCACAF Nations League,Paramaribo,Suriname,False
+2019-10-11,Saint Vincent and the Grenadines,Suriname,2,2,CONCACAF Nations League,Arnos Vale,Saint Vincent and the Grenadines,False
+2019-10-14,Suriname,Saint Vincent and the Grenadines,0,1,CONCACAF Nations League,Paramaribo,Suriname,False
+2019-11-15,Suriname,Dominica,4,0,CONCACAF Nations League,Paramaribo,Suriname,False
+2019-11-18,Nicaragua,Suriname,1,2,CONCACAF Nations League,Managua,Nicaragua,False
+2021-03-24,Suriname,Cayman Islands,3,0,FIFA World Cup qualification,Paramaribo,Suriname,False
+2021-03-27,Aruba,Suriname,0,6,FIFA World Cup qualification,Bradenton,United States,True
+2021-06-04,Suriname,Bermuda,6,0,FIFA World Cup qualification,Paramaribo,Suriname,False
+2021-06-08,Canada,Suriname,4,0,FIFA World Cup qualification,Bridgeview,United States,True
+2021-07-12,Jamaica,Suriname,2,0,Gold Cup,Orlando,United States,True
+2021-07-16,Suriname,Costa Rica,1,2,Gold Cup,Orlando,United States,True
+2021-07-20,Suriname,Guadeloupe,2,1,Gold Cup,Houston,United States,True
+2022-01-28,Suriname,Barbados,1,0,Friendly,Paramaribo,Suriname,False
+2022-02-01,Suriname,Guyana,2,1,Friendly,Paramaribo,Suriname,False
+2022-03-27,Thailand,Suriname,1,0,Friendly,Pathum Thani,Thailand,False
+2022-06-04,Suriname,Jamaica,1,1,CONCACAF Nations League,Paramaribo,Suriname,False
+2022-06-07,Jamaica,Suriname,3,1,CONCACAF Nations League,Kingston,Jamaica,False
+2022-06-11,Mexico,Suriname,3,0,CONCACAF Nations League,Torreón,Mexico,False
+2022-09-22,Suriname,Nicaragua,2,1,Friendly,Almere,Netherlands,True
+2023-03-23,Suriname,Mexico,0,2,CONCACAF Nations League,Paramaribo,Suriname,False
+2023-06-17,Suriname,Puerto Rico,0,0,Gold Cup qualification,Fort Lauderdale,United States,True
+2023-09-08,Grenada,Suriname,1,1,CONCACAF Nations League,St. George's,Grenada,False
+2023-09-12,Cuba,Suriname,1,0,CONCACAF Nations League,Santiago,Cuba,False
+2023-10-12,Suriname,Haiti,1,1,CONCACAF Nations League,Paramaribo,Suriname,False
+2023-10-15,Suriname,Grenada,4,0,CONCACAF Nations League,Paramaribo,Suriname,False
+2024-03-24,Suriname,Martinique,1,1,Friendly,Almere,Netherlands,True
+2024-06-05,Suriname,Saint Vincent and the Grenadines,4,1,FIFA World Cup qualification,Paramaribo,Suriname,False
+2024-06-08,Anguilla,Suriname,0,4,FIFA World Cup qualification,The Valley,Anguilla,False
+2024-09-05,Guyana,Suriname,1,3,CONCACAF Nations League,Leonora,Guyana,False
+2024-09-09,Guadeloupe,Suriname,1,0,CONCACAF Nations League,Le Gosier,Guadeloupe,False
+2024-10-11,Suriname,Costa Rica,1,1,CONCACAF Nations League,Paramaribo,Suriname,False
+2024-10-15,Suriname,Guyana,5,1,CONCACAF Nations League,Paramaribo,Suriname,False
+2024-11-15,Suriname,Canada,0,1,CONCACAF Nations League,Paramaribo,Suriname,False
+2024-11-19,Canada,Suriname,3,0,CONCACAF Nations League,Toronto,Canada,False
+2025-03-21,Suriname,Martinique,1,0,Gold Cup qualification,Paramaribo,Suriname,False
+2025-03-25,Martinique,Suriname,0,1,Gold Cup qualification,Fort de France,Martinique,False

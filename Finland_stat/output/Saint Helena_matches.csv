@@ -1,0 +1,9 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+2019-06-12,Ynys Môn,Saint Helena,7,2,Friendly,Anglesey,Wales,False
+2019-06-16,Saint Helena,Shetland,1,6,Inter Games Football Tournament,Anglesey,Wales,True
+2019-06-18,Guernsey,Saint Helena,9,0,Inter Games Football Tournament,Anglesey,Wales,True
+2019-06-20,Western Isles,Saint Helena,2,1,Inter Games Football Tournament,Anglesey,Wales,True
+2023-07-09,Menorca,Saint Helena,5,0,Island Games,Saint Sampson,Guernsey,True
+2023-07-10,Gozo,Saint Helena,3,0,Island Games,Saint Sampson,Guernsey,True
+2023-07-11,Saint Helena,Jersey,0,5,Island Games,Saint Sampson,Guernsey,True
+2023-07-13,Frøya,Saint Helena,4,2,Island Games,Saint Martin,Guernsey,True

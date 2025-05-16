@@ -1,0 +1,13 @@
+001_Probability Foundations for Data Science
+
+––––––––––– 08 May 2025
+
+Probability Foundations for Data Science
+
+
+
+Watched: 
+
+02
+    02 - Random variables
+    03 - Discrete distributions

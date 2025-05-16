@@ -1,0 +1,89 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+from IPython.display import display
+
+def plot_total_matches(df, countries=None, interval=20, top_n=10):
+    """
+    Visualizes total matches played by top countries in time intervals.
+    Args:
+        df: DataFrame containing match data
+        countries: Optional list of countries to analyze
+        interval: Years per time group (default 20)
+        top_n: Number of top countries to show (default 10)
+    """
+    # Select top countries if none specified
+    if not countries:
+        total_matches = (df['Home_team'].value_counts() + 
+                        df['Away_team'].value_counts())
+        country_list = total_matches.nlargest(top_n).index.tolist()
+    else:
+        country_list = countries[:top_n]  # Ensure we only take top_n even if more countries provided
+
+    # Filter and process data
+    matches = df[
+        (df['Home_team'].isin(country_list)) | 
+        (df['Away_team'].isin(country_list))
+    ].copy()
+    
+    # Extract year and create groups
+    matches['Year'] = pd.to_datetime(matches['Date']).dt.year
+    matches['Year_Group'] = (matches['Year'] // interval) * interval
+
+    # Melt to combine home/away teams
+    melted = matches.melt(
+        id_vars=['Year_Group'],
+        value_vars=['Home_team', 'Away_team'],
+        value_name='Team'
+    )
+    
+    # Aggregate matches per country per time period
+    group_data = melted.groupby(['Year_Group', 'Team']).size().unstack(fill_value=0)
+    
+    # Select only our top countries (in case melting added others)
+    plot_data = group_data[country_list]
+
+    # Display data table
+    print(f"\n{'='*50}\nTotal Matches (Top {len(country_list)} Countries)\n{'='*50}")
+    display(plot_data.style.background_gradient(cmap='Blues', axis=0))
+
+    ###################################################################
+    ###################################################################
+    # Create the visualization
+    plt.figure(figsize=(12, 6))
+    
+    # Convert to long format for Seaborn
+    plot_data_long = plot_data.reset_index().melt(
+        id_vars='Year_Group',
+        var_name='Country',
+        value_name='Matches'
+    )
+    
+    # Plot with Seaborn
+    sns.barplot(
+        data=plot_data_long,
+        x='Year_Group',
+        y='Matches',
+        hue='Country',
+        palette='tab20',
+        dodge=True  # Side-by-side bars
+    )
+    
+    # Customize plot
+    plt.title(f'Top {top_n} Countries by Total Matches\n({interval}-Year Intervals)', pad=20)
+    plt.xlabel('Year Group')
+    plt.ylabel('Number of Matches')
+    plt.xticks(rotation=45)
+    plt.legend(
+        title='Country',
+        bbox_to_anchor=(1.05, 1),
+        frameon=False
+    )
+    plt.tight_layout()
+    plt.show()
+    
+    return plot_data
+
+# Example Usage
+df = pd.read_csv("Datasets/Sports_Football_1872_2025.csv")
+result = plot_total_matches(df, interval=20, top_n=8)

@@ -1,0 +1,12 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+2012-09-25,Abkhazia,Artsakh,1,1,Friendly,Sukhumi,Georgia,False
+2012-10-21,Artsakh,Abkhazia,3,0,Friendly,Stepanakert,Azerbaijan,False
+2014-06-01,Ellan Vannin,Artsakh,3,2,CONIFA World Football Cup,Östersund,Sweden,True
+2014-06-03,Artsakh,County of Nice,0,1,CONIFA World Football Cup,Östersund,Sweden,True
+2014-06-05,Darfur,Artsakh,0,12,CONIFA World Football Cup,Östersund,Sweden,True
+2014-06-07,Sápmi,Artsakh,1,5,CONIFA World Football Cup,Östersund,Sweden,False
+2019-06-02,Artsakh,Sápmi,3,2,CONIFA European Football Cup,Stepanakert,Azerbaijan,False
+2019-06-03,Artsakh,Chameria,1,4,CONIFA European Football Cup,Martuni,Azerbaijan,False
+2019-06-04,Artsakh,Abkhazia,1,1,CONIFA European Football Cup,Martuni,Azerbaijan,False
+2019-06-06,Artsakh,Székely Land,2,1,CONIFA European Football Cup,Martuni,Azerbaijan,False
+2019-06-08,Artsakh,Padania,2,0,CONIFA European Football Cup,Stepanakert,Azerbaijan,False

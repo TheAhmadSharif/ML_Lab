@@ -1,0 +1,171 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1992-06-01,Kazakhstan,Turkmenistan,1,0,Friendly,Almaty,Kazakhstan,False
+1992-06-28,Uzbekistan,Turkmenistan,2,1,Friendly,Tashkent,Uzbekistan,False
+1992-07-11,Turkmenistan,Tajikistan,3,3,Friendly,Ashgabat,Turkmenistan,False
+1992-09-14,Turkmenistan,Kazakhstan,1,1,Friendly,Ashgabat,Turkmenistan,False
+1992-10-14,Turkmenistan,Kyrgyzstan,4,0,Friendly,Ashgabat,Turkmenistan,False
+1992-10-25,Turkmenistan,Uzbekistan,1,0,Friendly,Ashgabat,Turkmenistan,False
+1993-06-02,Turkmenistan,Tajikistan,6,0,Friendly,Ashgabat,Turkmenistan,False
+1993-06-07,Pakistan,Turkmenistan,0,4,Friendly,Tehran,Iran,True
+1993-06-08,Iran,Turkmenistan,2,1,Friendly,Tehran,Iran,False
+1993-06-14,Iran,Turkmenistan,2,1,Friendly,Tehran,Iran,False
+1994-04-11,Uzbekistan,Turkmenistan,4,0,Friendly,Tashkent,Uzbekistan,False
+1994-04-13,Kyrgyzstan,Turkmenistan,1,5,Friendly,Tashkent,Uzbekistan,True
+1994-04-15,Kazakhstan,Turkmenistan,0,0,Friendly,Tashkent,Uzbekistan,True
+1994-04-19,Tajikistan,Turkmenistan,0,2,Friendly,Tashkent,Uzbekistan,True
+1994-10-01,Turkmenistan,China PR,2,2,Asian Games,Hiroshima,Japan,True
+1994-10-05,Iran,Turkmenistan,1,1,Asian Games,Onomichi,Japan,True
+1994-10-07,Yemen,Turkmenistan,0,4,Asian Games,Hiroshima,Japan,True
+1994-10-09,Bahrain,Turkmenistan,2,2,Asian Games,Miyoshi,Japan,True
+1994-10-11,Uzbekistan,Turkmenistan,3,0,Asian Games,Miyoshi,Japan,True
+1996-03-10,Turkmenistan,Kuwait,2,2,AFC Asian Cup qualification,Ashgabat,Turkmenistan,False
+1996-03-22,Kuwait,Turkmenistan,2,0,AFC Asian Cup qualification,Kuwait City,Kuwait,False
+1996-04-26,Turkmenistan,Iran,1,1,Friendly,Ashgabat,Turkmenistan,False
+1996-04-28,Turkmenistan,Iran,0,1,Friendly,Ashgabat,Turkmenistan,False
+1996-05-12,Lebanon,Turkmenistan,3,1,AFC Asian Cup qualification,Beirut,Lebanon,False
+1996-05-26,Turkmenistan,Lebanon,0,1,AFC Asian Cup qualification,Ashgabat,Turkmenistan,False
+1996-11-25,Iran,Turkmenistan,0,1,Friendly,Tehran,Iran,False
+1997-03-22,Azerbaijan,Turkmenistan,3,0,Friendly,Baku,Azerbaijan,False
+1997-04-25,Turkmenistan,Azerbaijan,2,0,Friendly,Ashgabat,Turkmenistan,False
+1997-05-04,Turkmenistan,China PR,1,4,FIFA World Cup qualification,Ashgabat,Turkmenistan,False
+1997-05-11,Turkmenistan,Vietnam,2,1,FIFA World Cup qualification,Ashgabat,Turkmenistan,False
+1997-05-25,Turkmenistan,Tajikistan,1,2,FIFA World Cup qualification,Ashgabat,Turkmenistan,False
+1997-06-01,China PR,Turkmenistan,1,0,FIFA World Cup qualification,Beijing,China PR,False
+1997-06-08,Vietnam,Turkmenistan,0,4,FIFA World Cup qualification,Ho Chi Minh City,Vietnam,False
+1997-06-22,Tajikistan,Turkmenistan,5,0,FIFA World Cup qualification,Dushanbe,Tajikistan,False
+1998-11-21,Thailand,Turkmenistan,3,3,Friendly,Bangkok,Thailand,False
+1998-11-30,Turkmenistan,Vietnam,2,0,Asian Games,Nakhon Sawan,Thailand,True
+1998-12-02,South Korea,Turkmenistan,2,3,Asian Games,Nakhon Sawan,Thailand,True
+1998-12-07,Turkmenistan,India,3,2,Asian Games,Bangkok,Thailand,True
+1998-12-09,North Korea,Turkmenistan,1,1,Asian Games,Bangkok,Thailand,True
+1998-12-11,Uzbekistan,Turkmenistan,1,1,Asian Games,Bangkok,Thailand,True
+1998-12-14,Turkmenistan,China PR,0,3,Asian Games,Bangkok,Thailand,True
+1999-10-30,United Arab Emirates,Turkmenistan,3,1,United Arab Emirates Friendship Tournament,Abu Dhabi,United Arab Emirates,False
+1999-11-01,Iraq,Turkmenistan,3,0,United Arab Emirates Friendship Tournament,Abu Dhabi,United Arab Emirates,True
+1999-11-03,Turkmenistan,Estonia,1,1,United Arab Emirates Friendship Tournament,Abu Dhabi,United Arab Emirates,True
+2000-02-10,Kuwait,Turkmenistan,6,1,AFC Asian Cup qualification,Kuwait City,Kuwait,False
+2000-02-12,Yemen,Turkmenistan,0,1,AFC Asian Cup qualification,Kuwait City,Kuwait,True
+2000-02-14,Turkmenistan,Nepal,5,0,AFC Asian Cup qualification,Kuwait City,Kuwait,True
+2000-02-16,Bhutan,Turkmenistan,0,8,AFC Asian Cup qualification,Kuwait City,Kuwait,True
+2000-10-08,Uzbekistan,Turkmenistan,3,0,Friendly,Tashkent,Uzbekistan,False
+2001-04-23,Turkmenistan,Jordan,2,0,FIFA World Cup qualification,Tashkent,Uzbekistan,True
+2001-04-25,Uzbekistan,Turkmenistan,1,0,FIFA World Cup qualification,Tashkent,Uzbekistan,False
+2001-04-27,Taiwan,Turkmenistan,0,5,FIFA World Cup qualification,Tashkent,Uzbekistan,True
+2001-05-03,Turkmenistan,Uzbekistan,2,5,FIFA World Cup qualification,Amman,Jordan,True
+2001-05-05,Jordan,Turkmenistan,1,2,FIFA World Cup qualification,Amman,Jordan,False
+2001-05-07,Turkmenistan,Taiwan,1,0,FIFA World Cup qualification,Amman,Jordan,True
+2003-10-19,Turkmenistan,United Arab Emirates,1,0,AFC Asian Cup qualification,Ashgabat,Turkmenistan,False
+2003-10-30,United Arab Emirates,Turkmenistan,1,1,AFC Asian Cup qualification,Sharjah,United Arab Emirates,False
+2003-11-09,Turkmenistan,Sri Lanka,1,0,AFC Asian Cup qualification,Balkanabat,Turkmenistan,False
+2003-11-12,Turkmenistan,Sri Lanka,3,0,AFC Asian Cup qualification,Ashgabat,Turkmenistan,False
+2003-11-19,Turkmenistan,Afghanistan,11,0,FIFA World Cup qualification,Ashgabat,Turkmenistan,False
+2003-11-23,Afghanistan,Turkmenistan,0,2,FIFA World Cup qualification,Kabul,Afghanistan,False
+2003-11-28,Syria,Turkmenistan,1,1,AFC Asian Cup qualification,Aleppo,Syria,False
+2004-02-18,Turkmenistan,Sri Lanka,2,0,FIFA World Cup qualification,Ashgabat,Turkmenistan,False
+2004-03-17,Yemen,Turkmenistan,1,2,Friendly,Sana'a,Yemen,False
+2004-03-31,Turkmenistan,Indonesia,3,1,FIFA World Cup qualification,Ashgabat,Turkmenistan,False
+2004-04-28,Armenia,Turkmenistan,1,0,Friendly,Yerevan,Armenia,False
+2004-05-31,Qatar,Turkmenistan,5,0,Friendly,Doha,Qatar,False
+2004-06-09,Saudi Arabia,Turkmenistan,3,0,FIFA World Cup qualification,Riyadh,Saudi Arabia,False
+2004-07-18,Saudi Arabia,Turkmenistan,2,2,AFC Asian Cup,Chengdu,China PR,True
+2004-07-22,Turkmenistan,Iraq,2,3,AFC Asian Cup,Chengdu,China PR,True
+2004-07-26,Turkmenistan,Uzbekistan,0,1,AFC Asian Cup,Chongqing,China PR,True
+2004-09-08,Turkmenistan,Saudi Arabia,0,1,FIFA World Cup qualification,Ashgabat,Turkmenistan,False
+2004-10-09,Sri Lanka,Turkmenistan,2,2,FIFA World Cup qualification,Colombo,Sri Lanka,False
+2004-11-17,Indonesia,Turkmenistan,3,1,FIFA World Cup qualification,Jakarta,Indonesia,False
+2005-01-29,Saudi Arabia,Turkmenistan,1,0,Friendly,Riyadh,Saudi Arabia,False
+2005-08-03,Bahrain,Turkmenistan,5,0,Friendly,Manama,Bahrain,False
+2007-06-25,Qatar,Turkmenistan,1,0,Friendly,Doha,Qatar,False
+2007-08-22,Lithuania,Turkmenistan,2,1,Friendly,Kaunas,Lithuania,False
+2007-10-11,Cambodia,Turkmenistan,0,1,FIFA World Cup qualification,Phnom Penh,Cambodia,False
+2007-10-28,Turkmenistan,Cambodia,4,1,FIFA World Cup qualification,Ashgabat,Turkmenistan,False
+2007-11-10,Hong Kong,Turkmenistan,0,0,FIFA World Cup qualification,So Kon Po,Hong Kong,False
+2007-11-18,Turkmenistan,Hong Kong,3,0,FIFA World Cup qualification,Ashgabat,Turkmenistan,False
+2008-02-06,South Korea,Turkmenistan,4,0,FIFA World Cup qualification,Seoul,South Korea,False
+2008-03-26,Turkmenistan,Jordan,0,2,FIFA World Cup qualification,Ashgabat,Turkmenistan,False
+2008-05-18,Oman,Turkmenistan,2,1,Friendly,Nizwa,Oman,False
+2008-06-02,Turkmenistan,North Korea,0,0,FIFA World Cup qualification,Ashgabat,Turkmenistan,False
+2008-06-07,North Korea,Turkmenistan,1,0,FIFA World Cup qualification,Pyongyang,North Korea,False
+2008-06-14,Turkmenistan,South Korea,1,3,FIFA World Cup qualification,Ashgabat,Turkmenistan,False
+2008-06-22,Jordan,Turkmenistan,2,0,FIFA World Cup qualification,Amman,Jordan,False
+2008-07-30,Turkmenistan,Tajikistan,0,0,AFC Challenge Cup,Hyderabad,India,True
+2008-08-01,Afghanistan,Turkmenistan,0,5,AFC Challenge Cup,Hyderabad,India,True
+2008-08-03,India,Turkmenistan,2,1,AFC Challenge Cup,Hyderabad,India,False
+2008-10-03,Myanmar,Turkmenistan,1,2,Friendly,Ho Chi Minh City,Vietnam,True
+2009-01-18,Syria,Turkmenistan,5,1,Friendly,Kuwait City,Kuwait,True
+2009-01-20,Kuwait,Turkmenistan,2,0,Friendly,Kuwait City,Kuwait,False
+2009-04-14,Maldives,Turkmenistan,1,3,AFC Challenge Cup qualification,Malé,Maldives,False
+2009-04-16,Bhutan,Turkmenistan,0,7,AFC Challenge Cup qualification,Malé,Maldives,True
+2009-04-18,Turkmenistan,Philippines,5,0,AFC Challenge Cup qualification,Malé,Maldives,True
+2009-10-20,Vietnam,Turkmenistan,1,0,Friendly,Ho Chi Minh City,Vietnam,False
+2009-10-22,Singapore,Turkmenistan,4,2,Friendly,Ho Chi Minh City,Vietnam,True
+2010-02-17,North Korea,Turkmenistan,1,1,AFC Challenge Cup,Colombo,Sri Lanka,True
+2010-02-21,Turkmenistan,Kyrgyzstan,1,0,AFC Challenge Cup,Colombo,Sri Lanka,True
+2010-02-24,Tajikistan,Turkmenistan,0,2,AFC Challenge Cup,Colombo,Sri Lanka,True
+2010-02-25,Turkmenistan,North Korea,1,1,AFC Challenge Cup,Colombo,Sri Lanka,True
+2011-03-21,Turkmenistan,Pakistan,3,0,AFC Challenge Cup qualification,Petaling Jaya,Malaysia,True
+2011-03-25,Turkmenistan,India,1,1,AFC Challenge Cup qualification,Petaling Jaya,Malaysia,True
+2011-07-23,Turkmenistan,Indonesia,1,1,FIFA World Cup qualification,Ashgabat,Turkmenistan,False
+2011-07-28,Indonesia,Turkmenistan,4,3,FIFA World Cup qualification,Jakarta,Indonesia,False
+2012-01-27,Romania,Turkmenistan,4,0,Friendly,Belek,Turkey,True
+2012-03-08,Turkmenistan,Maldives,3,1,AFC Challenge Cup,Kathmandu,Nepal,True
+2012-03-10,Palestine,Turkmenistan,0,0,AFC Challenge Cup,Kathmandu,Nepal,True
+2012-03-12,Nepal,Turkmenistan,0,3,AFC Challenge Cup,Kathmandu,Nepal,False
+2012-03-16,Turkmenistan,Philippines,2,1,AFC Challenge Cup,Kathmandu,Nepal,True
+2012-03-19,Turkmenistan,North Korea,1,2,AFC Challenge Cup,Kathmandu,Nepal,True
+2012-10-24,Vietnam,Turkmenistan,0,1,VFF Cup,Ho Chi Minh City,Vietnam,False
+2012-10-28,Laos,Turkmenistan,2,4,VFF Cup,Ho Chi Minh City,Vietnam,True
+2013-03-22,Turkmenistan,Cambodia,7,0,AFC Challenge Cup qualification,Manila,Philippines,True
+2013-03-26,Philippines,Turkmenistan,1,0,AFC Challenge Cup qualification,Manila,Philippines,False
+2014-05-20,Turkmenistan,Laos,5,1,AFC Challenge Cup,Addu City,Maldives,True
+2014-05-22,Afghanistan,Turkmenistan,3,1,AFC Challenge Cup,Addu City,Maldives,True
+2014-05-24,Turkmenistan,Philippines,0,2,AFC Challenge Cup,Malé,Maldives,True
+2015-06-11,Guam,Turkmenistan,1,0,FIFA World Cup qualification,Dededo,Guam,False
+2015-06-16,Turkmenistan,Iran,1,1,FIFA World Cup qualification,Daşoguz,Turkmenistan,False
+2015-09-03,Oman,Turkmenistan,3,1,FIFA World Cup qualification,Seeb,Oman,False
+2015-10-08,Turkmenistan,India,2,1,FIFA World Cup qualification,Ashgabat,Turkmenistan,False
+2015-10-13,Turkmenistan,Guam,1,0,FIFA World Cup qualification,Ashgabat,Turkmenistan,False
+2015-11-05,United Arab Emirates,Turkmenistan,5,1,Friendly,Abu Dhabi,United Arab Emirates,False
+2015-11-12,Iran,Turkmenistan,3,1,FIFA World Cup qualification,Tehran,Iran,False
+2015-11-17,Turkmenistan,Oman,2,1,FIFA World Cup qualification,Ashgabat,Turkmenistan,False
+2016-03-29,India,Turkmenistan,1,2,FIFA World Cup qualification,Kochi,India,False
+2016-08-08,Oman,Turkmenistan,1,0,Friendly,Muscat,Oman,False
+2016-10-11,Kyrgyzstan,Turkmenistan,1,0,Friendly,Bishkek,Kyrgyzstan,False
+2016-11-09,Tajikistan,Turkmenistan,3,0,Friendly,Dushanbe,Tajikistan,False
+2017-06-13,Turkmenistan,Bahrain,1,2,AFC Asian Cup qualification,Daşoguz,Turkmenistan,False
+2017-08-23,Qatar,Turkmenistan,2,1,Friendly,Al Rayyan,Qatar,False
+2017-09-05,Singapore,Turkmenistan,1,1,AFC Asian Cup qualification,Kallang,Singapore,False
+2017-10-10,Turkmenistan,Singapore,2,1,AFC Asian Cup qualification,Ashgabat,Turkmenistan,False
+2017-11-14,Turkmenistan,Taiwan,2,1,AFC Asian Cup qualification,Balkanabat,Turkmenistan,False
+2018-03-27,Bahrain,Turkmenistan,4,0,AFC Asian Cup qualification,Riffa,Bahrain,False
+2018-12-25,Afghanistan,Turkmenistan,0,2,Friendly,Antalya,Turkey,True
+2019-01-09,Japan,Turkmenistan,3,2,AFC Asian Cup,Abu Dhabi,United Arab Emirates,True
+2019-01-13,Turkmenistan,Uzbekistan,0,4,AFC Asian Cup,Dubai,United Arab Emirates,True
+2019-01-17,Oman,Turkmenistan,3,1,AFC Asian Cup,Abu Dhabi,United Arab Emirates,True
+2019-06-09,Turkmenistan,Uganda,0,0,Friendly,Abu Dhabi,United Arab Emirates,True
+2019-09-05,Sri Lanka,Turkmenistan,0,2,FIFA World Cup qualification,Colombo,Sri Lanka,False
+2019-09-10,Turkmenistan,South Korea,0,2,FIFA World Cup qualification,Ashgabat,Turkmenistan,False
+2019-10-10,Lebanon,Turkmenistan,2,1,FIFA World Cup qualification,Beirut,Lebanon,False
+2019-10-15,Kuwait,Turkmenistan,1,1,Friendly,Kuwait City,Kuwait,False
+2019-11-14,Turkmenistan,North Korea,3,1,FIFA World Cup qualification,Ashgabat,Turkmenistan,False
+2019-11-19,Turkmenistan,Sri Lanka,2,0,FIFA World Cup qualification,Ashgabat,Turkmenistan,False
+2021-06-05,South Korea,Turkmenistan,5,0,FIFA World Cup qualification,Goyang,South Korea,False
+2021-06-09,Turkmenistan,Lebanon,3,2,FIFA World Cup qualification,Goyang,South Korea,True
+2022-05-27,Thailand,Turkmenistan,1,0,Friendly,Sisaket,Thailand,False
+2022-06-08,Malaysia,Turkmenistan,3,1,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,False
+2022-06-11,Bangladesh,Turkmenistan,1,2,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,True
+2022-06-14,Bahrain,Turkmenistan,1,0,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,True
+2023-03-23,Malaysia,Turkmenistan,1,0,Friendly,Johor Bahru,Malaysia,False
+2023-06-11,Tajikistan,Turkmenistan,1,1,CAFA Nations Cup,Tashkent,Uzbekistan,True
+2023-06-14,Uzbekistan,Turkmenistan,2,0,CAFA Nations Cup,Tashkent,Uzbekistan,False
+2023-06-17,Turkmenistan,Oman,0,2,CAFA Nations Cup,Tashkent,Uzbekistan,True
+2023-09-08,Indonesia,Turkmenistan,2,0,Friendly,Surabaya,Indonesia,False
+2023-09-12,Bahrain,Turkmenistan,1,1,Friendly,Dubai,United Arab Emirates,True
+2023-11-16,Turkmenistan,Uzbekistan,1,3,FIFA World Cup qualification,Ashgabat,Turkmenistan,False
+2023-11-21,Hong Kong,Turkmenistan,2,2,FIFA World Cup qualification,Hong Kong,Hong Kong,False
+2024-03-14,Kazakhstan,Turkmenistan,2,0,Friendly,Dubai,United Arab Emirates,True
+2024-03-21,Iran,Turkmenistan,5,0,FIFA World Cup qualification,Tehran,Iran,False
+2024-03-26,Turkmenistan,Iran,0,1,FIFA World Cup qualification,Ashgabat,Turkmenistan,False
+2024-06-06,Uzbekistan,Turkmenistan,3,1,FIFA World Cup qualification,Tashkent,Uzbekistan,False
+2024-06-11,Turkmenistan,Hong Kong,0,0,FIFA World Cup qualification,Ashgabat,Turkmenistan,False
+2025-03-25,Taiwan,Turkmenistan,1,2,AFC Asian Cup qualification,Kaohsiung,Taiwan,False

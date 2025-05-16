@@ -1,0 +1,695 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1926-05-01,Kenya,Uganda,1,1,Friendly,Nairobi,Kenya,False
+1926-05-03,Kenya,Uganda,2,1,Friendly,Nairobi,Kenya,False
+1928-04-15,Uganda,Kenya,4,0,Friendly,Kampala,Uganda,False
+1929-05-15,Kenya,Uganda,3,5,Friendly,Nairobi,Kenya,False
+1930-02-16,Kenya,Uganda,0,0,Friendly,Nairobi,Kenya,False
+1930-05-01,Uganda,Kenya,5,0,Friendly,Kampala,Uganda,False
+1931-10-17,Kenya,Uganda,2,1,Friendly,Nairobi,Kenya,False
+1932-08-25,Uganda,Kenya,13,1,Friendly,Kampala,Uganda,False
+1935-02-22,Uganda,Kenya,5,1,Friendly,Kampala,Uganda,False
+1935-05-11,Kenya,Uganda,1,3,Friendly,Nairobi,Kenya,False
+1937-05-17,Uganda,Kenya,9,5,Friendly,Kampala,Uganda,False
+1938-10-10,Kenya,Uganda,1,3,Friendly,Nairobi,Kenya,False
+1939-11-28,Uganda,Kenya,5,2,Friendly,Kampala,Uganda,False
+1940-02-20,Kenya,Uganda,3,6,Friendly,Nairobi,Kenya,False
+1941-02-22,Uganda,Kenya,3,4,Friendly,Kampala,Uganda,False
+1942-07-07,Kenya,Uganda,4,3,Friendly,Nairobi,Kenya,False
+1943-03-19,Uganda,Kenya,2,1,Friendly,Kampala,Uganda,False
+1944-11-07,Kenya,Uganda,2,1,Friendly,Nairobi,Kenya,False
+1945-04-14,Uganda,Kenya,4,1,Friendly,Kampala,Uganda,False
+1946-09-18,Kenya,Tanzania,3,0,Friendly,Nairobi,Kenya,False
+1946-09-21,Kenya,Uganda,2,1,Friendly,Nairobi,Kenya,False
+1947-09-17,Kenya,Uganda,2,3,Friendly,Dar es Salaam,Tanganyika,True
+1948-09-22,Kenya,Zanzibar,3,1,Friendly,Kampala,Uganda,True
+1948-09-25,Uganda,Kenya,2,1,Friendly,Kampala,Uganda,False
+1949-12-06,Zanzibar,Kenya,2,3,Friendly,Zanzibar City,Zanzibar,False
+1949-12-08,Kenya,Tanzania,0,2,Friendly,Zanzibar City,Zanzibar,True
+1950-10-11,Kenya,Uganda,3,1,Friendly,Nairobi,Kenya,False
+1950-10-14,Kenya,Tanzania,1,1,Friendly,Nairobi,Kenya,False
+1950-10-16,Kenya,Tanzania,1,2,Friendly,Nairobi,Kenya,False
+1951-09-25,Kenya,Uganda,2,1,Friendly,Dar es Salaam,Tanganyika,True
+1951-09-29,Tanzania,Kenya,3,2,Friendly,Dar es Salaam,Tanganyika,False
+1952-09-24,Kenya,Zanzibar,7,1,Friendly,Kampala,Uganda,True
+1952-09-27,Uganda,Kenya,6,3,Friendly,Kampala,Uganda,False
+1953-09-30,Kenya,Tanzania,7,1,Friendly,Zanzibar City,Zanzibar,True
+1953-10-03,Kenya,Uganda,6,2,Friendly,Zanzibar City,Zanzibar,True
+1954-10-05,Kenya,Zanzibar,5,0,Friendly,Nairobi,Kenya,False
+1954-10-09,Kenya,Uganda,2,2,Friendly,Nairobi,Kenya,False
+1954-10-10,Kenya,Uganda,1,4,Friendly,Nairobi,Kenya,False
+1955-10-11,Kenya,Uganda,0,1,Friendly,Dar es Salaam,Tanganyika,True
+1955-10-13,Kenya,Zanzibar,8,0,Friendly,Dar es Salaam,Tanganyika,True
+1956-11-27,Tanzania,Kenya,0,9,Friendly,Kampala,Uganda,True
+1956-12-01,Uganda,Kenya,3,2,Friendly,Kampala,Uganda,False
+1957-09-04,Zanzibar,Kenya,1,5,Friendly,Zanzibar City,Zanzibar,False
+1957-09-07,Kenya,Uganda,1,2,Friendly,Zanzibar City,Zanzibar,True
+1958-10-05,Kenya,Tanzania,3,1,Friendly,Nairobi,Kenya,False
+1958-10-08,Kenya,Zanzibar,4,0,Friendly,Nairobi,Kenya,False
+1958-10-11,Kenya,Uganda,2,0,Friendly,Nairobi,Kenya,False
+1959-04-14,Kenya,Réunion,1,0,Friendly,Nairobi,Kenya,False
+1959-10-04,Kenya,Uganda,0,0,Friendly,Dar es Salaam,Tanganyika,True
+1959-10-07,Kenya,Zanzibar,5,0,Friendly,Dar es Salaam,Tanganyika,True
+1959-10-10,Tanzania,Kenya,0,2,Friendly,Dar es Salaam,Tanganyika,False
+1960-10-10,Kenya,Zanzibar,4,1,Friendly,Kampala,Uganda,True
+1960-10-12,Kenya,Tanzania,5,0,Friendly,Kampala,Uganda,True
+1960-10-15,Uganda,Kenya,1,1,Friendly,Kampala,Uganda,False
+1961-08-05,Kenya,Uganda,0,1,African Cup of Nations qualification,Nairobi,Kenya,False
+1961-09-23,Uganda,Kenya,0,1,African Cup of Nations qualification,Kampala,Uganda,False
+1961-10-01,Kenya,Tanzania,0,0,Friendly,Mombasa,Kenya,False
+1961-10-04,Kenya,Zanzibar,10,0,Friendly,Mombasa,Kenya,False
+1961-10-07,Kenya,Uganda,2,1,Friendly,Mombasa,Kenya,False
+1961-10-29,Uganda,Kenya,2,0,African Cup of Nations qualification,Kampala,Uganda,False
+1961-12-03,Kenya,Zanzibar,4,0,Friendly,Dar es Salaam,Tanganyika,True
+1961-12-07,Kenya,Uganda,4,1,Friendly,Dar es Salaam,Tanganyika,True
+1961-12-09,Tanzania,Kenya,1,3,Friendly,Dar es Salaam,Tanganyika,False
+1961-12-31,Ethiopia,Kenya,4,3,Friendly,Addis Ababa,Ethiopia,False
+1962-01-07,Ethiopia,Kenya,6,1,Friendly,Addis Ababa,Ethiopia,False
+1962-07-06,Kenya,Zanzibar,5,0,Friendly,Mombasa,Kenya,False
+1962-07-28,Kenya,Tanzania,4,3,Friendly,Nairobi,Kenya,False
+1962-09-01,Uganda,Kenya,3,1,Friendly,Kampala,Uganda,False
+1962-09-29,Ghana,Kenya,6,3,Friendly,Kampala,Uganda,True
+1962-10-12,Kenya,Ghana,0,4,Friendly,Nairobi,Kenya,False
+1962-11-05,Kenya,Uganda,4,1,Friendly,Nairobi,Kenya,False
+1963-06-01,Kenya,Sudan,0,1,African Cup of Nations qualification,Nairobi,Kenya,False
+1963-06-03,Kenya,Ethiopia,1,2,Friendly,Nairobi,Kenya,False
+1963-06-30,Sudan,Kenya,5,0,African Cup of Nations qualification,Khartoum,Sudan,False
+1963-09-28,Kenya,Tanzania,4,1,Friendly,Nairobi,Kenya,False
+1963-10-01,Kenya,Zanzibar,1,0,Friendly,Nairobi,Kenya,False
+1963-10-05,Kenya,Uganda,1,2,Friendly,Nairobi,Kenya,False
+1963-10-19,Zambia,Kenya,0,1,Friendly,Kitwe,Northern Rhodesia,False
+1963-12-07,Kenya,Tanzania,6,2,Friendly,Nairobi,Kenya,False
+1963-12-11,Kenya,Uganda,1,1,Friendly,Nairobi,Kenya,False
+1964-09-08,Kenya,Zanzibar,5,1,Friendly,Dar es Salaam,Tanzania,True
+1964-09-26,Tanzania,Kenya,1,0,Friendly,Dar es Salaam,Tanzania,False
+1964-09-30,Kenya,Uganda,0,1,Friendly,Dar es Salaam,Tanzania,True
+1964-10-18,Uganda,Kenya,3,2,Zambian Independence Tournament,Lusaka,Northern Rhodesia,True
+1964-10-23,Zambia,Kenya,2,3,Zambian Independence Tournament,Ndola,Northern Rhodesia,False
+1964-12-11,Kenya,Zambia,4,2,Friendly,Nairobi,Kenya,False
+1964-12-13,Kenya,Zambia,2,8,Friendly,Nairobi,Kenya,False
+1965-09-12,Zambia,Kenya,3,3,Friendly,Ndola,Zambia,False
+1965-09-14,Zambia,Kenya,2,3,Friendly,Kitwe,Zambia,False
+1965-09-19,Zambia,Kenya,3,2,Friendly,Lusaka,Zambia,False
+1965-09-26,Kenya,Tanzania,0,2,Friendly,Kampala,Uganda,True
+1965-09-28,Uganda,Kenya,2,2,Friendly,Kampala,Uganda,False
+1965-10-01,Kenya,Zanzibar,5,1,Friendly,Kampala,Uganda,True
+1965-10-23,Kenya,Tanzania,4,2,Friendly,Nairobi,Kenya,False
+1965-12-11,Kenya,Ghana,2,13,Friendly,Nairobi,Kenya,False
+1965-12-13,Kenya,Ghana,3,3,Friendly,Nairobi,Kenya,False
+1966-03-05,Uganda,Kenya,2,3,Friendly,Kampala,Uganda,False
+1966-04-03,Kenya,Uganda,3,3,Friendly,Nairobi,Kenya,False
+1966-09-06,Zambia,Kenya,0,1,Friendly,Ndola,Zambia,False
+1966-09-09,Zambia,Kenya,2,1,Friendly,Lusaka,Zambia,False
+1966-09-13,Zambia,Kenya,5,4,Friendly,Ndola,Zambia,False
+1966-09-24,Zanzibar,Kenya,1,3,Friendly,Zanzibar,Tanzania,False
+1966-09-27,Kenya,Uganda,0,0,Friendly,Zanzibar,Tanzania,True
+1966-09-30,Tanzania,Kenya,2,3,Friendly,Zanzibar,Tanzania,False
+1966-11-30,Uganda,Kenya,1,2,Friendly,Kampala,Uganda,False
+1966-12-10,Kenya,Sudan,0,1,Friendly,Nairobi,Kenya,False
+1966-12-12,Kenya,Sudan,3,2,Friendly,Nairobi,Kenya,False
+1967-02-19,Ethiopia,Kenya,2,0,Friendly,Khartoum,Sudan,True
+1967-02-23,Kenya,Tanzania,2,0,Friendly,Khartoum,Sudan,True
+1967-03-05,Uganda,Kenya,2,1,African Cup of Nations qualification,Kampala,Uganda,False
+1967-03-12,Kenya,Uganda,3,3,African Cup of Nations qualification,Nairobi,Kenya,False
+1967-08-19,Kenya,DR Congo,5,4,Friendly,Nairobi,Kenya,False
+1967-08-20,Kenya,DR Congo,1,1,Friendly,Nairobi,Kenya,False
+1967-09-30,Kenya,Uganda,3,1,Friendly,Nairobi,Kenya,False
+1967-10-04,Kenya,Zanzibar,6,0,Friendly,Nairobi,Kenya,False
+1967-10-09,Kenya,Tanzania,5,3,Friendly,Nairobi,Kenya,False
+1967-12-17,Kenya,Zambia,1,5,Friendly,Nairobi,Kenya,False
+1967-12-31,Ethiopia,Kenya,2,0,Friendly,Addis Ababa,Ethiopia,False
+1968-05-08,Kenya,Nigeria,1,2,Friendly,Nairobi,Kenya,False
+1968-07-06,Malawi,Kenya,2,2,Friendly,Blantyre,Malawi,False
+1968-09-29,Kenya,Zanzibar,3,0,Friendly,Dar es Salaam,Tanzania,True
+1968-10-01,Tanzania,Kenya,3,3,Friendly,Dar es Salaam,Tanzania,False
+1968-10-04,Kenya,Uganda,1,1,Friendly,Dar es Salaam,Tanzania,True
+1968-10-13,Kenya,Zambia,2,1,Friendly,Nairobi,Kenya,False
+1968-12-12,Kenya,Sudan,1,1,Friendly,Nairobi,Kenya,False
+1969-01-06,Kenya,Tanzania,2,1,Friendly,Addis Ababa,Ethiopia,True
+1969-01-08,Kenya,Sudan,0,1,Friendly,Addis Ababa,Ethiopia,True
+1969-02-16,Kenya,Tanzania,0,1,African Cup of Nations qualification,Nairobi,Kenya,False
+1969-03-01,Tanzania,Kenya,1,1,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+1969-09-28,Kenya,Zanzibar,2,1,Friendly,Kampala,Uganda,True
+1969-10-01,Kenya,Tanzania,0,3,Friendly,Kampala,Uganda,True
+1969-10-04,Uganda,Kenya,1,0,Friendly,Kampala,Uganda,False
+1970-09-27,Tanzania,Kenya,2,0,Friendly,Zanzibar,Tanzania,False
+1970-09-29,Kenya,Uganda,1,2,Friendly,Zanzibar,Tanzania,True
+1970-10-03,Zanzibar,Kenya,3,2,Friendly,Zanzibar,Tanzania,False
+1970-11-22,Kenya,Ethiopia,2,0,African Cup of Nations qualification,Nairobi,Kenya,False
+1970-12-15,Ethiopia,Kenya,0,1,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+1971-06-24,Kenya,Sudan,3,3,Friendly,Nairobi,Kenya,False
+1971-07-04,Kenya,Mauritius,2,1,African Cup of Nations qualification,Nairobi,Kenya,False
+1971-07-18,Mauritius,Kenya,0,0,African Cup of Nations qualification,Port Louis,Mauritius,False
+1971-09-25,Kenya,Tanzania,1,1,Friendly,Nairobi,Kenya,False
+1971-09-30,Kenya,Zanzibar,4,0,Friendly,Nairobi,Kenya,False
+1971-10-03,Kenya,Uganda,2,0,Friendly,Nairobi,Kenya,False
+1971-10-17,Zambia,Kenya,0,2,Friendly,Ndola,Zambia,False
+1971-10-20,Zambia,Kenya,3,1,Friendly,Kitwe,Zambia,False
+1971-10-23,Zambia,Kenya,0,1,Friendly,Lusaka,Zambia,False
+1971-12-05,Kenya,Zambia,1,0,Friendly,Kisumu,Kenya,False
+1971-12-08,Kenya,Zambia,3,2,Friendly,Nakuru,Kenya,False
+1971-12-12,Kenya,Zambia,0,2,Friendly,Nairobi,Kenya,False
+1972-02-23,Cameroon,Kenya,2,1,African Cup of Nations,Yaoundé,Cameroon,False
+1972-02-26,Kenya,Mali,1,1,African Cup of Nations,Yaoundé,Cameroon,True
+1972-02-28,Kenya,Togo,1,1,African Cup of Nations,Yaoundé,Cameroon,True
+1972-05-17,Kenya,Madagascar,1,3,Friendly,Nairobi,Kenya,False
+1972-06-10,Kenya,Uganda,2,0,Friendly,Nairobi,Kenya,False
+1972-07-16,Kenya,Sudan,2,0,FIFA World Cup qualification,Nairobi,Kenya,False
+1972-07-23,Sudan,Kenya,1,0,FIFA World Cup qualification,Khartoum,Sudan,False
+1972-10-15,Malawi,Kenya,0,1,Friendly,Lilongwe,Malawi,False
+1972-10-22,Malawi,Kenya,2,1,Friendly,Blantyre,Malawi,False
+1972-12-10,Mauritius,Kenya,1,3,FIFA World Cup qualification,Curepipe,Mauritius,False
+1972-12-17,Kenya,Mauritius,2,2,FIFA World Cup qualification,Nairobi,Kenya,False
+1973-04-15,Uganda,Kenya,1,0,African Cup of Nations qualification,Kampala,Uganda,False
+1973-04-28,Kenya,Uganda,1,2,African Cup of Nations qualification,Nairobi,Kenya,False
+1973-08-12,Zambia,Kenya,2,0,FIFA World Cup qualification,Ndola,Zambia,False
+1973-08-19,Kenya,Zambia,2,2,FIFA World Cup qualification,Nairobi,Kenya,False
+1973-09-23,Kenya,Zanzibar,2,0,CECAFA Cup,Kampala,Uganda,True
+1973-09-27,Kenya,Tanzania,1,2,CECAFA Cup,Kampala,Uganda,True
+1973-12-08,Kenya,Uganda,2,2,Friendly,Nairobi,Kenya,False
+1973-12-12,Kenya,Zambia,3,1,Friendly,Nairobi,Kenya,False
+1974-11-03,Kenya,Zambia,2,3,CECAFA Cup,Zanzibar,Tanzania,True
+1974-12-12,Kenya,Seychelles,2,3,Friendly,Nairobi,Kenya,False
+1975-03-23,Sudan,Kenya,1,0,African Cup of Nations qualification,Khartoum,Sudan,False
+1975-03-23,Kenya,Sudan,0,2,African Cup of Nations qualification,Nairobi,Kenya,False
+1975-06-05,Kenya,Ethiopia,2,1,Friendly,Nairobi,Kenya,False
+1975-06-11,Kenya,Congo,2,1,Friendly,Nairobi,Kenya,False
+1975-07-06,Malawi,Kenya,3,3,Friendly,Blantyre,Malawi,False
+1975-07-08,Malawi,Kenya,1,2,Friendly,Blantyre,Malawi,False
+1975-07-10,Malawi,Kenya,3,1,Friendly,Lilongwe,Malawi,False
+1975-10-18,Tanzania,Kenya,1,2,Friendly,Dar es Salaam,Tanzania,False
+1975-10-31,Zambia,Kenya,1,2,CECAFA Cup,Lusaka,Zambia,False
+1975-11-04,Kenya,Uganda,1,1,CECAFA Cup,Ndola,Zambia,True
+1975-11-07,Kenya,Tanzania,3,2,CECAFA Cup,Lusaka,Zambia,True
+1975-11-09,Kenya,Malawi,2,2,CECAFA Cup,Lusaka,Zambia,True
+1976-02-08,Kenya,Nigeria,1,1,Friendly,Nairobi,Kenya,False
+1976-06-29,Réunion,Kenya,1,3,Friendly,Mahé,Seychelles,True
+1976-07-03,Seychelles,Kenya,1,4,Friendly,Mahé,Seychelles,False
+1976-07-06,Malawi,Kenya,1,0,Friendly,Blantyre,Malawi,False
+1976-11-06,Tanzania,Kenya,1,1,CECAFA Cup,Zanzibar,Tanzania,False
+1976-11-09,Kenya,Malawi,2,2,CECAFA Cup,Zanzibar,Tanzania,True
+1976-11-12,Kenya,Zambia,0,2,CECAFA Cup,Zanzibar,Tanzania,True
+1977-02-06,Kenya,Egypt,0,0,FIFA World Cup qualification,Nairobi,Kenya,False
+1977-02-17,Algeria,Kenya,4,1,African Cup of Nations qualification,Algiers,Algeria,False
+1977-02-27,Egypt,Kenya,1,0,FIFA World Cup qualification,Cairo,Egypt,False
+1977-03-13,Kenya,Algeria,2,1,African Cup of Nations qualification,Mombasa,Kenya,False
+1977-11-28,Kenya,Uganda,1,3,CECAFA Cup,Mogadishu,Somalia,True
+1977-12-02,Kenya,Zanzibar,3,0,CECAFA Cup,Mogadishu,Somalia,True
+1977-12-05,Kenya,Zambia,2,4,CECAFA Cup,Mogadishu,Somalia,True
+1977-12-08,Kenya,Malawi,1,2,CECAFA Cup,Mogadishu,Somalia,True
+1977-12-12,Kenya,Malawi,1,1,Friendly,Nairobi,Kenya,False
+1978-01-26,Sudan,Kenya,3,0,Friendly,Khartoum,Sudan,False
+1978-03-12,Lesotho,Kenya,0,1,Friendly,Maseru,Lesotho,False
+1978-04-30,Kenya,Lesotho,1,0,Friendly,Nairobi,Kenya,False
+1978-10-15,Tanzania,Kenya,1,0,Friendly,Arusha,Tanzania,False
+1978-10-20,Kenya,Tanzania,0,0,Friendly,Nairobi,Kenya,False
+1978-11-01,Malawi,Kenya,1,0,CECAFA Cup,Blantyre,Malawi,False
+1978-11-09,Kenya,Uganda,0,1,CECAFA Cup,Blantyre,Malawi,True
+1978-11-11,Kenya,Somalia,1,0,CECAFA Cup,Blantyre,Malawi,True
+1978-11-13,Kenya,Zambia,0,9,CECAFA Cup,Blantyre,Malawi,True
+1978-11-17,Malawi,Kenya,2,0,CECAFA Cup,Blantyre,Malawi,False
+1978-11-19,Kenya,Uganda,2,0,CECAFA Cup,Blantyre,Malawi,True
+1979-04-29,Madagascar,Kenya,4,0,Friendly,Antananarivo,Madagascar,False
+1979-06-30,Kenya,Egypt,3,1,African Cup of Nations qualification,Nairobi,Kenya,False
+1979-07-06,Malawi,Kenya,1,0,Friendly,Blantyre,Malawi,False
+1979-07-08,Malawi,Kenya,0,0,Friendly,Lilongwe,Malawi,False
+1979-07-13,Egypt,Kenya,3,0,African Cup of Nations qualification,Cairo,Egypt,False
+1979-07-15,Kenya,DR Congo,2,2,Friendly,Nairobi,Kenya,False
+1979-11-03,Kenya,Tanzania,0,0,CECAFA Cup,Nairobi,Kenya,False
+1979-11-07,Kenya,Uganda,3,1,CECAFA Cup,Nairobi,Kenya,False
+1979-11-10,Kenya,Zambia,3,1,CECAFA Cup,Nairobi,Kenya,False
+1979-11-14,Kenya,Zanzibar,2,0,CECAFA Cup,Nairobi,Kenya,False
+1979-11-17,Kenya,Malawi,2,3,CECAFA Cup,Nairobi,Kenya,False
+1980-06-29,Zambia,Kenya,5,0,Friendly,Ndola,Zambia,False
+1980-07-05,Kenya,Tanzania,3,1,FIFA World Cup qualification,Nairobi,Kenya,False
+1980-07-19,Tanzania,Kenya,5,0,FIFA World Cup qualification,Dar es Salaam,Tanzania,False
+1980-11-19,Kenya,Malawi,0,1,CECAFA Cup,Port Sudan,Sudan,True
+1980-11-22,Kenya,Zanzibar,1,2,CECAFA Cup,Port Sudan,Sudan,True
+1980-12-07,Kenya,Zambia,1,1,Friendly,Kisumu,Kenya,False
+1980-12-10,Kenya,Zambia,2,0,Friendly,Nakuru,Kenya,False
+1980-12-12,Kenya,Zambia,2,1,Friendly,Nairobi,Kenya,False
+1981-04-04,Kenya,Egypt,3,5,African Cup of Nations qualification,Nairobi,Kenya,False
+1981-04-12,Ethiopia,Kenya,0,0,Friendly,Addis Ababa,Ethiopia,False
+1981-04-18,Egypt,Kenya,2,0,African Cup of Nations qualification,Cairo,Egypt,False
+1981-07-12,Kenya,Mauritius,2,1,Friendly,Saint-Paul,Réunion,True
+1981-07-14,Réunion,Kenya,1,3,Friendly,Saint-Paul,Réunion,False
+1981-07-19,Kenya,Madagascar,1,0,Friendly,Saint-Paul,Réunion,True
+1981-08-03,Kenya,Nigeria,1,3,Friendly,Nairobi,Kenya,False
+1981-11-14,Kenya,Malawi,1,0,CECAFA Cup,Dar es Salaam,Tanzania,True
+1981-11-17,Kenya,Zanzibar,2,1,CECAFA Cup,Dar es Salaam,Tanzania,True
+1981-11-20,Tanzania,Kenya,1,0,CECAFA Cup,Dodoma,Tanzania,False
+1981-11-24,Kenya,Uganda,3,1,CECAFA Cup,Dar es Salaam,Tanzania,True
+1981-11-28,Tanzania,Kenya,0,1,CECAFA Cup,Dar es Salaam,Tanzania,False
+1982-11-14,Kenya,Sudan,2,0,CECAFA Cup,Jinja,Uganda,True
+1982-11-21,Kenya,Zanzibar,2,2,CECAFA Cup,Jinja,Uganda,True
+1982-11-24,Kenya,Zimbabwe,2,1,CECAFA Cup,Jinja,Uganda,True
+1982-11-27,Uganda,Kenya,1,1,CECAFA Cup,Kampala,Uganda,False
+1983-03-20,Ethiopia,Kenya,2,2,Friendly,Addis Ababa,Ethiopia,False
+1983-03-22,Ethiopia,Kenya,0,0,Friendly,Addis Ababa,Ethiopia,False
+1983-05-23,Kenya,Madagascar,1,2,Friendly,Nairobi,Kenya,False
+1983-11-12,Kenya,Uganda,2,1,CECAFA Cup,Nairobi,Kenya,False
+1983-11-15,Kenya,Ethiopia,2,0,CECAFA Cup,Nairobi,Kenya,False
+1983-11-18,Kenya,Tanzania,0,0,CECAFA Cup,Nairobi,Kenya,False
+1983-11-21,Kenya,Sudan,1,0,CECAFA Cup,Nairobi,Kenya,False
+1983-11-23,Kenya,Malawi,2,0,CECAFA Cup,Nairobi,Kenya,False
+1983-11-26,Kenya,Zimbabwe,1,0,CECAFA Cup,Nairobi,Kenya,False
+1983-12-06,Kenya,Switzerland,0,0,Friendly,Mombasa,Kenya,False
+1983-12-08,Kenya,Ethiopia,2,2,Friendly,Nairobi,Kenya,False
+1983-12-10,Kenya,Ethiopia,1,0,Friendly,Nairobi,Kenya,False
+1983-12-12,Kenya,Ethiopia,2,1,Friendly,Nairobi,Kenya,False
+1984-04-12,Kenya,China PR,1,0,Friendly,Nairobi,Kenya,False
+1984-06-30,Kenya,Cameroon,1,3,Friendly,Nairobi,Kenya,False
+1984-07-06,Malawi,Kenya,2,1,Friendly,Blantyre,Malawi,False
+1984-07-08,Malawi,Kenya,1,1,Friendly,Lilongwe,Malawi,False
+1984-07-10,Malawi,Kenya,2,1,Friendly,Mzuzu,Malawi,False
+1984-10-13,Kenya,Ethiopia,2,1,FIFA World Cup qualification,Nairobi,Kenya,False
+1984-10-28,Ethiopia,Kenya,3,3,FIFA World Cup qualification,Addis Ababa,Ethiopia,False
+1984-11-09,Somalia,Kenya,1,0,African Cup of Nations qualification,Mogadishu,Somalia,False
+1984-11-23,Kenya,Somalia,1,0,African Cup of Nations qualification,Nairobi,Kenya,False
+1984-12-02,Kenya,Malawi,1,2,CECAFA Cup,Mbale,Uganda,True
+1984-12-06,Kenya,Zanzibar,1,0,CECAFA Cup,Mbale,Uganda,True
+1984-12-08,Kenya,Somalia,1,1,CECAFA Cup,Mbale,Uganda,True
+1984-12-12,Kenya,Zambia,0,2,CECAFA Cup,Kampala,Uganda,True
+1984-12-15,Uganda,Kenya,3,1,CECAFA Cup,Kampala,Uganda,False
+1985-04-06,Kenya,Nigeria,0,3,FIFA World Cup qualification,Nairobi,Kenya,False
+1985-04-20,Nigeria,Kenya,3,1,FIFA World Cup qualification,Lagos,Nigeria,False
+1985-07-09,Kenya,DR Congo,0,1,Friendly,Nairobi,Kenya,False
+1985-07-28,Kenya,Uganda,0,1,Friendly,Nairobi,Kenya,False
+1985-08-04,Kenya,Algeria,0,0,African Cup of Nations qualification,Nairobi,Kenya,False
+1985-08-13,Algeria,Kenya,3,0,African Cup of Nations qualification,Algiers,Algeria,False
+1985-10-06,Zimbabwe,Kenya,1,1,CECAFA Cup,Harare,Zimbabwe,False
+1985-10-08,Kenya,Tanzania,3,2,CECAFA Cup,Harare,Zimbabwe,True
+1985-10-11,Kenya,Uganda,0,0,CECAFA Cup,Harare,Zimbabwe,True
+1985-10-13,Zimbabwe,Kenya,2,0,CECAFA Cup,Harare,Zimbabwe,False
+1986-10-07,Kenya,Somalia,2,1,Friendly,Nairobi,Kenya,False
+1986-10-11,Uganda,Kenya,3,1,Friendly,Kampala,Uganda,False
+1986-11-25,Kenya,Rwanda,2,3,Friendly,Nairobi,Kenya,False
+1987-03-28,Kenya,Madagascar,2,0,African Cup of Nations qualification,Mombasa,Kenya,False
+1987-04-12,Madagascar,Kenya,2,1,African Cup of Nations qualification,Antananarivo,Madagascar,False
+1987-07-05,Zimbabwe,Kenya,1,1,African Cup of Nations qualification,Harare,Zimbabwe,False
+1987-07-18,Kenya,Zimbabwe,0,0,African Cup of Nations qualification,Nairobi,Kenya,False
+1987-08-01,Kenya,Tunisia,1,0,All-African Games,Nairobi,Kenya,False
+1987-08-03,Kenya,Cameroon,3,3,All-African Games,Nairobi,Kenya,False
+1987-08-05,Kenya,Madagascar,2,1,All-African Games,Nairobi,Kenya,False
+1987-08-10,Kenya,Malawi,1,1,All-African Games,Nairobi,Kenya,False
+1987-08-12,Kenya,Egypt,0,1,All-African Games,Nairobi,Kenya,False
+1987-12-14,Kenya,Zanzibar,0,0,CECAFA Cup,Addis Ababa,Ethiopia,True
+1987-12-16,Kenya,Tanzania,3,2,CECAFA Cup,Addis Ababa,Ethiopia,True
+1987-12-20,Ethiopia,Kenya,2,1,CECAFA Cup,Addis Ababa,Ethiopia,False
+1988-03-14,Kenya,Nigeria,0,3,African Cup of Nations,Rabat,Morocco,True
+1988-03-17,Egypt,Kenya,3,0,African Cup of Nations,Rabat,Morocco,True
+1988-03-20,Cameroon,Kenya,0,0,African Cup of Nations,Rabat,Morocco,True
+1988-11-08,Kenya,Zanzibar,2,0,CECAFA Cup,Lilongwe,Malawi,True
+1988-11-10,Kenya,Tanzania,2,0,CECAFA Cup,Lilongwe,Malawi,True
+1988-11-12,Malawi,Kenya,3,0,CECAFA Cup,Lilongwe,Malawi,False
+1988-11-17,Kenya,Zambia,0,1,CECAFA Cup,Blantyre,Malawi,True
+1988-11-19,Kenya,Zimbabwe,0,0,CECAFA Cup,Blantyre,Malawi,True
+1989-01-07,Kenya,Malawi,1,1,FIFA World Cup qualification,Nairobi,Kenya,False
+1989-01-22,Liberia,Kenya,0,0,FIFA World Cup qualification,Monrovia,Liberia,False
+1989-04-07,Sudan,Kenya,1,0,African Cup of Nations qualification,Khartoum,Sudan,False
+1989-04-23,Kenya,Sudan,1,0,African Cup of Nations qualification,Nairobi,Kenya,False
+1989-06-10,Kenya,Egypt,0,0,FIFA World Cup qualification,Nairobi,Kenya,False
+1989-06-24,Malawi,Kenya,1,0,FIFA World Cup qualification,Lilongwe,Malawi,False
+1989-07-10,Kenya,DR Congo,0,1,Friendly,Nairobi,Kenya,False
+1989-07-16,Malawi,Kenya,2,3,African Cup of Nations qualification,Blantyre,Malawi,False
+1989-07-29,Kenya,Malawi,0,0,African Cup of Nations qualification,Nairobi,Kenya,False
+1989-08-12,Kenya,Liberia,1,0,FIFA World Cup qualification,Nairobi,Kenya,False
+1989-08-26,Egypt,Kenya,2,0,FIFA World Cup qualification,Cairo,Egypt,False
+1989-12-02,Kenya,Uganda,2,1,CECAFA Cup,Nairobi,Kenya,False
+1989-12-05,Kenya,Tanzania,2,1,CECAFA Cup,Nairobi,Kenya,False
+1989-12-09,Kenya,Zimbabwe,2,1,CECAFA Cup,Nairobi,Kenya,False
+1989-12-14,Kenya,Malawi,0,1,CECAFA Cup,Nairobi,Kenya,False
+1989-12-15,Kenya,Zambia,1,0,CECAFA Cup,Nairobi,Kenya,False
+1990-01-29,Thailand,Kenya,2,1,King's Cup,Bangkok,Thailand,False
+1990-02-02,Indonesia,Kenya,2,3,King's Cup,Bangkok,Thailand,True
+1990-03-03,Senegal,Kenya,0,0,African Cup of Nations,Annaba,Algeria,True
+1990-03-06,Zambia,Kenya,1,0,African Cup of Nations,Annaba,Algeria,True
+1990-03-09,Cameroon,Kenya,2,0,African Cup of Nations,Annaba,Algeria,True
+1990-09-02,Mozambique,Kenya,2,1,African Cup of Nations qualification,Maputo,Mozambique,False
+1990-12-09,Kenya,Uganda,2,2,CECAFA Cup,Zanzibar City,Zanzibar,True
+1990-12-12,Kenya,Sudan,1,2,CECAFA Cup,Zanzibar City,Zanzibar,True
+1991-04-14,Sudan,Kenya,1,0,African Cup of Nations qualification,Khartoum,Sudan,False
+1991-07-06,Malawi,Kenya,0,2,Friendly,Blantyre,Malawi,False
+1991-07-08,Malawi,Kenya,1,1,Friendly,Lilongwe,Malawi,False
+1991-07-10,Malawi,Kenya,1,1,Friendly,Mzuzu,Malawi,False
+1991-07-14,Kenya,Mozambique,1,0,African Cup of Nations qualification,Nairobi,Kenya,False
+1991-07-28,Kenya,Sudan,2,1,African Cup of Nations qualification,Nairobi,Kenya,False
+1991-11-09,Tanzania,Kenya,1,1,Friendly,Dar es Salaam,Tanzania,False
+1991-11-16,Tanzania,Kenya,1,2,Friendly,Dar es Salaam,Tanzania,False
+1991-11-23,Kenya,Zambia,0,1,CECAFA Cup,Kampala,Uganda,True
+1991-11-28,Kenya,Malawi,1,0,CECAFA Cup,Kampala,Uganda,True
+1991-11-30,Kenya,Zanzibar,3,2,CECAFA Cup,Kampala,Uganda,True
+1991-12-04,Uganda,Kenya,1,3,CECAFA Cup,Kampala,Uganda,False
+1991-12-07,Kenya,Zambia,0,2,CECAFA Cup,Kampala,Uganda,True
+1992-01-14,Nigeria,Kenya,2,1,African Cup of Nations,Dakar,Senegal,True
+1992-01-16,Senegal,Kenya,3,0,African Cup of Nations,Dakar,Senegal,False
+1992-08-16,Lesotho,Kenya,2,2,African Cup of Nations qualification,Maseru,Lesotho,False
+1992-08-29,Kenya,DR Congo,1,3,African Cup of Nations qualification,Nairobi,Kenya,False
+1992-09-30,Botswana,Kenya,1,3,Friendly,Gaborone,Botswana,False
+1992-10-03,Botswana,Kenya,0,1,Friendly,Gaborone,Botswana,False
+1992-11-15,Kenya,Uganda,1,1,CECAFA Cup,Arusha,Tanzania,True
+1992-11-18,Kenya,Seychelles,2,1,CECAFA Cup,Arusha,Tanzania,True
+1992-12-20,Guinea,Kenya,4,0,FIFA World Cup qualification,Conakry,Guinea,False
+1993-02-27,Kenya,Guinea,2,0,FIFA World Cup qualification,Nairobi,Kenya,False
+1993-04-11,Mozambique,Kenya,0,0,African Cup of Nations qualification,Maputo,Mozambique,False
+1993-04-24,Kenya,Lesotho,3,0,African Cup of Nations qualification,Nairobi,Kenya,False
+1993-07-11,DR Congo,Kenya,0,1,African Cup of Nations qualification,Kinshasa,Zaïre,False
+1993-07-24,Kenya,Mozambique,4,1,African Cup of Nations qualification,Nairobi,Kenya,False
+1993-12-01,Kenya,Uganda,2,1,Friendly,Nairobi,Kenya,False
+1993-12-10,Kenya,Tanzania,2,1,Friendly,Nairobi,Kenya,False
+1994-02-04,Oman,Kenya,1,0,Friendly,Muscat,Oman,False
+1994-02-06,Oman,Kenya,2,0,Friendly,Muscat,Oman,False
+1994-11-26,Kenya,Somalia,3,1,CECAFA Cup,Nairobi,Kenya,False
+1994-11-28,Kenya,Djibouti,4,1,CECAFA Cup,Nairobi,Kenya,False
+1994-12-01,Kenya,Tanzania,0,1,CECAFA Cup,Nairobi,Kenya,False
+1994-12-05,Kenya,Uganda,0,1,CECAFA Cup,Nairobi,Kenya,False
+1994-12-08,Kenya,Eritrea,1,0,CECAFA Cup,Nairobi,Kenya,False
+1995-11-27,Kenya,Zanzibar,2,0,CECAFA Cup,Kampala,Uganda,True
+1995-11-30,Kenya,Rwanda,1,0,CECAFA Cup,Kampala,Uganda,True
+1995-12-02,Uganda,Kenya,0,0,CECAFA Cup,Kampala,Uganda,False
+1995-12-09,Kenya,Ethiopia,2,1,CECAFA Cup,Kampala,Uganda,True
+1996-05-25,Uganda,Kenya,1,1,Friendly,Kampala,Uganda,False
+1996-05-26,Uganda,Kenya,1,2,Friendly,Kampala,Uganda,False
+1996-06-02,Kenya,Algeria,3,1,FIFA World Cup qualification,Nairobi,Kenya,False
+1996-06-14,Algeria,Kenya,1,0,FIFA World Cup qualification,Algiers,Algeria,False
+1996-09-14,South Africa,Kenya,1,0,Simba Tournament,Durban,South Africa,False
+1996-09-18,Ghana,Kenya,1,0,Simba Tournament,Johannesburg,South Africa,True
+1996-09-21,Australia,Kenya,4,0,Simba Tournament,Pretoria,South Africa,True
+1996-11-10,Guinea,Kenya,3,1,FIFA World Cup qualification,Conakry,Guinea,False
+1996-11-19,Kenya,Rwanda,2,1,CECAFA Cup,Kassala,Sudan,True
+1996-11-24,Kenya,Zanzibar,1,0,CECAFA Cup,Kassala,Sudan,True
+1996-11-27,Uganda,Kenya,2,0,CECAFA Cup,Khartoum,Sudan,True
+1996-11-29,Sudan,Kenya,1,1,Friendly,Khartoum,Sudan,False
+1996-12-14,Kenya,Zambia,1,0,Friendly,Nairobi,Kenya,False
+1996-12-15,Kenya,Zambia,0,2,Friendly,Mombasa,Kenya,False
+1997-01-12,Kenya,Nigeria,1,1,FIFA World Cup qualification,Nairobi,Kenya,False
+1997-04-06,Kenya,Burkina Faso,4,3,FIFA World Cup qualification,Nairobi,Kenya,False
+1997-04-21,Iran,Kenya,3,0,Friendly,Tabriz,Iran,False
+1997-04-27,Kenya,Guinea,1,0,FIFA World Cup qualification,Nairobi,Kenya,False
+1997-06-07,Nigeria,Kenya,3,0,FIFA World Cup qualification,Lagos,Nigeria,False
+1997-07-13,Gabon,Kenya,1,0,African Cup of Nations qualification,Libreville,Gabon,False
+1997-07-27,Cameroon,Kenya,1,1,African Cup of Nations qualification,Yaoundé,Cameroon,False
+1997-08-16,Burkina Faso,Kenya,2,4,FIFA World Cup qualification,Ouagadougou,Burkina Faso,False
+1997-09-28,Algeria,Kenya,0,1,Friendly,Dar es Salaam,Tanzania,True
+1997-10-01,Tanzania,Kenya,0,1,Friendly,Dar es Salaam,Tanzania,False
+1997-10-03,Kenya,Zambia,0,0,Friendly,Dar es Salaam,Tanzania,True
+1998-06-06,Kenya,Seychelles,1,1,Friendly,Nairobi,Kenya,False
+1998-06-13,Seychelles,Kenya,0,1,Friendly,Victoria,Seychelles,False
+1998-07-18,Uganda,Kenya,3,3,Friendly,Kampala,Uganda,False
+1998-07-31,Kenya,Djibouti,3,0,African Cup of Nations qualification,Nairobi,Kenya,False
+1998-08-15,Kenya,Djibouti,9,1,African Cup of Nations qualification,Nairobi,Kenya,False
+1998-10-03,Kenya,Madagascar,1,1,African Cup of Nations qualification,Nairobi,Kenya,False
+1999-01-24,DR Congo,Kenya,2,1,African Cup of Nations qualification,Kinshasa,DR Congo,False
+1999-01-31,Ethiopia,Kenya,2,2,Friendly,Addis Ababa,Ethiopia,False
+1999-02-28,Kenya,Zambia,0,1,African Cup of Nations qualification,Nairobi,Kenya,False
+1999-04-10,Zambia,Kenya,1,0,African Cup of Nations qualification,Lusaka,Zambia,False
+1999-06-06,Kenya,DR Congo,0,1,African Cup of Nations qualification,Nairobi,Kenya,False
+1999-06-13,Kenya,Zanzibar,0,1,Friendly,Mombasa,Kenya,False
+1999-06-20,Madagascar,Kenya,1,1,African Cup of Nations qualification,Antananarivo,Madagascar,False
+1999-07-21,Oman,Kenya,2,2,Friendly,Muscat,Oman,False
+1999-07-28,Kenya,Eritrea,1,0,CECAFA Cup,Kigali,Rwanda,True
+1999-08-01,Kenya,Sudan,3,0,CECAFA Cup,Kigali,Rwanda,True
+1999-08-03,Rwanda,Kenya,0,0,Friendly,Kigali,Rwanda,False
+2000-04-01,Zambia,Kenya,1,0,Friendly,Lusaka,Zambia,False
+2000-04-08,Malawi,Kenya,2,0,FIFA World Cup qualification,Blantyre,Malawi,False
+2000-04-16,Uganda,Kenya,2,2,Friendly,Kampala,Uganda,False
+2000-04-22,Kenya,Malawi,0,0,FIFA World Cup qualification,Nairobi,Kenya,False
+2000-06-14,Kenya,Burkina Faso,0,1,Friendly,Nairobi,Kenya,False
+2000-07-02,Eswatini,Kenya,3,2,African Cup of Nations qualification,Mbabane,Swaziland,False
+2000-07-15,Kenya,Eswatini,3,0,African Cup of Nations qualification,Nairobi,Kenya,False
+2000-08-25,Egypt,Kenya,2,1,Friendly,Port Said,Egypt,False
+2000-09-03,Kenya,Tunisia,0,0,African Cup of Nations qualification,Nairobi,Kenya,False
+2000-09-30,Kenya,Burundi,1,0,Friendly,Nairobi,Kenya,False
+2000-10-01,Kenya,Lesotho,1,1,Friendly,Nairobi,Kenya,False
+2000-10-03,Kenya,Burundi,2,3,Friendly,Nairobi,Kenya,False
+2000-10-08,Morocco,Kenya,1,0,African Cup of Nations qualification,Casablanca,Morocco,False
+2000-10-15,Kenya,Tanzania,3,0,Friendly,Nairobi,Kenya,False
+2000-10-28,Kenya,Uganda,1,1,Friendly,Nairobi,Kenya,False
+2000-11-22,Kenya,Rwanda,1,2,CECAFA Cup,Mbale,Uganda,True
+2001-01-04,Kenya,Zambia,2,1,Friendly,Nairobi,Kenya,False
+2001-01-13,Kenya,Gabon,2,1,African Cup of Nations qualification,Nairobi,Kenya,False
+2001-03-10,Kenya,Uganda,1,0,Friendly,Mumias,Kenya,False
+2001-03-24,Gabon,Kenya,1,1,African Cup of Nations qualification,Libreville,Gabon,False
+2001-06-02,Kenya,Morocco,1,1,African Cup of Nations qualification,Nairobi,Kenya,False
+2001-06-10,Kenya,Egypt,1,1,Friendly,Nairobi,Kenya,False
+2001-06-17,Tunisia,Kenya,4,1,African Cup of Nations qualification,Tunis,Tunisia,False
+2001-10-24,Kenya,Uganda,0,0,Friendly,Arusha,Tanzania,True
+2001-10-27,Tanzania,Kenya,3,1,Friendly,Mwanza,Tanzania,False
+2001-12-10,Kenya,Eritrea,2,1,CECAFA Cup,Kigali,Rwanda,True
+2001-12-12,Kenya,Somalia,3,0,CECAFA Cup,Kigali,Rwanda,True
+2001-12-15,Rwanda,Kenya,0,0,CECAFA Cup,Kigali,Rwanda,False
+2001-12-17,Kenya,Eritrea,1,0,CECAFA Cup,Kigali,Rwanda,True
+2001-12-22,Kenya,Ethiopia,1,2,CECAFA Cup,Kigali,Rwanda,True
+2002-05-04,Nigeria,Kenya,3,0,Friendly,Lagos,Nigeria,False
+2002-05-11,Kenya,Tanzania,1,0,Friendly,Nairobi,Kenya,False
+2002-05-18,Tanzania,Kenya,0,5,Friendly,Arusha,Tanzania,False
+2002-08-03,Kenya,Uganda,0,0,Friendly,Kisumu,Kenya,False
+2002-08-17,Jordan,Kenya,1,1,Friendly,Amman,Jordan,False
+2002-08-24,Rwanda,Kenya,0,0,Friendly,Kigali,Rwanda,False
+2002-09-07,Kenya,Togo,3,0,African Cup of Nations qualification,Nairobi,Kenya,False
+2002-10-12,Cape Verde,Kenya,0,1,African Cup of Nations qualification,Praia,Cape Verde,False
+2002-10-23,Kenya,South Africa,1,1,Friendly,Arusha,Tanzania,True
+2002-10-26,Kenya,Uganda,1,1,Friendly,Dar es Salaam,Tanzania,True
+2002-11-30,Tanzania,Kenya,1,0,CECAFA Cup,Mwanza,Tanzania,False
+2002-12-03,Kenya,Burundi,1,1,CECAFA Cup,Mwanza,Tanzania,True
+2002-12-06,Kenya,Eritrea,4,1,CECAFA Cup,Mwanza,Tanzania,True
+2002-12-09,Sudan,Kenya,0,1,CECAFA Cup,Mwanza,Tanzania,True
+2002-12-12,Uganda,Kenya,1,3,CECAFA Cup,Arusha,Tanzania,True
+2002-12-14,Tanzania,Kenya,2,3,CECAFA Cup,Mwanza,Tanzania,False
+2003-03-15,Kenya,Uganda,2,2,Friendly,Nairobi,Kenya,False
+2003-03-23,Kenya,Tanzania,4,0,Friendly,Nairobi,Kenya,False
+2003-03-29,Kenya,Mauritania,4,0,African Cup of Nations qualification,Nairobi,Kenya,False
+2003-05-24,Sudan,Kenya,1,1,Friendly,Khartoum,Sudan,False
+2003-05-31,Kenya,Trinidad and Tobago,1,1,Friendly,Nairobi,Kenya,False
+2003-06-06,Mauritania,Kenya,0,0,African Cup of Nations qualification,Nouakchott,Mauritania,False
+2003-06-13,Ghana,Kenya,1,3,Friendly,Accra,Ghana,False
+2003-06-22,Togo,Kenya,2,0,African Cup of Nations qualification,Lomé,Togo,False
+2003-07-05,Kenya,Cape Verde,1,0,African Cup of Nations qualification,Nairobi,Kenya,False
+2003-09-14,Rwanda,Kenya,0,1,Friendly,Kigali,Rwanda,False
+2003-10-11,Tanzania,Kenya,0,0,FIFA World Cup qualification,Dar es Salaam,Tanzania,False
+2003-11-15,Kenya,Tanzania,3,0,FIFA World Cup qualification,Nairobi,Kenya,False
+2003-12-02,Kenya,Eritrea,3,2,CECAFA Cup,Kassala,Sudan,True
+2003-12-04,Uganda,Kenya,1,1,CECAFA Cup,Kassala,Sudan,True
+2003-12-08,Kenya,Rwanda,1,1,CECAFA Cup,Khartoum,Sudan,True
+2003-12-10,Sudan,Kenya,1,2,CECAFA Cup,Khartoum,Sudan,False
+2003-12-12,Kenya,Egypt,0,1,Prime Minister's Cup,Riffa,Bahrain,True
+2003-12-15,Iraq,Kenya,2,0,Prime Minister's Cup,Riffa,Bahrain,True
+2003-12-18,Bahrain,Kenya,2,1,Prime Minister's Cup,Riffa,Bahrain,False
+2003-12-21,United Arab Emirates,Kenya,2,2,Friendly,Abu Dhabi,United Arab Emirates,False
+2004-01-16,Libya,Kenya,2,0,Friendly,Az Zawiyah,Libya,False
+2004-01-19,Libya,Kenya,2,0,Friendly,Tripoli,Libya,False
+2004-01-26,Kenya,Mali,1,3,African Cup of Nations,Bizerte,Tunisia,True
+2004-01-30,Senegal,Kenya,3,0,African Cup of Nations,Bizerte,Tunisia,True
+2004-02-02,Burkina Faso,Kenya,0,3,African Cup of Nations,Bizerte,Tunisia,True
+2004-08-07,Uganda,Kenya,1,1,Friendly,Kampala,Uganda,False
+2004-08-18,Kenya,Uganda,4,1,Friendly,Nairobi,Kenya,False
+2004-09-04,Kenya,Malawi,3,2,FIFA World Cup qualification,Nairobi,Kenya,False
+2004-10-09,Botswana,Kenya,2,1,FIFA World Cup qualification,Gaborone,Botswana,False
+2004-11-17,Kenya,Guinea,2,1,FIFA World Cup qualification,Nairobi,Kenya,False
+2004-12-12,Kenya,Sudan,2,2,CECAFA Cup,Addis Ababa,Ethiopia,True
+2004-12-14,Somalia,Kenya,0,1,CECAFA Cup,Addis Ababa,Ethiopia,True
+2004-12-18,Kenya,Uganda,1,1,CECAFA Cup,Addis Ababa,Ethiopia,True
+2004-12-22,Ethiopia,Kenya,2,2,CECAFA Cup,Addis Ababa,Ethiopia,False
+2004-12-25,Kenya,Sudan,1,2,CECAFA Cup,Addis Ababa,Ethiopia,True
+2005-02-09,Morocco,Kenya,5,1,FIFA World Cup qualification,Rabat,Morocco,False
+2005-03-12,Kenya,Rwanda,1,1,Friendly,Nairobi,Kenya,False
+2005-03-23,Kenya,Ghana,2,2,Friendly,Nairobi,Kenya,False
+2005-03-26,Kenya,Botswana,1,0,FIFA World Cup qualification,Nairobi,Kenya,False
+2005-06-05,Guinea,Kenya,1,0,FIFA World Cup qualification,Conakry,Guinea,False
+2005-06-18,Kenya,Morocco,0,0,FIFA World Cup qualification,Nairobi,Kenya,False
+2005-08-17,Tunisia,Kenya,1,0,FIFA World Cup qualification,Radès,Tunisia,False
+2005-09-03,Kenya,Tunisia,0,2,FIFA World Cup qualification,Nairobi,Kenya,False
+2005-10-08,Malawi,Kenya,3,0,FIFA World Cup qualification,Blantyre,Malawi,False
+2006-08-11,Ethiopia,Kenya,1,0,Friendly,Addis Ababa,Ethiopia,False
+2006-08-13,Ethiopia,Kenya,1,0,Friendly,Addis Ababa,Ethiopia,False
+2006-09-02,Kenya,Eritrea,1,2,African Cup of Nations qualification,Nairobi,Kenya,False
+2006-09-30,Tanzania,Kenya,0,0,Friendly,Dar es Salaam,Tanzania,False
+2006-10-08,Angola,Kenya,3,1,African Cup of Nations qualification,Luanda,Angola,False
+2007-03-25,Kenya,Eswatini,2,0,African Cup of Nations qualification,Nairobi,Kenya,False
+2007-05-27,Kenya,Nigeria,0,1,Friendly,Nairobi,Kenya,False
+2007-06-03,Eswatini,Kenya,0,0,African Cup of Nations qualification,Lobamba,Swaziland,False
+2007-06-10,Kenya,Rwanda,2,0,Friendly,Nairobi,Kenya,False
+2007-06-16,Eritrea,Kenya,1,0,African Cup of Nations qualification,Asmara,Eritrea,False
+2007-09-08,Kenya,Angola,2,1,African Cup of Nations qualification,Nairobi,Kenya,False
+2007-11-21,Oman,Kenya,2,2,Friendly,Muscat,Oman,False
+2007-11-22,Oman,Kenya,1,1,Friendly,Muscat,Oman,False
+2007-12-08,Tanzania,Kenya,2,1,CECAFA Cup,Dar es Salaam,Tanzania,False
+2007-12-12,Kenya,Burundi,0,1,CECAFA Cup,Dar es Salaam,Tanzania,True
+2007-12-14,Kenya,Somalia,2,0,CECAFA Cup,Dar es Salaam,Tanzania,True
+2007-12-18,Uganda,Kenya,1,1,CECAFA Cup,Dar es Salaam,Tanzania,True
+2008-05-31,Namibia,Kenya,2,1,FIFA World Cup qualification,Windhoek,Namibia,False
+2008-06-07,Kenya,Guinea,2,0,FIFA World Cup qualification,Nairobi,Kenya,False
+2008-06-14,Kenya,Zimbabwe,2,0,FIFA World Cup qualification,Nairobi,Kenya,False
+2008-06-22,Zimbabwe,Kenya,0,0,FIFA World Cup qualification,Harare,Zimbabwe,False
+2008-09-06,Kenya,Namibia,1,0,FIFA World Cup qualification,Nairobi,Kenya,False
+2008-10-12,Guinea,Kenya,3,2,FIFA World Cup qualification,Conakry,Guinea,False
+2008-12-31,Sudan,Kenya,0,0,CECAFA Cup,Jinja,Uganda,True
+2009-01-02,Kenya,Zambia,0,0,CECAFA Cup,Jinja,Uganda,True
+2009-01-06,Kenya,Djibouti,5,1,CECAFA Cup,Jinja,Uganda,True
+2009-01-08,Burundi,Kenya,0,1,CECAFA Cup,Kampala,Uganda,True
+2009-01-11,Kenya,Tanzania,2,1,CECAFA Cup,Kampala,Uganda,True
+2009-01-13,Uganda,Kenya,1,0,CECAFA Cup,Kampala,Uganda,False
+2009-01-23,Egypt,Kenya,1,0,Friendly,Cairo,Egypt,False
+2009-03-14,Iran,Kenya,1,0,Friendly,Tehran,Iran,False
+2009-03-28,Kenya,Tunisia,1,2,FIFA World Cup qualification,Nairobi,Kenya,False
+2009-06-07,Nigeria,Kenya,3,0,FIFA World Cup qualification,Abuja,Nigeria,False
+2009-06-20,Kenya,Mozambique,2,1,FIFA World Cup qualification,Nairobi,Kenya,False
+2009-08-12,Malaysia,Kenya,0,0,Friendly,Kuala Lumpur,Malaysia,False
+2009-08-26,Bahrain,Kenya,2,1,Friendly,Riffa,Bahrain,False
+2009-09-06,Mozambique,Kenya,1,0,FIFA World Cup qualification,Maputo,Mozambique,False
+2009-10-11,Tunisia,Kenya,1,0,FIFA World Cup qualification,Tunis,Tunisia,False
+2009-11-03,Kenya,Kuwait,0,5,Friendly,Cairo,Egypt,True
+2009-11-14,Kenya,Nigeria,2,3,FIFA World Cup qualification,Nairobi,Kenya,False
+2009-11-28,Kenya,Zambia,0,2,CECAFA Cup,Nairobi,Kenya,False
+2009-12-02,Kenya,Djibouti,2,0,CECAFA Cup,Nairobi,Kenya,False
+2009-12-05,Kenya,Ethiopia,2,0,CECAFA Cup,Nairobi,Kenya,False
+2009-12-07,Kenya,Uganda,0,1,CECAFA Cup,Nairobi,Kenya,False
+2010-01-09,Kenya,Cameroon,1,3,Friendly,Nairobi,Kenya,False
+2010-01-15,Yemen,Kenya,3,1,Friendly,Sana'a,Yemen,False
+2010-08-11,Tanzania,Kenya,1,1,Friendly,Dar es Salaam,Tanzania,False
+2010-08-18,Ethiopia,Kenya,0,3,Friendly,Addis Ababa,Ethiopia,False
+2010-09-04,Guinea-Bissau,Kenya,1,0,African Cup of Nations qualification,Bissau,Guinea-Bissau,False
+2010-10-09,Kenya,Uganda,0,0,African Cup of Nations qualification,Nairobi,Kenya,False
+2010-11-23,Tanzania,Kenya,1,0,Friendly,Dar es Salaam,Tanzania,False
+2010-11-29,Malawi,Kenya,3,2,CECAFA Cup,Dar es Salaam,Tanzania,True
+2010-12-02,Ethiopia,Kenya,2,1,CECAFA Cup,Dar es Salaam,Tanzania,True
+2010-12-05,Uganda,Kenya,2,0,CECAFA Cup,Dar es Salaam,Tanzania,True
+2011-01-05,Kenya,Sudan,1,0,Nile Basin Tournament,Cairo,Egypt,True
+2011-01-08,DR Congo,Kenya,1,0,Nile Basin Tournament,Cairo,Egypt,True
+2011-01-14,Egypt,Kenya,5,1,Nile Basin Tournament,Cairo,Egypt,False
+2011-01-17,DR Congo,Kenya,1,0,Nile Basin Tournament,Ismailia,Egypt,True
+2011-02-09,South Africa,Kenya,2,0,Friendly,Rustenburg,South Africa,False
+2011-03-26,Kenya,Angola,2,1,African Cup of Nations qualification,Nairobi,Kenya,False
+2011-03-29,Nigeria,Kenya,3,0,Friendly,Abuja,Nigeria,False
+2011-06-05,Angola,Kenya,1,0,African Cup of Nations qualification,Luanda,Angola,False
+2011-06-25,Kenya,Sudan,1,2,Friendly,Nairobi,Kenya,False
+2011-08-10,Botswana,Kenya,1,0,Friendly,Gaborone,Botswana,False
+2011-09-03,Kenya,Guinea-Bissau,2,1,African Cup of Nations qualification,Nairobi,Kenya,False
+2011-10-08,Uganda,Kenya,0,0,African Cup of Nations qualification,Kampala,Uganda,False
+2011-11-11,Seychelles,Kenya,0,3,FIFA World Cup qualification,Victoria,Seychelles,False
+2011-11-15,Kenya,Seychelles,4,0,FIFA World Cup qualification,Nairobi,Kenya,False
+2011-11-28,Kenya,Malawi,0,2,CECAFA Cup,Dar es Salaam,Tanzania,True
+2011-11-30,Ethiopia,Kenya,0,2,CECAFA Cup,Dar es Salaam,Tanzania,True
+2011-12-03,Kenya,Sudan,0,1,CECAFA Cup,Dar es Salaam,Tanzania,True
+2012-02-27,Egypt,Kenya,5,0,Friendly,Doha,Qatar,True
+2012-02-29,Kenya,Togo,2,1,African Cup of Nations qualification,Nairobi,Kenya,False
+2012-06-02,Kenya,Malawi,0,0,FIFA World Cup qualification,Nairobi,Kenya,False
+2012-06-09,Namibia,Kenya,1,0,FIFA World Cup qualification,Windhoek,Namibia,False
+2012-06-17,Togo,Kenya,1,0,African Cup of Nations qualification,Lomé,Togo,False
+2012-07-12,Kenya,Botswana,3,1,Friendly,Nairobi,Kenya,False
+2012-10-16,Kenya,South Africa,1,2,Friendly,Nairobi,Kenya,False
+2012-11-14,Tanzania,Kenya,1,0,Friendly,Mwanza,Tanzania,False
+2012-11-24,Uganda,Kenya,1,0,CECAFA Cup,Kampala,Uganda,False
+2012-11-27,South Sudan,Kenya,0,2,CECAFA Cup,Kampala,Uganda,True
+2012-11-30,Kenya,Ethiopia,3,1,CECAFA Cup,Kampala,Uganda,True
+2012-12-04,Kenya,Malawi,1,0,CECAFA Cup,Kampala,Uganda,True
+2012-12-06,Zanzibar,Kenya,2,2,CECAFA Cup,Kampala,Uganda,True
+2012-12-08,Uganda,Kenya,2,1,CECAFA Cup,Kampala,Uganda,False
+2013-02-06,Kenya,Libya,3,0,Friendly,Tunis,Tunisia,True
+2013-03-23,Nigeria,Kenya,1,1,FIFA World Cup qualification,Calabar,Nigeria,False
+2013-06-05,Kenya,Nigeria,0,1,FIFA World Cup qualification,Nairobi,Kenya,False
+2013-06-12,Malawi,Kenya,2,2,FIFA World Cup qualification,Blantyre,Malawi,False
+2013-07-08,Kenya,Lesotho,2,2,COSAFA Cup,Kitwe,Zambia,True
+2013-07-09,Kenya,Eswatini,2,0,COSAFA Cup,Kitwe,Zambia,True
+2013-07-11,Kenya,Botswana,1,2,COSAFA Cup,Kitwe,Zambia,True
+2013-09-08,Kenya,Namibia,1,0,FIFA World Cup qualification,Nairobi,Kenya,False
+2013-11-27,Kenya,Ethiopia,0,0,CECAFA Cup,Nairobi,Kenya,False
+2013-11-30,Kenya,South Sudan,3,1,CECAFA Cup,Nairobi,Kenya,False
+2013-12-03,Kenya,Zanzibar,2,0,CECAFA Cup,Nakuru,Kenya,False
+2013-12-07,Kenya,Rwanda,1,0,CECAFA Cup,Mombasa,Kenya,False
+2013-12-10,Kenya,Tanzania,1,0,CECAFA Cup,Nairobi,Kenya,False
+2013-12-12,Kenya,Sudan,2,0,CECAFA Cup,Nairobi,Kenya,False
+2014-05-18,Kenya,Comoros,1,0,African Cup of Nations qualification,Nairobi,Kenya,False
+2014-05-30,Comoros,Kenya,1,1,African Cup of Nations qualification,Mitsamiouli,Comoros,False
+2014-07-15,Kenya,Burundi,0,0,Friendly,Nairobi,Kenya,False
+2014-07-20,Lesotho,Kenya,1,0,African Cup of Nations qualification,Maseru,Lesotho,False
+2014-08-03,Kenya,Lesotho,0,0,African Cup of Nations qualification,Nairobi,Kenya,False
+2014-08-30,Egypt,Kenya,1,0,Friendly,Aswan,Egypt,False
+2014-10-13,Morocco,Kenya,3,0,Friendly,Marrakech,Morocco,False
+2015-06-06,Rwanda,Kenya,0,0,Friendly,Kigali,Rwanda,False
+2015-06-07,Kenya,South Sudan,2,0,Friendly,Kigali,Rwanda,True
+2015-06-14,Congo,Kenya,1,1,African Cup of Nations qualification,Owando,Congo,False
+2015-09-06,Kenya,Zambia,1,2,African Cup of Nations qualification,Nairobi,Kenya,False
+2015-10-07,Mauritius,Kenya,2,5,FIFA World Cup qualification,Mapou,Mauritius,False
+2015-10-11,Kenya,Mauritius,0,0,FIFA World Cup qualification,Nairobi,Kenya,False
+2015-11-13,Kenya,Cape Verde,1,0,FIFA World Cup qualification,Nairobi,Kenya,False
+2015-11-17,Cape Verde,Kenya,2,0,FIFA World Cup qualification,Praia,Cape Verde,False
+2015-11-22,Kenya,Uganda,2,0,CECAFA Cup,Addis Ababa,Ethiopia,True
+2015-11-25,Kenya,Burundi,1,1,CECAFA Cup,Hawassa,Ethiopia,True
+2015-11-27,Zanzibar,Kenya,3,1,CECAFA Cup,Hawassa,Ethiopia,True
+2015-12-01,Rwanda,Kenya,0,0,CECAFA Cup,Addis Ababa,Ethiopia,True
+2016-03-23,Guinea-Bissau,Kenya,1,0,African Cup of Nations qualification,Bissau,Guinea-Bissau,False
+2016-03-27,Kenya,Guinea-Bissau,0,1,African Cup of Nations qualification,Nairobi,Kenya,False
+2016-05-29,Kenya,Tanzania,1,1,Friendly,Nairobi,Kenya,False
+2016-05-31,Kenya,Sudan,1,1,Friendly,Nairobi,Kenya,False
+2016-06-05,Kenya,Congo,2,1,African Cup of Nations qualification,Nairobi,Kenya,False
+2016-08-30,Uganda,Kenya,0,0,Friendly,Kampala,Uganda,False
+2016-09-04,Zambia,Kenya,1,1,African Cup of Nations qualification,Ndola,Zambia,False
+2016-10-04,DR Congo,Kenya,0,1,Friendly,Kinshasa,DR Congo,False
+2016-11-12,Kenya,Mozambique,1,0,Friendly,Nairobi,Kenya,False
+2016-11-15,Kenya,Liberia,1,0,Friendly,Nairobi,Kenya,False
+2017-03-23,Kenya,Uganda,1,1,Friendly,Machakos,Kenya,False
+2017-03-26,Kenya,DR Congo,2,1,Friendly,Machakos,Kenya,False
+2017-08-31,Kenya,Mauritania,1,1,Friendly,Agadir,Morocco,True
+2017-09-02,Mozambique,Kenya,1,1,Friendly,Maputo,Mozambique,False
+2017-10-05,Iraq,Kenya,2,1,Friendly,Basra,Iraq,False
+2017-10-08,Thailand,Kenya,1,0,Friendly,Pak Kret,Thailand,False
+2017-12-03,Kenya,Rwanda,2,0,CECAFA Cup,Kakamega,Kenya,False
+2017-12-05,Kenya,Libya,0,0,CECAFA Cup,Machakos,Kenya,False
+2017-12-09,Kenya,Zanzibar,0,0,CECAFA Cup,Machakos,Kenya,False
+2017-12-11,Kenya,Tanzania,1,0,CECAFA Cup,Machakos,Kenya,False
+2017-12-14,Kenya,Burundi,1,0,CECAFA Cup,Kisumu,Kenya,False
+2017-12-17,Kenya,Zanzibar,2,2,CECAFA Cup,Machakos,Kenya,False
+2018-03-24,Comoros,Kenya,2,2,Friendly,Marrakech,Morocco,True
+2018-03-27,Central African Republic,Kenya,3,2,Friendly,Marrakech,Morocco,True
+2018-05-25,Kenya,Eswatini,0,1,Friendly,Machakos,Kenya,False
+2018-05-28,Kenya,Equatorial Guinea,1,0,Friendly,Machakos,Kenya,False
+2018-06-02,Kenya,New Zealand,2,1,Intercontinental Cup,Mumbai,India,True
+2018-06-04,India,Kenya,3,0,Intercontinental Cup,Mumbai,India,False
+2018-06-08,Taiwan,Kenya,0,4,Intercontinental Cup,Mumbai,India,True
+2018-06-10,India,Kenya,2,0,Intercontinental Cup,Mumbai,India,False
+2018-09-08,Kenya,Ghana,1,0,African Cup of Nations qualification,Nairobi,Kenya,False
+2018-09-11,Kenya,Malawi,1,0,Friendly,Nairobi,Kenya,False
+2018-10-10,Ethiopia,Kenya,0,0,African Cup of Nations qualification,Bahir Dar,Ethiopia,False
+2018-10-14,Kenya,Ethiopia,3,0,African Cup of Nations qualification,Nairobi,Kenya,False
+2019-03-23,Ghana,Kenya,1,0,African Cup of Nations qualification,Accra,Ghana,False
+2019-06-07,Kenya,Madagascar,1,0,Friendly,Bondoufle,Kenya,False
+2019-06-15,Kenya,DR Congo,1,1,Friendly,Madrid,Spain,True
+2019-06-23,Algeria,Kenya,2,0,African Cup of Nations,Cairo,Egypt,True
+2019-06-27,Kenya,Tanzania,3,2,African Cup of Nations,Cairo,Egypt,True
+2019-07-01,Kenya,Senegal,0,3,African Cup of Nations,Cairo,Egypt,True
+2019-09-08,Kenya,Uganda,1,1,Friendly,Nairobi,Kenya,False
+2019-10-13,Kenya,Mozambique,0,1,Friendly,Kenya,Kenya,False
+2019-11-14,Egypt,Kenya,1,1,African Cup of Nations qualification,Alexandria,Egypt,False
+2019-11-18,Kenya,Togo,1,1,African Cup of Nations qualification,Kasarani,Kenya,False
+2020-10-09,Kenya,Zambia,2,1,Friendly,Nairobi,Kenya,False
+2020-11-11,Kenya,Comoros,1,1,African Cup of Nations qualification,Nairobi,Kenya,False
+2020-11-15,Comoros,Kenya,2,1,African Cup of Nations qualification,Moroni,Comoros,False
+2021-03-13,Kenya,South Sudan,1,0,Friendly,Nairobi,Kenya,False
+2021-03-15,Kenya,Tanzania,2,1,Friendly,Nairobi,Kenya,False
+2021-03-25,Kenya,Egypt,1,1,African Cup of Nations qualification,Nairobi,Kenya,False
+2021-03-29,Togo,Kenya,1,2,African Cup of Nations qualification,Lomé,Togo,False
+2021-09-02,Kenya,Uganda,0,0,FIFA World Cup qualification,Nairobi,Kenya,False
+2021-09-05,Rwanda,Kenya,1,1,FIFA World Cup qualification,Kigali,Rwanda,False
+2021-10-07,Mali,Kenya,5,0,FIFA World Cup qualification,Agadir,Morocco,True
+2021-10-10,Kenya,Mali,0,1,FIFA World Cup qualification,Nairobi,Kenya,False
+2021-11-11,Uganda,Kenya,1,1,FIFA World Cup qualification,Entebbe,Uganda,False
+2021-11-15,Kenya,Rwanda,2,1,FIFA World Cup qualification,Nairobi,Kenya,False
+2023-03-28,Iran,Kenya,2,1,Friendly,Tehran,Iran,False
+2023-06-14,Pakistan,Kenya,0,1,Mauritius Four Nations Cup,Saint Pierre,Mauritius,True
+2023-06-18,Mauritius,Kenya,1,0,Mauritius Four Nations Cup,Saint Pierre,Mauritius,False
+2023-09-07,Qatar,Kenya,1,2,Friendly,Al Wakrah,Qatar,False
+2023-09-12,Kenya,South Sudan,0,1,Friendly,Nairobi,Kenya,False
+2023-10-16,Kenya,Russia,2,2,Friendly,Antalya,Turkey,True
+2023-11-16,Gabon,Kenya,2,1,FIFA World Cup qualification,Franceville,Gabon,False
+2023-11-20,Seychelles,Kenya,0,5,FIFA World Cup qualification,Abidjan,Ivory Coast,True
+2024-06-07,Kenya,Burundi,1,1,FIFA World Cup qualification,Lilongwe,Malawi,True
+2024-06-11,Kenya,Ivory Coast,0,0,FIFA World Cup qualification,Lilongwe,Malawi,True
+2024-09-06,Kenya,Zimbabwe,0,0,African Cup of Nations qualification,Kampala,Uganda,True
+2024-09-10,Namibia,Kenya,1,2,African Cup of Nations qualification,Johannesburg,South Africa,True
+2024-10-11,Cameroon,Kenya,4,1,African Cup of Nations qualification,Douala,Cameroon,False
+2024-10-14,Kenya,Cameroon,0,1,African Cup of Nations qualification,Kampala,Uganda,True
+2025-01-04,Burkina Faso,Kenya,1,1,Mapinduzi Cup,Gombani,Zanzibar,True
+2025-01-07,Tanzania,Kenya,0,2,Mapinduzi Cup,Gombani,Zanzibar,True
+2025-01-10,Zanzibar,Kenya,1,0,Mapinduzi Cup,Gombani,Zanzibar,False
+2025-03-20,Gambia,Kenya,3,3,FIFA World Cup qualification,Ebimpé,Ivory Coast,True
+2025-03-23,Kenya,Gabon,1,2,FIFA World Cup qualification,Nairobi,Kenya,False

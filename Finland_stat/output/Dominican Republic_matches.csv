@@ -1,0 +1,148 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1949-05-14,Cuba,Dominican Republic,0,1,Friendly,Paramaribo,Dutch Guyana,True
+1976-04-02,Dominican Republic,Haiti,0,3,CONCACAF Championship qualification,Santo Domingo,Dominican Republic,False
+1976-04-17,Haiti,Dominican Republic,3,0,CONCACAF Championship qualification,Port-au-Prince,Haiti,False
+1986-05-21,Panama,Dominican Republic,2,1,Friendly,Panama City,Panama,False
+1987-02-25,Dominican Republic,Panama,0,2,Friendly,Santo Domingo,Dominican Republic,False
+1987-02-27,Dominican Republic,Panama,1,2,Friendly,Santo Domingo,Dominican Republic,False
+1987-02-28,Dominican Republic,Panama,1,1,Friendly,Santo Domingo,Dominican Republic,False
+1987-03-03,Dominican Republic,Panama,0,1,Friendly,Santo Domingo,Dominican Republic,False
+1991-05-12,Dominican Republic,Haiti,1,1,CFU Caribbean Cup qualification,San Juan,Puerto Rico,True
+1991-05-14,Puerto Rico,Dominican Republic,1,3,CFU Caribbean Cup qualification,San Juan,Puerto Rico,False
+1991-05-23,Dominican Republic,Trinidad and Tobago,0,7,CFU Caribbean Cup,Kingston,Jamaica,True
+1991-05-25,Dominican Republic,Saint Lucia,0,0,CFU Caribbean Cup,Kingston,Jamaica,True
+1991-05-27,Dominican Republic,Martinique,1,4,CFU Caribbean Cup,Kingston,Jamaica,True
+1992-03-21,Dominican Republic,Puerto Rico,1,2,FIFA World Cup qualification,Santo Domingo,Dominican Republic,False
+1992-03-29,Puerto Rico,Dominican Republic,1,1,FIFA World Cup qualification,San Juan,Puerto Rico,False
+1993-04-04,Dominican Republic,British Virgin Islands,3,1,CFU Caribbean Cup qualification,Basseterre,Saint Kitts and Nevis,True
+1993-04-06,Saint Kitts and Nevis,Dominican Republic,2,2,CFU Caribbean Cup qualification,Basseterre,Saint Kitts and Nevis,False
+1994-03-10,Dominican Republic,Haiti,0,1,CFU Caribbean Cup qualification,Santo Domingo,Dominican Republic,False
+1995-05-23,Dominican Republic,Puerto Rico,3,1,CFU Caribbean Cup qualification,Santo Domingo,Dominican Republic,False
+1995-05-25,Dominican Republic,Cuba,0,3,CFU Caribbean Cup qualification,Santo Domingo,Dominican Republic,False
+1995-05-27,Dominican Republic,Curaçao,1,2,CFU Caribbean Cup qualification,Santo Domingo,Dominican Republic,False
+1996-03-24,Dominican Republic,Aruba,3,2,FIFA World Cup qualification,Santo Domingo,Dominican Republic,False
+1996-03-31,Aruba,Dominican Republic,1,3,FIFA World Cup qualification,Oranjestad,Aruba,False
+1996-04-26,Haiti,Dominican Republic,6,0,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,False
+1996-04-28,Haiti,Dominican Republic,1,1,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,False
+1996-05-04,Dominican Republic,Curaçao,2,1,FIFA World Cup qualification,Santo Domingo,Dominican Republic,False
+1996-05-11,Curaçao,Dominican Republic,0,0,FIFA World Cup qualification,Willemstad,Curaçao,True
+1996-06-15,Dominican Republic,Trinidad and Tobago,1,4,FIFA World Cup qualification,Santo Domingo,Dominican Republic,False
+1996-06-23,Trinidad and Tobago,Dominican Republic,8,0,FIFA World Cup qualification,Port of Spain,Trinidad and Tobago,False
+1998-03-13,Dominican Republic,Puerto Rico,3,1,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,True
+1998-03-15,Haiti,Dominican Republic,5,0,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,False
+1999-03-17,British Virgin Islands,Dominican Republic,0,0,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,True
+1999-03-19,Haiti,Dominican Republic,4,0,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,False
+1999-03-21,Dominican Republic,Puerto Rico,2,0,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,True
+2000-02-13,Dominican Republic,British Virgin Islands,1,0,Friendly,Santo Domingo,Dominican Republic,False
+2000-03-05,Dominican Republic,Montserrat,3,0,FIFA World Cup qualification,San Cristóbal,Dominican Republic,False
+2000-03-19,Montserrat,Dominican Republic,1,3,FIFA World Cup qualification,Port of Spain,Trinidad and Tobago,True
+2000-04-02,Trinidad and Tobago,Dominican Republic,3,0,FIFA World Cup qualification,Port of Spain,Trinidad and Tobago,False
+2000-04-16,Dominican Republic,Trinidad and Tobago,0,1,FIFA World Cup qualification,San Cristóbal,Dominican Republic,False
+2001-03-01,Saint Kitts and Nevis,Dominican Republic,2,1,CFU Caribbean Cup qualification,St. John's,Antigua and Barbuda,True
+2001-03-03,Antigua and Barbuda,Dominican Republic,2,3,CFU Caribbean Cup qualification,St. John's,Antigua and Barbuda,False
+2002-08-16,Dominican Republic,United States Virgin Islands,6,1,Gold Cup qualification,San Cristóbal,Dominican Republic,False
+2002-08-18,Dominican Republic,United States Virgin Islands,5,1,Gold Cup qualification,San Cristóbal,Dominican Republic,False
+2002-11-27,Martinique,Dominican Republic,4,0,Gold Cup qualification,George Town,Cayman Islands,True
+2002-11-29,Cayman Islands,Dominican Republic,1,0,Gold Cup qualification,George Town,Cayman Islands,False
+2002-12-01,Dominican Republic,Cuba,1,2,Gold Cup qualification,George Town,Cayman Islands,True
+2004-03-19,Dominican Republic,Anguilla,0,0,FIFA World Cup qualification,Santo Domingo,Dominican Republic,False
+2004-03-21,Dominican Republic,Anguilla,6,0,FIFA World Cup qualification,Santo Domingo,Dominican Republic,False
+2004-04-27,Curaçao,Dominican Republic,3,1,Friendly,Willemstad,Curaçao,False
+2004-06-13,Dominican Republic,Trinidad and Tobago,0,2,FIFA World Cup qualification,Santo Domingo,Dominican Republic,False
+2004-06-20,Trinidad and Tobago,Dominican Republic,4,0,FIFA World Cup qualification,San Fernando,Trinidad and Tobago,False
+2006-09-15,Haiti,Dominican Republic,3,1,Friendly,Saint-Marc,Haiti,False
+2006-09-17,Haiti,Dominican Republic,2,1,Friendly,Port-au-Prince,Haiti,False
+2006-09-29,Bermuda,Dominican Republic,3,1,CFU Caribbean Cup qualification,Charlotte Amalie,United States Virgin Islands,True
+2006-10-01,United States Virgin Islands,Dominican Republic,1,6,CFU Caribbean Cup qualification,Charlotte Amalie,United States Virgin Islands,False
+2006-11-24,Dominican Republic,Guadeloupe,0,3,CFU Caribbean Cup qualification,Georgetown,Guyana,True
+2006-11-26,Dominican Republic,Antigua and Barbuda,2,0,CFU Caribbean Cup qualification,Georgetown,Guyana,True
+2006-11-28,Guyana,Dominican Republic,4,0,CFU Caribbean Cup qualification,Georgetown,Guyana,False
+2008-02-27,Dominican Republic,Haiti,1,2,Friendly,San Cristóbal,Dominican Republic,False
+2008-02-28,Dominican Republic,Haiti,0,2,Friendly,San Cristóbal,Dominican Republic,False
+2008-03-26,Puerto Rico,Dominican Republic,1,0,FIFA World Cup qualification,Bayamón,Puerto Rico,False
+2008-10-08,Trinidad and Tobago,Dominican Republic,9,0,Friendly,Port of Spain,Trinidad and Tobago,False
+2010-10-14,Dominican Republic,British Virgin Islands,17,0,CFU Caribbean Cup qualification,San Cristóbal,Dominican Republic,False
+2010-10-17,Dominican Republic,Dominica,0,1,CFU Caribbean Cup qualification,San Cristóbal,Dominican Republic,False
+2011-07-08,Dominican Republic,Anguilla,2,0,FIFA World Cup qualification,San Cristóbal,Dominican Republic,False
+2011-07-10,Dominican Republic,Anguilla,4,0,FIFA World Cup qualification,San Cristóbal,Dominican Republic,False
+2011-08-20,Dominican Republic,Curaçao,1,0,Friendly,San Cristóbal,Dominican Republic,False
+2011-08-21,Dominican Republic,Curaçao,1,0,Friendly,San Cristóbal,Dominican Republic,False
+2011-09-02,El Salvador,Dominican Republic,3,2,FIFA World Cup qualification,San Salvador,El Salvador,False
+2011-09-06,Dominican Republic,Suriname,1,1,FIFA World Cup qualification,San Cristóbal,Dominican Republic,False
+2011-10-07,Dominican Republic,El Salvador,1,2,FIFA World Cup qualification,San Cristóbal,Dominican Republic,False
+2011-10-11,Suriname,Dominican Republic,1,3,FIFA World Cup qualification,Paramaribo,Suriname,False
+2011-11-11,Dominican Republic,Cayman Islands,4,0,FIFA World Cup qualification,San Cristóbal,Dominican Republic,False
+2011-11-14,Cayman Islands,Dominican Republic,1,1,FIFA World Cup qualification,George Town,Cayman Islands,False
+2012-09-23,Aruba,Dominican Republic,2,2,CFU Caribbean Cup qualification,Bridgetown,Barbados,True
+2012-09-25,Barbados,Dominican Republic,0,1,CFU Caribbean Cup qualification,Bridgetown,Barbados,False
+2012-09-27,Dominican Republic,Dominica,2,1,CFU Caribbean Cup qualification,Bridgetown,Barbados,True
+2012-10-23,Guadeloupe,Dominican Republic,0,2,CFU Caribbean Cup qualification,Les Abymes,Guadeloupe,False
+2012-10-25,Dominican Republic,Martinique,1,1,CFU Caribbean Cup qualification,Les Abymes,Guadeloupe,True
+2012-10-27,Puerto Rico,Dominican Republic,1,3,CFU Caribbean Cup qualification,Les Abymes,Guadeloupe,True
+2012-12-07,Antigua and Barbuda,Dominican Republic,1,2,CFU Caribbean Cup,St. John's,Antigua and Barbuda,False
+2012-12-09,Dominican Republic,Haiti,1,2,CFU Caribbean Cup,St. John's,Antigua and Barbuda,True
+2012-12-11,Trinidad and Tobago,Dominican Republic,2,1,CFU Caribbean Cup,St. John's,Antigua and Barbuda,True
+2013-03-24,Dominican Republic,Haiti,3,1,Friendly,San Cristóbal,Dominican Republic,False
+2013-08-14,Dominican Republic,Costa Rica,0,4,Friendly,Santo Domingo,Dominican Republic,False
+2014-08-30,El Salvador,Dominican Republic,2,0,Friendly,San Salvador,El Salvador,False
+2014-10-08,Trinidad and Tobago,Dominican Republic,6,1,CFU Caribbean Cup qualification,Couva,Trinidad and Tobago,False
+2014-10-12,Saint Lucia,Dominican Republic,2,3,CFU Caribbean Cup qualification,Couva,Trinidad and Tobago,True
+2015-03-25,Dominican Republic,Cuba,0,3,Friendly,Santiago de los Caballeros,Dominican Republic,False
+2015-05-13,Dominican Republic,Cayman Islands,6,0,Friendly,Santiago de los Caballeros,Dominican Republic,False
+2015-06-11,Dominican Republic,Belize,1,2,FIFA World Cup qualification,Santo Domingo,Dominican Republic,False
+2015-06-14,Belize,Dominican Republic,3,0,FIFA World Cup qualification,Belmopan,Belize,False
+2016-03-26,Curaçao,Dominican Republic,2,1,CFU Caribbean Cup qualification,Willemstad,Curaçao,False
+2016-03-29,Dominican Republic,Barbados,2,0,CFU Caribbean Cup qualification,Santo Domingo,Dominican Republic,False
+2016-06-07,Dominican Republic,French Guiana,2,1,CFU Caribbean Cup qualification,Santo Domingo,Dominican Republic,False
+2016-08-28,Dominican Republic,Puerto Rico,5,0,Friendly,San Cristóbal,Dominican Republic,False
+2016-10-05,Trinidad and Tobago,Dominican Republic,4,0,CFU Caribbean Cup qualification,Couva,Trinidad and Tobago,False
+2016-10-08,Dominican Republic,Martinique,1,2,CFU Caribbean Cup qualification,San Cristóbal,Dominican Republic,False
+2017-11-08,Nicaragua,Dominican Republic,0,3,Friendly,Diriamba,Nicaragua,False
+2017-11-11,Dominican Republic,Nicaragua,1,0,Friendly,San Cristóbal,Dominican Republic,False
+2018-03-22,Dominican Republic,Turks and Caicos Islands,4,0,Friendly,Santo Domingo,Dominican Republic,False
+2018-03-25,Dominican Republic,Saint Kitts and Nevis,2,1,Friendly,Santiago,Dominican Republic,False
+2018-09-09,Bonaire,Dominican Republic,0,5,CONCACAF Nations League qualification,Willemstad,Curaçao,True
+2018-10-12,Dominican Republic,Cayman Islands,3,0,CONCACAF Nations League qualification,Santiago de los Caballeros,Dominican Republic,False
+2018-11-17,Cuba,Dominican Republic,1,0,CONCACAF Nations League qualification,Havana,Cuba,False
+2019-03-24,Dominican Republic,Bermuda,1,3,CONCACAF Nations League qualification,Santiago de los Caballeros,Dominican Republic,False
+2019-08-14,Dominican Republic,Guatemala,0,0,Friendly,Santiago de los Caballeros,Dominican Republic,False
+2019-08-29,United Arab Emirates,Dominican Republic,4,0,Friendly,Riffa,Bahrain,True
+2019-09-07,Montserrat,Dominican Republic,2,1,CONCACAF Nations League,Lookout,Montserrat,False
+2019-09-10,Dominican Republic,El Salvador,1,0,CONCACAF Nations League,Santiago de los Caballeros,Dominican Republic,False
+2019-10-12,Dominican Republic,Saint Lucia,3,0,CONCACAF Nations League,Santo Domingo,Dominican Republic,False
+2019-10-15,Dominican Republic,Montserrat,0,0,CONCACAF Nations League,Santo Domingo,Dominican Republic,False
+2019-11-16,Saint Lucia,Dominican Republic,1,0,CONCACAF Nations League,Gros Islet,Saint Lucia,False
+2019-11-19,El Salvador,Dominican Republic,2,0,CONCACAF Nations League,San Salvador,El Salvador,False
+2021-01-19,Dominican Republic,Puerto Rico,0,1,Friendly,Santo Domingo,Dominican Republic,False
+2021-01-25,Dominican Republic,Serbia,0,0,Friendly,Santo Domingo,Dominican Republic,False
+2021-03-24,Dominican Republic,Dominica,1,0,FIFA World Cup qualification,Santo Domingo,Dominican Republic,False
+2021-03-27,Anguilla,Dominican Republic,0,6,FIFA World Cup qualification,Fort Lauderdale,United States,True
+2021-06-04,Dominican Republic,Barbados,1,1,FIFA World Cup qualification,Santo Domingo,Dominican Republic,False
+2021-06-08,Panama,Dominican Republic,3,0,FIFA World Cup qualification,Panama City,Panama,False
+2022-06-02,Belize,Dominican Republic,0,2,CONCACAF Nations League,Belmopan,Belize,False
+2022-06-05,Dominican Republic,French Guiana,2,3,CONCACAF Nations League,Santo Domingo,Dominican Republic,False
+2022-06-10,Dominican Republic,Guatemala,1,1,CONCACAF Nations League,Santo Domingo,Dominican Republic,False
+2022-06-13,Guatemala,Dominican Republic,2,0,CONCACAF Nations League,Guatemala City,Guatemala,False
+2022-11-16,Dominican Republic,Cuba,2,4,Friendly,Santiago de los Caballeros,Dominican Republic,False
+2022-11-18,Dominican Republic,Cuba,1,1,Friendly,San Cristóbal,Dominican Republic,False
+2023-03-23,French Guiana,Dominican Republic,1,1,CONCACAF Nations League,Cayenne,French Guiana,False
+2023-03-27,Dominican Republic,Belize,2,0,CONCACAF Nations League,Santo Domingo,Dominican Republic,False
+2023-06-16,Chile,Dominican Republic,5,0,Friendly,Viña del Mar,Chile,False
+2023-09-08,Dominican Republic,Nicaragua,0,2,CONCACAF Nations League,Santo Domingo,Dominican Republic,False
+2023-09-11,Dominican Republic,Montserrat,3,0,CONCACAF Nations League,Santo Domingo,Dominican Republic,False
+2023-10-13,Barbados,Dominican Republic,0,5,CONCACAF Nations League,Bridgetown,Barbados,False
+2023-10-16,Dominican Republic,Barbados,5,2,CONCACAF Nations League,Santiago de los Caballeros,Dominican Republic,False
+2023-11-17,Montserrat,Dominican Republic,2,1,CONCACAF Nations League,Lookout,Montserrat,False
+2023-11-21,Nicaragua,Dominican Republic,0,0,CONCACAF Nations League,Managua,Nicaragua,False
+2024-03-23,Dominican Republic,Aruba,2,0,Friendly,Santiago de los Caballeros,Dominican Republic,False
+2024-03-26,Peru,Dominican Republic,4,1,Friendly,Lima,Peru,False
+2024-06-06,Jamaica,Dominican Republic,1,0,FIFA World Cup qualification,Kingston,Jamaica,False
+2024-06-11,Dominican Republic,British Virgin Islands,4,0,FIFA World Cup qualification,San Cristóbal,Dominican Republic,False
+2024-09-07,Bermuda,Dominican Republic,2,3,CONCACAF Nations League,Piggotts,Antigua and Barbuda,True
+2024-09-10,Dominican Republic,Dominica,2,0,CONCACAF Nations League,Piggotts,Antigua and Barbuda,True
+2024-10-12,Antigua and Barbuda,Dominican Republic,0,5,CONCACAF Nations League,Hamilton,Bermuda,True
+2024-10-15,Dominican Republic,Antigua and Barbuda,5,0,CONCACAF Nations League,Hamilton,Bermuda,True
+2024-11-16,Dominican Republic,Dominica,6,1,CONCACAF Nations League,Santiago de los Caballeros,Dominican Republic,False
+2024-11-19,Dominican Republic,Bermuda,6,1,CONCACAF Nations League,Santiago de los Caballeros,Dominican Republic,False
+2025-03-21,Puerto Rico,Dominican Republic,2,2,Friendly,Bayamón,Puerto Rico,False
+2025-03-25,Dominican Republic,Puerto Rico,2,0,Friendly,Santiago de los Caballeros,Dominican Republic,False

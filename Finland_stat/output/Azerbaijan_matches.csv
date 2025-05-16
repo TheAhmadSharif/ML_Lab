@@ -1,0 +1,299 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1979-07-24,Azerbaijan,Lithuania,0,1,Friendly,Moscow,Soviet Union,True
+1992-09-17,Georgia,Azerbaijan,6,3,Friendly,Gurjaani,Georgia,False
+1993-05-25,Azerbaijan,Georgia,1,0,Friendly,Gəncə,Azerbaijan,False
+1993-06-06,Azerbaijan,Tajikistan,2,0,Friendly,Tehran,Iran,True
+1993-06-07,Azerbaijan,Kyrgyzstan,3,2,Friendly,Tehran,Iran,True
+1994-04-19,Malta,Azerbaijan,5,0,Friendly,Attard,Malta,False
+1994-09-07,Romania,Azerbaijan,3,0,UEFA Euro qualification,Bucharest,Romania,False
+1994-10-12,Poland,Azerbaijan,1,0,UEFA Euro qualification,Mielec,Poland,False
+1994-11-16,Azerbaijan,Israel,0,2,UEFA Euro qualification,Trabzon,Turkey,True
+1994-12-13,Azerbaijan,France,0,2,UEFA Euro qualification,Trabzon,Turkey,True
+1995-03-29,Slovakia,Azerbaijan,4,1,UEFA Euro qualification,Košice,Slovakia,False
+1995-04-26,Azerbaijan,Romania,1,4,UEFA Euro qualification,Trabzon,Turkey,True
+1995-08-16,Azerbaijan,Slovakia,0,1,UEFA Euro qualification,Trabzon,Turkey,True
+1995-09-06,France,Azerbaijan,10,0,UEFA Euro qualification,Auxerre,France,False
+1995-10-11,Israel,Azerbaijan,2,0,UEFA Euro qualification,Jaffa,Israel,False
+1995-11-15,Azerbaijan,Poland,0,0,UEFA Euro qualification,Trabzon,Turkey,True
+1996-02-16,Azerbaijan,Estonia,0,0,Friendly,Larnaca,Cyprus,True
+1996-02-27,Azerbaijan,Faroe Islands,3,0,Friendly,Larnaca,Cyprus,True
+1996-04-09,Azerbaijan,Turkey,0,1,Friendly,Baku,Azerbaijan,False
+1996-05-27,Belarus,Azerbaijan,2,2,Friendly,Maladzečna,Belarus,False
+1996-06-02,Norway,Azerbaijan,5,0,FIFA World Cup qualification,Oslo,Norway,False
+1996-08-31,Azerbaijan,Switzerland,1,0,FIFA World Cup qualification,Baku,Azerbaijan,False
+1996-10-07,Oman,Azerbaijan,2,0,Friendly,Muscat,Oman,False
+1996-11-10,Azerbaijan,Hungary,0,3,FIFA World Cup qualification,Baku,Azerbaijan,False
+1997-03-01,Azerbaijan,Estonia,0,2,Friendly,Larnaca,Cyprus,True
+1997-03-22,Azerbaijan,Turkmenistan,3,0,Friendly,Baku,Azerbaijan,False
+1997-04-02,Azerbaijan,Finland,1,2,FIFA World Cup qualification,Baku,Azerbaijan,False
+1997-04-25,Turkmenistan,Azerbaijan,2,0,Friendly,Ashgabat,Turkmenistan,False
+1997-06-04,Estonia,Azerbaijan,1,0,Friendly,Viljandi,Estonia,False
+1997-06-08,Finland,Azerbaijan,3,0,FIFA World Cup qualification,Helsinki,Finland,False
+1997-08-19,Latvia,Azerbaijan,0,0,Friendly,Riga,Latvia,False
+1997-09-06,Azerbaijan,Norway,0,1,FIFA World Cup qualification,Baku,Azerbaijan,False
+1997-09-10,Hungary,Azerbaijan,3,1,FIFA World Cup qualification,Budapest,Hungary,False
+1997-10-11,Switzerland,Azerbaijan,5,0,FIFA World Cup qualification,Zürich,Switzerland,False
+1998-03-22,Azerbaijan,Moldova,1,0,Friendly,Baku,Azerbaijan,False
+1998-04-24,Azerbaijan,Uzbekistan,2,1,Friendly,Baku,Azerbaijan,False
+1998-05-16,Estonia,Azerbaijan,0,0,Friendly,Viljandi,Estonia,False
+1998-06-24,Andorra,Azerbaijan,0,0,Friendly,Viljandi,Estonia,True
+1998-06-26,Azerbaijan,Lithuania,2,1,Friendly,Viljandi,Estonia,True
+1998-08-12,Azerbaijan,Georgia,1,0,Friendly,Gəncə,Azerbaijan,False
+1998-09-05,Slovakia,Azerbaijan,3,0,UEFA Euro qualification,Košice,Slovakia,False
+1998-10-10,Azerbaijan,Hungary,0,4,UEFA Euro qualification,Baku,Azerbaijan,False
+1998-10-14,Liechtenstein,Azerbaijan,2,1,UEFA Euro qualification,Vaduz,Liechtenstein,False
+1998-11-28,Azerbaijan,Estonia,2,1,Friendly,Gəncə,Azerbaijan,False
+1999-03-06,Azerbaijan,Estonia,2,2,Friendly,Larnaca,Cyprus,True
+1999-03-26,Portugal,Azerbaijan,7,0,UEFA Euro qualification,Guimarães,Portugal,False
+1999-03-31,Azerbaijan,Romania,0,1,UEFA Euro qualification,Baku,Azerbaijan,False
+1999-06-05,Azerbaijan,Liechtenstein,4,0,UEFA Euro qualification,Baku,Azerbaijan,False
+1999-06-09,Romania,Azerbaijan,4,0,UEFA Euro qualification,Bucharest,Romania,False
+1999-08-18,Uzbekistan,Azerbaijan,5,1,Friendly,Samarqand,Uzbekistan,False
+1999-09-04,Azerbaijan,Portugal,1,1,UEFA Euro qualification,Baku,Azerbaijan,False
+1999-09-08,Hungary,Azerbaijan,3,0,UEFA Euro qualification,Budapest,Hungary,False
+1999-10-09,Azerbaijan,Slovakia,0,1,UEFA Euro qualification,Baku,Azerbaijan,False
+2000-02-06,Malta,Azerbaijan,3,0,Malta International Tournament,Attard,Malta,False
+2000-02-08,Albania,Azerbaijan,1,0,Malta International Tournament,Attard,Malta,True
+2000-02-10,Andorra,Azerbaijan,0,0,Malta International Tournament,Attard,Malta,True
+2000-06-04,Azerbaijan,Georgia,0,0,Friendly,Baku,Azerbaijan,False
+2000-07-26,Bulgaria,Azerbaijan,2,1,Friendly,Varna,Bulgaria,False
+2000-07-27,Azerbaijan,North Macedonia,1,2,Friendly,Varna,Bulgaria,True
+2000-09-02,Azerbaijan,Sweden,0,1,FIFA World Cup qualification,Baku,Azerbaijan,False
+2000-10-06,North Macedonia,Azerbaijan,3,0,FIFA World Cup qualification,Skopje,North Macedonia,False
+2000-10-11,Azerbaijan,Turkey,0,1,FIFA World Cup qualification,Baku,Azerbaijan,False
+2001-02-15,Azerbaijan,Uzbekistan,1,2,Friendly,Varna,Bulgaria,True
+2001-03-24,Azerbaijan,Moldova,0,0,FIFA World Cup qualification,Baku,Azerbaijan,False
+2001-03-28,Slovakia,Azerbaijan,3,1,FIFA World Cup qualification,Trnava,Slovakia,False
+2001-05-09,Georgia,Azerbaijan,1,0,Friendly,Kutaisi,Georgia,False
+2001-06-02,Turkey,Azerbaijan,3,0,FIFA World Cup qualification,Istanbul,Turkey,False
+2001-06-06,Azerbaijan,Slovakia,2,0,FIFA World Cup qualification,Baku,Azerbaijan,False
+2001-09-01,Moldova,Azerbaijan,2,0,FIFA World Cup qualification,Chișinău,Moldova,False
+2001-09-05,Azerbaijan,North Macedonia,1,1,FIFA World Cup qualification,Baku,Azerbaijan,False
+2001-10-07,Sweden,Azerbaijan,3,0,FIFA World Cup qualification,Solna,Sweden,False
+2002-03-27,Albania,Azerbaijan,1,0,Friendly,Tirana,Albania,False
+2002-04-17,Malta,Azerbaijan,1,0,Friendly,Attard,Malta,False
+2002-07-03,Estonia,Azerbaijan,0,0,Friendly,Kuressaare,Estonia,False
+2002-07-06,Latvia,Azerbaijan,0,0,Friendly,Riga,Latvia,False
+2002-08-21,Azerbaijan,Uzbekistan,2,0,Friendly,Baku,Azerbaijan,False
+2002-09-07,Azerbaijan,Italy,0,2,UEFA Euro qualification,Baku,Azerbaijan,False
+2002-10-12,Finland,Azerbaijan,3,0,UEFA Euro qualification,Helsinki,Finland,False
+2002-11-20,Azerbaijan,Wales,0,2,UEFA Euro qualification,Baku,Azerbaijan,False
+2003-02-12,Serbia,Azerbaijan,2,2,UEFA Euro qualification,Podgorica,Serbia and Montenegro,True
+2003-03-29,Wales,Azerbaijan,4,0,UEFA Euro qualification,Cardiff,Wales,False
+2003-06-11,Azerbaijan,Serbia,2,1,UEFA Euro qualification,Baku,Azerbaijan,False
+2003-09-06,Azerbaijan,Finland,1,2,UEFA Euro qualification,Baku,Azerbaijan,False
+2003-10-11,Italy,Azerbaijan,4,0,UEFA Euro qualification,Reggio di Calabria,Italy,False
+2003-12-14,United Arab Emirates,Azerbaijan,3,3,Friendly,Dubai,United Arab Emirates,False
+2003-12-20,Saudi Arabia,Azerbaijan,1,0,Friendly,Riyadh,Saudi Arabia,False
+2004-03-31,Moldova,Azerbaijan,2,1,Friendly,Chișinău,Moldova,False
+2004-04-28,Kazakhstan,Azerbaijan,2,3,Friendly,Almaty,Kazakhstan,False
+2004-05-28,Azerbaijan,Uzbekistan,3,1,Friendly,Baku,Azerbaijan,False
+2004-06-06,Latvia,Azerbaijan,2,2,Friendly,Riga,Latvia,False
+2004-08-18,Jordan,Azerbaijan,1,1,Friendly,Amman,Jordan,False
+2004-09-04,Azerbaijan,Wales,1,1,FIFA World Cup qualification,Baku,Azerbaijan,False
+2004-09-08,Austria,Azerbaijan,2,0,FIFA World Cup qualification,Vienna,Austria,False
+2004-10-09,Azerbaijan,Northern Ireland,0,0,FIFA World Cup qualification,Baku,Azerbaijan,False
+2004-10-13,Azerbaijan,England,0,1,FIFA World Cup qualification,Baku,Azerbaijan,False
+2004-11-17,Azerbaijan,Bulgaria,0,0,Friendly,Baku,Azerbaijan,False
+2005-01-21,Trinidad and Tobago,Azerbaijan,1,0,Friendly,Port of Spain,Trinidad and Tobago,False
+2005-01-23,Trinidad and Tobago,Azerbaijan,2,0,Friendly,San Fernando,Trinidad and Tobago,False
+2005-02-09,Azerbaijan,Moldova,0,0,Friendly,Baku,Azerbaijan,False
+2005-03-26,Poland,Azerbaijan,8,0,FIFA World Cup qualification,Warsaw,Poland,False
+2005-03-30,England,Azerbaijan,2,0,FIFA World Cup qualification,Newcastle,England,False
+2005-05-29,Iran,Azerbaijan,2,1,Friendly,Tehran,Iran,False
+2005-06-04,Azerbaijan,Poland,0,3,FIFA World Cup qualification,Baku,Azerbaijan,False
+2005-08-17,Albania,Azerbaijan,2,1,Friendly,Tirana,Albania,False
+2005-09-03,Northern Ireland,Azerbaijan,2,0,FIFA World Cup qualification,Belfast,Northern Ireland,False
+2005-09-07,Azerbaijan,Austria,0,0,FIFA World Cup qualification,Baku,Azerbaijan,False
+2005-10-12,Wales,Azerbaijan,2,0,FIFA World Cup qualification,Cardiff,Wales,False
+2006-02-28,Azerbaijan,Ukraine,0,0,Friendly,Baku,Azerbaijan,False
+2006-04-12,Azerbaijan,Turkey,1,1,Friendly,Baku,Azerbaijan,False
+2006-05-18,Moldova,Azerbaijan,0,0,Friendly,Chișinău,Moldova,False
+2006-08-15,Ukraine,Azerbaijan,6,0,Friendly,Kyiv,Ukraine,False
+2006-09-02,Serbia,Azerbaijan,1,0,UEFA Euro qualification,Belgrade,Serbia,False
+2006-09-06,Azerbaijan,Kazakhstan,1,1,UEFA Euro qualification,Baku,Azerbaijan,False
+2006-10-07,Portugal,Azerbaijan,3,0,UEFA Euro qualification,Porto,Portugal,False
+2006-10-11,Belgium,Azerbaijan,3,0,UEFA Euro qualification,Brussels,Belgium,False
+2007-02-07,Uzbekistan,Azerbaijan,0,0,Friendly,Qarshi,Uzbekistan,False
+2007-03-07,Azerbaijan,Uzbekistan,1,0,Friendly,Shymkent,Kazakhstan,True
+2007-03-09,Kazakhstan,Azerbaijan,1,0,Friendly,Shymkent,Kazakhstan,False
+2007-03-11,Azerbaijan,Kyrgyzstan,1,0,Friendly,Shymkent,Kazakhstan,True
+2007-03-24,Poland,Azerbaijan,5,0,UEFA Euro qualification,Warsaw,Poland,False
+2007-03-28,Azerbaijan,Finland,1,0,UEFA Euro qualification,Baku,Azerbaijan,False
+2007-06-02,Azerbaijan,Poland,1,3,UEFA Euro qualification,Baku,Azerbaijan,False
+2007-06-06,Kazakhstan,Azerbaijan,1,1,UEFA Euro qualification,Almaty,Kazakhstan,False
+2007-08-22,Tajikistan,Azerbaijan,2,3,Friendly,Dushanbe,Tajikistan,False
+2007-09-12,Azerbaijan,Georgia,1,1,Friendly,Baku,Azerbaijan,False
+2007-10-13,Azerbaijan,Portugal,0,2,UEFA Euro qualification,Baku,Azerbaijan,False
+2007-10-17,Azerbaijan,Serbia,1,6,UEFA Euro qualification,Baku,Azerbaijan,False
+2007-11-17,Finland,Azerbaijan,2,1,UEFA Euro qualification,Helsinki,Finland,False
+2007-11-21,Azerbaijan,Belgium,0,1,UEFA Euro qualification,Baku,Azerbaijan,False
+2008-02-03,Azerbaijan,Kazakhstan,0,0,Friendly,Antalya,Turkey,True
+2008-03-26,Lithuania,Azerbaijan,1,0,Friendly,Vilnius,Lithuania,False
+2008-06-01,Bosnia and Herzegovina,Azerbaijan,1,0,Friendly,Zenica,Bosnia and Herzegovina,False
+2008-06-04,Andorra,Azerbaijan,1,2,Friendly,Sant Julià de Lòria,Andorra,False
+2008-08-20,Iceland,Azerbaijan,1,1,Friendly,Reykjavík,Iceland,False
+2008-08-27,Iran,Azerbaijan,1,0,Friendly,Tehran,Iran,False
+2008-09-06,Wales,Azerbaijan,1,0,FIFA World Cup qualification,Cardiff,Wales,False
+2008-09-10,Azerbaijan,Liechtenstein,0,0,FIFA World Cup qualification,Baku,Azerbaijan,False
+2008-10-11,Finland,Azerbaijan,1,0,FIFA World Cup qualification,Helsinki,Finland,False
+2008-10-15,Bahrain,Azerbaijan,1,2,Friendly,Arad,Bahrain,False
+2008-11-19,Azerbaijan,Albania,1,1,Friendly,Baku,Azerbaijan,False
+2009-02-01,Azerbaijan,Uzbekistan,1,1,Friendly,Dubai,United Arab Emirates,True
+2009-02-11,Kuwait,Azerbaijan,1,1,Friendly,Kuwait City,Kuwait,False
+2009-03-28,Russia,Azerbaijan,2,0,FIFA World Cup qualification,Moscow,Russia,False
+2009-06-02,Turkey,Azerbaijan,2,0,Friendly,Kayseri,Turkey,False
+2009-06-06,Azerbaijan,Wales,0,1,FIFA World Cup qualification,Baku,Azerbaijan,False
+2009-06-09,Azerbaijan,Spain,0,6,Friendly,Baku,Azerbaijan,False
+2009-08-12,Azerbaijan,Germany,0,2,FIFA World Cup qualification,Baku,Azerbaijan,False
+2009-09-05,Azerbaijan,Finland,1,2,FIFA World Cup qualification,Lənkəran,Azerbaijan,False
+2009-09-09,Germany,Azerbaijan,4,0,FIFA World Cup qualification,Hanover,Germany,False
+2009-10-10,Liechtenstein,Azerbaijan,0,2,FIFA World Cup qualification,Vaduz,Liechtenstein,False
+2009-10-14,Azerbaijan,Russia,1,1,FIFA World Cup qualification,Baku,Azerbaijan,False
+2009-11-15,Iraq,Azerbaijan,1,0,Friendly,Al Ain,United Arab Emirates,True
+2009-11-18,Azerbaijan,Czech Republic,2,0,Friendly,Al Ain,United Arab Emirates,True
+2010-02-25,Jordan,Azerbaijan,0,2,Friendly,Amman,Jordan,False
+2010-03-03,Luxembourg,Azerbaijan,1,2,Friendly,Luxembourg,Luxembourg,False
+2010-05-26,Azerbaijan,Moldova,1,1,Friendly,Seekirchen am Wallersee,Austria,True
+2010-05-29,Azerbaijan,North Macedonia,1,3,Friendly,Bischofshofen,Austria,True
+2010-06-02,Azerbaijan,Honduras,0,0,Friendly,Zell am See,Austria,True
+2010-08-11,Azerbaijan,Kuwait,1,1,Friendly,Baku,Azerbaijan,False
+2010-09-07,Germany,Azerbaijan,6,1,UEFA Euro qualification,Cologne,Germany,False
+2010-10-08,Austria,Azerbaijan,3,0,UEFA Euro qualification,Vienna,Austria,False
+2010-10-12,Azerbaijan,Turkey,1,0,UEFA Euro qualification,Baku,Azerbaijan,False
+2010-11-17,Montenegro,Azerbaijan,2,0,Friendly,Podgorica,Montenegro,False
+2011-02-09,Azerbaijan,Hungary,0,2,Friendly,Dubai,United Arab Emirates,True
+2011-03-29,Belgium,Azerbaijan,4,1,UEFA Euro qualification,Brussels,Belgium,False
+2011-06-03,Kazakhstan,Azerbaijan,2,1,UEFA Euro qualification,Astana,Kazakhstan,False
+2011-06-07,Azerbaijan,Germany,1,3,UEFA Euro qualification,Baku,Azerbaijan,False
+2011-08-10,Azerbaijan,North Macedonia,0,1,Friendly,Baku,Azerbaijan,False
+2011-09-02,Azerbaijan,Belgium,1,1,UEFA Euro qualification,Baku,Azerbaijan,False
+2011-09-06,Azerbaijan,Kazakhstan,3,2,UEFA Euro qualification,Baku,Azerbaijan,False
+2011-10-07,Azerbaijan,Austria,1,4,UEFA Euro qualification,Baku,Azerbaijan,False
+2011-10-11,Turkey,Azerbaijan,1,0,UEFA Euro qualification,Istanbul,Turkey,False
+2011-11-11,Albania,Azerbaijan,0,1,Friendly,Tirana,Albania,False
+2012-02-24,Singapore,Azerbaijan,2,2,Friendly,Dubai,United Arab Emirates,True
+2012-02-27,India,Azerbaijan,0,3,Friendly,Dubai,United Arab Emirates,True
+2012-02-29,Palestine,Azerbaijan,2,0,Friendly,Dubai,United Arab Emirates,True
+2012-05-23,Japan,Azerbaijan,2,0,Friendly,Shizuoka,Japan,False
+2012-05-30,Azerbaijan,Andorra,0,0,Friendly,Kelsterbach,Germany,True
+2012-08-15,Azerbaijan,Bahrain,3,0,Friendly,Bakıxanov,Azerbaijan,False
+2012-09-07,Azerbaijan,Israel,1,1,FIFA World Cup qualification,Baku,Azerbaijan,False
+2012-09-11,Portugal,Azerbaijan,3,0,FIFA World Cup qualification,Braga,Portugal,False
+2012-10-16,Russia,Azerbaijan,1,0,FIFA World Cup qualification,Moscow,Russia,False
+2012-11-14,Northern Ireland,Azerbaijan,1,1,FIFA World Cup qualification,Belfast,Northern Ireland,False
+2013-02-01,Uzbekistan,Azerbaijan,0,0,Friendly,Dubai,United Arab Emirates,True
+2013-02-06,Azerbaijan,Liechtenstein,1,0,Friendly,Dubai,United Arab Emirates,True
+2013-03-22,Luxembourg,Azerbaijan,0,0,FIFA World Cup qualification,Luxembourg,Luxembourg,False
+2013-03-26,Azerbaijan,Portugal,0,2,FIFA World Cup qualification,Baku,Azerbaijan,False
+2013-05-29,Qatar,Azerbaijan,1,1,Friendly,Doha,Qatar,False
+2013-06-07,Azerbaijan,Luxembourg,1,1,FIFA World Cup qualification,Baku,Azerbaijan,False
+2013-08-14,Azerbaijan,Malta,3,0,Friendly,Baku,Azerbaijan,False
+2013-09-07,Israel,Azerbaijan,1,1,FIFA World Cup qualification,Ramat Gan,Israel,False
+2013-10-11,Azerbaijan,Northern Ireland,2,0,FIFA World Cup qualification,Baku,Azerbaijan,False
+2013-10-15,Azerbaijan,Russia,1,1,FIFA World Cup qualification,Baku,Azerbaijan,False
+2013-11-15,Estonia,Azerbaijan,2,1,Friendly,Tallinn,Estonia,False
+2013-11-19,Kyrgyzstan,Azerbaijan,0,0,Friendly,Bishkek,Kyrgyzstan,False
+2014-03-05,Philippines,Azerbaijan,0,1,Friendly,Dubai,United Arab Emirates,True
+2014-08-20,Azerbaijan,Uzbekistan,0,0,Friendly,Baku,Azerbaijan,False
+2014-09-03,Russia,Azerbaijan,4,0,Friendly,Khimki,Russia,False
+2014-09-09,Azerbaijan,Bulgaria,1,2,UEFA Euro qualification,Baku,Azerbaijan,False
+2014-10-10,Italy,Azerbaijan,2,1,UEFA Euro qualification,Palermo,Italy,False
+2014-10-13,Croatia,Azerbaijan,6,0,UEFA Euro qualification,Osijek,Croatia,False
+2014-11-16,Azerbaijan,Norway,0,1,UEFA Euro qualification,Baku,Azerbaijan,False
+2015-03-28,Azerbaijan,Malta,2,0,UEFA Euro qualification,Baku,Azerbaijan,False
+2015-06-07,Serbia,Azerbaijan,4,1,Friendly,Sankt Pölten,Austria,True
+2015-06-12,Norway,Azerbaijan,0,0,UEFA Euro qualification,Oslo,Norway,False
+2015-09-03,Azerbaijan,Croatia,0,0,UEFA Euro qualification,Baku,Azerbaijan,False
+2015-09-06,Malta,Azerbaijan,2,2,UEFA Euro qualification,Attard,Malta,False
+2015-10-10,Azerbaijan,Italy,1,3,UEFA Euro qualification,Baku,Azerbaijan,False
+2015-10-13,Bulgaria,Azerbaijan,2,0,UEFA Euro qualification,Sofia,Bulgaria,False
+2015-11-17,Azerbaijan,Moldova,2,1,Friendly,Baku,Azerbaijan,False
+2016-03-26,Azerbaijan,Kazakhstan,0,1,Friendly,Belek,Turkey,True
+2016-05-26,Azerbaijan,Andorra,0,0,Friendly,Bad Erlach,Austria,True
+2016-05-29,Azerbaijan,North Macedonia,1,3,Friendly,Bad Erlach,Austria,True
+2016-06-03,Azerbaijan,Canada,1,1,Friendly,Rohrbach an der Lafnitz,Austria,True
+2016-09-04,San Marino,Azerbaijan,0,1,FIFA World Cup qualification,Serravalle,San Marino,False
+2016-10-08,Azerbaijan,Norway,1,0,FIFA World Cup qualification,Baku,Azerbaijan,False
+2016-10-11,Czech Republic,Azerbaijan,0,0,FIFA World Cup qualification,Ostrava,Czech Republic,False
+2016-11-11,Northern Ireland,Azerbaijan,4,0,FIFA World Cup qualification,Belfast,Northern Ireland,False
+2017-03-09,Qatar,Azerbaijan,1,2,Friendly,Doha,Qatar,False
+2017-03-26,Azerbaijan,Germany,1,4,FIFA World Cup qualification,Baku,Azerbaijan,False
+2017-06-10,Azerbaijan,Northern Ireland,0,1,FIFA World Cup qualification,Baku,Azerbaijan,False
+2017-09-01,Norway,Azerbaijan,2,0,FIFA World Cup qualification,Oslo,Norway,False
+2017-09-04,Azerbaijan,San Marino,5,1,FIFA World Cup qualification,Baku,Azerbaijan,False
+2017-10-05,Azerbaijan,Czech Republic,1,2,FIFA World Cup qualification,Baku,Azerbaijan,False
+2017-10-08,Germany,Azerbaijan,5,1,FIFA World Cup qualification,Kaiserslautern,Germany,False
+2018-01-30,Azerbaijan,Moldova,0,0,Friendly,Antalya,Turkey,True
+2018-03-23,Azerbaijan,Belarus,0,1,Friendly,Baku,Azerbaijan,False
+2018-03-27,Azerbaijan,North Macedonia,1,1,Friendly,Antalya,Turkey,True
+2018-05-29,Azerbaijan,Kyrgyzstan,3,0,Friendly,Baku,Azerbaijan,False
+2018-06-05,Kazakhstan,Azerbaijan,3,0,Friendly,Astana,Kazakhstan,False
+2018-06-09,Latvia,Azerbaijan,1,3,Friendly,Riga,Latvia,False
+2018-09-07,Azerbaijan,Kosovo,0,0,UEFA Nations League,Baku,Azerbaijan,False
+2018-09-10,Malta,Azerbaijan,1,1,UEFA Nations League,Attard,Malta,False
+2018-10-11,Faroe Islands,Azerbaijan,0,3,UEFA Nations League,Tórshavn,Faroe Islands,False
+2018-10-14,Azerbaijan,Malta,1,1,UEFA Nations League,Baku,Azerbaijan,False
+2018-11-17,Azerbaijan,Faroe Islands,2,0,UEFA Nations League,Baku,Azerbaijan,False
+2018-11-20,Kosovo,Azerbaijan,4,0,UEFA Nations League,Pristina,Kosovo,False
+2019-03-21,Croatia,Azerbaijan,2,1,UEFA Euro qualification,Zagreb,Croatia,False
+2019-03-25,Azerbaijan,Lithuania,0,0,Friendly,Baku,Azerbaijan,False
+2019-06-08,Azerbaijan,Hungary,1,3,UEFA Euro qualification,Baku,Azerbaijan,False
+2019-06-11,Azerbaijan,Slovakia,1,5,UEFA Euro qualification,Baku,Azerbaijan,False
+2019-09-06,Wales,Azerbaijan,2,1,UEFA Euro qualification,Cardiff,Wales,False
+2019-09-09,Azerbaijan,Croatia,1,1,UEFA Euro qualification,Baku,Azerbaijan,False
+2019-10-09,Bahrain,Azerbaijan,2,3,Friendly,Riffa,Bahrain,False
+2019-10-13,Hungary,Azerbaijan,1,0,UEFA Euro qualification,Budapest,Hungary,False
+2019-11-16,Azerbaijan,Wales,0,2,UEFA Euro qualification,Baku,Azerbaijan,False
+2019-11-19,Slovakia,Azerbaijan,2,0,UEFA Euro qualification,Trnava,Slovakia,False
+2020-09-05,Azerbaijan,Luxembourg,1,2,UEFA Nations League,Baku,Azerbaijan,False
+2020-09-08,Cyprus,Azerbaijan,0,1,UEFA Nations League,Nicosia,Cyprus,False
+2020-10-10,Montenegro,Azerbaijan,2,0,UEFA Nations League,Podgorica,Montenegro,False
+2020-10-13,Azerbaijan,Cyprus,0,0,UEFA Nations League,Elbasan,Albania,True
+2020-11-11,Slovenia,Azerbaijan,0,0,Friendly,Ljubljana,Slovenia,False
+2020-11-14,Azerbaijan,Montenegro,0,0,UEFA Nations League,Zaprešić,Croatia,True
+2020-11-17,Luxembourg,Azerbaijan,0,0,UEFA Nations League,Luxembourg,Luxembourg,False
+2021-03-24,Portugal,Azerbaijan,1,0,FIFA World Cup qualification,Turin,Italy,True
+2021-03-27,Qatar,Azerbaijan,2,1,Friendly,Debrecen,Hungary,True
+2021-03-30,Azerbaijan,Serbia,1,2,FIFA World Cup qualification,Baku,Azerbaijan,False
+2021-05-27,Turkey,Azerbaijan,2,1,Friendly,Alanya,Turkey,False
+2021-06-02,Belarus,Azerbaijan,1,2,Friendly,Minsk,Belarus,False
+2021-06-06,Moldova,Azerbaijan,1,0,Friendly,Chișinău,Moldova,False
+2021-09-01,Luxembourg,Azerbaijan,2,1,FIFA World Cup qualification,Luxembourg,Luxembourg,False
+2021-09-04,Republic of Ireland,Azerbaijan,1,1,FIFA World Cup qualification,Dublin,Republic of Ireland,False
+2021-09-07,Azerbaijan,Portugal,0,3,FIFA World Cup qualification,Baku,Azerbaijan,False
+2021-10-09,Azerbaijan,Republic of Ireland,0,3,FIFA World Cup qualification,Baku,Azerbaijan,False
+2021-10-12,Serbia,Azerbaijan,3,1,FIFA World Cup qualification,Belgrade,Serbia,False
+2021-11-11,Azerbaijan,Luxembourg,1,3,FIFA World Cup qualification,Baku,Azerbaijan,False
+2021-11-14,Azerbaijan,Qatar,2,2,Friendly,Baku,Azerbaijan,False
+2022-03-25,Malta,Azerbaijan,1,0,Friendly,Ta' Qali,Malta,False
+2022-03-29,Azerbaijan,Latvia,0,1,Friendly,Ta' Qali,Malta,True
+2022-06-03,Kazakhstan,Azerbaijan,2,0,UEFA Nations League,Nur-Sultan,Kazakhstan,False
+2022-06-06,Belarus,Azerbaijan,0,0,UEFA Nations League,Novi Sad,Serbia,True
+2022-06-10,Azerbaijan,Slovakia,0,1,UEFA Nations League,Mardakan,Azerbaijan,False
+2022-06-13,Azerbaijan,Belarus,2,0,UEFA Nations League,Mardakan,Azerbaijan,False
+2022-09-22,Slovakia,Azerbaijan,1,2,UEFA Nations League,Trnava,Slovakia,False
+2022-09-25,Azerbaijan,Kazakhstan,3,0,UEFA Nations League,Baku,Azerbaijan,False
+2022-11-16,Moldova,Azerbaijan,1,2,Friendly,Chișinău,Moldova,False
+2022-11-20,North Macedonia,Azerbaijan,1,3,Friendly,Skopje,North Macedonia,False
+2023-03-24,Austria,Azerbaijan,4,1,UEFA Euro qualification,Pasching,Austria,False
+2023-03-27,Sweden,Azerbaijan,5,0,UEFA Euro qualification,Stockholm,Sweden,False
+2023-06-17,Azerbaijan,Estonia,1,1,UEFA Euro qualification,Baku,Azerbaijan,False
+2023-09-09,Azerbaijan,Belgium,0,1,UEFA Euro qualification,Baku,Azerbaijan,False
+2023-09-12,Azerbaijan,Jordan,2,1,Friendly,Baku,Azerbaijan,False
+2023-10-13,Estonia,Azerbaijan,0,2,UEFA Euro qualification,Tallinn,Estonia,False
+2023-10-16,Azerbaijan,Austria,0,1,UEFA Euro qualification,Baku,Azerbaijan,False
+2023-11-16,Azerbaijan,Sweden,3,0,UEFA Euro qualification,Baku,Azerbaijan,False
+2023-11-19,Belgium,Azerbaijan,5,0,UEFA Euro qualification,Brussels,Belgium,False
+2024-03-22,Azerbaijan,Mongolia,1,0,FIFA Series,Baku,Azerbaijan,False
+2024-03-25,Azerbaijan,Bulgaria,1,1,FIFA Series,Baku,Azerbaijan,False
+2024-06-07,Albania,Azerbaijan,3,1,Friendly,Szombathely,Hungary,True
+2024-06-11,Azerbaijan,Kazakhstan,3,2,Friendly,Szombathely,Hungary,True
+2024-09-05,Azerbaijan,Sweden,1,3,UEFA Nations League,Baku,Azerbaijan,False
+2024-09-08,Slovakia,Azerbaijan,2,0,UEFA Nations League,Košice,Slovakia,False
+2024-10-11,Estonia,Azerbaijan,3,1,UEFA Nations League,Tallinn,Estonia,False
+2024-10-14,Azerbaijan,Slovakia,1,3,UEFA Nations League,Baku,Azerbaijan,False
+2024-11-16,Azerbaijan,Estonia,0,0,UEFA Nations League,Gabala,Azerbaijan,False
+2024-11-19,Sweden,Azerbaijan,6,0,UEFA Nations League,Solna,Sweden,False
+2025-03-22,Azerbaijan,Haiti,0,3,Friendly,Sumqayit,Azerbaijan,False
+2025-03-25,Azerbaijan,Belarus,0,2,Friendly,Masazir,Azerbaijan,False

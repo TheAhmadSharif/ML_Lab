@@ -1,0 +1,293 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1949-01-16,Vietnam,South Korea,3,3,Friendly,Saigon,Vietnam,False
+1954-05-01,Taiwan,Vietnam,3,2,Asian Games,Manila,Philippines,True
+1954-05-03,Philippines,Vietnam,2,3,Asian Games,Manila,Philippines,False
+1991-11-26,Philippines,Vietnam,2,2,Southeast Asian Games,Manila,Philippines,False
+1991-11-28,Indonesia,Vietnam,1,0,Southeast Asian Games,Manila,Philippines,True
+1991-11-30,Malaysia,Vietnam,2,1,Southeast Asian Games,Manila,Philippines,True
+1993-04-09,North Korea,Vietnam,3,0,FIFA World Cup qualification,Doha,Qatar,True
+1993-04-11,Qatar,Vietnam,4,0,FIFA World Cup qualification,Doha,Qatar,False
+1993-04-13,Vietnam,Singapore,2,3,FIFA World Cup qualification,Doha,Qatar,True
+1993-04-16,Vietnam,Indonesia,1,0,FIFA World Cup qualification,Doha,Qatar,True
+1993-04-24,Vietnam,North Korea,0,1,FIFA World Cup qualification,Singapore,Singapore,True
+1993-04-26,Vietnam,Qatar,0,4,FIFA World Cup qualification,Singapore,Singapore,True
+1993-04-28,Singapore,Vietnam,1,0,FIFA World Cup qualification,Singapore,Singapore,False
+1993-04-30,Indonesia,Vietnam,2,1,FIFA World Cup qualification,Singapore,Singapore,True
+1993-06-09,Indonesia,Vietnam,1,0,Southeast Asian Games,Singapore,Singapore,True
+1993-06-11,Vietnam,Philippines,1,0,Southeast Asian Games,Singapore,Singapore,True
+1993-06-15,Singapore,Vietnam,2,0,Southeast Asian Games,Singapore,Singapore,False
+1995-01-04,Vietnam,Estonia,1,0,Friendly,Ho Chi Minh City,Vietnam,False
+1995-12-04,Vietnam,Malaysia,2,0,Southeast Asian Games,Chiang Mai,Thailand,True
+1995-12-08,Vietnam,Cambodia,4,0,Southeast Asian Games,Chiang Mai,Thailand,True
+1995-12-10,Thailand,Vietnam,3,1,Southeast Asian Games,Chiang Mai,Thailand,False
+1995-12-12,Vietnam,Indonesia,1,0,Southeast Asian Games,Chiang Mai,Thailand,True
+1995-12-14,Vietnam,Myanmar,2,1,Southeast Asian Games,Chiang Mai,Thailand,True
+1995-12-16,Thailand,Vietnam,4,0,Southeast Asian Games,Chiang Mai,Thailand,False
+1996-08-04,Vietnam,Taiwan,4,1,AFC Asian Cup qualification,Ho Chi Minh City,Vietnam,False
+1996-08-07,Vietnam,Guam,9,0,AFC Asian Cup qualification,Ho Chi Minh City,Vietnam,False
+1996-08-11,Vietnam,South Korea,0,4,AFC Asian Cup qualification,Ho Chi Minh City,Vietnam,False
+1996-09-02,Cambodia,Vietnam,1,3,AFF Championship,Singapore,Singapore,True
+1996-09-05,Laos,Vietnam,1,1,AFF Championship,Singapore,Singapore,True
+1996-09-07,Myanmar,Vietnam,1,4,AFF Championship,Singapore,Singapore,True
+1996-09-11,Vietnam,Indonesia,1,1,AFF Championship,Singapore,Singapore,True
+1996-09-13,Thailand,Vietnam,4,2,AFF Championship,Singapore,Singapore,True
+1996-09-15,Indonesia,Vietnam,2,3,AFF Championship,Singapore,Singapore,True
+1997-02-22,Bosnia and Herzegovina,Vietnam,4,0,Dunhill Cup,Kuala Lumpur,Malaysia,True
+1997-02-24,Indonesia,Vietnam,1,0,Dunhill Cup,Kuala Lumpur,Malaysia,True
+1997-02-26,Vietnam,Zimbabwe,0,6,Dunhill Cup,Kuala Lumpur,Malaysia,True
+1997-05-04,Tajikistan,Vietnam,4,0,FIFA World Cup qualification,Dushanbe,Tajikistan,False
+1997-05-11,Turkmenistan,Vietnam,2,1,FIFA World Cup qualification,Ashgabat,Turkmenistan,False
+1997-05-25,Vietnam,China PR,1,3,FIFA World Cup qualification,Ho Chi Minh City,Vietnam,False
+1997-06-01,Vietnam,Tajikistan,0,4,FIFA World Cup qualification,Ho Chi Minh City,Vietnam,False
+1997-06-08,Vietnam,Turkmenistan,0,4,FIFA World Cup qualification,Ho Chi Minh City,Vietnam,False
+1997-06-22,China PR,Vietnam,4,0,FIFA World Cup qualification,Beijing,China PR,False
+1997-10-05,Vietnam,Malaysia,0,1,Southeast Asian Games,Jakarta,Indonesia,True
+1997-10-07,Indonesia,Vietnam,2,2,Southeast Asian Games,Jakarta,Indonesia,False
+1997-10-12,Vietnam,Laos,2,1,Southeast Asian Games,Jakarta,Indonesia,True
+1997-10-14,Vietnam,Philippines,3,0,Southeast Asian Games,Jakarta,Indonesia,True
+1997-10-16,Thailand,Vietnam,2,1,Southeast Asian Games,Jakarta,Indonesia,True
+1997-10-18,Vietnam,Singapore,1,0,Southeast Asian Games,Jakarta,Indonesia,True
+1998-08-26,Vietnam,Laos,4,1,AFF Championship,Hanoi,Vietnam,False
+1998-08-28,Vietnam,Singapore,0,0,AFF Championship,Hanoi,Vietnam,False
+1998-08-30,Vietnam,Malaysia,1,0,AFF Championship,Hanoi,Vietnam,False
+1998-09-03,Vietnam,Thailand,3,0,AFF Championship,Hanoi,Vietnam,False
+1998-09-05,Vietnam,Singapore,0,1,AFF Championship,Hanoi,Vietnam,False
+1998-11-19,Hong Kong,Vietnam,1,1,Friendly,Victoria,Hong Kong,False
+1998-11-30,Turkmenistan,Vietnam,2,0,Asian Games,Nakhon Sawan,Thailand,True
+1998-12-04,Vietnam,South Korea,0,4,Asian Games,Nakhon Sawan,Thailand,True
+1999-01-29,Vietnam,Singapore,1,0,Friendly,Ho Chi Minh City,Vietnam,False
+1999-07-30,Vietnam,Laos,9,0,Southeast Asian Games,Bandar Seri Begawan,Brunei,True
+1999-08-03,Myanmar,Vietnam,0,2,Southeast Asian Games,Bandar Seri Begawan,Brunei,True
+1999-08-05,Vietnam,Thailand,0,0,Southeast Asian Games,Bandar Seri Begawan,Brunei,True
+1999-08-08,Philippines,Vietnam,0,2,Southeast Asian Games,Bandar Seri Begawan,Brunei,True
+1999-08-12,Indonesia,Vietnam,0,1,Southeast Asian Games,Bandar Seri Begawan,Brunei,True
+1999-08-14,Thailand,Vietnam,2,0,Southeast Asian Games,Bandar Seri Begawan,Brunei,True
+2000-01-23,Vietnam,Guam,11,0,AFC Asian Cup qualification,Hanoi,Vietnam,False
+2000-01-26,Vietnam,Philippines,3,0,AFC Asian Cup qualification,Hanoi,Vietnam,False
+2000-01-29,Vietnam,China PR,0,2,AFC Asian Cup qualification,Hanoi,Vietnam,False
+2000-08-25,Vietnam,Sri Lanka,2,2,Friendly,Ho Chi Minh City,Vietnam,False
+2000-11-05,Vietnam,Malaysia,0,0,AFF Championship,Songkhla,Thailand,True
+2000-11-07,Cambodia,Vietnam,0,6,AFF Championship,Songkhla,Thailand,True
+2000-11-11,Vietnam,Singapore,1,0,AFF Championship,Songkhla,Thailand,True
+2000-11-13,Laos,Vietnam,0,5,AFF Championship,Songkhla,Thailand,True
+2000-11-16,Vietnam,Indonesia,2,3,AFF Championship,Bangkok,Thailand,True
+2000-11-18,Vietnam,Malaysia,0,3,AFF Championship,Bangkok,Thailand,True
+2001-02-08,Vietnam,Bangladesh,0,0,FIFA World Cup qualification,Dammam,Saudi Arabia,True
+2001-02-10,Mongolia,Vietnam,0,1,FIFA World Cup qualification,Dammam,Saudi Arabia,True
+2001-02-12,Saudi Arabia,Vietnam,5,0,FIFA World Cup qualification,Dammam,Saudi Arabia,False
+2001-02-15,Bangladesh,Vietnam,0,4,FIFA World Cup qualification,Dammam,Saudi Arabia,True
+2001-02-17,Vietnam,Mongolia,4,0,FIFA World Cup qualification,Dammam,Saudi Arabia,True
+2001-02-19,Saudi Arabia,Vietnam,4,0,FIFA World Cup qualification,Dammam,Saudi Arabia,False
+2002-11-27,Sri Lanka,Vietnam,1,2,Friendly,Colombo,Sri Lanka,False
+2002-11-29,Sri Lanka,Vietnam,1,1,Friendly,Colombo,Sri Lanka,False
+2002-12-01,Sri Lanka,Vietnam,2,2,Friendly,Colombo,Sri Lanka,False
+2002-12-08,Thailand,Vietnam,2,1,Friendly,Bangkok,Thailand,False
+2002-12-15,Vietnam,Cambodia,9,2,AFF Championship,Jakarta,Indonesia,True
+2002-12-19,Vietnam,Philippines,4,1,AFF Championship,Jakarta,Indonesia,True
+2002-12-21,Indonesia,Vietnam,2,2,AFF Championship,Jakarta,Indonesia,False
+2002-12-23,Myanmar,Vietnam,2,4,AFF Championship,Jakarta,Indonesia,True
+2002-12-27,Vietnam,Thailand,0,4,AFF Championship,Jakarta,Indonesia,True
+2002-12-29,Vietnam,Malaysia,2,1,AFF Championship,Jakarta,Indonesia,True
+2003-02-12,Albania,Vietnam,5,0,Friendly,Bastia Umbra,Italy,True
+2003-09-25,South Korea,Vietnam,5,0,AFC Asian Cup qualification,Incheon,South Korea,False
+2003-09-27,Vietnam,Nepal,5,0,AFC Asian Cup qualification,Incheon,South Korea,True
+2003-09-29,Vietnam,Oman,0,6,AFC Asian Cup qualification,Incheon,South Korea,True
+2003-10-19,Vietnam,South Korea,1,0,AFC Asian Cup qualification,Muscat,Oman,True
+2003-10-21,Nepal,Vietnam,0,2,AFC Asian Cup qualification,Muscat,Oman,True
+2003-10-24,Oman,Vietnam,2,0,AFC Asian Cup qualification,Muscat,Oman,False
+2004-02-18,Vietnam,Maldives,4,0,FIFA World Cup qualification,Hanoi,Vietnam,False
+2004-03-31,Vietnam,Lebanon,0,2,FIFA World Cup qualification,Nam Định,Vietnam,False
+2004-06-09,South Korea,Vietnam,2,0,FIFA World Cup qualification,Daejeon,South Korea,False
+2004-08-20,Vietnam,Myanmar,5,0,Friendly,Ho Chi Minh City,Vietnam,False
+2004-08-24,Vietnam,India,2,1,Friendly,Ho Chi Minh City,Vietnam,False
+2004-09-08,Vietnam,South Korea,1,2,FIFA World Cup qualification,Ho Chi Minh City,Vietnam,False
+2004-10-13,Maldives,Vietnam,3,0,FIFA World Cup qualification,Malé,Maldives,False
+2004-11-17,Lebanon,Vietnam,0,0,FIFA World Cup qualification,Beirut,Lebanon,False
+2004-12-07,Vietnam,Singapore,1,1,AFF Championship,Ho Chi Minh City,Vietnam,False
+2004-12-09,Vietnam,Cambodia,9,1,AFF Championship,Ho Chi Minh City,Vietnam,False
+2004-12-11,Vietnam,Indonesia,0,3,AFF Championship,Hanoi,Vietnam,False
+2004-12-15,Vietnam,Laos,3,0,AFF Championship,Hanoi,Vietnam,False
+2006-12-24,Thailand,Vietnam,2,1,King's Cup,Bangkok,Thailand,False
+2006-12-26,Vietnam,Kazakhstan,2,1,King's Cup,Bangkok,Thailand,True
+2006-12-28,Singapore,Vietnam,2,3,King's Cup,Bangkok,Thailand,True
+2006-12-30,Thailand,Vietnam,3,1,King's Cup,Bangkok,Thailand,False
+2007-01-13,Singapore,Vietnam,0,0,AFF Championship,Singapore,Singapore,False
+2007-01-15,Vietnam,Indonesia,1,1,AFF Championship,Singapore,Singapore,True
+2007-01-17,Vietnam,Laos,9,0,AFF Championship,Singapore,Singapore,True
+2007-01-24,Vietnam,Thailand,0,2,AFF Championship,Hanoi,Vietnam,False
+2007-01-28,Thailand,Vietnam,0,0,AFF Championship,Bangkok,Thailand,False
+2007-06-24,Vietnam,Jamaica,3,0,Friendly,Hanoi,Vietnam,False
+2007-06-30,Vietnam,Bahrain,5,3,Friendly,Hanoi,Vietnam,False
+2007-07-08,Vietnam,United Arab Emirates,2,0,AFC Asian Cup,Hanoi,Vietnam,False
+2007-07-12,Vietnam,Qatar,1,1,AFC Asian Cup,Hanoi,Vietnam,False
+2007-07-16,Vietnam,Japan,1,4,AFC Asian Cup,Hanoi,Vietnam,False
+2007-07-21,Iraq,Vietnam,2,0,AFC Asian Cup,Bangkok,Thailand,True
+2007-10-08,Vietnam,United Arab Emirates,0,1,FIFA World Cup qualification,Hanoi,Vietnam,False
+2007-10-28,United Arab Emirates,Vietnam,5,0,FIFA World Cup qualification,Abu Dhabi,United Arab Emirates,False
+2008-06-11,Indonesia,Vietnam,1,0,Friendly,Surabaya,Indonesia,False
+2008-10-01,Vietnam,Myanmar,2,3,Friendly,Ho Chi Minh City,Vietnam,False
+2008-10-14,Vietnam,Singapore,0,0,Friendly,Hanoi,Vietnam,False
+2008-10-30,Vietnam,North Korea,0,0,VFF Cup,Hanoi,Vietnam,False
+2008-11-16,Vietnam,Thailand,2,2,VFF Cup,Hanoi,Vietnam,False
+2008-12-06,Thailand,Vietnam,2,0,AFF Championship,Phuket,Thailand,False
+2008-12-08,Malaysia,Vietnam,2,3,AFF Championship,Phuket,Thailand,True
+2008-12-10,Vietnam,Laos,4,0,AFF Championship,Phuket,Thailand,True
+2008-12-17,Vietnam,Singapore,0,0,AFF Championship,Hanoi,Vietnam,False
+2008-12-24,Thailand,Vietnam,1,2,AFF Championship,Bangkok,Thailand,False
+2008-12-28,Vietnam,Thailand,1,1,AFF Championship,Hanoi,Vietnam,False
+2009-01-14,Vietnam,Lebanon,3,1,AFC Asian Cup qualification,Hanoi,Vietnam,False
+2009-01-21,China PR,Vietnam,6,1,AFC Asian Cup qualification,Hangzhou,China PR,False
+2009-05-31,Kuwait,Vietnam,0,1,Friendly,Kuwait City,Kuwait,False
+2009-10-20,Vietnam,Turkmenistan,1,0,Friendly,Ho Chi Minh City,Vietnam,False
+2009-10-24,Vietnam,Singapore,2,2,Friendly,Ho Chi Minh City,Vietnam,False
+2009-11-14,Vietnam,Syria,0,1,AFC Asian Cup qualification,Hanoi,Vietnam,False
+2009-11-18,Syria,Vietnam,0,0,AFC Asian Cup qualification,Aleppo,Syria,False
+2010-01-06,Lebanon,Vietnam,1,1,AFC Asian Cup qualification,Sidon,Lebanon,False
+2010-01-17,Vietnam,China PR,1,2,AFC Asian Cup qualification,Hanoi,Vietnam,False
+2010-09-24,Vietnam,North Korea,0,0,Friendly,Hanoi,Vietnam,False
+2010-10-08,India,Vietnam,3,1,Friendly,Pune,India,False
+2010-10-12,Kuwait,Vietnam,3,1,Friendly,Kuwait City,Kuwait,False
+2010-11-04,Vietnam,Singapore,1,1,VFF Cup,Hanoi,Vietnam,False
+2010-11-06,Vietnam,North Korea,0,2,VFF Cup,Hanoi,Vietnam,False
+2010-12-02,Vietnam,Myanmar,7,1,AFF Championship,Hanoi,Vietnam,False
+2010-12-05,Vietnam,Philippines,0,2,AFF Championship,Hanoi,Vietnam,False
+2010-12-08,Vietnam,Singapore,1,0,AFF Championship,Hanoi,Vietnam,False
+2010-12-15,Malaysia,Vietnam,2,0,AFF Championship,Kuala Lumpur,Malaysia,False
+2010-12-18,Vietnam,Malaysia,0,0,AFF Championship,Hanoi,Vietnam,False
+2011-06-29,Vietnam,Macau,6,0,FIFA World Cup qualification,Ho Chi Minh City,Vietnam,False
+2011-07-03,Macau,Vietnam,1,7,FIFA World Cup qualification,Macau,Macau,False
+2011-07-23,Qatar,Vietnam,3,0,FIFA World Cup qualification,Doha,Qatar,False
+2011-07-28,Vietnam,Qatar,2,1,FIFA World Cup qualification,Hanoi,Vietnam,False
+2011-10-07,Japan,Vietnam,1,0,Friendly,Kobe,Japan,False
+2012-06-08,China PR,Vietnam,3,0,Friendly,Wuhan,China PR,False
+2012-06-10,Hong Kong,Vietnam,1,2,Friendly,Kowloon,Hong Kong,False
+2012-09-11,Malaysia,Vietnam,0,2,Friendly,Shah Alam,Malaysia,False
+2012-10-16,Vietnam,Indonesia,0,0,Friendly,Hanoi,Vietnam,False
+2012-10-24,Vietnam,Turkmenistan,0,1,VFF Cup,Ho Chi Minh City,Vietnam,False
+2012-10-26,Vietnam,Laos,4,0,VFF Cup,Ho Chi Minh City,Vietnam,False
+2012-11-03,Vietnam,Malaysia,1,0,Friendly,Hanoi,Vietnam,False
+2012-11-24,Vietnam,Myanmar,1,1,AFF Championship,Bangkok,Thailand,True
+2012-11-27,Vietnam,Philippines,0,1,AFF Championship,Bangkok,Thailand,True
+2012-11-30,Thailand,Vietnam,3,1,AFF Championship,Bangkok,Thailand,False
+2013-02-06,Vietnam,United Arab Emirates,1,2,AFC Asian Cup qualification,Hanoi,Vietnam,False
+2013-03-22,Hong Kong,Vietnam,1,0,AFC Asian Cup qualification,Kowloon,Hong Kong,False
+2013-10-09,Qatar,Vietnam,1,2,Friendly,Doha,Qatar,False
+2013-10-15,Uzbekistan,Vietnam,3,1,AFC Asian Cup qualification,Tashkent,Uzbekistan,False
+2013-11-15,Vietnam,Uzbekistan,0,3,AFC Asian Cup qualification,Hanoi,Vietnam,False
+2013-11-19,United Arab Emirates,Vietnam,5,0,AFC Asian Cup qualification,Abu Dhabi,United Arab Emirates,False
+2014-03-05,Vietnam,Hong Kong,3,1,AFC Asian Cup qualification,Hanoi,Vietnam,False
+2014-07-02,Vietnam,Myanmar,6,0,Friendly,Thủ Dầu Một,Vietnam,False
+2014-09-06,Vietnam,Hong Kong,3,1,Friendly,Haiphong,Vietnam,False
+2014-11-09,Vietnam,Palestine,1,3,Friendly,Hanoi,Vietnam,False
+2014-11-16,Vietnam,Malaysia,3,1,Friendly,Hanoi,Vietnam,False
+2014-11-22,Vietnam,Indonesia,2,2,AFF Championship,Hanoi,Vietnam,False
+2014-11-25,Vietnam,Laos,3,0,AFF Championship,Hanoi,Vietnam,False
+2014-11-28,Vietnam,Philippines,3,1,AFF Championship,Hanoi,Vietnam,False
+2014-12-07,Malaysia,Vietnam,1,2,AFF Championship,Shah Alam,Malaysia,False
+2014-12-11,Vietnam,Malaysia,2,4,AFF Championship,Hanoi,Vietnam,False
+2015-05-17,Vietnam,North Korea,1,1,Friendly,Hanoi,Vietnam,False
+2015-05-24,Thailand,Vietnam,1,0,FIFA World Cup qualification,Bangkok,Thailand,False
+2015-09-08,Taiwan,Vietnam,1,2,FIFA World Cup qualification,Taipei,Taiwan,False
+2015-10-08,Vietnam,Iraq,1,1,FIFA World Cup qualification,Hanoi,Vietnam,False
+2015-10-13,Vietnam,Thailand,0,3,FIFA World Cup qualification,Hanoi,Vietnam,False
+2016-03-24,Vietnam,Taiwan,4,1,FIFA World Cup qualification,Hanoi,Vietnam,False
+2016-03-29,Iraq,Vietnam,1,0,FIFA World Cup qualification,Tehran,Iran,True
+2016-05-31,Vietnam,Syria,2,0,Friendly,Thanh Hóa,Vietnam,False
+2016-06-03,Vietnam,Hong Kong,2,2,Friendly,Yangon,Myanmar,True
+2016-06-06,Singapore,Vietnam,0,3,Friendly,Yangon,Myanmar,True
+2016-10-06,Vietnam,North Korea,5,2,Friendly,Ho Chi Minh City,Vietnam,False
+2016-10-09,Indonesia,Vietnam,2,2,Friendly,Sleman,Indonesia,False
+2016-11-08,Vietnam,Indonesia,3,2,Friendly,Hanoi,Vietnam,False
+2016-11-20,Myanmar,Vietnam,1,2,AFF Championship,Yangon,Myanmar,False
+2016-11-23,Malaysia,Vietnam,0,1,AFF Championship,Yangon,Myanmar,True
+2016-11-26,Vietnam,Cambodia,2,1,AFF Championship,Naypyidaw,Myanmar,True
+2016-12-03,Indonesia,Vietnam,2,1,AFF Championship,Bogor,Indonesia,False
+2016-12-07,Vietnam,Indonesia,2,2,AFF Championship,Hanoi,Vietnam,False
+2017-03-22,Vietnam,Taiwan,1,1,Friendly,Hanoi,Vietnam,False
+2017-03-28,Afghanistan,Vietnam,1,1,AFC Asian Cup qualification,Dushanbe,Tajikistan,True
+2017-06-13,Vietnam,Jordan,0,0,AFC Asian Cup qualification,Ho Chi Minh City,Vietnam,False
+2017-09-05,Cambodia,Vietnam,1,2,AFC Asian Cup qualification,Phnom Penh,Cambodia,False
+2017-10-10,Vietnam,Cambodia,5,0,AFC Asian Cup qualification,Hanoi,Vietnam,False
+2017-11-14,Vietnam,Afghanistan,0,0,AFC Asian Cup qualification,Hanoi,Vietnam,False
+2018-03-27,Jordan,Vietnam,1,1,AFC Asian Cup qualification,Amman,Jordan,False
+2018-11-08,Laos,Vietnam,0,3,AFF Championship,Vientiane,Laos,False
+2018-11-16,Vietnam,Malaysia,2,0,AFF Championship,Hanoi,Vietnam,False
+2018-11-20,Myanmar,Vietnam,0,0,AFF Championship,Yangon,Myanmar,False
+2018-11-24,Vietnam,Cambodia,3,0,AFF Championship,Hanoi,Vietnam,False
+2018-12-02,Philippines,Vietnam,1,2,AFF Championship,Bacolod,Philippines,False
+2018-12-06,Vietnam,Philippines,2,1,AFF Championship,Hanoi,Vietnam,False
+2018-12-11,Malaysia,Vietnam,2,2,AFF Championship,Kuala Lumpur,Malaysia,False
+2018-12-15,Vietnam,Malaysia,1,0,AFF Championship,Hanoi,Vietnam,False
+2018-12-25,Vietnam,North Korea,1,1,Friendly,Hanoi,Vietnam,False
+2018-12-31,Philippines,Vietnam,2,4,Friendly,Doha,Qatar,True
+2019-01-08,Iraq,Vietnam,3,2,AFC Asian Cup,Abu Dhabi,United Arab Emirates,True
+2019-01-12,Vietnam,Iran,0,2,AFC Asian Cup,Abu Dhabi,United Arab Emirates,True
+2019-01-16,Vietnam,Yemen,2,0,AFC Asian Cup,Al Ain,United Arab Emirates,True
+2019-01-20,Jordan,Vietnam,1,1,AFC Asian Cup,Dubai,United Arab Emirates,True
+2019-01-24,Vietnam,Japan,0,1,AFC Asian Cup,Dubai,United Arab Emirates,True
+2019-09-05,Thailand,Vietnam,0,0,FIFA World Cup qualification,Pathum Thani,Thailand,False
+2019-10-10,Vietnam,Malaysia,1,0,FIFA World Cup qualification,Hanoi,Vietnam,False
+2019-10-15,Indonesia,Vietnam,1,3,FIFA World Cup qualification,Gianyar,Indonesia,False
+2019-11-14,Vietnam,United Arab Emirates,1,0,FIFA World Cup qualification,Hanoi,Vietnam,False
+2019-11-19,Vietnam,Thailand,0,0,FIFA World Cup qualification,Hanoi,Vietnam,False
+2021-05-31,Jordan,Vietnam,1,1,Friendly,Sharjah,United Arab Emirates,True
+2021-06-07,Vietnam,Indonesia,4,0,FIFA World Cup qualification,Dubai,United Arab Emirates,True
+2021-06-11,Malaysia,Vietnam,1,2,FIFA World Cup qualification,Dubai,United Arab Emirates,True
+2021-06-15,United Arab Emirates,Vietnam,3,2,FIFA World Cup qualification,Dubai,United Arab Emirates,False
+2021-09-02,Saudi Arabia,Vietnam,3,1,FIFA World Cup qualification,Riyadh,Saudi Arabia,False
+2021-09-07,Vietnam,Australia,0,1,FIFA World Cup qualification,Hanoi,Vietnam,False
+2021-10-07,China PR,Vietnam,3,2,FIFA World Cup qualification,Sharjah,United Arab Emirates,True
+2021-10-12,Oman,Vietnam,3,1,FIFA World Cup qualification,Muscat,Oman,False
+2021-11-11,Vietnam,Japan,0,1,FIFA World Cup qualification,Hanoi,Vietnam,False
+2021-11-16,Vietnam,Saudi Arabia,0,1,FIFA World Cup qualification,Hanoi,Vietnam,False
+2021-12-06,Laos,Vietnam,0,2,AFF Championship,Bishan,Singapore,True
+2021-12-12,Vietnam,Malaysia,3,0,AFF Championship,Bishan,Singapore,True
+2021-12-15,Indonesia,Vietnam,0,0,AFF Championship,Bishan,Singapore,True
+2021-12-19,Vietnam,Cambodia,4,0,AFF Championship,Bishan,Singapore,True
+2021-12-23,Vietnam,Thailand,0,2,AFF Championship,Kallang,Singapore,True
+2021-12-26,Thailand,Vietnam,0,0,AFF Championship,Kallang,Singapore,True
+2022-01-27,Australia,Vietnam,4,0,FIFA World Cup qualification,Melbourne,Australia,False
+2022-02-01,Vietnam,China PR,3,1,FIFA World Cup qualification,Hanoi,Vietnam,False
+2022-03-24,Vietnam,Oman,0,1,FIFA World Cup qualification,Hanoi,Vietnam,False
+2022-03-29,Japan,Vietnam,1,1,FIFA World Cup qualification,Saitama,Japan,False
+2022-06-01,Vietnam,Afghanistan,2,0,Friendly,Ho Chi Minh City,Vietnam,False
+2022-09-21,Vietnam,Singapore,4,0,Friendly,Ho Chi Minh City,Vietnam,False
+2022-09-27,Vietnam,India,3,0,Friendly,Ho Chi Minh City,Vietnam,False
+2022-12-14,Vietnam,Philippines,1,0,Friendly,Hanoi,Vietnam,False
+2022-12-21,Laos,Vietnam,0,6,AFF Championship,Vientiane,Laos,False
+2022-12-27,Vietnam,Malaysia,3,0,AFF Championship,Hanoi,Vietnam,False
+2022-12-30,Singapore,Vietnam,0,0,AFF Championship,Singapore,Singapore,False
+2023-01-03,Vietnam,Myanmar,3,0,AFF Championship,Hanoi,Vietnam,False
+2023-01-06,Indonesia,Vietnam,0,0,AFF Championship,Jakarta,Indonesia,False
+2023-01-09,Vietnam,Indonesia,2,0,AFF Championship,Hanoi,Vietnam,False
+2023-01-13,Vietnam,Thailand,2,2,AFF Championship,Hanoi,Vietnam,False
+2023-01-16,Thailand,Vietnam,1,0,AFF Championship,Pathum Thani,Thailand,False
+2023-06-15,Vietnam,Hong Kong,1,0,Friendly,Haiphong,Vietnam,False
+2023-06-20,Vietnam,Syria,1,0,Friendly,Nam Định,Vietnam,False
+2023-09-11,Vietnam,Palestine,2,0,Friendly,Nam Định,Vietnam,False
+2023-10-10,China PR,Vietnam,2,0,Friendly,Dalian,China PR,False
+2023-10-13,Vietnam,Uzbekistan,0,2,Friendly,Dalian,China PR,True
+2023-10-17,South Korea,Vietnam,6,0,Friendly,Suwon,South Korea,False
+2023-11-16,Philippines,Vietnam,0,2,FIFA World Cup qualification,Manila,Philippines,False
+2023-11-21,Vietnam,Iraq,0,1,FIFA World Cup qualification,Hanoi,Vietnam,False
+2024-01-09,Kyrgyzstan,Vietnam,2,1,Friendly,Al Khor,Qatar,True
+2024-01-14,Japan,Vietnam,4,2,AFC Asian Cup,Doha,Qatar,True
+2024-01-19,Vietnam,Indonesia,0,1,AFC Asian Cup,Doha,Qatar,True
+2024-01-24,Iraq,Vietnam,3,2,AFC Asian Cup,Doha,Qatar,True
+2024-03-21,Indonesia,Vietnam,1,0,FIFA World Cup qualification,Jakarta,Indonesia,False
+2024-03-26,Vietnam,Indonesia,0,3,FIFA World Cup qualification,Hanoi,Vietnam,False
+2024-06-06,Vietnam,Philippines,3,2,FIFA World Cup qualification,Hanoi,Vietnam,False
+2024-06-11,Iraq,Vietnam,3,1,FIFA World Cup qualification,Basra,Iraq,False
+2024-09-05,Vietnam,Russia,0,3,Friendly,Hanoi,Vietnam,False
+2024-09-10,Vietnam,Thailand,1,2,Friendly,Hanoi,Vietnam,False
+2024-10-12,Vietnam,India,1,1,Friendly,Nam Định,Vietnam,False
+2024-12-09,Laos,Vietnam,1,4,ASEAN Championship,Vientiane,Laos,False
+2024-12-15,Vietnam,Indonesia,1,0,ASEAN Championship,Việt Trì,Vietnam,False
+2024-12-18,Philippines,Vietnam,1,1,ASEAN Championship,Manila,Philippines,False
+2024-12-21,Vietnam,Myanmar,5,0,ASEAN Championship,Việt Trì,Vietnam,False
+2024-12-26,Singapore,Vietnam,0,2,ASEAN Championship,Singapore,Singapore,False
+2024-12-29,Vietnam,Singapore,3,1,ASEAN Championship,Việt Trì,Vietnam,False
+2025-01-02,Vietnam,Thailand,2,1,ASEAN Championship,Việt Trì,Vietnam,False
+2025-01-05,Thailand,Vietnam,2,3,ASEAN Championship,Bangkok,Thailand,False
+2025-03-19,Vietnam,Cambodia,2,1,Friendly,Thu Dau Mot,Vietnam,False
+2025-03-25,Vietnam,Laos,5,0,AFC Asian Cup qualification,Thu Dau Mot,Vietnam,False

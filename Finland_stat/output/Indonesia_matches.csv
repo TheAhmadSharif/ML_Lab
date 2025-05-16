@@ -1,0 +1,719 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1934-05-13,Japan,Indonesia,1,7,Friendly,Manila,Philippines,True
+1934-05-13,Japan,Indonesia,1,7,Far Eastern Championship Games,Manila,Philippines,True
+1934-05-14,China PR,Indonesia,2,0,Friendly,Manila,Philippines,True
+1934-05-14,China PR,Indonesia,2,0,Far Eastern Championship Games,Manila,Philippines,True
+1934-05-19,Philippines,Indonesia,3,2,Friendly,Manila,Philippines,False
+1934-05-19,Philippines,Indonesia,3,2,Far Eastern Championship Games,Manila,Philippines,False
+1938-06-05,Hungary,Indonesia,6,0,FIFA World Cup,Reims,France,True
+1938-06-26,Netherlands,Indonesia,9,2,Friendly,Amsterdam,Netherlands,False
+1951-03-05,India,Indonesia,3,0,Asian Games,New Delhi,India,False
+1953-04-30,Indonesia,South Korea,1,3,Friendly,So Kon Po,Hong Kong,True
+1954-05-01,Japan,Indonesia,3,5,Asian Games,Manila,Philippines,True
+1954-05-05,India,Indonesia,0,4,Asian Games,Manila,Philippines,True
+1954-05-07,Taiwan,Indonesia,4,2,Asian Games,Manila,Philippines,True
+1954-05-08,Indonesia,Myanmar,4,5,Asian Games,Manila,Philippines,True
+1956-09-09,Yugoslavia,Indonesia,4,2,Friendly,Belgrade,Yugoslavia,False
+1956-09-12,Croatia,Indonesia,5,2,Friendly,Zagreb,Yugoslavia,False
+1956-09-20,German DR,Indonesia,3,1,Friendly,Karl-Marx-Stadt,German DR,False
+1956-11-16,Indonesia,United States,7,5,Friendly,Jakarta,Indonesia,False
+1956-12-23,Indonesia,Yugoslavia,1,5,Friendly,Jakarta,Indonesia,False
+1957-05-12,Indonesia,China PR,2,0,FIFA World Cup qualification,Jakarta,Indonesia,False
+1957-06-02,China PR,Indonesia,4,3,FIFA World Cup qualification,Beijing,China PR,False
+1957-06-23,China PR,Indonesia,0,0,FIFA World Cup qualification,Yangon,Burma,True
+1957-08-31,Indonesia,Thailand,4,0,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1957-09-05,Indonesia,Vietnam Republic,3,1,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1957-09-07,Malaysia,Indonesia,4,2,Merdeka Tournament,Kuala Lumpur,Malaya,False
+1958-05-09,Philippines,Indonesia,1,2,Friendly,Manila,Philippines,False
+1958-05-13,Philippines,Indonesia,0,3,Friendly,Manila,Philippines,False
+1958-05-25,Indonesia,Myanmar,4,2,Asian Games,Tokyo,Japan,True
+1958-05-28,India,Indonesia,1,2,Asian Games,Tokyo,Japan,True
+1958-05-30,Indonesia,Philippines,5,2,Asian Games,Tokyo,Japan,True
+1958-05-31,Taiwan,Indonesia,1,0,Asian Games,Tokyo,Japan,True
+1958-06-01,Indonesia,India,4,1,Asian Games,Tokyo,Japan,True
+1958-07-02,Singapore,Indonesia,0,5,Friendly,Kallang,Singapore,False
+1958-07-03,Malaysia,Indonesia,2,4,Friendly,Kallang,Singapore,True
+1958-08-30,Malaysia,Indonesia,3,2,Merdeka Tournament,Kuala Lumpur,Malaya,False
+1958-08-31,Indonesia,Singapore,2,0,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1958-09-02,Indonesia,Vietnam Republic,4,1,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1959-02-11,Indonesia,German DR,2,2,Friendly,Jakarta,Indonesia,False
+1960-04-20,Indonesia,Malaysia,5,0,Friendly,Surakarta,Indonesia,False
+1960-08-06,South Korea,Indonesia,2,0,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1960-08-08,Indonesia,Singapore,8,3,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1960-08-13,Indonesia,Vietnam Republic,5,3,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1960-08-14,Indonesia,Pakistan,4,0,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1960-08-17,Indonesia,Vietnam Republic,1,1,Friendly,Kallang,Singapore,True
+1960-08-21,Indonesia,Pakistan,5,2,Friendly,Jakarta,Indonesia,False
+1961-08-02,Indonesia,Singapore,1,0,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1961-08-09,Indonesia,Thailand,2,1,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1961-08-13,Malaysia,Indonesia,1,2,Merdeka Tournament,Kuala Lumpur,Malaya,False
+1961-08-15,Indonesia,Japan,2,0,Friendly,Kallang,Singapore,True
+1961-10-21,Vietnam Republic,Indonesia,4,1,Vietnam Independence Cup,Saigon,Vietnam Republic,False
+1961-10-23,Indonesia,Malaysia,1,3,Vietnam Independence Cup,Saigon,Vietnam Republic,True
+1961-12-07,Indonesia,Yugoslavia,1,5,Friendly,Jakarta,Indonesia,False
+1962-02-19,Indonesia,Vietnam Republic,1,2,Friendly,Jakarta,Indonesia,False
+1962-07-12,Singapore,Indonesia,1,2,Friendly,Kallang,Singapore,False
+1962-08-25,Indonesia,Vietnam Republic,1,0,Asian Games,Jakarta,Indonesia,False
+1962-08-27,Indonesia,Philippines,6,0,Asian Games,Jakarta,Indonesia,False
+1962-08-28,Indonesia,Malaysia,2,3,Asian Games,Jakarta,Indonesia,False
+1962-09-11,Indonesia,Singapore,2,0,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1962-09-12,Indonesia,Philippines,9,0,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1962-09-14,Indonesia,Vietnam Republic,2,1,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1962-09-19,Indonesia,Pakistan,2,1,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1962-10-12,South Korea,Indonesia,2,0,Friendly,Seoul,South Korea,False
+1962-10-14,South Korea,Indonesia,2,0,Friendly,Seoul,South Korea,False
+1962-10-25,Vietnam Republic,Indonesia,4,0,Vietnam Independence Cup,Saigon,Vietnam Republic,False
+1962-10-28,Indonesia,Malaysia,2,1,Vietnam Independence Cup,Saigon,Vietnam Republic,True
+1962-10-30,Indonesia,Thailand,7,0,Vietnam Independence Cup,Saigon,Vietnam Republic,True
+1962-10-31,Vietnam Republic,Indonesia,2,0,Vietnam Independence Cup,Saigon,Vietnam Republic,False
+1962-11-27,Indonesia,Sweden,0,3,Friendly,Jakarta,Indonesia,False
+1963-04-26,Indonesia,Egypt,1,3,Friendly,Jakarta,Indonesia,False
+1963-04-27,Indonesia,Egypt,2,2,Friendly,Jakarta,Indonesia,False
+1963-04-30,Indonesia,North Vietnam,3,1,Friendly,Jakarta,Indonesia,False
+1963-05-19,Indonesia,China PR,1,2,Friendly,Semarang,Indonesia,False
+1963-11-14,Indonesia,Mali,3,2,Friendly,Jakarta,Indonesia,False
+1963-11-16,Indonesia,China PR,1,1,Friendly,Jakarta,Indonesia,False
+1963-11-18,Indonesia,North Korea,1,5,Friendly,Jakarta,Indonesia,False
+1964-02-23,Sri Lanka,Indonesia,3,9,Friendly,Colombo,Ceylon,False
+1964-02-29,Sri Lanka,Indonesia,1,4,Friendly,Colombo,Ceylon,False
+1965-04-29,Indonesia,Sri Lanka,5,0,Friendly,Jakarta,Indonesia,False
+1965-08-02,China PR,Indonesia,3,0,Friendly,Pyongyang,North Korea,True
+1965-08-03,Guinea,Indonesia,3,1,Friendly,Pyongyang,North Korea,True
+1965-08-06,Cambodia,Indonesia,0,0,Friendly,Pyongyang,North Korea,True
+1965-08-08,North Korea,Indonesia,3,0,Friendly,Pyongyang,North Korea,False
+1965-08-11,Indonesia,North Vietnam,2,1,Friendly,Pyongyang,North Korea,True
+1966-12-10,Indonesia,Singapore,3,0,Asian Games,Bangkok,Thailand,True
+1966-12-11,Indonesia,Vietnam Republic,0,0,Asian Games,Bangkok,Thailand,True
+1966-12-14,Taiwan,Indonesia,1,3,Asian Games,Bangkok,Thailand,True
+1966-12-15,Myanmar,Indonesia,2,2,Asian Games,Bangkok,Thailand,True
+1966-12-16,Iran,Indonesia,1,0,Asian Games,Bangkok,Thailand,True
+1967-07-29,South Korea,Indonesia,1,1,AFC Asian Cup qualification,Taipei,Taiwan,True
+1967-08-05,Japan,Indonesia,2,1,AFC Asian Cup qualification,Taipei,Taiwan,True
+1967-08-07,Indonesia,Philippines,6,0,AFC Asian Cup qualification,Taipei,Taiwan,True
+1967-08-11,Indonesia,South Korea,1,3,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1967-08-13,Indonesia,Singapore,4,1,Merdeka Tournament,Ipoh,Malaysia,True
+1967-08-15,Indonesia,Taiwan,2,1,Merdeka Tournament,Ipoh,Malaysia,True
+1967-08-19,Myanmar,Indonesia,5,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1967-08-23,Hong Kong,Indonesia,2,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1967-08-26,India,Indonesia,0,3,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1968-08-12,Indonesia,Western Australia,4,5,Merdeka Tournament,Ipoh,Malaysia,True
+1968-08-15,Indonesia,Singapore,4,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1968-08-17,Indonesia,South Korea,4,2,Merdeka Tournament,Ipoh,Malaysia,True
+1968-08-19,Indonesia,Taiwan,10,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1968-08-21,Myanmar,Indonesia,2,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1968-08-24,Indonesia,Western Australia,1,3,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1968-08-29,India,Indonesia,1,3,Friendly,Kallang,Singapore,True
+1968-08-30,Singapore,Indonesia,1,0,Friendly,Kallang,Singapore,False
+1968-11-21,Indonesia,Malaysia,1,0,King's Cup,Bangkok,Thailand,True
+1968-11-24,Myanmar,Indonesia,1,3,King's Cup,Bangkok,Thailand,True
+1968-11-26,Indonesia,Singapore,7,0,King's Cup,Bangkok,Thailand,True
+1968-11-28,Indonesia,Malaysia,6,1,King's Cup,Bangkok,Thailand,True
+1968-12-02,Myanmar,Indonesia,0,1,King's Cup,Bangkok,Thailand,True
+1969-11-01,Indonesia,Thailand,4,0,Merdeka Tournament,Ipoh,Malaysia,True
+1969-11-01,Indonesia,South Korea,3,0,Merdeka Tournament,Ipoh,Malaysia,True
+1969-11-06,Indonesia,Singapore,9,2,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1969-11-09,Malaysia,Indonesia,2,3,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1969-11-19,Indonesia,Singapore,2,3,King's Cup,Bangkok,Thailand,True
+1969-11-21,Indonesia,Vietnam Republic,3,1,King's Cup,Bangkok,Thailand,True
+1969-11-23,Indonesia,Western Australia,3,1,King's Cup,Bangkok,Thailand,True
+1969-11-26,Indonesia,Laos,3,1,King's Cup,Bangkok,Thailand,True
+1969-11-28,Indonesia,South Korea,0,1,King's Cup,Bangkok,Thailand,True
+1970-06-21,Indonesia,Hong Kong,2,1,Indonesia Tournament,Jakarta,Indonesia,False
+1970-06-23,Indonesia,Western Australia,3,1,Indonesia Tournament,Jakarta,Indonesia,False
+1970-06-26,Indonesia,South Korea,2,2,Indonesia Tournament,Jakarta,Indonesia,False
+1970-06-27,Indonesia,Hong Kong,3,2,Indonesia Tournament,Jakarta,Indonesia,False
+1970-08-01,Indonesia,Singapore,3,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1970-08-04,Hong Kong,Indonesia,1,3,Merdeka Tournament,George Town,Malaysia,True
+1970-08-06,Indonesia,South Korea,1,2,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1970-08-08,Indonesia,Japan,3,4,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1970-08-10,Indonesia,Thailand,6,3,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1970-08-15,Malaysia,Indonesia,4,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1970-10-29,Indonesia,Thailand,1,2,Vietnam Independence Cup,Saigon,Vietnam Republic,True
+1970-10-31,Vietnam Republic,Indonesia,3,1,Vietnam Independence Cup,Saigon,Vietnam Republic,False
+1970-11-01,Indonesia,Malaysia,1,3,Vietnam Independence Cup,Saigon,Vietnam Republic,True
+1970-11-11,Indonesia,Vietnam Republic,5,3,King's Cup,Bangkok,Thailand,True
+1970-11-13,Indonesia,Malaysia,3,0,King's Cup,Bangkok,Thailand,True
+1970-11-15,Indonesia,Cambodia,4,1,King's Cup,Bangkok,Thailand,True
+1970-11-18,Thailand,Indonesia,2,1,King's Cup,Bangkok,Thailand,False
+1970-11-20,Indonesia,Malaysia,1,3,King's Cup,Bangkok,Thailand,True
+1970-12-10,Indonesia,Iran,2,2,Asian Games,Bangkok,Thailand,True
+1970-12-13,Indonesia,South Korea,0,0,Asian Games,Bangkok,Thailand,True
+1970-12-15,India,Indonesia,3,0,Asian Games,Bangkok,Thailand,True
+1970-12-16,Indonesia,Japan,1,2,Asian Games,Bangkok,Thailand,True
+1970-12-19,Thailand,Indonesia,0,1,Asian Games,Bangkok,Thailand,False
+1971-05-02,Indonesia,Vietnam Republic,9,1,Korea Cup,Seoul,South Korea,True
+1971-05-08,Myanmar,Indonesia,3,1,Korea Cup,Seoul,South Korea,True
+1971-05-11,South Korea,Indonesia,3,0,Korea Cup,Seoul,South Korea,False
+1971-05-13,Indonesia,Malaysia,4,2,Korea Cup,Seoul,South Korea,True
+1971-05-22,Indonesia,Hong Kong,2,1,AFC Asian Cup qualification,Bangkok,Thailand,True
+1971-05-26,Thailand,Indonesia,0,1,AFC Asian Cup qualification,Bangkok,Thailand,False
+1971-05-28,Indonesia,Brunei,9,0,AFC Asian Cup qualification,Bangkok,Thailand,True
+1971-05-30,Cambodia,Indonesia,2,0,AFC Asian Cup qualification,Bangkok,Thailand,True
+1971-06-01,Malaysia,Indonesia,3,0,AFC Asian Cup qualification,Bangkok,Thailand,True
+1971-06-05,Indonesia,Singapore,3,0,Indonesia Tournament,Jakarta,Indonesia,False
+1971-06-07,Indonesia,Myanmar,1,1,Indonesia Tournament,Jakarta,Indonesia,False
+1971-06-11,Indonesia,Thailand,0,0,Indonesia Tournament,Jakarta,Indonesia,False
+1971-06-13,Indonesia,Cambodia,1,0,Indonesia Tournament,Jakarta,Indonesia,False
+1971-06-14,Indonesia,Malaysia,2,1,Indonesia Tournament,Jakarta,Indonesia,False
+1971-06-16,Indonesia,Myanmar,0,1,Indonesia Tournament,Jakarta,Indonesia,False
+1971-08-07,India,Indonesia,1,3,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1971-08-09,Myanmar,Indonesia,2,2,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1971-08-11,Indonesia,Philippines,3,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1971-08-13,Indonesia,Singapore,4,0,Merdeka Tournament,Ipoh,Malaysia,True
+1971-08-15,Hong Kong,Indonesia,0,3,Merdeka Tournament,Ipoh,Malaysia,True
+1971-08-18,Indonesia,Taiwan,1,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1971-08-21,Myanmar,Indonesia,1,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1971-08-23,India,Indonesia,2,1,Friendly,Kallang,Singapore,True
+1971-08-27,Singapore,Indonesia,3,2,Friendly,Kallang,Singapore,False
+1971-11-10,Indonesia,Malaysia,2,0,King's Cup,Bangkok,Thailand,True
+1971-11-12,Indonesia,South Korea,0,0,King's Cup,Bangkok,Thailand,True
+1971-11-14,Thailand,Indonesia,1,0,King's Cup,Bangkok,Thailand,False
+1972-06-05,Indonesia,Myanmar,1,0,Indonesia Tournament,Jakarta,Indonesia,False
+1972-07-13,Indonesia,Singapore,0,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1972-07-19,Indonesia,Thailand,3,2,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1972-07-21,Hong Kong,Indonesia,1,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1972-07-23,Indonesia,South Korea,0,2,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1972-08-02,Indonesia,Philippines,3,0,Friendly,Kallang,Singapore,True
+1972-08-06,Indonesia,Japan,1,0,Friendly,Kallang,Singapore,True
+1972-08-08,Cambodia,Indonesia,0,5,Friendly,Kallang,Singapore,True
+1972-09-23,Myanmar,Indonesia,1,1,Korea Cup,Seoul,South Korea,True
+1972-09-28,Indonesia,Malaysia,3,1,Korea Cup,Seoul,South Korea,True
+1972-09-30,Myanmar,Indonesia,3,1,Korea Cup,Seoul,South Korea,True
+1972-10-07,Indonesia,Australia,1,4,Friendly,Jakarta,Indonesia,False
+1972-10-11,Indonesia,New Zealand,1,1,Friendly,Jakarta,Indonesia,False
+1972-11-20,Indonesia,Singapore,1,2,King's Cup,Bangkok,Thailand,True
+1972-11-22,Indonesia,South Korea,1,1,King's Cup,Bangkok,Thailand,True
+1972-11-24,Thailand,Indonesia,3,0,King's Cup,Bangkok,Thailand,False
+1972-11-26,Indonesia,Malaysia,0,2,King's Cup,Bangkok,Thailand,True
+1973-02-04,Indonesia,Bulgaria,0,4,Friendly,Jakarta,Indonesia,False
+1973-03-11,Indonesia,New Zealand,1,1,FIFA World Cup qualification,Sydney,Australia,True
+1973-03-13,Australia,Indonesia,2,1,FIFA World Cup qualification,Sydney,Australia,False
+1973-03-16,Iraq,Indonesia,1,1,FIFA World Cup qualification,Sydney,Australia,True
+1973-03-18,Indonesia,New Zealand,1,0,FIFA World Cup qualification,Melbourne,Australia,True
+1973-03-21,Iraq,Indonesia,3,2,FIFA World Cup qualification,Sydney,Australia,True
+1973-03-24,Australia,Indonesia,6,0,FIFA World Cup qualification,Sydney,Australia,False
+1973-06-14,Indonesia,Malaysia,2,0,Indonesia Tournament,Jakarta,Indonesia,False
+1973-06-18,Indonesia,Myanmar,0,0,Indonesia Tournament,Jakarta,Indonesia,False
+1973-09-24,South Korea,Indonesia,3,1,Korea Cup,Seoul,South Korea,False
+1973-09-26,Indonesia,Cambodia,2,3,Korea Cup,Seoul,South Korea,True
+1974-04-19,Indonesia,Uruguay,2,1,Friendly,Jakarta,Indonesia,False
+1974-04-21,Indonesia,Uruguay,2,3,Friendly,Jakarta,Indonesia,False
+1974-05-21,Indonesia,Australia,1,2,Friendly,Jakarta,Indonesia,False
+1974-06-01,Indonesia,Myanmar,2,4,Indonesia Tournament,Jakarta,Indonesia,False
+1974-06-07,Indonesia,Malaysia,4,3,Indonesia Tournament,Jakarta,Indonesia,False
+1974-07-24,Hong Kong,Indonesia,2,2,Merdeka Tournament,Ipoh,Malaysia,True
+1974-07-26,Indonesia,Thailand,1,2,Merdeka Tournament,Ipoh,Malaysia,True
+1974-07-28,Indonesia,Singapore,5,0,Merdeka Tournament,Ipoh,Malaysia,True
+1974-08-01,India,Indonesia,0,0,Merdeka Tournament,Ipoh,Malaysia,True
+1974-09-03,Denmark,Indonesia,9,0,Friendly,Copenhagen,Denmark,False
+1974-12-25,Indonesia,South Korea,1,3,Friendly,So Kon Po,Hong Kong,True
+1975-03-15,Thailand,Indonesia,3,1,AFC Asian Cup qualification,Bangkok,Thailand,False
+1975-03-17,Indonesia,Vietnam Republic,2,1,AFC Asian Cup qualification,Bangkok,Thailand,True
+1975-03-20,Malaysia,Indonesia,0,0,AFC Asian Cup qualification,Bangkok,Thailand,True
+1975-03-22,South Korea,Indonesia,1,0,AFC Asian Cup qualification,Bangkok,Thailand,True
+1975-06-12,Indonesia,Thailand,5,0,Indonesia Tournament,Jakarta,Indonesia,False
+1975-06-14,Indonesia,Malaysia,3,1,Indonesia Tournament,Jakarta,Indonesia,False
+1975-06-16,Indonesia,Myanmar,0,2,Indonesia Tournament,Jakarta,Indonesia,False
+1975-06-18,Indonesia,South Korea,3,2,Indonesia Tournament,Jakarta,Indonesia,False
+1975-07-29,Bangladesh,Indonesia,0,4,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1975-08-01,Myanmar,Indonesia,2,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1975-08-03,Hong Kong,Indonesia,2,3,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1975-08-05,Malaysia,Indonesia,2,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1975-08-07,Indonesia,Japan,1,4,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1975-08-09,Indonesia,Thailand,2,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1975-08-11,Indonesia,South Korea,1,5,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1976-06-10,Indonesia,Malaysia,1,2,Indonesia Tournament,Jakarta,Indonesia,False
+1976-06-12,Indonesia,Myanmar,1,1,Indonesia Tournament,Jakarta,Indonesia,False
+1976-08-08,Myanmar,Indonesia,5,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1976-08-10,Indonesia,Japan,0,6,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1976-08-12,Indonesia,South Korea,0,2,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1976-08-14,Malaysia,Indonesia,7,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1976-08-14,Indonesia,India,1,3,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1976-08-18,Indonesia,Thailand,0,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1976-10-20,Indonesia,Australia,1,1,Friendly,Jakarta,Indonesia,False
+1977-02-28,Hong Kong,Indonesia,4,1,FIFA World Cup qualification,Kallang,Singapore,True
+1977-03-03,Indonesia,Malaysia,0,0,FIFA World Cup qualification,Kallang,Singapore,True
+1977-03-07,Thailand,Indonesia,3,2,FIFA World Cup qualification,Kallang,Singapore,True
+1977-03-09,Singapore,Indonesia,0,4,FIFA World Cup qualification,Kallang,Singapore,False
+1977-11-19,Malaysia,Indonesia,1,2,Southeast Asian Games,Kuala Lumpur,Malaysia,False
+1977-11-22,Indonesia,Brunei,4,0,Southeast Asian Games,Kuala Lumpur,Malaysia,True
+1977-11-23,Philippines,Indonesia,1,1,Southeast Asian Games,Kuala Lumpur,Malaysia,True
+1977-11-25,Indonesia,Thailand,0,2,Southeast Asian Games,Kuala Lumpur,Malaysia,True
+1977-11-26,Myanmar,Indonesia,2,0,Southeast Asian Games,Kuala Lumpur,Malaysia,True
+1978-06-13,Indonesia,Malaysia,3,0,Indonesia Tournament,Jakarta,Indonesia,False
+1978-06-15,Indonesia,Thailand,1,0,Indonesia Tournament,Jakarta,Indonesia,False
+1978-06-21,Indonesia,Singapore,2,2,Indonesia Tournament,Jakarta,Indonesia,False
+1978-06-23,Indonesia,South Korea,1,3,Indonesia Tournament,Jakarta,Indonesia,False
+1978-07-13,Indonesia,Syria,1,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1978-07-15,Indonesia,Japan,2,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1978-07-16,Malaysia,Indonesia,1,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1978-07-17,Indonesia,Iraq,0,4,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1978-07-22,Indonesia,Thailand,0,3,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1978-07-25,Indonesia,South Korea,0,2,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1978-07-27,Indonesia,Singapore,0,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1978-09-10,Indonesia,Thailand,0,2,Korea Cup,Seoul,South Korea,True
+1979-05-07,North Korea,Indonesia,3,1,AFC Asian Cup qualification,Bangkok,Thailand,True
+1979-05-31,Japan,Indonesia,4,0,Kirin Cup,Tokyo,Japan,False
+1979-06-30,Indonesia,Singapore,0,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1979-07-04,Malaysia,Indonesia,1,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1979-07-08,Indonesia,Thailand,2,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1979-07-11,Indonesia,Japan,0,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1979-07-13,Myanmar,Indonesia,4,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1979-09-09,Indonesia,Thailand,0,2,Korea Cup,Seoul,South Korea,True
+1979-09-22,Indonesia,Singapore,3,0,Southeast Asian Games,Jakarta,Indonesia,False
+1979-09-23,Indonesia,Thailand,1,3,Southeast Asian Games,Jakarta,Indonesia,False
+1979-09-26,Indonesia,Malaysia,0,0,Southeast Asian Games,Jakarta,Indonesia,False
+1979-09-28,Indonesia,Myanmar,2,1,Southeast Asian Games,Jakarta,Indonesia,False
+1979-09-29,Indonesia,Thailand,0,0,Southeast Asian Games,Jakarta,Indonesia,False
+1979-09-30,Indonesia,Malaysia,0,1,Southeast Asian Games,Jakarta,Indonesia,False
+1979-11-24,Thailand,Indonesia,3,0,King's Cup,Bangkok,Thailand,False
+1979-11-26,Indonesia,Sri Lanka,0,0,King's Cup,Bangkok,Thailand,True
+1980-08-23,Indonesia,Thailand,2,1,Korea Cup,Seoul,South Korea,True
+1980-08-25,South Korea,Indonesia,3,0,Korea Cup,Chuncheon,South Korea,False
+1980-08-27,Bahrain,Indonesia,2,3,Korea Cup,Seoul,South Korea,True
+1980-08-31,Indonesia,Malaysia,1,1,Korea Cup,Seoul,South Korea,True
+1980-09-02,South Korea,Indonesia,2,0,Korea Cup,Seoul,South Korea,False
+1980-10-16,South Korea,Indonesia,1,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1980-10-21,Indonesia,New Zealand,0,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1980-10-25,Kuwait,Indonesia,1,2,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1980-10-26,Indonesia,Thailand,1,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1980-10-27,Malaysia,Indonesia,1,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1980-10-29,Indonesia,Morocco,0,2,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1980-10-31,Myanmar,Indonesia,1,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1980-12-07,Indonesia,Australia,1,1,Friendly,Jakarta,Indonesia,False
+1980-12-12,Saudi Arabia,Indonesia,8,0,Friendly,Riyadh,Saudi Arabia,False
+1980-12-14,Saudi Arabia,Indonesia,3,0,Friendly,Jeddah,Saudi Arabia,False
+1981-02-24,Indonesia,Japan,2,0,Friendly,Jakarta,Indonesia,False
+1981-05-11,Indonesia,New Zealand,0,2,FIFA World Cup qualification,Jakarta,Indonesia,False
+1981-05-20,Australia,Indonesia,2,0,FIFA World Cup qualification,Melbourne,Australia,False
+1981-05-23,New Zealand,Indonesia,5,0,FIFA World Cup qualification,Auckland,New Zealand,False
+1981-05-31,Fiji,Indonesia,0,0,FIFA World Cup qualification,Suva,Fiji,False
+1981-06-15,Indonesia,Taiwan,1,0,FIFA World Cup qualification,Jakarta,Indonesia,False
+1981-06-18,Indonesia,Malta,0,1,Korea Cup,Daegu,South Korea,True
+1981-06-20,Indonesia,Thailand,1,3,Korea Cup,Seoul,South Korea,True
+1981-06-22,Indonesia,Liechtenstein,2,3,Korea Cup,Seoul,South Korea,True
+1981-06-28,Taiwan,Indonesia,2,0,FIFA World Cup qualification,Taipei,Taiwan,False
+1981-08-10,Indonesia,Fiji,3,3,FIFA World Cup qualification,Jakarta,Indonesia,False
+1981-08-14,Indonesia,Philippines,3,0,Indonesia Tournament,Jakarta,Indonesia,False
+1981-08-20,Indonesia,South Korea,0,1,Indonesia Tournament,Jakarta,Indonesia,False
+1981-08-30,Indonesia,Australia,1,0,FIFA World Cup qualification,Surabaya,Indonesia,False
+1981-09-02,Indonesia,United Arab Emirates,5,2,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1981-09-07,Indonesia,New Zealand,0,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1981-09-09,Malaysia,Indonesia,2,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1981-09-11,India,Indonesia,1,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1981-09-14,Indonesia,Japan,0,2,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1981-12-07,Indonesia,Singapore,1,0,Southeast Asian Games,Manila,Philippines,True
+1981-12-11,Philippines,Indonesia,0,2,Southeast Asian Games,Manila,Philippines,False
+1981-12-13,Thailand,Indonesia,2,1,Southeast Asian Games,Manila,Philippines,True
+1981-12-14,Indonesia,Singapore,2,0,Southeast Asian Games,Manila,Philippines,True
+1982-08-05,Malaysia,Indonesia,0,2,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1982-08-08,South Korea,Indonesia,4,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1982-08-11,Indonesia,Senegal,2,2,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1982-08-14,Indonesia,United Arab Emirates,1,2,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1982-10-11,Australia,Indonesia,2,0,Merlion Cup,Kallang,Singapore,True
+1982-10-17,Indonesia,Malaysia,0,0,Merlion Cup,Kallang,Singapore,True
+1983-05-06,Indonesia,Taiwan,0,2,Friendly,Jakarta,Indonesia,False
+1983-05-29,Thailand,Indonesia,5,0,Southeast Asian Games,Singapore,Singapore,True
+1983-05-31,Indonesia,Myanmar,2,1,Southeast Asian Games,Singapore,Singapore,True
+1983-06-02,Indonesia,Brunei,1,1,Southeast Asian Games,Singapore,Singapore,True
+1983-06-08,Indonesia,Thailand,0,3,Korea Cup,Seoul,South Korea,True
+1983-06-10,Indonesia,Nigeria,1,2,Korea Cup,Seoul,South Korea,True
+1983-06-12,South Korea,Indonesia,3,0,Korea Cup,Jeonju,South Korea,False
+1984-08-06,Indonesia,Thailand,2,1,AFC Asian Cup qualification,Jakarta,Indonesia,False
+1984-08-09,Indonesia,Bangladesh,2,1,AFC Asian Cup qualification,Jakarta,Indonesia,False
+1984-08-11,Indonesia,Philippines,1,0,AFC Asian Cup qualification,Solo,Indonesia,False
+1984-08-13,Indonesia,Iran,0,1,AFC Asian Cup qualification,Jakarta,Indonesia,False
+1984-08-15,Indonesia,Syria,1,2,AFC Asian Cup qualification,Jakarta,Indonesia,False
+1984-08-26,Malaysia,Indonesia,2,2,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1984-09-01,Indonesia,Papua New Guinea,0,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1984-09-04,Indonesia,Liberia,1,2,Merdeka Tournament,Johor Bahru,Malaysia,True
+1985-03-15,Indonesia,Thailand,1,0,FIFA World Cup qualification,Jakarta,Indonesia,False
+1985-03-18,Indonesia,Bangladesh,2,0,FIFA World Cup qualification,Jakarta,Indonesia,False
+1985-03-21,Indonesia,India,2,1,FIFA World Cup qualification,Jakarta,Indonesia,False
+1985-03-29,Thailand,Indonesia,0,1,FIFA World Cup qualification,Bangkok,Thailand,False
+1985-04-02,Bangladesh,Indonesia,2,1,FIFA World Cup qualification,Dhaka,Bangladesh,False
+1985-04-06,India,Indonesia,1,1,FIFA World Cup qualification,Calcutta,India,False
+1985-04-28,Bangladesh,Indonesia,1,1,Friendly,Peshawar,Pakistan,True
+1985-05-02,Indonesia,North Korea,0,7,Friendly,Peshawar,Pakistan,True
+1985-05-04,Pakistan,Indonesia,1,3,Friendly,Peshawar,Pakistan,False
+1985-07-21,South Korea,Indonesia,2,0,FIFA World Cup qualification,Seoul,South Korea,False
+1985-07-30,Indonesia,South Korea,1,4,FIFA World Cup qualification,Jakarta,Indonesia,False
+1985-08-12,Indonesia,Thailand,1,2,Indonesia Tournament,Jakarta,Indonesia,False
+1985-10-26,Myanmar,Indonesia,2,1,Friendly,Yangon,Burma,False
+1985-12-09,Indonesia,Singapore,0,1,Southeast Asian Games,Bangkok,Thailand,True
+1985-12-11,Brunei,Indonesia,1,1,Southeast Asian Games,Bangkok,Thailand,True
+1985-12-15,Thailand,Indonesia,7,0,Southeast Asian Games,Bangkok,Thailand,False
+1985-12-16,Malaysia,Indonesia,1,0,Southeast Asian Games,Bangkok,Thailand,True
+1986-02-16,Indonesia,Paraguay,2,3,Friendly,Jakarta,Indonesia,False
+1986-03-05,Thailand,Indonesia,1,1,King's Cup,Bangkok,Thailand,False
+1986-08-20,Indonesia,Algeria,0,1,Indonesia Tournament,Jakarta,Indonesia,False
+1986-09-21,Qatar,Indonesia,1,1,Asian Games,Gwangju,South Korea,True
+1986-09-25,Indonesia,Saudi Arabia,0,2,Asian Games,Gwangju,South Korea,True
+1986-09-27,Indonesia,Malaysia,1,0,Asian Games,Gwangju,South Korea,True
+1986-10-01,United Arab Emirates,Indonesia,2,2,Asian Games,Seoul,South Korea,True
+1986-10-03,South Korea,Indonesia,4,0,Asian Games,Seoul,South Korea,False
+1986-10-04,Indonesia,Kuwait,0,5,Asian Games,Seoul,South Korea,True
+1987-08-04,Indonesia,Algeria,2,1,Indonesia Tournament,Jakarta,Indonesia,False
+1987-08-06,Indonesia,South Korea,1,1,Indonesia Tournament,Jakarta,Indonesia,False
+1987-08-09,Indonesia,Algeria,2,1,Indonesia Tournament,Jakarta,Indonesia,False
+1987-09-12,Indonesia,Brunei,2,0,Southeast Asian Games,Jakarta,Indonesia,False
+1987-09-14,Indonesia,Thailand,0,0,Southeast Asian Games,Jakarta,Indonesia,False
+1987-09-20,Indonesia,Malaysia,1,0,Southeast Asian Games,Jakarta,Indonesia,False
+1988-01-14,Thailand,Indonesia,3,3,King's Cup,Bangkok,Thailand,False
+1988-01-18,Indonesia,Oman,3,0,King's Cup,Bangkok,Thailand,True
+1988-06-17,Indonesia,Yemen DPR,1,0,AFC Asian Cup qualification,Jakarta,Indonesia,False
+1988-06-19,Indonesia,Bahrain,0,0,AFC Asian Cup qualification,Jakarta,Indonesia,False
+1988-06-22,Indonesia,South Korea,0,4,AFC Asian Cup qualification,Jakarta,Indonesia,False
+1988-08-05,Indonesia,Thailand,1,0,Indonesia Tournament,Jakarta,Indonesia,False
+1988-10-02,Indonesia,Qatar,0,1,Friendly,Jakarta,Indonesia,False
+1988-10-04,Indonesia,Qatar,1,4,Friendly,Jakarta,Indonesia,False
+1988-11-09,Indonesia,Qatar,0,1,Friendly,Jakarta,Indonesia,False
+1988-12-08,Malaysia,Indonesia,0,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1988-12-12,Indonesia,Thailand,0,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1989-01-30,Thailand,Indonesia,3,0,King's Cup,Bangkok,Thailand,False
+1989-02-03,Indonesia,Malaysia,1,3,King's Cup,Bangkok,Thailand,True
+1989-05-13,Singapore,Indonesia,1,2,Friendly,Singapore,Singapore,False
+1989-05-21,Indonesia,North Korea,0,0,FIFA World Cup qualification,Jakarta,Indonesia,False
+1989-05-28,Indonesia,Japan,0,0,FIFA World Cup qualification,Jakarta,Indonesia,False
+1989-06-04,Hong Kong,Indonesia,1,1,FIFA World Cup qualification,Victoria,Hong Kong,False
+1989-06-11,Japan,Indonesia,5,0,FIFA World Cup qualification,Tokyo,Japan,False
+1989-06-25,Indonesia,Hong Kong,3,2,FIFA World Cup qualification,Jakarta,Indonesia,False
+1989-07-09,North Korea,Indonesia,2,1,FIFA World Cup qualification,Pyongyang,North Korea,False
+1989-08-21,Indonesia,Brunei,6,0,Southeast Asian Games,Kuala Lumpur,Malaysia,True
+1989-08-23,Indonesia,Philippines,5,1,Southeast Asian Games,Kuala Lumpur,Malaysia,True
+1989-08-25,Malaysia,Indonesia,2,0,Southeast Asian Games,Kuala Lumpur,Malaysia,False
+1989-08-28,Singapore,Indonesia,1,0,Southeast Asian Games,Kuala Lumpur,Malaysia,True
+1989-08-30,Indonesia,Thailand,1,1,Southeast Asian Games,Kuala Lumpur,Malaysia,True
+1990-02-02,Indonesia,Kenya,2,3,King's Cup,Bangkok,Thailand,True
+1990-02-05,Thailand,Indonesia,1,1,King's Cup,Bangkok,Thailand,False
+1990-08-18,Indonesia,Singapore,6,0,Friendly,Jakarta,Indonesia,False
+1990-08-25,Indonesia,Australia,0,3,Friendly,Jakarta,Indonesia,False
+1991-02-06,Malaysia,Indonesia,1,2,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1991-06-07,Indonesia,Malta,0,3,Korea Cup,Seoul,South Korea,True
+1991-06-09,South Korea,Indonesia,3,0,Korea Cup,Daejeon,South Korea,False
+1991-06-11,Egypt,Indonesia,6,0,Korea Cup,Seoul,South Korea,True
+1991-10-05,Singapore,Indonesia,2,0,Friendly,Singapore,Singapore,False
+1991-11-26,Indonesia,Malaysia,2,0,Southeast Asian Games,Manila,Philippines,True
+1991-11-28,Indonesia,Vietnam,1,0,Southeast Asian Games,Manila,Philippines,True
+1991-11-30,Philippines,Indonesia,1,2,Southeast Asian Games,Manila,Philippines,False
+1991-12-02,Indonesia,Singapore,0,0,Southeast Asian Games,Manila,Philippines,True
+1991-12-04,Indonesia,Thailand,0,0,Southeast Asian Games,Manila,Philippines,True
+1992-04-20,China PR,Indonesia,2,0,AFC Asian Cup qualification,Singapore,Singapore,True
+1992-04-22,Singapore,Indonesia,1,2,AFC Asian Cup qualification,Singapore,Singapore,False
+1992-04-24,Indonesia,Malaysia,1,1,AFC Asian Cup qualification,Singapore,Singapore,True
+1992-08-08,Indonesia,Malaysia,1,1,Friendly,Jakarta,Indonesia,False
+1992-08-14,Indonesia,Australia,0,3,Friendly,Jakarta,Indonesia,False
+1993-02-06,Ghana,Indonesia,2,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1993-04-09,Qatar,Indonesia,3,1,FIFA World Cup qualification,Doha,Qatar,False
+1993-04-13,North Korea,Indonesia,4,0,FIFA World Cup qualification,Doha,Qatar,True
+1993-04-16,Vietnam,Indonesia,1,0,FIFA World Cup qualification,Doha,Qatar,True
+1993-04-18,Indonesia,Singapore,0,2,FIFA World Cup qualification,Doha,Qatar,True
+1993-04-24,Indonesia,Qatar,1,4,FIFA World Cup qualification,Singapore,Singapore,True
+1993-04-28,Indonesia,North Korea,1,2,FIFA World Cup qualification,Singapore,Singapore,True
+1993-04-30,Indonesia,Vietnam,2,1,FIFA World Cup qualification,Singapore,Singapore,True
+1993-05-02,Singapore,Indonesia,2,1,FIFA World Cup qualification,Singapore,Singapore,False
+1993-06-09,Indonesia,Vietnam,1,0,Southeast Asian Games,Singapore,Singapore,True
+1993-06-11,Singapore,Indonesia,1,1,Southeast Asian Games,Singapore,Singapore,False
+1993-06-15,Indonesia,Philippines,3,1,Southeast Asian Games,Singapore,Singapore,True
+1993-06-17,Thailand,Indonesia,1,0,Southeast Asian Games,Singapore,Singapore,True
+1993-06-19,Singapore,Indonesia,3,1,Southeast Asian Games,Singapore,Singapore,False
+1995-08-01,Indonesia,Singapore,0,0,Friendly,Jakarta,Indonesia,False
+1995-12-04,Thailand,Indonesia,2,1,Southeast Asian Games,Chiang Mai,Thailand,False
+1995-12-06,Indonesia,Cambodia,10,0,Southeast Asian Games,Chiang Mai,Thailand,True
+1995-12-08,Indonesia,Malaysia,3,0,Southeast Asian Games,Chiang Mai,Thailand,True
+1995-12-12,Vietnam,Indonesia,1,0,Southeast Asian Games,Chiang Mai,Thailand,True
+1996-02-23,Thailand,Indonesia,4,1,Friendly,Bangkok,Thailand,False
+1996-03-02,Malaysia,Indonesia,1,1,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,False
+1996-03-04,Indonesia,India,7,1,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,True
+1996-09-02,Laos,Indonesia,1,5,AFF Championship,Singapore,Singapore,True
+1996-09-07,Indonesia,Cambodia,3,0,AFF Championship,Singapore,Singapore,True
+1996-09-09,Indonesia,Myanmar,6,1,AFF Championship,Singapore,Singapore,True
+1996-09-11,Vietnam,Indonesia,1,1,AFF Championship,Singapore,Singapore,True
+1996-09-13,Malaysia,Indonesia,3,1,AFF Championship,Singapore,Singapore,True
+1996-09-15,Indonesia,Vietnam,2,3,AFF Championship,Singapore,Singapore,True
+1996-10-30,Indonesia,Moldova,1,2,Friendly,Genoa,Italy,True
+1996-11-03,Lithuania,Indonesia,4,0,Friendly,Vilnius,Lithuania,False
+1996-11-16,Estonia,Indonesia,3,0,Friendly,Celle Ligure,Italy,True
+1996-11-24,Indonesia,Iraq,0,4,Friendly,Genoa,Italy,True
+1996-11-29,Saudi Arabia,Indonesia,4,1,Friendly,Dammam,Saudi Arabia,False
+1996-12-04,Indonesia,Kuwait,2,2,AFC Asian Cup,Abu Dhabi,United Arab Emirates,True
+1996-12-07,South Korea,Indonesia,4,2,AFC Asian Cup,Abu Dhabi,United Arab Emirates,True
+1996-12-10,United Arab Emirates,Indonesia,2,0,AFC Asian Cup,Abu Dhabi,United Arab Emirates,False
+1997-02-22,Indonesia,Zimbabwe,0,0,Dunhill Cup,Kuala Lumpur,Malaysia,True
+1997-02-24,Indonesia,Vietnam,1,0,Dunhill Cup,Kuala Lumpur,Malaysia,True
+1997-02-26,Bosnia and Herzegovina,Indonesia,2,0,Dunhill Cup,Kuala Lumpur,Malaysia,True
+1997-03-09,Saudi Arabia,Indonesia,2,0,Friendly,Dammam,Saudi Arabia,False
+1997-03-12,Saudi Arabia,Indonesia,3,1,Friendly,Dammam,Saudi Arabia,False
+1997-04-06,Indonesia,Cambodia,8,0,FIFA World Cup qualification,Jakarta,Indonesia,False
+1997-04-13,Indonesia,Yemen,0,0,FIFA World Cup qualification,Jakarta,Indonesia,False
+1997-04-27,Cambodia,Indonesia,1,1,FIFA World Cup qualification,Phnom Penh,Cambodia,False
+1997-06-01,Indonesia,Uzbekistan,1,1,FIFA World Cup qualification,Jakarta,Indonesia,False
+1997-06-13,Yemen,Indonesia,1,1,FIFA World Cup qualification,Sana'a,Yemen,False
+1997-06-20,Uzbekistan,Indonesia,3,0,FIFA World Cup qualification,Tashkent,Uzbekistan,False
+1997-09-14,Indonesia,Tanzania,3,1,Friendly,Bandung,Indonesia,False
+1997-09-21,Indonesia,New Zealand,5,0,Friendly,Jakarta,Indonesia,False
+1997-10-05,Indonesia,Laos,5,2,Southeast Asian Games,Jakarta,Indonesia,False
+1997-10-07,Indonesia,Vietnam,2,2,Southeast Asian Games,Jakarta,Indonesia,False
+1997-10-09,Indonesia,Malaysia,4,0,Southeast Asian Games,Jakarta,Indonesia,False
+1997-10-12,Indonesia,Philippines,2,0,Southeast Asian Games,Jakarta,Indonesia,False
+1997-10-16,Indonesia,Singapore,2,1,Southeast Asian Games,Jakarta,Indonesia,False
+1997-10-18,Indonesia,Thailand,1,1,Southeast Asian Games,Jakarta,Indonesia,False
+1998-08-27,Indonesia,Philippines,3,0,AFF Championship,Ho Chi Minh City,Vietnam,True
+1998-08-29,Indonesia,Myanmar,6,2,AFF Championship,Ho Chi Minh City,Vietnam,True
+1998-08-31,Thailand,Indonesia,3,2,AFF Championship,Ho Chi Minh City,Vietnam,True
+1998-09-02,Singapore,Indonesia,2,1,AFF Championship,Ho Chi Minh City,Vietnam,True
+1998-09-05,Indonesia,Thailand,3,3,AFF Championship,Ho Chi Minh City,Vietnam,True
+1999-07-02,Lithuania,Indonesia,2,2,Friendly,Valga,Estonia,True
+1999-07-31,Indonesia,Cambodia,1,0,Southeast Asian Games,Bandar Seri Begawan,Brunei,True
+1999-08-02,Indonesia,Malaysia,6,0,Southeast Asian Games,Bandar Seri Begawan,Brunei,True
+1999-08-06,Indonesia,Singapore,1,1,Southeast Asian Games,Bandar Seri Begawan,Brunei,True
+1999-08-09,Brunei,Indonesia,0,3,Southeast Asian Games,Bandar Seri Begawan,Brunei,False
+1999-08-12,Indonesia,Vietnam,0,1,Southeast Asian Games,Bandar Seri Begawan,Brunei,True
+1999-08-14,Indonesia,Singapore,0,0,Southeast Asian Games,Bandar Seri Begawan,Brunei,True
+1999-10-24,Hong Kong,Indonesia,1,1,AFC Asian Cup qualification,Victoria,Hong Kong,False
+1999-10-30,Cambodia,Indonesia,1,5,AFC Asian Cup qualification,Phnom Penh,Cambodia,False
+1999-11-14,Indonesia,Hong Kong,3,1,AFC Asian Cup qualification,Jakarta,Indonesia,False
+1999-11-20,Indonesia,Cambodia,9,2,AFC Asian Cup qualification,Jakarta,Indonesia,False
+2000-08-28,Indonesia,Myanmar,4,1,Friendly,Jakarta,Indonesia,False
+2000-08-30,Indonesia,Taiwan,1,0,Friendly,Jakarta,Indonesia,False
+2000-09-01,Indonesia,Iraq,0,0,Friendly,Jakarta,Indonesia,False
+2000-09-03,Indonesia,Iraq,3,0,Friendly,Jakarta,Indonesia,False
+2000-10-13,Kuwait,Indonesia,0,0,AFC Asian Cup,Tripoli,Lebanon,True
+2000-10-16,China PR,Indonesia,4,0,AFC Asian Cup,Tripoli,Lebanon,True
+2000-10-19,South Korea,Indonesia,3,0,AFC Asian Cup,Beirut,Lebanon,True
+2000-11-01,Singapore,Indonesia,1,0,Friendly,Singapore,Singapore,False
+2000-11-06,Indonesia,Philippines,3,0,AFF Championship,Chiang Mai,Thailand,True
+2000-11-10,Thailand,Indonesia,4,1,AFF Championship,Chiang Mai,Thailand,False
+2000-11-12,Myanmar,Indonesia,0,5,AFF Championship,Chiang Mai,Thailand,True
+2000-11-16,Vietnam,Indonesia,2,3,AFF Championship,Bangkok,Thailand,True
+2000-11-18,Thailand,Indonesia,4,1,AFF Championship,Bangkok,Thailand,False
+2001-04-08,Indonesia,Maldives,5,0,FIFA World Cup qualification,Jakarta,Indonesia,False
+2001-04-22,Indonesia,Cambodia,6,0,FIFA World Cup qualification,Jakarta,Indonesia,False
+2001-04-29,Cambodia,Indonesia,0,2,FIFA World Cup qualification,Phnom Penh,Cambodia,False
+2001-05-06,Maldives,Indonesia,0,2,FIFA World Cup qualification,Malé,Maldives,False
+2001-05-13,China PR,Indonesia,5,1,FIFA World Cup qualification,Kunming,China PR,False
+2001-05-27,Indonesia,China PR,0,2,FIFA World Cup qualification,Jakarta,Indonesia,False
+2002-11-10,Singapore,Indonesia,1,1,Friendly,Singapore,Singapore,False
+2002-12-15,Indonesia,Myanmar,0,0,AFF Championship,Jakarta,Indonesia,False
+2002-12-17,Indonesia,Cambodia,4,2,AFF Championship,Jakarta,Indonesia,False
+2002-12-21,Indonesia,Vietnam,2,2,AFF Championship,Jakarta,Indonesia,False
+2002-12-23,Indonesia,Philippines,13,1,AFF Championship,Jakarta,Indonesia,False
+2002-12-27,Indonesia,Malaysia,1,0,AFF Championship,Jakarta,Indonesia,False
+2002-12-29,Indonesia,Thailand,2,2,AFF Championship,Jakarta,Indonesia,False
+2003-09-26,Malaysia,Indonesia,1,1,Friendly,Kuala Lumpur,Malaysia,False
+2003-10-06,Indonesia,Bhutan,2,0,AFC Asian Cup qualification,Jeddah,Saudi Arabia,True
+2003-10-08,Yemen,Indonesia,0,3,AFC Asian Cup qualification,Jeddah,Saudi Arabia,True
+2003-10-10,Saudi Arabia,Indonesia,5,0,AFC Asian Cup qualification,Jeddah,Saudi Arabia,False
+2003-10-13,Bhutan,Indonesia,0,2,AFC Asian Cup qualification,Jeddah,Saudi Arabia,True
+2003-10-15,Indonesia,Yemen,2,2,AFC Asian Cup qualification,Jeddah,Saudi Arabia,True
+2003-10-17,Saudi Arabia,Indonesia,6,0,AFC Asian Cup qualification,Jeddah,Saudi Arabia,False
+2004-02-12,Jordan,Indonesia,2,1,Friendly,Amman,Jordan,False
+2004-02-18,Saudi Arabia,Indonesia,3,0,FIFA World Cup qualification,Riyadh,Saudi Arabia,False
+2004-03-17,Malaysia,Indonesia,0,0,Friendly,Johor Bahru,Malaysia,False
+2004-03-31,Turkmenistan,Indonesia,3,1,FIFA World Cup qualification,Ashgabat,Turkmenistan,False
+2004-06-03,Indonesia,India,1,1,Friendly,Jakarta,Indonesia,False
+2004-06-09,Indonesia,Sri Lanka,1,0,FIFA World Cup qualification,Jakarta,Indonesia,False
+2004-07-18,Qatar,Indonesia,1,2,AFC Asian Cup,Beijing,China PR,True
+2004-07-21,China PR,Indonesia,5,0,AFC Asian Cup,Beijing,China PR,False
+2004-07-25,Bahrain,Indonesia,3,1,AFC Asian Cup,Jinan,China PR,True
+2004-09-04,Singapore,Indonesia,2,0,Friendly,Singapore,Singapore,False
+2004-09-08,Sri Lanka,Indonesia,2,2,FIFA World Cup qualification,Colombo,Sri Lanka,False
+2004-10-12,Indonesia,Saudi Arabia,1,3,FIFA World Cup qualification,Jakarta,Indonesia,False
+2004-11-17,Indonesia,Turkmenistan,3,1,FIFA World Cup qualification,Jakarta,Indonesia,False
+2004-12-07,Laos,Indonesia,0,6,AFF Championship,Ho Chi Minh City,Vietnam,True
+2004-12-09,Indonesia,Singapore,0,0,AFF Championship,Ho Chi Minh City,Vietnam,True
+2004-12-11,Vietnam,Indonesia,0,3,AFF Championship,Hanoi,Vietnam,False
+2004-12-13,Indonesia,Cambodia,8,0,AFF Championship,Hanoi,Vietnam,True
+2004-12-28,Indonesia,Malaysia,1,2,AFF Championship,Jakarta,Indonesia,False
+2005-01-03,Malaysia,Indonesia,1,4,AFF Championship,Kuala Lumpur,Malaysia,False
+2005-01-08,Indonesia,Singapore,1,3,AFF Championship,Jakarta,Indonesia,False
+2005-01-16,Singapore,Indonesia,2,1,AFF Championship,Singapore,Singapore,False
+2005-03-29,Australia,Indonesia,3,0,Friendly,Perth,Australia,False
+2006-08-23,Malaysia,Indonesia,1,1,Merdeka Tournament,Shah Alam,Malaysia,False
+2006-08-25,Indonesia,Myanmar,0,0,Merdeka Tournament,Shah Alam,Malaysia,True
+2006-08-29,Myanmar,Indonesia,2,1,Merdeka Tournament,Shah Alam,Malaysia,True
+2006-11-11,Singapore,Indonesia,1,2,Friendly,Singapore,Singapore,False
+2007-01-13,Indonesia,Laos,3,1,AFF Championship,Singapore,Singapore,True
+2007-01-15,Vietnam,Indonesia,1,1,AFF Championship,Singapore,Singapore,True
+2007-01-17,Singapore,Indonesia,2,2,AFF Championship,Singapore,Singapore,False
+2007-06-01,Indonesia,Hong Kong,3,0,Friendly,Jakarta,Indonesia,False
+2007-06-21,Indonesia,Jamaica,2,1,Friendly,Jakarta,Indonesia,False
+2007-06-24,Indonesia,Oman,0,1,Friendly,Jakarta,Indonesia,False
+2007-07-10,Indonesia,Bahrain,2,1,AFC Asian Cup,Jakarta,Indonesia,False
+2007-07-14,Indonesia,Saudi Arabia,1,2,AFC Asian Cup,Jakarta,Indonesia,False
+2007-07-18,Indonesia,South Korea,0,1,AFC Asian Cup,Jakarta,Indonesia,False
+2007-11-09,Indonesia,Syria,1,4,FIFA World Cup qualification,Jakarta,Indonesia,False
+2007-11-18,Syria,Indonesia,7,0,FIFA World Cup qualification,Damascus,Syria,False
+2008-04-25,Indonesia,Yemen,1,0,Friendly,Bandung,Indonesia,False
+2008-06-06,Indonesia,Malaysia,1,1,Friendly,Jakarta,Indonesia,False
+2008-06-11,Indonesia,Vietnam,1,0,Friendly,Surabaya,Indonesia,False
+2008-08-21,Indonesia,Cambodia,7,0,Friendly,Jakarta,Indonesia,False
+2008-08-25,Indonesia,Myanmar,4,0,Friendly,Jakarta,Indonesia,False
+2008-11-13,Bangladesh,Indonesia,0,2,Friendly,Yangon,Myanmar,True
+2008-11-15,Myanmar,Indonesia,2,1,Friendly,Yangon,Myanmar,False
+2008-11-21,Myanmar,Indonesia,2,1,Friendly,Yangon,Myanmar,False
+2008-12-05,Indonesia,Myanmar,3,0,AFF Championship,Jakarta,Indonesia,False
+2008-12-07,Indonesia,Cambodia,4,0,AFF Championship,Jakarta,Indonesia,False
+2008-12-09,Indonesia,Singapore,0,2,AFF Championship,Jakarta,Indonesia,False
+2008-12-16,Indonesia,Thailand,0,1,AFF Championship,Jakarta,Indonesia,False
+2009-01-19,Oman,Indonesia,0,0,AFC Asian Cup qualification,Muscat,Oman,False
+2009-01-28,Indonesia,Australia,0,0,AFC Asian Cup qualification,Jakarta,Indonesia,False
+2009-11-04,Singapore,Indonesia,3,1,Friendly,Singapore,Singapore,False
+2009-11-14,Kuwait,Indonesia,2,1,AFC Asian Cup qualification,Kuwait City,Kuwait,False
+2009-11-18,Indonesia,Kuwait,1,1,AFC Asian Cup qualification,Jakarta,Indonesia,False
+2010-01-06,Indonesia,Oman,1,2,AFC Asian Cup qualification,Jakarta,Indonesia,False
+2010-03-03,Australia,Indonesia,1,0,AFC Asian Cup qualification,Brisbane,Australia,False
+2010-10-08,Indonesia,Uruguay,1,7,Friendly,Jakarta,Indonesia,False
+2010-10-12,Indonesia,Maldives,3,0,Friendly,Jakarta,Indonesia,False
+2010-11-21,Indonesia,Timor-Leste,6,0,Friendly,Palembang,Indonesia,False
+2010-11-24,Indonesia,Taiwan,2,0,Friendly,Palembang,Indonesia,False
+2010-12-01,Indonesia,Malaysia,5,1,AFF Championship,Jakarta,Indonesia,False
+2010-12-04,Indonesia,Laos,6,0,AFF Championship,Jakarta,Indonesia,False
+2010-12-07,Indonesia,Thailand,2,1,AFF Championship,Jakarta,Indonesia,False
+2010-12-16,Indonesia,Philippines,1,0,AFF Championship,Jakarta,Indonesia,False
+2010-12-19,Indonesia,Philippines,1,0,AFF Championship,Jakarta,Indonesia,False
+2010-12-26,Malaysia,Indonesia,3,0,AFF Championship,Kuala Lumpur,Malaysia,False
+2010-12-29,Indonesia,Malaysia,2,1,AFF Championship,Jakarta,Indonesia,False
+2011-07-23,Turkmenistan,Indonesia,1,1,FIFA World Cup qualification,Ashgabat,Turkmenistan,False
+2011-07-28,Indonesia,Turkmenistan,4,3,FIFA World Cup qualification,Jakarta,Indonesia,False
+2011-08-22,Indonesia,Palestine,4,1,Friendly,Surakarta,Indonesia,False
+2011-08-27,Jordan,Indonesia,1,0,Friendly,Amman,Jordan,False
+2011-09-02,Iran,Indonesia,3,0,FIFA World Cup qualification,Tehran,Iran,False
+2011-09-06,Indonesia,Bahrain,0,2,FIFA World Cup qualification,Jakarta,Indonesia,False
+2011-10-07,Indonesia,Saudi Arabia,0,0,Friendly,Kuala Lumpur,Malaysia,True
+2011-10-11,Indonesia,Qatar,2,3,FIFA World Cup qualification,Jakarta,Indonesia,False
+2011-11-11,Qatar,Indonesia,4,0,FIFA World Cup qualification,Doha,Qatar,False
+2011-11-15,Indonesia,Iran,1,4,FIFA World Cup qualification,Jakarta,Indonesia,False
+2012-02-29,Bahrain,Indonesia,10,0,FIFA World Cup qualification,Riffa,Bahrain,False
+2012-06-05,Philippines,Indonesia,2,2,Friendly,Manila,Philippines,False
+2012-09-10,Indonesia,North Korea,0,2,Friendly,Jakarta,Indonesia,False
+2012-10-16,Vietnam,Indonesia,0,0,Friendly,Hanoi,Vietnam,False
+2012-11-14,Indonesia,Timor-Leste,1,0,Friendly,Jakarta,Indonesia,False
+2012-11-17,Indonesia,Cameroon,0,0,Friendly,Jakarta,Indonesia,False
+2012-11-25,Indonesia,Laos,2,2,AFF Championship,Kuala Lumpur,Malaysia,True
+2012-11-28,Indonesia,Singapore,1,0,AFF Championship,Kuala Lumpur,Malaysia,True
+2012-12-01,Malaysia,Indonesia,2,0,AFF Championship,Kuala Lumpur,Malaysia,False
+2013-01-31,Jordan,Indonesia,5,0,Friendly,Amman,Jordan,False
+2013-02-06,Iraq,Indonesia,1,0,AFC Asian Cup qualification,Dubai,United Arab Emirates,True
+2013-03-23,Indonesia,Saudi Arabia,1,2,AFC Asian Cup qualification,Jakarta,Indonesia,False
+2013-06-07,Indonesia,Netherlands,0,3,Friendly,Jakarta,Indonesia,False
+2013-08-14,Indonesia,Philippines,2,0,Friendly,Surakarta,Indonesia,False
+2013-10-15,Indonesia,China PR,1,1,AFC Asian Cup qualification,Jakarta,Indonesia,False
+2013-11-01,Indonesia,Kyrgyzstan,4,0,Friendly,Jakarta,Indonesia,False
+2013-11-15,China PR,Indonesia,1,0,AFC Asian Cup qualification,Xi'an,China PR,False
+2013-11-19,Indonesia,Iraq,0,2,AFC Asian Cup qualification,Jakarta,Indonesia,False
+2014-03-05,Saudi Arabia,Indonesia,1,0,AFC Asian Cup qualification,Dammam,Saudi Arabia,False
+2014-03-26,Andorra,Indonesia,0,1,Friendly,Alzira,Spain,True
+2014-03-29,Cuba,Indonesia,1,0,Friendly,Alzira,Spain,True
+2014-06-21,Indonesia,Pakistan,4,0,Friendly,Surabaya,Indonesia,False
+2014-06-25,Indonesia,Nepal,2,0,Friendly,Malang,Indonesia,False
+2014-07-14,Qatar,Indonesia,2,2,Friendly,Al Wakrah,Qatar,False
+2014-09-09,Indonesia,Yemen,0,0,Friendly,Yogyakarta,Indonesia,False
+2014-09-14,Indonesia,Malaysia,2,0,Friendly,Sidoarjo,Indonesia,False
+2014-09-25,Indonesia,Cambodia,1,0,Friendly,Malang,Indonesia,False
+2014-11-15,Indonesia,Syria,0,2,Friendly,Jakarta,Indonesia,False
+2014-11-22,Vietnam,Indonesia,2,2,AFF Championship,Hanoi,Vietnam,False
+2014-11-25,Philippines,Indonesia,4,0,AFF Championship,Hanoi,Vietnam,True
+2014-11-28,Indonesia,Laos,5,1,AFF Championship,Hanoi,Vietnam,True
+2015-03-25,Indonesia,Cameroon,0,1,Friendly,Sidoarjo,Indonesia,False
+2015-03-30,Indonesia,Myanmar,2,1,Friendly,Sidoarjo,Indonesia,False
+2016-09-06,Indonesia,Malaysia,3,0,Friendly,Surakarta,Indonesia,False
+2016-10-09,Indonesia,Vietnam,2,2,Friendly,Sleman,Indonesia,False
+2016-11-04,Myanmar,Indonesia,0,0,Friendly,Yangon,Myanmar,False
+2016-11-08,Vietnam,Indonesia,3,2,Friendly,Hanoi,Vietnam,False
+2016-11-19,Thailand,Indonesia,4,2,AFF Championship,Bocaue,Philippines,True
+2016-11-22,Philippines,Indonesia,2,2,AFF Championship,Bocaue,Philippines,False
+2016-11-25,Singapore,Indonesia,1,2,AFF Championship,Manila,Philippines,True
+2016-12-03,Indonesia,Vietnam,2,1,AFF Championship,Bogor,Indonesia,False
+2016-12-07,Vietnam,Indonesia,2,2,AFF Championship,Hanoi,Vietnam,False
+2016-12-14,Indonesia,Thailand,2,1,AFF Championship,Bogor,Indonesia,False
+2016-12-17,Thailand,Indonesia,2,0,AFF Championship,Bangkok,Thailand,False
+2017-03-21,Indonesia,Myanmar,1,3,Friendly,Cibinong,Indonesia,False
+2017-06-08,Cambodia,Indonesia,0,2,Friendly,Phnom Penh,Cambodia,False
+2017-06-13,Indonesia,Puerto Rico,0,0,Friendly,Sleman,Indonesia,False
+2017-09-02,Indonesia,Fiji,0,0,Friendly,Bekasi,Indonesia,False
+2017-11-25,Indonesia,Guyana,2,1,Friendly,Cikarang,Indonesia,False
+2017-12-02,Indonesia,Brunei,4,0,Friendly,Banda Aceh,Indonesia,False
+2017-12-04,Indonesia,Mongolia,3,2,Friendly,Banda Aceh,Indonesia,False
+2017-12-06,Indonesia,Kyrgyzstan,0,1,Friendly,Banda Aceh,Indonesia,False
+2018-01-11,Indonesia,Iceland,0,6,Friendly,Sleman,Indonesia,False
+2018-01-14,Indonesia,Iceland,1,4,Friendly,Jakarta,Indonesia,False
+2018-09-11,Indonesia,Mauritius,1,0,Friendly,Cikarang,Indonesia,False
+2018-10-10,Indonesia,Myanmar,3,0,Friendly,Cikarang,Indonesia,False
+2018-10-16,Indonesia,Hong Kong,1,1,Friendly,Cikarang,Indonesia,False
+2018-11-09,Singapore,Indonesia,1,0,AFF Championship,Kallang,Singapore,False
+2018-11-13,Indonesia,Timor-Leste,3,1,AFF Championship,Jakarta,Indonesia,False
+2018-11-17,Thailand,Indonesia,4,2,AFF Championship,Bangkok,Thailand,False
+2018-11-25,Indonesia,Philippines,0,0,AFF Championship,Jakarta,Indonesia,False
+2019-03-25,Myanmar,Indonesia,0,2,Friendly,Mandalay,Myanmar,False
+2019-06-11,Jordan,Indonesia,4,1,Friendly,Amman,Jordan,False
+2019-06-15,Indonesia,Vanuatu,6,0,Friendly,Jakarta,Indonesia,False
+2019-09-05,Indonesia,Malaysia,2,3,FIFA World Cup qualification,Jakarta,Indonesia,False
+2019-09-10,Indonesia,Thailand,0,3,FIFA World Cup qualification,Jakarta,Indonesia,False
+2019-10-10,United Arab Emirates,Indonesia,5,0,FIFA World Cup qualification,Dubai,United Arab Emirates,False
+2019-10-15,Indonesia,Vietnam,1,3,FIFA World Cup qualification,Gianyar,Indonesia,False
+2019-11-19,Malaysia,Indonesia,2,0,FIFA World Cup qualification,Kuala Lumpur,Malaysia,False
+2021-05-25,Indonesia,Afghanistan,2,3,Friendly,Dubai,United Arab Emirates,True
+2021-05-29,Indonesia,Oman,1,3,Friendly,Dubai,United Arab Emirates,True
+2021-06-03,Thailand,Indonesia,2,2,FIFA World Cup qualification,Dubai,United Arab Emirates,True
+2021-06-07,Vietnam,Indonesia,4,0,FIFA World Cup qualification,Dubai,United Arab Emirates,True
+2021-06-11,United Arab Emirates,Indonesia,5,0,FIFA World Cup qualification,Dubai,United Arab Emirates,False
+2021-10-07,Indonesia,Taiwan,2,1,AFC Asian Cup qualification,Buriram,Thailand,True
+2021-10-11,Taiwan,Indonesia,0,3,AFC Asian Cup qualification,Buriram,Thailand,True
+2021-11-16,Indonesia,Afghanistan,0,1,Friendly,Antalya,Turkey,True
+2021-11-25,Indonesia,Myanmar,4,1,Friendly,Antalya,Turkey,True
+2021-12-09,Indonesia,Cambodia,4,2,AFF Championship,Bishan,Singapore,True
+2021-12-12,Laos,Indonesia,1,5,AFF Championship,Bishan,Singapore,True
+2021-12-15,Indonesia,Vietnam,0,0,AFF Championship,Bishan,Singapore,True
+2021-12-19,Malaysia,Indonesia,1,4,AFF Championship,Kallang,Singapore,True
+2021-12-22,Singapore,Indonesia,1,1,AFF Championship,Kallang,Singapore,False
+2021-12-25,Singapore,Indonesia,2,4,AFF Championship,Kallang,Singapore,False
+2021-12-29,Indonesia,Thailand,0,4,AFF Championship,Kallang,Singapore,True
+2022-01-01,Thailand,Indonesia,2,2,AFF Championship,Kallang,Singapore,True
+2022-01-27,Indonesia,Timor-Leste,4,1,Friendly,Gianyar,Indonesia,False
+2022-01-30,Indonesia,Timor-Leste,3,0,Friendly,Gianyar,Indonesia,False
+2022-06-01,Indonesia,Bangladesh,0,0,Friendly,Soreang,Indonesia,False
+2022-06-08,Kuwait,Indonesia,1,2,AFC Asian Cup qualification,Kuwait City,Kuwait,False
+2022-06-11,Indonesia,Jordan,0,1,AFC Asian Cup qualification,Kuwait City,Kuwait,True
+2022-06-14,Indonesia,Nepal,7,0,AFC Asian Cup qualification,Kuwait City,Kuwait,True
+2022-09-24,Indonesia,Curaçao,3,2,Friendly,Bandung,Indonesia,False
+2022-09-27,Indonesia,Curaçao,2,1,Friendly,Cibinong,Indonesia,False
+2022-12-23,Indonesia,Cambodia,2,1,AFF Championship,Jakarta,Indonesia,False
+2022-12-26,Brunei,Indonesia,0,7,AFF Championship,Kuala Lumpur,Malaysia,True
+2022-12-29,Indonesia,Thailand,1,1,AFF Championship,Jakarta,Indonesia,False
+2023-01-02,Philippines,Indonesia,1,2,AFF Championship,Manila,Philippines,False
+2023-01-06,Indonesia,Vietnam,0,0,AFF Championship,Jakarta,Indonesia,False
+2023-01-09,Vietnam,Indonesia,2,0,AFF Championship,Hanoi,Vietnam,False
+2023-03-25,Indonesia,Burundi,3,1,Friendly,Bekasi,Indonesia,False
+2023-03-28,Indonesia,Burundi,2,2,Friendly,Bekasi,Indonesia,False
+2023-06-14,Indonesia,Palestine,0,0,Friendly,Surabaya,Indonesia,False
+2023-06-19,Indonesia,Argentina,0,2,Friendly,Jakarta,Indonesia,False
+2023-09-08,Indonesia,Turkmenistan,2,0,Friendly,Surabaya,Indonesia,False
+2023-10-12,Indonesia,Brunei,6,0,FIFA World Cup qualification,Jakarta,Indonesia,False
+2023-10-17,Brunei,Indonesia,0,6,FIFA World Cup qualification,Bandar Seri Begawan,Brunei,False
+2023-11-16,Iraq,Indonesia,5,1,FIFA World Cup qualification,Basra,Iraq,False
+2023-11-21,Philippines,Indonesia,1,1,FIFA World Cup qualification,Manila,Philippines,False
+2024-01-02,Indonesia,Libya,0,4,Friendly,Antalya,Turkey,True
+2024-01-05,Indonesia,Libya,1,2,Friendly,Antalya,Turkey,True
+2024-01-09,Indonesia,Iran,0,5,Friendly,Al Rayyan,Qatar,True
+2024-01-15,Indonesia,Iraq,1,3,AFC Asian Cup,Doha,Qatar,True
+2024-01-19,Vietnam,Indonesia,0,1,AFC Asian Cup,Doha,Qatar,True
+2024-01-24,Japan,Indonesia,3,1,AFC Asian Cup,Doha,Qatar,True
+2024-01-28,Australia,Indonesia,4,0,AFC Asian Cup,Doha,Qatar,True
+2024-03-21,Indonesia,Vietnam,1,0,FIFA World Cup qualification,Jakarta,Indonesia,False
+2024-03-26,Vietnam,Indonesia,0,3,FIFA World Cup qualification,Hanoi,Vietnam,False
+2024-06-02,Indonesia,Tanzania,0,0,Friendly,Jakarta,Indonesia,False
+2024-06-06,Indonesia,Iraq,0,2,FIFA World Cup qualification,Jakarta,Indonesia,False
+2024-06-11,Indonesia,Philippines,2,0,FIFA World Cup qualification,Jakarta,Indonesia,False
+2024-09-05,Saudi Arabia,Indonesia,1,1,FIFA World Cup qualification,Jeddah,Saudi Arabia,False
+2024-09-10,Indonesia,Australia,0,0,FIFA World Cup qualification,Jakarta,Indonesia,False
+2024-10-10,Bahrain,Indonesia,2,2,FIFA World Cup qualification,Riffa,Bahrain,False
+2024-10-15,China PR,Indonesia,2,1,FIFA World Cup qualification,Qingdao,China PR,False
+2024-11-15,Indonesia,Japan,0,4,FIFA World Cup qualification,Jakarta,Indonesia,False
+2024-11-19,Indonesia,Saudi Arabia,2,0,FIFA World Cup qualification,Jakarta,Indonesia,False
+2024-12-09,Myanmar,Indonesia,0,1,ASEAN Championship,Yangon,Myanmar,False
+2024-12-12,Indonesia,Laos,3,3,ASEAN Championship,Surakarta,Indonesia,False
+2024-12-15,Vietnam,Indonesia,1,0,ASEAN Championship,Việt Trì,Vietnam,False
+2024-12-21,Indonesia,Philippines,0,1,ASEAN Championship,Surakarta,Indonesia,False
+2025-03-20,Australia,Indonesia,5,1,FIFA World Cup qualification,Sydney,Australia,False
+2025-03-25,Indonesia,Bahrain,1,0,FIFA World Cup qualification,Jakarta,Indonesia,False

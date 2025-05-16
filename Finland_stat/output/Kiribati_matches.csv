@@ -1,0 +1,12 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1979-08-30,Fiji,Kiribati,24,0,South Pacific Games,Nausori,Fiji,False
+1979-08-31,Kiribati,Papua New Guinea,0,13,South Pacific Games,Suva,Fiji,True
+1979-09-05,Kiribati,Tuvalu,3,3,South Pacific Games,Nausori,Fiji,True
+2003-06-30,Tuvalu,Kiribati,3,2,South Pacific Games,Suva,Fiji,True
+2003-07-03,Solomon Islands,Kiribati,7,0,South Pacific Games,Suva,Fiji,True
+2003-07-05,Fiji,Kiribati,12,0,South Pacific Games,Nausori,Fiji,False
+2003-07-07,Kiribati,Vanuatu,0,18,South Pacific Games,Lautoka,Fiji,True
+2011-08-30,Fiji,Kiribati,9,0,Pacific Games,Boulari,New Caledonia,True
+2011-09-01,Cook Islands,Kiribati,3,0,Pacific Games,Boulari,New Caledonia,True
+2011-09-03,Kiribati,Papua New Guinea,1,17,Pacific Games,Boulari,New Caledonia,True
+2011-09-05,Kiribati,Tahiti,1,17,Pacific Games,Boulari,New Caledonia,True

@@ -1,0 +1,293 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1949-10-08,Sierra Leone,Nigeria,0,2,Friendly,Freetown,Sierra Leone,False
+1953-02-09,Gambia,Sierra Leone,2,1,Friendly,Banjul,Gambia,False
+1954-06-01,Ghana,Sierra Leone,2,0,Friendly,Accra,Gold Coast,False
+1956-11-10,Sierra Leone,Gambia,1,0,Friendly,Freetown,Sierra Leone,False
+1956-12-16,Ghana,Sierra Leone,4,3,Friendly,Accra,Gold Coast,False
+1957-08-24,Sierra Leone,Ghana,2,3,Friendly,Freetown,Sierra Leone,False
+1960-01-31,Guinea-Bissau,Sierra Leone,3,4,Friendly,Kumasi,Ghana,True
+1960-02-07,Ghana,Sierra Leone,6,2,Friendly,Accra,Ghana,False
+1960-07-10,Mali,Sierra Leone,1,0,Friendly,Bamako,Mali,False
+1961-04-22,Sierra Leone,Nigeria,1,4,Friendly,Freetown,Sierra Leone,False
+1966-11-12,Sierra Leone,Liberia,1,1,Friendly,Freetown,Sierra Leone,False
+1966-11-19,Liberia,Sierra Leone,2,0,Friendly,Monrovia,Liberia,False
+1967-10-14,Sierra Leone,Nigeria,1,1,Friendly,Freetown,Sierra Leone,False
+1967-12-02,Sierra Leone,Guinea,2,1,Friendly,Freetown,Sierra Leone,False
+1968-01-27,Nigeria,Sierra Leone,4,1,Friendly,Lagos,Nigeria,False
+1968-11-16,Sierra Leone,Gambia,2,1,Friendly,Freetown,Sierra Leone,False
+1968-12-14,Sierra Leone,Guinea,1,1,Friendly,Freetown,Sierra Leone,False
+1969-02-02,Guinea,Sierra Leone,1,1,Friendly,Conakry,Guinea,False
+1970-10-11,Sierra Leone,Senegal,1,0,Friendly,Freetown,Sierra Leone,False
+1970-11-01,Sierra Leone,Guinea,1,2,Friendly,Freetown,Sierra Leone,False
+1971-01-31,Ghana,Sierra Leone,1,2,Friendly,Accra,Ghana,False
+1971-02-07,Ghana,Sierra Leone,1,2,Friendly,Accra,Ghana,False
+1971-02-13,Nigeria,Sierra Leone,1,0,Friendly,Lagos,Nigeria,False
+1971-04-24,Sierra Leone,Gambia,3,1,Friendly,Freetown,Sierra Leone,False
+1971-07-25,Senegal,Sierra Leone,2,1,Friendly,Dakar,Senegal,False
+1971-12-04,Sierra Leone,Nigeria,0,1,Friendly,Freetown,Sierra Leone,False
+1972-05-31,Sierra Leone,Ghana,3,1,Friendly,Freetown,Sierra Leone,False
+1972-10-15,Sierra Leone,Ivory Coast,0,1,FIFA World Cup qualification,Freetown,Sierra Leone,False
+1972-10-29,Ivory Coast,Sierra Leone,2,0,FIFA World Cup qualification,Abidjan,Ivory Coast,False
+1972-11-18,Sierra Leone,Tanzania,2,2,Friendly,Freetown,Sierra Leone,False
+1972-11-26,Sierra Leone,Nigeria,0,1,Friendly,Freetown,Sierra Leone,False
+1972-12-12,Nigeria,Sierra Leone,4,0,Friendly,Lagos,Nigeria,False
+1973-03-31,Sierra Leone,Mali,1,1,African Cup of Nations qualification,Freetown,Sierra Leone,False
+1973-04-28,Mali,Sierra Leone,4,2,African Cup of Nations qualification,Bamako,Mali,False
+1974-05-05,China PR,Sierra Leone,4,1,Friendly,Beijing,China PR,False
+1976-03-07,Sierra Leone,Niger,5,1,FIFA World Cup qualification,Freetown,Sierra Leone,False
+1976-03-21,Niger,Sierra Leone,2,1,FIFA World Cup qualification,Niamey,Niger,False
+1976-04-19,Sierra Leone,Guinea,1,1,Friendly,Freetown,Sierra Leone,False
+1976-04-25,Sierra Leone,Liberia,1,0,Friendly,Freetown,Sierra Leone,False
+1976-07-08,Malawi,Sierra Leone,4,2,Friendly,Zomba,Malawi,False
+1976-10-16,Sierra Leone,Nigeria,0,0,FIFA World Cup qualification,Freetown,Sierra Leone,False
+1976-10-30,Nigeria,Sierra Leone,6,2,FIFA World Cup qualification,Lagos,Nigeria,False
+1977-02-17,Sierra Leone,Nigeria,1,1,African Cup of Nations qualification,Freetown,Sierra Leone,False
+1977-03-13,Nigeria,Sierra Leone,2,0,African Cup of Nations qualification,Lagos,Nigeria,False
+1977-12-25,Ghana,Sierra Leone,4,0,Friendly,Accra,Ghana,False
+1978-07-06,Malawi,Sierra Leone,5,0,Friendly,Lilongwe,Malawi,False
+1978-07-09,Malawi,Sierra Leone,4,2,Friendly,Lilongwe,Malawi,False
+1979-09-29,Sierra Leone,Gambia,2,0,Friendly,Freetown,Sierra Leone,False
+1979-10-27,Sierra Leone,Nigeria,0,0,Friendly,Freetown,Sierra Leone,False
+1979-11-03,Sierra Leone,Senegal,1,0,Friendly,Freetown,Sierra Leone,False
+1980-01-06,Sierra Leone,Ghana,2,4,Friendly,Freetown,Sierra Leone,False
+1980-03-04,Sierra Leone,Guinea,3,2,Friendly,Freetown,Sierra Leone,False
+1980-05-31,Sierra Leone,Algeria,2,2,FIFA World Cup qualification,Freetown,Sierra Leone,False
+1980-06-13,Algeria,Sierra Leone,3,1,FIFA World Cup qualification,Oran,Algeria,False
+1980-11-17,Senegal,Sierra Leone,2,0,African Cup of Nations qualification,Dakar,Senegal,False
+1980-11-30,Sierra Leone,Senegal,1,2,African Cup of Nations qualification,Freetown,Sierra Leone,False
+1982-02-11,Guinea-Bissau,Sierra Leone,1,2,Amílcar Cabral Cup,Praia,Cape Verde,True
+1982-02-13,Guinea,Sierra Leone,1,0,Amílcar Cabral Cup,Praia,Cape Verde,True
+1982-02-15,Senegal,Sierra Leone,2,0,Amílcar Cabral Cup,Praia,Cape Verde,True
+1982-11-07,Liberia,Sierra Leone,1,0,Friendly,Monrovia,Liberia,False
+1982-11-14,Togo,Sierra Leone,3,0,African Cup of Nations qualification,Lomé,Togo,False
+1982-11-28,Sierra Leone,Togo,0,1,African Cup of Nations qualification,Freetown,Sierra Leone,False
+1983-02-06,Sierra Leone,Gambia,0,1,Friendly,Freetown,Sierra Leone,False
+1983-02-20,Gambia,Sierra Leone,0,1,Friendly,Banjul,Gambia,False
+1983-04-17,Sierra Leone,Jordan,2,1,Friendly,Freetown,Sierra Leone,False
+1983-10-08,Sierra Leone,Mali,1,0,Friendly,Freetown,Sierra Leone,False
+1984-01-02,Mauritania,Sierra Leone,0,1,Friendly,Banjul,Gambia,True
+1984-01-04,Gambia,Sierra Leone,1,0,Friendly,Bakau,Gambia,False
+1984-01-08,Ivory Coast,Sierra Leone,1,0,Friendly,Yamoussoukro,Ivory Coast,False
+1984-02-08,Sierra Leone,Cape Verde,2,0,Amílcar Cabral Cup,Freetown,Sierra Leone,False
+1984-02-10,Sierra Leone,Gambia,1,0,Amílcar Cabral Cup,Freetown,Sierra Leone,False
+1984-02-12,Sierra Leone,Guinea,0,0,Amílcar Cabral Cup,Freetown,Sierra Leone,False
+1984-02-16,Sierra Leone,Mali,0,0,Amílcar Cabral Cup,Freetown,Sierra Leone,False
+1984-02-19,Sierra Leone,Senegal,0,0,Amílcar Cabral Cup,Freetown,Sierra Leone,False
+1984-06-30,Sierra Leone,Morocco,0,1,FIFA World Cup qualification,Freetown,Sierra Leone,False
+1984-07-15,Morocco,Sierra Leone,4,0,FIFA World Cup qualification,Rabat,Morocco,False
+1984-11-18,Gambia,Sierra Leone,3,2,African Cup of Nations qualification,Banjul,Gambia,False
+1984-12-02,Sierra Leone,Gambia,2,0,African Cup of Nations qualification,Freetown,Sierra Leone,False
+1985-02-11,Guinea-Bissau,Sierra Leone,0,0,Amílcar Cabral Cup,Banjul,Gambia,True
+1985-02-13,Cape Verde,Sierra Leone,2,2,Amílcar Cabral Cup,Bakau,Gambia,True
+1985-02-15,Gambia,Sierra Leone,1,1,Amílcar Cabral Cup,Banjul,Gambia,False
+1986-02-02,Mauritania,Sierra Leone,0,1,Amílcar Cabral Cup,Dakar,Senegal,True
+1986-02-04,Gambia,Sierra Leone,1,2,Amílcar Cabral Cup,Dakar,Senegal,True
+1986-02-06,Guinea-Bissau,Sierra Leone,2,3,Amílcar Cabral Cup,Dakar,Senegal,True
+1986-02-08,Guinea,Sierra Leone,1,2,Amílcar Cabral Cup,Dakar,Senegal,True
+1986-02-10,Senegal,Sierra Leone,3,1,Amílcar Cabral Cup,Dakar,Senegal,False
+1986-10-05,Sierra Leone,Liberia,2,1,African Cup of Nations qualification,Freetown,Sierra Leone,False
+1986-10-19,Liberia,Sierra Leone,1,1,African Cup of Nations qualification,Monrovia,Liberia,False
+1987-02-23,Senegal,Sierra Leone,0,1,Amílcar Cabral Cup,Conakry,Guinea,True
+1987-02-27,Cape Verde,Sierra Leone,0,2,Amílcar Cabral Cup,Conakry,Guinea,True
+1987-03-01,Mali,Sierra Leone,0,0,Amílcar Cabral Cup,Conakry,Guinea,True
+1987-03-02,Senegal,Sierra Leone,0,0,Amílcar Cabral Cup,Conakry,Guinea,True
+1987-03-30,Ghana,Sierra Leone,1,2,African Cup of Nations qualification,Accra,Ghana,False
+1987-04-11,Sierra Leone,Ghana,0,0,African Cup of Nations qualification,Freetown,Sierra Leone,False
+1987-07-04,Nigeria,Sierra Leone,3,0,African Cup of Nations qualification,Lagos,Nigeria,False
+1987-07-18,Sierra Leone,Nigeria,2,0,African Cup of Nations qualification,Freetown,Sierra Leone,False
+1988-04-28,Guinea-Bissau,Sierra Leone,0,0,Amílcar Cabral Cup,Bissau,Guinea-Bissau,False
+1988-04-30,Gambia,Sierra Leone,1,3,Amílcar Cabral Cup,Bissau,Guinea-Bissau,True
+1988-05-02,Senegal,Sierra Leone,2,2,Amílcar Cabral Cup,Bissau,Guinea-Bissau,True
+1988-05-05,Guinea,Sierra Leone,3,0,Amílcar Cabral Cup,Bissau,Guinea-Bissau,True
+1988-05-07,Senegal,Sierra Leone,2,1,Amílcar Cabral Cup,Bissau,Guinea-Bissau,True
+1988-11-25,Guinea,Sierra Leone,1,0,Friendly,Monrovia,Liberia,True
+1988-11-26,Liberia,Sierra Leone,0,0,Friendly,Monrovia,Liberia,False
+1989-05-25,Mauritania,Sierra Leone,1,2,Amílcar Cabral Cup,Bamako,Mali,True
+1989-06-02,Mali,Sierra Leone,1,0,Amílcar Cabral Cup,Bamako,Mali,False
+1989-06-03,Cape Verde,Sierra Leone,1,0,Amílcar Cabral Cup,Bamako,Mali,True
+1989-12-24,Senegal,Sierra Leone,1,0,Friendly,Dakar,Senegal,False
+1990-08-19,Guinea,Sierra Leone,1,2,African Cup of Nations qualification,Conakry,Guinea,False
+1990-09-01,Sierra Leone,Cameroon,1,1,African Cup of Nations qualification,Freetown,Sierra Leone,False
+1991-04-14,Mali,Sierra Leone,0,0,African Cup of Nations qualification,Bamako,Mali,False
+1991-04-28,Sierra Leone,Guinea,0,1,African Cup of Nations qualification,Freetown,Sierra Leone,False
+1991-07-14,Cameroon,Sierra Leone,1,0,African Cup of Nations qualification,Yaoundé,Cameroon,False
+1991-07-28,Sierra Leone,Mali,2,0,African Cup of Nations qualification,Freetown,Sierra Leone,False
+1991-11-24,Guinea,Sierra Leone,0,1,Amílcar Cabral Cup,Dakar,Senegal,True
+1991-11-26,Mali,Sierra Leone,1,1,Amílcar Cabral Cup,Dakar,Senegal,True
+1991-11-28,Gambia,Sierra Leone,0,0,Amílcar Cabral Cup,Dakar,Senegal,True
+1991-11-30,Cape Verde,Sierra Leone,0,0,Amílcar Cabral Cup,Dakar,Senegal,True
+1992-08-29,Sierra Leone,Algeria,1,0,African Cup of Nations qualification,Freetown,Sierra Leone,False
+1992-10-04,Guinea-Bissau,Sierra Leone,0,3,African Cup of Nations qualification,Bissau,Guinea-Bissau,False
+1992-11-08,Sierra Leone,Senegal,2,0,African Cup of Nations qualification,Freetown,Sierra Leone,False
+1992-12-16,Guinea,Sierra Leone,0,0,Friendly,Conakry,Guinea,False
+1993-04-09,Algeria,Sierra Leone,0,0,African Cup of Nations qualification,Annaba,Algeria,False
+1993-04-24,Sierra Leone,Guinea-Bissau,2,0,African Cup of Nations qualification,Freetown,Sierra Leone,False
+1993-07-11,Senegal,Sierra Leone,1,1,African Cup of Nations qualification,Dakar,Senegal,False
+1993-08-08,Guinea,Sierra Leone,1,0,Friendly,Conakry,Guinea,False
+1993-08-09,Guinea,Sierra Leone,4,0,Friendly,Conakry,Guinea,False
+1993-11-26,Sierra Leone,Guinea,1,1,Amílcar Cabral Cup,Freetown,Sierra Leone,False
+1993-11-28,Sierra Leone,Ghana,2,3,Friendly,Freetown,Sierra Leone,False
+1993-11-30,Sierra Leone,Gambia,1,1,Amílcar Cabral Cup,Freetown,Sierra Leone,False
+1993-12-03,Sierra Leone,Mali,2,0,Amílcar Cabral Cup,Freetown,Sierra Leone,False
+1993-12-05,Sierra Leone,Senegal,2,0,Amílcar Cabral Cup,Freetown,Sierra Leone,False
+1994-03-27,Ivory Coast,Sierra Leone,4,0,African Cup of Nations,Sousse,Tunisia,True
+1994-03-29,Zambia,Sierra Leone,0,0,African Cup of Nations,Sousse,Tunisia,True
+1994-09-04,Ghana,Sierra Leone,4,1,African Cup of Nations qualification,Accra,Ghana,False
+1994-10-16,Sierra Leone,Congo,3,2,African Cup of Nations qualification,Freetown,Sierra Leone,False
+1995-01-01,Guinea,Sierra Leone,3,1,Friendly,Conakry,Guinea,False
+1995-04-08,Sierra Leone,Ghana,1,0,African Cup of Nations qualification,Freetown,Sierra Leone,False
+1995-04-22,Congo,Sierra Leone,0,2,African Cup of Nations qualification,Brazzaville,Congo,False
+1995-04-26,Ivory Coast,Sierra Leone,4,0,Friendly,Abidjan,Ivory Coast,False
+1995-10-22,Gabon,Sierra Leone,1,0,Friendly,Libreville,Gabon,False
+1995-11-18,Sierra Leone,Guinea,2,0,Amílcar Cabral Cup,Nouakchott,Mauritania,True
+1995-11-20,Sierra Leone,Guinea-Bissau,2,0,Amílcar Cabral Cup,Nouakchott,Mauritania,True
+1995-11-22,Senegal,Sierra Leone,1,1,Amílcar Cabral Cup,Nouakchott,Mauritania,True
+1995-11-25,Sierra Leone,Cape Verde,2,0,Amílcar Cabral Cup,Nouakchott,Mauritania,True
+1995-11-28,Mauritania,Sierra Leone,0,0,Amílcar Cabral Cup,Nouakchott,Mauritania,False
+1995-12-17,Sierra Leone,Liberia,1,0,Friendly,Freetown,Sierra Leone,False
+1996-01-06,Sierra Leone,Liberia,2,1,Friendly,Freetown,Sierra Leone,False
+1996-01-15,Sierra Leone,Burkina Faso,2,1,African Cup of Nations,Bloemfontein,South Africa,True
+1996-01-18,Algeria,Sierra Leone,2,0,African Cup of Nations,Bloemfontein,South Africa,True
+1996-01-24,Sierra Leone,Zambia,0,4,African Cup of Nations,Bloemfontein,South Africa,True
+1996-06-02,Burundi,Sierra Leone,1,0,FIFA World Cup qualification,Bujumbura,Burundi,False
+1996-06-16,Sierra Leone,Burundi,0,1,FIFA World Cup qualification,Freetown,Sierra Leone,False
+1996-10-06,Tunisia,Sierra Leone,2,0,African Cup of Nations qualification,Tunis,Tunisia,False
+1996-11-09,Morocco,Sierra Leone,4,0,FIFA World Cup qualification,Rabat,Morocco,False
+1997-01-11,Sierra Leone,Gabon,1,0,FIFA World Cup qualification,Freetown,Sierra Leone,False
+1997-02-23,Guinea,Sierra Leone,1,0,African Cup of Nations qualification,Conakry,Guinea,False
+1997-03-29,Sierra Leone,Senegal,2,1,Friendly,Freetown,Sierra Leone,False
+1997-04-05,Sierra Leone,Ghana,1,1,FIFA World Cup qualification,Freetown,Sierra Leone,False
+1997-04-26,Sierra Leone,Morocco,0,1,FIFA World Cup qualification,Freetown,Sierra Leone,False
+1997-08-17,Ghana,Sierra Leone,0,2,FIFA World Cup qualification,Obuasi,Ghana,False
+1997-11-29,Sierra Leone,Guinea-Bissau,2,1,Amílcar Cabral Cup,Banjul,Gambia,True
+1997-12-01,Guinea,Sierra Leone,3,0,Amílcar Cabral Cup,Banjul,Gambia,True
+1997-12-03,Mali,Sierra Leone,1,1,Amílcar Cabral Cup,Banjul,Gambia,True
+1999-12-04,Gambia,Sierra Leone,0,0,Friendly,Banjul,Gambia,False
+2000-04-08,São Tomé and Príncipe,Sierra Leone,2,0,FIFA World Cup qualification,São Tomé,São Tomé and Príncipe,False
+2000-04-22,Sierra Leone,São Tomé and Príncipe,4,0,FIFA World Cup qualification,Freetown,Sierra Leone,False
+2000-05-06,Cape Verde,Sierra Leone,1,0,Amílcar Cabral Cup,Praia,Cape Verde,False
+2000-05-08,Gambia,Sierra Leone,2,2,Amílcar Cabral Cup,Praia,Cape Verde,True
+2000-06-17,Nigeria,Sierra Leone,2,0,FIFA World Cup qualification,Lagos,Nigeria,False
+2000-07-09,Ghana,Sierra Leone,5,0,FIFA World Cup qualification,Accra,Ghana,False
+2000-08-20,Sierra Leone,Togo,2,0,African Cup of Nations qualification,Freetown,Sierra Leone,False
+2000-09-03,Togo,Sierra Leone,2,0,African Cup of Nations qualification,Lomé,Togo,False
+2001-02-25,Liberia,Sierra Leone,1,0,FIFA World Cup qualification,Paynesville,Liberia,False
+2001-03-10,Sierra Leone,Sudan,0,2,FIFA World Cup qualification,Freetown,Sierra Leone,False
+2001-04-21,Sierra Leone,Nigeria,1,0,FIFA World Cup qualification,Freetown,Sierra Leone,False
+2001-05-05,Sierra Leone,Ghana,1,1,FIFA World Cup qualification,Freetown,Sierra Leone,False
+2001-06-10,Sierra Leone,Gambia,1,1,Friendly,Freetown,Sierra Leone,False
+2001-07-14,Sierra Leone,Liberia,0,1,FIFA World Cup qualification,Freetown,Sierra Leone,False
+2001-07-29,Sudan,Sierra Leone,3,0,FIFA World Cup qualification,Omdurman,Sudan,False
+2002-08-25,Gambia,Sierra Leone,1,0,Friendly,Banjul,Gambia,False
+2002-09-08,Equatorial Guinea,Sierra Leone,1,3,African Cup of Nations qualification,Malabo,Equatorial Guinea,False
+2002-10-12,Sierra Leone,Gabon,2,0,African Cup of Nations qualification,Freetown,Sierra Leone,False
+2002-10-19,Sierra Leone,Ghana,2,1,Friendly,Freetown,Sierra Leone,False
+2003-03-29,Sierra Leone,Morocco,0,0,African Cup of Nations qualification,Freetown,Sierra Leone,False
+2003-06-08,Morocco,Sierra Leone,1,0,African Cup of Nations qualification,Casablanca,Morocco,False
+2003-06-22,Sierra Leone,Equatorial Guinea,2,0,African Cup of Nations qualification,Freetown,Sierra Leone,False
+2003-07-06,Gabon,Sierra Leone,2,0,African Cup of Nations qualification,Libreville,Gabon,False
+2003-10-12,Congo,Sierra Leone,1,0,FIFA World Cup qualification,Brazzaville,Congo,False
+2003-11-16,Sierra Leone,Congo,1,1,FIFA World Cup qualification,Freetown,Sierra Leone,False
+2005-06-10,Sierra Leone,Liberia,2,0,Friendly,Freetown,Sierra Leone,False
+2005-06-12,Sierra Leone,Gambia,1,0,Friendly,Freetown,Sierra Leone,False
+2005-06-14,Sierra Leone,Guinea,2,0,Friendly,Freetown,Sierra Leone,False
+2005-11-20,Guinea-Bissau,Sierra Leone,1,1,Amílcar Cabral Cup,Conakry,Guinea,True
+2005-11-22,Guinea,Sierra Leone,1,0,Amílcar Cabral Cup,Conakry,Guinea,False
+2006-09-03,Sierra Leone,Mali,0,0,African Cup of Nations qualification,Freetown,Sierra Leone,False
+2006-10-08,Benin,Sierra Leone,2,0,African Cup of Nations qualification,Cotonou,Benin,False
+2007-03-24,Togo,Sierra Leone,3,1,African Cup of Nations qualification,Woumé,Togo,False
+2007-06-03,Sierra Leone,Togo,0,1,African Cup of Nations qualification,Freetown,Sierra Leone,False
+2007-06-17,Mali,Sierra Leone,6,0,African Cup of Nations qualification,Bamako,Mali,False
+2007-10-12,Sierra Leone,Benin,0,2,African Cup of Nations qualification,Freetown,Sierra Leone,False
+2007-10-17,Sierra Leone,Guinea-Bissau,1,0,FIFA World Cup qualification,Freetown,Sierra Leone,False
+2007-11-17,Guinea-Bissau,Sierra Leone,0,0,FIFA World Cup qualification,Bissau,Guinea-Bissau,False
+2007-12-02,Guinea-Bissau,Sierra Leone,2,0,Amílcar Cabral Cup,Bissau,Guinea-Bissau,False
+2007-12-23,Gambia,Sierra Leone,2,1,Friendly,Bakau,Gambia,False
+2008-04-30,Liberia,Sierra Leone,3,1,Friendly,Paynesville,Liberia,False
+2008-06-01,Equatorial Guinea,Sierra Leone,2,0,FIFA World Cup qualification,Malabo,Equatorial Guinea,False
+2008-06-07,Sierra Leone,Nigeria,0,1,FIFA World Cup qualification,Freetown,Sierra Leone,False
+2008-06-14,Sierra Leone,South Africa,1,0,FIFA World Cup qualification,Freetown,Sierra Leone,False
+2008-06-21,South Africa,Sierra Leone,0,0,FIFA World Cup qualification,Atteridgeville,South Africa,False
+2008-09-06,Sierra Leone,Equatorial Guinea,2,1,FIFA World Cup qualification,Freetown,Sierra Leone,False
+2008-10-11,Nigeria,Sierra Leone,4,1,FIFA World Cup qualification,Abuja,Nigeria,False
+2010-09-05,Egypt,Sierra Leone,1,1,African Cup of Nations qualification,Cairo,Egypt,False
+2010-10-10,Sierra Leone,South Africa,0,0,African Cup of Nations qualification,Freetown,Sierra Leone,False
+2011-02-09,Nigeria,Sierra Leone,2,1,Friendly,Lagos,Nigeria,False
+2011-03-27,Niger,Sierra Leone,3,1,African Cup of Nations qualification,Niamey,Niger,False
+2011-06-04,Sierra Leone,Niger,1,0,African Cup of Nations qualification,Freetown,Sierra Leone,False
+2011-09-03,Sierra Leone,Egypt,2,1,African Cup of Nations qualification,Freetown,Sierra Leone,False
+2011-10-08,South Africa,Sierra Leone,0,0,African Cup of Nations qualification,Nelspruit,South Africa,False
+2012-01-14,Angola,Sierra Leone,3,1,Friendly,Cabinda,Angola,False
+2012-02-29,São Tomé and Príncipe,Sierra Leone,2,1,African Cup of Nations qualification,São Tomé,São Tomé and Príncipe,False
+2012-05-23,Iraq,Sierra Leone,1,0,Friendly,Istanbul,Turkey,True
+2012-05-26,Jordan,Sierra Leone,4,0,Friendly,Amman,Jordan,False
+2012-06-02,Sierra Leone,Cape Verde,2,1,FIFA World Cup qualification,Freetown,Sierra Leone,False
+2012-06-09,Equatorial Guinea,Sierra Leone,2,2,FIFA World Cup qualification,Malabo,Equatorial Guinea,False
+2012-06-16,Sierra Leone,São Tomé and Príncipe,4,2,African Cup of Nations qualification,Freetown,Sierra Leone,False
+2012-09-08,Sierra Leone,Tunisia,2,2,African Cup of Nations qualification,Freetown,Sierra Leone,False
+2012-10-13,Tunisia,Sierra Leone,0,0,African Cup of Nations qualification,Monastir,Tunisia,False
+2013-03-23,Tunisia,Sierra Leone,2,1,FIFA World Cup qualification,Radès,Tunisia,False
+2013-06-08,Sierra Leone,Tunisia,2,2,FIFA World Cup qualification,Freetown,Sierra Leone,False
+2013-06-15,Cape Verde,Sierra Leone,1,0,FIFA World Cup qualification,Praia,Cape Verde,False
+2013-09-07,Sierra Leone,Equatorial Guinea,3,2,FIFA World Cup qualification,Freetown,Sierra Leone,False
+2014-05-18,Eswatini,Sierra Leone,1,1,African Cup of Nations qualification,Lobamba,Swaziland,False
+2014-05-31,Sierra Leone,Eswatini,1,0,African Cup of Nations qualification,Freetown,Sierra Leone,False
+2014-07-19,Sierra Leone,Seychelles,2,0,African Cup of Nations qualification,Freetown,Sierra Leone,False
+2014-09-06,Ivory Coast,Sierra Leone,2,1,African Cup of Nations qualification,Abidjan,Ivory Coast,False
+2014-09-10,DR Congo,Sierra Leone,2,0,African Cup of Nations qualification,Lubumbashi,DR Congo,False
+2014-10-11,Cameroon,Sierra Leone,0,0,African Cup of Nations qualification,Yaoundé,Cameroon,False
+2014-10-15,Cameroon,Sierra Leone,2,0,African Cup of Nations qualification,Yaoundé,Cameroon,False
+2014-11-14,Ivory Coast,Sierra Leone,5,1,African Cup of Nations qualification,Abidjan,Ivory Coast,False
+2014-11-19,DR Congo,Sierra Leone,3,1,African Cup of Nations qualification,Kinshasa,DR Congo,False
+2015-06-14,Sudan,Sierra Leone,1,0,African Cup of Nations qualification,Khartoum,Sudan,False
+2015-09-06,Sierra Leone,Ivory Coast,0,0,African Cup of Nations qualification,Port Harcourt,Nigeria,True
+2015-10-10,Chad,Sierra Leone,1,0,FIFA World Cup qualification,N'Djamena,Chad,False
+2015-10-13,Sierra Leone,Chad,2,1,FIFA World Cup qualification,Port Harcourt,Nigeria,True
+2016-03-25,Gabon,Sierra Leone,2,1,Friendly,Franceville,Gabon,False
+2016-03-28,Sierra Leone,Gabon,1,0,Friendly,Freetown,Sierra Leone,False
+2016-06-03,Sierra Leone,Sudan,1,0,African Cup of Nations qualification,Freetown,Sierra Leone,False
+2016-09-03,Ivory Coast,Sierra Leone,1,1,African Cup of Nations qualification,Bouaké,Ivory Coast,False
+2018-03-17,Iran,Sierra Leone,4,0,Friendly,Tehran,Iran,False
+2018-07-22,Liberia,Sierra Leone,0,0,Friendly,Monrovia,Liberia,False
+2019-09-04,Liberia,Sierra Leone,3,1,FIFA World Cup qualification,Monrovia,Liberia,False
+2019-09-08,Sierra Leone,Liberia,1,0,FIFA World Cup qualification,Freetown,Sierra Leone,False
+2019-11-13,Sierra Leone,Lesotho,1,1,African Cup of Nations qualification,Freetown,Sierra Leone,False
+2019-11-17,Benin,Sierra Leone,1,0,African Cup of Nations qualification,Porto-Novo,Benin,False
+2020-10-09,Mauritania,Sierra Leone,2,1,Friendly,Nouakchott,Mauritania,False
+2020-10-13,Niger,Sierra Leone,1,0,Friendly,Niamey,Niger,False
+2020-11-13,Nigeria,Sierra Leone,4,4,African Cup of Nations qualification,Benin City,Nigeria,False
+2020-11-17,Sierra Leone,Nigeria,0,0,African Cup of Nations qualification,Freetown,Sierra Leone,False
+2021-03-27,Lesotho,Sierra Leone,0,0,African Cup of Nations qualification,Maseru,Lesotho,False
+2021-06-15,Sierra Leone,Benin,1,0,African Cup of Nations qualification,Conakry,Guinea,True
+2021-08-26,Ethiopia,Sierra Leone,0,0,Friendly,Addis Ababa,Ethiopia,False
+2021-10-06,Sierra Leone,South Sudan,1,1,Friendly,El Jadida,Morocco,True
+2021-10-09,Gambia,Sierra Leone,1,2,Friendly,El Jadida,Morocco,True
+2021-11-13,Sierra Leone,Comoros,0,2,Friendly,Sapanca,Turkey,True
+2022-01-11,Algeria,Sierra Leone,0,0,African Cup of Nations,Douala,Cameroon,True
+2022-01-16,Ivory Coast,Sierra Leone,2,2,African Cup of Nations,Douala,Cameroon,True
+2022-01-20,Sierra Leone,Equatorial Guinea,0,1,African Cup of Nations,Limbé,Cameroon,True
+2022-03-24,Togo,Sierra Leone,3,0,Friendly,Antalya,Turkey,True
+2022-03-27,Liberia,Sierra Leone,0,1,Friendly,Antalya,Turkey,True
+2022-03-29,Congo,Sierra Leone,1,2,Friendly,Antalya,Turkey,True
+2022-06-09,Nigeria,Sierra Leone,2,1,African Cup of Nations qualification,Abuja,Nigeria,False
+2022-06-13,Sierra Leone,Guinea-Bissau,2,2,African Cup of Nations qualification,Conakry,Guinea,True
+2022-09-24,South Africa,Sierra Leone,4,0,Friendly,Johannesburg,South Africa,False
+2022-09-27,DR Congo,Sierra Leone,3,0,Friendly,Casablanca,Morocco,True
+2023-03-22,Sierra Leone,São Tomé and Príncipe,2,2,African Cup of Nations qualification,Agadir,Morocco,True
+2023-03-26,São Tomé and Príncipe,Sierra Leone,0,2,African Cup of Nations qualification,Agadir,Morocco,True
+2023-06-18,Sierra Leone,Nigeria,2,3,African Cup of Nations qualification,Monrovia,Liberia,True
+2023-09-11,Guinea-Bissau,Sierra Leone,2,1,African Cup of Nations qualification,Bissau,Guinea-Bissau,False
+2023-10-14,Sierra Leone,Benin,1,1,Friendly,Khouribga,Morocco,True
+2023-10-17,Somalia,Sierra Leone,0,2,Friendly,Khouribga,Morocco,True
+2023-11-15,Ethiopia,Sierra Leone,0,0,FIFA World Cup qualification,El Jadida,Morocco,True
+2023-11-19,Sierra Leone,Egypt,0,2,FIFA World Cup qualification,Monrovia,Liberia,True
+2024-01-06,Ivory Coast,Sierra Leone,5,1,Friendly,San-Pédro,Ivory Coast,False
+2024-01-11,Morocco,Sierra Leone,3,1,Friendly,San-Pédro,Ivory Coast,True
+2024-06-05,Sierra Leone,Djibouti,2,1,FIFA World Cup qualification,El Jadida,Morocco,True
+2024-06-10,Burkina Faso,Sierra Leone,2,2,FIFA World Cup qualification,Bamako,Mali,True
+2024-09-06,Sierra Leone,Chad,0,0,African Cup of Nations qualification,Monrovia,Liberia,True
+2024-09-10,Zambia,Sierra Leone,3,2,African Cup of Nations qualification,Ndola,Zambia,False
+2024-10-11,Ivory Coast,Sierra Leone,4,1,African Cup of Nations qualification,San-Pédro,Ivory Coast,False
+2024-10-15,Sierra Leone,Ivory Coast,1,0,African Cup of Nations qualification,Monrovia,Liberia,True
+2025-03-20,Sierra Leone,Guinea-Bissau,3,1,FIFA World Cup qualification,Monrovia,Liberia,True
+2025-03-25,Egypt,Sierra Leone,1,0,FIFA World Cup qualification,Cairo,Egypt,False

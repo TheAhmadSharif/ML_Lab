@@ -1,0 +1,57 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1989-05-07,Sint Maarten,British Virgin Islands,1,2,CFU Caribbean Cup qualification,Philipsburg,Sint Maarten,False
+1989-06-07,Martinique,Sint Maarten,10,0,CFU Caribbean Cup qualification,Fort-de-France,Martinique,False
+1989-06-18,Sint Maarten,Curaçao,1,2,CFU Caribbean Cup qualification,Philipsburg,Sint Maarten,False
+1990-03-24,Sint Maarten,Cayman Islands,1,1,CFU Caribbean Cup qualification,Marigot,Saint Martin,True
+1992-04-03,Sint Maarten,Cayman Islands,4,2,CFU Caribbean Cup qualification,Philipsburg,Sint Maarten,False
+1992-04-05,Sint Maarten,Martinique,1,1,CFU Caribbean Cup qualification,Philipsburg,Sint Maarten,False
+1993-04-05,Antigua and Barbuda,Sint Maarten,0,2,CFU Caribbean Cup qualification,The Valley,Anguilla,True
+1993-04-06,Anguilla,Sint Maarten,0,1,CFU Caribbean Cup qualification,The Valley,Anguilla,False
+1993-05-21,Puerto Rico,Sint Maarten,3,0,CFU Caribbean Cup,Kingston,Jamaica,True
+1993-05-23,Jamaica,Sint Maarten,2,0,CFU Caribbean Cup,Kingston,Jamaica,False
+1993-05-25,Saint Kitts and Nevis,Sint Maarten,2,2,CFU Caribbean Cup,Kingston,Jamaica,True
+1994-03-02,Jamaica,Sint Maarten,3,2,CFU Caribbean Cup qualification,George Town,Cayman Islands,True
+1994-03-04,Cayman Islands,Sint Maarten,5,0,CFU Caribbean Cup qualification,George Town,Cayman Islands,False
+1994-03-06,Sint Maarten,British Virgin Islands,3,0,CFU Caribbean Cup qualification,George Town,Cayman Islands,True
+1995-03-19,Sint Maarten,Saint Kitts and Nevis,0,2,CFU Caribbean Cup qualification,Philipsburg,Sint Maarten,False
+1995-03-26,Saint Kitts and Nevis,Sint Maarten,0,1,CFU Caribbean Cup qualification,Basseterre,Saint Kitts and Nevis,False
+1996-03-29,Sint Maarten,Anguilla,4,0,CFU Caribbean Cup qualification,Basseterre,Saint Kitts and Nevis,True
+1996-03-31,Saint Kitts and Nevis,Sint Maarten,3,0,CFU Caribbean Cup qualification,Basseterre,Saint Kitts and Nevis,False
+1997-04-02,Sint Maarten,Anguilla,3,0,CFU Caribbean Cup qualification,Roseau,Dominica,True
+1997-04-04,Dominica,Sint Maarten,1,0,CFU Caribbean Cup qualification,Roseau,Dominica,False
+1997-04-06,Sint Maarten,British Virgin Islands,3,2,CFU Caribbean Cup qualification,Roseau,Dominica,True
+2000-04-29,British Virgin Islands,Sint Maarten,0,0,Friendly,Road Town,British Virgin Islands,False
+2000-04-30,Dominica,Sint Maarten,3,1,Friendly,Road Town,British Virgin Islands,True
+2016-03-13,Sint Maarten,Anguilla,2,0,Friendly,Philipsburg,Sint Maarten,False
+2016-03-26,Sint Maarten,United States Virgin Islands,1,2,CFU Caribbean Cup qualification,Philipsburg,Sint Maarten,False
+2018-05-26,Saint Barthélemy,Sint Maarten,5,3,Friendly,Saint-Jean,Saint Barthélemy,False
+2018-08-22,Sint Maarten,Anguilla,1,1,Friendly,Philipsburg,Sint Maarten,False
+2018-09-10,Haiti,Sint Maarten,13,0,CONCACAF Nations League qualification,Port-au-Prince,Haiti,False
+2018-10-12,Bermuda,Sint Maarten,12,0,CONCACAF Nations League qualification,Hamilton,Bermuda,False
+2018-11-20,Sint Maarten,Dominica,0,2,CONCACAF Nations League qualification,The Valley,Anguilla,True
+2019-02-23,Sint Maarten,Saint Barthélemy,1,1,Friendly,Philipsburg,Sint Maarten,False
+2019-03-23,Sint Maarten,Saint Martin,4,3,CONCACAF Nations League qualification,The Valley,Anguilla,True
+2019-09-07,Guadeloupe,Sint Maarten,5,1,CONCACAF Nations League,Les Abymes,Guadeloupe,False
+2019-10-10,Sint Maarten,Turks and Caicos Islands,2,5,CONCACAF Nations League,Willemstad,Curaçao,True
+2019-10-14,Sint Maarten,Guadeloupe,1,2,CONCACAF Nations League,Willemstad,Curaçao,True
+2019-11-14,Turks and Caicos Islands,Sint Maarten,3,2,CONCACAF Nations League,Providenciales,Turks and Caicos Islands,False
+2022-06-03,Sint Maarten,United States Virgin Islands,1,1,CONCACAF Nations League,Willemstad,Curaçao,True
+2022-06-06,Bonaire,Sint Maarten,2,2,CONCACAF Nations League,Willemstad,Curaçao,True
+2022-06-11,Sint Maarten,Turks and Caicos Islands,8,2,CONCACAF Nations League,Willemstad,Curaçao,True
+2022-06-14,Turks and Caicos Islands,Sint Maarten,2,0,CONCACAF Nations League,Providenciales,Turks and Caicos Islands,False
+2023-03-04,Saint Barthélemy,Sint Maarten,5,1,Friendly,Saint-Jean,Saint Barthélemy,False
+2023-03-25,Sint Maarten,Bonaire,6,1,CONCACAF Nations League,Saint Croix,United States Virgin Islands,True
+2023-03-28,United States Virgin Islands,Sint Maarten,1,2,CONCACAF Nations League,Saint Croix,United States Virgin Islands,False
+2023-06-17,French Guiana,Sint Maarten,4,1,Gold Cup qualification,Fort Lauderdale,United States,True
+2023-09-07,Sint Maarten,Saint Lucia,1,5,CONCACAF Nations League,Willemstad,Curaçao,True
+2023-09-10,Guadeloupe,Sint Maarten,4,0,CONCACAF Nations League,Sainte-Anne,Guadeloupe,False
+2023-10-12,Sint Maarten,Saint Kitts and Nevis,2,3,CONCACAF Nations League,The Valley,Anguilla,True
+2023-10-15,Saint Kitts and Nevis,Sint Maarten,0,1,CONCACAF Nations League,Basseterre,Saint Kitts and Nevis,False
+2023-11-16,Sint Maarten,Guadeloupe,0,2,CONCACAF Nations League,Bridgetown,Barbados,True
+2023-11-19,Saint Lucia,Sint Maarten,1,2,CONCACAF Nations League,Gros Islet,Saint Lucia,False
+2024-09-06,Sint Maarten,Aruba,2,0,CONCACAF Nations League,Mayagüez,Puerto Rico,True
+2024-09-09,Haiti,Sint Maarten,6,0,CONCACAF Nations League,Mayagüez,Puerto Rico,True
+2024-10-11,Sint Maarten,Puerto Rico,3,2,CONCACAF Nations League,Oranjestad,Aruba,True
+2024-10-14,Puerto Rico,Sint Maarten,2,1,CONCACAF Nations League,Oranjestad,Aruba,True
+2024-11-15,Sint Maarten,Haiti,0,8,CONCACAF Nations League,Mayagüez,Puerto Rico,True
+2024-11-18,Aruba,Sint Maarten,0,1,CONCACAF Nations League,Mayagüez,Puerto Rico,True

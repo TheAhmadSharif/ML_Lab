@@ -1,0 +1,450 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1938-02-12,Panama,Venezuela,2,1,Central American and Caribbean Games,Panama City,Panama,False
+1938-02-14,Mexico,Venezuela,1,0,Central American and Caribbean Games,Panama City,Panama,True
+1938-02-16,El Salvador,Venezuela,3,2,Central American and Caribbean Games,Panama City,Panama,True
+1938-02-20,Venezuela,Costa Rica,0,3,Central American and Caribbean Games,Panama City,Panama,True
+1938-02-23,Venezuela,Colombia,2,1,Central American and Caribbean Games,Panama City,Panama,True
+1938-08-11,Bolivia,Venezuela,3,1,Bolivarian Games,Bogotá,Colombia,True
+1938-08-13,Colombia,Venezuela,2,0,Bolivarian Games,Bogotá,Colombia,False
+1938-08-17,Peru,Venezuela,2,1,Bolivarian Games,Bogotá,Colombia,True
+1938-08-19,Ecuador,Venezuela,5,2,Bolivarian Games,Bogotá,Colombia,True
+1944-04-01,Aruba,Venezuela,1,3,Friendly,Willemstad,Curaçao,True
+1944-04-05,Haiti,Venezuela,0,2,Friendly,Willemstad,Curaçao,True
+1944-04-09,Curaçao,Venezuela,3,3,Friendly,Willemstad,Curaçao,False
+1946-12-12,Colombia,Venezuela,2,0,Central American and Caribbean Games,Barranquilla,Colombia,False
+1946-12-14,Costa Rica,Venezuela,4,2,Central American and Caribbean Games,Barranquilla,Colombia,True
+1946-12-16,Panama,Venezuela,2,1,Central American and Caribbean Games,Barranquilla,Colombia,True
+1946-12-18,Venezuela,Guatemala,3,2,Central American and Caribbean Games,Barranquilla,Colombia,True
+1946-12-19,Curaçao,Venezuela,1,0,Central American and Caribbean Games,Barranquilla,Colombia,True
+1946-12-20,Venezuela,Puerto Rico,6,0,Central American and Caribbean Games,Barranquilla,Colombia,True
+1947-01-05,Venezuela,Bolivia,2,2,Bolivarian Games,Lima,Peru,True
+1951-12-08,Venezuela,Panama,4,1,Friendly,Caracas,Venezuela,False
+1956-03-09,Panama,Venezuela,0,1,Friendly,Port-au-Prince,Haiti,True
+1956-03-10,Haiti,Venezuela,1,1,Friendly,Port-au-Prince,Haiti,False
+1956-03-14,Panama,Venezuela,2,4,Friendly,Port-au-Prince,Haiti,True
+1956-03-16,Haiti,Venezuela,3,0,Friendly,Port-au-Prince,Haiti,False
+1961-12-04,Panama,Venezuela,2,6,Friendly,Barranquilla,Colombia,True
+1961-12-12,Panama,Venezuela,0,3,Friendly,Barranquilla,Colombia,True
+1965-05-16,Peru,Venezuela,1,0,FIFA World Cup qualification,Lima,Peru,False
+1965-05-23,Uruguay,Venezuela,5,0,FIFA World Cup qualification,Montevideo,Uruguay,False
+1965-05-30,Venezuela,Uruguay,1,3,FIFA World Cup qualification,Caracas,Venezuela,False
+1965-06-02,Venezuela,Peru,3,6,FIFA World Cup qualification,Caracas,Venezuela,False
+1967-01-18,Chile,Venezuela,2,0,Copa América,Montevideo,Uruguay,True
+1967-01-21,Uruguay,Venezuela,4,0,Copa América,Montevideo,Uruguay,False
+1967-01-25,Argentina,Venezuela,5,1,Copa América,Montevideo,Uruguay,True
+1967-01-28,Bolivia,Venezuela,0,3,Copa América,Montevideo,Uruguay,True
+1967-02-01,Venezuela,Paraguay,3,5,Copa América,Montevideo,Uruguay,True
+1969-07-27,Colombia,Venezuela,3,0,FIFA World Cup qualification,Bogotá,Colombia,False
+1969-08-02,Venezuela,Colombia,1,1,FIFA World Cup qualification,Caracas,Venezuela,False
+1969-08-06,Venezuela,Paraguay,0,2,FIFA World Cup qualification,Caracas,Venezuela,False
+1969-08-10,Venezuela,Brazil,0,5,FIFA World Cup qualification,Caracas,Venezuela,False
+1969-08-21,Paraguay,Venezuela,1,0,FIFA World Cup qualification,Asunción,Paraguay,False
+1969-08-24,Brazil,Venezuela,6,0,FIFA World Cup qualification,Rio de Janeiro,Brazil,False
+1972-06-11,Paraguay,Venezuela,4,1,Brazil Independence Cup,Campo Grande,Brazil,True
+1972-06-14,Venezuela,Yugoslavia,0,10,Brazil Independence Cup,Curitiba,Brazil,True
+1972-06-18,Peru,Venezuela,1,0,Brazil Independence Cup,Manaus,Brazil,True
+1972-06-21,Bolivia,Venezuela,2,2,Brazil Independence Cup,Manaus,Brazil,True
+1975-07-31,Venezuela,Brazil,0,4,Copa América,Caracas,Venezuela,False
+1975-08-03,Venezuela,Argentina,1,5,Copa América,Caracas,Venezuela,False
+1975-08-10,Argentina,Venezuela,11,0,Copa América,Rosario,Argentina,False
+1975-08-13,Brazil,Venezuela,6,0,Copa América,Belo Horizonte,Brazil,False
+1977-01-20,Venezuela,Ecuador,1,0,Friendly,Acarigua,Venezuela,False
+1977-02-09,Venezuela,Uruguay,1,1,FIFA World Cup qualification,Caracas,Venezuela,False
+1977-03-06,Venezuela,Bolivia,1,3,FIFA World Cup qualification,Caracas,Venezuela,False
+1977-03-13,Bolivia,Venezuela,2,0,FIFA World Cup qualification,La Paz,Bolivia,False
+1977-03-17,Uruguay,Venezuela,2,0,FIFA World Cup qualification,Montevideo,Uruguay,False
+1978-03-30,Venezuela,China PR,0,1,Friendly,Caracas,Venezuela,False
+1979-08-01,Venezuela,Colombia,0,0,Copa América,San Cristóbal,Venezuela,False
+1979-08-08,Venezuela,Chile,1,1,Copa América,San Cristóbal,Venezuela,False
+1979-08-22,Colombia,Venezuela,4,0,Copa América,Bogotá,Colombia,False
+1979-08-29,Chile,Venezuela,7,0,Copa América,Santiago,Chile,False
+1981-01-11,Curaçao,Venezuela,3,1,Friendly,Willemstad,Curaçao,False
+1981-01-18,Venezuela,Curaçao,1,0,Friendly,Valencia,Venezuela,False
+1981-02-08,Venezuela,Brazil,0,1,FIFA World Cup qualification,Caracas,Venezuela,False
+1981-02-15,Bolivia,Venezuela,3,0,FIFA World Cup qualification,La Paz,Bolivia,False
+1981-03-15,Venezuela,Bolivia,1,0,FIFA World Cup qualification,Caracas,Venezuela,False
+1981-03-29,Brazil,Venezuela,5,0,FIFA World Cup qualification,Goiânia,Brazil,False
+1981-06-28,Venezuela,Spain,0,2,Friendly,Caracas,Venezuela,False
+1981-09-20,Venezuela,Cuba,1,0,Friendly,Barquisimeto,Venezuela,False
+1983-09-04,Uruguay,Venezuela,3,0,Copa América,Montevideo,Uruguay,False
+1983-09-08,Chile,Venezuela,5,0,Copa América,Santiago,Chile,False
+1983-09-18,Venezuela,Uruguay,1,2,Copa América,Caracas,Venezuela,False
+1983-09-21,Venezuela,Chile,0,0,Copa América,Caracas,Venezuela,False
+1985-04-21,Bolivia,Venezuela,4,0,Friendly,Santa Cruz,Bolivia,False
+1985-05-26,Venezuela,Argentina,2,3,FIFA World Cup qualification,San Cristóbal,Venezuela,False
+1985-06-02,Venezuela,Peru,0,1,FIFA World Cup qualification,San Cristóbal,Venezuela,False
+1985-06-09,Argentina,Venezuela,3,0,FIFA World Cup qualification,Buenos Aires,Argentina,False
+1985-06-16,Peru,Venezuela,4,1,FIFA World Cup qualification,Lima,Peru,False
+1985-06-23,Venezuela,Colombia,2,2,FIFA World Cup qualification,San Cristóbal,Venezuela,False
+1985-06-30,Colombia,Venezuela,2,0,FIFA World Cup qualification,Bogotá,Colombia,False
+1987-06-28,Brazil,Venezuela,5,0,Copa América,Córdoba,Argentina,True
+1987-06-30,Venezuela,Chile,1,3,Copa América,Córdoba,Argentina,True
+1988-09-26,Curaçao,Venezuela,0,0,Friendly,Willemstad,Curaçao,False
+1989-03-26,Venezuela,Paraguay,1,2,Friendly,Caracas,Venezuela,False
+1989-03-30,Venezuela,Paraguay,0,0,Friendly,Maturín,Venezuela,False
+1989-05-18,Peru,Venezuela,2,1,Friendly,Lima,Peru,False
+1989-06-25,Venezuela,Peru,3,1,Friendly,San Cristóbal,Venezuela,False
+1989-07-01,Brazil,Venezuela,3,1,Copa América,Salvador,Brazil,False
+1989-07-03,Venezuela,Colombia,2,4,Copa América,Salvador,Brazil,True
+1989-07-05,Peru,Venezuela,1,1,Copa América,Salvador,Brazil,True
+1989-07-07,Paraguay,Venezuela,3,0,Copa América,Salvador,Brazil,True
+1989-07-30,Venezuela,Brazil,0,4,FIFA World Cup qualification,Caracas,Venezuela,False
+1989-08-06,Venezuela,Chile,1,3,FIFA World Cup qualification,Caracas,Venezuela,False
+1989-08-20,Brazil,Venezuela,6,0,FIFA World Cup qualification,São Paulo,Brazil,False
+1989-08-27,Chile,Venezuela,5,0,FIFA World Cup qualification,Mendoza,Argentina,True
+1991-07-06,Chile,Venezuela,2,0,Copa América,Santiago,Chile,False
+1991-07-08,Argentina,Venezuela,3,0,Copa América,Santiago,Chile,True
+1991-07-10,Paraguay,Venezuela,5,0,Copa América,Santiago,Chile,True
+1991-07-12,Peru,Venezuela,5,1,Copa América,Santiago,Chile,True
+1993-01-23,Venezuela,Peru,0,0,Friendly,Puerto Ordaz,Venezuela,False
+1993-02-24,Venezuela,Colombia,0,0,Friendly,San Cristóbal,Venezuela,False
+1993-05-21,Colombia,Venezuela,1,1,Friendly,Bogotá,Colombia,False
+1993-06-11,Peru,Venezuela,3,1,Friendly,Arequipa,Peru,False
+1993-06-15,Ecuador,Venezuela,6,1,Copa América,Quito,Ecuador,False
+1993-06-19,Uruguay,Venezuela,2,2,Copa América,Ambato,Ecuador,True
+1993-06-22,United States,Venezuela,3,3,Copa América,Quito,Ecuador,True
+1993-07-18,Venezuela,Bolivia,1,7,FIFA World Cup qualification,Puerto Ordaz,Venezuela,False
+1993-07-25,Venezuela,Uruguay,0,1,FIFA World Cup qualification,San Cristóbal,Venezuela,False
+1993-08-01,Venezuela,Brazil,1,5,FIFA World Cup qualification,San Cristóbal,Venezuela,False
+1993-08-08,Ecuador,Venezuela,5,0,FIFA World Cup qualification,Quito,Ecuador,False
+1993-08-22,Bolivia,Venezuela,7,0,FIFA World Cup qualification,La Paz,Bolivia,False
+1993-08-29,Uruguay,Venezuela,4,0,FIFA World Cup qualification,Montevideo,Uruguay,False
+1993-09-05,Brazil,Venezuela,4,0,FIFA World Cup qualification,Belo Horizonte,Brazil,False
+1993-09-12,Venezuela,Ecuador,2,1,FIFA World Cup qualification,Puerto Ordaz,Venezuela,False
+1994-01-28,Venezuela,Colombia,1,2,Friendly,Barinas,Venezuela,False
+1995-04-03,Bolivia,Venezuela,0,0,Friendly,Sucre,Bolivia,False
+1995-06-18,Venezuela,Bolivia,1,3,Friendly,Valera,Venezuela,False
+1995-07-05,Uruguay,Venezuela,4,1,Copa América,Montevideo,Uruguay,False
+1995-07-09,Mexico,Venezuela,3,1,Copa América,Maldonado,Uruguay,True
+1995-07-12,Paraguay,Venezuela,3,2,Copa América,Maldonado,Uruguay,True
+1995-12-21,Argentina,Venezuela,6,0,Friendly,Mendoza,Argentina,False
+1996-01-05,Trinidad and Tobago,Venezuela,0,0,Friendly,Palo Seco,Trinidad and Tobago,False
+1996-01-07,Trinidad and Tobago,Venezuela,0,0,Friendly,Port of Spain,Trinidad and Tobago,False
+1996-02-02,Venezuela,Ecuador,0,1,Friendly,Caracas,Venezuela,False
+1996-02-06,Canary Islands,Venezuela,5,1,Friendly,Las Palmas,Spain,False
+1996-03-27,Guatemala,Venezuela,3,0,Friendly,Guatemala City,Guatemala,False
+1996-04-24,Venezuela,Uruguay,0,2,FIFA World Cup qualification,Caracas,Venezuela,False
+1996-06-02,Venezuela,Chile,1,1,FIFA World Cup qualification,Barinas,Venezuela,False
+1996-06-22,Honduras,Venezuela,1,0,Friendly,San Pedro Sula,Honduras,False
+1996-07-07,Bolivia,Venezuela,6,1,FIFA World Cup qualification,La Paz,Bolivia,False
+1996-07-21,Panama,Venezuela,0,2,Friendly,Panama City,Panama,False
+1996-09-01,Ecuador,Venezuela,1,0,FIFA World Cup qualification,Quito,Ecuador,False
+1996-09-19,El Salvador,Venezuela,0,1,Friendly,San Salvador,El Salvador,False
+1996-10-09,Venezuela,Argentina,2,5,FIFA World Cup qualification,San Cristóbal,Venezuela,False
+1996-11-10,Peru,Venezuela,4,1,FIFA World Cup qualification,Lima,Peru,False
+1996-12-15,Venezuela,Colombia,0,2,FIFA World Cup qualification,San Cristóbal,Venezuela,False
+1997-01-12,Venezuela,Paraguay,0,2,FIFA World Cup qualification,Mérida,Venezuela,False
+1997-02-12,Jamaica,Venezuela,0,0,Friendly,Kingston,Jamaica,False
+1997-02-19,Costa Rica,Venezuela,5,2,Friendly,Heredia,Costa Rica,False
+1997-04-02,Uruguay,Venezuela,3,1,FIFA World Cup qualification,Montevideo,Uruguay,False
+1997-04-29,Chile,Venezuela,6,0,FIFA World Cup qualification,Santiago,Chile,False
+1997-06-08,Venezuela,Bolivia,1,1,FIFA World Cup qualification,Valera,Venezuela,False
+1997-06-12,Bolivia,Venezuela,1,0,Copa América,La Paz,Bolivia,False
+1997-06-15,Uruguay,Venezuela,2,0,Copa América,Sucre,Bolivia,True
+1997-06-18,Peru,Venezuela,2,0,Copa América,Sucre,Bolivia,True
+1997-07-06,Venezuela,Ecuador,1,1,FIFA World Cup qualification,Maracaibo,Venezuela,False
+1997-07-20,Argentina,Venezuela,2,0,FIFA World Cup qualification,Buenos Aires,Argentina,False
+1997-08-20,Venezuela,Peru,0,3,FIFA World Cup qualification,Barinas,Venezuela,False
+1997-09-10,Colombia,Venezuela,1,0,FIFA World Cup qualification,Barranquilla,Colombia,False
+1997-10-12,Paraguay,Venezuela,1,0,FIFA World Cup qualification,Asunción,Paraguay,False
+1999-02-03,Venezuela,Argentina,0,2,Friendly,Maracaibo,Venezuela,False
+1999-03-30,Venezuela,Colombia,0,0,Friendly,Maracaibo,Venezuela,False
+1999-04-15,Venezuela,Colombia,1,1,Friendly,Caracas,Venezuela,False
+1999-06-15,Venezuela,Ecuador,3,2,Friendly,San Cristóbal,Venezuela,False
+1999-06-20,Venezuela,Peru,3,0,Friendly,Valencia,Venezuela,False
+1999-06-23,Peru,Venezuela,3,0,Friendly,Lima,Peru,False
+1999-06-30,Brazil,Venezuela,7,0,Copa América,Ciudad del Este,Paraguay,True
+1999-07-03,Chile,Venezuela,3,0,Copa América,Ciudad del Este,Paraguay,True
+1999-07-06,Mexico,Venezuela,3,1,Copa América,Ciudad del Este,Paraguay,True
+1999-08-25,Bolivia,Venezuela,0,0,Friendly,Sucre,Bolivia,False
+1999-09-08,Uruguay,Venezuela,2,0,Friendly,Montevideo,Uruguay,False
+1999-09-28,Haiti,Venezuela,3,2,Friendly,Port-au-Prince,Haiti,False
+2000-03-16,Venezuela,Bolivia,0,0,Friendly,Maracaibo,Venezuela,False
+2000-03-29,Ecuador,Venezuela,2,0,FIFA World Cup qualification,Quito,Ecuador,False
+2000-04-26,Venezuela,Argentina,0,4,FIFA World Cup qualification,Maracaibo,Venezuela,False
+2000-05-31,Venezuela,Panama,3,1,Friendly,San Cristóbal,Venezuela,False
+2000-06-04,Colombia,Venezuela,3,0,FIFA World Cup qualification,Bogotá,Colombia,False
+2000-06-28,Venezuela,Bolivia,4,2,FIFA World Cup qualification,San Cristóbal,Venezuela,False
+2000-07-05,Mexico,Venezuela,2,1,Friendly,Monterrey,Mexico,False
+2000-07-18,Uruguay,Venezuela,3,1,FIFA World Cup qualification,Montevideo,Uruguay,False
+2000-07-25,Venezuela,Chile,0,2,FIFA World Cup qualification,San Cristóbal,Venezuela,False
+2000-08-10,Costa Rica,Venezuela,1,5,Friendly,Alajuela,Costa Rica,False
+2000-08-16,Peru,Venezuela,1,0,FIFA World Cup qualification,Lima,Peru,False
+2000-09-02,Paraguay,Venezuela,3,0,FIFA World Cup qualification,Asunción,Paraguay,False
+2000-10-08,Venezuela,Brazil,0,6,FIFA World Cup qualification,Maracaibo,Venezuela,False
+2000-11-15,Venezuela,Ecuador,1,2,FIFA World Cup qualification,Maracaibo,Venezuela,False
+2001-03-28,Argentina,Venezuela,5,0,FIFA World Cup qualification,Buenos Aires,Argentina,False
+2001-04-24,Venezuela,Colombia,2,2,FIFA World Cup qualification,San Cristóbal,Venezuela,False
+2001-06-03,Bolivia,Venezuela,5,0,FIFA World Cup qualification,La Paz,Bolivia,False
+2001-07-11,Colombia,Venezuela,2,0,Copa América,Barranquilla,Colombia,False
+2001-07-14,Chile,Venezuela,1,0,Copa América,Barranquilla,Colombia,True
+2001-07-17,Ecuador,Venezuela,4,0,Copa América,Barranquilla,Colombia,True
+2001-08-14,Venezuela,Uruguay,2,0,FIFA World Cup qualification,Maracaibo,Venezuela,False
+2001-09-04,Chile,Venezuela,0,2,FIFA World Cup qualification,Santiago,Chile,False
+2001-10-06,Venezuela,Peru,3,0,FIFA World Cup qualification,San Cristóbal,Venezuela,False
+2001-11-08,Venezuela,Paraguay,3,1,FIFA World Cup qualification,San Cristóbal,Venezuela,False
+2001-11-14,Brazil,Venezuela,3,0,FIFA World Cup qualification,São Luís,Brazil,False
+2002-03-01,Iran,Venezuela,1,0,Friendly,Casablanca,Morocco,True
+2002-05-07,Venezuela,Colombia,0,0,Friendly,Caracas,Venezuela,False
+2002-05-17,Canary Islands,Venezuela,0,2,Friendly,Las Palmas,Spain,False
+2002-08-21,Venezuela,Bolivia,2,0,Friendly,Caracas,Venezuela,False
+2002-10-20,Venezuela,Ecuador,2,0,Friendly,Caracas,Venezuela,False
+2002-11-20,Venezuela,Uruguay,1,0,Friendly,Caracas,Venezuela,False
+2003-03-29,United States,Venezuela,2,0,Friendly,Seattle,United States,False
+2003-04-02,Venezuela,Jamaica,2,0,Friendly,Caracas,Venezuela,False
+2003-04-30,Venezuela,Trinidad and Tobago,3,0,Friendly,San Cristóbal,Venezuela,False
+2003-06-07,Venezuela,Honduras,2,1,Friendly,Miami,United States,True
+2003-06-26,Peru,Venezuela,1,0,Friendly,Miami,United States,True
+2003-07-03,Trinidad and Tobago,Venezuela,2,2,Friendly,Port of Spain,Trinidad and Tobago,False
+2003-07-26,Nigeria,Venezuela,1,0,Friendly,Watford,England,True
+2003-08-20,Venezuela,Haiti,3,2,Friendly,Maracaibo,Venezuela,False
+2003-09-06,Ecuador,Venezuela,2,0,FIFA World Cup qualification,Quito,Ecuador,False
+2003-09-09,Venezuela,Argentina,0,3,FIFA World Cup qualification,Caracas,Venezuela,False
+2003-11-15,Colombia,Venezuela,0,1,FIFA World Cup qualification,Barranquilla,Colombia,False
+2003-11-18,Venezuela,Bolivia,2,1,FIFA World Cup qualification,Maracaibo,Venezuela,False
+2004-02-18,Venezuela,Australia,1,1,Friendly,Caracas,Venezuela,False
+2004-03-10,Venezuela,Honduras,2,1,Friendly,Maracaibo,Venezuela,False
+2004-03-31,Uruguay,Venezuela,0,3,FIFA World Cup qualification,Montevideo,Uruguay,False
+2004-04-28,Jamaica,Venezuela,2,1,Friendly,Kingston,Jamaica,False
+2004-06-01,Venezuela,Chile,0,1,FIFA World Cup qualification,San Cristóbal,Venezuela,False
+2004-06-06,Peru,Venezuela,0,0,FIFA World Cup qualification,Lima,Peru,False
+2004-07-06,Venezuela,Colombia,0,1,Copa América,Lima,Peru,True
+2004-07-09,Peru,Venezuela,3,1,Copa América,Lima,Peru,False
+2004-07-12,Venezuela,Bolivia,1,1,Copa América,Trujillo,Peru,True
+2004-08-18,Spain,Venezuela,3,2,Friendly,Las Palmas,Spain,False
+2004-09-05,Paraguay,Venezuela,1,0,FIFA World Cup qualification,Asunción,Paraguay,False
+2004-10-09,Venezuela,Brazil,2,5,FIFA World Cup qualification,Maracaibo,Venezuela,False
+2004-10-14,Venezuela,Ecuador,3,1,FIFA World Cup qualification,San Cristóbal,Venezuela,False
+2004-11-17,Argentina,Venezuela,3,2,FIFA World Cup qualification,Buenos Aires,Argentina,False
+2004-12-21,Venezuela,Guatemala,0,1,Friendly,Caracas,Venezuela,False
+2005-02-09,Venezuela,Estonia,3,0,Friendly,Maracaibo,Venezuela,False
+2005-03-26,Venezuela,Colombia,0,0,FIFA World Cup qualification,Maracaibo,Venezuela,False
+2005-03-29,Bolivia,Venezuela,3,1,FIFA World Cup qualification,La Paz,Bolivia,False
+2005-05-25,Venezuela,Panama,1,1,Friendly,Caracas,Venezuela,False
+2005-06-04,Venezuela,Uruguay,1,1,FIFA World Cup qualification,Maracaibo,Venezuela,False
+2005-06-08,Chile,Venezuela,2,1,FIFA World Cup qualification,Santiago,Chile,False
+2005-08-17,Ecuador,Venezuela,3,1,Friendly,Loja,Ecuador,False
+2005-09-03,Venezuela,Peru,4,1,FIFA World Cup qualification,Maracaibo,Venezuela,False
+2005-10-08,Venezuela,Paraguay,0,1,FIFA World Cup qualification,Maracaibo,Venezuela,False
+2005-10-12,Brazil,Venezuela,3,0,FIFA World Cup qualification,Belém,Brazil,False
+2006-03-01,Venezuela,Colombia,1,1,Friendly,Maracaibo,Venezuela,False
+2006-05-05,Mexico,Venezuela,1,0,Friendly,Pasadena,United States,True
+2006-05-26,United States,Venezuela,2,0,Friendly,Cleveland,United States,False
+2006-08-16,Venezuela,Honduras,0,0,Friendly,Maracay,Venezuela,False
+2006-09-02,Switzerland,Venezuela,1,0,Friendly,Basel,Switzerland,False
+2006-09-06,Austria,Venezuela,0,1,Friendly,Basel,Switzerland,True
+2006-09-27,Venezuela,Uruguay,1,0,Friendly,Maracaibo,Venezuela,False
+2006-10-18,Uruguay,Venezuela,4,0,Friendly,Montevideo,Uruguay,False
+2006-11-15,Venezuela,Guatemala,2,1,Friendly,Caracas,Venezuela,False
+2007-01-14,Venezuela,Sweden,2,0,Friendly,Maracaibo,Venezuela,False
+2007-02-07,Venezuela,Chile,0,1,Friendly,Maracaibo,Venezuela,False
+2007-02-28,Mexico,Venezuela,3,1,Friendly,San Diego,United States,True
+2007-03-24,Venezuela,Cuba,3,1,Friendly,Mérida,Venezuela,False
+2007-03-28,Venezuela,New Zealand,5,0,Friendly,Maracaibo,Venezuela,False
+2007-05-25,Venezuela,Honduras,2,1,Friendly,Mérida,Venezuela,False
+2007-06-01,Venezuela,Canada,2,2,Friendly,Maracaibo,Venezuela,False
+2007-06-20,Venezuela,Basque Country,3,4,Friendly,Táchira,Venezuela,False
+2007-06-26,Venezuela,Bolivia,2,2,Copa América,San Cristóbal,Venezuela,False
+2007-06-30,Venezuela,Peru,2,0,Copa América,San Cristóbal,Venezuela,False
+2007-07-03,Venezuela,Uruguay,0,0,Copa América,Mérida,Venezuela,False
+2007-07-07,Venezuela,Uruguay,1,4,Copa América,San Cristóbal,Venezuela,False
+2007-08-22,Paraguay,Venezuela,1,1,Friendly,Asunción,Paraguay,False
+2007-09-08,Venezuela,Paraguay,3,2,Friendly,Puerto Ordaz,Venezuela,False
+2007-09-12,Venezuela,Panama,1,1,Friendly,Puerto la Cruz,Venezuela,False
+2007-10-13,Ecuador,Venezuela,0,1,FIFA World Cup qualification,Quito,Ecuador,False
+2007-10-16,Venezuela,Argentina,0,2,FIFA World Cup qualification,Maracaibo,Venezuela,False
+2007-11-17,Colombia,Venezuela,1,0,FIFA World Cup qualification,Bogotá,Colombia,False
+2007-11-20,Venezuela,Bolivia,5,3,FIFA World Cup qualification,San Cristóbal,Venezuela,False
+2008-02-03,Venezuela,Haiti,1,0,Friendly,Maturín,Venezuela,False
+2008-02-06,Venezuela,Haiti,1,1,Friendly,Puerto la Cruz,Venezuela,False
+2008-03-23,Venezuela,El Salvador,1,0,Friendly,Puerto Ordaz,Venezuela,False
+2008-03-26,Venezuela,Bolivia,0,1,Friendly,Puerto la Cruz,Venezuela,False
+2008-04-30,Colombia,Venezuela,5,2,Friendly,Bucaramanga,Colombia,False
+2008-05-30,Venezuela,Honduras,1,1,Friendly,Fort Lauderdale,United States,True
+2008-06-06,Brazil,Venezuela,0,2,Friendly,Foxborough,United States,True
+2008-06-09,Curaçao,Venezuela,0,1,Friendly,Willemstad,Curaçao,False
+2008-06-14,Uruguay,Venezuela,1,1,FIFA World Cup qualification,Montevideo,Uruguay,False
+2008-06-19,Venezuela,Chile,2,3,FIFA World Cup qualification,Puerto la Cruz,Venezuela,False
+2008-08-20,Venezuela,Syria,4,1,Friendly,Puerto la Cruz,Venezuela,False
+2008-09-06,Peru,Venezuela,1,0,FIFA World Cup qualification,Lima,Peru,False
+2008-09-09,Paraguay,Venezuela,2,0,FIFA World Cup qualification,Asunción,Paraguay,False
+2008-10-12,Venezuela,Brazil,0,4,FIFA World Cup qualification,San Cristóbal,Venezuela,False
+2008-10-15,Venezuela,Ecuador,3,1,FIFA World Cup qualification,Puerto la Cruz,Venezuela,False
+2008-11-19,Venezuela,Angola,0,0,Friendly,Barinas,Venezuela,False
+2009-02-11,Venezuela,Guatemala,2,1,Friendly,Maturín,Venezuela,False
+2009-03-28,Argentina,Venezuela,4,0,FIFA World Cup qualification,Buenos Aires,Argentina,False
+2009-03-31,Venezuela,Colombia,2,0,FIFA World Cup qualification,Puerto Ordaz,Venezuela,False
+2009-05-13,Venezuela,Costa Rica,1,1,Friendly,San Cristóbal,Venezuela,False
+2009-06-06,Bolivia,Venezuela,0,1,FIFA World Cup qualification,La Paz,Bolivia,False
+2009-06-10,Venezuela,Uruguay,2,2,FIFA World Cup qualification,Puerto Ordaz,Venezuela,False
+2009-06-24,Mexico,Venezuela,4,0,Friendly,Atlanta,United States,True
+2009-06-27,Costa Rica,Venezuela,1,0,Friendly,San José,Costa Rica,False
+2009-08-12,Colombia,Venezuela,1,2,Friendly,East Rutherford,United States,True
+2009-09-05,Chile,Venezuela,2,2,FIFA World Cup qualification,Santiago,Chile,False
+2009-09-09,Venezuela,Peru,3,1,FIFA World Cup qualification,Puerto la Cruz,Venezuela,False
+2009-10-10,Venezuela,Paraguay,1,2,FIFA World Cup qualification,Puerto Ordaz,Venezuela,False
+2009-10-14,Brazil,Venezuela,0,0,FIFA World Cup qualification,Campo Grande,Brazil,False
+2010-02-02,Japan,Venezuela,0,0,Friendly,Ōita,Japan,False
+2010-03-03,Venezuela,Panama,1,2,Friendly,Barquisimeto,Venezuela,False
+2010-03-06,Venezuela,North Korea,2,1,Friendly,Puerto la Cruz,Venezuela,False
+2010-03-31,Chile,Venezuela,0,0,Friendly,Temuco,Chile,False
+2010-04-21,Honduras,Venezuela,0,1,Friendly,San Pedro Sula,Honduras,False
+2010-05-20,Aruba,Venezuela,0,3,Friendly,Oranjestad,Aruba,False
+2010-05-29,Venezuela,Canada,1,1,Friendly,Mérida,Venezuela,False
+2010-08-11,Panama,Venezuela,3,1,Friendly,Panama City,Panama,False
+2010-09-03,Venezuela,Colombia,0,2,Friendly,Puerto la Cruz,Venezuela,False
+2010-09-07,Venezuela,Ecuador,1,0,Friendly,Barquisimeto,Venezuela,False
+2010-10-12,Mexico,Venezuela,2,2,Friendly,Ciudad Juárez,Mexico,False
+2010-11-17,Ecuador,Venezuela,4,1,Friendly,Quito,Ecuador,False
+2010-12-29,Basque Country,Venezuela,3,1,Friendly,Bilbao,Spain,False
+2011-02-09,Venezuela,Costa Rica,2,2,Friendly,Puerto la Cruz,Venezuela,False
+2011-03-16,Argentina,Venezuela,4,1,Friendly,San Juan,Argentina,False
+2011-03-25,Jamaica,Venezuela,0,2,Friendly,Montego Bay,Jamaica,False
+2011-03-29,Mexico,Venezuela,1,1,Friendly,San Diego,United States,True
+2011-06-01,Guatemala,Venezuela,0,2,Friendly,Guatemala City,Guatemala,False
+2011-06-07,Venezuela,Spain,0,3,Friendly,Puerto la Cruz,Venezuela,False
+2011-06-11,Mexico,Venezuela,0,3,Friendly,Las Vegas,United States,True
+2011-07-03,Brazil,Venezuela,0,0,Copa América,La Plata,Argentina,True
+2011-07-09,Venezuela,Ecuador,1,0,Copa América,Salta,Argentina,True
+2011-07-13,Paraguay,Venezuela,3,3,Copa América,Salta,Argentina,True
+2011-07-17,Chile,Venezuela,1,2,Copa América,San Juan,Argentina,True
+2011-07-20,Paraguay,Venezuela,0,0,Copa América,Mendoza,Argentina,True
+2011-07-23,Peru,Venezuela,4,1,Copa América,La Plata,Argentina,True
+2011-08-07,El Salvador,Venezuela,2,1,Friendly,"Washington, D.C.",United States,True
+2011-08-10,Honduras,Venezuela,2,0,Friendly,Fort Lauderdale,United States,True
+2011-09-02,Argentina,Venezuela,1,0,Friendly,Calcutta,India,True
+2011-09-06,Venezuela,Guinea,2,1,Friendly,Caracas,Venezuela,False
+2011-10-07,Ecuador,Venezuela,2,0,FIFA World Cup qualification,Quito,Ecuador,False
+2011-10-11,Venezuela,Argentina,1,0,FIFA World Cup qualification,Puerto la Cruz,Venezuela,False
+2011-11-11,Colombia,Venezuela,1,1,FIFA World Cup qualification,Barranquilla,Colombia,False
+2011-11-15,Venezuela,Bolivia,1,0,FIFA World Cup qualification,San Cristóbal,Venezuela,False
+2011-12-22,Venezuela,Costa Rica,0,2,Friendly,Barquisimeto,Venezuela,False
+2012-01-21,United States,Venezuela,1,0,Friendly,Glendale,United States,False
+2012-01-25,Mexico,Venezuela,3,1,Friendly,Houston,United States,True
+2012-02-29,Spain,Venezuela,5,0,Friendly,Málaga,Spain,False
+2012-05-23,Venezuela,Moldova,4,0,Friendly,Puerto Ordaz,Venezuela,False
+2012-06-02,Uruguay,Venezuela,1,1,FIFA World Cup qualification,Montevideo,Uruguay,False
+2012-06-09,Venezuela,Chile,0,2,FIFA World Cup qualification,Puerto la Cruz,Venezuela,False
+2012-08-15,Japan,Venezuela,1,1,Friendly,Sapporo,Japan,False
+2012-09-07,Peru,Venezuela,2,1,FIFA World Cup qualification,Lima,Peru,False
+2012-09-11,Paraguay,Venezuela,0,2,FIFA World Cup qualification,Asunción,Paraguay,False
+2012-10-16,Venezuela,Ecuador,1,1,FIFA World Cup qualification,Puerto la Cruz,Venezuela,False
+2012-11-14,Venezuela,Nigeria,1,3,Friendly,Miami,United States,True
+2013-03-22,Argentina,Venezuela,3,0,FIFA World Cup qualification,Buenos Aires,Argentina,False
+2013-03-26,Venezuela,Colombia,1,0,FIFA World Cup qualification,Puerto Ordaz,Venezuela,False
+2013-05-22,Venezuela,El Salvador,2,1,Friendly,Mérida,Venezuela,False
+2013-06-07,Bolivia,Venezuela,1,1,FIFA World Cup qualification,La Paz,Bolivia,False
+2013-06-11,Venezuela,Uruguay,0,1,FIFA World Cup qualification,Puerto Ordaz,Venezuela,False
+2013-08-14,Venezuela,Bolivia,2,2,Friendly,San Cristóbal,Venezuela,False
+2013-09-06,Chile,Venezuela,3,0,FIFA World Cup qualification,Santiago,Chile,False
+2013-09-10,Venezuela,Peru,3,2,FIFA World Cup qualification,Puerto la Cruz,Venezuela,False
+2013-10-11,Venezuela,Paraguay,1,1,FIFA World Cup qualification,San Cristóbal,Venezuela,False
+2014-09-05,South Korea,Venezuela,3,1,Friendly,Bucheon,South Korea,False
+2014-09-09,Japan,Venezuela,2,2,Friendly,Yokohama,Japan,False
+2014-11-18,Bolivia,Venezuela,3,2,Friendly,La Paz,Bolivia,False
+2015-02-04,Honduras,Venezuela,2,3,Friendly,San Pedro Sula,Honduras,False
+2015-03-31,Peru,Venezuela,0,1,Friendly,Fort Lauderdale,United States,True
+2015-06-14,Colombia,Venezuela,0,1,Copa América,Rancagua,Chile,True
+2015-06-18,Peru,Venezuela,1,0,Copa América,Valparaíso,Chile,True
+2015-06-21,Brazil,Venezuela,2,1,Copa América,Santiago,Chile,True
+2015-09-04,Venezuela,Honduras,0,3,Friendly,Puerto Ordaz,Venezuela,False
+2015-09-08,Venezuela,Panama,1,1,Friendly,Puerto Ordaz,Venezuela,False
+2015-10-08,Venezuela,Paraguay,0,1,FIFA World Cup qualification,Ciudad Guayana,Venezuela,False
+2015-10-13,Brazil,Venezuela,3,1,FIFA World Cup qualification,Fortaleza,Brazil,False
+2015-11-12,Bolivia,Venezuela,4,2,FIFA World Cup qualification,La Paz,Bolivia,False
+2015-11-17,Venezuela,Ecuador,1,3,FIFA World Cup qualification,Ciudad Guayana,Venezuela,False
+2016-03-24,Peru,Venezuela,2,2,FIFA World Cup qualification,Lima,Peru,False
+2016-03-29,Venezuela,Chile,1,4,FIFA World Cup qualification,Barinas,Venezuela,False
+2016-05-20,Galicia,Venezuela,1,1,Friendly,La Coruña,Spain,False
+2016-05-28,Costa Rica,Venezuela,2,1,Friendly,San José,Costa Rica,False
+2016-06-05,Jamaica,Venezuela,0,1,Copa América,Chicago,United States,True
+2016-06-09,Uruguay,Venezuela,0,1,Copa América,Philadelphia,United States,True
+2016-06-13,Mexico,Venezuela,1,1,Copa América,Houston,United States,True
+2016-06-18,Argentina,Venezuela,4,1,Copa América,Foxborough,United States,True
+2016-09-01,Colombia,Venezuela,2,0,FIFA World Cup qualification,Barranquilla,Colombia,False
+2016-09-06,Venezuela,Argentina,2,2,FIFA World Cup qualification,Mérida,Venezuela,False
+2016-10-06,Uruguay,Venezuela,3,0,FIFA World Cup qualification,Montevideo,Uruguay,False
+2016-10-11,Venezuela,Brazil,0,2,FIFA World Cup qualification,Mérida,Venezuela,False
+2016-11-10,Venezuela,Bolivia,5,0,FIFA World Cup qualification,Maturín,Venezuela,False
+2016-11-15,Ecuador,Venezuela,3,0,FIFA World Cup qualification,Quito,Ecuador,False
+2017-03-23,Venezuela,Peru,2,2,FIFA World Cup qualification,Maturín,Venezuela,False
+2017-03-28,Chile,Venezuela,3,1,FIFA World Cup qualification,Santiago,Chile,False
+2017-06-03,United States,Venezuela,1,1,Friendly,Sandy,United States,False
+2017-06-08,Ecuador,Venezuela,1,1,Friendly,Boca Raton,United States,True
+2017-08-31,Venezuela,Colombia,0,0,FIFA World Cup qualification,San Cristóbal,Venezuela,False
+2017-09-05,Argentina,Venezuela,1,1,FIFA World Cup qualification,Buenos Aires,Argentina,False
+2017-10-05,Venezuela,Uruguay,0,0,FIFA World Cup qualification,San Cristóbal,Venezuela,False
+2017-10-10,Paraguay,Venezuela,0,1,FIFA World Cup qualification,Asunción,Paraguay,False
+2017-11-13,Iran,Venezuela,1,0,Friendly,Arnhem,Netherlands,True
+2018-09-07,Venezuela,Colombia,1,2,Friendly,Miami Gardens,United States,True
+2018-09-11,Panama,Venezuela,0,2,Friendly,Panama City,Panama,False
+2018-10-12,Basque Country,Venezuela,4,2,Friendly,Vitoria-Gasteiz,Spain,False
+2018-10-16,United Arab Emirates,Venezuela,0,2,Friendly,Barcelona,Spain,True
+2018-11-16,Japan,Venezuela,1,1,Kirin Challenge Cup,Ōita,Japan,False
+2018-11-20,Iran,Venezuela,1,1,Friendly,Doha,Qatar,True
+2019-03-22,Argentina,Venezuela,1,3,Friendly,Madrid,Spain,True
+2019-03-25,Catalonia,Venezuela,2,1,Friendly,Girona,Spain,False
+2019-06-01,Venezuela,Ecuador,1,1,Friendly,Miami Gardens,United States,True
+2019-06-05,Mexico,Venezuela,3,1,Friendly,Atlanta,United States,True
+2019-06-09,United States,Venezuela,0,3,Friendly,Cincinnati,United States,False
+2019-06-15,Venezuela,Peru,0,0,Copa América,Porto Alegre,Brazil,True
+2019-06-18,Brazil,Venezuela,0,0,Copa América,Salvador,Brazil,False
+2019-06-22,Bolivia,Venezuela,1,3,Copa América,Belo Horizonte,Brazil,True
+2019-06-28,Venezuela,Argentina,0,2,Copa América,Rio de Janeiro,Brazil,True
+2019-09-10,Colombia,Venezuela,0,0,Friendly,Tampa,United States,True
+2019-10-10,Venezuela,Bolivia,4,1,Friendly,Caracas,Venezuela,False
+2019-10-14,Venezuela,Trinidad and Tobago,2,0,Friendly,Caracas,Venezuela,False
+2019-11-19,Japan,Venezuela,1,4,Kirin Challenge Cup,Suita,Japan,False
+2020-10-09,Colombia,Venezuela,3,0,FIFA World Cup qualification,Barranquilla,Colombia,False
+2020-10-13,Venezuela,Paraguay,0,1,FIFA World Cup qualification,Mérida,Venezuela,False
+2020-11-13,Brazil,Venezuela,1,0,FIFA World Cup qualification,São Paulo,Brazil,False
+2020-11-17,Venezuela,Chile,2,1,FIFA World Cup qualification,Caracas,Venezuela,False
+2021-06-03,Bolivia,Venezuela,3,1,FIFA World Cup qualification,La Paz,Bolivia,False
+2021-06-08,Venezuela,Uruguay,0,0,FIFA World Cup qualification,Caracas,Venezuela,False
+2021-06-13,Brazil,Venezuela,3,0,Copa América,Brasília,Brazil,False
+2021-06-17,Colombia,Venezuela,0,0,Copa América,Goiânia,Brazil,True
+2021-06-20,Venezuela,Ecuador,2,2,Copa América,Rio de Janeiro,Brazil,True
+2021-06-27,Venezuela,Peru,0,1,Copa América,Brasília,Brazil,True
+2021-09-02,Venezuela,Argentina,1,3,FIFA World Cup qualification,Caracas,Venezuela,False
+2021-09-05,Peru,Venezuela,1,0,FIFA World Cup qualification,Lima,Peru,False
+2021-09-09,Paraguay,Venezuela,2,1,FIFA World Cup qualification,Asunción,Paraguay,False
+2021-10-07,Venezuela,Brazil,1,3,FIFA World Cup qualification,Caracas,Venezuela,False
+2021-10-10,Venezuela,Ecuador,2,1,FIFA World Cup qualification,Caracas,Venezuela,False
+2021-10-14,Chile,Venezuela,3,0,FIFA World Cup qualification,Santiago,Chile,False
+2021-11-11,Ecuador,Venezuela,1,0,FIFA World Cup qualification,Quito,Ecuador,False
+2021-11-16,Venezuela,Peru,1,2,FIFA World Cup qualification,Caracas,Venezuela,False
+2022-01-28,Venezuela,Bolivia,4,1,FIFA World Cup qualification,Barinas,Venezuela,False
+2022-02-01,Uruguay,Venezuela,4,1,FIFA World Cup qualification,Montevideo,Uruguay,False
+2022-03-25,Argentina,Venezuela,3,0,FIFA World Cup qualification,Buenos Aires,Argentina,False
+2022-03-29,Venezuela,Colombia,0,1,FIFA World Cup qualification,Guayana,Venezuela,False
+2022-06-01,Malta,Venezuela,0,1,Friendly,Ta' Qali,Malta,False
+2022-06-09,Saudi Arabia,Venezuela,0,1,Friendly,Murcia,Spain,True
+2022-09-22,Iceland,Venezuela,1,0,Friendly,Maria Enzersdorf,Austria,True
+2022-09-27,United Arab Emirates,Venezuela,0,4,Friendly,Wiener Neustadt,Austria,True
+2022-11-15,Venezuela,Panama,2,2,Friendly,Al Hamriyah,United Arab Emirates,True
+2022-11-20,Syria,Venezuela,1,2,Friendly,Dubai,United Arab Emirates,True
+2023-03-24,Saudi Arabia,Venezuela,1,2,Friendly,Jeddah,Saudi Arabia,False
+2023-03-28,Uzbekistan,Venezuela,1,1,Friendly,Jeddah,Saudi Arabia,True
+2023-06-15,Honduras,Venezuela,0,1,Friendly,"Washington, D.C.",United States,True
+2023-06-18,Guatemala,Venezuela,0,1,Friendly,East Hartford,United States,True
+2023-09-07,Colombia,Venezuela,1,0,FIFA World Cup qualification,Barranquilla,Colombia,False
+2023-09-12,Venezuela,Paraguay,1,0,FIFA World Cup qualification,Maturín,Venezuela,False
+2023-10-12,Brazil,Venezuela,1,1,FIFA World Cup qualification,Cuiabá,Brazil,False
+2023-10-17,Venezuela,Chile,3,0,FIFA World Cup qualification,Maturín,Venezuela,False
+2023-11-16,Venezuela,Ecuador,0,0,FIFA World Cup qualification,Maturín,Venezuela,False
+2023-11-21,Peru,Venezuela,1,1,FIFA World Cup qualification,Lima,Peru,False
+2024-03-21,Venezuela,Italy,1,2,Friendly,Fort Lauderdale,United States,True
+2024-03-24,Guatemala,Venezuela,0,0,Friendly,Houston,United States,True
+2024-06-22,Ecuador,Venezuela,1,2,Copa América,Santa Clara,United States,True
+2024-06-26,Venezuela,Mexico,1,0,Copa América,Inglewood,United States,True
+2024-06-30,Jamaica,Venezuela,0,3,Copa América,Austin,United States,True
+2024-07-05,Venezuela,Canada,1,1,Copa América,Arlington,United States,True
+2024-09-05,Bolivia,Venezuela,4,0,FIFA World Cup qualification,El Alto,Bolivia,False
+2024-09-10,Venezuela,Uruguay,0,0,FIFA World Cup qualification,Maturín,Venezuela,False
+2024-10-10,Venezuela,Argentina,1,1,FIFA World Cup qualification,Maturín,Venezuela,False
+2024-10-15,Paraguay,Venezuela,2,1,FIFA World Cup qualification,Asunción,Paraguay,False
+2024-11-14,Venezuela,Brazil,1,1,FIFA World Cup qualification,Maturín,Venezuela,False
+2024-11-19,Chile,Venezuela,4,2,FIFA World Cup qualification,Santiago,Chile,False
+2025-01-18,United States,Venezuela,3,1,Friendly,Fort Lauderdale,United States,False
+2025-03-21,Ecuador,Venezuela,2,1,FIFA World Cup qualification,Quito,Ecuador,False
+2025-03-25,Venezuela,Peru,1,0,FIFA World Cup qualification,Maturín,Venezuela,False

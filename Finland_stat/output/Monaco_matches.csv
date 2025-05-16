@@ -1,0 +1,25 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+2000-06-11,Gibraltar,Monaco,5,0,Friendly,Gibraltar,Gibraltar,False
+2001-07-14,Monaco,Tibet,2,1,Friendly,Freiburg,Germany,True
+2002-02-18,Gibraltar,Monaco,2,2,Friendly,Nice,France,True
+2002-11-23,Monaco,Vatican City,0,0,Friendly,Albano Laziale,Italy,True
+2005-02-12,Occitania,Monaco,0,0,Friendly,Béziers,France,False
+2005-05-17,Monaco,Occitania,1,1,Friendly,Cap-d'Ail,France,True
+2005-05-27,Gibraltar,Monaco,4,0,Friendly,Gibraltar,Gibraltar,False
+2005-12-17,Occitania,Monaco,1,2,Friendly,Cap-d'Ail,France,False
+2006-02-18,Monaco,Chechnya,13,1,Friendly,Cap-d'Ail,France,True
+2006-04-22,Kosovo,Monaco,7,1,Friendly,Cap-d'Ail,France,True
+2006-11-20,Monaco,Ambazonia,3,0,Viva World Cup,Costebelle,France,True
+2006-11-21,Occitania,Monaco,2,3,Viva World Cup,Hyères,France,False
+2006-11-23,Sápmi,Monaco,14,0,Viva World Cup,Hyères,France,True
+2006-11-24,Sápmi,Monaco,21,1,Viva World Cup,Hyères,France,True
+2008-11-08,Occitania,Monaco,2,2,Friendly,Caraglio,Italy,False
+2008-12-20,Monaco,Provence,2,3,Friendly,Cap-d'Ail,France,True
+2010-04-03,Occitania,Monaco,5,1,Friendly,Saint-Dalmas-De-Tende,France,False
+2011-05-07,Monaco,Vatican City,2,1,Friendly,Albano Laziale,Italy,True
+2012-06-10,Monaco,Raetia,1,2,Friendly,Beausoleil,France,True
+2013-02-13,Provence,Monaco,6,1,Friendly,Saint-Zacharie,France,False
+2013-06-22,Monaco,Vatican City,2,0,Friendly,Cap-d'Ail,France,True
+2014-04-06,Ellan Vannin,Monaco,10,0,Friendly,Douglas,Isle of Man,False
+2014-05-10,Vatican City,Monaco,0,2,Friendly,Rome,Italy,False
+2017-04-29,Vatican City,Monaco,0,0,Friendly,Rome,Italy,False

@@ -1,0 +1,326 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1940-04-27,Israel,Lebanon,5,1,Friendly,Tel Aviv,Mandatory Palestine,False
+1955-01-23,Lebanon,Bulgaria,2,3,Friendly,Beirut,Lebanon,False
+1956-02-29,Lebanon,Hungary,1,4,Friendly,Beirut,Lebanon,False
+1963-03-31,Lebanon,Kuwait,6,0,Arab Cup,Beirut,Lebanon,False
+1963-04-04,Lebanon,Syria,2,3,Arab Cup,Beirut,Lebanon,False
+1963-04-06,Lebanon,Jordan,5,0,Arab Cup,Beirut,Lebanon,False
+1963-04-07,Lebanon,Tunisia,0,1,Arab Cup,Beirut,Lebanon,False
+1963-06-09,Tunisia,Lebanon,2,0,Friendly,Tunis,Tunisia,False
+1964-03-08,Libya,Lebanon,0,1,Friendly,Tripoli,Libya,False
+1964-11-13,Jordan,Lebanon,0,0,Arab Cup,Kuwait City,Kuwait,True
+1964-11-14,Libya,Lebanon,2,1,Arab Cup,Kuwait City,Kuwait,True
+1964-11-16,Iraq,Lebanon,1,0,Arab Cup,Kuwait City,Kuwait,True
+1964-11-17,Kuwait,Lebanon,2,3,Arab Cup,Kuwait City,Kuwait,False
+1965-03-20,Cyprus,Lebanon,2,0,Friendly,Nicosia,Cyprus,False
+1966-04-02,Lebanon,Bahrain,6,1,Arab Cup,Baghdad,Iraq,True
+1966-04-03,Kuwait,Lebanon,1,2,Arab Cup,Baghdad,Iraq,True
+1966-04-05,Jordan,Lebanon,1,2,Arab Cup,Baghdad,Iraq,True
+1966-04-07,Iraq,Lebanon,0,0,Arab Cup,Baghdad,Iraq,False
+1966-04-09,Lebanon,Syria,0,1,Arab Cup,Baghdad,Iraq,True
+1966-04-10,Libya,Lebanon,6,1,Arab Cup,Baghdad,Iraq,True
+1971-12-11,Bahrain,Lebanon,3,0,AFC Asian Cup qualification,Kuwait City,Kuwait,True
+1971-12-14,Kuwait,Lebanon,1,0,AFC Asian Cup qualification,Kuwait City,Kuwait,False
+1971-12-19,Lebanon,Syria,3,2,AFC Asian Cup qualification,Kuwait City,Kuwait,True
+1971-12-22,Iraq,Lebanon,4,1,AFC Asian Cup qualification,Kuwait City,Kuwait,True
+1971-12-24,Lebanon,Jordan,2,0,AFC Asian Cup qualification,Kuwait City,Kuwait,True
+1974-09-27,Algeria,Lebanon,4,1,Kuneitra Cup,Damascus,Syria,True
+1975-05-16,South Korea,Lebanon,1,0,Korea Cup,Seoul,South Korea,False
+1978-09-10,Lebanon,Mexico,1,7,Korea Cup,Seoul,South Korea,True
+1988-07-11,Iraq,Lebanon,0,0,Arab Cup,Amman,Jordan,True
+1988-07-15,Egypt,Lebanon,3,0,Arab Cup,Amman,Jordan,True
+1988-07-17,Lebanon,Tunisia,1,1,Arab Cup,Amman,Jordan,True
+1989-10-30,Kuwait,Lebanon,5,0,Friendly,Kuwait City,Kuwait,False
+1989-11-02,Lebanon,Uganda,0,2,Friendly,Kuwait City,Kuwait,True
+1993-01-02,Kuwait,Lebanon,2,0,Friendly,Kuwait City,Kuwait,False
+1993-03-26,Lebanon,Jordan,1,0,Friendly,Beirut,Lebanon,False
+1993-05-07,Lebanon,India,2,2,FIFA World Cup qualification,Beirut,Lebanon,False
+1993-05-09,Lebanon,Hong Kong,2,2,FIFA World Cup qualification,Beirut,Lebanon,False
+1993-05-11,Lebanon,South Korea,0,1,FIFA World Cup qualification,Beirut,Lebanon,False
+1993-05-13,Lebanon,Bahrain,0,0,FIFA World Cup qualification,Beirut,Lebanon,False
+1993-06-05,Bahrain,Lebanon,0,0,FIFA World Cup qualification,Seoul,South Korea,True
+1993-06-07,South Korea,Lebanon,2,0,FIFA World Cup qualification,Seoul,South Korea,False
+1993-06-09,Hong Kong,Lebanon,1,2,FIFA World Cup qualification,Seoul,South Korea,True
+1993-06-11,India,Lebanon,1,2,FIFA World Cup qualification,Seoul,South Korea,True
+1995-03-26,Lebanon,Egypt,1,1,Friendly,Beirut,Lebanon,False
+1996-01-03,Lebanon,Kazakhstan,2,1,Friendly,Beirut,Lebanon,False
+1996-01-16,Lebanon,Cyprus,1,0,Friendly,Beirut,Lebanon,False
+1996-02-11,Lebanon,Ecuador,1,0,Friendly,Bourj Hammoud,Lebanon,False
+1996-05-12,Lebanon,Turkmenistan,3,1,AFC Asian Cup qualification,Beirut,Lebanon,False
+1996-05-26,Turkmenistan,Lebanon,0,1,AFC Asian Cup qualification,Ashgabat,Turkmenistan,False
+1996-06-09,Lebanon,Kuwait,3,5,AFC Asian Cup qualification,Beirut,Lebanon,False
+1996-06-20,Kuwait,Lebanon,0,0,AFC Asian Cup qualification,Kuwait City,Kuwait,False
+1996-09-05,Lebanon,Oman,1,2,Friendly,Beirut,Lebanon,False
+1996-10-03,Lebanon,Bahrain,2,3,Friendly,Tripoli,Lebanon,False
+1996-10-09,Lebanon,New Zealand,1,1,Friendly,Beirut,Lebanon,False
+1996-11-13,Lebanon,Iran,0,0,Friendly,Beirut,Lebanon,False
+1996-12-05,Lebanon,Georgia,4,2,Friendly,Beirut,Lebanon,False
+1996-12-08,Lebanon,Georgia,3,2,Friendly,Beirut,Lebanon,False
+1997-01-12,Lebanon,Algeria,2,2,Friendly,Beirut,Lebanon,False
+1997-01-26,Lebanon,Estonia,2,0,Friendly,Beirut,Lebanon,False
+1997-02-02,Lebanon,Jordan,1,0,Friendly,Beirut,Lebanon,False
+1997-02-07,Jordan,Lebanon,0,0,Friendly,Amman,Jordan,False
+1997-02-09,Lebanon,Jordan,0,0,Friendly,Beirut,Lebanon,False
+1997-03-19,United Arab Emirates,Lebanon,2,1,Friendly,Abu Dhabi,United Arab Emirates,False
+1997-04-13,Lebanon,Singapore,1,1,FIFA World Cup qualification,Beirut,Lebanon,False
+1997-04-27,Lebanon,Libya,2,0,Friendly,Beirut,Lebanon,False
+1997-05-08,Kuwait,Lebanon,2,0,FIFA World Cup qualification,Kuwait City,Kuwait,False
+1997-05-24,Singapore,Lebanon,1,2,FIFA World Cup qualification,Singapore,Singapore,False
+1997-06-22,Lebanon,Kuwait,1,3,FIFA World Cup qualification,Beirut,Lebanon,False
+1997-08-21,Lebanon,Iraq,0,2,Friendly,Beirut,Lebanon,False
+1998-07-20,Lebanon,Palestine,3,1,Arab Cup qualification,Beirut,Lebanon,False
+1998-07-23,Lebanon,Jordan,0,2,Arab Cup qualification,Beirut,Lebanon,False
+1998-07-26,Lebanon,Syria,0,1,Arab Cup qualification,Beirut,Lebanon,False
+1998-08-18,Armenia,Lebanon,1,0,Friendly,Abovyan,Armenia,False
+1998-09-09,Kuwait,Lebanon,0,0,Friendly,Kuwait City,Kuwait,False
+1998-09-27,Saudi Arabia,Lebanon,4,1,Arab Cup,Doha,Qatar,True
+1998-10-17,Lebanon,Syria,3,3,United Arab Emirates Friendship Tournament,Abu Dhabi,United Arab Emirates,True
+1998-10-19,Lebanon,Sudan,1,1,United Arab Emirates Friendship Tournament,Abu Dhabi,United Arab Emirates,True
+1998-10-21,United Arab Emirates,Lebanon,1,0,United Arab Emirates Friendship Tournament,Abu Dhabi,United Arab Emirates,False
+1998-11-30,China PR,Lebanon,4,1,Asian Games,Surat Thani,Thailand,True
+1998-12-04,Lebanon,Cambodia,5,1,Asian Games,Surat Thani,Thailand,True
+1998-12-08,Qatar,Lebanon,1,0,Asian Games,Bangkok,Thailand,True
+1998-12-10,Thailand,Lebanon,1,0,Asian Games,Bangkok,Thailand,False
+1998-12-12,Kazakhstan,Lebanon,0,3,Asian Games,Bangkok,Thailand,True
+1999-11-24,Lebanon,Malta,0,0,Friendly,Beirut,Lebanon,False
+2000-02-16,Lebanon,North Korea,1,0,Friendly,Beirut,Lebanon,False
+2000-02-23,Lebanon,Jordan,1,1,Friendly,Tripoli,Lebanon,False
+2000-03-08,Jordan,Lebanon,1,1,Friendly,Amman,Jordan,False
+2000-05-13,Jordan,Lebanon,1,1,Friendly,Limassol,Cyprus,True
+2000-05-21,Lebanon,Saudi Arabia,0,0,Friendly,Zahlé,Lebanon,False
+2000-05-23,Lebanon,Iraq,1,2,WAFF Championship,Amman,Jordan,True
+2000-05-25,Kyrgyzstan,Lebanon,0,2,WAFF Championship,Amman,Jordan,True
+2000-05-27,Jordan,Lebanon,0,0,WAFF Championship,Amman,Jordan,False
+2000-06-25,Lebanon,Kuwait,3,1,Friendly,Tripoli,Lebanon,False
+2000-08-05,Lebanon,Oman,3,1,Friendly,Zahlé,Lebanon,False
+2000-08-08,Lebanon,Oman,1,2,Friendly,Zahlé,Lebanon,False
+2000-09-07,Lebanon,United Arab Emirates,0,1,Friendly,Beirut,Lebanon,False
+2000-09-10,Lebanon,United Arab Emirates,2,2,Friendly,Beirut,Lebanon,False
+2000-10-12,Lebanon,Iran,0,4,AFC Asian Cup,Beirut,Lebanon,False
+2000-10-15,Lebanon,Iraq,2,2,AFC Asian Cup,Beirut,Lebanon,False
+2000-10-18,Lebanon,Thailand,1,1,AFC Asian Cup,Beirut,Lebanon,False
+2001-01-31,Lebanon,Iraq,0,0,Friendly,Beirut,Lebanon,False
+2001-03-07,Lebanon,Syria,2,2,Friendly,Tripoli,Lebanon,False
+2001-04-04,Lebanon,Bahrain,1,1,Friendly,Beirut,Lebanon,False
+2001-04-25,Lebanon,Philippines,3,0,Friendly,Tripoli,Lebanon,False
+2001-05-13,Lebanon,Pakistan,6,0,FIFA World Cup qualification,Beirut,Lebanon,False
+2001-05-15,Lebanon,Sri Lanka,4,0,FIFA World Cup qualification,Beirut,Lebanon,False
+2001-05-17,Lebanon,Thailand,1,2,FIFA World Cup qualification,Beirut,Lebanon,False
+2001-05-26,Pakistan,Lebanon,1,8,FIFA World Cup qualification,Bangkok,Thailand,True
+2001-05-28,Sri Lanka,Lebanon,0,5,FIFA World Cup qualification,Bangkok,Thailand,True
+2001-05-30,Thailand,Lebanon,2,2,FIFA World Cup qualification,Bangkok,Thailand,False
+2002-09-01,Lebanon,Jordan,0,1,WAFF Championship,Damascus,Syria,True
+2002-09-03,Iran,Lebanon,2,0,WAFF Championship,Damascus,Syria,True
+2002-12-13,Saudi Arabia,Lebanon,1,1,Friendly,Dammam,Saudi Arabia,False
+2002-12-19,Saudi Arabia,Lebanon,1,0,Arab Cup,Kuwait City,Kuwait,True
+2002-12-21,Syria,Lebanon,4,1,Arab Cup,Kuwait City,Kuwait,True
+2002-12-24,Lebanon,Yemen,4,2,Arab Cup,Kuwait City,Kuwait,True
+2002-12-26,Lebanon,Bahrain,0,0,Arab Cup,Kuwait City,Kuwait,True
+2003-08-22,Lebanon,Syria,1,0,Friendly,Beirut,Lebanon,False
+2003-09-04,North Korea,Lebanon,0,1,AFC Asian Cup qualification,Pyongyang,North Korea,False
+2003-09-19,Bahrain,Lebanon,4,3,Friendly,Manama,Bahrain,False
+2003-10-17,Jordan,Lebanon,1,0,AFC Asian Cup qualification,Amman,Jordan,False
+2003-11-03,Lebanon,North Korea,1,1,AFC Asian Cup qualification,Beirut,Lebanon,False
+2003-11-12,Lebanon,Jordan,0,2,AFC Asian Cup qualification,Beirut,Lebanon,False
+2003-11-19,Lebanon,Iran,0,3,AFC Asian Cup qualification,Beirut,Lebanon,False
+2003-11-28,Iran,Lebanon,1,0,AFC Asian Cup qualification,Tehran,Iran,False
+2003-12-16,Kuwait,Lebanon,2,0,Friendly,Paphos,Cyprus,True
+2003-12-18,Kuwait,Lebanon,0,0,Friendly,Paphos,Cyprus,True
+2004-02-08,Lebanon,Bahrain,2,1,Friendly,Beirut,Lebanon,False
+2004-02-18,South Korea,Lebanon,2,0,FIFA World Cup qualification,Suwon,South Korea,False
+2004-03-23,Lebanon,Syria,0,1,Friendly,Jounieh,Lebanon,False
+2004-03-31,Vietnam,Lebanon,0,2,FIFA World Cup qualification,Nam Định,Vietnam,False
+2004-05-26,Lebanon,Bahrain,2,2,Friendly,Beirut,Lebanon,False
+2004-06-09,Lebanon,Maldives,3,0,FIFA World Cup qualification,Beirut,Lebanon,False
+2004-06-17,Iran,Lebanon,4,0,WAFF Championship,Tehran,Iran,False
+2004-06-19,Syria,Lebanon,3,1,WAFF Championship,Tehran,Iran,True
+2004-07-03,China PR,Lebanon,6,0,Friendly,Chongqing,China PR,False
+2004-08-31,Jordan,Lebanon,2,2,Friendly,Amman,Jordan,False
+2004-09-08,Maldives,Lebanon,2,5,FIFA World Cup qualification,Malé,Maldives,False
+2004-10-03,Lebanon,Kuwait,1,3,Friendly,Tripoli,Lebanon,False
+2004-10-06,Lebanon,Kuwait,1,1,Friendly,Beirut,Lebanon,False
+2004-10-13,Lebanon,South Korea,1,1,FIFA World Cup qualification,Beirut,Lebanon,False
+2004-11-17,Lebanon,Vietnam,0,0,FIFA World Cup qualification,Beirut,Lebanon,False
+2004-12-01,Qatar,Lebanon,4,1,Friendly,Doha,Qatar,False
+2005-02-02,Bahrain,Lebanon,2,1,Friendly,Doha,Qatar,True
+2006-01-27,Saudi Arabia,Lebanon,1,2,Friendly,Riyadh,Saudi Arabia,False
+2006-02-22,Lebanon,Kuwait,1,1,AFC Asian Cup qualification,Beirut,Lebanon,False
+2006-12-21,Lebanon,Mauritania,0,0,Arab Cup qualification,Beirut,Lebanon,False
+2006-12-24,Lebanon,Somalia,4,0,Arab Cup qualification,Beirut,Lebanon,False
+2006-12-27,Lebanon,Sudan,0,0,Arab Cup qualification,Beirut,Lebanon,False
+2007-06-16,Lebanon,Syria,0,1,WAFF Championship,Amman,Jordan,True
+2007-06-20,Jordan,Lebanon,3,0,WAFF Championship,Amman,Jordan,False
+2007-09-23,United Arab Emirates,Lebanon,1,1,Friendly,Dubai,United Arab Emirates,False
+2007-10-08,Lebanon,India,4,1,FIFA World Cup qualification,Sidon,Lebanon,False
+2007-10-30,India,Lebanon,2,2,FIFA World Cup qualification,Margao,India,False
+2008-01-02,Kuwait,Lebanon,3,2,Friendly,Salmiya,Kuwait,False
+2008-01-20,China PR,Lebanon,0,0,Friendly,Zhongshan,China PR,False
+2008-01-28,Jordan,Lebanon,4,1,Friendly,Amman,Jordan,False
+2008-02-06,Lebanon,Uzbekistan,0,1,FIFA World Cup qualification,Beirut,Lebanon,False
+2008-03-26,Singapore,Lebanon,2,0,FIFA World Cup qualification,Singapore,Singapore,False
+2008-04-09,Lebanon,Maldives,4,0,AFC Asian Cup qualification,Beirut,Lebanon,False
+2008-04-23,Maldives,Lebanon,1,2,AFC Asian Cup qualification,Malé,Maldives,False
+2008-05-27,Qatar,Lebanon,2,1,Friendly,Doha,Qatar,False
+2008-06-02,Saudi Arabia,Lebanon,4,1,FIFA World Cup qualification,Riyadh,Saudi Arabia,False
+2008-06-07,Saudi Arabia,Lebanon,2,1,FIFA World Cup qualification,Riyadh,Saudi Arabia,False
+2008-06-14,Uzbekistan,Lebanon,3,0,FIFA World Cup qualification,Tashkent,Uzbekistan,False
+2008-06-22,Lebanon,Singapore,1,2,FIFA World Cup qualification,Beirut,Lebanon,False
+2009-01-14,Vietnam,Lebanon,3,1,AFC Asian Cup qualification,Hanoi,Vietnam,False
+2009-01-21,Thailand,Lebanon,2,1,King's Cup,Phuket,Thailand,False
+2009-01-23,North Korea,Lebanon,0,1,King's Cup,Phuket,Thailand,True
+2009-01-28,Lebanon,Syria,0,2,AFC Asian Cup qualification,Sidon,Lebanon,False
+2009-04-01,Lebanon,Namibia,1,1,Friendly,Beirut,Lebanon,False
+2009-08-19,India,Lebanon,0,1,Nehru Cup,New Delhi,India,False
+2009-08-22,Sri Lanka,Lebanon,4,3,Nehru Cup,New Delhi,India,True
+2009-08-25,Kyrgyzstan,Lebanon,1,1,Nehru Cup,New Delhi,India,True
+2009-08-27,Syria,Lebanon,1,0,Nehru Cup,New Delhi,India,True
+2009-11-14,Lebanon,China PR,0,2,AFC Asian Cup qualification,Beirut,Lebanon,False
+2009-11-22,China PR,Lebanon,1,0,AFC Asian Cup qualification,Hangzhou,China PR,False
+2010-01-06,Lebanon,Vietnam,1,1,AFC Asian Cup qualification,Sidon,Lebanon,False
+2010-03-03,Syria,Lebanon,4,0,AFC Asian Cup qualification,Damascus,Syria,False
+2011-07-02,Lebanon,Kuwait,0,6,Friendly,Beirut,Lebanon,False
+2011-07-09,Lebanon,Oman,0,1,Friendly,Beirut,Lebanon,False
+2011-07-17,United Arab Emirates,Lebanon,6,2,Friendly,Al Ain,United Arab Emirates,False
+2011-07-23,Lebanon,Bangladesh,4,0,FIFA World Cup qualification,Beirut,Lebanon,False
+2011-07-28,Bangladesh,Lebanon,2,0,FIFA World Cup qualification,Dhaka,Bangladesh,False
+2011-08-17,Lebanon,Syria,2,3,Friendly,Sidon,Lebanon,False
+2011-09-02,South Korea,Lebanon,6,0,FIFA World Cup qualification,Goyang,South Korea,False
+2011-09-06,Lebanon,United Arab Emirates,3,1,FIFA World Cup qualification,Beirut,Lebanon,False
+2011-10-11,Lebanon,Kuwait,2,2,FIFA World Cup qualification,Beirut,Lebanon,False
+2011-11-06,Iraq,Lebanon,1,0,Friendly,Doha,Qatar,True
+2011-11-11,Kuwait,Lebanon,0,1,FIFA World Cup qualification,Kuwait City,Kuwait,False
+2011-11-15,Lebanon,South Korea,2,1,FIFA World Cup qualification,Beirut,Lebanon,False
+2012-01-22,Lebanon,Iraq,1,0,Friendly,Beirut,Lebanon,False
+2012-02-29,United Arab Emirates,Lebanon,4,2,FIFA World Cup qualification,Abu Dhabi,United Arab Emirates,False
+2012-05-11,Lebanon,Egypt,1,4,Friendly,Tripoli,Lebanon,False
+2012-05-18,Lebanon,Jordan,1,2,Friendly,Sidon,Lebanon,False
+2012-05-27,Oman,Lebanon,1,1,Friendly,Muscat,Oman,False
+2012-06-03,Lebanon,Qatar,0,1,FIFA World Cup qualification,Beirut,Lebanon,False
+2012-06-08,Lebanon,Uzbekistan,1,1,FIFA World Cup qualification,Beirut,Lebanon,False
+2012-06-12,South Korea,Lebanon,3,0,FIFA World Cup qualification,Goyang,South Korea,False
+2012-06-24,Iraq,Lebanon,1,0,Arab Cup,Jeddah,Saudi Arabia,True
+2012-06-27,Lebanon,Sudan,0,2,Arab Cup,Jeddah,Saudi Arabia,True
+2012-09-06,Lebanon,Australia,0,3,Friendly,Tripoli,Lebanon,False
+2012-09-11,Lebanon,Iran,1,0,FIFA World Cup qualification,Beirut,Lebanon,False
+2012-10-16,Lebanon,Yemen,2,1,Friendly,Beirut,Lebanon,False
+2012-11-14,Qatar,Lebanon,1,0,FIFA World Cup qualification,Doha,Qatar,False
+2012-12-08,Oman,Lebanon,0,1,WAFF Championship,Al Farwaniyah,Kuwait,True
+2012-12-11,Lebanon,Palestine,0,1,WAFF Championship,Al Farwaniyah,Kuwait,True
+2012-12-14,Kuwait,Lebanon,2,1,WAFF Championship,Kuwait City,Kuwait,False
+2013-01-15,Lebanon,Gabon,0,0,Friendly,Sidon,Lebanon,False
+2013-01-31,Qatar,Lebanon,1,0,Friendly,Doha,Qatar,False
+2013-02-06,Iran,Lebanon,5,0,AFC Asian Cup qualification,Tehran,Iran,False
+2013-03-17,Bahrain,Lebanon,0,0,Friendly,Riffa,Bahrain,False
+2013-03-22,Lebanon,Thailand,5,2,AFC Asian Cup qualification,Beirut,Lebanon,False
+2013-03-26,Uzbekistan,Lebanon,1,0,FIFA World Cup qualification,Tashkent,Uzbekistan,False
+2013-05-29,Oman,Lebanon,1,1,Friendly,Doha,Qatar,True
+2013-06-04,Lebanon,South Korea,1,1,FIFA World Cup qualification,Beirut,Lebanon,False
+2013-06-11,Iran,Lebanon,4,0,FIFA World Cup qualification,Tehran,Iran,False
+2013-09-06,Lebanon,Syria,2,0,Friendly,Beirut,Lebanon,False
+2013-09-09,Qatar,Lebanon,1,1,Friendly,Doha,Qatar,False
+2013-10-08,Lebanon,Iraq,1,1,Friendly,Beirut,Lebanon,False
+2013-10-15,Lebanon,Kuwait,1,1,AFC Asian Cup qualification,Beirut,Lebanon,False
+2013-11-09,Bahrain,Lebanon,1,0,Friendly,Riffa,Bahrain,False
+2013-11-15,Kuwait,Lebanon,0,0,AFC Asian Cup qualification,Kuwait City,Kuwait,False
+2013-11-19,Lebanon,Iran,1,4,AFC Asian Cup qualification,Beirut,Lebanon,False
+2013-12-26,Jordan,Lebanon,0,0,WAFF Championship,Doha,Qatar,True
+2013-12-29,Lebanon,Kuwait,0,2,WAFF Championship,Doha,Qatar,True
+2014-02-19,Lebanon,Pakistan,3,1,Friendly,Beirut,Lebanon,False
+2014-03-05,Thailand,Lebanon,2,5,AFC Asian Cup qualification,Bangkok,Thailand,False
+2014-10-09,Qatar,Lebanon,5,0,Friendly,Doha,Qatar,False
+2014-10-14,Saudi Arabia,Lebanon,1,1,Friendly,Jeddah,Saudi Arabia,False
+2014-11-06,United Arab Emirates,Lebanon,3,2,Friendly,Al Hofuf,Saudi Arabia,True
+2015-05-24,Lebanon,Syria,2,2,Friendly,Sidon,Lebanon,False
+2015-05-30,Jordan,Lebanon,0,0,Friendly,Irbid,Jordan,False
+2015-06-11,Lebanon,Kuwait,0,1,FIFA World Cup qualification,Sidon,Lebanon,False
+2015-06-16,Laos,Lebanon,0,2,FIFA World Cup qualification,Vientiane,Laos,False
+2015-08-26,Lebanon,Iraq,2,3,Friendly,Sidon,Lebanon,False
+2015-08-31,Lebanon,Palestine,0,0,Friendly,Sidon,Lebanon,False
+2015-09-08,Lebanon,South Korea,0,3,FIFA World Cup qualification,Sidon,Lebanon,False
+2015-10-08,Myanmar,Lebanon,0,2,FIFA World Cup qualification,Bangkok,Thailand,True
+2015-10-13,Kuwait,Lebanon,0,0,FIFA World Cup qualification,Kuwait City,Kuwait,False
+2015-11-12,Lebanon,Laos,7,0,FIFA World Cup qualification,Sidon,Lebanon,False
+2015-11-17,North Macedonia,Lebanon,0,1,Friendly,Skopje,North Macedonia,False
+2016-02-05,Bahrain,Lebanon,2,0,Friendly,Riffa,Bahrain,False
+2016-02-14,Uzbekistan,Lebanon,2,0,Friendly,Dubai,United Arab Emirates,True
+2016-03-24,South Korea,Lebanon,1,0,FIFA World Cup qualification,Ansan,South Korea,False
+2016-03-29,Lebanon,Myanmar,1,1,FIFA World Cup qualification,Sidon,Lebanon,False
+2016-08-31,Lebanon,Jordan,1,1,Friendly,Beirut,Lebanon,False
+2016-09-05,Lebanon,Afghanistan,2,0,Friendly,Beirut,Lebanon,False
+2016-10-06,Kyrgyzstan,Lebanon,0,0,Friendly,Bishkek,Kyrgyzstan,False
+2016-10-11,Lebanon,Equatorial Guinea,1,1,Friendly,Beirut,Lebanon,False
+2016-11-10,Lebanon,Palestine,1,1,Friendly,Beirut,Lebanon,False
+2016-11-15,Jordan,Lebanon,0,0,Friendly,Amman,Jordan,False
+2017-03-28,Lebanon,Hong Kong,2,0,AFC Asian Cup qualification,Beirut,Lebanon,False
+2017-06-13,Malaysia,Lebanon,1,2,AFC Asian Cup qualification,Johor Bahru,Malaysia,False
+2017-09-05,North Korea,Lebanon,2,2,AFC Asian Cup qualification,Pyongyang,North Korea,False
+2017-10-10,Lebanon,North Korea,5,0,AFC Asian Cup qualification,Beirut,Lebanon,False
+2017-11-09,Singapore,Lebanon,0,1,Friendly,Kallang,Singapore,False
+2017-11-14,Hong Kong,Lebanon,0,1,AFC Asian Cup qualification,So Kon Po,Hong Kong,False
+2018-03-27,Lebanon,Malaysia,2,1,AFC Asian Cup qualification,Beirut,Lebanon,False
+2018-09-06,Jordan,Lebanon,0,1,Friendly,Amman,Jordan,False
+2018-09-09,Lebanon,Oman,0,0,Friendly,Amman,Jordan,True
+2018-10-11,Kuwait,Lebanon,1,0,Friendly,Kuwait City,Kuwait,False
+2018-11-15,Uzbekistan,Lebanon,0,0,Friendly,Robina,Australia,True
+2018-11-20,Australia,Lebanon,3,0,Friendly,Sydney,Australia,False
+2018-12-27,Bahrain,Lebanon,1,0,Friendly,East Riffa,Bahrain,False
+2019-01-09,Qatar,Lebanon,2,0,AFC Asian Cup,Al Ain,United Arab Emirates,True
+2019-01-12,Lebanon,Saudi Arabia,0,2,AFC Asian Cup,Dubai,United Arab Emirates,True
+2019-01-17,Lebanon,North Korea,4,1,AFC Asian Cup,Sharjah,United Arab Emirates,True
+2019-07-30,Iraq,Lebanon,1,0,WAFF Championship,Karbala,Iraq,False
+2019-08-02,Lebanon,Syria,2,1,WAFF Championship,Karbala,Iraq,True
+2019-08-05,Lebanon,Palestine,0,0,WAFF Championship,Karbala,Iraq,True
+2019-08-08,Yemen,Lebanon,2,1,WAFF Championship,Karbala,Iraq,True
+2019-09-05,North Korea,Lebanon,2,0,FIFA World Cup qualification,Pyongyang,North Korea,False
+2019-09-10,Oman,Lebanon,1,0,Friendly,Muscat,Oman,False
+2019-10-10,Lebanon,Turkmenistan,2,1,FIFA World Cup qualification,Beirut,Lebanon,False
+2019-10-15,Sri Lanka,Lebanon,0,3,FIFA World Cup qualification,Colombo,Sri Lanka,False
+2019-11-14,Lebanon,South Korea,0,0,FIFA World Cup qualification,Beirut,Lebanon,False
+2019-11-19,Lebanon,North Korea,0,0,FIFA World Cup qualification,Beirut,Lebanon,False
+2020-11-12,Lebanon,Bahrain,1,3,Friendly,Dubai,United Arab Emirates,True
+2021-03-24,Jordan,Lebanon,1,0,Friendly,Dubai,United Arab Emirates,True
+2021-03-29,Kuwait,Lebanon,1,1,Friendly,Dubai,United Arab Emirates,True
+2021-06-05,Lebanon,Sri Lanka,3,2,FIFA World Cup qualification,Goyang,South Korea,True
+2021-06-09,Turkmenistan,Lebanon,3,2,FIFA World Cup qualification,Goyang,South Korea,True
+2021-06-13,South Korea,Lebanon,2,1,FIFA World Cup qualification,Goyang,South Korea,False
+2021-06-23,Lebanon,Djibouti,1,0,Arab Cup qualification,Doha,Qatar,True
+2021-09-02,United Arab Emirates,Lebanon,0,0,FIFA World Cup qualification,Dubai,United Arab Emirates,False
+2021-09-07,South Korea,Lebanon,1,0,FIFA World Cup qualification,Suwon,South Korea,False
+2021-10-07,Iraq,Lebanon,0,0,FIFA World Cup qualification,Doha,Qatar,True
+2021-10-12,Syria,Lebanon,2,3,FIFA World Cup qualification,Amman,Jordan,True
+2021-11-11,Lebanon,Iran,1,2,FIFA World Cup qualification,Sidon,Lebanon,False
+2021-11-16,Lebanon,United Arab Emirates,0,1,FIFA World Cup qualification,Sidon,Lebanon,False
+2021-12-01,Egypt,Lebanon,1,0,Arab Cup,Doha,Qatar,True
+2021-12-04,Lebanon,Algeria,0,2,Arab Cup,Al Wakrah,Qatar,True
+2021-12-07,Lebanon,Sudan,1,0,Arab Cup,Al Rayyan,Qatar,True
+2022-01-27,Lebanon,South Korea,0,1,FIFA World Cup qualification,Sidon,Lebanon,False
+2022-02-01,Lebanon,Iraq,1,1,FIFA World Cup qualification,Sidon,Lebanon,False
+2022-03-24,Lebanon,Syria,0,3,FIFA World Cup qualification,Sidon,Lebanon,False
+2022-03-29,Iran,Lebanon,2,0,FIFA World Cup qualification,Mashhad,Iran,False
+2022-11-19,Kuwait,Lebanon,2,0,Friendly,Dubai,United Arab Emirates,True
+2022-12-30,United Arab Emirates,Lebanon,1,0,Friendly,Abu Dhabi,United Arab Emirates,False
+2023-03-27,Oman,Lebanon,2,0,Friendly,Muscat,Oman,False
+2023-06-22,Lebanon,Bangladesh,2,0,SAFF Cup,Bengaluru,India,True
+2023-06-25,Bhutan,Lebanon,1,4,SAFF Cup,Bengaluru,India,True
+2023-06-28,Lebanon,Maldives,1,0,SAFF Cup,Bengaluru,India,True
+2023-07-01,India,Lebanon,0,0,SAFF Cup,Bengaluru,India,False
+2023-09-07,Thailand,Lebanon,2,1,King's Cup,Chiang Mai,Thailand,False
+2023-09-10,Lebanon,India,1,0,King's Cup,Chiang Mai,Thailand,True
+2023-10-12,Montenegro,Lebanon,3,2,Friendly,Podgorica,Montenegro,False
+2023-10-17,United Arab Emirates,Lebanon,2,1,Friendly,Dubai,United Arab Emirates,False
+2023-11-16,Lebanon,Palestine,0,0,FIFA World Cup qualification,Sharjah,United Arab Emirates,True
+2023-11-21,Bangladesh,Lebanon,1,1,FIFA World Cup qualification,Dhaka,Bangladesh,False
+2024-01-04,Saudi Arabia,Lebanon,1,0,Friendly,Doha,Qatar,True
+2024-01-12,Qatar,Lebanon,3,0,AFC Asian Cup,Lusail,Qatar,False
+2024-01-17,Lebanon,China PR,0,0,AFC Asian Cup,Doha,Qatar,True
+2024-01-22,Tajikistan,Lebanon,2,1,AFC Asian Cup,Doha,Qatar,True
+2024-03-21,Australia,Lebanon,2,0,FIFA World Cup qualification,Sydney,Australia,False
+2024-03-26,Australia,Lebanon,5,0,FIFA World Cup qualification,Canberra,Australia,False
+2024-06-06,Palestine,Lebanon,0,0,FIFA World Cup qualification,Doha,Qatar,True
+2024-06-11,Lebanon,Bangladesh,4,0,FIFA World Cup qualification,Al Rayyan,Qatar,True
+2024-09-04,Lebanon,Tajikistan,1,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+2024-09-08,Malaysia,Lebanon,1,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+2024-11-14,Thailand,Lebanon,0,0,Friendly,Pathum Thani,Thailand,False
+2024-11-19,Myanmar,Lebanon,2,3,Friendly,Yangon,Myanmar,False
+2025-03-20,Lebanon,Timor-Leste,4,0,Friendly,Al-Khor,Qatar,False
+2025-03-25,Lebanon,Brunei,5,0,AFC Asian Cup qualification,Al Wakrah,Qatar,True

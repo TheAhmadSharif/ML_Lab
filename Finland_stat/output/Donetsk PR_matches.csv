@@ -1,0 +1,7 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+2015-05-14,Abkhazia,Donetsk PR,1,0,Friendly,Sukhumi,Georgia,False
+2015-07-09,Luhansk PR,Donetsk PR,3,1,Friendly,Luhansk,Ukraine,False
+2015-08-08,Donetsk PR,Luhansk PR,4,1,Friendly,Donetsk,Ukraine,False
+2016-05-21,Abkhazia,Donetsk PR,0,0,Friendly,Sukhumi,Georgia,False
+2016-08-13,Donetsk PR,Luhansk PR,1,1,Friendly,Donetsk,Ukraine,False
+2017-08-31,Abkhazia,Donetsk PR,1,2,Friendly,Sukhumi,Georgia,False

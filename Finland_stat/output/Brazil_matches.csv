@@ -1,0 +1,1048 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1914-09-20,Argentina,Brazil,3,0,Friendly,Buenos Aires,Argentina,False
+1914-09-27,Argentina,Brazil,0,1,Copa Roca,Buenos Aires,Argentina,False
+1916-07-08,Brazil,Chile,1,1,Copa América,Buenos Aires,Argentina,True
+1916-07-10,Argentina,Brazil,1,1,Copa América,Buenos Aires,Argentina,False
+1916-07-12,Brazil,Uruguay,1,2,Copa América,Buenos Aires,Argentina,True
+1916-07-18,Uruguay,Brazil,0,1,Friendly,Montevideo,Uruguay,False
+1917-10-03,Argentina,Brazil,4,2,Copa América,Montevideo,Uruguay,True
+1917-10-07,Uruguay,Brazil,4,0,Copa América,Montevideo,Uruguay,False
+1917-10-12,Brazil,Chile,5,0,Copa América,Montevideo,Uruguay,True
+1917-10-16,Uruguay,Brazil,3,1,Friendly,Montevideo,Uruguay,False
+1919-05-11,Brazil,Chile,6,0,Copa América,Rio de Janeiro,Brazil,False
+1919-05-18,Brazil,Argentina,3,1,Copa América,Rio de Janeiro,Brazil,False
+1919-05-26,Brazil,Uruguay,2,2,Copa América,Rio de Janeiro,Brazil,False
+1919-05-29,Brazil,Uruguay,1,0,Copa América,Rio de Janeiro,Brazil,False
+1919-06-01,Brazil,Argentina,3,3,Friendly,Rio de Janeiro,Brazil,False
+1920-09-11,Chile,Brazil,0,1,Copa América,Viña del Mar,Chile,False
+1920-09-18,Brazil,Uruguay,0,6,Copa América,Viña del Mar,Chile,True
+1920-09-25,Argentina,Brazil,2,0,Copa América,Viña del Mar,Chile,True
+1921-10-02,Argentina,Brazil,1,0,Copa América,Buenos Aires,Argentina,False
+1921-10-12,Brazil,Paraguay,3,0,Copa América,Buenos Aires,Argentina,True
+1921-10-23,Brazil,Uruguay,1,2,Copa América,Buenos Aires,Argentina,True
+1922-09-17,Brazil,Chile,1,1,Copa América,Rio de Janeiro,Brazil,False
+1922-09-24,Brazil,Paraguay,1,1,Copa América,Rio de Janeiro,Brazil,False
+1922-10-01,Brazil,Uruguay,0,0,Copa América,Rio de Janeiro,Brazil,False
+1922-10-15,Brazil,Argentina,2,0,Copa América,Rio de Janeiro,Brazil,False
+1922-10-22,Brazil,Argentina,2,1,Copa Roca,São Paulo,Brazil,False
+1922-10-29,Brazil,Paraguay,3,1,Friendly,São Paulo,Brazil,False
+1922-11-06,Brazil,Paraguay,3,0,Copa América,Rio de Janeiro,Brazil,False
+1923-11-11,Brazil,Paraguay,0,1,Copa América,Montevideo,Uruguay,True
+1923-11-18,Argentina,Brazil,2,1,Copa América,Montevideo,Uruguay,True
+1923-11-22,Brazil,Paraguay,2,0,Friendly,Montevideo,Uruguay,True
+1923-11-25,Uruguay,Brazil,2,1,Copa América,Montevideo,Uruguay,False
+1923-12-02,Argentina,Brazil,0,2,Friendly,Buenos Aires,Argentina,False
+1923-12-09,Argentina,Brazil,2,0,Copa Roca,Buenos Aires,Argentina,False
+1925-12-06,Brazil,Paraguay,5,2,Copa América,Buenos Aires,Argentina,True
+1925-12-13,Argentina,Brazil,4,1,Copa América,Buenos Aires,Argentina,False
+1925-12-17,Brazil,Paraguay,3,1,Copa América,Buenos Aires,Argentina,True
+1925-12-25,Argentina,Brazil,2,2,Copa América,Buenos Aires,Argentina,False
+1930-07-14,Brazil,Yugoslavia,1,2,FIFA World Cup,Montevideo,Uruguay,True
+1930-07-20,Bolivia,Brazil,0,4,FIFA World Cup,Montevideo,Uruguay,True
+1930-08-01,Brazil,France,3,2,Friendly,Rio de Janeiro,Brazil,False
+1930-08-10,Brazil,Yugoslavia,4,1,Friendly,Rio de Janeiro,Brazil,False
+1930-08-17,Brazil,United States,4,3,Friendly,Rio de Janeiro,Brazil,False
+1931-09-06,Brazil,Uruguay,2,0,Copa Rio Branco,Rio de Janeiro,Brazil,False
+1932-12-04,Uruguay,Brazil,1,2,Copa Rio Branco,Montevideo,Uruguay,False
+1934-05-27,Brazil,Spain,1,3,FIFA World Cup,Genoa,Italy,True
+1934-06-03,Yugoslavia,Brazil,8,4,Friendly,Belgrade,Yugoslavia,False
+1934-06-17,Catalonia,Brazil,2,1,Friendly,Barcelona,Spain,False
+1934-06-24,Catalonia,Brazil,2,2,Friendly,Girona,Spain,False
+1936-12-27,Brazil,Peru,3,2,Copa América,Buenos Aires,Argentina,True
+1937-01-03,Brazil,Chile,6,4,Copa América,Buenos Aires,Argentina,True
+1937-01-13,Brazil,Paraguay,5,0,Copa América,Buenos Aires,Argentina,True
+1937-01-19,Brazil,Uruguay,3,2,Copa América,Buenos Aires,Argentina,True
+1937-01-30,Argentina,Brazil,1,0,Copa América,Buenos Aires,Argentina,False
+1937-02-01,Argentina,Brazil,2,0,Copa América,Buenos Aires,Argentina,False
+1938-06-05,Brazil,Poland,6,5,FIFA World Cup,Strasbourg,France,True
+1938-06-12,Brazil,Czechoslovakia,1,1,FIFA World Cup,Bordeaux,France,True
+1938-06-14,Brazil,Czechoslovakia,2,1,FIFA World Cup,Bordeaux,France,True
+1938-06-16,Brazil,Italy,1,2,FIFA World Cup,Marseille,France,True
+1938-06-19,Brazil,Sweden,4,2,FIFA World Cup,Bordeaux,France,True
+1939-01-15,Brazil,Argentina,1,5,Copa Roca,Rio de Janeiro,Brazil,False
+1939-01-22,Brazil,Argentina,3,2,Copa Roca,Rio de Janeiro,Brazil,False
+1940-02-18,Brazil,Argentina,2,2,Copa Roca,São Paulo,Brazil,False
+1940-02-25,Brazil,Argentina,0,3,Copa Roca,São Paulo,Brazil,False
+1940-03-05,Argentina,Brazil,6,1,Copa Roca,Buenos Aires,Argentina,False
+1940-03-10,Argentina,Brazil,2,3,Copa Roca,Buenos Aires,Argentina,False
+1940-03-17,Argentina,Brazil,5,1,Copa Roca,Avellaneda,Argentina,False
+1940-03-24,Brazil,Uruguay,3,4,Copa Rio Branco,Rio de Janeiro,Brazil,False
+1940-03-31,Brazil,Uruguay,1,1,Copa Rio Branco,Rio de Janeiro,Brazil,False
+1942-01-14,Brazil,Chile,6,1,Copa América,Montevideo,Uruguay,True
+1942-01-17,Argentina,Brazil,2,1,Copa América,Montevideo,Uruguay,True
+1942-01-21,Brazil,Peru,2,1,Copa América,Montevideo,Uruguay,True
+1942-01-24,Uruguay,Brazil,1,0,Copa América,Montevideo,Uruguay,False
+1942-01-31,Brazil,Ecuador,5,1,Copa América,Montevideo,Uruguay,True
+1942-02-05,Brazil,Paraguay,1,1,Copa América,Montevideo,Uruguay,True
+1944-05-14,Brazil,Uruguay,6,1,Friendly,Rio de Janeiro,Brazil,False
+1944-05-17,Brazil,Uruguay,4,0,Friendly,São Paulo,Brazil,False
+1945-01-21,Brazil,Colombia,3,0,Copa América,Santiago,Chile,True
+1945-01-28,Bolivia,Brazil,0,2,Copa América,Santiago,Chile,True
+1945-02-07,Brazil,Uruguay,3,0,Copa América,Santiago,Chile,True
+1945-02-15,Argentina,Brazil,3,1,Copa América,Santiago,Chile,True
+1945-02-21,Brazil,Ecuador,9,2,Copa América,Santiago,Chile,True
+1945-02-28,Chile,Brazil,0,1,Copa América,Santiago,Chile,False
+1945-12-16,Brazil,Argentina,3,4,Copa Roca,São Paulo,Brazil,False
+1945-12-20,Brazil,Argentina,6,2,Copa Roca,Rio de Janeiro,Brazil,False
+1945-12-23,Brazil,Argentina,3,1,Copa Roca,Rio de Janeiro,Brazil,False
+1946-01-05,Uruguay,Brazil,4,3,Copa Rio Branco,Montevideo,Uruguay,False
+1946-01-16,Bolivia,Brazil,0,3,Copa América,Buenos Aires,Argentina,True
+1946-01-23,Brazil,Uruguay,4,3,Copa América,Buenos Aires,Argentina,True
+1946-01-29,Brazil,Paraguay,1,1,Copa América,Avellaneda,Argentina,True
+1946-02-03,Brazil,Chile,5,1,Copa América,Buenos Aires,Argentina,True
+1946-02-10,Argentina,Brazil,2,0,Copa América,Buenos Aires,Argentina,False
+1947-03-29,Uruguay,Brazil,0,0,Copa Rio Branco,Montevideo,Uruguay,False
+1947-04-01,Brazil,Uruguay,3,2,Copa Rio Branco,Rio de Janeiro,Brazil,False
+1948-04-04,Uruguay,Brazil,1,1,Copa Rio Branco,Montevideo,Uruguay,False
+1948-04-11,Uruguay,Brazil,4,2,Copa Rio Branco,Montevideo,Uruguay,False
+1949-04-03,Brazil,Ecuador,9,1,Copa América,Rio de Janeiro,Brazil,False
+1949-04-10,Brazil,Bolivia,10,1,Copa América,São Paulo,Brazil,False
+1949-04-13,Brazil,Chile,2,1,Copa América,São Paulo,Brazil,False
+1949-04-17,Brazil,Colombia,5,0,Copa América,São Paulo,Brazil,False
+1949-04-24,Brazil,Peru,7,1,Copa América,Rio de Janeiro,Brazil,False
+1949-04-30,Brazil,Uruguay,5,1,Copa América,Rio de Janeiro,Brazil,False
+1949-05-08,Brazil,Paraguay,1,2,Copa América,Rio de Janeiro,Brazil,False
+1949-05-11,Brazil,Paraguay,7,0,Copa América,Rio de Janeiro,Brazil,False
+1950-05-06,Brazil,Uruguay,3,4,Copa Rio Branco,São Paulo,Brazil,False
+1950-05-07,Brazil,Paraguay,2,0,Copa Oswaldo Cruz,Rio de Janeiro,Brazil,False
+1950-05-13,Brazil,Paraguay,3,3,Copa Oswaldo Cruz,São Paulo,Brazil,False
+1950-05-14,Brazil,Uruguay,3,2,Copa Rio Branco,Rio de Janeiro,Brazil,False
+1950-06-24,Brazil,Mexico,4,0,FIFA World Cup,Rio de Janeiro,Brazil,False
+1950-06-28,Brazil,Switzerland,2,2,FIFA World Cup,São Paulo,Brazil,False
+1950-07-01,Brazil,Yugoslavia,2,0,FIFA World Cup,Rio de Janeiro,Brazil,False
+1950-07-09,Brazil,Sweden,7,1,FIFA World Cup,Rio de Janeiro,Brazil,False
+1950-07-13,Brazil,Spain,6,1,FIFA World Cup,Rio de Janeiro,Brazil,False
+1950-07-16,Brazil,Uruguay,1,2,FIFA World Cup,Rio de Janeiro,Brazil,False
+1952-04-06,Brazil,Mexico,2,0,Pan American Championship,Santiago,Chile,True
+1952-04-10,Brazil,Peru,0,0,Pan American Championship,Santiago,Chile,True
+1952-04-13,Brazil,Panama,5,0,Pan American Championship,Santiago,Chile,True
+1952-04-16,Brazil,Uruguay,4,2,Pan American Championship,Santiago,Chile,True
+1952-04-20,Chile,Brazil,0,3,Pan American Championship,Santiago,Chile,False
+1953-03-01,Bolivia,Brazil,1,8,Copa América,Lima,Peru,True
+1953-03-12,Brazil,Ecuador,2,0,Copa América,Lima,Peru,True
+1953-03-15,Brazil,Uruguay,1,0,Copa América,Lima,Peru,True
+1953-03-19,Peru,Brazil,1,0,Copa América,Lima,Peru,False
+1953-03-23,Brazil,Chile,3,2,Copa América,Lima,Peru,True
+1953-03-27,Brazil,Paraguay,1,2,Copa América,Lima,Peru,True
+1953-04-01,Brazil,Paraguay,2,3,Copa América,Lima,Peru,True
+1954-02-28,Chile,Brazil,0,2,FIFA World Cup qualification,Santiago,Chile,False
+1954-03-07,Paraguay,Brazil,0,1,FIFA World Cup qualification,Asunción,Paraguay,False
+1954-03-14,Brazil,Chile,1,0,FIFA World Cup qualification,Rio de Janeiro,Brazil,False
+1954-03-21,Brazil,Paraguay,4,1,FIFA World Cup qualification,Rio de Janeiro,Brazil,False
+1954-06-16,Brazil,Mexico,5,0,FIFA World Cup,Geneva,Switzerland,True
+1954-06-19,Brazil,Yugoslavia,1,1,FIFA World Cup,Lausanne,Switzerland,True
+1954-06-27,Brazil,Hungary,2,4,FIFA World Cup,Bern,Switzerland,True
+1955-09-18,Brazil,Chile,1,1,Copa Bernardo O'Higgins,Rio de Janeiro,Brazil,False
+1955-09-20,Brazil,Chile,2,1,Copa Bernardo O'Higgins,São Paulo,Brazil,False
+1955-11-13,Brazil,Paraguay,3,0,Copa Oswaldo Cruz,Rio de Janeiro,Brazil,False
+1955-11-17,Brazil,Paraguay,3,3,Copa Oswaldo Cruz,Rio de Janeiro,Brazil,False
+1956-01-24,Brazil,Chile,1,4,Copa América,Montevideo,Uruguay,True
+1956-01-29,Brazil,Paraguay,0,0,Copa América,Montevideo,Uruguay,True
+1956-02-01,Brazil,Peru,2,1,Copa América,Montevideo,Uruguay,True
+1956-02-05,Argentina,Brazil,0,1,Copa América,Montevideo,Uruguay,True
+1956-02-10,Uruguay,Brazil,0,0,Copa América,Montevideo,Uruguay,False
+1956-03-01,Brazil,Chile,2,1,Pan American Championship,Mexico City,Mexico,True
+1956-03-06,Brazil,Peru,1,0,Pan American Championship,Mexico City,Mexico,True
+1956-03-08,Mexico,Brazil,1,2,Pan American Championship,Mexico City,Mexico,False
+1956-03-13,Brazil,Costa Rica,7,1,Pan American Championship,Mexico City,Mexico,True
+1956-03-18,Argentina,Brazil,2,2,Pan American Championship,Mexico City,Mexico,True
+1956-04-08,Portugal,Brazil,0,1,Friendly,Oeiras,Portugal,False
+1956-04-11,Switzerland,Brazil,1,1,Friendly,Zürich,Switzerland,False
+1956-04-15,Austria,Brazil,2,3,Friendly,Vienna,Austria,False
+1956-04-21,Czechoslovakia,Brazil,0,0,Friendly,Prague,Czechoslovakia,False
+1956-04-25,Italy,Brazil,3,0,Friendly,Milan,Italy,False
+1956-05-01,Turkey,Brazil,0,1,Friendly,Istanbul,Turkey,False
+1956-05-09,England,Brazil,4,2,Friendly,London,England,False
+1956-06-12,Paraguay,Brazil,0,2,Copa Oswaldo Cruz,Asunción,Paraguay,False
+1956-06-17,Paraguay,Brazil,2,5,Copa Oswaldo Cruz,Asunción,Paraguay,False
+1956-06-24,Brazil,Uruguay,2,0,Atlantic Cup,Rio de Janeiro,Brazil,False
+1956-07-01,Brazil,Italy,2,0,Friendly,Rio de Janeiro,Brazil,False
+1956-07-08,Argentina,Brazil,0,0,Atlantic Cup,Avellaneda,Argentina,False
+1956-08-05,Brazil,Czechoslovakia,0,1,Friendly,Rio de Janeiro,Brazil,False
+1956-08-08,Brazil,Czechoslovakia,4,1,Friendly,São Paulo,Brazil,False
+1957-03-13,Brazil,Chile,4,2,Copa América,Lima,Peru,True
+1957-03-21,Brazil,Ecuador,7,1,Copa América,Lima,Peru,True
+1957-03-24,Brazil,Colombia,9,0,Copa América,Lima,Peru,True
+1957-03-28,Brazil,Uruguay,2,3,Copa América,Lima,Peru,True
+1957-03-31,Peru,Brazil,0,1,Copa América,Lima,Peru,False
+1957-04-03,Argentina,Brazil,3,0,Copa América,Lima,Peru,True
+1957-04-13,Peru,Brazil,1,1,FIFA World Cup qualification,Lima,Peru,False
+1957-04-21,Brazil,Peru,1,0,FIFA World Cup qualification,Rio de Janeiro,Brazil,False
+1957-06-11,Brazil,Portugal,2,1,Friendly,Rio de Janeiro,Brazil,False
+1957-06-16,Brazil,Portugal,3,0,Friendly,São Paulo,Brazil,False
+1957-07-07,Brazil,Argentina,1,2,Copa Roca,Rio de Janeiro,Brazil,False
+1957-07-10,Brazil,Argentina,2,0,Copa Roca,São Paulo,Brazil,False
+1957-09-15,Chile,Brazil,1,0,Copa Bernardo O'Higgins,Santiago,Chile,False
+1957-09-18,Chile,Brazil,1,1,Copa Bernardo O'Higgins,Santiago,Chile,False
+1958-05-04,Brazil,Paraguay,5,1,Copa Oswaldo Cruz,Rio de Janeiro,Brazil,False
+1958-05-07,Brazil,Paraguay,0,0,Copa Oswaldo Cruz,São Paulo,Brazil,False
+1958-05-14,Brazil,Bulgaria,4,0,Friendly,Rio de Janeiro,Brazil,False
+1958-05-18,Brazil,Bulgaria,3,1,Friendly,São Paulo,Brazil,False
+1958-06-08,Austria,Brazil,0,3,FIFA World Cup,Uddevalla,Sweden,True
+1958-06-11,Brazil,England,0,0,FIFA World Cup,Gothenburg,Sweden,True
+1958-06-15,Brazil,Russia,2,0,FIFA World Cup,Gothenburg,Sweden,True
+1958-06-19,Brazil,Wales,1,0,FIFA World Cup,Gothenburg,Sweden,True
+1958-06-24,Brazil,France,5,2,FIFA World Cup,Solna,Sweden,True
+1958-06-29,Sweden,Brazil,2,5,FIFA World Cup,Solna,Sweden,False
+1959-03-10,Brazil,Peru,2,2,Copa América,Buenos Aires,Argentina,True
+1959-03-15,Brazil,Chile,3,0,Copa América,Buenos Aires,Argentina,True
+1959-03-21,Bolivia,Brazil,2,4,Copa América,Buenos Aires,Argentina,True
+1959-03-26,Brazil,Uruguay,3,1,Copa América,Buenos Aires,Argentina,True
+1959-03-29,Brazil,Paraguay,4,1,Copa América,Buenos Aires,Argentina,True
+1959-04-04,Argentina,Brazil,1,1,Copa América,Buenos Aires,Argentina,False
+1959-05-13,Brazil,England,2,0,Friendly,Rio de Janeiro,Brazil,False
+1959-09-17,Brazil,Chile,7,0,Copa Bernardo O'Higgins,Rio de Janeiro,Brazil,False
+1959-09-20,Brazil,Chile,1,0,Copa Bernardo O'Higgins,Rio de Janeiro,Brazil,False
+1959-12-05,Brazil,Paraguay,3,2,Copa América,Guayaquil,Ecuador,True
+1959-12-12,Brazil,Uruguay,0,3,Copa América,Guayaquil,Ecuador,True
+1959-12-19,Ecuador,Brazil,1,3,Copa América,Guayaquil,Ecuador,False
+1959-12-22,Argentina,Brazil,4,1,Copa América,Guayaquil,Ecuador,True
+1959-12-27,Ecuador,Brazil,1,2,Friendly,Guayaquil,Ecuador,False
+1960-03-06,Brazil,Mexico,2,2,Pan American Championship,San José,Costa Rica,True
+1960-03-10,Costa Rica,Brazil,3,0,Pan American Championship,San José,Costa Rica,False
+1960-03-13,Argentina,Brazil,2,1,Pan American Championship,San José,Costa Rica,True
+1960-03-15,Brazil,Mexico,2,1,Pan American Championship,San José,Costa Rica,True
+1960-03-17,Costa Rica,Brazil,0,4,Pan American Championship,San José,Costa Rica,False
+1960-03-20,Argentina,Brazil,0,1,Pan American Championship,San José,Costa Rica,True
+1960-04-29,Egypt,Brazil,0,5,Friendly,Cairo,United Arab Republic,True
+1960-05-01,Egypt,Brazil,1,3,Friendly,Alexandria,United Arab Republic,True
+1960-05-06,Egypt,Brazil,0,3,Friendly,Cairo,United Arab Republic,True
+1960-05-10,Denmark,Brazil,3,4,Friendly,Esbjerg,Denmark,False
+1960-05-26,Argentina,Brazil,4,2,Copa Roca,Buenos Aires,Argentina,False
+1960-05-29,Argentina,Brazil,1,4,Copa Roca,Buenos Aires,Argentina,False
+1960-06-29,Brazil,Chile,4,0,Friendly,Rio de Janeiro,Brazil,False
+1960-07-03,Paraguay,Brazil,1,2,Atlantic Cup,Asunción,Paraguay,False
+1960-07-09,Uruguay,Brazil,1,0,Atlantic Cup,Montevideo,Uruguay,False
+1960-07-12,Brazil,Argentina,5,1,Atlantic Cup,Rio de Janeiro,Brazil,False
+1961-04-30,Paraguay,Brazil,0,2,Copa Oswaldo Cruz,Asunción,Paraguay,False
+1961-05-03,Paraguay,Brazil,2,3,Copa Oswaldo Cruz,Asunción,Paraguay,False
+1961-05-07,Chile,Brazil,1,2,Copa Bernardo O'Higgins,Santiago,Chile,False
+1961-05-11,Chile,Brazil,0,1,Copa Bernardo O'Higgins,Santiago,Chile,False
+1961-06-29,Brazil,Paraguay,3,2,Friendly,Rio de Janeiro,Brazil,False
+1962-04-21,Brazil,Paraguay,6,0,Copa Oswaldo Cruz,Rio de Janeiro,Brazil,False
+1962-04-24,Brazil,Paraguay,4,0,Copa Oswaldo Cruz,São Paulo,Brazil,False
+1962-05-06,Brazil,Portugal,2,1,Friendly,São Paulo,Brazil,False
+1962-05-09,Brazil,Portugal,1,0,Friendly,Rio de Janeiro,Brazil,False
+1962-05-12,Brazil,Wales,3,1,Friendly,Rio de Janeiro,Brazil,False
+1962-05-16,Brazil,Wales,3,1,Friendly,São Paulo,Brazil,False
+1962-05-30,Brazil,Mexico,2,0,FIFA World Cup,Viña del Mar,Chile,True
+1962-06-02,Brazil,Czechoslovakia,0,0,FIFA World Cup,Viña del Mar,Chile,True
+1962-06-06,Brazil,Spain,2,1,FIFA World Cup,Viña del Mar,Chile,True
+1962-06-10,Brazil,England,3,1,FIFA World Cup,Viña del Mar,Chile,True
+1962-06-13,Chile,Brazil,2,4,FIFA World Cup,Santiago,Chile,False
+1962-06-17,Brazil,Czechoslovakia,3,1,FIFA World Cup,Santiago,Chile,True
+1963-03-03,Paraguay,Brazil,2,2,Friendly,Asunción,Paraguay,False
+1963-03-10,Brazil,Peru,1,0,Copa América,Cochabamba,Bolivia,True
+1963-03-14,Brazil,Colombia,5,1,Copa América,La Paz,Bolivia,True
+1963-03-17,Brazil,Paraguay,0,2,Copa América,La Paz,Bolivia,True
+1963-03-24,Argentina,Brazil,3,0,Copa América,La Paz,Bolivia,True
+1963-03-27,Brazil,Ecuador,2,2,Copa América,Cochabamba,Bolivia,True
+1963-03-31,Bolivia,Brazil,5,4,Copa América,Cochabamba,Bolivia,False
+1963-04-13,Brazil,Argentina,2,3,Copa Roca,São Paulo,Brazil,False
+1963-04-16,Brazil,Argentina,5,2,Copa Roca,Rio de Janeiro,Brazil,False
+1963-04-21,Portugal,Brazil,1,0,Friendly,Lisbon,Portugal,False
+1963-04-24,Belgium,Brazil,5,1,Friendly,Brussels,Belgium,False
+1963-04-28,France,Brazil,2,3,Friendly,Colombes,France,False
+1963-05-02,Netherlands,Brazil,1,0,Friendly,Amsterdam,Netherlands,False
+1963-05-05,Germany,Brazil,1,2,Friendly,Hamburg,Germany,False
+1963-05-08,England,Brazil,1,1,Friendly,London,England,False
+1963-05-12,Italy,Brazil,3,0,Friendly,Milan,Italy,False
+1963-05-17,Egypt,Brazil,0,1,Friendly,Cairo,Egypt,False
+1963-05-19,Israel,Brazil,0,5,Friendly,Ramat Gan,Israel,False
+1964-05-30,Brazil,England,5,1,Friendly,Rio de Janeiro,Brazil,False
+1964-06-03,Brazil,Argentina,0,3,Friendly,São Paulo,Brazil,False
+1964-06-07,Brazil,Portugal,4,1,Friendly,Rio de Janeiro,Brazil,False
+1965-06-02,Brazil,Belgium,5,0,Friendly,Rio de Janeiro,Brazil,False
+1965-06-06,Brazil,Germany,2,0,Friendly,Rio de Janeiro,Brazil,False
+1965-06-09,Brazil,Argentina,0,0,Friendly,Rio de Janeiro,Brazil,False
+1965-06-17,Algeria,Brazil,0,3,Friendly,Oran,Algeria,False
+1965-06-24,Portugal,Brazil,0,0,Friendly,Porto,Portugal,False
+1965-06-30,Sweden,Brazil,1,2,Friendly,Solna,Sweden,False
+1965-07-04,Russia,Brazil,0,3,Friendly,Moscow,Soviet Union,False
+1965-09-07,Brazil,Uruguay,3,0,Friendly,Belo Horizonte,Brazil,False
+1965-11-21,Brazil,Russia,2,2,Friendly,Rio de Janeiro,Brazil,False
+1965-11-21,Brazil,Hungary,5,3,Friendly,São Paulo,Brazil,False
+1966-04-17,Chile,Brazil,0,1,Copa Bernardo O'Higgins,Santiago,Chile,False
+1966-04-20,Chile,Brazil,2,1,Copa Bernardo O'Higgins,Viña del Mar,Chile,False
+1966-05-14,Brazil,Wales,3,1,Friendly,Rio de Janeiro,Brazil,False
+1966-05-15,Brazil,Chile,1,1,Friendly,São Paulo,Brazil,False
+1966-05-18,Brazil,Wales,1,0,Friendly,Belo Horizonte,Brazil,False
+1966-05-19,Brazil,Chile,1,0,Friendly,Rio de Janeiro,Brazil,False
+1966-06-04,Brazil,Peru,4,0,Friendly,São Paulo,Brazil,False
+1966-06-05,Brazil,Poland,4,1,Friendly,Belo Horizonte,Brazil,False
+1966-06-08,Brazil,Poland,2,1,Friendly,Rio de Janeiro,Brazil,False
+1966-06-08,Brazil,Peru,3,1,Friendly,Rio de Janeiro,Brazil,False
+1966-06-12,Brazil,Czechoslovakia,2,1,Friendly,Rio de Janeiro,Brazil,False
+1966-06-15,Brazil,Czechoslovakia,2,2,Friendly,Rio de Janeiro,Brazil,False
+1966-06-25,Scotland,Brazil,1,1,Friendly,Glasgow,Scotland,False
+1966-06-30,Sweden,Brazil,2,3,Friendly,Gothenburg,Sweden,False
+1966-07-12,Brazil,Bulgaria,2,0,FIFA World Cup,Liverpool,England,True
+1966-07-15,Brazil,Hungary,1,3,FIFA World Cup,Liverpool,England,True
+1966-07-19,Brazil,Portugal,1,3,FIFA World Cup,Liverpool,England,True
+1967-06-25,Uruguay,Brazil,0,0,Copa Rio Branco,Montevideo,Uruguay,False
+1967-06-28,Uruguay,Brazil,2,2,Copa Rio Branco,Montevideo,Uruguay,False
+1967-07-01,Uruguay,Brazil,1,1,Copa Rio Branco,Montevideo,Uruguay,False
+1967-09-19,Chile,Brazil,0,1,Friendly,Santiago,Chile,False
+1968-06-09,Brazil,Uruguay,2,0,Copa Rio Branco,São Paulo,Brazil,False
+1968-06-12,Brazil,Uruguay,4,0,Copa Rio Branco,Rio de Janeiro,Brazil,False
+1968-06-16,Germany,Brazil,2,1,Friendly,Stuttgart,Germany,False
+1968-06-20,Poland,Brazil,3,6,Friendly,Warsaw,Poland,False
+1968-06-23,Czechoslovakia,Brazil,3,2,Friendly,Bratislava,Czechoslovakia,False
+1968-06-25,Yugoslavia,Brazil,0,2,Friendly,Belgrade,Yugoslavia,False
+1968-06-30,Portugal,Brazil,0,2,Friendly,Maputo,Mozambique,True
+1968-07-07,Mexico,Brazil,0,2,Friendly,Mexico City,Mexico,False
+1968-07-10,Mexico,Brazil,2,1,Friendly,Mexico City,Mexico,False
+1968-07-14,Peru,Brazil,3,4,Friendly,Lima,Peru,False
+1968-07-17,Peru,Brazil,0,4,Friendly,Lima,Peru,False
+1968-07-25,Paraguay,Brazil,0,4,Copa Oswaldo Cruz,Asunción,Paraguay,False
+1968-07-28,Paraguay,Brazil,1,0,Copa Oswaldo Cruz,Asunción,Paraguay,False
+1968-08-07,Brazil,Argentina,4,1,Friendly,Rio de Janeiro,Brazil,False
+1968-08-11,Brazil,Argentina,3,2,Friendly,Belo Horizonte,Brazil,False
+1968-10-31,Brazil,Mexico,1,2,Friendly,Rio de Janeiro,Brazil,False
+1968-11-03,Brazil,Mexico,2,1,Friendly,Belo Horizonte,Brazil,False
+1968-12-14,Brazil,Germany,2,2,Friendly,Rio de Janeiro,Brazil,False
+1968-12-17,Brazil,Yugoslavia,3,3,Friendly,Rio de Janeiro,Brazil,False
+1968-12-19,Brazil,Yugoslavia,3,2,Friendly,Belo Horizonte,Brazil,False
+1969-04-07,Brazil,Peru,2,1,Friendly,Porto Alegre,Brazil,False
+1969-04-09,Brazil,Peru,3,2,Friendly,Rio de Janeiro,Brazil,False
+1969-06-12,Brazil,England,2,1,Friendly,Rio de Janeiro,Brazil,False
+1969-08-06,Colombia,Brazil,0,2,FIFA World Cup qualification,Bogotá,Colombia,False
+1969-08-10,Venezuela,Brazil,0,5,FIFA World Cup qualification,Caracas,Venezuela,False
+1969-08-17,Paraguay,Brazil,0,3,FIFA World Cup qualification,Asunción,Paraguay,False
+1969-08-21,Brazil,Colombia,6,2,FIFA World Cup qualification,Rio de Janeiro,Brazil,False
+1969-08-24,Brazil,Venezuela,6,0,FIFA World Cup qualification,Rio de Janeiro,Brazil,False
+1969-08-31,Brazil,Paraguay,1,0,FIFA World Cup qualification,Rio de Janeiro,Brazil,False
+1970-03-04,Brazil,Argentina,0,2,Friendly,Porto Alegre,Brazil,False
+1970-03-08,Brazil,Argentina,2,1,Friendly,Rio de Janeiro,Brazil,False
+1970-03-22,Brazil,Chile,5,0,Friendly,São Paulo,Brazil,False
+1970-03-26,Brazil,Chile,2,1,Friendly,Rio de Janeiro,Brazil,False
+1970-04-12,Brazil,Paraguay,0,0,Friendly,Rio de Janeiro,Brazil,False
+1970-04-29,Brazil,Austria,1,0,Friendly,Rio de Janeiro,Brazil,False
+1970-06-03,Brazil,Czechoslovakia,4,1,FIFA World Cup,Guadalajara,Mexico,True
+1970-06-07,Brazil,England,1,0,FIFA World Cup,Guadalajara,Mexico,True
+1970-06-10,Brazil,Romania,3,2,FIFA World Cup,Guadalajara,Mexico,True
+1970-06-14,Brazil,Peru,4,2,FIFA World Cup,Guadalajara,Mexico,True
+1970-06-17,Brazil,Uruguay,3,1,FIFA World Cup,Guadalajara,Mexico,True
+1970-06-21,Brazil,Italy,4,1,FIFA World Cup,Mexico City,Mexico,True
+1970-09-30,Brazil,Mexico,2,1,Friendly,Rio de Janeiro,Brazil,False
+1970-10-04,Chile,Brazil,1,5,Friendly,Santiago,Chile,False
+1971-07-11,Brazil,Austria,1,1,Friendly,São Paulo,Brazil,False
+1971-07-14,Brazil,Czechoslovakia,1,0,Friendly,Rio de Janeiro,Brazil,False
+1971-07-18,Brazil,Yugoslavia,2,2,Friendly,Rio de Janeiro,Brazil,False
+1971-07-24,Brazil,Paraguay,1,0,Friendly,Rio de Janeiro,Brazil,False
+1971-07-28,Argentina,Brazil,1,1,Copa Roca,Buenos Aires,Argentina,False
+1971-07-31,Argentina,Brazil,2,2,Copa Roca,Buenos Aires,Argentina,False
+1972-04-26,Brazil,Paraguay,3,2,Friendly,Porto Alegre,Brazil,False
+1972-06-28,Brazil,Czechoslovakia,0,0,Brazil Independence Cup,Rio de Janeiro,Brazil,False
+1972-07-02,Brazil,Yugoslavia,3,0,Brazil Independence Cup,São Paulo,Brazil,False
+1972-07-05,Brazil,Scotland,1,0,Brazil Independence Cup,Rio de Janeiro,Brazil,False
+1972-07-09,Brazil,Portugal,1,0,Brazil Independence Cup,Rio de Janeiro,Brazil,False
+1973-05-27,Brazil,Bolivia,5,0,Friendly,Rio de Janeiro,Brazil,False
+1973-06-03,Algeria,Brazil,0,2,Friendly,Algiers,Algeria,False
+1973-06-06,Tunisia,Brazil,1,4,Friendly,Tunis,Tunisia,False
+1973-06-09,Italy,Brazil,2,0,Friendly,Rome,Italy,False
+1973-06-13,Austria,Brazil,1,1,Friendly,Vienna,Austria,False
+1973-06-16,Germany,Brazil,0,1,Friendly,Berlin,Germany,False
+1973-06-21,Russia,Brazil,0,1,Friendly,Moscow,Soviet Union,False
+1973-06-25,Sweden,Brazil,1,0,Friendly,Solna,Sweden,False
+1973-06-30,Scotland,Brazil,0,1,Friendly,Glasgow,Scotland,False
+1973-07-03,Republic of Ireland,Brazil,3,4,Friendly,Dublin,Republic of Ireland,False
+1974-03-31,Brazil,Mexico,1,1,Friendly,Rio de Janeiro,Brazil,False
+1974-04-07,Brazil,Czechoslovakia,1,0,Friendly,Rio de Janeiro,Brazil,False
+1974-04-14,Brazil,Bulgaria,1,0,Friendly,Rio de Janeiro,Brazil,False
+1974-04-17,Brazil,Romania,2,0,Friendly,São Paulo,Brazil,False
+1974-04-21,Brazil,Haiti,4,0,Friendly,Brasília,Brazil,False
+1974-04-28,Brazil,Greece,0,0,Friendly,Rio de Janeiro,Brazil,False
+1974-05-01,Brazil,Austria,0,0,Friendly,São Paulo,Brazil,False
+1974-05-05,Brazil,Republic of Ireland,2,1,Friendly,Rio de Janeiro,Brazil,False
+1974-05-12,Brazil,Paraguay,2,0,Friendly,Rio de Janeiro,Brazil,False
+1974-06-13,Brazil,Yugoslavia,0,0,FIFA World Cup,Frankfurt am Main,Germany,True
+1974-06-18,Scotland,Brazil,0,0,FIFA World Cup,Frankfurt am Main,Germany,True
+1974-06-22,DR Congo,Brazil,0,3,FIFA World Cup,Gelsenkirchen,Germany,True
+1974-06-26,Brazil,German DR,1,0,FIFA World Cup,Hanover,Germany,True
+1974-06-30,Argentina,Brazil,1,2,FIFA World Cup,Hanover,Germany,True
+1974-07-03,Netherlands,Brazil,2,0,FIFA World Cup,Dortmund,Germany,True
+1974-07-06,Brazil,Poland,0,1,FIFA World Cup,Munich,Germany,True
+1975-03-09,Brazil,Portugal,2,1,Friendly,Goiânia,Brazil,False
+1975-07-31,Venezuela,Brazil,0,4,Copa América,Caracas,Venezuela,False
+1975-08-06,Brazil,Argentina,2,1,Copa América,Belo Horizonte,Brazil,False
+1975-08-13,Brazil,Venezuela,6,0,Copa América,Belo Horizonte,Brazil,False
+1975-08-16,Argentina,Brazil,0,1,Copa América,Rosario,Argentina,False
+1975-09-30,Brazil,Peru,1,3,Copa América,Belo Horizonte,Brazil,False
+1975-10-04,Peru,Brazil,0,2,Copa América,Lima,Peru,False
+1976-02-25,Uruguay,Brazil,1,2,Copa Rio Branco,Montevideo,Uruguay,False
+1976-02-27,Argentina,Brazil,1,2,Copa Roca,Buenos Aires,Argentina,False
+1976-04-07,Paraguay,Brazil,1,1,Copa Oswaldo Cruz,Asunción,Paraguay,False
+1976-04-28,Brazil,Uruguay,2,1,Copa Rio Branco,Rio de Janeiro,Brazil,False
+1976-05-19,Brazil,Argentina,2,0,Copa Roca,Rio de Janeiro,Brazil,False
+1976-05-23,Brazil,England,1,0,Friendly,Los Angeles,United States,True
+1976-05-31,Brazil,Italy,4,1,Friendly,New Haven,United States,True
+1976-06-04,Mexico,Brazil,0,3,Friendly,Guadalajara,Mexico,False
+1976-06-09,Brazil,Paraguay,3,1,Copa Oswaldo Cruz,Rio de Janeiro,Brazil,False
+1976-12-01,Brazil,Russia,2,0,Friendly,Rio de Janeiro,Brazil,False
+1977-01-23,Brazil,Bulgaria,1,0,Friendly,São Paulo,Brazil,False
+1977-02-20,Colombia,Brazil,0,0,FIFA World Cup qualification,Bogotá,Colombia,False
+1977-03-09,Brazil,Colombia,6,0,FIFA World Cup qualification,Rio de Janeiro,Brazil,False
+1977-03-13,Paraguay,Brazil,0,1,FIFA World Cup qualification,Asunción,Paraguay,False
+1977-03-20,Brazil,Paraguay,1,1,FIFA World Cup qualification,Rio de Janeiro,Brazil,False
+1977-06-08,Brazil,England,0,0,Friendly,Rio de Janeiro,Brazil,False
+1977-06-12,Brazil,Germany,1,1,Friendly,Rio de Janeiro,Brazil,False
+1977-06-19,Brazil,Poland,3,1,Friendly,São Paulo,Brazil,False
+1977-06-23,Brazil,Scotland,2,0,Friendly,Rio de Janeiro,Brazil,False
+1977-06-26,Brazil,Yugoslavia,0,0,Friendly,Belo Horizonte,Brazil,False
+1977-06-30,Brazil,France,2,2,Friendly,Rio de Janeiro,Brazil,False
+1977-07-10,Peru,Brazil,0,1,FIFA World Cup qualification,Cali,Colombia,True
+1977-07-14,Brazil,Bolivia,8,0,FIFA World Cup qualification,Cali,Colombia,True
+1978-04-01,France,Brazil,1,0,Friendly,Paris,France,False
+1978-04-05,Germany,Brazil,0,1,Friendly,Hamburg,Germany,False
+1978-04-19,England,Brazil,1,1,Friendly,London,England,False
+1978-05-01,Brazil,Peru,3,0,Friendly,Rio de Janeiro,Brazil,False
+1978-05-17,Brazil,Czechoslovakia,2,0,Friendly,Rio de Janeiro,Brazil,False
+1978-06-03,Brazil,Sweden,1,1,FIFA World Cup,Mar del Plata,Argentina,True
+1978-06-07,Brazil,Spain,0,0,FIFA World Cup,Mar del Plata,Argentina,True
+1978-06-11,Austria,Brazil,0,1,FIFA World Cup,Mar del Plata,Argentina,True
+1978-06-14,Brazil,Peru,3,0,FIFA World Cup,Mendoza,Argentina,True
+1978-06-18,Argentina,Brazil,0,0,FIFA World Cup,Rosario,Argentina,False
+1978-06-21,Brazil,Poland,3,1,FIFA World Cup,Mendoza,Argentina,True
+1978-06-24,Brazil,Italy,2,1,FIFA World Cup,Buenos Aires,Argentina,True
+1979-05-17,Brazil,Paraguay,6,0,Friendly,Rio de Janeiro,Brazil,False
+1979-05-31,Brazil,Uruguay,5,1,Friendly,Rio de Janeiro,Brazil,False
+1979-07-26,Bolivia,Brazil,2,1,Copa América,La Paz,Bolivia,False
+1979-08-02,Brazil,Argentina,2,1,Copa América,Rio de Janeiro,Brazil,False
+1979-08-16,Brazil,Bolivia,2,0,Copa América,São Paulo,Brazil,False
+1979-08-23,Argentina,Brazil,2,2,Copa América,Buenos Aires,Argentina,False
+1979-10-24,Paraguay,Brazil,2,1,Copa América,Asunción,Paraguay,False
+1979-10-31,Brazil,Paraguay,2,2,Copa América,Rio de Janeiro,Brazil,False
+1980-06-08,Brazil,Mexico,2,0,Friendly,Rio de Janeiro,Brazil,False
+1980-06-15,Brazil,Russia,1,2,Friendly,Rio de Janeiro,Brazil,False
+1980-06-24,Brazil,Chile,2,1,Friendly,Belo Horizonte,Brazil,False
+1980-06-29,Brazil,Poland,1,1,Friendly,São Paulo,Brazil,False
+1980-08-27,Brazil,Uruguay,1,0,Friendly,Fortaleza,Brazil,False
+1980-09-25,Paraguay,Brazil,1,2,Friendly,Asunción,Paraguay,False
+1980-10-30,Brazil,Paraguay,6,0,Friendly,Goiânia,Brazil,False
+1980-12-21,Brazil,Switzerland,2,0,Friendly,Cuiabá,Brazil,False
+1981-01-04,Argentina,Brazil,1,1,Mundialito,Montevideo,Uruguay,True
+1981-01-07,Brazil,Germany,4,1,Mundialito,Montevideo,Uruguay,True
+1981-01-10,Uruguay,Brazil,2,1,Mundialito,Montevideo,Uruguay,False
+1981-02-01,Colombia,Brazil,1,1,Friendly,Bogotá,Colombia,False
+1981-02-08,Venezuela,Brazil,0,1,FIFA World Cup qualification,Caracas,Venezuela,False
+1981-02-14,Ecuador,Brazil,0,6,Friendly,Quito,Ecuador,False
+1981-02-22,Bolivia,Brazil,1,2,FIFA World Cup qualification,La Paz,Bolivia,False
+1981-03-14,Brazil,Chile,2,1,Friendly,Ribeirão Preto,Brazil,False
+1981-03-22,Brazil,Bolivia,3,1,FIFA World Cup qualification,Rio de Janeiro,Brazil,False
+1981-03-29,Brazil,Venezuela,5,0,FIFA World Cup qualification,Goiânia,Brazil,False
+1981-05-12,England,Brazil,0,1,Friendly,London,England,False
+1981-05-15,France,Brazil,1,3,Friendly,Paris,France,False
+1981-05-19,Germany,Brazil,1,2,Friendly,Stuttgart,Germany,False
+1981-07-08,Brazil,Spain,1,0,Friendly,Salvador,Brazil,False
+1981-08-26,Chile,Brazil,0,0,Friendly,Santiago,Chile,False
+1981-10-28,Brazil,Bulgaria,3,0,Friendly,Porto Alegre,Brazil,False
+1982-01-26,Brazil,German DR,3,1,Friendly,Natal,Brazil,False
+1982-03-03,Brazil,Czechoslovakia,1,1,Friendly,São Paulo,Brazil,False
+1982-03-21,Brazil,Germany,1,0,Friendly,Rio de Janeiro,Brazil,False
+1982-05-05,Brazil,Portugal,3,1,Friendly,São Luís,Brazil,False
+1982-05-19,Brazil,Switzerland,1,1,Friendly,Recife,Brazil,False
+1982-05-27,Brazil,Republic of Ireland,7,0,Friendly,Uberlândia,Brazil,False
+1982-06-14,Brazil,Russia,2,1,FIFA World Cup,Seville,Spain,True
+1982-06-18,Brazil,Scotland,4,1,FIFA World Cup,Seville,Spain,True
+1982-06-23,Brazil,New Zealand,4,0,FIFA World Cup,Seville,Spain,True
+1982-07-02,Argentina,Brazil,1,3,FIFA World Cup,Barcelona,Spain,True
+1982-07-05,Italy,Brazil,3,2,FIFA World Cup,Barcelona,Spain,True
+1983-04-28,Brazil,Chile,3,2,Friendly,Rio de Janeiro,Brazil,False
+1983-06-08,Portugal,Brazil,0,4,Friendly,Coimbra,Portugal,False
+1983-06-12,Wales,Brazil,1,1,Friendly,Cardiff,Wales,False
+1983-06-17,Switzerland,Brazil,1,2,Friendly,Basel,Switzerland,False
+1983-06-22,Sweden,Brazil,3,3,Friendly,Gothenburg,Sweden,False
+1983-07-28,Chile,Brazil,0,0,Friendly,Santiago,Chile,False
+1983-08-17,Ecuador,Brazil,0,1,Copa América,Quito,Ecuador,False
+1983-08-24,Argentina,Brazil,1,0,Copa América,Buenos Aires,Argentina,False
+1983-09-01,Brazil,Ecuador,5,0,Copa América,Goiânia,Brazil,False
+1983-09-14,Brazil,Argentina,0,0,Copa América,Rio de Janeiro,Brazil,False
+1983-10-13,Paraguay,Brazil,1,1,Copa América,Asunción,Paraguay,False
+1983-10-20,Brazil,Paraguay,0,0,Copa América,Uberlândia,Brazil,False
+1983-10-27,Uruguay,Brazil,2,0,Copa América,Montevideo,Uruguay,False
+1983-11-04,Brazil,Uruguay,1,1,Copa América,Salvador,Brazil,False
+1984-06-10,Brazil,England,0,2,Friendly,Rio de Janeiro,Brazil,False
+1984-06-17,Brazil,Argentina,0,0,Friendly,São Paulo,Brazil,False
+1984-06-21,Brazil,Uruguay,1,0,Friendly,Curitiba,Brazil,False
+1985-04-25,Brazil,Colombia,2,1,Friendly,Belo Horizonte,Brazil,False
+1985-04-28,Brazil,Peru,0,1,Friendly,Brasília,Brazil,False
+1985-05-02,Brazil,Uruguay,2,0,Friendly,Recife,Brazil,False
+1985-05-05,Brazil,Argentina,2,1,Friendly,Salvador,Brazil,False
+1985-05-15,Colombia,Brazil,1,0,Friendly,Bogotá,Colombia,False
+1985-05-21,Chile,Brazil,2,1,Friendly,Santiago,Chile,False
+1985-06-02,Bolivia,Brazil,0,2,FIFA World Cup qualification,Santa Cruz,Bolivia,False
+1985-06-08,Brazil,Chile,3,1,Friendly,Porto Alegre,Brazil,False
+1985-06-16,Paraguay,Brazil,0,2,FIFA World Cup qualification,Asunción,Paraguay,False
+1985-06-23,Brazil,Paraguay,1,1,FIFA World Cup qualification,Rio de Janeiro,Brazil,False
+1985-06-30,Brazil,Bolivia,1,1,FIFA World Cup qualification,São Paulo,Brazil,False
+1986-03-12,Germany,Brazil,2,0,Friendly,Frankfurt am Main,Germany,False
+1986-03-16,Hungary,Brazil,3,0,Friendly,Budapest,Hungary,False
+1986-04-01,Brazil,Peru,4,0,Friendly,São Luís,Brazil,False
+1986-04-08,Brazil,German DR,3,0,Friendly,Goiânia,Brazil,False
+1986-04-17,Brazil,Finland,3,0,Friendly,Brasília,Brazil,False
+1986-04-30,Brazil,Yugoslavia,4,2,Friendly,Recife,Brazil,False
+1986-05-07,Brazil,Chile,1,1,Friendly,Curitiba,Brazil,False
+1986-06-01,Spain,Brazil,0,1,FIFA World Cup,Guadalajara,Mexico,True
+1986-06-06,Brazil,Algeria,1,0,FIFA World Cup,Guadalajara,Mexico,True
+1986-06-12,Northern Ireland,Brazil,0,3,FIFA World Cup,Guadalajara,Mexico,True
+1986-06-16,Brazil,Poland,4,0,FIFA World Cup,Guadalajara,Mexico,True
+1986-06-21,Brazil,France,1,1,FIFA World Cup,Guadalajara,Mexico,True
+1987-05-19,England,Brazil,1,1,Rous Cup,London,England,False
+1987-05-23,Republic of Ireland,Brazil,1,0,Friendly,Dublin,Republic of Ireland,False
+1987-05-26,Scotland,Brazil,0,2,Rous Cup,Glasgow,Scotland,False
+1987-05-28,Finland,Brazil,2,3,Friendly,Helsinki,Finland,False
+1987-06-01,Israel,Brazil,0,4,Friendly,Ramat Gan,Israel,False
+1987-06-21,Brazil,Ecuador,4,1,Friendly,Florianópolis,Brazil,False
+1987-06-28,Brazil,Venezuela,5,0,Copa América,Córdoba,Argentina,True
+1987-07-03,Chile,Brazil,4,0,Copa América,Córdoba,Argentina,True
+1987-12-09,Brazil,Chile,2,1,Friendly,Uberlândia,Brazil,False
+1987-12-12,Brazil,Germany,1,1,Friendly,Brasília,Brazil,False
+1988-07-07,Australia,Brazil,0,1,Friendly,Melbourne,Australia,False
+1988-07-10,Argentina,Brazil,0,0,Friendly,Melbourne,Australia,True
+1988-07-13,Brazil,Saudi Arabia,4,1,Friendly,Melbourne,Australia,True
+1988-07-17,Australia,Brazil,0,2,Friendly,Sydney,Australia,False
+1988-07-28,Norway,Brazil,1,1,Friendly,Oslo,Norway,False
+1988-08-03,Austria,Brazil,0,2,Friendly,Vienna,Austria,False
+1988-10-12,Belgium,Brazil,1,2,Friendly,Antwerp,Belgium,False
+1989-03-15,Brazil,Ecuador,1,0,Friendly,Cuiabá,Brazil,False
+1989-04-12,Brazil,Paraguay,2,0,Friendly,Teresina,Brazil,False
+1989-05-10,Brazil,Peru,4,1,Friendly,Fortaleza,Brazil,False
+1989-05-24,Peru,Brazil,1,1,Friendly,Lima,Peru,False
+1989-06-08,Brazil,Portugal,4,0,Friendly,Rio de Janeiro,Brazil,False
+1989-06-16,Brazil,Sweden,1,2,Friendly,Copenhagen,Denmark,True
+1989-06-18,Denmark,Brazil,4,0,Friendly,Copenhagen,Denmark,False
+1989-06-21,Switzerland,Brazil,1,0,Friendly,Basel,Switzerland,False
+1989-07-01,Brazil,Venezuela,3,1,Copa América,Salvador,Brazil,False
+1989-07-03,Brazil,Peru,0,0,Copa América,Salvador,Brazil,False
+1989-07-07,Brazil,Colombia,0,0,Copa América,Salvador,Brazil,False
+1989-07-09,Brazil,Paraguay,2,0,Copa América,Recife,Brazil,False
+1989-07-12,Brazil,Argentina,2,0,Copa América,Rio de Janeiro,Brazil,False
+1989-07-14,Brazil,Paraguay,3,0,Copa América,Rio de Janeiro,Brazil,False
+1989-07-16,Brazil,Uruguay,1,0,Copa América,Rio de Janeiro,Brazil,False
+1989-07-23,Brazil,Japan,1,0,Friendly,Rio de Janeiro,Brazil,False
+1989-07-30,Venezuela,Brazil,0,4,FIFA World Cup qualification,Caracas,Venezuela,False
+1989-08-13,Chile,Brazil,1,1,FIFA World Cup qualification,Santiago,Chile,False
+1989-08-20,Brazil,Venezuela,6,0,FIFA World Cup qualification,São Paulo,Brazil,False
+1989-09-03,Brazil,Chile,1,0,FIFA World Cup qualification,Rio de Janeiro,Brazil,False
+1989-10-14,Italy,Brazil,0,1,Friendly,Bologna,Italy,False
+1989-11-14,Brazil,Yugoslavia,0,0,Friendly,João Pessoa,Brazil,False
+1989-12-20,Netherlands,Brazil,0,1,Friendly,Rotterdam,Netherlands,False
+1990-03-28,England,Brazil,1,0,Friendly,London,England,False
+1990-05-05,Brazil,Bulgaria,2,1,Friendly,Campinas,Brazil,False
+1990-05-13,Brazil,German DR,3,3,Friendly,Rio de Janeiro,Brazil,False
+1990-06-10,Brazil,Sweden,2,1,FIFA World Cup,Turin,Italy,True
+1990-06-16,Brazil,Costa Rica,1,0,FIFA World Cup,Turin,Italy,True
+1990-06-20,Brazil,Scotland,1,0,FIFA World Cup,Turin,Italy,True
+1990-06-24,Brazil,Argentina,0,1,FIFA World Cup,Turin,Italy,True
+1990-09-12,Spain,Brazil,3,0,Friendly,Gijón,Spain,False
+1990-11-08,Brazil,Chile,0,0,Friendly,Belém,Brazil,False
+1990-12-12,Mexico,Brazil,0,0,Friendly,Los Angeles,United States,True
+1991-02-27,Brazil,Paraguay,1,1,Friendly,Campo Grande,Brazil,False
+1991-03-27,Argentina,Brazil,3,3,Friendly,Buenos Aires,Argentina,False
+1991-05-28,Brazil,Bulgaria,3,0,Friendly,Uberlândia,Brazil,False
+1991-06-27,Brazil,Argentina,1,1,Friendly,Curitiba,Brazil,False
+1991-07-09,Bolivia,Brazil,1,2,Copa América,Viña del Mar,Chile,True
+1991-07-11,Brazil,Uruguay,1,1,Copa América,Viña del Mar,Chile,True
+1991-07-13,Brazil,Colombia,0,2,Copa América,Viña del Mar,Chile,True
+1991-07-15,Brazil,Ecuador,3,1,Copa América,Viña del Mar,Chile,True
+1991-07-17,Argentina,Brazil,3,2,Copa América,Santiago,Chile,True
+1991-07-19,Brazil,Colombia,2,0,Copa América,Santiago,Chile,True
+1991-07-21,Chile,Brazil,0,2,Copa América,Santiago,Chile,False
+1991-09-11,Wales,Brazil,1,0,Friendly,Cardiff,Wales,False
+1991-10-30,Brazil,Yugoslavia,3,1,Friendly,Varginha,Brazil,False
+1991-12-18,Brazil,Czechoslovakia,2,1,Friendly,Goiânia,Brazil,False
+1992-02-26,Brazil,United States,3,0,Friendly,Fortaleza,Brazil,False
+1992-04-15,Brazil,Finland,3,1,Friendly,Cuiabá,Brazil,False
+1992-04-30,Uruguay,Brazil,1,0,Friendly,Montevideo,Uruguay,False
+1992-05-17,England,Brazil,1,1,Friendly,London,England,False
+1992-07-31,Brazil,Mexico,5,0,Friendly,Los Angeles,United States,True
+1992-08-02,United States,Brazil,0,1,Friendly,Los Angeles,United States,False
+1992-08-26,France,Brazil,0,2,Friendly,Paris,France,False
+1992-09-23,Brazil,Costa Rica,4,2,Friendly,Paranavaí,Brazil,False
+1992-11-25,Brazil,Uruguay,1,2,Friendly,Campina Grande,Brazil,False
+1992-12-16,Brazil,Germany,3,1,Friendly,Porto Alegre,Brazil,False
+1993-02-18,Argentina,Brazil,1,1,Friendly,Buenos Aires,Argentina,False
+1993-03-17,Brazil,Poland,2,2,Friendly,Ribeirão Preto,Brazil,False
+1993-06-06,United States,Brazil,0,2,USA Cup,New Haven,United States,False
+1993-06-10,Brazil,Germany,3,3,USA Cup,"Washington, D.C.",United States,True
+1993-06-13,Brazil,England,1,1,USA Cup,"Washington, D.C.",United States,True
+1993-06-18,Brazil,Peru,0,0,Copa América,Cuenca,Ecuador,True
+1993-06-21,Brazil,Chile,2,3,Copa América,Cuenca,Ecuador,True
+1993-06-24,Brazil,Paraguay,3,0,Copa América,Cuenca,Ecuador,True
+1993-06-27,Brazil,Argentina,1,1,Copa América,Guayaquil,Ecuador,True
+1993-07-14,Brazil,Paraguay,2,0,Friendly,Rio de Janeiro,Brazil,False
+1993-07-18,Ecuador,Brazil,0,0,FIFA World Cup qualification,Guayaquil,Ecuador,False
+1993-07-25,Bolivia,Brazil,2,0,FIFA World Cup qualification,La Paz,Bolivia,False
+1993-08-01,Venezuela,Brazil,1,5,FIFA World Cup qualification,San Cristóbal,Venezuela,False
+1993-08-08,Brazil,Mexico,1,1,Friendly,Maceió,Brazil,False
+1993-08-15,Uruguay,Brazil,1,1,FIFA World Cup qualification,Montevideo,Uruguay,False
+1993-08-22,Brazil,Ecuador,2,0,FIFA World Cup qualification,São Paulo,Brazil,False
+1993-08-29,Brazil,Bolivia,6,0,FIFA World Cup qualification,Recife,Brazil,False
+1993-09-05,Brazil,Venezuela,4,0,FIFA World Cup qualification,Belo Horizonte,Brazil,False
+1993-09-19,Brazil,Uruguay,2,0,FIFA World Cup qualification,Rio de Janeiro,Brazil,False
+1993-11-17,Germany,Brazil,2,1,Friendly,Cologne,Germany,False
+1993-12-16,Mexico,Brazil,0,1,Friendly,Guadalajara,Mexico,False
+1994-03-23,Brazil,Argentina,2,0,Friendly,Recife,Brazil,False
+1994-05-04,Brazil,Iceland,3,0,Friendly,Florianópolis,Brazil,False
+1994-06-05,Canada,Brazil,1,1,Friendly,Edmonton,Canada,False
+1994-06-08,Honduras,Brazil,2,8,Friendly,San Diego,United States,True
+1994-06-12,El Salvador,Brazil,0,4,Friendly,Fresno,United States,True
+1994-06-20,Brazil,Russia,2,0,FIFA World Cup,Palo Alto,United States,True
+1994-06-24,Brazil,Cameroon,3,0,FIFA World Cup,Palo Alto,United States,True
+1994-06-28,Brazil,Sweden,1,1,FIFA World Cup,Pontiac,United States,True
+1994-07-04,United States,Brazil,0,1,FIFA World Cup,Palo Alto,United States,False
+1994-07-09,Netherlands,Brazil,2,3,FIFA World Cup,Dallas,United States,True
+1994-07-13,Sweden,Brazil,0,1,FIFA World Cup,Pasadena,United States,True
+1994-07-17,Brazil,Italy,0,0,FIFA World Cup,Pasadena,United States,True
+1994-12-23,Brazil,Serbia,2,0,Friendly,Porto Alegre,Brazil,False
+1995-02-22,Brazil,Slovakia,5,0,Friendly,Fortaleza,Brazil,False
+1995-03-29,Brazil,Honduras,1,1,Friendly,Goiânia,Brazil,False
+1995-05-17,Israel,Brazil,1,2,Friendly,Ramat Gan,Israel,False
+1995-06-04,Brazil,Sweden,1,0,Friendly,Birmingham,England,True
+1995-06-06,Brazil,Japan,3,0,Friendly,Liverpool,England,True
+1995-06-11,England,Brazil,1,3,Friendly,London,England,False
+1995-06-29,Brazil,Poland,2,1,Friendly,Recife,Brazil,False
+1995-07-07,Brazil,Ecuador,1,0,Copa América,Rivera,Uruguay,True
+1995-07-10,Brazil,Peru,2,0,Copa América,Rivera,Uruguay,True
+1995-07-13,Brazil,Colombia,3,0,Copa América,Rivera,Uruguay,True
+1995-07-17,Brazil,Argentina,2,2,Copa América,Rivera,Uruguay,True
+1995-07-20,United States,Brazil,0,1,Copa América,Maldonado,Uruguay,True
+1995-07-23,Uruguay,Brazil,1,1,Copa América,Montevideo,Uruguay,False
+1995-08-09,Japan,Brazil,1,5,Friendly,Tokyo,Japan,False
+1995-08-12,South Korea,Brazil,0,1,Friendly,Suwon,South Korea,False
+1995-10-11,Brazil,Uruguay,2,0,Friendly,Salvador,Brazil,False
+1995-11-08,Argentina,Brazil,0,1,Friendly,Buenos Aires,Argentina,False
+1995-12-20,Brazil,Colombia,3,1,Friendly,Manaus,Brazil,False
+1996-01-12,Brazil,Canada,4,1,Gold Cup,Los Angeles,United States,True
+1996-01-14,Honduras,Brazil,0,5,Gold Cup,Los Angeles,United States,True
+1996-01-18,United States,Brazil,0,1,Gold Cup,Los Angeles,United States,False
+1996-01-21,Mexico,Brazil,2,0,Gold Cup,Los Angeles,United States,True
+1996-03-27,Brazil,Ghana,8,2,Friendly,São José do Rio Preto,Brazil,False
+1996-04-24,South Africa,Brazil,2,3,Friendly,Johannesburg,South Africa,False
+1996-08-28,Russia,Brazil,2,2,Friendly,Moscow,Russia,False
+1996-08-31,Netherlands,Brazil,2,2,Friendly,Amsterdam,Netherlands,False
+1996-10-16,Brazil,Lithuania,3,1,Friendly,Teresina,Brazil,False
+1996-11-13,Brazil,Cameroon,2,0,Friendly,Curitiba,Brazil,False
+1996-12-18,Brazil,Bosnia and Herzegovina,1,0,Friendly,Manaus,Brazil,False
+1997-02-26,Brazil,Poland,4,2,Friendly,Goiânia,Brazil,False
+1997-04-02,Brazil,Chile,4,0,Friendly,Brasília,Brazil,False
+1997-04-30,Brazil,Mexico,4,0,Friendly,Miami,United States,True
+1997-05-30,Norway,Brazil,4,2,Friendly,Oslo,Norway,False
+1997-06-03,France,Brazil,1,1,Tournoi de France,Lyon,France,False
+1997-06-08,Italy,Brazil,3,3,Tournoi de France,Lyon,France,True
+1997-06-10,England,Brazil,0,1,Tournoi de France,Paris,France,True
+1997-06-13,Brazil,Costa Rica,5,0,Copa América,Santa Cruz,Bolivia,True
+1997-06-16,Brazil,Mexico,3,2,Copa América,Santa Cruz,Bolivia,True
+1997-06-19,Brazil,Colombia,2,0,Copa América,Santa Cruz,Bolivia,True
+1997-06-22,Brazil,Paraguay,2,0,Copa América,Santa Cruz,Bolivia,True
+1997-06-26,Brazil,Peru,7,0,Copa América,Santa Cruz,Bolivia,True
+1997-06-29,Bolivia,Brazil,1,3,Copa América,La Paz,Bolivia,False
+1997-08-10,South Korea,Brazil,1,2,Friendly,Seoul,South Korea,False
+1997-08-13,Japan,Brazil,0,3,Friendly,Osaka,Japan,False
+1997-09-10,Brazil,Ecuador,4,2,Friendly,Salvador,Brazil,False
+1997-10-09,Brazil,Morocco,2,0,Friendly,Belém,Brazil,False
+1997-11-11,Brazil,Wales,3,0,Friendly,Brasília,Brazil,False
+1997-12-07,South Africa,Brazil,1,2,Friendly,Johannesburg,South Africa,False
+1997-12-12,Saudi Arabia,Brazil,0,3,Confederations Cup,Riyadh,Saudi Arabia,False
+1997-12-14,Australia,Brazil,0,0,Confederations Cup,Riyadh,Saudi Arabia,True
+1997-12-16,Brazil,Mexico,3,2,Confederations Cup,Riyadh,Saudi Arabia,True
+1997-12-19,Brazil,Czech Republic,2,0,Confederations Cup,Riyadh,Saudi Arabia,True
+1997-12-21,Brazil,Australia,6,0,Confederations Cup,Riyadh,Saudi Arabia,True
+1998-02-03,Brazil,Jamaica,0,0,Gold Cup,Miami,United States,True
+1998-02-05,Brazil,Guatemala,1,1,Gold Cup,Miami,United States,True
+1998-02-08,El Salvador,Brazil,0,4,Gold Cup,Los Angeles,United States,True
+1998-02-10,United States,Brazil,1,0,Gold Cup,Los Angeles,United States,False
+1998-02-15,Brazil,Jamaica,1,0,Gold Cup,Los Angeles,United States,True
+1998-03-25,Germany,Brazil,1,2,Friendly,Stuttgart,Germany,False
+1998-04-29,Brazil,Argentina,0,1,Friendly,Rio de Janeiro,Brazil,False
+1998-06-03,Andorra,Brazil,0,3,Friendly,Saint-Ouen,France,True
+1998-06-10,Brazil,Scotland,2,1,FIFA World Cup,Saint-Denis,France,True
+1998-06-16,Brazil,Morocco,3,0,FIFA World Cup,Nantes,France,True
+1998-06-23,Brazil,Norway,1,2,FIFA World Cup,Marseille,France,True
+1998-06-27,Brazil,Chile,4,1,FIFA World Cup,Paris,France,True
+1998-07-03,Brazil,Denmark,3,2,FIFA World Cup,Nantes,France,True
+1998-07-07,Brazil,Netherlands,1,1,FIFA World Cup,Marseille,France,True
+1998-07-12,France,Brazil,3,0,FIFA World Cup,Saint-Denis,France,False
+1998-09-23,Brazil,Serbia,1,1,Friendly,São Luís,Brazil,False
+1998-10-14,Brazil,Ecuador,5,1,Friendly,"Washington, D.C.",United States,True
+1998-11-18,Brazil,Russia,5,1,Friendly,Fortaleza,Brazil,False
+1999-03-28,South Korea,Brazil,1,0,Friendly,Seoul,South Korea,False
+1999-03-31,Japan,Brazil,0,2,Friendly,Tokyo,Japan,False
+1999-06-05,Brazil,Netherlands,2,2,Friendly,Salvador,Brazil,False
+1999-06-08,Brazil,Netherlands,3,1,Friendly,Goiânia,Brazil,False
+1999-06-26,Brazil,Latvia,3,0,Friendly,Curitiba,Brazil,False
+1999-06-30,Brazil,Venezuela,7,0,Copa América,Ciudad del Este,Paraguay,True
+1999-07-03,Brazil,Mexico,2,1,Copa América,Ciudad del Este,Paraguay,True
+1999-07-06,Brazil,Chile,1,0,Copa América,Ciudad del Este,Paraguay,True
+1999-07-11,Brazil,Argentina,2,1,Copa América,Ciudad del Este,Paraguay,True
+1999-07-14,Mexico,Brazil,0,2,Copa América,Ciudad del Este,Paraguay,True
+1999-07-18,Brazil,Uruguay,3,0,Copa América,Asunción,Paraguay,True
+1999-07-24,Brazil,Germany,4,0,Confederations Cup,Guadalajara,Mexico,True
+1999-07-28,Brazil,United States,1,0,Confederations Cup,Guadalajara,Mexico,True
+1999-07-30,New Zealand,Brazil,0,2,Confederations Cup,Guadalajara,Mexico,True
+1999-08-01,Brazil,Saudi Arabia,8,2,Confederations Cup,Guadalajara,Mexico,True
+1999-08-04,Mexico,Brazil,4,3,Confederations Cup,Mexico City,Mexico,False
+1999-09-04,Argentina,Brazil,2,0,Friendly,Buenos Aires,Argentina,False
+1999-09-07,Brazil,Argentina,4,2,Friendly,Porto Alegre,Brazil,False
+1999-10-09,Netherlands,Brazil,2,2,Friendly,Amsterdam,Netherlands,False
+1999-11-13,Spain,Brazil,0,0,Friendly,Vigo,Spain,False
+2000-02-23,Thailand,Brazil,0,7,King's Cup,Bangkok,Thailand,False
+2000-03-28,Colombia,Brazil,0,0,FIFA World Cup qualification,Bogotá,Colombia,False
+2000-04-26,Brazil,Ecuador,3,2,FIFA World Cup qualification,São Paulo,Brazil,False
+2000-05-23,Wales,Brazil,0,3,Friendly,Cardiff,Wales,False
+2000-05-27,England,Brazil,1,1,Friendly,London,England,False
+2000-06-04,Peru,Brazil,0,1,FIFA World Cup qualification,Lima,Peru,False
+2000-06-28,Brazil,Uruguay,1,1,FIFA World Cup qualification,Rio de Janeiro,Brazil,False
+2000-07-18,Paraguay,Brazil,2,1,FIFA World Cup qualification,Asunción,Paraguay,False
+2000-07-26,Brazil,Argentina,3,1,FIFA World Cup qualification,São Paulo,Brazil,False
+2000-08-15,Chile,Brazil,3,0,FIFA World Cup qualification,Santiago,Chile,False
+2000-09-03,Brazil,Bolivia,5,0,FIFA World Cup qualification,Rio de Janeiro,Brazil,False
+2000-10-08,Venezuela,Brazil,0,6,FIFA World Cup qualification,Maracaibo,Venezuela,False
+2000-11-15,Brazil,Colombia,1,0,FIFA World Cup qualification,São Paulo,Brazil,False
+2001-03-03,United States,Brazil,1,2,Friendly,Pasadena,United States,False
+2001-03-07,Mexico,Brazil,3,3,Friendly,Guadalajara,Mexico,False
+2001-03-28,Ecuador,Brazil,1,0,FIFA World Cup qualification,Quito,Ecuador,False
+2001-04-25,Brazil,Peru,1,1,FIFA World Cup qualification,São Paulo,Brazil,False
+2001-05-31,Brazil,Cameroon,2,0,Confederations Cup,Kashima,Japan,True
+2001-06-02,Canada,Brazil,0,0,Confederations Cup,Kashima,Japan,True
+2001-06-04,Japan,Brazil,0,0,Confederations Cup,Kashima,Japan,False
+2001-06-07,France,Brazil,2,1,Confederations Cup,Suwon,South Korea,True
+2001-06-09,Australia,Brazil,1,0,Confederations Cup,Ulsan,South Korea,True
+2001-07-01,Uruguay,Brazil,1,0,FIFA World Cup qualification,Montevideo,Uruguay,False
+2001-07-12,Brazil,Mexico,0,1,Copa América,Cali,Colombia,True
+2001-07-15,Brazil,Peru,2,0,Copa América,Cali,Colombia,True
+2001-07-18,Brazil,Paraguay,3,1,Copa América,Cali,Colombia,True
+2001-07-23,Brazil,Honduras,0,2,Copa América,Manizales,Colombia,True
+2001-08-09,Brazil,Panama,5,0,Friendly,Curitiba,Brazil,False
+2001-08-15,Brazil,Paraguay,2,0,FIFA World Cup qualification,Porto Alegre,Brazil,False
+2001-09-05,Argentina,Brazil,2,1,FIFA World Cup qualification,Buenos Aires,Argentina,False
+2001-10-07,Brazil,Chile,2,0,FIFA World Cup qualification,Curitiba,Brazil,False
+2001-11-07,Bolivia,Brazil,3,1,FIFA World Cup qualification,La Paz,Bolivia,False
+2001-11-14,Brazil,Venezuela,3,0,FIFA World Cup qualification,São Luís,Brazil,False
+2002-01-31,Brazil,Bolivia,6,0,Friendly,Goiânia,Brazil,False
+2002-02-06,Saudi Arabia,Brazil,0,1,Friendly,Riyadh,Saudi Arabia,False
+2002-03-07,Brazil,Iceland,6,1,Friendly,Cuiabá,Brazil,False
+2002-03-27,Brazil,Serbia,1,0,Friendly,Fortaleza,Brazil,False
+2002-04-17,Portugal,Brazil,1,1,Friendly,Lisbon,Portugal,False
+2002-05-18,Catalonia,Brazil,1,3,Friendly,Barcelona,Spain,False
+2002-05-25,Malaysia,Brazil,0,4,Friendly,Kuala Lumpur,Malaysia,False
+2002-06-03,Brazil,Turkey,2,1,FIFA World Cup,Ulsan,South Korea,True
+2002-06-08,Brazil,China PR,4,0,FIFA World Cup,Seogwipo,South Korea,True
+2002-06-13,Costa Rica,Brazil,2,5,FIFA World Cup,Suwon,South Korea,True
+2002-06-17,Brazil,Belgium,2,0,FIFA World Cup,Kobe,Japan,True
+2002-06-21,England,Brazil,1,2,FIFA World Cup,Fukuroi,Japan,True
+2002-06-26,Brazil,Turkey,1,0,FIFA World Cup,Saitama,Japan,True
+2002-06-30,Germany,Brazil,0,2,FIFA World Cup,Yokohama,Japan,True
+2002-08-21,Brazil,Paraguay,0,1,Friendly,Fortaleza,Brazil,False
+2002-11-20,South Korea,Brazil,2,3,Friendly,Seoul,South Korea,False
+2003-02-12,China PR,Brazil,0,0,Friendly,Guangzhou,China PR,False
+2003-03-29,Portugal,Brazil,2,1,Friendly,Porto,Portugal,False
+2003-04-30,Mexico,Brazil,0,0,Friendly,Guadalajara,Mexico,False
+2003-06-11,Nigeria,Brazil,0,3,Friendly,Abuja,Nigeria,False
+2003-06-19,Brazil,Cameroon,0,1,Confederations Cup,Saint-Denis,France,True
+2003-06-21,Brazil,United States,1,0,Confederations Cup,Lyon,France,True
+2003-06-23,Brazil,Turkey,2,2,Confederations Cup,Saint-Étienne,France,True
+2003-07-13,Mexico,Brazil,1,0,Gold Cup,Mexico City,Mexico,False
+2003-07-15,Brazil,Honduras,2,1,Gold Cup,Mexico City,Mexico,True
+2003-07-19,Colombia,Brazil,0,2,Gold Cup,Miami,United States,True
+2003-07-23,United States,Brazil,1,2,Gold Cup,Miami,United States,False
+2003-07-27,Mexico,Brazil,1,0,Gold Cup,Mexico City,Mexico,False
+2003-09-07,Colombia,Brazil,1,2,FIFA World Cup qualification,Barranquilla,Colombia,False
+2003-09-10,Brazil,Ecuador,1,0,FIFA World Cup qualification,Manaus,Brazil,False
+2003-10-12,Brazil,Jamaica,1,0,Friendly,Leicester,England,True
+2003-11-16,Peru,Brazil,1,1,FIFA World Cup qualification,Lima,Peru,False
+2003-11-19,Brazil,Uruguay,3,3,FIFA World Cup qualification,Curitiba,Brazil,False
+2004-02-18,Republic of Ireland,Brazil,0,0,Friendly,Dublin,Republic of Ireland,False
+2004-03-31,Paraguay,Brazil,0,0,FIFA World Cup qualification,Asunción,Paraguay,False
+2004-04-28,Hungary,Brazil,1,4,Friendly,Budapest,Hungary,False
+2004-05-20,France,Brazil,0,0,Friendly,Saint-Denis,France,False
+2004-05-25,Catalonia,Brazil,2,5,Friendly,Barcelona,Spain,False
+2004-06-02,Brazil,Argentina,3,1,FIFA World Cup qualification,Belo Horizonte,Brazil,False
+2004-06-06,Chile,Brazil,1,1,FIFA World Cup qualification,Santiago,Chile,False
+2004-07-08,Brazil,Chile,1,0,Copa América,Arequipa,Peru,True
+2004-07-11,Brazil,Costa Rica,4,1,Copa América,Arequipa,Peru,True
+2004-07-14,Brazil,Paraguay,1,2,Copa América,Arequipa,Peru,True
+2004-07-18,Mexico,Brazil,0,4,Copa América,Piura,Peru,True
+2004-07-21,Uruguay,Brazil,1,1,Copa América,Lima,Peru,True
+2004-07-25,Argentina,Brazil,2,2,Copa América,Lima,Peru,True
+2004-08-18,Haiti,Brazil,0,6,Friendly,Port-au-Prince,Haiti,False
+2004-09-05,Brazil,Bolivia,3,1,FIFA World Cup qualification,São Paulo,Brazil,False
+2004-09-08,Germany,Brazil,1,1,Friendly,Berlin,Germany,False
+2004-10-09,Venezuela,Brazil,2,5,FIFA World Cup qualification,Maracaibo,Venezuela,False
+2004-10-13,Brazil,Colombia,0,0,FIFA World Cup qualification,Maceió,Brazil,False
+2004-11-17,Ecuador,Brazil,1,0,FIFA World Cup qualification,Quito,Ecuador,False
+2005-02-09,Hong Kong,Brazil,1,7,Lunar New Year Cup,So Kon Po,Hong Kong,False
+2005-03-27,Brazil,Peru,1,0,FIFA World Cup qualification,Goiânia,Brazil,False
+2005-03-30,Uruguay,Brazil,1,1,FIFA World Cup qualification,Montevideo,Uruguay,False
+2005-04-27,Brazil,Guatemala,3,0,Friendly,São Paulo,Brazil,False
+2005-06-05,Brazil,Paraguay,4,1,FIFA World Cup qualification,Porto Alegre,Brazil,False
+2005-06-08,Argentina,Brazil,3,1,FIFA World Cup qualification,Buenos Aires,Argentina,False
+2005-06-16,Brazil,Greece,3,0,Confederations Cup,Leipzig,Germany,True
+2005-06-19,Mexico,Brazil,1,0,Confederations Cup,Hanover,Germany,True
+2005-06-22,Japan,Brazil,2,2,Confederations Cup,Cologne,Germany,True
+2005-06-25,Germany,Brazil,2,3,Confederations Cup,Nuremberg,Germany,False
+2005-06-29,Brazil,Argentina,4,1,Confederations Cup,Frankfurt am Main,Germany,True
+2005-08-17,Croatia,Brazil,1,1,Friendly,Split,Croatia,False
+2005-09-04,Brazil,Chile,5,0,FIFA World Cup qualification,Brasília,Brazil,False
+2005-10-09,Bolivia,Brazil,1,1,FIFA World Cup qualification,La Paz,Bolivia,False
+2005-10-12,Brazil,Venezuela,3,0,FIFA World Cup qualification,Belém,Brazil,False
+2005-11-12,United Arab Emirates,Brazil,0,8,Friendly,Abu Dhabi,United Arab Emirates,False
+2006-03-01,Russia,Brazil,0,1,Friendly,Moscow,Russia,False
+2006-06-04,Brazil,New Zealand,4,0,Friendly,Geneva,Switzerland,True
+2006-06-13,Brazil,Croatia,1,0,FIFA World Cup,Berlin,Germany,True
+2006-06-18,Brazil,Australia,2,0,FIFA World Cup,Munich,Germany,True
+2006-06-22,Japan,Brazil,1,4,FIFA World Cup,Dortmund,Germany,True
+2006-06-27,Brazil,Ghana,3,0,FIFA World Cup,Dortmund,Germany,True
+2006-07-01,Brazil,France,0,1,FIFA World Cup,Frankfurt am Main,Germany,True
+2006-08-16,Norway,Brazil,1,1,Friendly,Oslo,Norway,False
+2006-09-03,Argentina,Brazil,0,3,Friendly,London,England,True
+2006-09-05,Wales,Brazil,0,2,Friendly,London,England,True
+2006-10-10,Brazil,Ecuador,2,1,Friendly,Solna,Sweden,True
+2006-11-15,Switzerland,Brazil,1,2,Friendly,Basel,Switzerland,False
+2007-02-06,Portugal,Brazil,2,0,Friendly,London,England,True
+2007-03-24,Brazil,Chile,4,0,Friendly,Gothenburg,Sweden,True
+2007-03-27,Brazil,Ghana,1,0,Friendly,Solna,Sweden,True
+2007-06-01,England,Brazil,1,1,Friendly,London,England,False
+2007-06-05,Turkey,Brazil,0,0,Friendly,Dortmund,Germany,True
+2007-06-27,Brazil,Mexico,0,2,Copa América,Puerto Ordaz,Venezuela,True
+2007-07-01,Brazil,Chile,3,0,Copa América,Maturín,Venezuela,True
+2007-07-04,Brazil,Ecuador,1,0,Copa América,Puerto la Cruz,Venezuela,True
+2007-07-07,Chile,Brazil,1,6,Copa América,Puerto la Cruz,Venezuela,True
+2007-07-10,Uruguay,Brazil,2,2,Copa América,Maracaibo,Venezuela,True
+2007-07-15,Brazil,Argentina,3,0,Copa América,Maracaibo,Venezuela,True
+2007-08-22,Algeria,Brazil,0,2,Friendly,Montpellier,France,True
+2007-09-09,United States,Brazil,2,4,Friendly,Chicago,United States,False
+2007-09-12,Mexico,Brazil,1,3,Friendly,Foxborough,United States,True
+2007-10-14,Colombia,Brazil,0,0,FIFA World Cup qualification,Bogotá,Colombia,False
+2007-10-17,Brazil,Ecuador,5,0,FIFA World Cup qualification,Rio de Janeiro,Brazil,False
+2007-11-18,Peru,Brazil,1,1,FIFA World Cup qualification,Lima,Peru,False
+2007-11-21,Brazil,Uruguay,2,1,FIFA World Cup qualification,São Paulo,Brazil,False
+2008-02-06,Republic of Ireland,Brazil,0,1,Friendly,Dublin,Republic of Ireland,False
+2008-03-26,Brazil,Sweden,1,0,Friendly,London,England,True
+2008-05-31,Brazil,Canada,3,2,Friendly,Seattle,United States,True
+2008-06-06,Brazil,Venezuela,0,2,Friendly,Foxborough,United States,True
+2008-06-15,Paraguay,Brazil,2,0,FIFA World Cup qualification,Asunción,Paraguay,False
+2008-06-18,Brazil,Argentina,0,0,FIFA World Cup qualification,Belo Horizonte,Brazil,False
+2008-09-07,Chile,Brazil,0,3,FIFA World Cup qualification,Santiago,Chile,False
+2008-09-10,Brazil,Bolivia,0,0,FIFA World Cup qualification,Rio de Janeiro,Brazil,False
+2008-10-12,Venezuela,Brazil,0,4,FIFA World Cup qualification,San Cristóbal,Venezuela,False
+2008-10-15,Brazil,Colombia,0,0,FIFA World Cup qualification,Rio de Janeiro,Brazil,False
+2008-11-19,Brazil,Portugal,6,2,Friendly,Gama,Brazil,False
+2009-02-10,Brazil,Italy,2,0,Friendly,London,England,True
+2009-03-29,Ecuador,Brazil,1,1,FIFA World Cup qualification,Quito,Ecuador,False
+2009-04-01,Brazil,Peru,3,0,FIFA World Cup qualification,Porto Alegre,Brazil,False
+2009-06-06,Uruguay,Brazil,0,4,FIFA World Cup qualification,Montevideo,Uruguay,False
+2009-06-10,Brazil,Paraguay,2,1,FIFA World Cup qualification,Recife,Brazil,False
+2009-06-15,Brazil,Egypt,4,3,Confederations Cup,Bloemfontein,South Africa,True
+2009-06-18,United States,Brazil,0,3,Confederations Cup,Pretoria,South Africa,True
+2009-06-21,Italy,Brazil,0,3,Confederations Cup,Pretoria,South Africa,True
+2009-06-25,South Africa,Brazil,0,1,Confederations Cup,Johannesburg,South Africa,False
+2009-06-28,United States,Brazil,2,3,Confederations Cup,Johannesburg,South Africa,True
+2009-08-12,Estonia,Brazil,0,1,Friendly,Tallinn,Estonia,False
+2009-09-05,Argentina,Brazil,1,3,FIFA World Cup qualification,Rosario,Argentina,False
+2009-09-09,Brazil,Chile,4,2,FIFA World Cup qualification,Salvador,Brazil,False
+2009-10-11,Bolivia,Brazil,2,1,FIFA World Cup qualification,La Paz,Bolivia,False
+2009-10-14,Brazil,Venezuela,0,0,FIFA World Cup qualification,Campo Grande,Brazil,False
+2009-11-14,Brazil,England,1,0,Friendly,Doha,Qatar,True
+2009-11-17,Oman,Brazil,0,2,Friendly,Muscat,Oman,False
+2010-03-02,Republic of Ireland,Brazil,0,2,Friendly,London,England,True
+2010-06-02,Zimbabwe,Brazil,0,3,Friendly,Harare,Zimbabwe,False
+2010-06-07,Tanzania,Brazil,1,5,Friendly,Dar es Salaam,Tanzania,False
+2010-06-15,Brazil,North Korea,2,1,FIFA World Cup,Johannesburg,South Africa,True
+2010-06-20,Brazil,Ivory Coast,3,1,FIFA World Cup,Johannesburg,South Africa,True
+2010-06-25,Portugal,Brazil,0,0,FIFA World Cup,Durban,South Africa,True
+2010-06-28,Brazil,Chile,3,0,FIFA World Cup,Johannesburg,South Africa,True
+2010-07-02,Netherlands,Brazil,2,1,FIFA World Cup,Port Elizabeth,South Africa,True
+2010-08-10,United States,Brazil,0,2,Friendly,East Rutherford,United States,False
+2010-10-07,Iran,Brazil,0,3,Friendly,Abu Dhabi,United Arab Emirates,True
+2010-10-11,Brazil,Ukraine,2,0,Friendly,Derby,England,True
+2010-11-17,Argentina,Brazil,1,0,Friendly,Doha,Qatar,True
+2011-02-09,France,Brazil,1,0,Friendly,Saint-Denis,France,False
+2011-03-27,Brazil,Scotland,2,0,Friendly,London,England,True
+2011-06-04,Brazil,Netherlands,0,0,Friendly,Goiânia,Brazil,False
+2011-06-07,Brazil,Romania,1,0,Friendly,São Paulo,Brazil,False
+2011-07-03,Brazil,Venezuela,0,0,Copa América,La Plata,Argentina,True
+2011-07-09,Brazil,Paraguay,2,2,Copa América,Córdoba,Argentina,True
+2011-07-13,Brazil,Ecuador,4,2,Copa América,Córdoba,Argentina,True
+2011-07-17,Brazil,Paraguay,0,0,Copa América,La Plata,Argentina,True
+2011-08-10,Germany,Brazil,3,2,Friendly,Stuttgart,Germany,False
+2011-09-05,Brazil,Ghana,1,0,Friendly,London,England,True
+2011-09-14,Argentina,Brazil,0,0,Superclásico de las Américas,Córdoba,Argentina,False
+2011-09-28,Brazil,Argentina,2,0,Superclásico de las Américas,Belém,Brazil,False
+2011-10-07,Costa Rica,Brazil,0,1,Friendly,San José,Costa Rica,False
+2011-10-11,Mexico,Brazil,1,2,Friendly,Torreón,Mexico,False
+2011-11-10,Gabon,Brazil,0,2,Friendly,Libreville,Gabon,False
+2011-11-14,Brazil,Egypt,2,0,Friendly,Al Rayyan,Qatar,True
+2012-02-28,Bosnia and Herzegovina,Brazil,1,2,Friendly,St. Gallen,Switzerland,True
+2012-05-26,Denmark,Brazil,1,3,Friendly,Hamburg,Germany,True
+2012-05-30,United States,Brazil,1,4,Friendly,"Washington, D.C.",United States,False
+2012-06-03,Mexico,Brazil,2,0,Friendly,Arlington,United States,True
+2012-06-09,Brazil,Argentina,3,4,Friendly,East Rutherford,United States,True
+2012-08-15,Sweden,Brazil,0,3,Friendly,Solna,Sweden,False
+2012-09-07,Brazil,South Africa,1,0,Friendly,São Paulo,Brazil,False
+2012-09-10,Brazil,China PR,8,0,Friendly,Recife,Brazil,False
+2012-09-19,Brazil,Argentina,2,1,Superclásico de las Américas,Goiânia,Brazil,False
+2012-10-11,Brazil,Iraq,6,0,Friendly,Malmö,Sweden,True
+2012-10-16,Japan,Brazil,0,4,Friendly,Wrocław,Poland,True
+2012-11-14,Brazil,Colombia,1,1,Friendly,East Rutherford,United States,True
+2012-11-21,Argentina,Brazil,2,1,Superclásico de las Américas,Buenos Aires,Argentina,False
+2013-02-06,England,Brazil,2,1,Friendly,London,England,False
+2013-03-21,Italy,Brazil,2,2,Friendly,Geneva,Switzerland,True
+2013-03-25,Russia,Brazil,1,1,Friendly,London,England,True
+2013-04-06,Bolivia,Brazil,0,4,Friendly,Santa Cruz,Bolivia,False
+2013-04-24,Brazil,Chile,2,2,Friendly,Belo Horizonte,Brazil,False
+2013-06-02,Brazil,England,2,2,Friendly,Rio de Janeiro,Brazil,False
+2013-06-09,Brazil,France,3,0,Friendly,Porto Alegre,Brazil,False
+2013-06-15,Brazil,Japan,3,0,Confederations Cup,Brasília,Brazil,False
+2013-06-19,Brazil,Mexico,2,0,Confederations Cup,Fortaleza,Brazil,False
+2013-06-22,Brazil,Italy,4,2,Confederations Cup,Salvador,Brazil,False
+2013-06-26,Brazil,Uruguay,2,1,Confederations Cup,Belo Horizonte,Brazil,False
+2013-06-30,Brazil,Spain,3,0,Confederations Cup,Rio de Janeiro,Brazil,False
+2013-08-14,Switzerland,Brazil,1,0,Friendly,Basel,Switzerland,False
+2013-09-07,Brazil,Australia,6,0,Friendly,Brasília,Brazil,False
+2013-09-10,Brazil,Portugal,3,1,Friendly,Foxborough,United States,True
+2013-10-12,South Korea,Brazil,0,2,Friendly,Seoul,South Korea,False
+2013-10-15,Brazil,Zambia,2,0,Friendly,Beijing,China PR,True
+2013-11-16,Honduras,Brazil,0,5,Friendly,Miami Gardens,United States,True
+2013-11-19,Brazil,Chile,2,1,Friendly,Toronto,Canada,True
+2014-03-05,South Africa,Brazil,0,5,Friendly,Johannesburg,South Africa,False
+2014-06-03,Brazil,Panama,4,0,Friendly,Goiânia,Brazil,False
+2014-06-06,Brazil,Serbia,1,0,Friendly,São Paulo,Brazil,False
+2014-06-12,Brazil,Croatia,3,1,FIFA World Cup,São Paulo,Brazil,False
+2014-06-17,Brazil,Mexico,0,0,FIFA World Cup,Fortaleza,Brazil,False
+2014-06-23,Brazil,Cameroon,4,1,FIFA World Cup,Brasília,Brazil,False
+2014-06-28,Brazil,Chile,1,1,FIFA World Cup,Belo Horizonte,Brazil,False
+2014-07-04,Brazil,Colombia,2,1,FIFA World Cup,Fortaleza,Brazil,False
+2014-07-08,Brazil,Germany,1,7,FIFA World Cup,Belo Horizonte,Brazil,False
+2014-07-12,Brazil,Netherlands,0,3,FIFA World Cup,Brasília,Brazil,False
+2014-09-05,Brazil,Colombia,1,0,Friendly,Miami Gardens,United States,True
+2014-10-11,Argentina,Brazil,0,2,Superclásico de las Américas,Beijing,China PR,True
+2014-10-14,Japan,Brazil,0,4,Friendly,Kallang,Singapore,True
+2014-11-12,Turkey,Brazil,0,4,Friendly,Istanbul,Turkey,False
+2014-11-18,Austria,Brazil,1,2,Friendly,Vienna,Austria,False
+2015-03-26,France,Brazil,1,3,Friendly,Saint-Denis,France,False
+2015-03-29,Brazil,Chile,1,0,Friendly,London,England,True
+2015-06-07,Brazil,Mexico,2,0,Friendly,São Paulo,Brazil,False
+2015-06-10,Brazil,Honduras,1,0,Friendly,Porto Alegre,Brazil,False
+2015-06-14,Brazil,Peru,2,1,Copa América,Temuco,Chile,True
+2015-06-17,Brazil,Colombia,0,1,Copa América,Santiago,Chile,True
+2015-06-21,Brazil,Venezuela,2,1,Copa América,Santiago,Chile,True
+2015-06-27,Brazil,Paraguay,1,1,Copa América,Concepción,Chile,True
+2015-09-05,Costa Rica,Brazil,0,1,Friendly,Harrison,United States,True
+2015-09-08,United States,Brazil,1,4,Friendly,Foxborough,United States,False
+2015-10-08,Chile,Brazil,2,0,FIFA World Cup qualification,Santiago,Chile,False
+2015-10-13,Brazil,Venezuela,3,1,FIFA World Cup qualification,Fortaleza,Brazil,False
+2015-11-13,Argentina,Brazil,1,1,FIFA World Cup qualification,Buenos Aires,Argentina,False
+2015-11-17,Brazil,Peru,3,0,FIFA World Cup qualification,Salvador,Brazil,False
+2016-03-25,Brazil,Uruguay,2,2,FIFA World Cup qualification,Recife,Brazil,False
+2016-03-29,Paraguay,Brazil,2,2,FIFA World Cup qualification,Asunción,Paraguay,False
+2016-06-04,Brazil,Ecuador,0,0,Copa América,Pasadena,United States,True
+2016-06-08,Brazil,Haiti,7,1,Copa América,Orlando,United States,True
+2016-06-12,Brazil,Peru,0,1,Copa América,Foxborough,United States,True
+2016-09-01,Ecuador,Brazil,0,3,FIFA World Cup qualification,Quito,Ecuador,False
+2016-09-06,Brazil,Colombia,2,1,FIFA World Cup qualification,Manaus,Brazil,False
+2016-10-06,Brazil,Bolivia,5,0,FIFA World Cup qualification,Natal,Brazil,False
+2016-10-11,Venezuela,Brazil,0,2,FIFA World Cup qualification,Mérida,Venezuela,False
+2016-11-10,Brazil,Argentina,3,0,FIFA World Cup qualification,Belo Horizonte,Brazil,False
+2016-11-15,Peru,Brazil,0,2,FIFA World Cup qualification,Lima,Peru,False
+2017-01-26,Brazil,Colombia,1,0,Friendly,Rio de Janeiro,Brazil,False
+2017-03-23,Uruguay,Brazil,1,4,FIFA World Cup qualification,Montevideo,Uruguay,False
+2017-03-28,Brazil,Paraguay,3,0,FIFA World Cup qualification,São Paulo,Brazil,False
+2017-06-09,Argentina,Brazil,1,0,Superclásico de las Américas,Melbourne,Australia,True
+2017-06-13,Australia,Brazil,0,4,Friendly,Melbourne,Australia,False
+2017-08-31,Brazil,Ecuador,2,0,FIFA World Cup qualification,Porto Alegre,Brazil,False
+2017-09-05,Colombia,Brazil,1,1,FIFA World Cup qualification,Barranquilla,Colombia,False
+2017-10-05,Bolivia,Brazil,0,0,FIFA World Cup qualification,La Paz,Bolivia,False
+2017-10-10,Brazil,Chile,3,0,FIFA World Cup qualification,São Paulo,Brazil,False
+2017-11-10,Japan,Brazil,1,3,Friendly,Villeneuve-d'Ascq,France,True
+2017-11-14,England,Brazil,0,0,Friendly,London,England,False
+2018-03-23,Russia,Brazil,0,3,Friendly,Moscow,Russia,False
+2018-03-27,Germany,Brazil,0,1,Friendly,Berlin,Germany,False
+2018-06-03,Croatia,Brazil,0,2,Friendly,Liverpool,England,True
+2018-06-10,Austria,Brazil,0,3,Friendly,Vienna,Austria,False
+2018-06-17,Brazil,Switzerland,1,1,FIFA World Cup,Rostov-on-Don,Russia,True
+2018-06-22,Brazil,Costa Rica,2,0,FIFA World Cup,Saint Petersburg,Russia,True
+2018-06-27,Serbia,Brazil,0,2,FIFA World Cup,Moscow,Russia,True
+2018-07-02,Brazil,Mexico,2,0,FIFA World Cup,Samara,Russia,True
+2018-07-06,Brazil,Belgium,1,2,FIFA World Cup,Kazan,Russia,True
+2018-09-07,United States,Brazil,0,2,Friendly,East Rutherford,United States,False
+2018-09-12,Brazil,El Salvador,5,0,Friendly,Landover,United States,True
+2018-10-12,Saudi Arabia,Brazil,0,2,Friendly,Riyadh,Saudi Arabia,False
+2018-10-16,Argentina,Brazil,0,1,Superclásico de las Américas,Jeddah,Saudi Arabia,True
+2018-11-16,Brazil,Uruguay,1,0,Friendly,London,England,True
+2018-11-20,Brazil,Cameroon,1,0,Friendly,London,England,True
+2019-03-23,Brazil,Panama,1,1,Friendly,Porto,Portugal,True
+2019-03-26,Czech Republic,Brazil,1,3,Friendly,Prague,Czech Republic,False
+2019-06-05,Brazil,Qatar,2,0,Friendly,Brasília,Brazil,False
+2019-06-09,Brazil,Honduras,7,0,Friendly,Porto Alegre,Brazil,False
+2019-06-14,Brazil,Bolivia,3,0,Copa América,São Paulo,Brazil,False
+2019-06-18,Brazil,Venezuela,0,0,Copa América,Salvador,Brazil,False
+2019-06-22,Brazil,Peru,5,0,Copa América,São Paulo,Brazil,False
+2019-06-27,Brazil,Paraguay,0,0,Copa América,Porto Alegre,Brazil,False
+2019-07-02,Brazil,Argentina,2,0,Copa América,Belo Horizonte,Brazil,False
+2019-07-07,Brazil,Peru,3,1,Copa América,Rio de Janeiro,Brazil,False
+2019-09-06,Brazil,Colombia,2,2,Friendly,Miami Gardens,United States,True
+2019-09-10,Brazil,Peru,0,1,Friendly,Los Angeles,United States,True
+2019-10-10,Brazil,Senegal,1,1,Friendly,Kallang,Singapore,True
+2019-10-13,Brazil,Nigeria,1,1,Friendly,Kallang,Singapore,True
+2019-11-15,Brazil,Argentina,0,1,Superclásico de las Américas,Riyadh,Saudi Arabia,True
+2019-11-19,Brazil,South Korea,3,0,Friendly,Abu Dhabi,United Arab Emirates,True
+2020-10-09,Brazil,Bolivia,5,0,FIFA World Cup qualification,São Paulo,Brazil,False
+2020-10-13,Peru,Brazil,2,4,FIFA World Cup qualification,Lima,Peru,False
+2020-11-13,Brazil,Venezuela,1,0,FIFA World Cup qualification,São Paulo,Brazil,False
+2020-11-17,Uruguay,Brazil,0,2,FIFA World Cup qualification,Montevideo,Uruguay,False
+2021-06-04,Brazil,Ecuador,2,0,FIFA World Cup qualification,Porto Alegre,Brazil,False
+2021-06-08,Paraguay,Brazil,0,2,FIFA World Cup qualification,Asunción,Paraguay,False
+2021-06-13,Brazil,Venezuela,3,0,Copa América,Brasília,Brazil,False
+2021-06-17,Brazil,Peru,4,0,Copa América,Rio de Janeiro,Brazil,False
+2021-06-23,Brazil,Colombia,2,1,Copa América,Rio de Janeiro,Brazil,False
+2021-06-27,Brazil,Ecuador,1,1,Copa América,Goiânia,Brazil,False
+2021-07-02,Brazil,Chile,1,0,Copa América,Rio de Janeiro,Brazil,False
+2021-07-05,Brazil,Peru,1,0,Copa América,Rio de Janeiro,Brazil,False
+2021-07-10,Brazil,Argentina,0,1,Copa América,Rio de Janeiro,Brazil,False
+2021-09-02,Chile,Brazil,0,1,FIFA World Cup qualification,Santiago,Chile,False
+2021-09-09,Brazil,Peru,2,0,FIFA World Cup qualification,Recife,Brazil,False
+2021-10-07,Venezuela,Brazil,1,3,FIFA World Cup qualification,Caracas,Venezuela,False
+2021-10-10,Colombia,Brazil,0,0,FIFA World Cup qualification,Barranquilla,Colombia,False
+2021-10-14,Brazil,Uruguay,4,1,FIFA World Cup qualification,Manaus,Brazil,False
+2021-11-11,Brazil,Colombia,1,0,FIFA World Cup qualification,São Paulo,Brazil,False
+2021-11-16,Argentina,Brazil,0,0,FIFA World Cup qualification,San Juan,Argentina,False
+2022-01-27,Ecuador,Brazil,1,1,FIFA World Cup qualification,Quito,Ecuador,False
+2022-02-01,Brazil,Paraguay,4,0,FIFA World Cup qualification,Belo Horizonte,Brazil,False
+2022-03-24,Brazil,Chile,4,0,FIFA World Cup qualification,Rio de Janeiro,Brazil,False
+2022-03-29,Bolivia,Brazil,0,4,FIFA World Cup qualification,La Paz,Bolivia,False
+2022-06-02,South Korea,Brazil,1,5,Friendly,Seoul,South Korea,False
+2022-06-06,Japan,Brazil,0,1,Friendly,Tokyo,Japan,False
+2022-09-23,Brazil,Ghana,3,0,Friendly,Le Havre,France,True
+2022-09-27,Brazil,Tunisia,5,1,Friendly,Paris,France,True
+2022-11-24,Brazil,Serbia,2,0,FIFA World Cup,Lusail,Qatar,True
+2022-11-28,Brazil,Switzerland,1,0,FIFA World Cup,Doha,Qatar,True
+2022-12-02,Cameroon,Brazil,1,0,FIFA World Cup,Lusail,Qatar,True
+2022-12-05,Brazil,South Korea,4,1,FIFA World Cup,Doha,Qatar,True
+2022-12-09,Croatia,Brazil,1,1,FIFA World Cup,Al Rayyan,Qatar,True
+2023-03-25,Morocco,Brazil,2,1,Friendly,Tangier,Morocco,False
+2023-06-17,Brazil,Guinea,4,1,Friendly,Barcelona,Spain,True
+2023-06-20,Brazil,Senegal,2,4,Friendly,Lisbon,Portugal,True
+2023-09-08,Brazil,Bolivia,5,1,FIFA World Cup qualification,Belém,Brazil,False
+2023-09-12,Peru,Brazil,0,1,FIFA World Cup qualification,Lima,Peru,False
+2023-10-12,Brazil,Venezuela,1,1,FIFA World Cup qualification,Cuiabá,Brazil,False
+2023-10-17,Uruguay,Brazil,2,0,FIFA World Cup qualification,Montevideo,Uruguay,False
+2023-11-16,Colombia,Brazil,2,1,FIFA World Cup qualification,Barranquilla,Colombia,False
+2023-11-21,Brazil,Argentina,0,1,FIFA World Cup qualification,Rio de Janeiro,Brazil,False
+2024-03-23,England,Brazil,0,1,Friendly,London,England,False
+2024-03-26,Spain,Brazil,3,3,Friendly,Madrid,Spain,False
+2024-06-08,Mexico,Brazil,2,3,Friendly,College Station,United States,True
+2024-06-12,United States,Brazil,1,1,Friendly,Orlando,United States,False
+2024-06-24,Brazil,Costa Rica,0,0,Copa América,Inglewood,United States,True
+2024-06-28,Paraguay,Brazil,1,4,Copa América,Las Vegas,United States,True
+2024-07-02,Brazil,Colombia,1,1,Copa América,Santa Clara,United States,True
+2024-07-06,Uruguay,Brazil,0,0,Copa América,Las Vegas,United States,True
+2024-09-06,Brazil,Ecuador,1,0,FIFA World Cup qualification,Curitiba,Brazil,False
+2024-09-10,Paraguay,Brazil,1,0,FIFA World Cup qualification,Asunción,Paraguay,False
+2024-10-10,Chile,Brazil,1,2,FIFA World Cup qualification,Santiago,Chile,False
+2024-10-15,Brazil,Peru,4,0,FIFA World Cup qualification,Brasília,Brazil,False
+2024-11-14,Venezuela,Brazil,1,1,FIFA World Cup qualification,Maturín,Venezuela,False
+2024-11-19,Brazil,Uruguay,1,1,FIFA World Cup qualification,Salvador,Brazil,False
+2025-03-20,Brazil,Colombia,2,1,FIFA World Cup qualification,Brasília,Brazil,False
+2025-03-25,Argentina,Brazil,4,1,FIFA World Cup qualification,Buenos Aires,Argentina,False

@@ -1,3 +1,20 @@
+Gradient Boosting (e.g., XGBoost, LightGBM, CatBoost)
+
+Ensemble Algorithms
+
+Random Forest
+Boosting
+Bootstrapped Aggregation (Bagging)
+AdaBoost
+Weighted Average (Blending)
+Stacked Generalization (Stacking)
+Gradient Boosting Machines (GBM)
+Gradient Boosted Regression Trees (GBRT)
+
+
+
+
+
 –––––––––– 26 January 2025
 
 Share a small project idea where I can use cumulative and joint probability distribution

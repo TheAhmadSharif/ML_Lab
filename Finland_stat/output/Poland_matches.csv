@@ -1,0 +1,881 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1921-12-18,Hungary,Poland,1,0,Friendly,Budapest,Hungary,False
+1922-05-14,Poland,Hungary,0,3,Friendly,Kraków,Poland,False
+1922-05-28,Sweden,Poland,1,2,Friendly,Stockholm,Sweden,False
+1922-09-03,Romania,Poland,1,1,Friendly,Cernăuţi,Romania,False
+1922-10-01,Yugoslavia,Poland,1,3,Friendly,Zagreb,Yugoslavia,False
+1923-06-03,Poland,Yugoslavia,1,2,Friendly,Kraków,Poland,False
+1923-09-02,Poland,Romania,1,1,Friendly,Lwów,Poland,False
+1923-09-23,Finland,Poland,5,3,Friendly,Helsinki,Finland,False
+1923-09-25,Estonia,Poland,1,4,Friendly,Tallinn,Estonia,False
+1923-11-01,Poland,Sweden,2,2,Friendly,Kraków,Poland,False
+1924-05-18,Sweden,Poland,5,1,Friendly,Stockholm,Sweden,False
+1924-05-26,Hungary,Poland,5,0,Olympic Games,Paris,France,True
+1924-06-10,Poland,United States,2,3,Friendly,Warsaw,Poland,False
+1924-06-29,Poland,Turkey,2,0,Friendly,Łódź,Poland,False
+1924-08-10,Poland,Finland,1,0,Friendly,Warsaw,Poland,False
+1924-08-31,Hungary,Poland,4,0,Friendly,Budapest,Hungary,False
+1925-07-19,Poland,Hungary,0,2,Friendly,Kraków,Poland,False
+1925-08-30,Finland,Poland,2,2,Friendly,Helsinki,Finland,False
+1925-09-02,Estonia,Poland,0,0,Friendly,Tallinn,Estonia,False
+1925-10-02,Turkey,Poland,1,2,Friendly,Istanbul,Turkey,False
+1925-11-01,Poland,Sweden,2,6,Friendly,Kraków,Poland,False
+1926-07-04,Poland,Estonia,2,0,Friendly,Warsaw,Poland,False
+1926-08-08,Poland,Finland,7,1,Friendly,Poznań,Poland,False
+1926-08-20,Hungary,Poland,4,1,Friendly,Budapest,Hungary,False
+1926-09-12,Poland,Turkey,6,1,Friendly,Lwów,Poland,False
+1926-10-03,Sweden,Poland,3,1,Friendly,Stockholm,Sweden,False
+1926-10-10,Norway,Poland,3,4,Friendly,Fredrikstad,Norway,False
+1927-06-19,Romania,Poland,3,3,Friendly,Bucharest,Romania,False
+1928-06-10,Poland,United States,3,3,Friendly,Warsaw,Poland,False
+1928-07-01,Poland,Sweden,2,1,Friendly,Katowice,Poland,False
+1928-10-27,Czechoslovakia,Poland,3,2,Friendly,Prague,Czechoslovakia,False
+1930-09-28,Sweden,Poland,0,3,Friendly,Stockholm,Sweden,False
+1930-10-26,Poland,Latvia,6,0,Friendly,Warsaw,Poland,False
+1931-06-14,Poland,Czechoslovakia,0,4,Friendly,Warsaw,Poland,False
+1931-07-05,Latvia,Poland,0,5,Friendly,Riga,Latvia,False
+1931-08-23,Poland,Romania,2,3,Friendly,Warsaw,Poland,False
+1931-10-11,Belgium,Poland,2,1,Friendly,Brussels,Belgium,False
+1931-10-25,Poland,Yugoslavia,6,3,Friendly,Poznań,Poland,False
+1932-05-29,Yugoslavia,Poland,0,3,Friendly,Zagreb,Yugoslavia,False
+1932-07-10,Poland,Sweden,2,0,Friendly,Warsaw,Poland,False
+1932-10-02,Poland,Latvia,2,1,Friendly,Warsaw,Poland,False
+1932-10-02,Romania,Poland,0,5,Friendly,Bucharest,Romania,False
+1933-06-04,Poland,Belgium,0,1,Friendly,Warsaw,Poland,False
+1933-09-10,Poland,Yugoslavia,4,3,Friendly,Warsaw,Poland,False
+1933-10-04,Silesia,Poland,1,2,Friendly,Katowice,Poland,False
+1933-10-15,Poland,Czechoslovakia,1,2,FIFA World Cup qualification,Warsaw,Poland,False
+1933-12-03,Germany,Poland,1,0,Friendly,Berlin,Germany,False
+1934-05-21,Denmark,Poland,4,2,Friendly,Copenhagen,Denmark,False
+1934-05-23,Sweden,Poland,4,2,Friendly,Stockholm,Sweden,False
+1934-08-26,Yugoslavia,Poland,4,1,Friendly,Belgrade,Yugoslavia,False
+1934-09-09,Poland,Germany,2,5,Friendly,Warsaw,Poland,False
+1934-10-14,Latvia,Poland,2,6,Friendly,Riga,Latvia,False
+1934-10-14,Poland,Romania,3,3,Friendly,Lwów,Poland,False
+1935-05-12,Austria,Poland,5,2,Friendly,Vienna,Austria,False
+1935-08-18,Poland,Yugoslavia,2,3,Friendly,Katowice,Poland,False
+1935-09-15,Germany,Poland,1,0,Friendly,Breslau,Germany,False
+1935-09-15,Poland,Latvia,3,3,Friendly,Łódź,Poland,False
+1935-10-06,Poland,Austria,1,0,Friendly,Warsaw,Poland,False
+1935-11-03,Romania,Poland,4,1,Friendly,Bucharest,Romania,False
+1936-02-16,Belgium,Poland,0,2,Friendly,Brussels,Belgium,False
+1936-09-06,Latvia,Poland,3,3,Friendly,Riga,Latvia,False
+1936-09-06,Yugoslavia,Poland,9,3,Friendly,Belgrade,Yugoslavia,False
+1936-09-13,Poland,Germany,1,1,Friendly,Warsaw,Poland,False
+1936-10-04,Denmark,Poland,2,1,Friendly,Copenhagen,Denmark,False
+1937-06-23,Poland,Sweden,3,1,Friendly,Warsaw,Poland,False
+1937-07-04,Poland,Romania,2,4,Friendly,Łódź,Poland,False
+1937-09-12,Bulgaria,Poland,3,3,Friendly,Sofia,Bulgaria,False
+1937-09-12,Poland,Denmark,3,1,Friendly,Warsaw,Poland,False
+1937-10-10,Poland,Yugoslavia,4,0,FIFA World Cup qualification,Warsaw,Poland,False
+1937-10-10,Poland,Latvia,2,1,Friendly,Katowice,Poland,False
+1938-03-13,Switzerland,Poland,3,3,Friendly,Zürich,Switzerland,False
+1938-04-03,Yugoslavia,Poland,1,0,FIFA World Cup qualification,Belgrade,Yugoslavia,False
+1938-05-22,Poland,Republic of Ireland,6,0,Friendly,Warsaw,Poland,False
+1938-06-05,Brazil,Poland,6,5,FIFA World Cup,Strasbourg,France,True
+1938-09-18,Germany,Poland,4,1,Friendly,Chemnitz,Germany,False
+1938-09-25,Latvia,Poland,2,1,Friendly,Riga,Latvia,False
+1938-09-25,Poland,Yugoslavia,4,4,Friendly,Warsaw,Poland,False
+1938-10-23,Poland,Norway,2,2,Friendly,Warsaw,Poland,False
+1938-11-13,Republic of Ireland,Poland,3,2,Friendly,Dublin,Éire,False
+1939-01-22,France,Poland,4,0,Friendly,Paris,France,False
+1939-05-27,Poland,Belgium,3,3,Friendly,Łódź,Poland,False
+1939-06-04,Poland,Switzerland,1,1,Friendly,Warsaw,Poland,False
+1939-08-27,Poland,Hungary,4,2,Friendly,Warsaw,Poland,False
+1947-06-11,Norway,Poland,3,1,Friendly,Oslo,Norway,False
+1947-07-19,Poland,Romania,1,2,Friendly,Warsaw,Poland,False
+1947-08-31,Czechoslovakia,Poland,6,3,Friendly,Prague,Czechoslovakia,False
+1947-09-14,Sweden,Poland,5,4,Friendly,Solna,Sweden,False
+1947-09-17,Finland,Poland,1,4,Friendly,Helsinki,Finland,False
+1947-10-19,Yugoslavia,Poland,7,1,Friendly,Belgrade,Yugoslavia,False
+1947-10-26,Romania,Poland,0,0,Friendly,Bucharest,Romania,False
+1948-04-04,Bulgaria,Poland,1,1,Balkan Cup,Sofia,Bulgaria,False
+1948-04-18,Poland,Czechoslovakia,3,1,Balkan Cup,Warsaw,Poland,False
+1948-06-26,Denmark,Poland,8,0,Friendly,Copenhagen,Denmark,False
+1948-08-25,Poland,Yugoslavia,0,1,Balkan Cup,Warsaw,Poland,False
+1948-09-19,Poland,Hungary,2,6,Balkan Cup,Warsaw,Poland,False
+1948-10-10,Poland,Romania,0,0,Balkan Cup,Chorzów,Poland,False
+1948-10-17,Poland,Finland,1,0,Friendly,Warsaw,Poland,False
+1949-05-08,Romania,Poland,2,1,Friendly,Bucharest,Romania,False
+1949-06-19,Poland,Denmark,1,2,Friendly,Warsaw,Poland,False
+1949-07-10,Hungary,Poland,8,2,Friendly,Debrecen,Hungary,False
+1949-10-02,Poland,Bulgaria,3,2,Friendly,Warsaw,Poland,False
+1949-10-30,Czechoslovakia,Poland,2,0,Friendly,Ostrava,Czechoslovakia,False
+1949-11-06,Poland,Albania,2,1,Friendly,Warsaw,Poland,False
+1950-05-01,Albania,Poland,0,0,Friendly,Tirana,Albania,False
+1950-05-14,Poland,Romania,3,3,Friendly,Wrocław,Poland,False
+1950-06-04,Poland,Hungary,2,5,Friendly,Warsaw,Poland,False
+1950-10-22,Poland,Czechoslovakia,1,4,Friendly,Warsaw,Poland,False
+1950-10-30,Bulgaria,Poland,0,1,Friendly,Sofia,Bulgaria,False
+1951-05-27,Hungary,Poland,6,0,Friendly,Budapest,Hungary,False
+1952-05-18,Poland,Bulgaria,0,1,Friendly,Warsaw,Poland,False
+1952-05-25,Romania,Poland,1,0,Friendly,Bucharest,Romania,False
+1952-06-15,Poland,Hungary,1,5,Friendly,Warsaw,Poland,False
+1952-09-14,Czechoslovakia,Poland,2,2,Friendly,Prague,Czechoslovakia,False
+1952-09-21,Poland,German DR,3,0,Friendly,Warsaw,Poland,False
+1953-04-26,Silesia,Poland,2,3,Friendly,Chorzów,Poland,False
+1953-05-10,Poland,Czechoslovakia,1,1,Friendly,Wrocław,Poland,False
+1953-09-13,Bulgaria,Poland,2,2,Friendly,Sofia,Bulgaria,False
+1953-09-13,Silesia,Poland,3,3,Friendly,Byton,Poland,False
+1953-11-29,Albania,Poland,2,0,Friendly,Tirana,Albania,False
+1954-08-08,Poland,Bulgaria,2,2,Friendly,Warsaw,Poland,False
+1954-09-26,German DR,Poland,0,1,Friendly,Rostock,German DR,False
+1955-05-29,Romania,Poland,2,2,Friendly,Bucharest,Romania,False
+1955-06-26,Bulgaria,Poland,1,1,Friendly,Sofia,Bulgaria,False
+1955-09-11,Finland,Poland,1,3,Friendly,Helsinki,Finland,False
+1956-05-30,Norway,Poland,0,0,Friendly,Oslo,Norway,False
+1956-07-15,Hungary,Poland,4,1,Friendly,Budapest,Hungary,False
+1956-07-22,Poland,German DR,0,2,Friendly,Chorzów,Poland,False
+1956-08-26,Poland,Bulgaria,1,2,Friendly,Wrocław,Poland,False
+1956-10-28,Poland,Norway,5,3,Friendly,Warsaw,Poland,False
+1956-11-04,Poland,Finland,5,0,Friendly,Kraków,Poland,False
+1956-11-16,Turkey,Poland,1,1,Friendly,Istanbul,Turkey,False
+1957-05-19,Poland,Turkey,0,1,Friendly,Warsaw,Poland,False
+1957-06-23,Russia,Poland,3,0,FIFA World Cup qualification,Moscow,Soviet Union,True
+1957-07-05,Finland,Poland,1,3,FIFA World Cup qualification,Helsinki,Finland,False
+1957-09-29,Bulgaria,Poland,1,1,Friendly,Sofia,Bulgaria,False
+1957-10-20,Poland,Russia,2,1,FIFA World Cup qualification,Chorzów,Poland,False
+1957-11-03,Poland,Finland,4,0,FIFA World Cup qualification,Warsaw,Poland,False
+1957-11-24,Poland,Russia,0,2,FIFA World Cup qualification,Leipzig,German DR,True
+1958-05-11,Poland,Republic of Ireland,2,2,Friendly,Chorzów,Poland,False
+1958-05-25,Denmark,Poland,3,2,Friendly,Copenhagen,Denmark,False
+1958-06-01,Poland,Scotland,1,2,Friendly,Warsaw,Poland,False
+1958-06-28,German DR,Poland,1,1,Friendly,Rostock,German DR,False
+1958-09-14,Poland,Hungary,1,3,Friendly,Chorzów,Poland,False
+1958-10-05,Republic of Ireland,Poland,2,2,Friendly,Dublin,Republic of Ireland,False
+1959-05-20,Germany,Poland,1,1,Friendly,Hamburg,Germany,False
+1959-06-21,Poland,Israel,7,2,Friendly,Wrocław,Poland,False
+1959-06-28,Poland,Spain,2,4,UEFA Euro qualification,Chorzów,Poland,False
+1959-08-30,Poland,Romania,2,3,Friendly,Warsaw,Poland,False
+1959-10-14,Spain,Poland,3,0,UEFA Euro qualification,Madrid,Spain,False
+1959-11-29,Israel,Poland,1,1,Friendly,Ramat Gan,Israel,False
+1960-05-04,Scotland,Poland,2,3,Friendly,Glasgow,Scotland,False
+1960-05-19,Russia,Poland,7,1,Friendly,Moscow,Soviet Union,False
+1960-06-26,Poland,Bulgaria,4,0,Friendly,Chorzów,Poland,False
+1960-09-28,Poland,France,2,2,Friendly,Warsaw,Poland,False
+1960-11-13,Hungary,Poland,4,1,Friendly,Budapest,Hungary,False
+1961-05-21,Poland,Russia,1,0,Friendly,Warsaw,Poland,False
+1961-06-04,Yugoslavia,Poland,2,1,FIFA World Cup qualification,Belgrade,Yugoslavia,False
+1961-06-25,Poland,Yugoslavia,1,1,FIFA World Cup qualification,Chorzów,Poland,False
+1961-10-08,Poland,Germany,0,2,Friendly,Warsaw,Poland,False
+1961-10-22,Poland,German DR,3,1,Friendly,Wrocław,Poland,False
+1961-11-05,Poland,Denmark,5,0,Friendly,Chorzów,Poland,False
+1962-04-11,France,Poland,1,3,Friendly,Paris,France,False
+1962-04-15,Morocco,Poland,1,3,Friendly,Casablanca,Morocco,False
+1962-05-23,Poland,Belgium,2,0,Friendly,Warsaw,Poland,False
+1962-09-02,Poland,Hungary,0,2,Friendly,Poznań,Poland,False
+1962-09-30,Bulgaria,Poland,2,1,Friendly,Sofia,Bulgaria,False
+1962-10-10,Poland,Northern Ireland,0,2,UEFA Euro qualification,Chorzów,Poland,False
+1962-10-11,Poland,Morocco,1,1,Friendly,Warsaw,Poland,False
+1962-10-28,Czechoslovakia,Poland,2,1,Friendly,Bratislava,Czechoslovakia,False
+1962-11-28,Northern Ireland,Poland,2,0,UEFA Euro qualification,Belfast,Northern Ireland,False
+1963-05-15,Norway,Poland,2,5,Friendly,Oslo,Norway,False
+1963-05-22,Poland,Greece,4,0,Friendly,Warsaw,Poland,False
+1963-06-02,Poland,Romania,1,1,Friendly,Chorzów,Poland,False
+1963-09-04,Poland,Norway,9,0,Friendly,Szczecin,Poland,False
+1963-09-22,Poland,Turkey,0,0,Friendly,Poznań,Poland,False
+1963-10-16,Greece,Poland,3,1,Friendly,Athens,Greece,False
+1964-05-10,Poland,Republic of Ireland,3,1,Friendly,Kraków,Poland,False
+1964-09-13,Poland,Czechoslovakia,2,1,Friendly,Warsaw,Poland,False
+1964-09-27,Turkey,Poland,2,3,Friendly,Istanbul,Turkey,False
+1964-10-07,Sweden,Poland,3,3,Friendly,Solna,Sweden,False
+1964-10-25,Republic of Ireland,Poland,3,2,Friendly,Dublin,Republic of Ireland,False
+1965-04-07,Belgium,Poland,0,0,Friendly,Brussels,Belgium,False
+1965-04-18,Poland,Italy,0,0,FIFA World Cup qualification,Warsaw,Poland,False
+1965-05-16,Poland,Bulgaria,1,1,Friendly,Kraków,Poland,False
+1965-05-23,Poland,Scotland,1,1,FIFA World Cup qualification,Chorzów,Poland,False
+1965-09-26,Finland,Poland,2,0,FIFA World Cup qualification,Helsinki,Finland,False
+1965-10-13,Scotland,Poland,1,2,FIFA World Cup qualification,Glasgow,Scotland,False
+1965-10-24,Poland,Finland,7,0,FIFA World Cup qualification,Szczecin,Poland,False
+1965-11-01,Italy,Poland,6,1,FIFA World Cup qualification,Rome,Italy,False
+1966-01-05,England,Poland,1,1,Friendly,Liverpool,England,False
+1966-05-03,Poland,Hungary,1,1,Friendly,Chorzów,Poland,False
+1966-05-18,Poland,Sweden,1,1,Friendly,Wrocław,Poland,False
+1966-06-05,Brazil,Poland,4,1,Friendly,Belo Horizonte,Brazil,False
+1966-06-08,Brazil,Poland,2,1,Friendly,Rio de Janeiro,Brazil,False
+1966-06-11,Argentina,Poland,1,1,Friendly,Buenos Aires,Argentina,False
+1966-07-05,Poland,England,0,1,Friendly,Chorzów,Poland,False
+1966-09-11,German DR,Poland,2,0,Friendly,Erfurt,German DR,False
+1966-10-02,Poland,Luxembourg,4,0,UEFA Euro qualification,Szczecin,Poland,False
+1966-10-22,France,Poland,2,1,UEFA Euro qualification,Paris,France,False
+1966-11-17,Romania,Poland,4,3,Friendly,Ploiești,Romania,False
+1966-12-03,Israel,Poland,0,0,Friendly,Jaffa,Israel,False
+1967-04-16,Luxembourg,Poland,0,0,UEFA Euro qualification,Luxembourg,Luxembourg,False
+1967-05-21,Poland,Belgium,3,1,UEFA Euro qualification,Chorzów,Poland,False
+1967-09-17,Poland,France,1,4,UEFA Euro qualification,Warsaw,Poland,False
+1967-10-08,Belgium,Poland,2,4,UEFA Euro qualification,Brussels,Belgium,False
+1967-10-29,Poland,Romania,0,0,Friendly,Kraków,Poland,False
+1968-04-24,Poland,Turkey,8,0,Friendly,Chorzów,Poland,False
+1968-05-01,Poland,Netherlands,0,0,Friendly,Warsaw,Poland,False
+1968-05-15,Republic of Ireland,Poland,2,2,Friendly,Dublin,Republic of Ireland,False
+1968-06-09,Norway,Poland,1,6,Friendly,Oslo,Norway,False
+1968-06-20,Poland,Brazil,3,6,Friendly,Warsaw,Poland,False
+1968-10-20,Poland,German DR,1,1,Friendly,Szczecin,Poland,False
+1968-10-30,Poland,Republic of Ireland,1,0,Friendly,Chorzów,Poland,False
+1968-12-17,Argentina,Poland,1,0,Friendly,Mar del Plata,Argentina,False
+1969-04-20,Poland,Luxembourg,8,1,FIFA World Cup qualification,Kraków,Poland,False
+1969-04-30,Turkey,Poland,1,3,Friendly,Ankara,Turkey,False
+1969-05-07,Netherlands,Poland,1,0,FIFA World Cup qualification,Rotterdam,Netherlands,False
+1969-06-15,Bulgaria,Poland,4,1,FIFA World Cup qualification,Sofia,Bulgaria,False
+1969-08-27,Poland,Norway,6,1,Friendly,Łódź,Poland,False
+1969-09-07,Poland,Netherlands,2,1,FIFA World Cup qualification,Chorzów,Poland,False
+1969-10-10,Luxembourg,Poland,1,5,FIFA World Cup qualification,Luxembourg,Luxembourg,False
+1969-11-09,Poland,Bulgaria,3,0,FIFA World Cup qualification,Warsaw,Poland,False
+1969-11-18,Iraq,Poland,1,1,Friendly,Baghdad,Iraq,False
+1970-05-02,Hungary,Poland,2,0,Friendly,Budapest,Hungary,False
+1970-05-06,Poland,Republic of Ireland,2,1,Friendly,Poznań,Poland,False
+1970-05-16,Poland,German DR,1,1,Friendly,Kraków,Poland,False
+1970-05-19,Denmark,Poland,0,2,Friendly,Copenhagen,Denmark,False
+1970-07-22,Poland,Iraq,2,0,Friendly,Szczecin,Poland,False
+1970-09-02,Poland,Denmark,5,0,Friendly,Warsaw,Poland,False
+1970-09-06,German DR,Poland,5,0,Friendly,Rostock,German DR,False
+1970-09-23,Republic of Ireland,Poland,0,2,Friendly,Dublin,Republic of Ireland,False
+1970-10-14,Poland,Albania,3,0,UEFA Euro qualification,Chorzów,Poland,False
+1970-10-25,Czechoslovakia,Poland,2,2,Friendly,Prague,Czechoslovakia,False
+1971-05-05,Switzerland,Poland,2,4,Friendly,Lausanne,Switzerland,False
+1971-05-12,Albania,Poland,1,1,UEFA Euro qualification,Tirana,Albania,False
+1971-09-22,Poland,Turkey,5,1,UEFA Euro qualification,Kraków,Poland,False
+1971-10-10,Poland,Germany,1,3,UEFA Euro qualification,Warsaw,Poland,False
+1971-11-17,Germany,Poland,0,0,UEFA Euro qualification,Hamburg,Germany,False
+1971-12-05,Turkey,Poland,1,0,UEFA Euro qualification,İzmir,Turkey,False
+1972-04-08,Poland,German DR,2,1,Friendly,Łódź,Poland,False
+1972-05-10,Poland,Switzerland,0,0,Friendly,Poznań,Poland,False
+1972-10-15,Poland,Czechoslovakia,3,0,Friendly,Bydgoszcz,Poland,False
+1973-03-20,Poland,United States,4,0,Friendly,Łódź,Poland,False
+1973-03-28,Wales,Poland,2,0,FIFA World Cup qualification,Cardiff,Wales,False
+1973-05-13,Poland,Yugoslavia,2,2,Friendly,Warsaw,Poland,False
+1973-05-16,Poland,Republic of Ireland,2,0,Friendly,Wrocław,Poland,False
+1973-06-06,Poland,England,2,0,FIFA World Cup qualification,Chorzów,Poland,False
+1973-08-01,Canada,Poland,1,3,Friendly,Toronto,Canada,False
+1973-08-03,United States,Poland,0,1,Friendly,Chicago,United States,False
+1973-08-05,Mexico,Poland,0,1,Friendly,Los Angeles,United States,True
+1973-08-08,Mexico,Poland,1,2,Friendly,Monterrey,Mexico,False
+1973-08-10,United States,Poland,0,4,Friendly,San Francisco,United States,False
+1973-08-12,United States,Poland,1,0,Friendly,New Britain,United States,False
+1973-08-19,Bulgaria,Poland,0,2,Friendly,Varna,Bulgaria,False
+1973-09-26,Poland,Wales,3,0,FIFA World Cup qualification,Chorzów,Poland,False
+1973-10-10,Netherlands,Poland,1,1,Friendly,Rotterdam,Netherlands,False
+1973-10-17,England,Poland,1,1,FIFA World Cup qualification,London,England,False
+1973-10-21,Republic of Ireland,Poland,1,0,Friendly,Dublin,Republic of Ireland,False
+1974-04-13,Haiti,Poland,2,1,Friendly,Port-au-Prince,Haiti,False
+1974-04-15,Haiti,Poland,1,3,Friendly,Port-au-Prince,Haiti,False
+1974-04-17,Belgium,Poland,1,1,Friendly,Liège,Belgium,False
+1974-05-15,Poland,Greece,2,0,Friendly,Warsaw,Poland,False
+1974-06-15,Poland,Argentina,3,2,FIFA World Cup,Stuttgart,Germany,True
+1974-06-19,Haiti,Poland,0,7,FIFA World Cup,Munich,Germany,True
+1974-06-23,Poland,Italy,2,1,FIFA World Cup,Stuttgart,Germany,True
+1974-06-26,Sweden,Poland,0,1,FIFA World Cup,Stuttgart,Germany,True
+1974-06-30,Poland,Yugoslavia,2,1,FIFA World Cup,Frankfurt am Main,Germany,True
+1974-07-03,Germany,Poland,1,0,FIFA World Cup,Frankfurt am Main,Germany,False
+1974-07-06,Brazil,Poland,0,1,FIFA World Cup,Munich,Germany,True
+1974-09-01,Finland,Poland,1,2,UEFA Euro qualification,Helsinki,Finland,False
+1974-09-04,Poland,German DR,1,3,Friendly,Warsaw,Poland,False
+1974-09-07,Poland,France,0,2,Friendly,Wrocław,Poland,False
+1974-10-09,Poland,Finland,3,0,UEFA Euro qualification,Poznań,Poland,False
+1974-10-31,Poland,Canada,2,0,Friendly,Warsaw,Poland,False
+1974-11-13,Czechoslovakia,Poland,2,2,Friendly,Prague,Czechoslovakia,False
+1975-03-26,Poland,United States,7,0,Friendly,Poznań,Poland,False
+1975-04-19,Italy,Poland,0,0,UEFA Euro qualification,Rome,Italy,False
+1975-05-28,German DR,Poland,1,2,Friendly,Halle,German DR,False
+1975-06-24,United States,Poland,0,4,Friendly,Seattle,United States,False
+1975-07-06,Canada,Poland,1,8,Friendly,Montreal,Canada,False
+1975-07-09,Canada,Poland,1,4,Friendly,Toronto,Canada,False
+1975-09-10,Poland,Netherlands,4,1,UEFA Euro qualification,Chorzów,Poland,False
+1975-10-08,Poland,Hungary,4,2,Friendly,Łódź,Poland,False
+1975-10-15,Netherlands,Poland,3,0,UEFA Euro qualification,Amsterdam,Netherlands,False
+1975-10-26,Poland,Italy,0,0,UEFA Euro qualification,Warsaw,Poland,False
+1976-03-24,Poland,Argentina,1,2,Friendly,Chorzów,Poland,False
+1976-04-24,France,Poland,2,0,Friendly,Lens,France,False
+1976-05-06,Greece,Poland,1,0,Friendly,Athens,Greece,False
+1976-05-11,Switzerland,Poland,2,1,Friendly,Basel,Switzerland,False
+1976-05-26,Poland,Republic of Ireland,0,2,Friendly,Poznań,Poland,False
+1976-10-16,Portugal,Poland,0,2,FIFA World Cup qualification,Porto,Portugal,False
+1976-10-31,Poland,Cyprus,5,0,FIFA World Cup qualification,Warsaw,Poland,False
+1977-04-13,Hungary,Poland,2,1,Friendly,Budapest,Hungary,False
+1977-04-24,Republic of Ireland,Poland,0,0,Friendly,Dublin,Republic of Ireland,False
+1977-05-01,Denmark,Poland,1,2,FIFA World Cup qualification,Copenhagen,Denmark,False
+1977-05-15,Cyprus,Poland,1,3,FIFA World Cup qualification,Limassol,Cyprus,False
+1977-05-29,Argentina,Poland,3,1,Friendly,Buenos Aires,Argentina,False
+1977-06-10,Peru,Poland,1,3,Friendly,Lima,Peru,False
+1977-06-12,Bolivia,Poland,1,2,Friendly,La Paz,Bolivia,False
+1977-06-19,Brazil,Poland,3,1,Friendly,São Paulo,Brazil,False
+1977-08-24,Austria,Poland,2,1,Friendly,Vienna,Austria,False
+1977-09-07,Russia,Poland,4,1,Friendly,Volgograd,Soviet Union,False
+1977-09-21,Poland,Denmark,4,1,FIFA World Cup qualification,Chorzów,Poland,False
+1977-10-29,Poland,Portugal,1,1,FIFA World Cup qualification,Chorzów,Poland,False
+1977-11-12,Poland,Sweden,2,1,Friendly,Wrocław,Poland,False
+1978-03-22,Luxembourg,Poland,1,3,Friendly,Luxembourg,Luxembourg,False
+1978-04-05,Poland,Greece,5,2,Friendly,Poznań,Poland,False
+1978-04-12,Poland,Republic of Ireland,3,0,Friendly,Łódź,Poland,False
+1978-04-26,Poland,Bulgaria,1,0,Friendly,Warsaw,Poland,False
+1978-06-01,Germany,Poland,0,0,FIFA World Cup,Buenos Aires,Argentina,True
+1978-06-06,Poland,Tunisia,1,0,FIFA World Cup,Rosario,Argentina,True
+1978-06-10,Mexico,Poland,1,3,FIFA World Cup,Rosario,Argentina,True
+1978-06-14,Argentina,Poland,2,0,FIFA World Cup,Rosario,Argentina,False
+1978-06-18,Peru,Poland,0,1,FIFA World Cup,Mendoza,Argentina,True
+1978-06-21,Brazil,Poland,3,1,FIFA World Cup,Mendoza,Argentina,True
+1978-08-30,Finland,Poland,0,1,Friendly,Helsinki,Finland,False
+1978-09-06,Iceland,Poland,0,2,UEFA Euro qualification,Reykjavík,Iceland,False
+1978-10-11,Romania,Poland,1,0,Friendly,Bucharest,Romania,False
+1978-11-15,Poland,Switzerland,2,0,UEFA Euro qualification,Wrocław,Poland,False
+1979-02-16,Libya,Poland,1,0,Friendly,Tripoli,Libya,False
+1979-02-18,Tunisia,Poland,0,2,Friendly,Tunis,Tunisia,False
+1979-03-21,Algeria,Poland,0,1,Friendly,Algiers,Algeria,False
+1979-04-04,Poland,Hungary,1,1,Friendly,Chorzów,Poland,False
+1979-04-18,German DR,Poland,2,1,UEFA Euro qualification,Leipzig,German DR,False
+1979-05-02,Poland,Netherlands,2,0,UEFA Euro qualification,Chorzów,Poland,False
+1979-08-19,Poland,Libya,5,0,Friendly,Słupsk,Poland,False
+1979-08-29,Poland,Romania,3,0,Friendly,Warsaw,Poland,False
+1979-09-12,Switzerland,Poland,0,2,UEFA Euro qualification,Lausanne,Switzerland,False
+1979-09-26,Poland,German DR,1,1,UEFA Euro qualification,Chorzów,Poland,False
+1979-10-10,Poland,Iceland,2,0,UEFA Euro qualification,Kraków,Poland,False
+1979-10-17,Netherlands,Poland,1,1,UEFA Euro qualification,Amsterdam,Netherlands,False
+1980-02-17,Morocco,Poland,1,0,Friendly,Marrakech,Morocco,False
+1980-02-27,Iraq,Poland,1,1,Friendly,Baghdad,Iraq,False
+1980-02-29,Iraq,Poland,1,0,Friendly,Baghdad,Iraq,False
+1980-03-26,Hungary,Poland,2,1,Friendly,Budapest,Hungary,False
+1980-04-02,Belgium,Poland,2,1,Friendly,Brussels,Belgium,False
+1980-04-19,Italy,Poland,2,2,Friendly,Turin,Italy,False
+1980-04-26,Yugoslavia,Poland,2,1,Friendly,Borovo,Yugoslavia,False
+1980-05-13,Germany,Poland,3,1,Friendly,Frankfurt am Main,Germany,False
+1980-05-28,Poland,Scotland,1,0,Friendly,Poznań,Poland,False
+1980-06-22,Poland,Iraq,3,0,Friendly,Warsaw,Poland,False
+1980-06-29,Brazil,Poland,1,1,Friendly,São Paulo,Brazil,False
+1980-07-02,Bolivia,Poland,0,1,Friendly,Santa Cruz,Bolivia,False
+1980-07-09,Colombia,Poland,1,4,Friendly,Bogotá,Colombia,False
+1980-09-24,Poland,Czechoslovakia,1,1,Friendly,Chorzów,Poland,False
+1980-10-12,Argentina,Poland,2,1,Friendly,Buenos Aires,Argentina,False
+1980-11-12,Spain,Poland,1,2,Friendly,Barcelona,Spain,False
+1980-11-19,Poland,Algeria,5,1,Friendly,Kraków,Poland,False
+1980-12-07,Malta,Poland,0,2,FIFA World Cup qualification,Gżira,Malta,False
+1981-03-25,Romania,Poland,2,0,Friendly,Bucharest,Romania,False
+1981-05-02,Poland,German DR,1,0,FIFA World Cup qualification,Chorzów,Poland,False
+1981-05-23,Poland,Republic of Ireland,3,0,Friendly,Bydgoszcz,Poland,False
+1981-09-02,Poland,Germany,0,2,Friendly,Chorzów,Poland,False
+1981-09-23,Portugal,Poland,2,0,Friendly,Lisbon,Portugal,False
+1981-10-10,German DR,Poland,2,3,FIFA World Cup qualification,Leipzig,German DR,False
+1981-10-28,Argentina,Poland,1,2,Friendly,Buenos Aires,Argentina,False
+1981-11-15,Poland,Malta,6,0,FIFA World Cup qualification,Wrocław,Poland,False
+1981-11-18,Poland,Spain,2,3,Friendly,Łódź,Poland,False
+1982-06-14,Italy,Poland,0,0,FIFA World Cup,Vigo,Spain,True
+1982-06-19,Poland,Cameroon,0,0,FIFA World Cup,La Coruña,Spain,True
+1982-06-22,Poland,Peru,5,1,FIFA World Cup,La Coruña,Spain,True
+1982-06-28,Poland,Belgium,3,0,FIFA World Cup,Barcelona,Spain,True
+1982-07-04,Poland,Russia,0,0,FIFA World Cup,Barcelona,Spain,True
+1982-07-08,Poland,Italy,0,2,FIFA World Cup,Barcelona,Spain,True
+1982-07-10,Poland,France,3,2,FIFA World Cup,Alicante,Spain,True
+1982-08-31,France,Poland,0,4,Friendly,Paris,France,False
+1982-09-08,Finland,Poland,2,3,UEFA Euro qualification,Kuopio,Finland,False
+1982-10-10,Portugal,Poland,2,1,UEFA Euro qualification,Lisbon,Portugal,False
+1983-03-23,Poland,Bulgaria,3,1,Friendly,Łódź,Poland,False
+1983-04-17,Poland,Finland,1,1,UEFA Euro qualification,Warsaw,Poland,False
+1983-05-22,Poland,Russia,1,1,UEFA Euro qualification,Chorzów,Poland,False
+1983-09-07,Poland,Romania,2,2,Friendly,Kraków,Poland,False
+1983-10-09,Russia,Poland,2,0,UEFA Euro qualification,Moscow,Soviet Union,False
+1983-10-28,Poland,Portugal,0,1,UEFA Euro qualification,Wrocław,Poland,False
+1984-01-11,India,Poland,1,2,Nehru Cup,Calcutta,India,False
+1984-01-15,China PR,Poland,0,1,Nehru Cup,Calcutta,India,True
+1984-01-17,Argentina,Poland,1,1,Nehru Cup,Calcutta,India,True
+1984-01-27,China PR,Poland,0,1,Nehru Cup,Calcutta,India,True
+1984-03-27,Switzerland,Poland,1,1,Friendly,Zürich,Switzerland,False
+1984-04-17,Poland,Belgium,0,1,Friendly,Warsaw,Poland,False
+1984-05-23,Republic of Ireland,Poland,0,0,Friendly,Dublin,Republic of Ireland,False
+1984-08-29,Norway,Poland,1,1,Friendly,Drammen,Norway,False
+1984-09-12,Finland,Poland,0,2,Friendly,Helsinki,Finland,False
+1984-09-26,Poland,Turkey,2,0,Friendly,Słupsk,Poland,False
+1984-10-17,Poland,Greece,3,1,FIFA World Cup qualification,Zabrze,Poland,False
+1984-10-31,Poland,Albania,2,2,FIFA World Cup qualification,Mielec,Poland,False
+1984-12-08,Italy,Poland,2,0,Friendly,Pescara,Italy,False
+1985-02-05,Mexico,Poland,5,0,Friendly,Querétaro,Mexico,False
+1985-02-06,Bulgaria,Poland,2,2,Friendly,Querétaro,Mexico,True
+1985-02-10,Colombia,Poland,1,2,Friendly,Bogotá,Colombia,False
+1985-02-14,Colombia,Poland,1,0,Friendly,Cali,Colombia,False
+1985-03-27,Romania,Poland,0,0,Friendly,Sibiu,Romania,False
+1985-04-17,Poland,Finland,2,1,Friendly,Opole,Poland,False
+1985-05-01,Belgium,Poland,2,0,FIFA World Cup qualification,Brussels,Belgium,False
+1985-05-19,Greece,Poland,1,4,FIFA World Cup qualification,Athens,Greece,False
+1985-05-30,Albania,Poland,0,1,FIFA World Cup qualification,Tirana,Albania,False
+1985-08-21,Sweden,Poland,1,0,Friendly,Malmö,Sweden,False
+1985-09-04,Czechoslovakia,Poland,3,1,Friendly,Brno,Czechoslovakia,False
+1985-09-11,Poland,Belgium,0,0,FIFA World Cup qualification,Chorzów,Poland,False
+1985-11-16,Poland,Italy,1,0,Friendly,Chorzów,Poland,False
+1985-12-08,Tunisia,Poland,1,0,Friendly,Tunis,Tunisia,False
+1985-12-11,Turkey,Poland,1,1,Friendly,Adana,Turkey,False
+1986-02-16,Uruguay,Poland,2,2,Friendly,Montevideo,Uruguay,False
+1986-03-26,Spain,Poland,3,0,Friendly,Cádiz,Spain,False
+1986-05-16,Denmark,Poland,1,0,Friendly,Copenhagen,Denmark,False
+1986-06-02,Morocco,Poland,0,0,FIFA World Cup,Monterrey,Mexico,True
+1986-06-07,Poland,Portugal,1,0,FIFA World Cup,Monterrey,Mexico,True
+1986-06-11,England,Poland,3,0,FIFA World Cup,Monterrey,Mexico,True
+1986-06-16,Brazil,Poland,4,0,FIFA World Cup,Guadalajara,Mexico,True
+1986-10-07,Poland,North Korea,2,2,Friendly,Bydgoszcz,Poland,False
+1986-10-15,Poland,Greece,2,1,UEFA Euro qualification,Poznań,Poland,False
+1986-11-12,Poland,Republic of Ireland,1,0,Friendly,Warsaw,Poland,False
+1986-11-19,Netherlands,Poland,0,0,UEFA Euro qualification,Amsterdam,Netherlands,False
+1987-03-18,Poland,Finland,3,1,Friendly,Rybnik,Poland,False
+1987-03-24,Poland,Norway,4,1,Friendly,Wrocław,Poland,False
+1987-04-12,Poland,Cyprus,0,0,UEFA Euro qualification,Gdańsk,Poland,False
+1987-04-29,Greece,Poland,1,0,UEFA Euro qualification,Athens,Greece,False
+1987-05-17,Hungary,Poland,5,3,UEFA Euro qualification,Budapest,Hungary,False
+1987-08-19,Poland,German DR,2,0,Friendly,Lubin,Poland,False
+1987-09-02,Poland,Romania,3,1,Friendly,Bydgoszcz,Poland,False
+1987-09-23,Poland,Hungary,3,2,UEFA Euro qualification,Warsaw,Poland,False
+1987-10-14,Poland,Netherlands,0,2,UEFA Euro qualification,Zabrze,Poland,False
+1987-10-27,Czechoslovakia,Poland,3,1,Friendly,Bratislava,Czechoslovakia,False
+1987-11-11,Cyprus,Poland,0,1,UEFA Euro qualification,Limassol,Cyprus,False
+1988-02-06,Poland,Romania,2,2,Friendly,Haifa,Israel,True
+1988-02-10,Israel,Poland,1,3,Friendly,Ramat Gan,Israel,False
+1988-03-23,Northern Ireland,Poland,1,1,Friendly,Belfast,Northern Ireland,False
+1988-05-22,Republic of Ireland,Poland,3,1,Friendly,Dublin,Republic of Ireland,False
+1988-06-01,Russia,Poland,2,1,Friendly,Moscow,Soviet Union,False
+1988-07-13,United States,Poland,0,2,Friendly,New Britain,United States,False
+1988-07-15,Canada,Poland,1,2,Friendly,Toronto,Canada,False
+1988-08-24,Poland,Bulgaria,3,2,Friendly,Białystok,Poland,False
+1988-09-21,German DR,Poland,1,2,Friendly,Cottbus,German DR,False
+1988-10-19,Poland,Albania,1,0,FIFA World Cup qualification,Chorzów,Poland,False
+1989-02-07,Costa Rica,Poland,2,4,Friendly,San José,Costa Rica,False
+1989-02-12,Guatemala,Poland,0,1,Friendly,Guatemala City,Guatemala,False
+1989-02-14,Mexico,Poland,3,1,Friendly,Puebla,Mexico,False
+1989-04-12,Poland,Romania,2,1,Friendly,Warsaw,Poland,False
+1989-05-02,Norway,Poland,0,3,Friendly,Oslo,Norway,False
+1989-05-07,Sweden,Poland,2,1,FIFA World Cup qualification,Solna,Sweden,False
+1989-06-03,England,Poland,3,0,FIFA World Cup qualification,London,England,False
+1989-08-23,Poland,Russia,1,1,Friendly,Lubin,Poland,False
+1989-09-05,Poland,Greece,3,0,Friendly,Warsaw,Poland,False
+1989-09-20,Spain,Poland,1,0,Friendly,La Coruña,Spain,False
+1989-10-11,Poland,England,0,0,FIFA World Cup qualification,Chorzów,Poland,False
+1989-10-25,Poland,Sweden,0,2,FIFA World Cup qualification,Chorzów,Poland,False
+1989-11-15,Albania,Poland,1,2,FIFA World Cup qualification,Tirana,Albania,False
+1990-02-02,Iran,Poland,0,2,Friendly,Tehran,Iran,False
+1990-02-04,Iran,Poland,0,1,Friendly,Tehran,Iran,False
+1990-02-11,Kuwait,Poland,1,1,Friendly,Cairo,Egypt,True
+1990-03-28,Poland,Yugoslavia,0,0,Friendly,Łódź,Poland,False
+1990-05-04,Colombia,Poland,2,1,Marlboro Cup,Chicago,United States,True
+1990-05-06,Costa Rica,Poland,0,2,Marlboro Cup,Chicago,United States,True
+1990-05-09,United States,Poland,3,1,Friendly,Hershey,United States,False
+1990-05-19,Scotland,Poland,1,1,Friendly,Glasgow,Scotland,False
+1990-05-21,Poland,United Arab Emirates,4,0,Friendly,Marseille,France,True
+1990-06-06,Belgium,Poland,1,1,Friendly,Brussels,Belgium,False
+1990-08-15,France,Poland,0,0,Friendly,Paris,France,False
+1990-09-26,Romania,Poland,2,1,Friendly,Bucharest,Romania,False
+1990-10-10,Poland,United States,2,3,Friendly,Warsaw,Poland,False
+1990-10-17,England,Poland,2,0,UEFA Euro qualification,London,England,False
+1990-11-14,Turkey,Poland,0,1,UEFA Euro qualification,Istanbul,Turkey,False
+1990-12-19,Greece,Poland,1,2,Friendly,Vólos,Greece,False
+1991-02-05,Northern Ireland,Poland,3,1,Friendly,Belfast,Northern Ireland,False
+1991-03-13,Poland,Finland,1,1,Friendly,Warsaw,Poland,False
+1991-03-27,Czechoslovakia,Poland,4,0,Friendly,Olomouc,Czechoslovakia,False
+1991-04-17,Poland,Turkey,3,0,UEFA Euro qualification,Warsaw,Poland,False
+1991-05-01,Republic of Ireland,Poland,0,0,UEFA Euro qualification,Dublin,Republic of Ireland,False
+1991-05-29,Poland,Wales,0,0,Friendly,Radom,Poland,False
+1991-08-14,Poland,France,1,5,Friendly,Poznań,Poland,False
+1991-08-21,Poland,Sweden,2,0,Friendly,Gdynia,Poland,False
+1991-09-11,Netherlands,Poland,1,1,Friendly,Eindhoven,Netherlands,False
+1991-10-16,Poland,Republic of Ireland,3,3,UEFA Euro qualification,Poznań,Poland,False
+1991-11-13,Poland,England,1,1,UEFA Euro qualification,Poznań,Poland,False
+1991-12-03,Egypt,Poland,4,0,Friendly,Cairo,Egypt,False
+1991-12-05,Egypt,Poland,0,0,Friendly,Cairo,Egypt,False
+1991-12-09,Kuwait,Poland,0,2,Friendly,Kuwait City,Kuwait,False
+1992-05-07,Sweden,Poland,5,0,Friendly,Solna,Sweden,False
+1992-05-19,Austria,Poland,2,4,Friendly,Salzburg,Austria,False
+1992-05-27,Poland,Czechoslovakia,1,0,Friendly,Jastrzębie-Zdrój,Poland,False
+1992-07-05,Guatemala,Poland,2,2,Friendly,Guatemala City,Guatemala,False
+1992-08-26,Finland,Poland,0,0,Friendly,Jakobstad,Finland,False
+1992-09-09,Poland,Israel,1,1,Friendly,Mielec,Poland,False
+1992-09-23,Poland,Turkey,1,0,FIFA World Cup qualification,Poznań,Poland,False
+1992-10-14,Netherlands,Poland,2,2,FIFA World Cup qualification,Rotterdam,Netherlands,False
+1992-11-18,Poland,Latvia,1,0,Friendly,Iława,Poland,False
+1992-11-26,Argentina,Poland,2,0,Friendly,Buenos Aires,Argentina,False
+1992-11-29,Uruguay,Poland,0,1,Friendly,Montevideo,Uruguay,False
+1993-02-01,Cyprus,Poland,0,0,Friendly,Nicosia,Cyprus,False
+1993-02-03,Israel,Poland,0,0,Friendly,Ramat Gan,Israel,False
+1993-03-17,Brazil,Poland,2,2,Friendly,Ribeirão Preto,Brazil,False
+1993-03-31,Poland,Lithuania,1,1,Friendly,Brzeszcze,Poland,False
+1993-04-13,Poland,Finland,2,1,Friendly,Radom,Poland,False
+1993-04-28,Poland,San Marino,1,0,FIFA World Cup qualification,Łódź,Poland,False
+1993-05-19,San Marino,Poland,0,3,FIFA World Cup qualification,Serravalle,San Marino,False
+1993-05-29,Poland,England,1,1,FIFA World Cup qualification,Chorzów,Poland,False
+1993-09-08,England,Poland,3,0,FIFA World Cup qualification,London,England,False
+1993-09-22,Norway,Poland,1,0,FIFA World Cup qualification,Oslo,Norway,False
+1993-09-29,Mexico,Poland,0,0,Friendly,Oakland,United States,True
+1993-10-13,Poland,Norway,0,3,FIFA World Cup qualification,Poznań,Poland,False
+1993-10-27,Turkey,Poland,2,1,FIFA World Cup qualification,Istanbul,Turkey,False
+1993-11-17,Poland,Netherlands,1,3,FIFA World Cup qualification,Poznań,Poland,False
+1994-02-09,Spain,Poland,1,1,Friendly,Santa Cruz de Tenerife,Spain,False
+1994-03-23,Greece,Poland,0,0,Friendly,Salonica,Greece,False
+1994-04-13,Poland,Saudi Arabia,1,0,Friendly,Cannes,France,True
+1994-05-04,Poland,Hungary,3,2,Friendly,Kraków,Poland,False
+1994-05-17,Poland,Austria,3,4,Friendly,Katowice,Poland,False
+1994-08-17,Poland,Belarus,1,1,Friendly,Radom,Poland,False
+1994-09-04,Israel,Poland,2,1,UEFA Euro qualification,Ramat Gan,Israel,False
+1994-10-12,Poland,Azerbaijan,1,0,UEFA Euro qualification,Mielec,Poland,False
+1994-11-16,Poland,France,0,0,UEFA Euro qualification,Zabrze,Poland,False
+1994-12-08,Saudi Arabia,Poland,0,2,Friendly,Riyadh,Saudi Arabia,False
+1994-12-10,Saudi Arabia,Poland,1,2,Friendly,Riyadh,Saudi Arabia,False
+1995-03-15,Poland,Lithuania,4,1,Friendly,Ostrowiec Świętokrzyski,Poland,False
+1995-03-29,Romania,Poland,2,1,UEFA Euro qualification,Bucharest,Romania,False
+1995-04-25,Poland,Israel,4,3,UEFA Euro qualification,Zabrze,Poland,False
+1995-06-07,Poland,Slovakia,5,0,UEFA Euro qualification,Zabrze,Poland,False
+1995-06-29,Brazil,Poland,2,1,Friendly,Recife,Brazil,False
+1995-08-16,France,Poland,1,1,UEFA Euro qualification,Paris,France,False
+1995-09-06,Poland,Romania,0,0,UEFA Euro qualification,Zabrze,Poland,False
+1995-10-11,Slovakia,Poland,4,1,UEFA Euro qualification,Bratislava,Slovakia,False
+1995-11-15,Azerbaijan,Poland,0,0,UEFA Euro qualification,Trabzon,Turkey,True
+1996-02-19,Japan,Poland,5,0,Lunar New Year Cup,So Kon Po,Hong Kong,True
+1996-02-28,Croatia,Poland,2,1,Friendly,Rijeka,Croatia,False
+1996-03-27,Poland,Slovenia,0,0,Friendly,Łódź,Poland,False
+1996-05-01,Poland,Belarus,1,1,Friendly,Mielec,Poland,False
+1996-06-02,Russia,Poland,2,0,Friendly,Moscow,Russia,False
+1996-08-27,Poland,Cyprus,2,2,Friendly,Bełchatów,Poland,False
+1996-09-04,Poland,Germany,0,2,Friendly,Zabrze,Poland,False
+1996-09-25,Poland,United Arab Emirates,1,0,Friendly,Wodzisław Śląski,Poland,False
+1996-10-09,England,Poland,2,1,FIFA World Cup qualification,London,England,False
+1996-11-10,Poland,Moldova,2,1,FIFA World Cup qualification,Katowice,Poland,False
+1997-02-14,Lithuania,Poland,0,0,Cyprus International Tournament,Agía Nápa,Cyprus,True
+1997-02-15,Cyprus,Poland,2,3,Cyprus International Tournament,Agía Nápa,Cyprus,False
+1997-02-17,Latvia,Poland,2,3,Cyprus International Tournament,Dherynia,Cyprus,True
+1997-02-26,Brazil,Poland,4,2,Friendly,Goiânia,Brazil,False
+1997-03-12,Czech Republic,Poland,2,1,Friendly,Ostrava,Czech Republic,False
+1997-04-02,Poland,Italy,0,0,FIFA World Cup qualification,Chorzów,Poland,False
+1997-04-30,Italy,Poland,3,0,FIFA World Cup qualification,Naples,Italy,False
+1997-05-22,Sweden,Poland,2,2,Friendly,Solna,Sweden,False
+1997-05-31,Poland,England,0,2,FIFA World Cup qualification,Chorzów,Poland,False
+1997-06-14,Poland,Georgia,4,1,FIFA World Cup qualification,Katowice,Poland,False
+1997-09-06,Poland,Hungary,1,0,Friendly,Warsaw,Poland,False
+1997-09-24,Poland,Lithuania,2,0,Friendly,Olsztyn,Poland,False
+1997-10-07,Moldova,Poland,0,3,FIFA World Cup qualification,Chișinău,Moldova,False
+1997-10-11,Georgia,Poland,3,0,FIFA World Cup qualification,Tbilisi,Georgia,False
+1998-02-08,Paraguay,Poland,4,0,Friendly,Asunción,Paraguay,False
+1998-02-25,Israel,Poland,2,0,Friendly,Ramat Gan,Israel,False
+1998-03-25,Poland,Slovenia,2,0,Friendly,Warsaw,Poland,False
+1998-04-22,Croatia,Poland,4,1,Friendly,Osijek,Croatia,False
+1998-05-27,Poland,Russia,3,1,Friendly,Chorzów,Poland,False
+1998-07-15,Ukraine,Poland,1,2,Friendly,Kyiv,Ukraine,False
+1998-08-18,Poland,Israel,2,0,Friendly,Kraków,Poland,False
+1998-09-06,Bulgaria,Poland,0,3,UEFA Euro qualification,Burgas,Bulgaria,False
+1998-10-10,Poland,Luxembourg,3,0,UEFA Euro qualification,Warsaw,Poland,False
+1998-11-10,Slovakia,Poland,1,3,Friendly,Bratislava,Slovakia,False
+1999-02-03,Malta,Poland,0,1,Friendly,Attard,Malta,False
+1999-02-10,Finland,Poland,1,1,Friendly,Attard,Malta,True
+1999-03-03,Poland,Armenia,1,0,Friendly,Warsaw,Poland,False
+1999-03-27,England,Poland,3,1,UEFA Euro qualification,London,England,False
+1999-03-31,Poland,Sweden,0,1,UEFA Euro qualification,Chorzów,Poland,False
+1999-04-28,Poland,Czech Republic,2,1,Friendly,Warsaw,Poland,False
+1999-06-04,Poland,Bulgaria,2,0,UEFA Euro qualification,Warsaw,Poland,False
+1999-06-09,Luxembourg,Poland,2,3,UEFA Euro qualification,Luxembourg,Luxembourg,False
+1999-06-19,New Zealand,Poland,0,0,Four Nations' Cup,Bangkok,Thailand,True
+1999-08-18,Poland,Spain,1,2,Friendly,Warsaw,Poland,False
+1999-09-08,Poland,England,0,0,UEFA Euro qualification,Warsaw,Poland,False
+1999-10-09,Sweden,Poland,2,0,UEFA Euro qualification,Solna,Sweden,False
+2000-01-26,Spain,Poland,3,0,Friendly,Cartagena,Spain,False
+2000-02-23,France,Poland,1,0,Friendly,Saint-Denis,France,False
+2000-03-29,Hungary,Poland,0,0,Friendly,Debrecen,Hungary,False
+2000-04-26,Poland,Finland,0,0,Friendly,Poznań,Poland,False
+2000-06-04,Netherlands,Poland,3,1,Friendly,Lausanne,Switzerland,True
+2000-08-16,Romania,Poland,1,1,Friendly,Bucharest,Romania,False
+2000-09-02,Ukraine,Poland,1,3,FIFA World Cup qualification,Kyiv,Ukraine,False
+2000-10-07,Poland,Belarus,3,1,FIFA World Cup qualification,Łódź,Poland,False
+2000-10-11,Poland,Wales,0,0,FIFA World Cup qualification,Warsaw,Poland,False
+2000-11-15,Poland,Iceland,1,0,Friendly,Warsaw,Poland,False
+2001-02-28,Switzerland,Poland,0,4,Friendly,Larnaca,Cyprus,True
+2001-03-24,Norway,Poland,2,3,FIFA World Cup qualification,Oslo,Norway,False
+2001-03-28,Poland,Armenia,4,0,FIFA World Cup qualification,Warsaw,Poland,False
+2001-04-25,Poland,Scotland,1,1,Friendly,Bydgoszcz,Poland,False
+2001-06-02,Wales,Poland,1,2,FIFA World Cup qualification,Cardiff,Wales,False
+2001-06-06,Armenia,Poland,1,1,FIFA World Cup qualification,Yerevan,Armenia,False
+2001-08-15,Iceland,Poland,1,1,Friendly,Reykjavík,Iceland,False
+2001-09-01,Poland,Norway,3,0,FIFA World Cup qualification,Chorzów,Poland,False
+2001-09-05,Belarus,Poland,4,1,FIFA World Cup qualification,Minsk,Belarus,False
+2001-10-06,Poland,Ukraine,1,1,FIFA World Cup qualification,Chorzów,Poland,False
+2001-11-14,Poland,Cameroon,0,0,Friendly,Poznań,Poland,False
+2002-02-10,Faroe Islands,Poland,1,2,Friendly,Limassol,Cyprus,True
+2002-02-13,Northern Ireland,Poland,1,4,Friendly,Limassol,Cyprus,True
+2002-03-27,Poland,Japan,0,2,Friendly,Łódź,Poland,False
+2002-04-17,Poland,Romania,1,2,Friendly,Bydgoszcz,Poland,False
+2002-05-18,Poland,Estonia,1,0,Friendly,Warsaw,Poland,False
+2002-06-04,South Korea,Poland,2,0,FIFA World Cup,Busan,South Korea,False
+2002-06-10,Portugal,Poland,4,0,FIFA World Cup,Jeonju,South Korea,True
+2002-06-14,Poland,United States,3,1,FIFA World Cup,Daejeon,South Korea,True
+2002-08-21,Poland,Belgium,1,1,Friendly,Szczecin,Poland,False
+2002-09-07,San Marino,Poland,0,2,UEFA Euro qualification,Serravalle,San Marino,False
+2002-10-12,Poland,Latvia,0,1,UEFA Euro qualification,Warsaw,Poland,False
+2002-10-16,Poland,New Zealand,2,0,Friendly,Ostrowiec Świętokrzyski,Poland,False
+2002-11-20,Denmark,Poland,2,0,Friendly,Copenhagen,Denmark,False
+2003-02-12,Croatia,Poland,0,0,Friendly,Split,Croatia,False
+2003-02-14,North Macedonia,Poland,0,3,Friendly,Split,Croatia,True
+2003-03-29,Poland,Hungary,0,0,UEFA Euro qualification,Chorzów,Poland,False
+2003-04-02,Poland,San Marino,5,0,UEFA Euro qualification,Ostrowiec Świętokrzyski,Poland,False
+2003-04-30,Belgium,Poland,3,1,Friendly,Brussels,Belgium,False
+2003-06-06,Poland,Kazakhstan,3,0,Friendly,Poznań,Poland,False
+2003-06-11,Sweden,Poland,3,0,UEFA Euro qualification,Solna,Sweden,False
+2003-08-20,Estonia,Poland,1,2,Friendly,Tallinn,Estonia,False
+2003-09-06,Latvia,Poland,0,2,UEFA Euro qualification,Riga,Latvia,False
+2003-09-10,Poland,Sweden,0,2,UEFA Euro qualification,Chorzów,Poland,False
+2003-10-11,Hungary,Poland,1,2,UEFA Euro qualification,Budapest,Hungary,False
+2003-11-12,Poland,Italy,3,1,Friendly,Warsaw,Poland,False
+2003-11-16,Poland,Serbia,4,3,Friendly,Płock,Poland,False
+2003-12-11,Malta,Poland,0,4,Friendly,Attard,Malta,False
+2003-12-14,Lithuania,Poland,1,3,Friendly,Attard,Malta,True
+2004-02-18,Poland,Slovenia,2,0,Friendly,San Fernando,Spain,True
+2004-02-21,Poland,Faroe Islands,6,0,Friendly,San Fernando,Spain,True
+2004-03-31,Poland,United States,0,1,Friendly,Płock,Poland,False
+2004-04-28,Poland,Republic of Ireland,0,0,Friendly,Bydgoszcz,Poland,False
+2004-05-29,Poland,Greece,1,0,Friendly,Szczecin,Poland,False
+2004-06-05,Sweden,Poland,3,1,Friendly,Solna,Sweden,False
+2004-07-11,United States,Poland,1,1,Friendly,Chicago,United States,False
+2004-08-18,Poland,Denmark,1,5,Friendly,Poznań,Poland,False
+2004-09-04,Northern Ireland,Poland,0,3,FIFA World Cup qualification,Belfast,Northern Ireland,False
+2004-09-08,Poland,England,1,2,FIFA World Cup qualification,Chorzów,Poland,False
+2004-10-09,Austria,Poland,1,3,FIFA World Cup qualification,Vienna,Austria,False
+2004-10-13,Wales,Poland,2,3,FIFA World Cup qualification,Cardiff,Wales,False
+2004-11-17,France,Poland,0,0,Friendly,Saint-Denis,France,False
+2005-02-09,Poland,Belarus,1,3,Friendly,Grodzisk Wielkopolski,Poland,False
+2005-03-26,Poland,Azerbaijan,8,0,FIFA World Cup qualification,Warsaw,Poland,False
+2005-03-30,Poland,Northern Ireland,1,0,FIFA World Cup qualification,Warsaw,Poland,False
+2005-04-27,Mexico,Poland,1,1,Friendly,Chicago,United States,True
+2005-05-29,Poland,Albania,1,0,Friendly,Szczecin,Poland,False
+2005-06-04,Azerbaijan,Poland,0,3,FIFA World Cup qualification,Baku,Azerbaijan,False
+2005-08-15,Poland,Serbia,3,2,Friendly,Kyiv,Ukraine,True
+2005-08-17,Poland,Israel,3,2,Friendly,Kyiv,Ukraine,True
+2005-09-03,Poland,Austria,3,2,FIFA World Cup qualification,Chorzów,Poland,False
+2005-09-07,Poland,Wales,1,0,FIFA World Cup qualification,Warsaw,Poland,False
+2005-10-07,Poland,Iceland,3,2,Friendly,Warsaw,Poland,False
+2005-10-12,England,Poland,2,1,FIFA World Cup qualification,Manchester,England,False
+2005-11-13,Ecuador,Poland,0,3,Friendly,Barcelona,Spain,True
+2005-11-16,Poland,Estonia,3,1,Friendly,Ostrowiec Świętokrzyski,Poland,False
+2006-03-01,Poland,United States,0,1,Friendly,Kaiserslautern,Germany,True
+2006-03-28,Saudi Arabia,Poland,1,2,Friendly,Riyadh,Saudi Arabia,False
+2006-05-02,Poland,Lithuania,0,1,Friendly,Bełchatów,Poland,False
+2006-05-14,Poland,Faroe Islands,4,0,Friendly,Wronki,Poland,False
+2006-05-30,Poland,Colombia,1,2,Friendly,Chorzów,Poland,False
+2006-06-03,Croatia,Poland,0,1,Friendly,Wolfsburg,Germany,True
+2006-06-09,Poland,Ecuador,0,2,FIFA World Cup,Gelsenkirchen,Germany,True
+2006-06-14,Germany,Poland,1,0,FIFA World Cup,Dortmund,Germany,False
+2006-06-20,Costa Rica,Poland,1,2,FIFA World Cup,Hanover,Germany,True
+2006-08-16,Denmark,Poland,2,0,Friendly,Odense,Denmark,False
+2006-09-02,Poland,Finland,1,3,UEFA Euro qualification,Bydgoszcz,Poland,False
+2006-09-06,Poland,Serbia,1,1,UEFA Euro qualification,Warsaw,Poland,False
+2006-10-07,Kazakhstan,Poland,0,1,UEFA Euro qualification,Almaty,Kazakhstan,False
+2006-10-11,Poland,Portugal,2,1,UEFA Euro qualification,Chorzów,Poland,False
+2006-11-15,Belgium,Poland,0,1,UEFA Euro qualification,Brussels,Belgium,False
+2006-12-06,United Arab Emirates,Poland,2,5,Friendly,Abu Dhabi,United Arab Emirates,False
+2006-12-09,Silesia,Poland,1,1,Friendly,Chorzów,Poland,False
+2007-02-03,Poland,Estonia,4,0,Friendly,Jerez de la Frontera,Spain,True
+2007-02-07,Poland,Slovakia,2,2,Friendly,Jerez de la Frontera,Spain,True
+2007-03-24,Poland,Azerbaijan,5,0,UEFA Euro qualification,Warsaw,Poland,False
+2007-03-28,Poland,Armenia,1,0,UEFA Euro qualification,Kielce,Poland,False
+2007-06-02,Azerbaijan,Poland,1,3,UEFA Euro qualification,Baku,Azerbaijan,False
+2007-06-06,Armenia,Poland,1,0,UEFA Euro qualification,Yerevan,Armenia,False
+2007-08-22,Russia,Poland,2,2,Friendly,Moscow,Russia,False
+2007-09-08,Portugal,Poland,2,2,UEFA Euro qualification,Lisbon,Portugal,False
+2007-09-12,Finland,Poland,0,0,UEFA Euro qualification,Helsinki,Finland,False
+2007-10-13,Poland,Kazakhstan,3,1,UEFA Euro qualification,Warsaw,Poland,False
+2007-10-17,Poland,Hungary,0,1,Friendly,Łódź,Poland,False
+2007-11-17,Poland,Belgium,2,0,UEFA Euro qualification,Chorzów,Poland,False
+2007-11-21,Serbia,Poland,2,2,UEFA Euro qualification,Belgrade,Serbia,False
+2008-02-06,Czech Republic,Poland,0,2,Friendly,Larnaca,Cyprus,True
+2008-02-27,Poland,Estonia,2,0,Friendly,Wronki,Poland,False
+2008-03-26,Poland,United States,0,3,Friendly,Kraków,Poland,False
+2008-05-26,North Macedonia,Poland,1,1,Friendly,Reutlingen,Germany,True
+2008-05-27,Albania,Poland,0,1,Friendly,Reutlingen,Germany,True
+2008-06-01,Poland,Denmark,1,1,Friendly,Chorzów,Poland,False
+2008-06-08,Germany,Poland,2,0,UEFA Euro,Klagenfurt,Austria,True
+2008-06-12,Austria,Poland,1,1,UEFA Euro,Vienna,Austria,False
+2008-06-16,Poland,Croatia,0,1,UEFA Euro,Klagenfurt,Austria,True
+2008-08-20,Ukraine,Poland,1,0,Friendly,Lviv,Ukraine,False
+2008-09-06,Poland,Slovenia,1,1,FIFA World Cup qualification,Wrocław,Poland,False
+2008-09-10,San Marino,Poland,0,2,FIFA World Cup qualification,Serravalle,San Marino,False
+2008-10-11,Poland,Czech Republic,2,1,FIFA World Cup qualification,Chorzów,Poland,False
+2008-10-15,Slovakia,Poland,2,1,FIFA World Cup qualification,Bratislava,Slovakia,False
+2008-11-19,Republic of Ireland,Poland,2,3,Friendly,Dublin,Republic of Ireland,False
+2008-12-14,Serbia,Poland,0,1,Friendly,Antalya,Turkey,True
+2009-02-07,Lithuania,Poland,1,1,Friendly,Faro,Portugal,True
+2009-02-11,Wales,Poland,0,1,Friendly,Vila Real de Santo António,Portugal,True
+2009-03-28,Northern Ireland,Poland,3,2,FIFA World Cup qualification,Belfast,Northern Ireland,False
+2009-04-01,Poland,San Marino,10,0,FIFA World Cup qualification,Kielce,Poland,False
+2009-06-06,South Africa,Poland,1,0,Friendly,Johannesburg,South Africa,False
+2009-06-09,Iraq,Poland,1,1,Friendly,Cape Town,South Africa,True
+2009-08-12,Poland,Greece,2,0,Friendly,Bydgoszcz,Poland,False
+2009-09-05,Poland,Northern Ireland,1,1,FIFA World Cup qualification,Chorzów,Poland,False
+2009-09-09,Slovenia,Poland,3,0,FIFA World Cup qualification,Maribor,Slovenia,False
+2009-10-10,Czech Republic,Poland,2,0,FIFA World Cup qualification,Prague,Czech Republic,False
+2009-10-14,Poland,Slovakia,0,1,FIFA World Cup qualification,Chorzów,Poland,False
+2009-11-14,Poland,Romania,0,1,Friendly,Warsaw,Poland,False
+2009-11-18,Poland,Canada,1,0,Friendly,Bydgoszcz,Poland,False
+2010-01-20,Thailand,Poland,1,3,King's Cup,Nakhon Ratchasima,Thailand,False
+2010-01-23,Poland,Singapore,6,1,King's Cup,Nakhon Ratchasima,Thailand,True
+2010-03-03,Poland,Bulgaria,2,0,Friendly,Warsaw,Poland,False
+2010-05-29,Poland,Finland,0,0,Friendly,Kielce,Poland,False
+2010-06-02,Serbia,Poland,0,0,Friendly,Kufstein,Austria,True
+2010-06-08,Spain,Poland,6,0,Friendly,Murcia,Spain,False
+2010-08-11,Poland,Cameroon,0,3,Friendly,Szczecin,Poland,False
+2010-09-04,Poland,Ukraine,1,1,Friendly,Łódź,Poland,False
+2010-09-07,Poland,Australia,1,2,Friendly,Kraków,Poland,False
+2010-10-09,United States,Poland,2,2,Friendly,Chicago,United States,False
+2010-10-12,Ecuador,Poland,2,2,Friendly,Montreal,Canada,True
+2010-11-17,Poland,Ivory Coast,3,1,Friendly,Poznań,Poland,False
+2010-12-10,Bosnia and Herzegovina,Poland,2,2,Friendly,Antalya,Turkey,True
+2011-02-06,Moldova,Poland,0,1,Friendly,Vila Real de Santo António,Portugal,True
+2011-02-09,Norway,Poland,0,1,Friendly,Faro,Portugal,True
+2011-03-25,Lithuania,Poland,2,0,Friendly,Kaunas,Lithuania,False
+2011-03-29,Greece,Poland,0,0,Friendly,Piraeus,Greece,False
+2011-06-05,Poland,Argentina,2,1,Friendly,Warsaw,Poland,False
+2011-06-09,Poland,France,0,1,Friendly,Warsaw,Poland,False
+2011-08-10,Poland,Georgia,1,0,Friendly,Lubin,Poland,False
+2011-09-02,Poland,Mexico,1,1,Friendly,Warsaw,Poland,False
+2011-09-06,Poland,Germany,2,2,Friendly,Gdańsk,Poland,False
+2011-10-07,South Korea,Poland,2,2,Friendly,Seoul,South Korea,False
+2011-10-11,Belarus,Poland,0,2,Friendly,Wiesbaden,Germany,True
+2011-11-11,Poland,Italy,0,2,Friendly,Wrocław,Poland,False
+2011-11-15,Poland,Hungary,2,1,Friendly,Poznań,Poland,False
+2012-02-29,Poland,Portugal,0,0,Friendly,Warsaw,Poland,False
+2012-05-22,Latvia,Poland,0,1,Friendly,Klagenfurt,Austria,True
+2012-05-26,Poland,Slovakia,1,0,Friendly,Klagenfurt,Austria,True
+2012-06-02,Poland,Andorra,4,0,Friendly,Warsaw,Poland,False
+2012-06-08,Poland,Greece,1,1,UEFA Euro,Warsaw,Poland,False
+2012-06-12,Poland,Russia,1,1,UEFA Euro,Warsaw,Poland,False
+2012-06-16,Poland,Czech Republic,0,1,UEFA Euro,Wrocław,Poland,False
+2012-08-15,Estonia,Poland,1,0,Friendly,Tallinn,Estonia,False
+2012-09-07,Montenegro,Poland,2,2,FIFA World Cup qualification,Podgorica,Montenegro,False
+2012-09-11,Poland,Moldova,2,0,FIFA World Cup qualification,Wrocław,Poland,False
+2012-10-12,Poland,South Africa,1,0,Friendly,Warsaw,Poland,False
+2012-10-17,Poland,England,1,1,FIFA World Cup qualification,Warsaw,Poland,False
+2012-11-14,Poland,Uruguay,1,3,Friendly,Gdańsk,Poland,False
+2012-12-14,North Macedonia,Poland,1,4,Friendly,Antalya,Turkey,True
+2013-02-06,Republic of Ireland,Poland,2,0,Friendly,Dublin,Republic of Ireland,False
+2013-03-22,Poland,Ukraine,1,3,FIFA World Cup qualification,Warsaw,Poland,False
+2013-03-26,Poland,San Marino,5,0,FIFA World Cup qualification,Warsaw,Poland,False
+2013-06-04,Poland,Liechtenstein,2,0,Friendly,Kraków,Poland,False
+2013-06-07,Moldova,Poland,1,1,FIFA World Cup qualification,Chișinău,Moldova,False
+2013-08-14,Poland,Denmark,3,2,Friendly,Gdańsk,Poland,False
+2013-09-06,Poland,Montenegro,1,1,FIFA World Cup qualification,Warsaw,Poland,False
+2013-09-10,San Marino,Poland,1,5,FIFA World Cup qualification,Serravalle,San Marino,False
+2013-10-11,Ukraine,Poland,1,0,FIFA World Cup qualification,Kharkiv,Ukraine,False
+2013-10-15,England,Poland,2,0,FIFA World Cup qualification,London,England,False
+2013-11-15,Poland,Slovakia,0,2,Friendly,Wrocław,Poland,False
+2013-11-19,Poland,Republic of Ireland,0,0,Friendly,Poznań,Poland,False
+2014-01-18,Norway,Poland,0,3,Friendly,Abu Dhabi,United Arab Emirates,True
+2014-01-20,Moldova,Poland,0,1,Friendly,Abu Dhabi,United Arab Emirates,True
+2014-03-05,Poland,Scotland,0,1,Friendly,Warsaw,Poland,False
+2014-05-13,Germany,Poland,0,0,Friendly,Hamburg,Germany,False
+2014-06-06,Poland,Lithuania,2,1,Friendly,Gdańsk,Poland,False
+2014-09-07,Gibraltar,Poland,0,7,UEFA Euro qualification,Faro,Portugal,True
+2014-10-11,Poland,Germany,2,0,UEFA Euro qualification,Warsaw,Poland,False
+2014-10-14,Poland,Scotland,2,2,UEFA Euro qualification,Warsaw,Poland,False
+2014-11-14,Georgia,Poland,0,4,UEFA Euro qualification,Tbilisi,Georgia,False
+2014-11-18,Poland,Switzerland,2,2,Friendly,Wrocław,Poland,False
+2015-03-29,Republic of Ireland,Poland,1,1,UEFA Euro qualification,Dublin,Republic of Ireland,False
+2015-06-13,Poland,Georgia,4,0,UEFA Euro qualification,Warsaw,Poland,False
+2015-06-16,Poland,Greece,0,0,Friendly,Gdańsk,Poland,False
+2015-09-04,Germany,Poland,3,1,UEFA Euro qualification,Frankfurt am Main,Germany,False
+2015-09-07,Poland,Gibraltar,8,1,UEFA Euro qualification,Warsaw,Poland,False
+2015-10-08,Scotland,Poland,2,2,UEFA Euro qualification,Glasgow,Scotland,False
+2015-10-11,Poland,Republic of Ireland,2,1,UEFA Euro qualification,Warsaw,Poland,False
+2015-11-13,Poland,Iceland,4,2,Friendly,Warsaw,Poland,False
+2015-11-17,Poland,Czech Republic,3,1,Friendly,Wrocław,Poland,False
+2016-03-23,Poland,Serbia,1,0,Friendly,Poznań,Poland,False
+2016-03-26,Poland,Finland,5,0,Friendly,Wrocław,Poland,False
+2016-06-01,Poland,Netherlands,1,2,Friendly,Gdańsk,Poland,False
+2016-06-06,Poland,Lithuania,0,0,Friendly,Kraków,Poland,False
+2016-06-12,Poland,Northern Ireland,1,0,UEFA Euro,Nice,France,True
+2016-06-16,Germany,Poland,0,0,UEFA Euro,Saint-Denis,France,True
+2016-06-21,Ukraine,Poland,0,1,UEFA Euro,Marseille,France,True
+2016-06-25,Switzerland,Poland,1,1,UEFA Euro,Saint-Étienne,France,True
+2016-06-30,Poland,Portugal,1,1,UEFA Euro,Marseille,France,True
+2016-09-04,Kazakhstan,Poland,2,2,FIFA World Cup qualification,Astana,Kazakhstan,False
+2016-10-08,Poland,Denmark,3,2,FIFA World Cup qualification,Warsaw,Poland,False
+2016-10-11,Poland,Armenia,2,1,FIFA World Cup qualification,Warsaw,Poland,False
+2016-11-11,Romania,Poland,0,3,FIFA World Cup qualification,Bucharest,Romania,False
+2016-11-14,Poland,Slovenia,1,1,Friendly,Wrocław,Poland,False
+2017-03-26,Montenegro,Poland,1,2,FIFA World Cup qualification,Podgorica,Montenegro,False
+2017-06-10,Poland,Romania,3,1,FIFA World Cup qualification,Warsaw,Poland,False
+2017-09-01,Denmark,Poland,4,0,FIFA World Cup qualification,Copenhagen,Denmark,False
+2017-09-04,Poland,Kazakhstan,3,0,FIFA World Cup qualification,Warsaw,Poland,False
+2017-10-05,Armenia,Poland,1,6,FIFA World Cup qualification,Yerevan,Armenia,False
+2017-10-08,Poland,Montenegro,4,2,FIFA World Cup qualification,Warsaw,Poland,False
+2017-11-10,Poland,Uruguay,0,0,Friendly,Warsaw,Poland,False
+2017-11-13,Poland,Mexico,0,1,Friendly,Gdańsk,Poland,False
+2018-03-23,Poland,Nigeria,0,1,Friendly,Wrocław,Poland,False
+2018-03-27,Poland,South Korea,3,2,Friendly,Chorzów,Poland,False
+2018-06-08,Poland,Chile,2,2,Friendly,Poznań,Poland,False
+2018-06-12,Poland,Lithuania,4,0,Friendly,Warsaw,Poland,False
+2018-06-19,Poland,Senegal,1,2,FIFA World Cup,Moscow,Russia,True
+2018-06-24,Poland,Colombia,0,3,FIFA World Cup,Kazan,Russia,True
+2018-06-28,Japan,Poland,0,1,FIFA World Cup,Volgograd,Russia,True
+2018-09-07,Italy,Poland,1,1,UEFA Nations League,Bologna,Italy,False
+2018-09-11,Poland,Republic of Ireland,1,1,Friendly,Wrocław,Poland,False
+2018-10-11,Poland,Portugal,2,3,UEFA Nations League,Chorzów,Poland,False
+2018-10-14,Poland,Italy,0,1,UEFA Nations League,Chorzów,Poland,False
+2018-11-15,Poland,Czech Republic,0,1,Friendly,Gdańsk,Poland,False
+2018-11-20,Portugal,Poland,1,1,UEFA Nations League,Guimarães,Portugal,False
+2019-03-21,Austria,Poland,0,1,UEFA Euro qualification,Vienna,Austria,False
+2019-03-24,Poland,Latvia,2,0,UEFA Euro qualification,Warsaw,Poland,False
+2019-06-07,North Macedonia,Poland,0,1,UEFA Euro qualification,Skopje,North Macedonia,False
+2019-06-10,Poland,Israel,4,0,UEFA Euro qualification,Warsaw,Poland,False
+2019-09-06,Slovenia,Poland,2,0,UEFA Euro qualification,Ljubljana,Slovenia,False
+2019-09-09,Poland,Austria,0,0,UEFA Euro qualification,Warsaw,Poland,False
+2019-10-10,Latvia,Poland,0,3,UEFA Euro qualification,Riga,Latvia,False
+2019-10-13,Poland,North Macedonia,2,0,UEFA Euro qualification,Warsaw,Poland,False
+2019-11-16,Israel,Poland,1,2,UEFA Euro qualification,Jerusalem,Israel,False
+2019-11-19,Poland,Slovenia,3,2,UEFA Euro qualification,Warsaw,Poland,False
+2020-09-04,Netherlands,Poland,1,0,UEFA Nations League,Amsterdam,Netherlands,False
+2020-09-07,Bosnia and Herzegovina,Poland,1,2,UEFA Nations League,Zenica,Bosnia and Herzegovina,False
+2020-10-07,Poland,Finland,5,1,Friendly,Gdańsk,Poland,False
+2020-10-11,Poland,Italy,0,0,UEFA Nations League,Gdańsk,Poland,False
+2020-10-14,Poland,Bosnia and Herzegovina,3,0,UEFA Nations League,Wrocław,Poland,False
+2020-11-11,Poland,Ukraine,2,0,Friendly,Chorzów,Poland,False
+2020-11-15,Italy,Poland,2,0,UEFA Nations League,Reggio Emilia,Italy,False
+2020-11-18,Poland,Netherlands,1,2,UEFA Nations League,Chorzów,Poland,False
+2021-03-25,Hungary,Poland,3,3,FIFA World Cup qualification,Budapest,Hungary,False
+2021-03-28,Poland,Andorra,3,0,FIFA World Cup qualification,Warsaw,Poland,False
+2021-03-31,England,Poland,2,1,FIFA World Cup qualification,London,England,False
+2021-06-01,Poland,Russia,1,1,Friendly,Wrocław,Poland,False
+2021-06-08,Poland,Iceland,2,2,Friendly,Poznań,Poland,False
+2021-06-14,Poland,Slovakia,1,2,UEFA Euro,Saint Petersburg,Russia,True
+2021-06-19,Spain,Poland,1,1,UEFA Euro,Seville,Spain,False
+2021-06-23,Sweden,Poland,3,2,UEFA Euro,Saint Petersburg,Russia,True
+2021-09-02,Poland,Albania,4,1,FIFA World Cup qualification,Warsaw,Poland,False
+2021-09-05,San Marino,Poland,1,7,FIFA World Cup qualification,Serravalle,San Marino,False
+2021-09-08,Poland,England,1,1,FIFA World Cup qualification,Warsaw,Poland,False
+2021-10-09,Poland,San Marino,5,0,FIFA World Cup qualification,Warsaw,Poland,False
+2021-10-12,Albania,Poland,0,1,FIFA World Cup qualification,Tirana,Albania,False
+2021-11-12,Andorra,Poland,1,4,FIFA World Cup qualification,Andorra la Vella,Andorra,False
+2021-11-15,Poland,Hungary,1,2,FIFA World Cup qualification,Warsaw,Poland,False
+2022-03-24,Scotland,Poland,1,1,Friendly,Glasgow,Scotland,False
+2022-03-29,Poland,Sweden,2,0,FIFA World Cup qualification,Chorzów,Poland,False
+2022-06-01,Poland,Wales,2,1,UEFA Nations League,Wrocław,Poland,False
+2022-06-08,Belgium,Poland,6,1,UEFA Nations League,Brussels,Belgium,False
+2022-06-11,Netherlands,Poland,2,2,UEFA Nations League,Rotterdam,Netherlands,False
+2022-06-14,Poland,Belgium,0,1,UEFA Nations League,Warsaw,Poland,False
+2022-09-22,Poland,Netherlands,0,2,UEFA Nations League,Warsaw,Poland,False
+2022-09-25,Wales,Poland,0,1,UEFA Nations League,Cardiff,Wales,False
+2022-11-16,Poland,Chile,1,0,Friendly,Warsaw,Poland,False
+2022-11-22,Mexico,Poland,0,0,FIFA World Cup,Doha,Qatar,True
+2022-11-26,Poland,Saudi Arabia,2,0,FIFA World Cup,Al Rayyan,Qatar,True
+2022-11-30,Poland,Argentina,0,2,FIFA World Cup,Doha,Qatar,True
+2022-12-04,France,Poland,3,1,FIFA World Cup,Doha,Qatar,True
+2023-03-24,Czech Republic,Poland,3,1,UEFA Euro qualification,Prague,Czech Republic,False
+2023-03-27,Poland,Albania,1,0,UEFA Euro qualification,Warsaw,Poland,False
+2023-06-16,Poland,Germany,1,0,Friendly,Warsaw,Poland,False
+2023-06-20,Moldova,Poland,3,2,UEFA Euro qualification,Chișinău,Moldova,False
+2023-09-07,Poland,Faroe Islands,2,0,UEFA Euro qualification,Warsaw,Poland,False
+2023-09-10,Albania,Poland,2,0,UEFA Euro qualification,Tirana,Albania,False
+2023-10-12,Faroe Islands,Poland,0,2,UEFA Euro qualification,Tórshavn,Faroe Islands,False
+2023-10-15,Poland,Moldova,1,1,UEFA Euro qualification,Warsaw,Poland,False
+2023-11-17,Poland,Czech Republic,1,1,UEFA Euro qualification,Warsaw,Poland,False
+2023-11-21,Poland,Latvia,2,0,Friendly,Warsaw,Poland,False
+2024-03-21,Poland,Estonia,5,1,UEFA Euro qualification,Warsaw,Poland,False
+2024-03-26,Wales,Poland,0,0,UEFA Euro qualification,Cardiff,Wales,False
+2024-06-07,Poland,Ukraine,3,1,Friendly,Warsaw,Poland,False
+2024-06-10,Poland,Turkey,2,1,Friendly,Warsaw,Poland,False
+2024-06-16,Poland,Netherlands,1,2,UEFA Euro,Hamburg,Germany,True
+2024-06-21,Poland,Austria,1,3,UEFA Euro,Berlin,Germany,True
+2024-06-25,France,Poland,1,1,UEFA Euro,Dortmund,Germany,True
+2024-09-05,Scotland,Poland,2,3,UEFA Nations League,Glasgow,Scotland,False
+2024-09-08,Croatia,Poland,1,0,UEFA Nations League,Osijek,Croatia,False
+2024-10-12,Poland,Portugal,1,3,UEFA Nations League,Warsaw,Poland,False
+2024-10-15,Poland,Croatia,3,3,UEFA Nations League,Warsaw,Poland,False
+2024-11-15,Portugal,Poland,5,1,UEFA Nations League,Porto,Portugal,False
+2024-11-18,Poland,Scotland,1,2,UEFA Nations League,Warsaw,Poland,False
+2025-03-21,Poland,Lithuania,1,0,FIFA World Cup qualification,Warsaw,Poland,False
+2025-03-24,Poland,Malta,2,0,FIFA World Cup qualification,Warsaw,Poland,False

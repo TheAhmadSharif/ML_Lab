@@ -1,0 +1,150 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1993-07-04,Gibraltar,Jersey,1,2,Island Games,Isle of Wight,England,True
+1993-07-05,Ynys Môn,Gibraltar,1,0,Island Games,Isle of Wight,England,True
+1993-07-06,Greenland,Gibraltar,5,0,Island Games,Isle of Wight,England,True
+1993-07-08,Shetland,Gibraltar,1,0,Island Games,Isle of Wight,England,True
+1995-07-16,Gibraltar,Greenland,0,1,Island Games,Gibraltar,Gibraltar,False
+1995-07-17,Gibraltar,Isle of Man,2,1,Island Games,Gibraltar,Gibraltar,False
+1995-07-18,Gibraltar,Ynys Môn,2,0,Island Games,Gibraltar,Gibraltar,False
+1995-07-20,Gibraltar,Jersey,1,0,Island Games,Gibraltar,Gibraltar,False
+1995-07-21,Gibraltar,Jersey,1,0,Island Games,Gibraltar,Gibraltar,False
+1995-07-22,Gibraltar,Isle of Wight,0,1,Island Games,Gibraltar,Gibraltar,False
+1997-06-29,Gibraltar,Guernsey,1,2,Island Games,Grouville,Jersey,True
+1997-07-01,Frøya,Gibraltar,0,4,Island Games,St. Lawrence,Jersey,True
+1997-07-02,Gibraltar,Greenland,5,1,Island Games,St. Lawrence,Jersey,True
+1997-07-03,Jersey,Gibraltar,3,2,Island Games,St Helier,Jersey,False
+1997-07-03,Shetland,Gibraltar,2,1,Island Games,St. Lawrence,Jersey,True
+1999-06-28,Åland Islands,Gibraltar,2,1,Island Games,Väskinde,Sweden,True
+1999-06-29,Gibraltar,Jersey,1,5,Island Games,Fardhem,Sweden,True
+1999-07-01,Shetland,Gibraltar,3,2,Island Games,Visby,Sweden,True
+1999-07-02,Gibraltar,Frøya,5,1,Island Games,Visby,Sweden,True
+2000-06-11,Gibraltar,Monaco,5,0,Friendly,Gibraltar,Gibraltar,False
+2001-07-09,Orkney,Gibraltar,0,2,Island Games,Douglas,Isle of Man,True
+2001-07-10,Jersey,Gibraltar,2,1,Island Games,Douglas,Isle of Man,True
+2001-07-12,Gibraltar,Shetland,2,0,Island Games,Peel,Isle of Man,True
+2001-07-13,Gibraltar,Rhodes,2,0,Island Games,Douglas,Isle of Man,True
+2002-02-18,Gibraltar,Monaco,2,2,Friendly,Nice,France,True
+2003-06-29,Gibraltar,Sark,19,0,Island Games,Saint Martin,Guernsey,True
+2003-06-30,Gibraltar,Greenland,2,0,Island Games,Saint Martin,Guernsey,True
+2003-07-01,Isle of Wight,Gibraltar,2,1,Island Games,Saint Martin,Guernsey,True
+2003-07-03,Orkney,Gibraltar,1,7,Island Games,Saint Sampson,Guernsey,True
+2003-07-04,Gibraltar,Ynys Môn,0,2,Island Games,Saint Sampson,Guernsey,True
+2005-05-27,Gibraltar,Monaco,4,0,Friendly,Gibraltar,Gibraltar,False
+2006-05-29,Republic of St. Pauli,Gibraltar,1,1,FIFI Wild Cup,Hamburg,Germany,False
+2006-05-31,Gibraltar,Tibet,5,0,FIFI Wild Cup,Hamburg,Germany,True
+2006-06-01,Northern Cyprus,Gibraltar,2,0,FIFI Wild Cup,Hamburg,Germany,True
+2006-06-03,Republic of St. Pauli,Gibraltar,1,2,FIFI Wild Cup,Hamburg,Germany,False
+2007-07-01,Jersey,Gibraltar,1,1,Island Games,Rhodes,Greece,True
+2007-07-02,Gibraltar,Menorca,2,1,Island Games,Rhodes,Greece,True
+2007-07-04,Gibraltar,Bermuda,2,0,Island Games,Rhodes,Greece,True
+2007-07-05,Rhodes,Gibraltar,0,4,Island Games,Rhodes,Greece,False
+2008-11-08,Jersey,Gibraltar,2,1,Friendly,St Helier,Jersey,False
+2009-06-28,Gibraltar,Guernsey,0,0,Island Games,Eckerö,Sweden,True
+2009-06-29,Frøya,Gibraltar,0,8,Island Games,Eckerö,Sweden,True
+2009-06-30,Gibraltar,Ynys Môn,1,3,Island Games,Hammarland,Sweden,True
+2009-07-03,Gibraltar,Isle of Wight,3,0,Island Games,Jomala,Sweden,True
+2011-03-11,Gibraltar,Faroe Islands,3,0,Friendly,Gibraltar,Gibraltar,False
+2011-06-26,Alderney,Gibraltar,1,6,Island Games,Newport,England,True
+2011-06-27,Gibraltar,Ynys Môn,6,3,Island Games,Brading,England,True
+2011-06-28,Isle of Wight,Gibraltar,3,2,Island Games,East Cowes,England,False
+2011-06-30,Saare County,Gibraltar,0,4,Island Games,Brading,England,True
+2013-11-19,Gibraltar,Slovakia,0,0,Friendly,Faro,Portugal,True
+2014-03-01,Gibraltar,Faroe Islands,1,4,Friendly,Gibraltar,Gibraltar,False
+2014-03-05,Gibraltar,Estonia,0,2,Friendly,Gibraltar,Gibraltar,False
+2014-05-26,Estonia,Gibraltar,1,1,Friendly,Tallinn,Estonia,False
+2014-06-04,Gibraltar,Malta,1,0,Friendly,Faro,Portugal,True
+2014-09-07,Gibraltar,Poland,0,7,UEFA Euro qualification,Faro,Portugal,True
+2014-10-11,Republic of Ireland,Gibraltar,7,0,UEFA Euro qualification,Dublin,Republic of Ireland,False
+2014-10-14,Gibraltar,Georgia,0,3,UEFA Euro qualification,Faro,Portugal,True
+2014-11-14,Germany,Gibraltar,4,0,UEFA Euro qualification,Nuremberg,Germany,False
+2015-03-29,Scotland,Gibraltar,6,1,UEFA Euro qualification,Glasgow,Scotland,False
+2015-06-07,Croatia,Gibraltar,4,0,Friendly,Varaždin,Croatia,False
+2015-06-13,Gibraltar,Germany,0,7,UEFA Euro qualification,Faro,Portugal,True
+2015-06-28,Gibraltar,Gotland,2,1,Island Games,St. Peter,Jersey,True
+2015-06-29,Gibraltar,Ynys Môn,1,1,Island Games,St Helier,Jersey,True
+2015-06-30,Gibraltar,Guernsey,0,4,Island Games,St Helier,Jersey,True
+2015-07-02,Gibraltar,Åland Islands,0,0,Island Games,St. Brelade,Jersey,True
+2015-09-04,Gibraltar,Republic of Ireland,0,4,UEFA Euro qualification,Faro,Portugal,True
+2015-09-07,Poland,Gibraltar,8,1,UEFA Euro qualification,Warsaw,Poland,False
+2015-10-08,Georgia,Gibraltar,4,0,UEFA Euro qualification,Tbilisi,Georgia,False
+2015-10-11,Gibraltar,Scotland,0,6,UEFA Euro qualification,Faro,Portugal,True
+2016-03-23,Gibraltar,Liechtenstein,0,0,Friendly,Gibraltar,Gibraltar,False
+2016-03-29,Gibraltar,Latvia,0,5,Friendly,Gibraltar,Gibraltar,False
+2016-09-01,Portugal,Gibraltar,5,0,Friendly,Porto,Portugal,False
+2016-09-06,Gibraltar,Greece,1,4,FIFA World Cup qualification,Faro,Portugal,True
+2016-10-07,Estonia,Gibraltar,4,0,FIFA World Cup qualification,Tallinn,Estonia,False
+2016-10-10,Gibraltar,Belgium,0,6,FIFA World Cup qualification,Faro,Portugal,True
+2016-11-13,Cyprus,Gibraltar,3,1,FIFA World Cup qualification,Nicosia,Cyprus,False
+2017-03-25,Bosnia and Herzegovina,Gibraltar,5,0,FIFA World Cup qualification,Zenica,Bosnia and Herzegovina,False
+2017-06-09,Gibraltar,Cyprus,1,2,FIFA World Cup qualification,Faro,Portugal,True
+2017-08-31,Belgium,Gibraltar,9,0,FIFA World Cup qualification,Liège,Belgium,False
+2017-09-03,Gibraltar,Bosnia and Herzegovina,0,4,FIFA World Cup qualification,Faro,Portugal,True
+2017-10-07,Gibraltar,Estonia,0,6,FIFA World Cup qualification,Faro,Portugal,True
+2017-10-10,Greece,Gibraltar,4,0,FIFA World Cup qualification,Piraeus,Greece,False
+2018-03-25,Gibraltar,Latvia,1,0,Friendly,Gibraltar,Gibraltar,False
+2018-09-06,Gibraltar,North Macedonia,0,2,UEFA Nations League,Gibraltar,Gibraltar,False
+2018-09-09,Liechtenstein,Gibraltar,2,0,UEFA Nations League,Vaduz,Liechtenstein,False
+2018-10-13,Armenia,Gibraltar,0,1,UEFA Nations League,Yerevan,Armenia,False
+2018-10-16,Gibraltar,Liechtenstein,2,1,UEFA Nations League,Gibraltar,Gibraltar,False
+2018-11-16,Gibraltar,Armenia,2,6,UEFA Nations League,Gibraltar,Gibraltar,False
+2018-11-19,North Macedonia,Gibraltar,4,0,UEFA Nations League,Skopje,North Macedonia,False
+2019-03-23,Gibraltar,Republic of Ireland,0,1,UEFA Euro qualification,Gibraltar,Gibraltar,False
+2019-03-26,Gibraltar,Estonia,0,1,Friendly,Gibraltar,Gibraltar,False
+2019-06-07,Georgia,Gibraltar,3,0,UEFA Euro qualification,Tbilisi,Georgia,False
+2019-06-10,Republic of Ireland,Gibraltar,2,0,UEFA Euro qualification,Dublin,Republic of Ireland,False
+2019-09-05,Gibraltar,Denmark,0,6,UEFA Euro qualification,Gibraltar,Gibraltar,False
+2019-09-08,Switzerland,Gibraltar,4,0,UEFA Euro qualification,Sion,Switzerland,False
+2019-10-10,Kosovo,Gibraltar,1,0,Friendly,Pristina,Kosovo,False
+2019-10-15,Gibraltar,Georgia,2,3,UEFA Euro qualification,Gibraltar,Gibraltar,False
+2019-11-15,Denmark,Gibraltar,6,0,UEFA Euro qualification,Copenhagen,Denmark,False
+2019-11-18,Gibraltar,Switzerland,1,6,UEFA Euro qualification,Gibraltar,Gibraltar,False
+2020-09-05,Gibraltar,San Marino,1,0,UEFA Nations League,Gibraltar,Gibraltar,False
+2020-10-07,Malta,Gibraltar,2,0,Friendly,Ta' Qali,Malta,False
+2020-10-10,Liechtenstein,Gibraltar,0,1,UEFA Nations League,Vaduz,Liechtenstein,False
+2020-11-11,Bulgaria,Gibraltar,3,0,Friendly,Sofia,Bulgaria,False
+2020-11-14,San Marino,Gibraltar,0,0,UEFA Nations League,Serravalle,San Marino,False
+2020-11-17,Gibraltar,Liechtenstein,1,1,UEFA Nations League,Gibraltar,Gibraltar,False
+2021-03-24,Gibraltar,Norway,0,3,FIFA World Cup qualification,Gibraltar,Gibraltar,False
+2021-03-27,Montenegro,Gibraltar,4,1,FIFA World Cup qualification,Podgorica,Montenegro,False
+2021-03-30,Gibraltar,Netherlands,0,7,FIFA World Cup qualification,Gibraltar,Gibraltar,False
+2021-06-04,Slovenia,Gibraltar,6,0,Friendly,Koper,Slovenia,False
+2021-06-07,Andorra,Gibraltar,0,0,Friendly,Andorra la Vella,Andorra,False
+2021-09-01,Latvia,Gibraltar,3,1,FIFA World Cup qualification,Riga,Latvia,False
+2021-09-04,Gibraltar,Turkey,0,3,FIFA World Cup qualification,Gibraltar,Gibraltar,False
+2021-09-07,Norway,Gibraltar,5,1,FIFA World Cup qualification,Oslo,Norway,False
+2021-10-08,Gibraltar,Montenegro,0,3,FIFA World Cup qualification,Gibraltar,Gibraltar,False
+2021-10-11,Netherlands,Gibraltar,6,0,FIFA World Cup qualification,Rotterdam,Netherlands,False
+2021-11-13,Turkey,Gibraltar,6,0,FIFA World Cup qualification,Istanbul,Turkey,False
+2021-11-16,Gibraltar,Latvia,1,3,FIFA World Cup qualification,Gibraltar,Gibraltar,False
+2022-03-23,Gibraltar,Grenada,0,0,Friendly,Gibraltar,Gibraltar,False
+2022-03-26,Gibraltar,Faroe Islands,0,0,Friendly,Gibraltar,Gibraltar,False
+2022-06-02,Georgia,Gibraltar,4,0,UEFA Nations League,Tbilisi,Georgia,False
+2022-06-05,Gibraltar,North Macedonia,0,2,UEFA Nations League,Gibraltar,Gibraltar,False
+2022-06-09,Gibraltar,Bulgaria,1,1,UEFA Nations League,Gibraltar,Gibraltar,False
+2022-06-12,North Macedonia,Gibraltar,4,0,UEFA Nations League,Skopje,North Macedonia,False
+2022-09-23,Bulgaria,Gibraltar,5,1,UEFA Nations League,Razgrad,Bulgaria,False
+2022-09-26,Gibraltar,Georgia,1,2,UEFA Nations League,Gibraltar,Gibraltar,False
+2022-11-16,Gibraltar,Liechtenstein,2,0,Friendly,Gibraltar,Gibraltar,False
+2022-11-19,Gibraltar,Andorra,1,0,Friendly,Gibraltar,Gibraltar,False
+2023-03-24,Gibraltar,Greece,0,3,UEFA Euro qualification,Faro-Loulé,Portugal,True
+2023-03-27,Netherlands,Gibraltar,3,0,UEFA Euro qualification,Rotterdam,Netherlands,False
+2023-06-16,Gibraltar,France,0,3,UEFA Euro qualification,Faro-Loulé,Portugal,True
+2023-06-19,Republic of Ireland,Gibraltar,3,0,UEFA Euro qualification,Dublin,Republic of Ireland,False
+2023-09-06,Malta,Gibraltar,1,0,Friendly,Ta' Qali,Malta,False
+2023-09-10,Greece,Gibraltar,5,0,UEFA Euro qualification,Athens,Greece,False
+2023-10-11,Wales,Gibraltar,4,0,Friendly,Wrexham,Wales,False
+2023-10-16,Gibraltar,Republic of Ireland,0,4,UEFA Euro qualification,Faro-Loulé,Portugal,True
+2023-11-18,France,Gibraltar,14,0,UEFA Euro qualification,Nice,France,False
+2023-11-21,Gibraltar,Netherlands,0,6,UEFA Euro qualification,Faro-Loulé,Portugal,True
+2024-03-21,Gibraltar,Lithuania,0,1,UEFA Nations League,Faro-Loulé,Portugal,True
+2024-03-26,Lithuania,Gibraltar,1,0,UEFA Nations League,Kaunas,Lithuania,False
+2024-06-03,Gibraltar,Scotland,0,2,Friendly,Faro-Loulé,Portugal,True
+2024-06-06,Gibraltar,Wales,0,0,Friendly,Faro-Loulé,Portugal,True
+2024-09-04,Gibraltar,Andorra,1,0,Friendly,Gibraltar,Gibraltar,False
+2024-09-08,Gibraltar,Liechtenstein,2,2,UEFA Nations League,Gibraltar,Gibraltar,False
+2024-10-10,Gibraltar,San Marino,1,0,UEFA Nations League,Gibraltar,Gibraltar,False
+2024-10-13,Liechtenstein,Gibraltar,0,0,UEFA Nations League,Vaduz,Liechtenstein,False
+2024-11-15,San Marino,Gibraltar,1,1,UEFA Nations League,Serravalle,San Marino,False
+2024-11-19,Gibraltar,Moldova,1,1,Friendly,Gibraltar,Gibraltar,False
+2025-03-22,Montenegro,Gibraltar,3,1,FIFA World Cup qualification,Nikšić,Montenegro,False
+2025-03-25,Gibraltar,Czech Republic,0,4,FIFA World Cup qualification,Faro-Loulé,Portugal,True

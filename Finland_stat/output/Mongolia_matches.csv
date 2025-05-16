@@ -1,0 +1,102 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1942-08-10,Japan,Mongolia,12,0,Friendly,Xinjing,Manchuria,True
+1960-10-03,North Vietnam,Mongolia,3,1,Friendly,Hanoi,North Vietnam,False
+1960-10-07,China PR,Mongolia,6,1,Friendly,Hanoi,North Vietnam,True
+1960-10-10,Mongolia,North Korea,1,10,Friendly,Hanoi,North Vietnam,True
+1993-05-10,China PR,Mongolia,6,1,East Asian Games,Shanghai,China PR,False
+1993-05-12,North Korea,Mongolia,7,0,East Asian Games,Shanghai,China PR,True
+1993-05-18,Mongolia,Macau,4,3,East Asian Games,Shanghai,China PR,True
+1997-05-11,Mongolia,China PR,0,6,East Asian Games,Busan,South Korea,True
+1997-05-13,Japan,Mongolia,5,0,East Asian Games,Busan,South Korea,True
+1997-05-17,Mongolia,Kazakhstan,3,11,East Asian Games,Busan,South Korea,True
+1997-05-19,Guam,Mongolia,0,4,East Asian Games,Busan,South Korea,True
+1998-12-01,Mongolia,Kuwait,0,11,Asian Games,Chiang Mai,Thailand,True
+1998-12-05,Mongolia,Uzbekistan,0,15,Asian Games,Chiang Mai,Thailand,True
+2000-02-29,Uzbekistan,Mongolia,8,1,Friendly,Tashkent,Uzbekistan,False
+2000-04-05,Myanmar,Mongolia,2,0,AFC Asian Cup qualification,Seoul,South Korea,True
+2000-04-07,South Korea,Mongolia,6,0,AFC Asian Cup qualification,Seoul,South Korea,False
+2000-04-09,Laos,Mongolia,2,1,AFC Asian Cup qualification,Seoul,South Korea,True
+2001-02-08,Saudi Arabia,Mongolia,6,0,FIFA World Cup qualification,Dammam,Saudi Arabia,False
+2001-02-10,Mongolia,Vietnam,0,1,FIFA World Cup qualification,Dammam,Saudi Arabia,True
+2001-02-12,Mongolia,Bangladesh,0,3,FIFA World Cup qualification,Dammam,Saudi Arabia,True
+2001-02-15,Saudi Arabia,Mongolia,6,0,FIFA World Cup qualification,Dammam,Saudi Arabia,False
+2001-02-17,Vietnam,Mongolia,4,0,FIFA World Cup qualification,Dammam,Saudi Arabia,True
+2001-02-19,Bangladesh,Mongolia,2,2,FIFA World Cup qualification,Dammam,Saudi Arabia,True
+2003-02-22,Macau,Mongolia,2,0,EAFF Championship,So Kon Po,Hong Kong,True
+2003-02-24,Mongolia,Guam,2,0,EAFF Championship,So Kon Po,Hong Kong,True
+2003-02-28,Hong Kong,Mongolia,10,0,EAFF Championship,So Kon Po,Hong Kong,False
+2003-04-25,Guam,Mongolia,0,5,AFC Asian Cup qualification,Thimphu,Bhutan,True
+2003-04-27,Bhutan,Mongolia,0,0,AFC Asian Cup qualification,Thimphu,Bhutan,False
+2003-11-29,Mongolia,Maldives,0,1,FIFA World Cup qualification,Ulaanbaatar,Mongolia,False
+2003-12-03,Maldives,Mongolia,12,0,FIFA World Cup qualification,Malé,Maldives,False
+2005-03-05,Hong Kong,Mongolia,6,0,EAFF Championship,Taipei,Taiwan,True
+2005-03-07,North Korea,Mongolia,6,0,EAFF Championship,Taipei,Taiwan,True
+2005-03-09,Mongolia,Guam,4,1,EAFF Championship,Taipei,Taiwan,True
+2007-06-17,Macau,Mongolia,0,0,EAFF Championship,Macau,Macau,False
+2007-06-19,North Korea,Mongolia,7,0,EAFF Championship,Macau,Macau,True
+2007-06-23,Mongolia,Guam,5,2,EAFF Championship,Macau,Macau,True
+2007-10-21,Mongolia,North Korea,1,4,FIFA World Cup qualification,Ulaanbaatar,Mongolia,False
+2007-10-28,North Korea,Mongolia,5,1,FIFA World Cup qualification,Pyongyang,North Korea,False
+2009-03-11,Guam,Mongolia,1,0,EAFF Championship,Yona,Guam,False
+2009-03-13,Macau,Mongolia,1,2,EAFF Championship,Yona,Guam,True
+2009-03-15,Northern Mariana Islands,Mongolia,1,4,EAFF Championship,Yona,Guam,True
+2009-04-07,Macau,Mongolia,2,0,AFC Challenge Cup qualification,Macau,Macau,False
+2009-04-14,Mongolia,Macau,3,1,AFC Challenge Cup qualification,Ulaanbaatar,Mongolia,False
+2011-02-09,Philippines,Mongolia,2,0,AFC Challenge Cup qualification,Bacolod,Philippines,False
+2011-03-15,Mongolia,Philippines,2,1,AFC Challenge Cup qualification,Ulaanbaatar,Mongolia,False
+2011-06-29,Mongolia,Myanmar,1,0,FIFA World Cup qualification,Ulaanbaatar,Mongolia,False
+2011-07-03,Myanmar,Mongolia,2,0,FIFA World Cup qualification,Yangon,Myanmar,False
+2013-03-02,Laos,Mongolia,1,1,AFC Challenge Cup qualification,Vientiane,Laos,False
+2013-03-04,Mongolia,Afghanistan,0,1,AFC Challenge Cup qualification,Vientiane,Laos,True
+2013-03-06,Sri Lanka,Mongolia,3,0,AFC Challenge Cup qualification,Vientiane,Laos,True
+2014-07-21,Mongolia,Northern Mariana Islands,4,0,EAFF Championship,Dededo,Guam,True
+2014-07-23,Guam,Mongolia,2,0,EAFF Championship,Dededo,Guam,False
+2014-07-25,Macau,Mongolia,3,2,EAFF Championship,Dededo,Guam,True
+2015-03-12,Timor-Leste,Mongolia,0,3,FIFA World Cup qualification,Dili,Timor-Leste,False
+2015-03-17,Mongolia,Timor-Leste,3,0,FIFA World Cup qualification,Ulan Bator,Mongolia,False
+2016-06-30,Macau,Mongolia,2,2,EAFF Championship,Dededo,Guam,True
+2016-07-02,Mongolia,Taiwan,0,2,EAFF Championship,Dededo,Guam,True
+2016-07-04,Northern Mariana Islands,Mongolia,0,8,EAFF Championship,Dededo,Guam,True
+2016-11-03,Macau,Mongolia,2,1,AFC Challenge Cup,Kuching,Malaysia,True
+2016-11-06,Mongolia,Sri Lanka,2,0,AFC Challenge Cup,Kuching,Malaysia,True
+2016-11-09,Mongolia,Laos,0,3,AFC Challenge Cup,Kuching,Malaysia,True
+2017-10-05,Taiwan,Mongolia,4,2,Friendly,Taipei,Taiwan,False
+2017-12-02,Kyrgyzstan,Mongolia,3,0,Friendly,Banda Aceh,Indonesia,True
+2017-12-04,Indonesia,Mongolia,3,2,Friendly,Banda Aceh,Indonesia,False
+2018-03-22,Malaysia,Mongolia,2,2,Friendly,Kuala Lumpur,Malaysia,False
+2018-03-27,Mongolia,Mauritius,0,2,Friendly,Ulan Bator,Mongolia,False
+2018-09-02,Mongolia,Macau,4,1,EAFF Championship,Ulaanbaatar,Mongolia,False
+2018-09-04,Mongolia,Northern Mariana Islands,9,0,EAFF Championship,Ulaanbaatar,Mongolia,False
+2018-09-06,Mongolia,Guam,1,1,EAFF Championship,Ulaanbaatar,Mongolia,False
+2018-10-12,Singapore,Mongolia,2,0,Friendly,Bishan,Singapore,False
+2018-10-16,Laos,Mongolia,1,4,Friendly,Vientiane,Laos,False
+2018-11-11,North Korea,Mongolia,4,1,EAFF Championship,Taipei,Taiwan,True
+2018-11-13,Taiwan,Mongolia,2,1,EAFF Championship,Taipei,Taiwan,False
+2018-11-16,Mongolia,Hong Kong,1,5,EAFF Championship,Taipei,Taiwan,True
+2019-06-06,Mongolia,Brunei,2,0,FIFA World Cup qualification,Ulaanbaatar,Mongolia,False
+2019-06-11,Brunei,Mongolia,2,1,FIFA World Cup qualification,Bandar Seri Begawan,Brunei,False
+2019-09-05,Mongolia,Myanmar,1,0,FIFA World Cup qualification,Ulaanbaatar,Mongolia,False
+2019-09-10,Mongolia,Tajikistan,0,1,FIFA World Cup qualification,Ulaanbaatar,Mongolia,False
+2019-10-10,Japan,Mongolia,6,0,FIFA World Cup qualification,Saitama,Japan,False
+2019-10-15,Mongolia,Kyrgyzstan,1,2,FIFA World Cup qualification,Ulaanbaatar,Mongolia,False
+2019-11-14,Cambodia,Mongolia,1,1,Friendly,Phnom Penh,Cambodia,False
+2019-11-19,Myanmar,Mongolia,1,0,FIFA World Cup qualification,Mandalay,Myanmar,False
+2021-03-25,Tajikistan,Mongolia,3,0,FIFA World Cup qualification,Dushanbe,Tajikistan,False
+2021-03-30,Japan,Mongolia,14,0,FIFA World Cup qualification,Chiba,Japan,False
+2021-06-07,Kyrgyzstan,Mongolia,0,1,FIFA World Cup qualification,Osaka,Japan,True
+2022-03-23,Laos,Mongolia,1,0,Friendly,Vientiane,Laos,False
+2022-03-29,Bangladesh,Mongolia,0,0,Friendly,Sylhet,Bangladesh,False
+2022-06-08,Mongolia,Palestine,0,1,AFC Asian Cup qualification,Ulaanbaatar,Mongolia,False
+2022-06-11,Mongolia,Philippines,0,1,AFC Asian Cup qualification,Ulaanbaatar,Mongolia,False
+2022-06-14,Mongolia,Yemen,2,0,AFC Asian Cup qualification,Ulaanbaatar,Mongolia,False
+2023-03-25,Georgia,Mongolia,6,1,Friendly,Batumi,Georgia,False
+2023-10-12,Afghanistan,Mongolia,1,0,FIFA World Cup qualification,Dushanbe,Tajikistan,True
+2023-10-17,Mongolia,Afghanistan,0,1,FIFA World Cup qualification,Ulaanbaatar,Mongolia,False
+2024-03-22,Azerbaijan,Mongolia,1,0,FIFA Series,Baku,Azerbaijan,False
+2024-03-25,Tanzania,Mongolia,3,0,FIFA Series,Baku,Azerbaijan,True
+2024-06-07,Cambodia,Mongolia,2,0,Friendly,Phnom Penh,Cambodia,False
+2024-06-11,Mongolia,Cambodia,2,1,Friendly,Ulaanbaatar,Mongolia,False
+2024-09-05,Timor-Leste,Mongolia,4,1,AFC Asian Cup qualification,Gianyar,Indonesia,True
+2024-09-10,Mongolia,Timor-Leste,2,0,AFC Asian Cup qualification,Ulaanbaatar,Mongolia,False
+2024-12-08,Hong Kong,Mongolia,3,0,EAFF Championship qualification,Hong Kong,Hong Kong,False
+2024-12-11,Taiwan,Mongolia,4,0,EAFF Championship qualification,Hong Kong,Hong Kong,True

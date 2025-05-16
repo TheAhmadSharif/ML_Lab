@@ -1,0 +1,45 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+2008-07-08,Provence,Padania,1,6,Viva World Cup,Gällivare,Sweden,True
+2008-07-10,Padania,Iraqi Kurdistan,2,1,Viva World Cup,Gällivare,Sweden,True
+2008-07-11,Sápmi,Padania,0,2,Viva World Cup,Malmberget,Sweden,False
+2008-07-12,Padania,Arameans Suryoye,4,1,Viva World Cup,Malmberget,Sweden,True
+2008-07-13,Padania,Arameans Suryoye,2,0,Viva World Cup,Gällivare,Sweden,True
+2009-06-22,Padania,Occitania,1,0,Viva World Cup,Novara,Italy,False
+2009-06-24,Padania,Iraqi Kurdistan,2,1,Viva World Cup,Brescia,Italy,False
+2009-06-25,Padania,Sápmi,4,0,Viva World Cup,Varese,Italy,False
+2009-06-27,Padania,Iraqi Kurdistan,2,0,Viva World Cup,Verona,Italy,False
+2010-05-31,Gozo,Padania,1,2,Viva World Cup,Xewkija,Malta,False
+2010-06-01,Occitania,Padania,0,1,Viva World Cup,Xewkija,Malta,True
+2010-06-04,Padania,Two Sicilies,2,0,Viva World Cup,Xewkija,Malta,True
+2010-06-05,Iraqi Kurdistan,Padania,0,1,Viva World Cup,Xewkija,Malta,True
+2014-06-01,Darfur,Padania,0,20,CONIFA World Football Cup,Östersund,Sweden,True
+2014-06-03,South Ossetia,Padania,1,3,CONIFA World Football Cup,Östersund,Sweden,True
+2014-06-04,Padania,County of Nice,1,2,CONIFA World Football Cup,Östersund,Sweden,True
+2014-06-05,Padania,Abkhazia,3,3,CONIFA World Football Cup,Östersund,Sweden,True
+2014-06-07,Padania,Iraqi Kurdistan,1,1,CONIFA World Football Cup,Östersund,Sweden,True
+2015-06-17,Padania,Romani people,3,2,CONIFA European Football Cup,Debrecen,Hungary,True
+2015-06-19,Padania,Ellan Vannin,1,0,CONIFA European Football Cup,Debrecen,Hungary,True
+2015-06-20,Padania,Felvidék,5,0,CONIFA European Football Cup,Debrecen,Hungary,True
+2015-06-21,County of Nice,Padania,1,4,CONIFA European Football Cup,Debrecen,Hungary,True
+2016-05-16,Romani people,Padania,0,2,Friendly,Milan,Italy,True
+2016-05-29,Padania,Northern Cyprus,1,2,CONIFA World Football Cup,Gagra,Georgia,True
+2016-05-30,Raetia,Padania,0,6,CONIFA World Football Cup,Gagra,Georgia,True
+2016-06-02,Iraqi Kurdistan,Padania,2,2,CONIFA World Football Cup,Sukhumi,Georgia,True
+2016-06-04,Padania,Panjab,1,0,CONIFA World Football Cup,Sukhumi,Georgia,True
+2016-06-05,Padania,Northern Cyprus,0,2,CONIFA World Football Cup,Sukhumi,Georgia,True
+2017-06-05,Padania,Ellan Vannin,1,0,CONIFA European Football Cup,Morphou,Northern Cyprus,True
+2017-06-06,Székely Land,Padania,1,1,CONIFA European Football Cup,Famagusta,Northern Cyprus,True
+2017-06-07,Padania,Felvidék,2,0,CONIFA European Football Cup,Nicosia,Northern Cyprus,True
+2017-06-09,Padania,Abkhazia,0,0,CONIFA European Football Cup,Kyrenia,Northern Cyprus,True
+2017-06-10,Northern Cyprus,Padania,1,1,CONIFA European Football Cup,Nicosia,Northern Cyprus,False
+2018-05-31,Padania,Matabeleland,6,1,CONIFA World Football Cup,Sutton,England,True
+2018-06-02,Padania,Tuvalu,8,0,CONIFA World Football Cup,Haringey,England,True
+2018-06-03,Padania,Székely Land,3,1,CONIFA World Football Cup,Bedfont,England,True
+2018-06-05,Padania,Panjab,2,0,CONIFA World Football Cup,Bracknell,England,True
+2018-06-07,Northern Cyprus,Padania,3,2,CONIFA World Football Cup,Carshalton,England,True
+2018-06-09,Padania,Székely Land,0,0,CONIFA World Football Cup,Enfield,England,True
+2019-06-02,Padania,Székely Land,4,0,CONIFA European Football Cup,Martakert,Azerbaijan,True
+2019-06-03,South Ossetia,Padania,2,1,CONIFA European Football Cup,Stepanakert,Azerbaijan,True
+2019-06-04,Padania,Western Armenia,1,1,CONIFA European Football Cup,Stepanakert,Azerbaijan,True
+2019-06-06,Padania,Sápmi,4,0,CONIFA European Football Cup,Martakert,Azerbaijan,True
+2019-06-08,Artsakh,Padania,2,0,CONIFA European Football Cup,Stepanakert,Azerbaijan,False

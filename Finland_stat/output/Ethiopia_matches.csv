@@ -1,0 +1,402 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1947-12-05,Djibouti,Ethiopia,0,5,Friendly,Djibouti,French Somaliland,False
+1948-06-01,Djibouti,Ethiopia,1,2,Friendly,Djibouti,French Somaliland,False
+1949-05-01,Ethiopia,Djibouti,6,0,Friendly,Addis Ababa,Ethiopia,False
+1954-05-01,Ethiopia,Djibouti,10,2,Friendly,Addis Ababa,Ethiopia,False
+1954-06-01,Djibouti,Ethiopia,0,2,Friendly,Djibouti,French Somaliland,False
+1954-06-02,Djibouti,Ethiopia,1,2,Friendly,Djibouti,French Somaliland,False
+1956-11-16,Ethiopia,Sudan,2,1,Friendly,Addis Ababa,Ethiopia,False
+1957-02-16,Egypt,Ethiopia,4,0,African Cup of Nations,Khartoum,Sudan,True
+1959-05-22,Egypt,Ethiopia,4,0,African Cup of Nations,Cairo,United Arab Republic,True
+1959-05-25,Ethiopia,Sudan,0,1,African Cup of Nations,Cairo,United Arab Republic,True
+1961-03-14,Israel,Ethiopia,1,0,FIFA World Cup qualification,Ramat Gan,Israel,False
+1961-03-19,Israel,Ethiopia,3,2,FIFA World Cup qualification,Ramat Gan,Israel,False
+1961-12-31,Ethiopia,Kenya,4,3,Friendly,Addis Ababa,Ethiopia,False
+1962-01-07,Ethiopia,Kenya,6,1,Friendly,Addis Ababa,Ethiopia,False
+1962-01-14,Ethiopia,Tunisia,4,2,African Cup of Nations,Addis Ababa,Ethiopia,False
+1962-01-21,Ethiopia,Egypt,4,2,African Cup of Nations,Addis Ababa,Ethiopia,False
+1962-09-19,Yugoslavia,Ethiopia,5,2,Friendly,Belgrade,Yugoslavia,False
+1962-10-10,Turkey,Ethiopia,3,0,Friendly,Ankara,Turkey,False
+1962-10-18,Greece,Ethiopia,3,2,Friendly,Athens,Greece,False
+1962-12-16,Ethiopia,Turkey,0,0,Friendly,Addis Ababa,Ethiopia,False
+1963-03-24,Uganda,Ethiopia,1,7,Friendly,Kampala,Uganda,False
+1963-05-02,Tanzania,Ethiopia,0,2,Friendly,Dar es Salaam,Tanganyika,False
+1963-05-27,Zanzibar,Ethiopia,0,4,Friendly,Zanzibar City,Zanzibar,False
+1963-06-03,Kenya,Ethiopia,1,2,Friendly,Nairobi,Kenya,False
+1963-06-16,Ethiopia,Sudan,4,0,Friendly,Addis Ababa,Ethiopia,False
+1963-11-21,Senegal,Ethiopia,1,2,Friendly,Dakar,Senegal,False
+1963-11-26,Ghana,Ethiopia,2,0,African Cup of Nations,Accra,Ghana,False
+1963-11-28,Ethiopia,Tunisia,4,2,African Cup of Nations,Accra,Ghana,True
+1963-11-30,Egypt,Ethiopia,3,0,African Cup of Nations,Accra,Ghana,True
+1964-05-13,Greece,Ethiopia,3,1,Friendly,Athens,Greece,False
+1964-05-17,Tunisia,Ethiopia,3,2,Friendly,Tunis,Tunisia,False
+1965-02-21,Uganda,Ethiopia,1,2,African Cup of Nations qualification,Kampala,Uganda,False
+1965-03-27,Sudan,Ethiopia,2,1,African Cup of Nations qualification,Khartoum,Sudan,False
+1965-04-18,Ethiopia,Uganda,2,0,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+1965-04-18,Ethiopia,Sudan,1,0,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+1965-11-12,Tunisia,Ethiopia,4,0,African Cup of Nations,Tunis,Tunisia,False
+1965-11-19,Ethiopia,Senegal,1,5,African Cup of Nations,Tunis,Tunisia,True
+1966-07-07,Ethiopia,Uganda,5,0,Friendly,Addis Ababa,Ethiopia,False
+1966-07-10,Ethiopia,Sudan,1,1,Friendly,Addis Ababa,Ethiopia,False
+1967-02-19,Ethiopia,Kenya,2,0,Friendly,Khartoum,Sudan,True
+1967-02-24,Sudan,Ethiopia,1,1,Friendly,Khartoum,Sudan,False
+1967-02-26,Sudan,Ethiopia,5,3,Friendly,Khartoum,Sudan,False
+1967-02-28,Ethiopia,Sudan,2,1,Friendly,Addis Ababa,Ethiopia,False
+1967-08-02,DR Congo,Ethiopia,1,0,Friendly,Kinshasa,Congo-Kinshasa,False
+1967-10-29,Uganda,Ethiopia,2,3,Friendly,Kampala,Uganda,False
+1967-12-06,Mauritius,Ethiopia,0,2,Friendly,Port Louis,Mauritius,False
+1967-12-31,Ethiopia,Kenya,2,0,Friendly,Addis Ababa,Ethiopia,False
+1968-01-12,Ethiopia,Uganda,2,1,African Cup of Nations,Addis Ababa,Ethiopia,False
+1968-01-14,Ethiopia,Ivory Coast,1,0,African Cup of Nations,Addis Ababa,Ethiopia,False
+1968-01-16,Ethiopia,Algeria,3,1,African Cup of Nations,Addis Ababa,Ethiopia,False
+1968-01-19,Ethiopia,DR Congo,2,3,African Cup of Nations,Addis Ababa,Ethiopia,False
+1968-01-21,Ethiopia,Ivory Coast,0,1,African Cup of Nations,Addis Ababa,Ethiopia,False
+1968-09-29,Mexico,Ethiopia,3,0,Friendly,León,Mexico,False
+1968-10-15,Ethiopia,Thailand,6,0,Friendly,León,Mexico,True
+1969-01-05,Ethiopia,Somalia,7,0,Friendly,Addis Ababa,Ethiopia,False
+1969-01-11,Ethiopia,Uganda,4,0,Friendly,Addis Ababa,Ethiopia,False
+1969-01-12,Ethiopia,Sudan,0,1,Friendly,Addis Ababa,Ethiopia,False
+1969-01-26,Libya,Ethiopia,2,0,FIFA World Cup qualification,Tripoli,Libya,False
+1969-02-09,Ethiopia,Libya,5,1,FIFA World Cup qualification,Addis Ababa,Ethiopia,False
+1969-05-04,Ethiopia,Sudan,1,1,FIFA World Cup qualification,Addis Ababa,Ethiopia,False
+1969-05-11,Sudan,Ethiopia,3,1,FIFA World Cup qualification,Khartoum,Sudan,False
+1969-05-25,Ethiopia,Tanzania,7,0,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+1969-05-31,Tanzania,Ethiopia,1,2,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+1969-10-09,Uganda,Ethiopia,4,0,Friendly,Kampala,Uganda,False
+1970-02-06,Sudan,Ethiopia,3,0,African Cup of Nations,Khartoum,Sudan,False
+1970-02-08,Cameroon,Ethiopia,3,2,African Cup of Nations,Khartoum,Sudan,True
+1970-02-10,Ethiopia,Ivory Coast,1,6,African Cup of Nations,Khartoum,Sudan,True
+1970-03-22,Ethiopia,Israel,1,5,Friendly,Addis Ababa,Ethiopia,False
+1970-11-22,Kenya,Ethiopia,2,0,African Cup of Nations qualification,Nairobi,Kenya,False
+1970-12-15,Ethiopia,Kenya,0,1,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+1971-06-01,Zambia,Ethiopia,5,1,Friendly,Lusaka,Zambia,False
+1972-05-07,Ethiopia,Greece,0,1,Friendly,Addis Ababa,Ethiopia,False
+1972-11-25,Tanzania,Ethiopia,1,1,FIFA World Cup qualification,Dar es Salaam,Tanzania,False
+1972-12-03,Ethiopia,Tanzania,0,0,FIFA World Cup qualification,Addis Ababa,Ethiopia,False
+1972-12-10,Ethiopia,Tanzania,3,0,FIFA World Cup qualification,Addis Ababa,Ethiopia,False
+1973-03-10,Sudan,Ethiopia,1,0,Friendly,Khartoum,Sudan,False
+1973-04-01,Ethiopia,Zambia,0,0,FIFA World Cup qualification,Addis Ababa,Ethiopia,False
+1973-04-08,Ethiopia,Tanzania,2,1,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+1973-04-08,Tanzania,Ethiopia,3,0,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+1973-04-15,Zambia,Ethiopia,4,2,FIFA World Cup qualification,Lusaka,Zambia,False
+1975-06-05,Kenya,Ethiopia,2,1,Friendly,Nairobi,Kenya,False
+1976-02-29,Ethiopia,Uganda,2,0,African Cup of Nations,Addis Ababa,Ethiopia,False
+1976-03-03,Ethiopia,Guinea,1,2,African Cup of Nations,Addis Ababa,Ethiopia,False
+1976-03-05,Ethiopia,Egypt,1,1,African Cup of Nations,Addis Ababa,Ethiopia,False
+1976-10-10,Ethiopia,Mauritius,3,0,Friendly,Addis Ababa,Ethiopia,False
+1976-10-24,Uganda,Ethiopia,4,1,Friendly,Kampala,Uganda,False
+1976-10-29,Egypt,Ethiopia,3,0,FIFA World Cup qualification,Cairo,Egypt,False
+1976-11-14,Ethiopia,Egypt,1,2,FIFA World Cup qualification,Addis Ababa,Ethiopia,False
+1977-02-17,Mauritius,Ethiopia,2,3,African Cup of Nations qualification,Curepipe,Mauritius,False
+1977-03-13,Ethiopia,Mauritius,1,0,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+1977-06-10,Ethiopia,Cuba,0,0,Friendly,Addis Ababa,Ethiopia,False
+1977-06-12,Ethiopia,Uganda,0,0,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+1977-06-26,Uganda,Ethiopia,2,1,African Cup of Nations qualification,Kampala,Uganda,False
+1979-04-15,Libya,Ethiopia,2,1,African Cup of Nations qualification,Tripoli,Libya,False
+1979-04-29,Ethiopia,Libya,1,1,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+1980-05-18,Ethiopia,Zambia,0,0,FIFA World Cup qualification,Addis Ababa,Ethiopia,False
+1980-06-01,Zambia,Ethiopia,4,0,FIFA World Cup qualification,Ndola,Zambia,False
+1980-11-12,Ethiopia,Mozambique,3,2,Friendly,Addis Ababa,Ethiopia,False
+1981-04-12,Ethiopia,Kenya,0,0,Friendly,Addis Ababa,Ethiopia,False
+1981-04-19,Ethiopia,Sudan,1,1,Friendly,Addis Ababa,Ethiopia,False
+1981-04-21,Ethiopia,Sudan,2,0,Friendly,Addis Ababa,Ethiopia,False
+1981-04-26,Ethiopia,Rwanda,1,0,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+1981-05-10,Rwanda,Ethiopia,1,0,African Cup of Nations qualification,Kigali,Rwanda,False
+1981-05-17,Ethiopia,Yemen DPR,1,1,Friendly,Addis Ababa,Ethiopia,False
+1981-06-28,Guinea,Ethiopia,2,2,African Cup of Nations qualification,Conakry,Guinea,False
+1981-10-04,Ethiopia,Guinea,1,1,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+1982-01-17,Ethiopia,Tanzania,0,2,Friendly,Addis Ababa,Ethiopia,False
+1982-01-19,Ethiopia,Tanzania,0,0,Friendly,Addis Ababa,Ethiopia,False
+1982-02-14,Ethiopia,Uganda,1,2,Friendly,Addis Ababa,Ethiopia,False
+1982-02-18,Ethiopia,Uganda,1,0,Friendly,Asmara,Ethiopia,False
+1982-03-07,Ethiopia,Nigeria,0,3,African Cup of Nations,Benghazi,Libya,True
+1982-03-10,Ethiopia,Zambia,0,1,African Cup of Nations,Benghazi,Libya,True
+1982-03-13,Algeria,Ethiopia,0,0,African Cup of Nations,Benghazi,Libya,True
+1983-03-20,Ethiopia,Kenya,2,2,Friendly,Addis Ababa,Ethiopia,False
+1983-03-22,Ethiopia,Kenya,0,0,Friendly,Addis Ababa,Ethiopia,False
+1983-03-27,Ethiopia,Djibouti,8,1,Friendly,Addis Ababa,Ethiopia,False
+1983-03-29,Ethiopia,Djibouti,4,2,Friendly,Addis Ababa,Ethiopia,False
+1983-04-01,Ethiopia,Uganda,0,1,Friendly,Addis Ababa,Ethiopia,False
+1983-04-03,Ethiopia,Uganda,2,1,Friendly,Addis Ababa,Ethiopia,False
+1983-04-10,Ethiopia,Mauritius,1,0,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+1983-04-24,Mauritius,Ethiopia,1,0,African Cup of Nations qualification,Curepipe,Mauritius,False
+1983-04-29,Ethiopia,Nigeria,0,1,Friendly,Addis Ababa,Ethiopia,False
+1983-05-01,Ethiopia,Libya,1,0,Friendly,Addis Ababa,Ethiopia,False
+1983-05-03,Ethiopia,Libya,0,1,Friendly,Addis Ababa,Ethiopia,False
+1983-07-03,Ethiopia,Togo,2,1,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+1983-08-28,Togo,Ethiopia,3,0,African Cup of Nations qualification,Lomé,Togo,False
+1983-11-13,Ethiopia,Tanzania,1,1,CECAFA Cup,Nairobi,Kenya,True
+1983-11-15,Kenya,Ethiopia,2,0,CECAFA Cup,Nairobi,Kenya,False
+1983-11-17,Ethiopia,Uganda,1,2,CECAFA Cup,Nairobi,Kenya,True
+1983-11-19,Ethiopia,Sudan,0,2,CECAFA Cup,Nairobi,Kenya,True
+1983-12-08,Kenya,Ethiopia,2,2,Friendly,Nairobi,Kenya,False
+1983-12-10,Kenya,Ethiopia,1,0,Friendly,Nairobi,Kenya,False
+1983-12-12,Kenya,Ethiopia,2,1,Friendly,Nairobi,Kenya,False
+1984-03-23,Djibouti,Ethiopia,0,2,Friendly,Djibouti,Djibouti,False
+1984-06-03,Ethiopia,Djibouti,2,0,Friendly,Addis Ababa,Ethiopia,False
+1984-06-11,Ethiopia,Zimbabwe,2,0,Friendly,Addis Ababa,Ethiopia,False
+1984-10-13,Kenya,Ethiopia,2,1,FIFA World Cup qualification,Nairobi,Kenya,False
+1984-10-28,Ethiopia,Kenya,3,3,FIFA World Cup qualification,Addis Ababa,Ethiopia,False
+1986-03-14,Djibouti,Ethiopia,1,5,Friendly,Djibouti,Djibouti,False
+1986-03-18,Djibouti,Ethiopia,1,1,Friendly,Djibouti,Djibouti,False
+1986-06-03,Djibouti,Ethiopia,0,2,Friendly,Djibouti,Djibouti,False
+1986-10-05,Ethiopia,Tanzania,4,2,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+1987-12-13,Ethiopia,Tanzania,0,0,CECAFA Cup,Addis Ababa,Ethiopia,False
+1987-12-17,Ethiopia,Zanzibar,0,0,CECAFA Cup,Addis Ababa,Ethiopia,False
+1987-12-20,Ethiopia,Kenya,2,1,CECAFA Cup,Addis Ababa,Ethiopia,False
+1987-12-24,Ethiopia,Uganda,3,0,CECAFA Cup,Addis Ababa,Ethiopia,False
+1987-12-27,Ethiopia,Zimbabwe,1,1,CECAFA Cup,Addis Ababa,Ethiopia,False
+1988-11-06,Ethiopia,Zambia,0,0,CECAFA Cup,Blantyre,Malawi,True
+1988-11-11,Ethiopia,Uganda,2,1,CECAFA Cup,Blantyre,Malawi,True
+1988-11-13,Ethiopia,Zimbabwe,1,2,CECAFA Cup,Blantyre,Malawi,True
+1989-03-26,Ethiopia,Malawi,1,1,Friendly,Addis Ababa,Ethiopia,False
+1989-03-28,Ethiopia,Malawi,1,0,Friendly,Addis Ababa,Ethiopia,False
+1989-03-31,Ethiopia,Zambia,0,1,Friendly,Addis Ababa,Ethiopia,False
+1989-04-02,Ethiopia,Zambia,2,2,Friendly,Addis Ababa,Ethiopia,False
+1989-04-09,Ethiopia,Egypt,1,0,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+1989-04-21,Egypt,Ethiopia,6,1,African Cup of Nations qualification,Cairo,Egypt,False
+1990-08-17,Egypt,Ethiopia,2,0,African Cup of Nations qualification,Cairo,Egypt,False
+1990-11-18,Ethiopia,Tunisia,0,2,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+1992-05-26,Ethiopia,Sudan,5,1,Friendly,Addis Ababa,Ethiopia,False
+1992-08-15,Uganda,Ethiopia,3,1,African Cup of Nations qualification,Kampala,Uganda,False
+1992-08-18,Ethiopia,Iraq,0,13,Jordan International Tournament,Irbid,Jordan,True
+1992-08-22,Congo,Ethiopia,3,0,Jordan International Tournament,Irbid,Jordan,True
+1992-08-30,Ethiopia,Sudan,3,0,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+1992-10-11,Morocco,Ethiopia,5,0,FIFA World Cup qualification,Casablanca,Morocco,False
+1992-10-25,Ethiopia,Tunisia,0,0,FIFA World Cup qualification,Addis Ababa,Ethiopia,False
+1992-11-15,Ethiopia,Zanzibar,3,0,CECAFA Cup,Mwanza,Tanzania,True
+1992-11-17,Ethiopia,Zambia,2,3,CECAFA Cup,Mwanza,Tanzania,True
+1992-11-20,Tanzania,Ethiopia,2,1,CECAFA Cup,Mwanza,Tanzania,False
+1992-11-22,Ethiopia,Malawi,1,2,CECAFA Cup,Mwanza,Tanzania,True
+1992-12-20,Ethiopia,Benin,3,1,FIFA World Cup qualification,Addis Ababa,Ethiopia,False
+1993-01-17,Ethiopia,Morocco,0,1,FIFA World Cup qualification,Addis Ababa,Ethiopia,False
+1993-01-31,Tunisia,Ethiopia,3,0,FIFA World Cup qualification,Tunis,Tunisia,False
+1993-02-28,Benin,Ethiopia,1,0,FIFA World Cup qualification,Cotonou,Benin,False
+1993-04-11,Ethiopia,Nigeria,1,0,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+1993-04-25,Ethiopia,Uganda,2,2,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+1993-05-26,Ethiopia,Sudan,1,1,Friendly,Addis Ababa,Ethiopia,False
+1993-07-09,Sudan,Ethiopia,1,0,African Cup of Nations qualification,Khartoum,Sudan,False
+1993-07-24,Nigeria,Ethiopia,6,0,African Cup of Nations qualification,Lagos,Nigeria,False
+1994-09-04,Ethiopia,Algeria,0,0,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+1994-10-15,Uganda,Ethiopia,4,1,African Cup of Nations qualification,Kampala,Uganda,False
+1994-11-11,Egypt,Ethiopia,5,0,African Cup of Nations qualification,Cairo,Egypt,False
+1995-01-08,Ethiopia,Tanzania,1,0,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+1995-01-22,Ethiopia,Sudan,2,0,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+1995-04-07,Algeria,Ethiopia,2,0,African Cup of Nations qualification,Algiers,Algeria,False
+1995-04-23,Ethiopia,Uganda,0,0,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+1995-06-04,Ethiopia,Egypt,0,2,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+1995-07-15,Tanzania,Ethiopia,2,0,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+1995-07-30,Sudan,Ethiopia,3,0,African Cup of Nations qualification,Khartoum,Sudan,False
+1995-11-27,Tanzania,Ethiopia,2,2,CECAFA Cup,Jinja,Uganda,True
+1995-12-03,Ethiopia,Somalia,5,0,CECAFA Cup,Jinja,Uganda,True
+1995-12-06,Ethiopia,Zanzibar,1,1,CECAFA Cup,Kampala,Uganda,True
+1995-12-09,Kenya,Ethiopia,2,1,CECAFA Cup,Kampala,Uganda,True
+1996-04-21,Ethiopia,Ghana,2,0,Friendly,Addis Ababa,Ethiopia,False
+1996-08-11,Uganda,Ethiopia,1,1,African Cup of Nations qualification,Kampala,Uganda,False
+1996-08-25,Ethiopia,Uganda,1,1,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+1996-10-06,Ethiopia,Senegal,1,2,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+1997-02-23,Ethiopia,Egypt,1,1,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+1997-05-31,Morocco,Ethiopia,4,0,African Cup of Nations qualification,Rabat,Morocco,False
+1997-06-22,Senegal,Ethiopia,3,0,African Cup of Nations qualification,Dakar,Senegal,False
+1997-07-13,Ethiopia,Morocco,0,1,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+1997-07-27,Egypt,Ethiopia,8,1,African Cup of Nations qualification,Alexandria,Egypt,False
+1999-01-31,Ethiopia,Kenya,2,2,Friendly,Addis Ababa,Ethiopia,False
+1999-07-25,Ethiopia,Zanzibar,2,0,CECAFA Cup,Kigali,Rwanda,True
+1999-07-27,Ethiopia,Sudan,0,0,CECAFA Cup,Kigali,Rwanda,True
+2000-03-05,Ethiopia,Sudan,1,0,Friendly,Addis Ababa,Ethiopia,False
+2000-04-09,Ethiopia,Burkina Faso,2,1,FIFA World Cup qualification,Addis Ababa,Ethiopia,False
+2000-04-12,Ethiopia,DR Congo,1,2,Friendly,Addis Ababa,Ethiopia,False
+2000-04-23,Burkina Faso,Ethiopia,3,0,FIFA World Cup qualification,Ouagadougou,Burkina Faso,False
+2000-07-02,Ethiopia,Zambia,1,0,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+2000-07-15,Zambia,Ethiopia,2,0,African Cup of Nations qualification,Lusaka,Zambia,False
+2000-11-18,Uganda,Ethiopia,2,2,CECAFA Cup,Kampala,Uganda,False
+2000-11-21,Somalia,Ethiopia,1,2,CECAFA Cup,Kampala,Uganda,True
+2000-11-25,Ethiopia,Djibouti,4,2,CECAFA Cup,Kampala,Uganda,True
+2000-11-27,Ethiopia,Burundi,1,0,CECAFA Cup,Kampala,Uganda,True
+2000-12-02,Ethiopia,Rwanda,1,1,Friendly,Kampala,Uganda,True
+2001-11-21,Ethiopia,Zambia,1,2,Friendly,Addis Ababa,Ethiopia,False
+2001-12-13,Ethiopia,Zanzibar,5,0,CECAFA Cup,Kigali,Rwanda,True
+2001-12-18,Ethiopia,Burundi,2,2,Friendly,Kigali,Rwanda,True
+2001-12-20,Rwanda,Ethiopia,0,1,CECAFA Cup,Kigali,Rwanda,False
+2001-12-22,Kenya,Ethiopia,1,2,CECAFA Cup,Kigali,Rwanda,True
+2002-04-10,Yemen,Ethiopia,1,1,Friendly,Sana'a,Yemen,False
+2002-07-26,Ethiopia,Uganda,0,0,Friendly,Khartoum,Sudan,True
+2002-07-28,Chad,Ethiopia,3,2,Friendly,Khartoum,Sudan,True
+2002-07-30,Sudan,Ethiopia,3,0,Friendly,Khartoum,Sudan,False
+2002-08-08,Egypt,Ethiopia,4,1,Friendly,Alexandria,Egypt,False
+2002-09-07,Niger,Ethiopia,3,1,African Cup of Nations qualification,Niamey,Niger,False
+2002-10-13,Ethiopia,Guinea,1,0,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+2002-12-02,Ethiopia,Zanzibar,0,0,CECAFA Cup,Arusha,Tanzania,True
+2002-12-04,Uganda,Ethiopia,3,0,CECAFA Cup,Arusha,Tanzania,True
+2002-12-07,Ethiopia,Somalia,0,1,CECAFA Cup,Arusha,Tanzania,True
+2002-12-09,Rwanda,Ethiopia,1,0,CECAFA Cup,Arusha,Tanzania,True
+2003-03-30,Ethiopia,Liberia,1,0,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+2003-06-08,Liberia,Ethiopia,1,0,African Cup of Nations qualification,Monrovia,Liberia,False
+2003-06-22,Ethiopia,Niger,2,0,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+2003-07-06,Guinea,Ethiopia,3,0,African Cup of Nations qualification,Conakry,Guinea,False
+2003-10-12,Ethiopia,Malawi,1,3,FIFA World Cup qualification,Addis Ababa,Ethiopia,False
+2003-11-15,Malawi,Ethiopia,0,0,FIFA World Cup qualification,Blantyre,Malawi,False
+2004-12-11,Ethiopia,Burundi,2,1,CECAFA Cup,Addis Ababa,Ethiopia,False
+2004-12-15,Ethiopia,Rwanda,0,0,CECAFA Cup,Addis Ababa,Ethiopia,False
+2004-12-17,Ethiopia,Tanzania,2,0,CECAFA Cup,Addis Ababa,Ethiopia,False
+2004-12-19,Ethiopia,Zanzibar,3,0,CECAFA Cup,Addis Ababa,Ethiopia,False
+2004-12-22,Ethiopia,Kenya,2,2,CECAFA Cup,Addis Ababa,Ethiopia,False
+2004-12-25,Ethiopia,Burundi,3,0,CECAFA Cup,Addis Ababa,Ethiopia,False
+2005-03-12,Sudan,Ethiopia,3,1,Friendly,Khartoum,Sudan,False
+2005-11-24,Sudan,Ethiopia,1,5,Friendly,Khartoum,Sudan,False
+2005-11-27,Ethiopia,Uganda,0,0,CECAFA Cup,Kigali,Rwanda,True
+2005-12-01,Ethiopia,Sudan,3,1,CECAFA Cup,Kigali,Rwanda,True
+2005-12-03,Djibouti,Ethiopia,0,6,CECAFA Cup,Kigali,Rwanda,True
+2005-12-05,Ethiopia,Somalia,3,1,CECAFA Cup,Kigali,Rwanda,True
+2005-12-08,Zanzibar,Ethiopia,0,4,CECAFA Cup,Kigali,Rwanda,True
+2005-12-10,Rwanda,Ethiopia,0,1,CECAFA Cup,Kigali,Rwanda,False
+2006-07-17,Ethiopia,Yemen,1,0,Friendly,Addis Ababa,Ethiopia,False
+2006-08-11,Ethiopia,Kenya,1,0,Friendly,Addis Ababa,Ethiopia,False
+2006-08-13,Ethiopia,Kenya,1,0,Friendly,Addis Ababa,Ethiopia,False
+2006-09-03,Ethiopia,Libya,1,0,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+2006-10-04,Ethiopia,Eswatini,2,0,Friendly,Addis Ababa,Ethiopia,False
+2006-10-07,Namibia,Ethiopia,1,0,African Cup of Nations qualification,Windhoek,Namibia,False
+2006-11-25,Ethiopia,Tanzania,1,2,CECAFA Cup,Addis Ababa,Ethiopia,False
+2006-11-28,Ethiopia,Djibouti,4,0,CECAFA Cup,Addis Ababa,Ethiopia,False
+2006-12-01,Ethiopia,Malawi,1,0,CECAFA Cup,Addis Ababa,Ethiopia,False
+2006-12-05,Ethiopia,Zambia,0,1,CECAFA Cup,Addis Ababa,Ethiopia,False
+2007-04-29,DR Congo,Ethiopia,2,0,African Cup of Nations qualification,Kinshasa,DR Congo,False
+2007-06-01,Ethiopia,DR Congo,1,0,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+2007-06-17,Libya,Ethiopia,3,1,African Cup of Nations qualification,Tripoli,Libya,False
+2007-09-08,Ethiopia,Namibia,2,3,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+2007-12-13,Zanzibar,Ethiopia,3,1,CECAFA Cup,Arusha,Tanzania,True
+2007-12-15,Ethiopia,Sudan,0,0,CECAFA Cup,Arusha,Tanzania,True
+2009-11-30,Ethiopia,Djibouti,5,0,CECAFA Cup,Nairobi,Kenya,True
+2009-12-02,Ethiopia,Zambia,0,1,CECAFA Cup,Nairobi,Kenya,True
+2009-12-05,Kenya,Ethiopia,2,0,CECAFA Cup,Nairobi,Kenya,False
+2010-08-18,Ethiopia,Kenya,0,3,Friendly,Addis Ababa,Ethiopia,False
+2010-08-29,Ethiopia,Chad,1,0,Friendly,Addis Ababa,Ethiopia,False
+2010-09-05,Ethiopia,Guinea,1,4,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+2010-10-10,Madagascar,Ethiopia,0,1,African Cup of Nations qualification,Antananarivo,Madagascar,False
+2010-11-29,Uganda,Ethiopia,2,1,CECAFA Cup,Dar es Salaam,Tanzania,True
+2010-12-02,Ethiopia,Kenya,2,1,CECAFA Cup,Dar es Salaam,Tanzania,True
+2010-12-07,Zambia,Ethiopia,1,2,CECAFA Cup,Dar es Salaam,Tanzania,True
+2010-12-12,Ethiopia,Uganda,3,4,CECAFA Cup,Dar es Salaam,Tanzania,True
+2011-03-27,Nigeria,Ethiopia,4,0,African Cup of Nations qualification,Abuja,Nigeria,False
+2011-05-29,Ethiopia,Sudan,1,2,Friendly,Addis Ababa,Ethiopia,False
+2011-06-05,Ethiopia,Nigeria,2,2,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+2011-09-04,Guinea,Ethiopia,1,0,African Cup of Nations qualification,Conakry,Guinea,False
+2011-10-01,Ethiopia,Sudan,1,2,Friendly,Addis Ababa,Ethiopia,False
+2011-10-04,Ethiopia,Malawi,0,0,Friendly,Addis Ababa,Ethiopia,False
+2011-10-08,Ethiopia,Madagascar,4,2,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+2011-11-12,Somalia,Ethiopia,0,0,FIFA World Cup qualification,Djibouti,Djibouti,True
+2011-11-16,Ethiopia,Somalia,5,0,FIFA World Cup qualification,Addis Ababa,Ethiopia,False
+2011-11-28,Sudan,Ethiopia,1,1,CECAFA Cup,Dar es Salaam,Tanzania,True
+2011-11-30,Ethiopia,Kenya,0,2,CECAFA Cup,Dar es Salaam,Tanzania,True
+2011-12-02,Ethiopia,Malawi,1,1,CECAFA Cup,Dar es Salaam,Tanzania,True
+2012-02-29,Ethiopia,Benin,0,0,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+2012-06-03,South Africa,Ethiopia,1,1,FIFA World Cup qualification,Rustenburg,South Africa,False
+2012-06-10,Ethiopia,Central African Republic,2,0,FIFA World Cup qualification,Addis Ababa,Ethiopia,False
+2012-06-17,Benin,Ethiopia,1,1,African Cup of Nations qualification,Cotonou,Benin,False
+2012-09-08,Sudan,Ethiopia,5,3,African Cup of Nations qualification,Khartoum,Sudan,False
+2012-10-14,Ethiopia,Sudan,2,0,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+2012-11-24,Ethiopia,South Sudan,1,0,CECAFA Cup,Kampala,Uganda,True
+2012-11-27,Uganda,Ethiopia,1,0,CECAFA Cup,Kampala,Uganda,False
+2012-11-30,Kenya,Ethiopia,3,1,CECAFA Cup,Kampala,Uganda,True
+2012-12-04,Uganda,Ethiopia,2,0,CECAFA Cup,Kampala,Uganda,False
+2012-12-30,Ethiopia,Niger,1,0,Friendly,Addis Ababa,Ethiopia,False
+2013-01-07,Tunisia,Ethiopia,1,1,Friendly,Al Wakrah,Qatar,True
+2013-01-11,Ethiopia,Tanzania,2,1,Friendly,Addis Ababa,Ethiopia,False
+2013-01-21,Zambia,Ethiopia,1,1,African Cup of Nations,Nelspruit,South Africa,True
+2013-01-25,Burkina Faso,Ethiopia,4,0,African Cup of Nations,Nelspruit,South Africa,True
+2013-01-29,Ethiopia,Nigeria,0,2,African Cup of Nations,Rustenburg,South Africa,True
+2013-03-24,Ethiopia,Botswana,1,0,FIFA World Cup qualification,Addis Ababa,Ethiopia,False
+2013-05-25,Ethiopia,Sudan,2,0,Friendly,Addis Ababa,Ethiopia,False
+2013-06-08,Botswana,Ethiopia,3,0,FIFA World Cup qualification,Lobatse,Botswana,False
+2013-06-16,Ethiopia,South Africa,2,1,FIFA World Cup qualification,Addis Ababa,Ethiopia,False
+2013-09-07,Central African Republic,Ethiopia,1,2,FIFA World Cup qualification,Brazzaville,Congo,True
+2013-10-13,Ethiopia,Nigeria,1,2,FIFA World Cup qualification,Addis Ababa,Ethiopia,False
+2013-11-16,Nigeria,Ethiopia,2,0,FIFA World Cup qualification,Calabar,Nigeria,False
+2013-11-27,Kenya,Ethiopia,0,0,CECAFA Cup,Nairobi,Kenya,False
+2013-11-30,Ethiopia,Zanzibar,3,1,CECAFA Cup,Nairobi,Kenya,True
+2013-12-03,South Sudan,Ethiopia,0,2,CECAFA Cup,Nakuru,Kenya,True
+2013-12-08,Ethiopia,Sudan,0,2,CECAFA Cup,Mombasa,Kenya,True
+2014-01-04,Nigeria,Ethiopia,2,1,Friendly,Abuja,Nigeria,False
+2014-09-06,Ethiopia,Algeria,1,2,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+2014-09-10,Malawi,Ethiopia,3,2,African Cup of Nations qualification,Blantyre,Malawi,False
+2014-10-11,Ethiopia,Mali,0,2,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+2014-10-15,Mali,Ethiopia,2,3,African Cup of Nations qualification,Bamako,Mali,False
+2014-11-09,Uganda,Ethiopia,3,0,Friendly,Kampala,Uganda,False
+2014-11-15,Algeria,Ethiopia,3,1,African Cup of Nations qualification,Blida,Algeria,False
+2014-11-19,Ethiopia,Malawi,0,0,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+2015-06-07,Ethiopia,Zambia,0,1,Friendly,Addis Ababa,Ethiopia,False
+2015-06-14,Ethiopia,Lesotho,2,1,African Cup of Nations qualification,Bahir Dar,Ethiopia,False
+2015-08-28,Rwanda,Ethiopia,3,1,Friendly,Kigali,Rwanda,False
+2015-09-05,Seychelles,Ethiopia,1,1,African Cup of Nations qualification,Victoria,Seychelles,False
+2015-09-30,Botswana,Ethiopia,2,3,Friendly,Gaborone,Botswana,False
+2015-10-08,São Tomé and Príncipe,Ethiopia,1,0,FIFA World Cup qualification,São Tomé,São Tomé and Príncipe,False
+2015-10-11,Ethiopia,São Tomé and Príncipe,3,0,FIFA World Cup qualification,Addis Ababa,Ethiopia,False
+2015-11-14,Ethiopia,Congo,3,4,FIFA World Cup qualification,Addis Ababa,Ethiopia,False
+2015-11-17,Congo,Ethiopia,2,1,FIFA World Cup qualification,Brazzaville,Congo,False
+2015-11-21,Ethiopia,Rwanda,0,1,CECAFA Cup,Addis Ababa,Ethiopia,False
+2015-11-25,Ethiopia,Somalia,2,0,CECAFA Cup,Hawassa,Ethiopia,False
+2015-11-28,Ethiopia,Tanzania,1,1,CECAFA Cup,Hawassa,Ethiopia,False
+2015-11-30,Ethiopia,Tanzania,1,1,CECAFA Cup,Addis Ababa,Ethiopia,False
+2015-12-03,Ethiopia,Uganda,0,0,CECAFA Cup,Addis Ababa,Ethiopia,False
+2015-12-05,Ethiopia,Sudan,1,1,CECAFA Cup,Addis Ababa,Ethiopia,False
+2016-03-25,Algeria,Ethiopia,7,1,African Cup of Nations qualification,Blida,Algeria,False
+2016-03-29,Ethiopia,Algeria,3,3,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+2016-06-05,Lesotho,Ethiopia,1,2,African Cup of Nations qualification,Maseru,Lesotho,False
+2016-09-03,Ethiopia,Seychelles,2,1,African Cup of Nations qualification,Hawassa,Ethiopia,False
+2017-06-03,Ethiopia,Uganda,0,0,Friendly,Hawassa,Ethiopia,False
+2017-06-11,Ghana,Ethiopia,5,0,African Cup of Nations qualification,Kumasi,Ghana,False
+2017-08-05,Zambia,Ethiopia,0,0,Friendly,Lusaka,Zambia,False
+2017-12-05,South Sudan,Ethiopia,0,3,CECAFA Cup,Kakamega,Kenya,True
+2017-12-07,Burundi,Ethiopia,4,1,CECAFA Cup,Kakamega,Kenya,True
+2017-12-10,Ethiopia,Uganda,1,1,CECAFA Cup,Kakamega,Kenya,True
+2018-09-02,Ethiopia,Burundi,1,1,Friendly,Hawassa,Ethiopia,False
+2018-10-10,Ethiopia,Kenya,0,0,African Cup of Nations qualification,Bahir Dar,Ethiopia,False
+2018-10-14,Kenya,Ethiopia,3,0,African Cup of Nations qualification,Nairobi,Kenya,False
+2018-11-18,Ethiopia,Ghana,0,2,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+2019-09-04,Ethiopia,Lesotho,0,0,FIFA World Cup qualification,Bahir Dar,Ethiopia,False
+2019-09-08,Lesotho,Ethiopia,1,1,FIFA World Cup qualification,Maseru,Lesotho,False
+2019-10-13,Ethiopia,Uganda,0,1,Friendly,Ethiopia,Ethiopia,False
+2019-11-16,Madagascar,Ethiopia,1,0,African Cup of Nations qualification,Antananarivo,Madagascar,False
+2019-11-19,Ethiopia,Ivory Coast,2,1,African Cup of Nations qualification,Ethiopia,Ethiopia,False
+2020-11-06,Ethiopia,Sudan,2,2,Friendly,Addis Ababa,Ethiopia,False
+2020-11-13,Niger,Ethiopia,1,0,African Cup of Nations qualification,Niamey,Niger,False
+2020-11-17,Ethiopia,Niger,3,0,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+2021-03-17,Ethiopia,Malawi,4,0,Friendly,Bahir Dar,Ethiopia,False
+2021-03-24,Ethiopia,Madagascar,4,0,African Cup of Nations qualification,Bahir Dar,Ethiopia,False
+2021-03-30,Ivory Coast,Ethiopia,3,1,African Cup of Nations qualification,Abidjan,Ivory Coast,False
+2021-08-26,Ethiopia,Sierra Leone,0,0,Friendly,Addis Ababa,Ethiopia,False
+2021-08-29,Ethiopia,Uganda,2,1,Friendly,Addis Ababa,Ethiopia,False
+2021-09-03,Ghana,Ethiopia,1,0,FIFA World Cup qualification,Cape Coast,Ghana,False
+2021-09-07,Ethiopia,Zimbabwe,1,0,FIFA World Cup qualification,Bahir Dar,Ethiopia,False
+2021-10-09,Ethiopia,South Africa,1,3,FIFA World Cup qualification,Bahir Dar,Ethiopia,False
+2021-10-12,South Africa,Ethiopia,1,0,FIFA World Cup qualification,Johannesburg,South Africa,False
+2021-11-11,Ethiopia,Ghana,1,1,FIFA World Cup qualification,Johannesburg,South Africa,True
+2021-11-14,Zimbabwe,Ethiopia,1,1,FIFA World Cup qualification,Harare,Zimbabwe,False
+2021-12-30,Sudan,Ethiopia,2,3,Friendly,Limbé,Cameroon,True
+2022-01-09,Ethiopia,Cape Verde,0,1,African Cup of Nations,Yaoundé,Cameroon,True
+2022-01-13,Cameroon,Ethiopia,4,1,African Cup of Nations,Yaoundé,Cameroon,False
+2022-01-17,Burkina Faso,Ethiopia,1,1,African Cup of Nations,Bafoussam,Cameroon,True
+2022-03-25,Comoros,Ethiopia,2,1,Friendly,Moroni,Comoros,False
+2022-05-28,Ethiopia,Lesotho,1,1,Friendly,Adama,Ethiopia,False
+2022-05-30,Ethiopia,Lesotho,1,1,Friendly,Adama,Ethiopia,False
+2022-06-05,Malawi,Ethiopia,2,1,African Cup of Nations qualification,Lilongwe,Malawi,False
+2022-06-09,Ethiopia,Egypt,2,0,African Cup of Nations qualification,Lilongwe,Malawi,True
+2022-09-26,Ethiopia,Sudan,2,2,Friendly,Addis Ababa,Ethiopia,False
+2023-03-19,Ethiopia,Rwanda,1,0,Friendly,Adama,Ethiopia,False
+2023-03-24,Guinea,Ethiopia,2,0,African Cup of Nations qualification,Casablanca,Morocco,True
+2023-03-27,Ethiopia,Guinea,2,3,African Cup of Nations qualification,Rabat,Morocco,True
+2023-06-20,Ethiopia,Malawi,0,0,African Cup of Nations qualification,Maputo,Mozambique,True
+2023-08-02,Ethiopia,Guyana,2,0,Friendly,Leesburg,United States,True
+2023-09-08,Egypt,Ethiopia,1,0,African Cup of Nations qualification,Cairo,Egypt,False
+2023-11-15,Ethiopia,Sierra Leone,0,0,FIFA World Cup qualification,El Jadida,Morocco,True
+2023-11-21,Ethiopia,Burkina Faso,0,3,FIFA World Cup qualification,El Jadida,Morocco,True
+2024-03-21,Ethiopia,Lesotho,1,2,Friendly,Addis Ababa,Ethiopia,False
+2024-03-24,Ethiopia,Lesotho,2,1,Friendly,Addis Ababa,Ethiopia,False
+2024-06-06,Guinea-Bissau,Ethiopia,0,0,FIFA World Cup qualification,Bissau,Guinea-Bissau,False
+2024-06-09,Djibouti,Ethiopia,1,1,FIFA World Cup qualification,El Jadida,Morocco,True
+2024-09-04,Tanzania,Ethiopia,0,0,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+2024-09-09,Ethiopia,DR Congo,0,2,African Cup of Nations qualification,Dar es Salaam,Tanzania,True
+2024-10-12,Guinea,Ethiopia,4,1,African Cup of Nations qualification,Ebimpé,Ivory Coast,True
+2024-10-15,Ethiopia,Guinea,0,3,African Cup of Nations qualification,Ebimpé,Ivory Coast,True
+2025-03-21,Ethiopia,Egypt,0,2,FIFA World Cup qualification,Casablanca,Morocco,True
+2025-03-24,Ethiopia,Djibouti,6,1,FIFA World Cup qualification,El Jadida,Morocco,True

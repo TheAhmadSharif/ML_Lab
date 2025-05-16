@@ -1,0 +1,68 @@
+Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
+1976-05-02,Gabon,São Tomé and Príncipe,6,1,Friendly,Libreville,Gabon,False
+1976-08-08,São Tomé and Príncipe,Congo,2,3,Friendly,São Tomé,São Tomé and Príncipe,False
+1978-08-16,São Tomé and Príncipe,Angola,3,3,Friendly,São Tomé,São Tomé and Príncipe,False
+1979-04-25,São Tomé and Príncipe,Angola,1,2,Friendly,São Tomé,São Tomé and Príncipe,False
+1981-06-01,Equatorial Guinea,São Tomé and Príncipe,1,1,Friendly,Malabo,Equatorial Guinea,False
+1985-06-30,Angola,São Tomé and Príncipe,3,2,Friendly,Praia,Cape Verde,True
+1987-07-25,São Tomé and Príncipe,Guinea-Bissau,0,2,Friendly,São Tomé,São Tomé and Príncipe,False
+1987-07-27,São Tomé and Príncipe,Angola,1,1,Friendly,São Tomé,São Tomé and Príncipe,False
+1998-08-02,São Tomé and Príncipe,Togo,0,4,African Cup of Nations qualification,Libreville,Gabon,True
+1998-08-18,Togo,São Tomé and Príncipe,2,0,African Cup of Nations qualification,Lomé,Togo,False
+1999-11-10,Chad,São Tomé and Príncipe,5,0,UNIFFAC Cup,Libreville,Gabon,True
+1999-11-11,Gabon,São Tomé and Príncipe,1,0,UNIFFAC Cup,Libreville,Gabon,False
+1999-11-12,Congo,São Tomé and Príncipe,1,0,UNIFFAC Cup,Libreville,Gabon,True
+1999-11-13,Central African Republic,São Tomé and Príncipe,3,0,UNIFFAC Cup,Libreville,Gabon,True
+1999-11-14,São Tomé and Príncipe,Equatorial Guinea,2,0,UNIFFAC Cup,Libreville,Gabon,True
+2000-04-08,São Tomé and Príncipe,Sierra Leone,2,0,FIFA World Cup qualification,São Tomé,São Tomé and Príncipe,False
+2000-04-22,Sierra Leone,São Tomé and Príncipe,4,0,FIFA World Cup qualification,Freetown,Sierra Leone,False
+2000-07-01,São Tomé and Príncipe,Gabon,1,1,African Cup of Nations qualification,São Tomé,São Tomé and Príncipe,False
+2000-07-15,Gabon,São Tomé and Príncipe,4,1,African Cup of Nations qualification,Libreville,Gabon,False
+2003-10-11,São Tomé and Príncipe,Libya,0,1,FIFA World Cup qualification,São Tomé,São Tomé and Príncipe,False
+2003-11-12,Equatorial Guinea,São Tomé and Príncipe,3,1,Friendly,Malabo,Equatorial Guinea,False
+2003-11-16,Libya,São Tomé and Príncipe,8,0,FIFA World Cup qualification,Benghazi,Libya,False
+2011-11-11,São Tomé and Príncipe,Congo,0,5,FIFA World Cup qualification,São Tomé,São Tomé and Príncipe,False
+2011-11-15,Congo,São Tomé and Príncipe,1,1,FIFA World Cup qualification,Pointe-Noire,Congo,False
+2012-01-15,São Tomé and Príncipe,Lesotho,1,0,African Cup of Nations qualification,São Tomé,São Tomé and Príncipe,False
+2012-01-22,Lesotho,São Tomé and Príncipe,0,0,African Cup of Nations qualification,Maseru,Lesotho,False
+2012-02-29,São Tomé and Príncipe,Sierra Leone,2,1,African Cup of Nations qualification,São Tomé,São Tomé and Príncipe,False
+2012-06-16,Sierra Leone,São Tomé and Príncipe,4,2,African Cup of Nations qualification,Freetown,Sierra Leone,False
+2014-05-17,São Tomé and Príncipe,Benin,0,2,African Cup of Nations qualification,São Tomé,São Tomé and Príncipe,False
+2014-06-01,Benin,São Tomé and Príncipe,2,0,African Cup of Nations qualification,Porto-Novo,Benin,False
+2015-06-13,Cape Verde,São Tomé and Príncipe,7,1,African Cup of Nations qualification,Praia,Cape Verde,False
+2015-09-05,São Tomé and Príncipe,Morocco,0,3,African Cup of Nations qualification,São Tomé,São Tomé and Príncipe,False
+2015-10-08,São Tomé and Príncipe,Ethiopia,1,0,FIFA World Cup qualification,São Tomé,São Tomé and Príncipe,False
+2015-10-11,Ethiopia,São Tomé and Príncipe,3,0,FIFA World Cup qualification,Addis Ababa,Ethiopia,False
+2016-03-23,São Tomé and Príncipe,Libya,2,1,African Cup of Nations qualification,São Tomé,São Tomé and Príncipe,False
+2016-03-28,Libya,São Tomé and Príncipe,4,0,African Cup of Nations qualification,Cairo,Egypt,True
+2016-06-04,São Tomé and Príncipe,Cape Verde,1,2,African Cup of Nations qualification,São Tomé,São Tomé and Príncipe,False
+2016-09-04,Morocco,São Tomé and Príncipe,2,0,African Cup of Nations qualification,Rabat,Morocco,False
+2017-03-22,São Tomé and Príncipe,Madagascar,0,1,African Cup of Nations qualification,São Tomé,São Tomé and Príncipe,False
+2017-03-26,Madagascar,São Tomé and Príncipe,3,2,African Cup of Nations qualification,Antananarivo,Madagascar,False
+2018-03-24,Uganda,São Tomé and Príncipe,3,1,Friendly,Kampala,Uganda,False
+2019-09-04,São Tomé and Príncipe,Guinea-Bissau,0,1,FIFA World Cup qualification,São Tomé,São Tomé and Príncipe,False
+2019-09-10,Guinea-Bissau,São Tomé and Príncipe,2,1,FIFA World Cup qualification,Bissau,Guinea-Bissau,False
+2019-10-09,Mauritius,São Tomé and Príncipe,1,3,African Cup of Nations qualification,Belle Vue Harel,Mauritius,False
+2019-10-13,São Tomé and Príncipe,Mauritius,2,1,African Cup of Nations qualification,São Tomé,São Tomé and Príncipe,False
+2019-11-13,Sudan,São Tomé and Príncipe,4,0,African Cup of Nations qualification,Omdurman,Sudan,False
+2019-11-18,São Tomé and Príncipe,Ghana,0,1,African Cup of Nations qualification,São Tomé,São Tomé and Príncipe,False
+2020-11-13,South Africa,São Tomé and Príncipe,2,0,African Cup of Nations qualification,Durban,South Africa,False
+2020-11-16,South Africa,São Tomé and Príncipe,4,2,African Cup of Nations qualification,Port Elizabeth,South Africa,False
+2021-03-24,São Tomé and Príncipe,Sudan,0,2,African Cup of Nations qualification,São Tomé,São Tomé and Príncipe,False
+2021-03-28,Ghana,São Tomé and Príncipe,3,1,African Cup of Nations qualification,Cape Coast,Ghana,False
+2022-03-24,Mauritius,São Tomé and Príncipe,3,0,African Cup of Nations qualification,Saint Pierre,Mauritius,False
+2022-03-27,Mauritius,São Tomé and Príncipe,3,3,African Cup of Nations qualification,Belle Vue Harel,Mauritius,False
+2022-06-09,Guinea-Bissau,São Tomé and Príncipe,5,1,African Cup of Nations qualification,Agadir,Morocco,True
+2022-06-13,São Tomé and Príncipe,Nigeria,0,10,African Cup of Nations qualification,Agadir,Morocco,True
+2023-03-22,Sierra Leone,São Tomé and Príncipe,2,2,African Cup of Nations qualification,Agadir,Morocco,True
+2023-03-26,São Tomé and Príncipe,Sierra Leone,0,2,African Cup of Nations qualification,Agadir,Morocco,True
+2023-06-14,Guinea-Bissau,São Tomé and Príncipe,1,0,African Cup of Nations qualification,Bissau,Guinea-Bissau,False
+2023-09-10,Nigeria,São Tomé and Príncipe,6,0,African Cup of Nations qualification,Uyo,Nigeria,False
+2023-11-17,Tunisia,São Tomé and Príncipe,4,0,FIFA World Cup qualification,Radès,Tunisia,False
+2023-11-21,São Tomé and Príncipe,Namibia,0,2,FIFA World Cup qualification,Agadir,Morocco,True
+2024-03-22,São Tomé and Príncipe,South Sudan,1,1,African Cup of Nations qualification,Berkane,Morocco,True
+2024-03-26,South Sudan,São Tomé and Príncipe,0,0,African Cup of Nations qualification,Berkane,Morocco,True
+2024-06-06,Malawi,São Tomé and Príncipe,3,1,FIFA World Cup qualification,Lilongwe,Malawi,False
+2024-06-09,São Tomé and Príncipe,Liberia,0,1,FIFA World Cup qualification,Oujda,Morocco,True
+2025-03-21,Equatorial Guinea,São Tomé and Príncipe,2,0,FIFA World Cup qualification,Malabo,Equatorial Guinea,False
+2025-03-24,Liberia,São Tomé and Príncipe,2,1,FIFA World Cup qualification,Monrovia,Liberia,False
