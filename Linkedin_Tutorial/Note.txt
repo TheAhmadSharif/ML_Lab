@@ -11,3 +11,51 @@ Watched:
 02
     02 - Random variables
     03 - Discrete distributions
+
+03 
+    01 - Expectation
+    02
+
+
+
+04 
+   01
+   02
+
+Converge : Tend to meet a point 
+
+Expectation works with random variables for probable values.
+
+Expectation vs. Mean
+–––––––––––––––––––––––
+Expectation works with random variables for probable values.
+
+Mean works with data in STatistics to gather averages of concrete numbers from a sample or population.
+
+Sometimes expectations referred as mean
+
+
+Expectation is use in statistical inference to estimate population parameters, test hypothesis and make predictions based on sample data. It is related to law of large numbers.
+
+
+Coin Example: 
+
+Heads(1)  : 0.6
+Tail (0)  : 0.4
+
+E(x) = 1x0.6 + 0x0.4
+     = 0.6
+
+     
+
+
+–––––––– Discrete Uniform Distribution 
+Equal Probability of all values 
+E(X) = a + b / 2
+
+a = Max value
+b = min Value 
+
+
+–––––––– Applications 
+Random sampling

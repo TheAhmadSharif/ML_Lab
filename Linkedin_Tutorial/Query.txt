@@ -1,0 +1,10 @@
+Topic: Statistics. Probability
+Describe Expectation Vs Mean 
+When expectations are used 
+Share some examples with data 
+
+
+Describe Probability distribution
+
+Share some use case
+Share most 5 Probability distribution and simple use case with example

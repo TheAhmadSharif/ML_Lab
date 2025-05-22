@@ -1,0 +1,169 @@
+\documentclass[12pt]{article}
+\usepackage[left=1.2in, right=0.6in, top=0.9in, bottom=0.6in]{geometry}
+\usepackage{amsmath}
+\usepackage{booktabs}
+\usepackage{titlesec}
+
+% Reduce space above section titles
+\titlespacing*{\section}{0pt}{4pt}{4pt}
+\titlespacing*{\subsection}{0pt}{4pt}{2pt}
+
+\setlength{\parskip}{4pt}
+\setlength{\parindent}{0pt}
+
+\title{\vspace{-2em}Statistics and Probability: Expectation vs Mean\vspace{-1em}}
+\date{}
+
+\begin{document}
+\maketitle
+
+\section*{1. Expectation vs Mean}
+
+\begin{tabular}{@{}lll@{}}
+\toprule
+\textbf{Aspect} & \textbf{Expectation (Expected Value)} & \textbf{Mean (Average)} \\
+\midrule
+Context & Probability theory & Statistics and data analysis \\
+Definition & Theoretical average over many trials & Empirical average of sample \\
+Symbol & \( E[X], \mu \) & \( \bar{x} \) \\
+Based on & Probability distribution & Observed data \\
+Use case & Predict long-run average & Summarize actual dataset \\
+\bottomrule
+\end{tabular}
+
+\section*{2. When Expectations Are Used}
+
+\begin{itemize}
+  \item Probability theory and stochastic modeling
+  \item Decision-making under uncertainty (e.g., expected profit/loss)
+  \item Games of chance and gambling
+  \item Used in machine learning, Bayesian inference, economics
+  \item Basis for variance, covariance, and moments
+\end{itemize}
+
+\section*{3. Mathematical Definitions}
+
+\textbf{Expected Value (Discrete)}:
+\[
+E[X] = \sum_{i} x_i \cdot P(x_i)
+\]
+
+\textbf{Sample Mean}:
+\[
+\bar{x} = \frac{1}{n} \sum_{i=1}^{n} x_i
+\]
+
+\section*{4. Examples}
+
+\subsection*{Example 1: Die Roll (Expectation)}
+
+Rolling a fair six-sided die:
+
+\[
+E[X] = \frac{1 + 2 + 3 + 4 + 5 + 6}{6} = 3.5
+\]
+
+\textbf{Interpretation:} The expected value of a fair die roll is 3.5 (theoretical average over time).
+
+\subsection*{Example 2: Observed Data (Mean)}
+
+Sample: goals in 5 football matches: \([1, 2, 0, 3, 2]\)
+
+\[
+\bar{x} = \frac{1 + 2 + 0 + 3 + 2}{5} = \frac{8}{5} = 1.6
+\]
+
+\textbf{Interpretation:} This is the actual average of the observed sample.
+
+\subsection*{Example 3: Lottery Ticket}
+
+Ticket costs \$2. Possible outcomes:
+
+\begin{tabular}{lll}
+\toprule
+Outcome & Prize (\$) & Probability \\
+\midrule
+Win big & 500 & 0.001 \\
+Win small & 20 & 0.01 \\
+Break even & 2 & 0.05 \\
+Lose & 0 & 0.939 \\
+\bottomrule
+\end{tabular}
+
+\[
+\begin{aligned}
+E[X] &= (500 - 2)(0.001) + (20 - 2)(0.01) + (2 - 2)(0.05) + (0 - 2)(0.939) \\
+&= 0.498 + 0.18 + 0 - 1.878 = -1.2
+\end{aligned}
+\]
+
+\textbf{Expected loss: \$1.20 per ticket}
+
+\subsection*{Example 4: Business Product Launch}
+
+\begin{tabular}{lll}
+\toprule
+Scenario & Profit (\$) & Probability \\
+\midrule
+High demand & 100{,}000 & 0.3 \\
+Medium demand & 40{,}000 & 0.5 \\
+Low demand & -20{,}000 & 0.2 \\
+\bottomrule
+\end{tabular}
+
+\[
+\begin{aligned}
+E[\text{Profit}] &= (100{,}000)(0.3) + (40{,}000)(0.5) + (-20{,}000)(0.2) \\
+&= 30{,}000 + 20{,}000 - 4{,}000 = 46{,}000
+\end{aligned}
+\]
+
+\textbf{Expected profit: \$46,000}
+
+\subsection*{Example 5: Insurance Premium}
+
+Premium = \$100. Possible outcomes:
+
+\begin{tabular}{lll}
+\toprule
+Incident & Payout (\$) & Probability \\
+\midrule
+No incident & 0 & 0.95 \\
+Screen damage & 150 & 0.03 \\
+Lost phone & 600 & 0.02 \\
+\bottomrule
+\end{tabular}
+
+\[
+E[\text{Payout}] = (0)(0.95) + (150)(0.03) + (600)(0.02) = 0 + 4.5 + 12 = 16.5
+\]
+
+\[
+\text{Expected profit} = 100 - 16.5 = 83.5
+\]
+
+\textbf{Expected profit per policy: \$83.50}
+
+\subsection*{Example 6: Roulette Bet}
+
+\$1 bet on a single number in American roulette (38 slots):
+
+\begin{tabular}{lll}
+\toprule
+Outcome & Net Gain (\$) & Probability \\
+\midrule
+Win & 35 & \(\frac{1}{38}\) \\
+Lose & -1 & \(\frac{37}{38}\) \\
+\bottomrule
+\end{tabular}
+
+\[
+\begin{aligned}
+E[X] &= 35 \cdot \frac{1}{38} + (-1) \cdot \frac{37}{38} \\
+&= \frac{35 - 37}{38} = \frac{-2}{38} \approx -0.0526
+\end{aligned}
+\]
+
+\textbf{Expected loss: 5.26 cents per \$1 bet}
+
+\end{document}

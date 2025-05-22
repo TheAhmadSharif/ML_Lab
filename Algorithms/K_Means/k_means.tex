@@ -1,0 +1,296 @@
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{geometry}
+\usepackage{booktabs}
+\usepackage{graphicx}
+
+\geometry{margin=1in}
+
+\title{Manual K-Means Clustering: Step-by-Step Calculation}
+\author{}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\section*{Data Points}
+
+We are given the following points:
+
+\begin{center}
+\begin{tabular}{cc}
+\toprule
+Point & Coordinates \\
+\midrule
+A & (1, 1) \\
+B & (1, 4) \\
+C & (5, 1) \\
+D & (5, 4) \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+We will explore two different centroid initializations and their effects on clustering results.
+
+\section*{Initialization 1}
+
+\textbf{Initial Centroids:}
+\begin{itemize}
+    \item Centroid 1 (C1): Point A $\rightarrow (1, 1)$
+    \item Centroid 2 (C2): Point D $\rightarrow (5, 4)$
+\end{itemize}
+
+\subsection*{Step 1: Distance Calculation}
+
+The Euclidean distance formula is:
+\[
+d((x_1, y_1), (x_2, y_2)) = \sqrt{(x_1 - x_2)^2 + (y_1 - y_2)^2}
+\]
+
+\textbf{Distances to C1 = (1, 1):}
+\begin{align*}
+d(A, C1) &= \sqrt{(1 - 1)^2 + (1 - 1)^2} = 0 \\
+d(B, C1) &= \sqrt{(1 - 1)^2 + (4 - 1)^2} = \sqrt{9} = 3 \\
+d(C, C1) &= \sqrt{(5 - 1)^2 + (1 - 1)^2} = \sqrt{16} = 4 \\
+d(D, C1) &= \sqrt{(5 - 1)^2 + (4 - 1)^2} = \sqrt{25} = 5
+\end{align*}
+
+\textbf{Distances to C2 = (5, 4):}
+\begin{align*}
+d(A, C2) &= \sqrt{(1 - 5)^2 + (1 - 4)^2} = \sqrt{25} = 5 \\
+d(B, C2) &= \sqrt{(1 - 5)^2 + (4 - 4)^2} = \sqrt{16} = 4 \\
+d(C, C2) &= \sqrt{(5 - 5)^2 + (1 - 4)^2} = \sqrt{9} = 3 \\
+d(D, C2) &= \sqrt{(5 - 5)^2 + (4 - 4)^2} = 0
+\end{align*}
+
+\subsection*{Step 2: Assign to Nearest Centroid}
+
+\begin{center}
+\begin{tabular}{cccc}
+\toprule
+Point & Distance to C1 & Distance to C2 & Assigned Cluster \\
+\midrule
+A & 0 & 5 & C1 \\
+B & 3 & 4 & C1 \\
+C & 4 & 3 & C2 \\
+D & 5 & 0 & C2 \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\subsection*{Step 3: Recalculate Centroids}
+
+\textbf{Cluster 1:} A(1,1), B(1,4)
+\[
+C1 = \left( \frac{1 + 1}{2}, \frac{1 + 4}{2} \right) = (1, 2.5)
+\]
+
+\textbf{Cluster 2:} C(5,1), D(5,4)
+\[
+C2 = \left( \frac{5 + 5}{2}, \frac{1 + 4}{2} \right) = (5, 2.5)
+\]
+
+\textbf{Final Clusters:}
+\[
+\begin{cases}
+\text{C1} \rightarrow \{ A, B \} \\
+\text{C2} \rightarrow \{ C, D \}
+\end{cases}
+\]
+
+\section*{Initialization 2}
+
+\textbf{Initial Centroids:}
+\begin{itemize}
+    \item Centroid 1 (C1): Point C $\rightarrow (5, 1)$
+    \item Centroid 2 (C2): Point D $\rightarrow (5, 4)$
+\end{itemize}
+
+\subsection*{Step 1: Distance Calculation}
+
+\textbf{Distances to C1 = (5, 1):}
+\begin{align*}
+d(A, C1) &= \sqrt{(1 - 5)^2 + (1 - 1)^2} = \sqrt{16} = 4 \\
+d(B, C1) &= \sqrt{(1 - 5)^2 + (4 - 1)^2} = \sqrt{25} = 5 \\
+d(C, C1) &= 0 \\
+d(D, C1) &= \sqrt{(5 - 5)^2 + (4 - 1)^2} = \sqrt{9} = 3
+\end{align*}
+
+\textbf{Distances to C2 = (5, 4):}
+\begin{align*}
+d(A, C2) &= \sqrt{(1 - 5)^2 + (1 - 4)^2} = \sqrt{25} = 5 \\
+d(B, C2) &= \sqrt{(1 - 5)^2 + (4 - 4)^2} = \sqrt{16} = 4 \\
+d(C, C2) &= \sqrt{(5 - 5)^2 + (1 - 4)^2} = \sqrt{9} = 3 \\
+d(D, C2) &= 0
+\end{align*}
+
+\subsection*{Step 2: Assign to Nearest Centroid}
+
+\begin{center}
+\begin{tabular}{cccc}
+\toprule
+Point & Distance to C1 & Distance to C2 & Assigned Cluster \\
+\midrule
+A & 4 & 5 & C1 \\
+B & 5 & 4 & C2 \\
+C & 0 & 3 & C1 \\
+D & 3 & 0 & C2 \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\subsection*{Step 3: Recalculate Centroids}
+
+\textbf{Cluster 1:} A(1,1), C(5,1)
+\[
+C1 = \left( \frac{1 + 5}{2}, \frac{1 + 1}{2} \right) = (3, 1)
+\]
+
+\textbf{Cluster 2:} B(1,4), D(5,4)
+\[
+C2 = \left( \frac{1 + 5}{2}, \frac{4 + 4}{2} \right) = (3, 4)
+\]
+
+\textbf{Final Clusters:}
+\[
+\begin{cases}
+\text{C1} \rightarrow \{ A, C \} \\
+\text{C2} \rightarrow \{ B, D \}
+\end{cases}
+\]
+
+\section*{Summary}
+
+\begin{center}
+\begin{tabular}{ccc}
+\toprule
+Initialization & Cluster 1 & Cluster 2 \\
+\midrule
+(A, D) & A, B & C, D \\
+(C, D) & A, C & B, D \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\noindent This demonstrates that the outcome of K-Means clustering can vary significantly depending on the initial centroid selection.
+
+
+\section{K-Mean++}
+
+\section*{Dataset}
+
+We are given the following points:
+
+\begin{center}
+\begin{tabular}{ll}
+\toprule
+Point & Coordinates \\
+\midrule
+A & (1, 1) \\
+B & (1, 4) \\
+C & (5, 1) \\
+D & (5, 4) \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+We want to cluster the data into \( k = 2 \) clusters using the K-Means++ algorithm.
+
+\section*{Step 1: Randomly Choose the First Centroid}
+
+Assume we randomly select point B \( (1, 4) \) as the first centroid:
+\[
+\text{Centroid } C_1 = (1, 4)
+\]
+
+\section*{Step 2: Compute Squared Distances \( D(x)^2 \) to the Nearest Centroid}
+
+\[
+\begin{aligned}
+D(A)^2 &= (1 - 1)^2 + (1 - 4)^2 = 0 + 9 = 9 \\
+D(C)^2 &= (5 - 1)^2 + (1 - 4)^2 = 16 + 9 = 25 \\
+D(D)^2 &= (5 - 1)^2 + (4 - 4)^2 = 16 + 0 = 16 \\
+\end{aligned}
+\]
+
+\begin{center}
+\begin{tabular}{lll}
+\toprule
+Point & \( D(x)^2 \) & Distance \\
+\midrule
+A & 9 & 3.0 \\
+C & 25 & 5.0 \\
+D & 16 & 4.0 \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\section*{Step 3: Select the Next Centroid Probabilistically}
+
+\[
+\text{Total} = 9 + 25 + 16 = 50
+\]
+\[
+P(A) = \frac{9}{50} = 0.18, \quad P(C) = \frac{25}{50} = 0.50, \quad P(D) = \frac{16}{50} = 0.32
+\]
+
+Suppose the random selection gives point C \( (5, 1) \) as the next centroid:
+
+\[
+\text{Centroid } C_2 = (5, 1)
+\]
+
+\section*{Step 4: Assign Each Point to the Nearest Centroid}
+
+\[
+\begin{aligned}
+D(A, C_1)^2 &= (1 - 1)^2 + (1 - 4)^2 = 9 \\
+D(A, C_2)^2 &= (1 - 5)^2 + (1 - 1)^2 = 16 \Rightarrow \text{Assign to } C_1 \\
+\\
+D(B, C_1)^2 &= 0, \quad D(B, C_2)^2 = (1 - 5)^2 + (4 - 1)^2 = 25 \Rightarrow \text{Assign to } C_1 \\
+\\
+D(C, C_1)^2 &= 25, \quad D(C, C_2)^2 = 0 \Rightarrow \text{Assign to } C_2 \\
+\\
+D(D, C_1)^2 &= 16, \quad D(D, C_2)^2 = 9 \Rightarrow \text{Assign to } C_2 \\
+\end{aligned}
+\]
+
+\begin{center}
+\begin{tabular}{llll}
+\toprule
+Point & Distance to \( C_1 \) & Distance to \( C_2 \) & Cluster \\
+\midrule
+A & 3.0 & 4.0 & \( C_1 \) \\
+B & 0.0 & 5.0 & \( C_1 \) \\
+C & 5.0 & 0.0 & \( C_2 \) \\
+D & 4.0 & 3.0 & \( C_2 \) \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\section*{Step 5: Recalculate Centroids}
+
+\subsection*{Cluster 1 (A, B)}
+\[
+x = \frac{1 + 1}{2} = 1, \quad y = \frac{1 + 4}{2} = 2.5 \Rightarrow \text{New } C_1 = (1, 2.5)
+\]
+
+\subsection*{Cluster 2 (C, D)}
+\[
+x = \frac{5 + 5}{2} = 5, \quad y = \frac{1 + 4}{2} = 2.5 \Rightarrow \text{New } C_2 = (5, 2.5)
+\]
+
+\section*{Final Clusters After 1 Iteration}
+
+\begin{itemize}
+    \item Cluster 1: A (1,1), B (1,4)
+    \item Cluster 2: C (5,1), D (5,4)
+\end{itemize}
+
+Updated centroids:
+\[
+C_1 = (1, 2.5), \quad C_2 = (5, 2.5)
+\]
+
+\end{document}

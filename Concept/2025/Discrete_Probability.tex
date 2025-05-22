@@ -1,0 +1,95 @@
+\documentclass[12pt]{article}
+\usepackage[left=1in, right=0.6in, top=0.6in, bottom=0.6in]{geometry}
+\usepackage{amsmath}
+\usepackage{booktabs}
+\usepackage{titlesec}
+\usepackage{parskip}
+
+% Reduce space above sections
+\titlespacing*{\section}{0pt}{6pt}{4pt}
+\titlespacing*{\subsection}{0pt}{4pt}{2pt}
+
+\setlength{\parskip}{4pt}
+\setlength{\parindent}{0pt}
+
+\title{\vspace{-2em}Probability: Binomial vs Bernoulli and Probability Mass Function\vspace{-1em}}
+\date{}
+
+\begin{document}
+\maketitle
+
+\section*{1. Binomial vs Bernoulli Distribution}
+
+\begin{tabular}{@{}lll@{}}
+\toprule
+\textbf{Aspect} & \textbf{Bernoulli Distribution} & \textbf{Binomial Distribution} \\
+\midrule
+Definition & 1 trial with 2 outcomes & Number of successes in $n$ trials \\
+Trials & 1 & $n \geq 1$ \\
+Support & $X \in \{0, 1\}$ & $X \in \{0, 1, ..., n\}$ \\
+Parameters & $p$ & $n$, $p$ \\
+Mean & $\mu = p$ & $\mu = np$ \\
+Variance & $\sigma^2 = p(1 - p)$ & $\sigma^2 = np(1 - p)$ \\
+Use Case & Single coin flip & Multiple coin flips \\
+\bottomrule
+\end{tabular}
+
+\section*{2. Probability Mass Function (PMF)}
+
+A Probability Mass Function (PMF) gives the probability that a discrete random variable is exactly equal to a specific value.
+
+Let $X$ be a discrete random variable. Then:
+
+\[
+P(X = x_i) \geq 0 \quad \text{and} \quad \sum_i P(X = x_i) = 1
+\]
+
+\section*{3. PMF Use Cases and Examples}
+
+\subsection*{Example 1: Product Defects (Binomial Distribution)}
+
+Suppose a factory has a defect rate of 5\%. What is the probability of exactly 2 defective items in a batch of 10?
+
+\[
+n = 10, \quad p = 0.05, \quad X \sim \text{Binomial}(10, 0.05)
+\]
+
+\[
+P(X = 2) = \binom{10}{2} (0.05)^2 (0.95)^8
+\]
+
+\[
+\binom{10}{2} = \frac{10 \cdot 9}{2} = 45
+\]
+\[
+(0.05)^2 = 0.0025, \quad (0.95)^8 \approx 0.6634
+\]
+\[
+P(X = 2) = 45 \cdot 0.0025 \cdot 0.6634 \approx 0.0746
+\]
+
+\textbf{Interpretation:} There is a 7.46\% chance of getting exactly 2 defective items.
+
+\subsection*{Example 2: Customer Arrivals (Poisson Distribution)}
+
+On average, 4 customers arrive per hour. What is the probability of exactly 5 arriving in the next hour?
+
+\[
+\lambda = 4, \quad X \sim \text{Poisson}(\lambda = 4)
+\]
+
+\[
+P(X = 5) = \frac{4^5 e^{-4}}{5!}
+\]
+
+\[
+4^5 = 1024, \quad 5! = 120, \quad e^{-4} \approx 0.0183
+\]
+
+\[
+P(X = 5) = \frac{1024 \cdot 0.0183}{120} \approx \frac{18.7392}{120} \approx 0.1562
+\]
+
+\textbf{Interpretation:} There is a 15.62\% chance that exactly 5 customers arrive in the next hour.
+
+\end{document}

@@ -1,0 +1,17 @@
+1. Share all the information in latex that you shared after my following query 
+
+Topic: Statistics. Probability
+Describe Expectation Vs Mean 
+When expectations are used 
+Share some examples with data 
+
+2.  Take minimal margin, padding in latex page. Remove huge space at top in latex
+
+
+
+1. What is the difference between binomial and Bernoulli distribution ?
+2. What is Probability Mass function and what are some example of use case of this ?
+
+
+
+What is contingency table? When is it used ? Share some example

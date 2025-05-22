@@ -104,4 +104,26 @@ def average_goal_score_conced(df, interval = 10, team_1 = "Finland", opposite_te
 
 
 Include goal difference in the stack graph. Goal score + concede + Goal difference in one bar stack graph
- If it is positive I mean win the game then color it withrgb(8, 162, 201) If negative or lost the game then color it withrgb(249, 206, 65)
+ If it is positive I mean win the game then color it with rgb(8, 162, 201) If negative or lost the game then color it withrgb(249, 206, 65)
+
+
+#000000  
+–––––––––––––––––––––––––––––––––––––––––––––––
+
+
+
+
+Date	Team_1 (France)	Team_2 (Germany)	Venue_country	Win_Team_Name
+47070	2024-03-23	0	2	France	Germany
+46426	2023-09-12	1	2	Germany	Germany
+44120	2021-06-15	1	0	Germany	France
+41962	2018-10-16	2	1	France	France
+41711	2018-09-06	0	0	Germany	Tie
+41181	2017-11-14	2	2	Germany	Tie
+39933	2016-07-07	2	0	France	France
+39300	2015-11-13	2	0	France	France
+37905	2014-07-04	0	1	Brazil	Germany
+36692	2013-02-06	1	2	France	Germany
+
+
+I am interested to use pearson correlation coefficient to measure the match between these teams. Is it possible to use statistical pearson correlation coefficient or any other statistical analysis to measure relation ?
