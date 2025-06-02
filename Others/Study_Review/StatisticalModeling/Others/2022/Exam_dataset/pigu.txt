@@ -1,0 +1,1353 @@
+PIGU	Year	Bay	ObservCond
+0	2000	Uyak	Good
+0	2001	Uyak	FairAverage
+0	2002	Uyak	Good
+1	2003	Uyak	ExcellentIdeal
+0	2004	Uyak	Good
+1	2005	Uyak	ExcellentIdeal
+0	2000	Uyak	Good
+0	2001	Uyak	FairAverage
+0	2002	Uyak	Good
+0	2003	Uyak	Good
+0	2004	Uyak	Good
+0	2005	Uyak	ExcellentIdeal
+1	2000	Uyak	ExcellentIdeal
+0	2001	Uyak	FairAverage
+0	2002	Uyak	Good
+1	2003	Uyak	Good
+1	2004	Uyak	Good
+1	2005	Uyak	ExcellentIdeal
+1	2000	Uyak	ExcellentIdeal
+0	2001	Uyak	FairAverage
+1	2002	Uyak	ExcellentIdeal
+1	2003	Uyak	ExcellentIdeal
+1	2004	Uyak	FairAverage
+1	2005	Uyak	ExcellentIdeal
+0	2000	Uyak	ExcellentIdeal
+0	2001	Uyak	FairAverage
+0	2002	Uyak	ExcellentIdeal
+0	2003	Uyak	ExcellentIdeal
+0	2004	Uyak	FairAverage
+0	2005	Uyak	ExcellentIdeal
+0	2000	Uyak	ExcellentIdeal
+0	2001	Uyak	FairAverage
+0	2002	Uyak	ExcellentIdeal
+0	2003	Uyak	ExcellentIdeal
+0	2004	Uyak	Good
+0	2005	Uyak	ExcellentIdeal
+0	2000	Uyak	ExcellentIdeal
+0	2001	Uyak	FairAverage
+0	2002	Uyak	ExcellentIdeal
+1	2003	Uyak	ExcellentIdeal
+0	2004	Uyak	Good
+0	2005	Uyak	ExcellentIdeal
+1	2000	Uyak	ExcellentIdeal
+1	2001	Uyak	FairAverage
+1	2002	Uyak	ExcellentIdeal
+1	2003	Uyak	ExcellentIdeal
+1	2004	Uyak	Good
+0	2005	Uyak	ExcellentIdeal
+1	2000	Uyak	ExcellentIdeal
+1	2001	Uyak	Good
+1	2002	Uyak	ExcellentIdeal
+1	2003	Uyak	ExcellentIdeal
+1	2004	Uyak	ExcellentIdeal
+0	2005	Uyak	ExcellentIdeal
+0	2000	Uyak	ExcellentIdeal
+0	2001	Uyak	Good
+0	2002	Uyak	ExcellentIdeal
+0	2003	Uyak	ExcellentIdeal
+1	2004	Uyak	ExcellentIdeal
+0	2005	Uyak	ExcellentIdeal
+1	2000	Uyak	FairAverage
+0	2001	Uyak	Good
+0	2002	Uyak	ExcellentIdeal
+0	2003	Uyak	ExcellentIdeal
+0	2004	Uyak	ExcellentIdeal
+0	2005	Uyak	ExcellentIdeal
+1	2000	Uyak	FairAverage
+0	2001	Uyak	Good
+0	2002	Uyak	ExcellentIdeal
+0	2003	Uyak	ExcellentIdeal
+0	2004	Uyak	ExcellentIdeal
+0	2005	Uyak	ExcellentIdeal
+0	2000	Uyak	FairAverage
+0	2001	Uyak	Good
+1	2002	Uyak	ExcellentIdeal
+1	2003	Uyak	ExcellentIdeal
+0	2004	Uyak	ExcellentIdeal
+0	2005	Uyak	ExcellentIdeal
+0	2000	Uyak	FairAverage
+0	2001	Uyak	Good
+0	2002	Uyak	ExcellentIdeal
+1	2003	Uyak	ExcellentIdeal
+1	2004	Uyak	ExcellentIdeal
+0	2005	Uyak	ExcellentIdeal
+0	2000	Uyak	FairAverage
+0	2001	Uyak	Good
+0	2002	Uyak	ExcellentIdeal
+1	2003	Uyak	ExcellentIdeal
+0	2004	Uyak	ExcellentIdeal
+0	2005	Uyak	ExcellentIdeal
+0	2000	Uyak	Good
+0	2001	Uyak	Good
+0	2002	Uyak	ExcellentIdeal
+0	2003	Uyak	ExcellentIdeal
+0	2004	Uyak	ExcellentIdeal
+0	2005	Uyak	ExcellentIdeal
+1	2000	Uyak	Good
+0	2001	Uyak	Good
+0	2002	Uyak	ExcellentIdeal
+1	2003	Uyak	ExcellentIdeal
+1	2004	Uyak	ExcellentIdeal
+0	2005	Uyak	ExcellentIdeal
+0	2000	Uyak	Good
+0	2001	Uyak	Good
+0	2002	Uyak	Good
+1	2003	Uyak	ExcellentIdeal
+0	2004	Uyak	ExcellentIdeal
+0	2005	Uyak	ExcellentIdeal
+1	2000	Uyak	Good
+0	2001	Uyak	Good
+1	2002	Uyak	Good
+1	2003	Uyak	ExcellentIdeal
+0	2004	Uyak	ExcellentIdeal
+0	2005	Uyak	ExcellentIdeal
+1	2000	Uyak	Good
+0	2001	Uyak	Good
+0	2002	Uyak	Good
+1	2003	Uyak	ExcellentIdeal
+1	2004	Uyak	ExcellentIdeal
+0	2005	Uyak	ExcellentIdeal
+1	2000	Uyak	ExcellentIdeal
+1	2001	Uyak	Good
+1	2002	Uyak	Good
+1	2003	Uyak	ExcellentIdeal
+1	2004	Uyak	ExcellentIdeal
+0	2005	Uyak	ExcellentIdeal
+1	2000	Uyak	ExcellentIdeal
+0	2001	Uyak	Good
+1	2002	Uyak	ExcellentIdeal
+1	2003	Uyak	ExcellentIdeal
+0	2004	Uyak	ExcellentIdeal
+0	2005	Uyak	ExcellentIdeal
+0	2000	Uyak	ExcellentIdeal
+1	2001	Uyak	Good
+0	2002	Uyak	ExcellentIdeal
+0	2003	Uyak	ExcellentIdeal
+0	2004	Uyak	ExcellentIdeal
+0	2005	Uyak	ExcellentIdeal
+0	2000	Uyak	ExcellentIdeal
+0	2001	Uyak	Good
+0	2002	Uyak	ExcellentIdeal
+1	2003	Uyak	ExcellentIdeal
+1	2004	Uyak	ExcellentIdeal
+0	2005	Uyak	ExcellentIdeal
+1	2000	Uyak	ExcellentIdeal
+1	2001	Uyak	Good
+0	2002	Uyak	ExcellentIdeal
+1	2003	Uyak	ExcellentIdeal
+1	2004	Uyak	ExcellentIdeal
+0	2005	Uyak	ExcellentIdeal
+0	2000	Uyak	ExcellentIdeal
+0	2001	Uyak	Good
+1	2002	Uyak	ExcellentIdeal
+0	2003	Uyak	ExcellentIdeal
+1	2004	Uyak	ExcellentIdeal
+0	2005	Uyak	ExcellentIdeal
+1	2000	Uyak	ExcellentIdeal
+0	2001	Uyak	Good
+0	2002	Uyak	ExcellentIdeal
+0	2003	Uyak	ExcellentIdeal
+1	2004	Uyak	ExcellentIdeal
+0	2005	Uyak	ExcellentIdeal
+0	2000	Uyak	ExcellentIdeal
+0	2001	Uyak	Good
+0	2002	Uyak	ExcellentIdeal
+0	2003	Uyak	ExcellentIdeal
+1	2004	Uyak	ExcellentIdeal
+0	2005	Uyak	ExcellentIdeal
+1	2000	Uyak	ExcellentIdeal
+1	2001	Uyak	Good
+0	2002	Uyak	ExcellentIdeal
+0	2003	Uyak	ExcellentIdeal
+0	2004	Uyak	ExcellentIdeal
+0	2005	Uyak	ExcellentIdeal
+0	2000	Uyak	ExcellentIdeal
+0	2001	Uyak	FairAverage
+0	2002	Uyak	ExcellentIdeal
+0	2003	Uyak	ExcellentIdeal
+0	2004	Uyak	ExcellentIdeal
+0	2005	Uyak	ExcellentIdeal
+1	2000	Uyak	ExcellentIdeal
+0	2001	Uyak	FairAverage
+1	2002	Uyak	ExcellentIdeal
+1	2003	Uyak	ExcellentIdeal
+1	2004	Uyak	ExcellentIdeal
+0	2005	Uyak	ExcellentIdeal
+1	2000	Uyak	ExcellentIdeal
+1	2001	Uyak	FairAverage
+0	2002	Uyak	ExcellentIdeal
+1	2003	Uyak	ExcellentIdeal
+1	2004	Uyak	ExcellentIdeal
+0	2005	Uyak	ExcellentIdeal
+1	2000	Uyak	ExcellentIdeal
+1	2001	Uyak	Good
+1	2002	Uyak	ExcellentIdeal
+1	2003	Uyak	ExcellentIdeal
+1	2004	Uyak	ExcellentIdeal
+0	2005	Uyak	ExcellentIdeal
+1	2000	Uyak	ExcellentIdeal
+0	2001	Uyak	Good
+0	2002	Uyak	ExcellentIdeal
+1	2003	Uyak	ExcellentIdeal
+1	2004	Uyak	ExcellentIdeal
+1	2005	Uyak	ExcellentIdeal
+1	2000	Uyak	ExcellentIdeal
+1	2001	Uyak	Good
+1	2002	Uyak	ExcellentIdeal
+1	2003	Uyak	ExcellentIdeal
+1	2004	Uyak	ExcellentIdeal
+0	2005	Uyak	ExcellentIdeal
+0	2000	Uyak	ExcellentIdeal
+0	2001	Uyak	Good
+0	2002	Uyak	Good
+0	2003	Uyak	ExcellentIdeal
+0	2004	Uyak	ExcellentIdeal
+0	2005	Uyak	ExcellentIdeal
+0	2000	Uyak	ExcellentIdeal
+0	2001	Uyak	Good
+0	2002	Uyak	Good
+0	2003	Uyak	ExcellentIdeal
+1	2004	Uyak	ExcellentIdeal
+0	2005	Uyak	ExcellentIdeal
+0	2000	Uyak	ExcellentIdeal
+0	2001	Uyak	Good
+0	2002	Uyak	FairAverage
+1	2003	Uyak	ExcellentIdeal
+1	2004	Uyak	ExcellentIdeal
+1	2005	Uyak	ExcellentIdeal
+1	2000	Uyak	ExcellentIdeal
+1	2001	Uyak	ExcellentIdeal
+0	2002	Uyak	FairAverage
+0	2003	Uyak	Good
+1	2004	Uyak	ExcellentIdeal
+1	2005	Uyak	ExcellentIdeal
+0	2000	Uyak	ExcellentIdeal
+0	2001	Uyak	ExcellentIdeal
+0	2002	Uyak	FairAverage
+0	2003	Uyak	Good
+0	2004	Uyak	ExcellentIdeal
+0	2005	Uyak	ExcellentIdeal
+1	2000	Uyak	Good
+0	2001	Uyak	ExcellentIdeal
+1	2002	Uyak	ExcellentIdeal
+0	2003	Uyak	ExcellentIdeal
+1	2004	Uyak	ExcellentIdeal
+1	2005	Uyak	ExcellentIdeal
+0	2000	Uyak	Good
+0	2001	Uyak	ExcellentIdeal
+0	2002	Uyak	ExcellentIdeal
+0	2003	Uyak	ExcellentIdeal
+0	2004	Uyak	ExcellentIdeal
+0	2005	Uyak	ExcellentIdeal
+0	2000	Uyak	Good
+0	2001	Uyak	ExcellentIdeal
+0	2002	Uyak	Good
+0	2003	Uyak	ExcellentIdeal
+0	2004	Uyak	ExcellentIdeal
+0	2005	Uyak	ExcellentIdeal
+0	2000	Uyak	Good
+0	2001	Uyak	ExcellentIdeal
+0	2002	Uyak	Good
+0	2003	Uyak	ExcellentIdeal
+0	2004	Uyak	ExcellentIdeal
+0	2005	Uyak	ExcellentIdeal
+0	2000	Uyak	Good
+0	2001	Uyak	ExcellentIdeal
+0	2002	Uyak	ExcellentIdeal
+0	2003	Uyak	ExcellentIdeal
+0	2004	Uyak	ExcellentIdeal
+0	2005	Uyak	ExcellentIdeal
+0	2000	Uyak	Good
+1	2001	Uyak	ExcellentIdeal
+0	2002	Uyak	ExcellentIdeal
+0	2003	Uyak	ExcellentIdeal
+1	2004	Uyak	Good
+0	2005	Uyak	ExcellentIdeal
+0	2000	Uyak	ExcellentIdeal
+0	2001	Uyak	ExcellentIdeal
+0	2002	Uyak	ExcellentIdeal
+1	2003	Uyak	ExcellentIdeal
+0	2004	Uyak	Good
+0	2005	Uyak	ExcellentIdeal
+1	2000	Uyak	ExcellentIdeal
+0	2001	Uyak	ExcellentIdeal
+1	2002	Uyak	ExcellentIdeal
+1	2003	Uyak	ExcellentIdeal
+1	2004	Uyak	Good
+0	2005	Uyak	ExcellentIdeal
+0	2000	Uyak	ExcellentIdeal
+0	2001	Uyak	ExcellentIdeal
+0	2002	Uyak	ExcellentIdeal
+0	2003	Uyak	ExcellentIdeal
+0	2004	Uyak	ExcellentIdeal
+0	2005	Uyak	ExcellentIdeal
+0	2000	Uyak	ExcellentIdeal
+1	2001	Uyak	ExcellentIdeal
+0	2002	Uyak	ExcellentIdeal
+1	2003	Uyak	ExcellentIdeal
+1	2004	Uyak	ExcellentIdeal
+0	2005	Uyak	ExcellentIdeal
+0	2000	Uyak	FairAverage
+1	2001	Uyak	ExcellentIdeal
+1	2002	Uyak	ExcellentIdeal
+0	2003	Uyak	Good
+0	2004	Uyak	ExcellentIdeal
+0	2005	Uyak	ExcellentIdeal
+1	2000	Uyak	FairAverage
+0	2001	Uyak	ExcellentIdeal
+0	2002	Uyak	ExcellentIdeal
+0	2003	Uyak	Good
+1	2004	Uyak	ExcellentIdeal
+1	2005	Uyak	ExcellentIdeal
+0	2000	Uyak	FairAverage
+1	2001	Uyak	ExcellentIdeal
+1	2002	Uyak	ExcellentIdeal
+0	2003	Uyak	Good
+0	2004	Uyak	Good
+0	2005	Uyak	Good
+1	2000	Uyak	Good
+1	2001	Uyak	ExcellentIdeal
+0	2002	Uyak	ExcellentIdeal
+1	2003	Uyak	ExcellentIdeal
+0	2004	Uyak	Good
+0	2005	Uyak	Good
+0	2000	Uyak	Good
+1	2001	Uyak	ExcellentIdeal
+1	2002	Uyak	ExcellentIdeal
+1	2003	Uyak	ExcellentIdeal
+1	2004	Uyak	Good
+0	2005	Uyak	Good
+1	2000	Uyak	Good
+0	2001	Uyak	ExcellentIdeal
+0	2002	Uyak	ExcellentIdeal
+0	2003	Uyak	ExcellentIdeal
+1	2004	Uyak	ExcellentIdeal
+1	2005	Uyak	Good
+0	2000	Uyak	Good
+0	2001	Uyak	ExcellentIdeal
+0	2002	Uyak	ExcellentIdeal
+1	2003	Uyak	ExcellentIdeal
+0	2004	Uyak	ExcellentIdeal
+0	2005	Uyak	Good
+0	2000	Uyak	Good
+0	2001	Uyak	ExcellentIdeal
+0	2002	Uyak	ExcellentIdeal
+0	2003	Uyak	ExcellentIdeal
+1	2004	Uyak	ExcellentIdeal
+0	2005	Uyak	Good
+0	2000	Uyak	Good
+0	2001	Uyak	ExcellentIdeal
+0	2002	Uyak	ExcellentIdeal
+0	2003	Uyak	ExcellentIdeal
+1	2004	Uyak	Good
+0	2005	Uyak	Good
+0	2000	Uyak	Good
+0	2001	Uyak	ExcellentIdeal
+0	2002	Uyak	ExcellentIdeal
+0	2003	Uyak	ExcellentIdeal
+0	2004	Uyak	Good
+0	2005	Uyak	Good
+0	2000	Uyak	Good
+0	2001	Uyak	ExcellentIdeal
+0	2002	Uyak	ExcellentIdeal
+1	2003	Uyak	ExcellentIdeal
+0	2004	Uyak	Good
+0	2005	Uyak	Good
+0	2000	Uyak	Good
+0	2001	Uyak	ExcellentIdeal
+0	2002	Uyak	ExcellentIdeal
+1	2003	Uyak	ExcellentIdeal
+0	2004	Uyak	Good
+0	2005	Uyak	Good
+0	2000	Uyak	Good
+0	2001	Uyak	ExcellentIdeal
+0	2002	Uyak	ExcellentIdeal
+1	2003	Uyak	ExcellentIdeal
+0	2004	Uyak	Good
+0	2005	Uyak	Good
+0	2000	Uyak	Good
+0	2001	Uyak	ExcellentIdeal
+1	2002	Uyak	ExcellentIdeal
+1	2003	Uyak	ExcellentIdeal
+0	2004	Uyak	Good
+0	2005	Uyak	Good
+0	2000	Uyak	Good
+0	2001	Uyak	Good
+1	2002	Uyak	ExcellentIdeal
+1	2003	Uyak	ExcellentIdeal
+0	2004	Uyak	Good
+0	2005	Uyak	Good
+0	2000	Uyak	ExcellentIdeal
+0	2001	Uyak	Good
+0	2002	Uyak	ExcellentIdeal
+0	2003	Uyak	ExcellentIdeal
+0	2004	Uyak	FairAverage
+1	2005	Uyak	FairAverage
+0	2000	Uyak	ExcellentIdeal
+1	2001	Uyak	Good
+1	2002	Uyak	ExcellentIdeal
+0	2003	Uyak	ExcellentIdeal
+1	2004	Uyak	FairAverage
+1	2005	Uyak	FairAverage
+1	2000	Uyak	Good
+1	2001	Uyak	Good
+1	2002	Uyak	Good
+0	2003	Uyak	Good
+1	2004	Uyak	Good
+1	2005	Uyak	FairAverage
+0	2000	Uyak	Good
+0	2001	Uyak	Good
+0	2002	Uyak	Good
+1	2003	Uyak	Good
+0	2004	Uyak	Good
+0	2005	Uyak	FairAverage
+0	2000	Uyak	Good
+0	2001	Uyak	FairAverage
+0	2002	Uyak	Good
+0	2003	Uyak	Good
+0	2004	Uyak	Good
+0	2005	Uyak	FairAverage
+0	2000	Uyak	Good
+0	2001	Uyak	FairAverage
+0	2002	Uyak	Good
+0	2003	Uyak	Good
+0	2004	Uyak	Good
+0	2005	Uyak	FairAverage
+1	2000	Uyak	ExcellentIdeal
+1	2001	Uyak	ExcellentIdeal
+1	2002	Uyak	ExcellentIdeal
+1	2003	Uyak	ExcellentIdeal
+1	2004	Uyak	ExcellentIdeal
+0	2005	Uyak	FairAverage
+0	2000	Uyak	ExcellentIdeal
+0	2001	Uyak	ExcellentIdeal
+0	2002	Uyak	ExcellentIdeal
+0	2003	Uyak	ExcellentIdeal
+1	2004	Uyak	ExcellentIdeal
+0	2005	Uyak	FairAverage
+0	2000	Uyak	ExcellentIdeal
+1	2001	Uyak	ExcellentIdeal
+0	2002	Uyak	ExcellentIdeal
+1	2003	Uyak	ExcellentIdeal
+0	2004	Uyak	ExcellentIdeal
+0	2005	Uyak	Good
+0	2000	Uyak	ExcellentIdeal
+0	2001	Uyak	ExcellentIdeal
+0	2002	Uyak	ExcellentIdeal
+0	2003	Uyak	ExcellentIdeal
+0	2004	Uyak	ExcellentIdeal
+0	2005	Uyak	Good
+1	2000	Uyak	ExcellentIdeal
+1	2001	Uyak	ExcellentIdeal
+1	2002	Uyak	ExcellentIdeal
+1	2003	Uyak	ExcellentIdeal
+1	2004	Uyak	ExcellentIdeal
+0	2005	Uyak	Good
+1	2000	Uyak	ExcellentIdeal
+0	2001	Uyak	ExcellentIdeal
+0	2002	Uyak	ExcellentIdeal
+1	2003	Uyak	ExcellentIdeal
+1	2004	Uyak	ExcellentIdeal
+0	2005	Uyak	Good
+1	2000	Uyak	ExcellentIdeal
+0	2001	Uyak	ExcellentIdeal
+0	2002	Uyak	ExcellentIdeal
+1	2003	Uyak	ExcellentIdeal
+0	2004	Uyak	ExcellentIdeal
+0	2005	Uyak	FairAverage
+0	2000	Uyak	ExcellentIdeal
+0	2001	Uyak	ExcellentIdeal
+0	2002	Uyak	ExcellentIdeal
+0	2003	Uyak	ExcellentIdeal
+1	2004	Uyak	ExcellentIdeal
+0	2005	Uyak	FairAverage
+1	2000	Uganik	ExcellentIdeal
+1	2001	Uganik	ExcellentIdeal
+1	2002	Uganik	Good
+1	2003	Uganik	ExcellentIdeal
+1	2004	Uganik	ExcellentIdeal
+1	2005	Uganik	Good
+1	2000	Uganik	ExcellentIdeal
+0	2001	Uganik	ExcellentIdeal
+0	2002	Uganik	ExcellentIdeal
+0	2003	Uganik	ExcellentIdeal
+0	2004	Uganik	ExcellentIdeal
+0	2005	Uganik	Good
+1	2000	Uganik	ExcellentIdeal
+1	2001	Uganik	ExcellentIdeal
+1	2002	Uganik	Good
+1	2003	Uganik	ExcellentIdeal
+0	2004	Uganik	ExcellentIdeal
+0	2005	Uganik	Good
+1	2000	Uganik	ExcellentIdeal
+0	2001	Uganik	ExcellentIdeal
+0	2002	Uganik	ExcellentIdeal
+0	2003	Uganik	ExcellentIdeal
+0	2004	Uganik	ExcellentIdeal
+0	2005	Uganik	Good
+1	2000	Uganik	ExcellentIdeal
+0	2001	Uganik	ExcellentIdeal
+0	2002	Uganik	Good
+0	2003	Uganik	ExcellentIdeal
+1	2004	Uganik	ExcellentIdeal
+0	2005	Uganik	Good
+0	2000	Uganik	Good
+0	2001	Uganik	ExcellentIdeal
+0	2002	Uganik	Good
+0	2003	Uganik	ExcellentIdeal
+1	2004	Uganik	ExcellentIdeal
+0	2005	Uganik	Good
+1	2000	Uganik	Good
+1	2001	Uganik	ExcellentIdeal
+1	2002	Uganik	Good
+0	2003	Uganik	ExcellentIdeal
+1	2004	Uganik	ExcellentIdeal
+0	2005	Uganik	Good
+0	2000	Uganik	Good
+0	2001	Uganik	ExcellentIdeal
+0	2002	Uganik	Good
+0	2003	Uganik	ExcellentIdeal
+0	2004	Uganik	ExcellentIdeal
+1	2005	Uganik	Good
+1	2000	Uganik	Good
+1	2001	Uganik	ExcellentIdeal
+0	2002	Uganik	Good
+1	2003	Uganik	ExcellentIdeal
+1	2004	Uganik	ExcellentIdeal
+1	2005	Uganik	Good
+1	2000	Uganik	Good
+0	2001	Uganik	ExcellentIdeal
+0	2002	Uganik	Good
+0	2003	Uganik	ExcellentIdeal
+0	2004	Uganik	ExcellentIdeal
+0	2005	Uganik	Good
+0	2000	Uganik	Good
+0	2001	Uganik	ExcellentIdeal
+0	2002	Uganik	Good
+0	2003	Uganik	ExcellentIdeal
+0	2004	Uganik	ExcellentIdeal
+0	2005	Uganik	Good
+0	2000	Uganik	Good
+0	2001	Uganik	Good
+0	2002	Uganik	Good
+0	2003	Uganik	ExcellentIdeal
+0	2004	Uganik	Good
+0	2005	Uganik	ExcellentIdeal
+1	2000	Uganik	Good
+0	2001	Uganik	Good
+0	2002	Uganik	Good
+0	2003	Uganik	ExcellentIdeal
+0	2004	Uganik	Good
+0	2005	Uganik	ExcellentIdeal
+0	2000	Uganik	Good
+0	2001	Uganik	FairAverage
+0	2002	Uganik	Good
+1	2003	Uganik	ExcellentIdeal
+0	2004	Uganik	Good
+1	2005	Uganik	ExcellentIdeal
+0	2000	Uganik	Good
+0	2001	Uganik	Good
+1	2002	Uganik	Good
+0	2003	Uganik	ExcellentIdeal
+0	2004	Uganik	Good
+0	2005	Uganik	Good
+0	2000	Uganik	Good
+0	2001	Uganik	Good
+1	2002	Uganik	Good
+0	2003	Uganik	ExcellentIdeal
+0	2004	Uganik	Good
+0	2005	Uganik	Good
+0	2000	Uganik	Good
+0	2001	Uganik	Good
+0	2002	Uganik	Good
+0	2003	Uganik	ExcellentIdeal
+0	2004	Uganik	Good
+0	2005	Uganik	Good
+0	2000	Uganik	Good
+0	2001	Uganik	Good
+0	2002	Uganik	ExcellentIdeal
+0	2003	Uganik	ExcellentIdeal
+0	2004	Uganik	ExcellentIdeal
+0	2005	Uganik	Good
+1	2000	Uganik	Good
+0	2001	Uganik	Good
+0	2002	Uganik	ExcellentIdeal
+1	2003	Uganik	ExcellentIdeal
+1	2004	Uganik	ExcellentIdeal
+0	2005	Uganik	Good
+1	2000	Uganik	Good
+1	2001	Uganik	Good
+1	2002	Uganik	ExcellentIdeal
+0	2003	Uganik	ExcellentIdeal
+1	2004	Uganik	ExcellentIdeal
+1	2005	Uganik	Good
+1	2000	Uganik	ExcellentIdeal
+0	2001	Uganik	Good
+0	2002	Uganik	ExcellentIdeal
+0	2003	Uganik	ExcellentIdeal
+0	2004	Uganik	ExcellentIdeal
+0	2005	Uganik	Good
+1	2000	Uganik	ExcellentIdeal
+0	2001	Uganik	Good
+0	2002	Uganik	ExcellentIdeal
+0	2003	Uganik	ExcellentIdeal
+0	2004	Uganik	ExcellentIdeal
+0	2005	Uganik	ExcellentIdeal
+0	2000	Uganik	ExcellentIdeal
+0	2001	Uganik	Good
+0	2002	Uganik	Good
+0	2003	Uganik	ExcellentIdeal
+0	2004	Uganik	ExcellentIdeal
+0	2005	Uganik	ExcellentIdeal
+1	2000	Uganik	ExcellentIdeal
+0	2001	Uganik	FairAverage
+0	2002	Uganik	Good
+1	2003	Uganik	ExcellentIdeal
+0	2004	Uganik	ExcellentIdeal
+0	2005	Uganik	ExcellentIdeal
+1	2000	Uganik	ExcellentIdeal
+0	2001	Uganik	FairAverage
+0	2002	Uganik	ExcellentIdeal
+0	2003	Uganik	ExcellentIdeal
+0	2004	Uganik	ExcellentIdeal
+0	2005	Uganik	ExcellentIdeal
+1	2000	Uganik	ExcellentIdeal
+0	2001	Uganik	FairAverage
+0	2002	Uganik	ExcellentIdeal
+0	2003	Uganik	ExcellentIdeal
+0	2004	Uganik	ExcellentIdeal
+0	2005	Uganik	ExcellentIdeal
+1	2000	Uganik	ExcellentIdeal
+0	2001	Uganik	FairAverage
+0	2002	Uganik	ExcellentIdeal
+0	2003	Uganik	ExcellentIdeal
+1	2004	Uganik	ExcellentIdeal
+0	2005	Uganik	ExcellentIdeal
+1	2000	Uganik	Good
+1	2001	Uganik	FairAverage
+0	2002	Uganik	ExcellentIdeal
+0	2003	Uganik	ExcellentIdeal
+1	2004	Uganik	ExcellentIdeal
+1	2005	Uganik	ExcellentIdeal
+0	2000	Uganik	Good
+0	2001	Uganik	FairAverage
+0	2002	Uganik	Good
+0	2003	Uganik	ExcellentIdeal
+0	2004	Uganik	ExcellentIdeal
+0	2005	Uganik	ExcellentIdeal
+0	2000	Uganik	Good
+0	2001	Uganik	FairAverage
+0	2002	Uganik	Good
+0	2003	Uganik	ExcellentIdeal
+0	2004	Uganik	ExcellentIdeal
+0	2005	Uganik	ExcellentIdeal
+1	2000	Uganik	Good
+0	2001	Uganik	Good
+0	2002	Uganik	ExcellentIdeal
+0	2003	Uganik	ExcellentIdeal
+0	2004	Uganik	ExcellentIdeal
+0	2005	Uganik	ExcellentIdeal
+1	2000	Uganik	Good
+0	2001	Uganik	Good
+0	2002	Uganik	ExcellentIdeal
+0	2003	Uganik	ExcellentIdeal
+0	2004	Uganik	ExcellentIdeal
+0	2005	Uganik	ExcellentIdeal
+1	2000	Uganik	Good
+1	2001	Uganik	Good
+0	2002	Uganik	ExcellentIdeal
+1	2003	Uganik	ExcellentIdeal
+0	2004	Uganik	ExcellentIdeal
+0	2005	Uganik	ExcellentIdeal
+0	2000	Uganik	Good
+0	2001	Uganik	Good
+1	2002	Uganik	ExcellentIdeal
+0	2003	Uganik	ExcellentIdeal
+0	2004	Uganik	ExcellentIdeal
+0	2005	Uganik	ExcellentIdeal
+1	2000	Uganik	Good
+0	2001	Uganik	Good
+0	2002	Uganik	FairAverage
+1	2003	Uganik	Good
+0	2004	Uganik	ExcellentIdeal
+0	2005	Uganik	Good
+0	2000	Uganik	Good
+1	2001	Uganik	Good
+0	2002	Uganik	Good
+0	2003	Uganik	Good
+0	2004	Uganik	ExcellentIdeal
+0	2005	Uganik	Good
+0	2000	Uganik	Good
+0	2001	Uganik	ExcellentIdeal
+0	2002	Uganik	Good
+0	2003	Uganik	ExcellentIdeal
+0	2004	Uganik	ExcellentIdeal
+0	2005	Uganik	ExcellentIdeal
+0	2000	Uganik	Good
+1	2001	Uganik	ExcellentIdeal
+0	2002	Uganik	Good
+0	2003	Uganik	ExcellentIdeal
+0	2004	Uganik	ExcellentIdeal
+0	2005	Uganik	ExcellentIdeal
+1	2000	Uganik	ExcellentIdeal
+0	2001	Uganik	ExcellentIdeal
+0	2002	Uganik	Good
+0	2003	Uganik	ExcellentIdeal
+0	2004	Uganik	ExcellentIdeal
+0	2005	Uganik	ExcellentIdeal
+0	2000	Uganik	Good
+0	2001	Uganik	ExcellentIdeal
+0	2002	Uganik	FairAverage
+0	2003	Uganik	ExcellentIdeal
+0	2004	Uganik	Good
+0	2005	Uganik	ExcellentIdeal
+0	2000	Uganik	Good
+0	2001	Uganik	ExcellentIdeal
+1	2002	Uganik	FairAverage
+0	2003	Uganik	ExcellentIdeal
+0	2004	Uganik	Good
+0	2005	Uganik	Good
+0	2000	Uganik	Good
+0	2001	Uganik	ExcellentIdeal
+0	2002	Uganik	FairAverage
+0	2003	Uganik	ExcellentIdeal
+0	2004	Uganik	Good
+0	2005	Uganik	Good
+1	2000	Uganik	Good
+0	2001	Uganik	ExcellentIdeal
+1	2002	Uganik	FairAverage
+1	2003	Uganik	ExcellentIdeal
+0	2004	Uganik	Good
+0	2005	Uganik	Good
+0	2000	Uganik	Good
+0	2001	Uganik	ExcellentIdeal
+0	2002	Uganik	FairAverage
+0	2003	Uganik	ExcellentIdeal
+0	2004	Uganik	ExcellentIdeal
+0	2005	Uganik	ExcellentIdeal
+0	2000	Uganik	Good
+0	2001	Uganik	ExcellentIdeal
+0	2002	Uganik	FairAverage
+1	2003	Uganik	ExcellentIdeal
+0	2004	Uganik	ExcellentIdeal
+0	2005	Uganik	ExcellentIdeal
+1	2000	Uganik	Good
+0	2001	Uganik	ExcellentIdeal
+0	2002	Uganik	FairAverage
+0	2003	Uganik	ExcellentIdeal
+0	2004	Uganik	Good
+0	2005	Uganik	ExcellentIdeal
+0	2000	Uganik	Good
+0	2001	Uganik	ExcellentIdeal
+0	2002	Uganik	FairAverage
+1	2003	Uganik	ExcellentIdeal
+0	2004	Uganik	Good
+1	2005	Uganik	ExcellentIdeal
+1	2000	Uganik	Good
+0	2001	Uganik	ExcellentIdeal
+0	2002	Uganik	FairAverage
+1	2003	Uganik	ExcellentIdeal
+1	2004	Uganik	Good
+0	2005	Uganik	ExcellentIdeal
+1	2000	Uganik	ExcellentIdeal
+0	2001	Uganik	FairAverage
+0	2002	Uganik	Good
+0	2003	Uganik	ExcellentIdeal
+0	2004	Uganik	ExcellentIdeal
+0	2005	Uganik	ExcellentIdeal
+0	2000	Uganik	ExcellentIdeal
+0	2001	Uganik	FairAverage
+0	2002	Uganik	FairAverage
+1	2003	Uganik	ExcellentIdeal
+0	2004	Uganik	ExcellentIdeal
+0	2005	Uganik	ExcellentIdeal
+1	2003	E. Sitkalidak	ExcellentIdeal
+0	2004	E. Sitkalidak	ExcellentIdeal
+1	2005	E. Sitkalidak	ExcellentIdeal
+1	2000	E. Sitkalidak	ExcellentIdeal
+1	2001	E. Sitkalidak	FairAverage
+1	2002	E. Sitkalidak	ExcellentIdeal
+1	2003	E. Sitkalidak	ExcellentIdeal
+0	2004	E. Sitkalidak	ExcellentIdeal
+0	2005	E. Sitkalidak	ExcellentIdeal
+1	2000	E. Sitkalidak	ExcellentIdeal
+0	2001	E. Sitkalidak	FairAverage
+0	2002	E. Sitkalidak	ExcellentIdeal
+0	2003	E. Sitkalidak	ExcellentIdeal
+0	2004	E. Sitkalidak	ExcellentIdeal
+0	2005	E. Sitkalidak	ExcellentIdeal
+0	2000	E. Sitkalidak	ExcellentIdeal
+0	2001	E. Sitkalidak	Good
+0	2002	E. Sitkalidak	ExcellentIdeal
+0	2003	E. Sitkalidak	ExcellentIdeal
+0	2004	E. Sitkalidak	ExcellentIdeal
+0	2005	E. Sitkalidak	ExcellentIdeal
+1	2000	E. Sitkalidak	ExcellentIdeal
+1	2001	E. Sitkalidak	Good
+1	2002	E. Sitkalidak	ExcellentIdeal
+1	2003	E. Sitkalidak	ExcellentIdeal
+0	2004	E. Sitkalidak	ExcellentIdeal
+1	2005	E. Sitkalidak	ExcellentIdeal
+0	2000	E. Sitkalidak	ExcellentIdeal
+0	2001	E. Sitkalidak	ExcellentIdeal
+0	2002	E. Sitkalidak	ExcellentIdeal
+0	2003	E. Sitkalidak	ExcellentIdeal
+0	2004	E. Sitkalidak	ExcellentIdeal
+0	2005	E. Sitkalidak	ExcellentIdeal
+1	2000	E. Sitkalidak	ExcellentIdeal
+1	2001	E. Sitkalidak	ExcellentIdeal
+1	2002	E. Sitkalidak	ExcellentIdeal
+1	2003	E. Sitkalidak	ExcellentIdeal
+0	2004	E. Sitkalidak	ExcellentIdeal
+1	2005	E. Sitkalidak	ExcellentIdeal
+0	2000	E. Sitkalidak	ExcellentIdeal
+0	2001	E. Sitkalidak	ExcellentIdeal
+0	2002	E. Sitkalidak	ExcellentIdeal
+0	2003	E. Sitkalidak	ExcellentIdeal
+0	2004	E. Sitkalidak	ExcellentIdeal
+0	2005	E. Sitkalidak	ExcellentIdeal
+0	2000	E. Sitkalidak	ExcellentIdeal
+1	2001	E. Sitkalidak	ExcellentIdeal
+0	2002	E. Sitkalidak	ExcellentIdeal
+0	2003	E. Sitkalidak	ExcellentIdeal
+0	2004	E. Sitkalidak	ExcellentIdeal
+0	2005	E. Sitkalidak	ExcellentIdeal
+0	2000	E. Sitkalidak	ExcellentIdeal
+0	2001	E. Sitkalidak	ExcellentIdeal
+1	2002	E. Sitkalidak	Good
+0	2003	E. Sitkalidak	Good
+1	2004	E. Sitkalidak	ExcellentIdeal
+0	2005	E. Sitkalidak	ExcellentIdeal
+0	2000	E. Sitkalidak	ExcellentIdeal
+0	2001	E. Sitkalidak	ExcellentIdeal
+1	2002	E. Sitkalidak	Good
+0	2003	E. Sitkalidak	Good
+1	2004	E. Sitkalidak	ExcellentIdeal
+0	2005	E. Sitkalidak	ExcellentIdeal
+0	2000	E. Sitkalidak	ExcellentIdeal
+0	2001	E. Sitkalidak	ExcellentIdeal
+0	2002	E. Sitkalidak	ExcellentIdeal
+0	2003	E. Sitkalidak	ExcellentIdeal
+0	2004	E. Sitkalidak	ExcellentIdeal
+0	2005	E. Sitkalidak	ExcellentIdeal
+1	2000	E. Sitkalidak	ExcellentIdeal
+1	2001	E. Sitkalidak	ExcellentIdeal
+1	2002	E. Sitkalidak	ExcellentIdeal
+0	2003	E. Sitkalidak	ExcellentIdeal
+1	2004	E. Sitkalidak	ExcellentIdeal
+0	2005	E. Sitkalidak	ExcellentIdeal
+0	2000	E. Sitkalidak	ExcellentIdeal
+1	2001	E. Sitkalidak	ExcellentIdeal
+1	2002	E. Sitkalidak	Good
+0	2003	E. Sitkalidak	Good
+0	2004	E. Sitkalidak	ExcellentIdeal
+0	2005	E. Sitkalidak	ExcellentIdeal
+1	2000	E. Sitkalidak	ExcellentIdeal
+1	2001	E. Sitkalidak	Good
+1	2002	E. Sitkalidak	Good
+0	2003	E. Sitkalidak	Good
+1	2004	E. Sitkalidak	ExcellentIdeal
+0	2005	E. Sitkalidak	ExcellentIdeal
+1	2000	E. Sitkalidak	ExcellentIdeal
+1	2001	E. Sitkalidak	Good
+1	2002	E. Sitkalidak	ExcellentIdeal
+1	2003	E. Sitkalidak	ExcellentIdeal
+1	2004	E. Sitkalidak	ExcellentIdeal
+0	2005	E. Sitkalidak	ExcellentIdeal
+1	2000	E. Sitkalidak	ExcellentIdeal
+1	2001	E. Sitkalidak	Good
+1	2002	E. Sitkalidak	ExcellentIdeal
+1	2003	E. Sitkalidak	ExcellentIdeal
+1	2004	E. Sitkalidak	ExcellentIdeal
+1	2005	E. Sitkalidak	ExcellentIdeal
+1	2000	E. Sitkalidak	ExcellentIdeal
+0	2001	E. Sitkalidak	Good
+0	2002	E. Sitkalidak	ExcellentIdeal
+0	2003	E. Sitkalidak	ExcellentIdeal
+1	2004	E. Sitkalidak	ExcellentIdeal
+0	2005	E. Sitkalidak	ExcellentIdeal
+0	2000	E. Sitkalidak	ExcellentIdeal
+0	2001	E. Sitkalidak	Good
+0	2002	E. Sitkalidak	ExcellentIdeal
+0	2003	E. Sitkalidak	Good
+0	2004	E. Sitkalidak	ExcellentIdeal
+0	2005	E. Sitkalidak	Good
+1	2000	E. Sitkalidak	ExcellentIdeal
+0	2001	E. Sitkalidak	Good
+1	2002	E. Sitkalidak	ExcellentIdeal
+0	2003	E. Sitkalidak	Good
+1	2004	E. Sitkalidak	Good
+1	2005	E. Sitkalidak	Good
+0	2000	E. Sitkalidak	ExcellentIdeal
+0	2001	E. Sitkalidak	FairAverage
+0	2002	E. Sitkalidak	Good
+1	2003	E. Sitkalidak	Good
+0	2004	E. Sitkalidak	Good
+0	2005	E. Sitkalidak	Good
+1	2000	E. Sitkalidak	ExcellentIdeal
+0	2001	E. Sitkalidak	FairAverage
+1	2002	E. Sitkalidak	Good
+1	2003	E. Sitkalidak	Good
+0	2004	E. Sitkalidak	Good
+0	2005	E. Sitkalidak	Good
+0	2000	E. Sitkalidak	Good
+0	2001	E. Sitkalidak	FairAverage
+0	2002	E. Sitkalidak	Good
+0	2003	E. Sitkalidak	Good
+0	2004	E. Sitkalidak	Good
+0	2005	E. Sitkalidak	Good
+0	2000	E. Sitkalidak	Good
+0	2001	E. Sitkalidak	FairAverage
+0	2002	E. Sitkalidak	Good
+0	2003	E. Sitkalidak	Good
+0	2004	E. Sitkalidak	Good
+0	2005	E. Sitkalidak	Good
+0	2000	E. Sitkalidak	Good
+0	2001	E. Sitkalidak	FairAverage
+0	2002	E. Sitkalidak	Good
+0	2003	E. Sitkalidak	Good
+0	2004	E. Sitkalidak	Good
+0	2005	E. Sitkalidak	Good
+1	2000	E. Sitkalidak	Good
+1	2001	E. Sitkalidak	FairAverage
+1	2002	E. Sitkalidak	Good
+1	2003	E. Sitkalidak	ExcellentIdeal
+1	2004	E. Sitkalidak	Good
+0	2005	E. Sitkalidak	Good
+1	2000	E. Sitkalidak	Good
+1	2001	E. Sitkalidak	Good
+0	2002	E. Sitkalidak	Good
+1	2003	E. Sitkalidak	ExcellentIdeal
+0	2004	E. Sitkalidak	Good
+1	2005	E. Sitkalidak	ExcellentIdeal
+0	2000	E. Sitkalidak	Good
+0	2001	E. Sitkalidak	Good
+0	2002	E. Sitkalidak	Good
+0	2003	E. Sitkalidak	ExcellentIdeal
+0	2004	E. Sitkalidak	ExcellentIdeal
+0	2005	E. Sitkalidak	ExcellentIdeal
+0	2000	E. Sitkalidak	Good
+0	2001	E. Sitkalidak	Good
+0	2002	E. Sitkalidak	Good
+1	2003	E. Sitkalidak	ExcellentIdeal
+0	2004	E. Sitkalidak	ExcellentIdeal
+0	2005	E. Sitkalidak	ExcellentIdeal
+0	2000	E. Sitkalidak	ExcellentIdeal
+0	2001	E. Sitkalidak	Good
+0	2002	E. Sitkalidak	Good
+0	2003	E. Sitkalidak	ExcellentIdeal
+0	2004	E. Sitkalidak	ExcellentIdeal
+0	2005	E. Sitkalidak	ExcellentIdeal
+0	2000	E. Sitkalidak	ExcellentIdeal
+0	2001	E. Sitkalidak	Good
+0	2002	E. Sitkalidak	ExcellentIdeal
+0	2003	E. Sitkalidak	ExcellentIdeal
+0	2004	E. Sitkalidak	ExcellentIdeal
+0	2005	E. Sitkalidak	ExcellentIdeal
+1	2000	E. Sitkalidak	ExcellentIdeal
+1	2001	E. Sitkalidak	ExcellentIdeal
+1	2002	E. Sitkalidak	ExcellentIdeal
+0	2003	E. Sitkalidak	ExcellentIdeal
+0	2004	E. Sitkalidak	ExcellentIdeal
+0	2005	E. Sitkalidak	ExcellentIdeal
+1	2000	E. Sitkalidak	ExcellentIdeal
+0	2001	E. Sitkalidak	Good
+1	2002	E. Sitkalidak	ExcellentIdeal
+0	2003	E. Sitkalidak	ExcellentIdeal
+0	2004	E. Sitkalidak	ExcellentIdeal
+1	2005	E. Sitkalidak	ExcellentIdeal
+0	2000	E. Sitkalidak	ExcellentIdeal
+0	2001	E. Sitkalidak	Good
+0	2002	E. Sitkalidak	ExcellentIdeal
+0	2003	E. Sitkalidak	ExcellentIdeal
+0	2004	E. Sitkalidak	ExcellentIdeal
+0	2005	E. Sitkalidak	ExcellentIdeal
+0	2000	E. Sitkalidak	Good
+1	2001	E. Sitkalidak	Good
+1	2002	E. Sitkalidak	ExcellentIdeal
+0	2003	E. Sitkalidak	ExcellentIdeal
+0	2004	E. Sitkalidak	ExcellentIdeal
+1	2005	E. Sitkalidak	ExcellentIdeal
+1	2000	E. Sitkalidak	Good
+1	2001	E. Sitkalidak	Good
+1	2002	E. Sitkalidak	ExcellentIdeal
+1	2003	E. Sitkalidak	ExcellentIdeal
+1	2004	E. Sitkalidak	ExcellentIdeal
+1	2005	E. Sitkalidak	ExcellentIdeal
+1	2000	E. Sitkalidak	Good
+1	2001	E. Sitkalidak	Good
+1	2002	E. Sitkalidak	ExcellentIdeal
+1	2003	E. Sitkalidak	ExcellentIdeal
+1	2004	E. Sitkalidak	ExcellentIdeal
+1	2005	E. Sitkalidak	ExcellentIdeal
+1	2000	E. Sitkalidak	Good
+1	2001	E. Sitkalidak	ExcellentIdeal
+1	2002	E. Sitkalidak	ExcellentIdeal
+1	2003	E. Sitkalidak	ExcellentIdeal
+1	2004	E. Sitkalidak	ExcellentIdeal
+1	2005	E. Sitkalidak	ExcellentIdeal
+1	2000	E. Sitkalidak	Good
+1	2001	E. Sitkalidak	Good
+0	2002	E. Sitkalidak	ExcellentIdeal
+1	2003	E. Sitkalidak	ExcellentIdeal
+0	2004	E. Sitkalidak	ExcellentIdeal
+1	2005	E. Sitkalidak	ExcellentIdeal
+0	2000	E. Sitkalidak	Good
+0	2001	E. Sitkalidak	Good
+0	2002	E. Sitkalidak	Good
+0	2003	E. Sitkalidak	Good
+0	2004	E. Sitkalidak	ExcellentIdeal
+0	2005	E. Sitkalidak	ExcellentIdeal
+0	2000	E. Sitkalidak	Good
+0	2001	E. Sitkalidak	Good
+0	2002	E. Sitkalidak	Good
+0	2003	E. Sitkalidak	Good
+0	2004	E. Sitkalidak	ExcellentIdeal
+0	2005	E. Sitkalidak	Good
+1	2000	E. Sitkalidak	Good
+0	2001	E. Sitkalidak	Good
+1	2002	E. Sitkalidak	FairAverage
+1	2003	E. Sitkalidak	Good
+1	2004	E. Sitkalidak	ExcellentIdeal
+0	2005	E. Sitkalidak	Good
+0	2000	E. Sitkalidak	Good
+0	2001	E. Sitkalidak	FairAverage
+0	2002	E. Sitkalidak	FairAverage
+0	2003	E. Sitkalidak	Good
+0	2004	E. Sitkalidak	ExcellentIdeal
+1	2005	E. Sitkalidak	FairAverage
+0	2000	E. Sitkalidak	ExcellentIdeal
+0	2001	E. Sitkalidak	FairAverage
+1	2002	E. Sitkalidak	FairAverage
+0	2003	E. Sitkalidak	Good
+1	2004	E. Sitkalidak	ExcellentIdeal
+1	2005	E. Sitkalidak	FairAverage
+0	2000	E. Sitkalidak	ExcellentIdeal
+0	2001	E. Sitkalidak	Good
+0	2002	E. Sitkalidak	FairAverage
+0	2003	E. Sitkalidak	Good
+0	2004	E. Sitkalidak	ExcellentIdeal
+0	2005	E. Sitkalidak	FairAverage
+1	2000	E. Sitkalidak	ExcellentIdeal
+1	2001	E. Sitkalidak	Good
+1	2002	E. Sitkalidak	ExcellentIdeal
+1	2003	E. Sitkalidak	Good
+1	2004	E. Sitkalidak	Good
+0	2005	E. Sitkalidak	FairAverage
+1	2000	E. Sitkalidak	Good
+1	2001	E. Sitkalidak	Good
+0	2002	E. Sitkalidak	ExcellentIdeal
+1	2003	E. Sitkalidak	Good
+1	2004	E. Sitkalidak	Good
+0	2005	E. Sitkalidak	FairAverage
+0	2000	E. Sitkalidak	Good
+0	2001	E. Sitkalidak	Good
+1	2002	E. Sitkalidak	ExcellentIdeal
+1	2003	E. Sitkalidak	Good
+1	2004	E. Sitkalidak	Good
+0	2005	E. Sitkalidak	FairAverage
+0	2000	W. Sitkalidak	ExcellentIdeal
+0	2001	W. Sitkalidak	ExcellentIdeal
+0	2002	W. Sitkalidak	ExcellentIdeal
+1	2003	W. Sitkalidak	ExcellentIdeal
+0	2004	W. Sitkalidak	ExcellentIdeal
+1	2005	W. Sitkalidak	ExcellentIdeal
+1	2000	W. Sitkalidak	ExcellentIdeal
+0	2001	W. Sitkalidak	ExcellentIdeal
+0	2002	W. Sitkalidak	ExcellentIdeal
+0	2003	W. Sitkalidak	ExcellentIdeal
+0	2004	W. Sitkalidak	ExcellentIdeal
+1	2005	W. Sitkalidak	ExcellentIdeal
+0	2000	W. Sitkalidak	ExcellentIdeal
+0	2001	W. Sitkalidak	ExcellentIdeal
+0	2002	W. Sitkalidak	ExcellentIdeal
+1	2003	W. Sitkalidak	ExcellentIdeal
+0	2004	W. Sitkalidak	ExcellentIdeal
+1	2005	W. Sitkalidak	ExcellentIdeal
+0	2000	W. Sitkalidak	ExcellentIdeal
+0	2001	W. Sitkalidak	ExcellentIdeal
+1	2002	W. Sitkalidak	ExcellentIdeal
+0	2003	W. Sitkalidak	ExcellentIdeal
+0	2004	W. Sitkalidak	ExcellentIdeal
+0	2005	W. Sitkalidak	ExcellentIdeal
+0	2000	W. Sitkalidak	ExcellentIdeal
+0	2001	W. Sitkalidak	ExcellentIdeal
+0	2002	W. Sitkalidak	ExcellentIdeal
+0	2003	W. Sitkalidak	ExcellentIdeal
+0	2004	W. Sitkalidak	ExcellentIdeal
+0	2005	W. Sitkalidak	ExcellentIdeal
+0	2000	W. Sitkalidak	ExcellentIdeal
+0	2001	W. Sitkalidak	ExcellentIdeal
+0	2002	W. Sitkalidak	ExcellentIdeal
+0	2003	W. Sitkalidak	ExcellentIdeal
+0	2004	W. Sitkalidak	ExcellentIdeal
+0	2005	W. Sitkalidak	ExcellentIdeal
+0	2000	W. Sitkalidak	ExcellentIdeal
+0	2001	W. Sitkalidak	ExcellentIdeal
+0	2002	W. Sitkalidak	Good
+0	2003	W. Sitkalidak	Good
+0	2004	W. Sitkalidak	ExcellentIdeal
+0	2005	W. Sitkalidak	Good
+0	2000	W. Sitkalidak	ExcellentIdeal
+0	2001	W. Sitkalidak	ExcellentIdeal
+0	2002	W. Sitkalidak	Good
+0	2003	W. Sitkalidak	Good
+1	2004	W. Sitkalidak	Good
+0	2005	W. Sitkalidak	Good
+0	2000	W. Sitkalidak	Good
+0	2001	W. Sitkalidak	Good
+0	2002	W. Sitkalidak	Good
+0	2003	W. Sitkalidak	Good
+0	2004	W. Sitkalidak	Good
+0	2005	W. Sitkalidak	Good
+0	2000	W. Sitkalidak	Good
+0	2001	W. Sitkalidak	Good
+0	2002	W. Sitkalidak	Good
+0	2003	W. Sitkalidak	Good
+0	2004	W. Sitkalidak	Good
+0	2005	W. Sitkalidak	Good
+0	2000	W. Sitkalidak	Good
+0	2001	W. Sitkalidak	Good
+1	2002	W. Sitkalidak	Good
+0	2003	W. Sitkalidak	Good
+0	2004	W. Sitkalidak	Good
+0	2005	W. Sitkalidak	Good
+0	2000	W. Sitkalidak	Good
+0	2001	W. Sitkalidak	Good
+0	2002	W. Sitkalidak	Good
+0	2003	W. Sitkalidak	Good
+0	2004	W. Sitkalidak	Good
+0	2005	W. Sitkalidak	ExcellentIdeal
+0	2000	W. Sitkalidak	Good
+0	2001	W. Sitkalidak	FairAverage
+0	2002	W. Sitkalidak	ExcellentIdeal
+0	2003	W. Sitkalidak	ExcellentIdeal
+1	2004	W. Sitkalidak	Good
+0	2005	W. Sitkalidak	ExcellentIdeal
+1	2000	W. Sitkalidak	Good
+1	2001	W. Sitkalidak	FairAverage
+0	2002	W. Sitkalidak	ExcellentIdeal
+1	2003	W. Sitkalidak	ExcellentIdeal
+0	2004	W. Sitkalidak	Good
+1	2005	W. Sitkalidak	ExcellentIdeal
+0	2000	W. Sitkalidak	ExcellentIdeal
+1	2001	W. Sitkalidak	FairAverage
+1	2002	W. Sitkalidak	ExcellentIdeal
+0	2003	W. Sitkalidak	ExcellentIdeal
+0	2004	W. Sitkalidak	Good
+1	2005	W. Sitkalidak	ExcellentIdeal
+0	2000	W. Sitkalidak	ExcellentIdeal
+1	2001	W. Sitkalidak	FairAverage
+0	2002	W. Sitkalidak	ExcellentIdeal
+0	2003	W. Sitkalidak	ExcellentIdeal
+0	2004	W. Sitkalidak	Good
+1	2005	W. Sitkalidak	ExcellentIdeal
+0	2000	W. Sitkalidak	ExcellentIdeal
+0	2001	W. Sitkalidak	ExcellentIdeal
+0	2002	W. Sitkalidak	ExcellentIdeal
+0	2003	W. Sitkalidak	Good
+0	2004	W. Sitkalidak	Good
+0	2005	W. Sitkalidak	ExcellentIdeal
+1	2000	W. Sitkalidak	ExcellentIdeal
+0	2001	W. Sitkalidak	ExcellentIdeal
+0	2002	W. Sitkalidak	Good
+0	2003	W. Sitkalidak	Good
+0	2004	W. Sitkalidak	Good
+0	2005	W. Sitkalidak	ExcellentIdeal
+1	2000	W. Sitkalidak	Good
+0	2001	W. Sitkalidak	ExcellentIdeal
+1	2002	W. Sitkalidak	Good
+0	2003	W. Sitkalidak	Good
+1	2004	W. Sitkalidak	Good
+0	2005	W. Sitkalidak	Good
+0	2000	W. Sitkalidak	Good
+1	2001	W. Sitkalidak	FairAverage
+1	2002	W. Sitkalidak	Good
+1	2003	W. Sitkalidak	Good
+1	2004	W. Sitkalidak	Good
+0	2005	W. Sitkalidak	Good
+0	2000	W. Sitkalidak	Good
+0	2001	W. Sitkalidak	FairAverage
+0	2002	W. Sitkalidak	Good
+1	2003	W. Sitkalidak	Good
+0	2004	W. Sitkalidak	Good
+1	2005	W. Sitkalidak	Good
+0	2000	W. Sitkalidak	Good
+0	2001	W. Sitkalidak	FairAverage
+0	2002	W. Sitkalidak	FairAverage
+0	2003	W. Sitkalidak	Good
+0	2004	W. Sitkalidak	FairAverage
+0	2005	W. Sitkalidak	Good
+0	2000	W. Sitkalidak	Good
+0	2001	W. Sitkalidak	FairAverage
+0	2002	W. Sitkalidak	FairAverage
+0	2003	W. Sitkalidak	Good
+0	2004	W. Sitkalidak	FairAverage
+0	2005	W. Sitkalidak	Good
+0	2000	W. Sitkalidak	Good
+0	2001	W. Sitkalidak	FairAverage
+0	2002	W. Sitkalidak	Good
+0	2003	W. Sitkalidak	Good
+0	2004	W. Sitkalidak	FairAverage
+0	2005	W. Sitkalidak	Good
+0	2000	W. Sitkalidak	Good
+0	2001	W. Sitkalidak	FairAverage
+1	2002	W. Sitkalidak	Good
+1	2003	W. Sitkalidak	ExcellentIdeal
+0	2004	W. Sitkalidak	FairAverage
+1	2005	W. Sitkalidak	ExcellentIdeal
+1	2000	W. Sitkalidak	Good
+0	2001	W. Sitkalidak	FairAverage
+1	2002	W. Sitkalidak	Good
+1	2003	W. Sitkalidak	ExcellentIdeal
+1	2004	W. Sitkalidak	Good
+1	2005	W. Sitkalidak	ExcellentIdeal
+1	2000	W. Sitkalidak	Good
+1	2001	W. Sitkalidak	FairAverage
+1	2002	W. Sitkalidak	ExcellentIdeal
+1	2003	W. Sitkalidak	ExcellentIdeal
+1	2004	W. Sitkalidak	Good
+1	2005	W. Sitkalidak	ExcellentIdeal
+0	2000	W. Sitkalidak	Good
+0	2001	W. Sitkalidak	FairAverage
+1	2002	W. Sitkalidak	ExcellentIdeal
+0	2003	W. Sitkalidak	ExcellentIdeal
+1	2004	W. Sitkalidak	Good
+1	2005	W. Sitkalidak	ExcellentIdeal
+0	2000	W. Sitkalidak	Good
+1	2001	W. Sitkalidak	FairAverage
+1	2002	W. Sitkalidak	Good
+1	2003	W. Sitkalidak	ExcellentIdeal
+1	2004	W. Sitkalidak	Good
+1	2005	W. Sitkalidak	ExcellentIdeal
+0	2000	W. Sitkalidak	Good
+0	2001	W. Sitkalidak	FairAverage
+0	2002	W. Sitkalidak	Good
+1	2003	W. Sitkalidak	ExcellentIdeal
+1	2004	W. Sitkalidak	FairAverage
+1	2005	W. Sitkalidak	Good
+0	2000	W. Sitkalidak	Good
+0	2001	W. Sitkalidak	FairAverage
+0	2002	W. Sitkalidak	Good
+0	2003	W. Sitkalidak	ExcellentIdeal
+0	2004	W. Sitkalidak	FairAverage
+1	2005	W. Sitkalidak	Good
+0	2000	W. Sitkalidak	Good
+0	2001	W. Sitkalidak	FairAverage
+0	2002	W. Sitkalidak	Good
+0	2003	W. Sitkalidak	ExcellentIdeal
+0	2004	W. Sitkalidak	FairAverage
+0	2005	W. Sitkalidak	Good
+0	2000	W. Sitkalidak	Good
+0	2001	W. Sitkalidak	FairAverage
+0	2002	W. Sitkalidak	FairAverage
+0	2003	W. Sitkalidak	ExcellentIdeal
+0	2004	W. Sitkalidak	FairAverage
+0	2005	W. Sitkalidak	Good
+1	2000	W. Sitkalidak	Good
+0	2001	W. Sitkalidak	FairAverage
+0	2002	W. Sitkalidak	FairAverage
+0	2003	W. Sitkalidak	Good
+0	2004	W. Sitkalidak	FairAverage
+0	2005	W. Sitkalidak	Good
+0	2000	W. Sitkalidak	Good
+0	2001	W. Sitkalidak	FairAverage
+0	2002	W. Sitkalidak	FairAverage
+0	2003	W. Sitkalidak	Good
+0	2004	W. Sitkalidak	FairAverage
+1	2005	W. Sitkalidak	Good
+0	2000	W. Sitkalidak	Good
+0	2001	W. Sitkalidak	FairAverage
+0	2002	W. Sitkalidak	FairAverage
+0	2003	W. Sitkalidak	Good
+0	2004	W. Sitkalidak	FairAverage
+0	2005	W. Sitkalidak	Good
+1	2000	W. Sitkalidak	Good
+0	2001	W. Sitkalidak	FairAverage
+0	2002	W. Sitkalidak	Good
+1	2003	W. Sitkalidak	Good
+0	2004	W. Sitkalidak	FairAverage
+0	2005	W. Sitkalidak	Good
+0	2000	W. Sitkalidak	Good
+0	2001	W. Sitkalidak	FairAverage
+0	2002	W. Sitkalidak	Good
+0	2003	W. Sitkalidak	Good
+1	2004	W. Sitkalidak	FairAverage
+1	2005	W. Sitkalidak	Good
+0	2000	W. Sitkalidak	Good
+1	2001	W. Sitkalidak	FairAverage
+0	2002	W. Sitkalidak	Good
+1	2003	W. Sitkalidak	Good
+0	2004	W. Sitkalidak	Good
+0	2005	W. Sitkalidak	ExcellentIdeal
+0	2000	W. Sitkalidak	Good
+0	2001	W. Sitkalidak	FairAverage
+0	2002	W. Sitkalidak	Good
+0	2003	W. Sitkalidak	Good
+0	2004	W. Sitkalidak	Good
+1	2005	W. Sitkalidak	ExcellentIdeal
+0	2000	W. Sitkalidak	Good
+0	2001	W. Sitkalidak	FairAverage
+0	2002	W. Sitkalidak	Good
+0	2003	W. Sitkalidak	Good
+0	2004	W. Sitkalidak	Good
+1	2005	W. Sitkalidak	ExcellentIdeal
+0	2001	W. Sitkalidak	FairAverage
+0	2002	W. Sitkalidak	Good
+1	2003	W. Sitkalidak	Good
+0	2004	W. Sitkalidak	Good
+1	2005	W. Sitkalidak	ExcellentIdeal
+1	2000	W. Sitkalidak	ExcellentIdeal
+1	2001	W. Sitkalidak	Good
+0	2002	W. Sitkalidak	FairAverage
+0	2003	W. Sitkalidak	ExcellentIdeal
+1	2004	W. Sitkalidak	ExcellentIdeal
+0	2005	W. Sitkalidak	Good
+0	2000	W. Sitkalidak	ExcellentIdeal
+0	2001	W. Sitkalidak	Good
+0	2002	W. Sitkalidak	FairAverage
+0	2003	W. Sitkalidak	ExcellentIdeal
+1	2004	W. Sitkalidak	ExcellentIdeal
+0	2005	W. Sitkalidak	Good
+0	2000	W. Sitkalidak	ExcellentIdeal
+0	2001	W. Sitkalidak	ExcellentIdeal
+1	2002	W. Sitkalidak	Good
+0	2003	W. Sitkalidak	Good
+0	2004	W. Sitkalidak	ExcellentIdeal
+0	2005	W. Sitkalidak	Good
+0	2000	W. Sitkalidak	ExcellentIdeal
+0	2001	W. Sitkalidak	ExcellentIdeal
+0	2002	W. Sitkalidak	Good
+0	2003	W. Sitkalidak	Good
+0	2004	W. Sitkalidak	ExcellentIdeal
+0	2005	W. Sitkalidak	Good
+0	2000	W. Sitkalidak	ExcellentIdeal
+1	2001	W. Sitkalidak	ExcellentIdeal
+0	2002	W. Sitkalidak	FairAverage
+0	2003	W. Sitkalidak	Good
+0	2004	W. Sitkalidak	ExcellentIdeal
+0	2005	W. Sitkalidak	Good
+1	2000	W. Sitkalidak	ExcellentIdeal
+1	2001	W. Sitkalidak	ExcellentIdeal
+1	2002	W. Sitkalidak	FairAverage
+0	2003	W. Sitkalidak	Good
+0	2004	W. Sitkalidak	ExcellentIdeal
+0	2005	W. Sitkalidak	Good
+1	2000	W. Sitkalidak	ExcellentIdeal
+0	2001	W. Sitkalidak	ExcellentIdeal
+1	2002	W. Sitkalidak	FairAverage
+1	2003	W. Sitkalidak	Good
+1	2004	W. Sitkalidak	ExcellentIdeal
+1	2005	W. Sitkalidak	Good

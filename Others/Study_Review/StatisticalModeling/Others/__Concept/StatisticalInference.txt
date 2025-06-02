@@ -1,0 +1,19 @@
+https://www.probabilitycourse.com/chapter8/8_1_0_intro.php
+
+Statistical inference is a collection of methods that deal with drawing conclusions from data that are prone to random variation.
+
+
+A random variable is a numerical description of the outcome of a statistical experiment.
+
+https://www.khanacademy.org/math/statistics-probability/random-variables-stats-library/random-variables-discrete/v/random-variables
+
+https://www.youtube.com/watch?v=rifK8BtHaYI
+
+Random Process or Events :: Probabiltiy of rain tomorrow
+
+X = { 
+1, If Heads
+0, If Tails
+
+
+

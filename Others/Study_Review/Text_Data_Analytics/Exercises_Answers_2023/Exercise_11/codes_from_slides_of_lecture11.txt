@@ -1,0 +1,132 @@
+import sklearn
+import sklearn.decomposition    
+X=tfidfmatrix.copy()
+# Normalize tf-idf vector norms
+for k in range(n_docs):
+    print(k)
+    X[k,:]=X[k,:]/numpy.sqrt(numpy.sum(X[k,:].multiply(X[k,:]),axis=1)[0]+0.0000000001)
+# Plot projected documents
+svdmodel=sklearn.decomposition.TruncatedSVD(n_components=2, n_iter=70, random_state=42)
+documentplot = svdmodel.fit(X).transform(X)
+import matplotlib.pyplot
+%matplotlib auto
+myfigure, myaxes = matplotlib.pyplot.subplots();
+myaxes.scatter(documentplot[:,0],documentplot[:,1]);
+
+
+
+#------------------------
+
+
+
+# Create a 1000-sample subset to avoid long running times
+subsetindices=numpy.random.permutation(numpy.shape(X)[0])
+Xsmall=X[subsetindices[0:1000],:].toarray()
+# Run t-SNE
+import sklearn.manifold
+tsnemodel = sklearn.manifold.TSNE(n_components=2, verbose=1, perplexity=20, n_iter=400)
+tsneplot = tsnemodel.fit_transform(Xsmall)
+# Plot the result
+import matplotlib.pyplot
+%matplotlib auto
+myfigure, myaxes = matplotlib.pyplot.subplots();
+myaxes.scatter(tsneplot[:,0],tsneplot[:,1]);
+
+
+
+#------------------------
+
+
+
+#%% PCA followed by t-SNE
+# Find a 100-dimensional PCA projection
+svdmodel=sklearn.decomposition.TruncatedSVD(n_components=100, n_iter=70, random_state=42)
+pcaplot = svdmodel.fit(X).transform(X)
+Xsmaller=pcaplot[subsetindices[0:1000],:]
+# Run t-SNE on the 100-dimensional PCA-projected data
+tsneplot2 = tsnemodel.fit_transform(Xsmaller)
+import matplotlib.pyplot
+%matplotlib auto
+myfigure, myaxes = matplotlib.pyplot.subplots();
+myaxes.scatter(tsneplot2[:,0],tsneplot2[:,1]);
+
+
+
+#------------------------
+
+
+
+#%% PCA followed by t-SNE
+# Find a 100-dimensional PCA projection
+svdmodel=sklearn.decomposition.TruncatedSVD(n_components=100, n_iter=70, random_state=42)
+pcaplot = svdmodel.fit(X).transform(X)
+Xsmaller=pcaplot[subsetindices[0:1000],:]
+# Run t-SNE on the 100-dimensional PCA-projected data
+tsneplot2 = tsnemodel.fit_transform(Xsmaller)
+import matplotlib.pyplot
+%matplotlib auto
+myfigure, myaxes = matplotlib.pyplot.subplots();
+myaxes.scatter(tsneplot2[:,0],tsneplot2[:,1],c=directoryindices[subsetindices[0:1000]]);
+
+
+
+#------------------------
+
+
+
+import gensim
+# Create a dictionary from the documents
+gensim_docs=mycrawled_prunedtexts
+gensim_dictionary = gensim.corpora.Dictionary(gensim_docs)
+# Training algorithm: set to 0 for CBOW, 1 for skip-gram
+trainingalgorithm=0
+# Train the word2vec model
+word2vecmodel = gensim.models.word2vec.Word2Vec(sentences=gensim_docs, \
+    size=100, window=5, min_count=1, workers=4, sg=trainingalgorithm)
+word2vecmodel.wv['developer']
+word2vecmodel.wv.similarity('developer','micro')
+word2vecmodel.wv.similarity('developer','politics')
+word2vecmodel.wv.similar_by_word("developer")
+
+
+
+#------------------------
+
+
+
+# Collect vectors of all words in the vocabulary
+word2vec_allvectors=numpy.zeros((len(remainingvocabulary),100))
+for i in range(len(remainingvocabulary)):
+    tempvector=word2vecmodel.wv[remainingvocabulary[i]]
+    word2vec_allvectors[i,:]=tempvector
+# Take a random subset of 1000 words
+wordsubsetindices=numpy.random.permutation(len(remainingvocabulary))
+# Create and plot a 2D t-SNE visualization
+tsneplot3 = tsnemodel.fit_transform(\
+    word2vec_allvectors[wordsubsetindices[0:1000],:])
+myfigure, myaxes = matplotlib.pyplot.subplots();
+myaxes.scatter(tsneplot3[:,0],tsneplot3[:,1]);
+
+
+
+#------------------------
+
+
+
+# Load an example pretrained word embedding result
+import gensim.downloader
+word2vec_pretrainedvectors = gensim.downloader.load(\
+    'word2vec-google-news-300')
+# Inspect the result
+word2vec_pretrainedvectors.similar_by_word("developer")
+
+
+
+#------------------------
+
+
+
+word2vecmodel.predict_output_word(['orthogonal','variance'], topn=10)
+
+
+

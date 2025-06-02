@@ -1,0 +1,240 @@
+–––––––––– Lecture 06 ––––––––––
+–––––––––– Topic Model ––––––––––
+https://tuni.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d353730f-33b2-48e6-ab5b-b09700e4412c&instance=TUNIMoodle
+
+Latent Semantic Analysis
+
+https://www.geeksforgeeks.org/latent-semantic-analysis/
+
+
+8 February 2024
+–––––––––––––––––––
+Hidden Markov Model (HMM)
+
+
+Typical supervised tasks: Regression, classification
+
+Unsupervisde Tasks: Clustering
+
+Performance Measure: Measn squared error
+
+Mean Square Error
+
+
+Metroplis-Hastings and Gibb Sampling
+18 March 2024
+–––––––––––––––––––––––––––
+
+Multiple lists of data sets online. For example
+https://www.kaggle.com/tags/text-data,
+https://lionbridge.ai/datasets/the-best-25-datasets-for-natural-language-processing/,
+https://github.com/niderhoff/nlp-datasets,
+https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research
+
+
+26 March 2024
+–––––––––––––––––––––––––––
+
+
+Ahmad Sharif
+Student ID: K436765
+ahmad.sharif@tuni.fi
+DATA.STAT.840 Statistical Methods for Text Data Analysis
+Exercise 01
+17 September 2023
+
+
+
+
+anaconda-navigator
+
+
+https://intra.tuni.fi/en/content/user/5240
+Tuomas Virtanen
+Professor | Signaalinkäsittely
+Faculty of Information Technology and Communication Sciences | Computing Sciences
+Email tuomas.virtanen@tuni.fi
+Office phone number+358401981308
+CampusHervanta Campus
+TF311
+
+
+
+Books
+
+——————————————————————————————————————————————————————
+Foundations of Statistical Natural Language Processing
+——————————————————————————————————————————————————————
+
+C. D. Manning and H. Schütze, Foundations of Statistical Natural Language Processing,
+
+I. Goodfellow, Y. Bengio and A. Courville, Deep Learning, The MIT Press, 2016
+D. Jurafsky and J. H. Martin, Speech and Language Processing: An Introduction to Natural Language Processing,Computational Linguistics, and Speech Recognition. 3rd edition, draft available at http://web.stanford.edu/~jurafsky/slp3/
+
+S. Bird, E. Klein, and E. Loper. Natural Language Processing with Python – Analyzing Text with the Natural Language Toolkit. Available at https://www.nltk.org/book/
+Various scientific papers
+
+
+
+https://www.reddit.com/r/LanguageTechnology/comments/x121b4/what_are_your_favorite_nlp_books/
+
+
+————————————————————————
+Books
+
+C. D. Manning and H. Schütze, Foundations of Statistical Natural Language
+I. Goodfellow, Y. Bengio and A. Courville, Deep Learning, The MIT Press, 2016
+
+An Introduction to
+Natural Language Processing,Computational Linguistics, and Speech Recognition. 3rd
+edition, draft available at http://web.stanford.edu/~jurafsky/slp3/
+
+Natural Language Processing with Python – Analyzing
+Text with the Natural Language Toolkit. Available at https://www.nltk.org/book/
+
+
+
+An introduction to Statistics with Python - Thomas
+Python for Probability, Statistics and Machine Learning -
+Doint Math with Python
+Python Data Science Handbook
+Baysian Anakysis with Python
+Deep Learning with Python
+
+NLP: Natural Language Process
+
+It deals with Human Languages
+
+
+Application of NLP
+————————————————
+Spell Check
+Keyword search
+Extracting information from website
+Advertisement Matching k
+
+Speech Recognition : Siri
+ChatBot k
+
+
+Stemming
+Tokenization
+Lemmatization
+Segmentation
+
+
+
+Tensrorflow Deep Learning
+
+
+Lexical Ambiguity
+
+
+NLTK
+
+
+Python Libraries
+————————————————
+
+os
+runpy
+pickle, shelve : Saving variables to Files
+math
+cmath
+random
+scipy: Advanced Calculation
+scrapy, beautifylsoup : Fetching data from websites
+Keras, Pytorch, Tensorflow: Neural Network and deep learning libraries
+
+
+
+Grading Descent
+
+
+AI Tools
+––––––––––––––––––––––––––––––––
+
+
+https://deepai.org/chat . Some chatbots
+
+It is also possible to install an offline chatbot on your own computer (for example KoboldCPP,
+https://github.com/LostRuins/koboldcpp or LM studio, https://lmstudio.ai ).
+Alternatively, if you are unable to (or do not wish to) use a chatbot at all, you can also write the
+answer completely by yourself without starting from a chatbot answer.
+
+https://deepai.org/chat
+https://github.com/LostRuins/koboldcpp
+https://lmstudio.ai
+
+
+
+
+NLTK
+
+1. Zipf's law
+2. what is pruning in nlp
+3. Practical Understanding of Corpus and Dataset
+4. corpus
+
+
+context-free grammar (CFG)
+probabilistic context-free grammar (PCFG).
+
+Context-free grammar
+Probabilistic context-free grammar
+
+
+
+Lecture 4
+————————————————————————
+
+Document Clustering
+Mixture Modeling
+
+
+Unigram Model
+
+Dirichlet Prior
+
+
+
+Topic Model
+
+Latent Dirichlet Allocation (LDA).
+
+10 September 2023
+————————————————————————
+Important Link
+————————————————————————
+https://www.geeksforgeeks.org/natural-language-processing-nlp-tutorial/
+
+
+Heuristics Definition
+A heuristic is a mental shortcut commonly used to simplify problems and avoid cognitive overload. H
+
+Applications of NLP
+————————————————————————
+The applications of Natural Language Processing are as follows:
+
+Text and speech processing like-Voice assistants – Alexa, Siri, etc.
+Text classification like Grammarly, Microsoft Word, and Google Docs
+Information extraction like-Search engines like DuckDuckGo, Google
+Chatbot and Question Answering like:- website bots
+Language Translation like:- Google Translate
+Text summarization
+
+
+Tokenization
+————————————————————————
+Tokenization refers to break down the text into smaller units. It entails splitting paragraphs into sentences and sentences into words. It is one of the initial steps of any NLP pipeline. Let us have a look at the two major kinds of tokenization that NLTK provides:
+''
+
+
+
+Markov Assumption
+
+Corpus
+————————————————————————
+A corpus is a collection of authentic text or audio organized into datasets. ‘Authentic’ in this case means text written or audio spoken by a native of the language or dialect. A corpus can be made up of everything from newspapers, novels, recipes and radio broadcasts to television shows, movies and tweets.
+
+A corpus can be defined as a collection of text documents. It can be thought as just a bunch of text files in a directory, often alongside many other directories of text files.

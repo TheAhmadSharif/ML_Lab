@@ -1,0 +1,197 @@
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{geometry}
+\usepackage{titling} % Add this package for subtitle customization
+\geometry{margin=1in}
+\usepackage{graphicx}
+\usepackage{float}
+
+\usepackage{amsmath}
+\usepackage{listings}
+
+% Add title and subtitle for the document
+\title{Exercises 02}
+\pretitle{\begin{center}\Large}
+\posttitle{\par\end{center}\vskip 0.5em}
+\author{}
+\date{}
+
+\renewcommand{\maketitlehooka}{
+  \begin{center}
+    \textbf{Clustered Data Models: DATA.STAT.750}
+  \end{center}
+}
+
+\begin{document}
+
+\maketitle
+
+\section*{Question 1}
+
+\section*{Derivation of Mean and Variance of Beta-Binomial Distribution}
+
+Given:
+\begin{align*}
+E(y) &= E[E(y \mid p)] \\
+\text{Var}(y) &= E[\text{Var}(y \mid p)] + \text{Var}[E(y \mid p)]
+\end{align*}
+
+
+Beta Distribution:
+\begin{itemize}
+    \item Mean: \( E(p) = \frac{\alpha}{\alpha + \beta} \)
+    \item Variance: \( \text{Var}(p) = \frac{\alpha \beta}{(\alpha + \beta)^2 (\alpha + \beta + 1)} \)
+\end{itemize}
+
+Binomial Distribution:
+Given \( p \), the distribution of \( y \) is binomial: \( y \mid p \sim \text{Binomial}(n, p) \).
+
+Step 1: Derive the Mean \( E(y) \)
+
+\begin{align*}
+E(y \mid p) &= np \\
+E(y) &= E[E(y \mid p)] = E[np] = n E(p) \\
+E(y) &= n \frac{\alpha}{\alpha + \beta}
+\end{align*}
+
+Step 2: Derive the Variance \( \text{Var}(y) \)
+
+\begin{align*}
+\text{Var}(y) &= E[\text{Var}(y \mid p)] + \text{Var}[E(y \mid p)]
+\end{align*}
+
+1.\( E[\text{Var}(y \mid p)] \)**:
+   \begin{align*}
+   \text{Var}(y \mid p) &= np(1-p) \\
+   E[\text{Var}(y \mid p)] &= n E[p(1-p)] = n \left( E(p) - E(p^2) \right)
+   \end{align*}
+
+   Where:
+   \begin{align*}
+   E(p^2) &= \text{Var}(p) + [E(p)]^2 \\
+   E(p^2) &= \frac{\alpha \beta}{(\alpha + \beta)^2 (\alpha + \beta + 1)} + \left( \frac{\alpha}{\alpha + \beta} \right)^2 \\
+   E[\text{Var}(y \mid p)] &= n \left( \frac{\alpha}{\alpha + \beta} - \frac{\alpha \beta}{(\alpha + \beta)^2 (\alpha + \beta + 1)} - \left( \frac{\alpha}{\alpha + \beta} \right)^2 \right)
+   \end{align*}
+
+2. \( \text{Var}[E(y \mid p)] \)**:
+   \begin{align*}
+   \text{Var}[E(y \mid p)] &= \text{Var}(np) = n^2 \text{Var}(p) \\
+   \text{Var}[E(y \mid p)] &= n^2 \frac{\alpha \beta}{(\alpha + \beta)^2 (\alpha + \beta + 1)}
+   \end{align*}
+
+Finally, combine
+\begin{align*}
+\text{Var}(y) &= n \left( \frac{\alpha \beta (\alpha + \beta + n)}{(\alpha + \beta)^2 (\alpha + \beta + 1)} \right)
+\end{align*}
+
+
+- **Mean of the Beta-Binomial Distribution**:
+  \[
+  E(y) = n \frac{\alpha}{\alpha + \beta}
+  \]
+- **Variance of the Beta-Binomial Distribution**:
+  \[
+  \text{Var}(y) = n \left( \frac{\alpha \beta (\alpha + \beta + n)}{(\alpha + \beta)^2 (\alpha + \beta + 1)} \right)
+  \]
+
+
+
+
+\section*{Question 4}
+\begin{verbatim}
+model <- glm(count ~ race, family = poisson, data = homic)
+summary(model)
+
+
+Call:
+glm(formula = count ~ race, family = poisson, data = homic)
+
+Coefficients:
+            Estimate Std. Error z value Pr(>|z|)
+(Intercept) -2.38321    0.09713  -24.54   <2e-16 ***
+race         1.73314    0.14657   11.82   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for poisson family taken to be 1)
+
+    Null deviance: 962.80  on 1307  degrees of freedom
+Residual deviance: 844.71  on 1306  degrees of freedom
+AIC: 1122
+
+Number of Fisher Scoring iterations: 6
+\end{verbatim}
+
+
+
+Model Fit:
+Null deviance: 962.80, with 1307 degrees of freedom.
+
+Residual deviance: 844.71, with 1306 degrees of freedom.
+
+The model with the race predictor fits better than the null model
+AIC (Akaike Information Criterion): 1122.
+
+A lower AIC value indicates a better fit of the model, though it is primarily used for comparing different models.
+\newline
+\newline
+\newline
+b)
+\begin{verbatim}
+
+
+
+
+
+
+
+ model_nb <- glm.nb(count ~ race, data = homic)
+> summary(model_nb)
+
+Call:
+glm.nb(formula = count ~ race, data = homic, init.theta = 0.2023119205,
+    link = log)
+
+Coefficients:
+            Estimate Std. Error z value Pr(>|z|)
+(Intercept)  -2.3832     0.1172 -20.335  < 2e-16 ***
+race          1.7331     0.2385   7.268 3.66e-13 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for Negative Binomial(0.2023) family taken to be 1)
+
+    Null deviance: 471.57  on 1307  degrees of freedom
+Residual deviance: 412.60  on 1306  degrees of freedom
+AIC: 1001.8
+
+Number of Fisher Scoring iterations: 1
+
+
+              Theta:  0.2023
+          Std. Err.:  0.0409
+
+ 2 x log-likelihood:  -995.7980
+>
+\end{verbatim}
+
+
+The significant Theta value (0.2023) and the better model fit (shown by lower residual deviance and AIC) WHich indicates that the data has more variability than the Poisson model. This means the Negative Binomial model is a better.
+
+
+
+
+\section{ 4. C) }
+Confidence Interval Comparison
+The Wald 95\% confidence interval for the ratio of means for blacks and whites is (4.2, 7.5) for the Poisson GLM and (3.5, 9.0) for the Negative Binomial GLM. The Negative Binomial model is more reliable because it accounts for overdispersion in the data, which is better.
+\end{document}
+
+
+
+
+
+
+
+
+

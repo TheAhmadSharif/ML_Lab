@@ -1,0 +1,13 @@
+Probability concepts explained: Bayesian inference for parameter estimation.
+
+RTL810xE
+
+sudo lshw -class network
+cd /etc/pm/sleep.d
+
+sudo touch config
+
+SUSPEND_MODULES = "RTL810xE"
+
+echo "options  product_number fwlps=N" | sudo tee /etc/modprobe.d/ product_number .conf 
+echo "options RTL810xE fwlps=N" | sudo tee /etc/modprobe.d/RTL810xE.conf

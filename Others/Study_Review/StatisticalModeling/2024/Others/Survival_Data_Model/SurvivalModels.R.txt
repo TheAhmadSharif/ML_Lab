@@ -1,0 +1,113 @@
+### Statistical Modeling 1
+### Survival Data Models
+### 2024
+
+############################
+### Example 8.1
+
+### a)
+
+library(survival)
+attach(lung)
+
+plot(age, time)
+model<-coxph(Surv(time, status)~age, data=lung)
+summary(model)
+
+newdata<-data.frame(age=c(70))
+sf<-survfit(model, newdata=newdata)
+summary(sf, times=800)
+
+newdata<-data.frame(age=c(40,70))
+sf<-survfit(model, newdata=newdata,conf.type="plain")
+summary(sf, times=800)
+summary(sf, times=800)$lower
+summary(sf, times=800)$upper
+plot(sf)
+bhest <- basehaz(model)
+
+### b)
+
+newdata<-data.frame(age=c(80,40))
+risk<-predict(model, newdata=newdata, type="risk")
+risk[1]/risk[2]
+
+
+### c)
+
+part<-lung[!is.na(wt.loss),]
+
+model.c<-coxph(Surv(time, status)~age+wt.loss+factor(sex), data=part)
+summary(model.c)
+
+model.H0<-coxph(Surv(time, status)~age+factor(sex), data=part)
+anova(model.H0, model.c)
+
+
+############################
+### Example 8.2
+
+### a)
+
+library(eha)
+
+model.wph<-phreg(Surv(time, status)~age, data=lung, dist="weibull")
+summary(model.wph)
+
+plot(model.wph, fn = "sur")
+
+p<-exp(coef(model.wph)[3])
+lambda<-exp(coef(model.wph)[2])
+beta<-coef(model.wph)[1]
+x<-70
+lambda.star<-lambda/exp((x*beta)/p)
+
+survival800<-1-pweibull(800,shape=p, scale=lambda.star)
+survival800
+
+survival.function<-1-pweibull(0:1000,shape=p, scale=lambda.star)
+
+plot(0:1000, survival.function, type="l", col="red")
+
+
+### Example of two explanatory variables
+
+model.wph<-phreg(Surv(time, status)~age+factor(sex), data=lung, dist="weibull")
+summary(model.wph)
+
+p<-exp(coef(model.wph)[4])
+lambda<-exp(coef(model.wph)[3])
+beta<-t(t(coef(model.wph)[1:2]))
+x<-t(t(c(70,1)))
+lambda.star<-lambda/exp((t(x)%*%beta)/p)
+
+
+### b)
+
+mu<-lambda.star*gamma(1+(1/p))
+mu
+
+### c)
+
+t.star<-rweibull(10000, shape=p, scale=lambda.star)
+lowerbound<-quantile(t.star, c(0.1))
+upperbound<-quantile(t.star, c(0.9))
+lowerbound
+upperbound
+
+qweibull(0.1, shape=p, scale=lambda.star)
+qweibull(0.9, shape=p, scale=lambda.star)
+
+
+
+
+
+
+
+–––––––––––––––––––––––––––––––––––––––
+
+model = coxph(Surv(time, status) ~ age, data = data)
+
+new_data = data.frame(age = c (70))
+
+predict = predict(model, new_data)

@@ -1,0 +1,16 @@
+https://www.simplypsychology.org/z-score.html
+
+A z-score describes the position of a raw score in terms of its distance from the mean, when measured in standard deviation units. 
+
+
+z = x- m/s
+
+
+Mathematics score for top 5 students
+A    B
+72   84        
+74   76
+78   82
+70   72
+
+

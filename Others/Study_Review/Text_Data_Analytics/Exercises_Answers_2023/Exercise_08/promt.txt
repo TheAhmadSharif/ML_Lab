@@ -1,0 +1,322 @@
+Instructions:
+–––––––––––––––––––––––––––
+Use the HMMlearn Python library, For a hidden Markov model for this set of example sentences. Use either 5 or 10
+hidden states. Inspect the resulting emission probabilities of the states, and the transition matrices
+between the states. Do the states seem to correspond to meaningful properties of the simplified
+language?
+Report the resulting emission and transition probabilities, and your analysis
+
+–––––––––––––––––––––––––––
+sentences.txt
+–––––––––––––––––––––––––––
+
+where may you feed ?
+is she wise ?
+i will explain .
+they are cautious , however , i am strong and then the cautious robot will feed me , but you will feed a small fox and he is strong , however , is the fox strong ?
+they are wise , but then a insightful strong cat is cautious , however , are you cautious ?
+where will you explain ?
+the bird is insightful .
+you may feed , but why will they answer ?
+i can answer him , but is a insightful fox strong and are they strong ?
+you can explain a fox , but they can explain , but then a fox is wise , however , where can the bird feed a robot ?
+the robot is insightful , however , you are strong and i may feed and the wise fox is insightful and you are insightful and i am insightful , however , i will explain the insightful bird .
+they are small , however , are you wise and where will they ?
+when may they and is the dog strong ?
+am i strong and am i strong and where will you and are you friendly ?
+a cat is strong , but you are cautious and i may help , but then a fox is insightful , but then are they strong and when may you answer ?
+they are cautious and then a strong fox can explain you , but then why may the fox feed you ?
+you are strong , but a strong strong small fox may help and then you are insightful and then a small wise cat may ask , but you are friendly , but you may help , however , is the fox friendly and are they insightful ?
+when can i feed me ?
+they are cautious , however , is a strong bird strong ?
+i will feed and the dog can answer and the bird is strong and they are friendly , but are they strong ?
+are they strong and am i wise ?
+you are strong and they are small .
+where will they ask the friendly insightful strong insightful bird and is the bird strong and is a strong robot insightful ?
+you may answer , however , you are small , but the cat is strong , however , are you cautious and am i friendly and are you strong and are you insightful ?
+he can answer , however , you may explain , but then why may a strong strong robot help a insightful dog ?
+am i strong ?
+you will explain , however , when may the robot explain a wise cat ?
+i may feed , but then i am strong and a dog may ask and then you may explain the bird , but they will feed her and you will feed and then you are small , but you are cautious , but then why will i and are you cautious ?
+the fox is cautious and i am small , but then i am friendly and they are strong , but how will the bird answer ?
+i can feed , but then where may a strong fox ?
+they will explain , however , i may help , but then the bird is friendly , but you will help , but when can i answer ?
+am i wise ?
+the bird is friendly , but then am i wise ?
+a fox is insightful and you are strong , however , i am strong and she may explain , but then i am friendly , however , where can they feed a robot and are they strong ?
+the robot can explain , but then when may the insightful bird ?
+i am cautious , but then am i small and are they insightful ?
+the bird may feed , but are you strong ?
+is he insightful and are you friendly and am i friendly ?
+when may you feed a fox ?
+the fox is strong , but he can answer a bird , however , you are insightful , but then they can answer , but a fox will help the fox , however , when will a cautious fox feed the bird ?
+you are cautious , however , i will explain , however , i am strong .
+i may explain , but then is the fox insightful ?
+you will feed you , however , are they wise ?
+a dog may feed you and they are wise and then i may explain them , but then the fox is wise , but then when can you ?
+you may ask the robot , but where may you explain you and am i insightful and is the strong robot small and is the bird cautious ?
+i may answer , however , you may help , but you are cautious , however , where may she explain her and is a bird wise ?
+you can ask and then the bird is wise , however , are you wise ?
+the dog is wise , but then where will i feed the dog and is the strong small friendly small fox insightful and am i insightful ?
+i am cautious , however , you can help me , but then when may he ?
+is a fox strong ?
+when can they feed ?
+you will feed the small bird , but then a cat is strong and the fox is friendly , however , when can they feed the wise wise fox and when will you ?
+a robot may help and then they will explain , however , i am insightful and i am insightful , but am i strong ?
+am i small and is the cautious bird strong ?
+where may you answer the bird and when will you explain ?
+i will answer and they are friendly , but then are they insightful and where will i explain the wise friendly insightful fox ?
+are they cautious ?
+when may the fox ?
+where will a wise fox feed ?
+when may they feed the wise strong fox ?
+a dog is small , but then i can answer her , but then how may he explain the dog ?
+when can the robot explain the bird and when can a fox explain him and why may a cautious bird ?
+you are wise , however , am i wise ?
+a cautious insightful robot can feed a bird , but the cautious bird is strong , however , you may ask , but then is the fox friendly ?
+am i cautious ?
+you can explain a friendly dog , but then am i insightful ?
+when can the cat explain ?
+where can the fox answer them and when may a cat and is the cat insightful ?
+i can help the strong insightful friendly insightful strong cautious robot and i may feed the insightful fox and she is wise and the insightful fox can feed the fox and the cat will explain me , but a strong small bird is wise .
+are they friendly ?
+the fox is friendly and he is strong , but then the dog is cautious and they may feed and you can explain , however , you will help , but he is insightful , however , where may you help the cautious dog ?
+when can i feed a dog ?
+you are cautious , but then how may i ask and are you insightful and am i strong ?
+you are strong , but then is the fox strong ?
+the robot is cautious and they are small and a bird is cautious , however , am i strong ?
+you are small and she is insightful , but the fox is insightful , but then you may explain me , however , they are cautious and the wise strong robot is insightful , but then they may feed , however , you are wise , but i will ask , but then how will you explain ?
+when can you help ?
+the robot is friendly .
+a dog is cautious , however , the wise wise bird is insightful , however , they are cautious .
+they are insightful , but i can help the robot and then he can feed the insightful fox , but then is he cautious ?
+i am small , but they can answer , but then are you wise ?
+they can explain you , but am i strong ?
+the robot is cautious , but then you may feed , however , a insightful cat is wise , however , are you friendly and when will i explain a bird ?
+a fox is cautious , but then where will i ?
+she is insightful , but then the strong wise insightful small wise wise bird will answer and i will answer the robot and they are strong , however , a dog can ask , but you are strong , but then the bird is small , but they are strong and they will feed the fox .
+you are wise , but i am small , but then when will he explain ?
+they are cautious , but he may explain the bird , but then where may i ?
+he is cautious , but then i may feed the strong robot and then they are insightful and you may feed and i am small and you will explain and you are cautious , however , are they strong ?
+a bird is friendly and she is small , but then are they strong ?
+how may you ask the fox and where may he feed you ?
+a bird can answer the strong dog , but then when will i explain ?
+when may you feed ?
+is a small strong bird small ?
+a fox is insightful , however , they may feed the fox , however , i will answer , but then am i strong ?
+the fox may answer , however , why may you ask a fox ?
+you may help .
+is she small ?
+are you wise ?
+you may explain , but you will answer me and i am friendly , however , they may help , but you may feed the bird , however , are you insightful and are you friendly ?
+they will feed , however , i am insightful , but why will i ?
+you are friendly , however , they are insightful and then they can explain , but then when will i answer the cat ?
+i will explain them , however , how will he answer him ?
+the bird is strong , however , you may answer the insightful robot , but you are wise , but then am i wise and when will a fox feed a cautious fox ?
+when may i explain her ?
+i may help .
+how will he answer ?
+you are strong and i will answer the fox , however , a insightful robot is cautious , but then when will he help a wise strong fox ?
+i am cautious , however , is he wise and how will i answer ?
+i may ask and the strong friendly fox may answer and then they are strong , but then when can they ?
+they are insightful and then a bird is insightful , but they are small , however , you will ask , however , are they insightful ?
+they are insightful , but then am i strong ?
+they are strong and i will feed the bird .
+you can answer , but then the robot is insightful , however , you can answer , but then are you wise ?
+you may feed the robot , but then they may explain you , but is a friendly bird strong and am i strong and am i insightful ?
+the fox may feed the cat , but then when will you help and how will they help and are you friendly ?
+a fox is strong , but then are you small and are you insightful and are you wise and is he strong ?
+is the bird friendly ?
+you may ask , but are you wise ?
+he is small , but you are strong and you are insightful , however , she is strong and you will feed , but then when may you explain the fox and how may the bird explain and is the fox strong ?
+he is insightful , but then are you small ?
+you are strong , but he is insightful , but am i friendly ?
+is a strong friendly strong friendly robot strong and is the bird strong ?
+am i insightful ?
+a bird is strong , but they are insightful .
+a robot can ask , however , how will i answer ?
+the robot is wise and the robot may feed and she is strong and then i may answer , but you are wise , but the dog is insightful , however , you will explain and the robot can ask and a robot is wise , however , you may answer .
+she will answer the fox , but then is the robot small ?
+you can answer the bird , however , am i strong ?
+a robot may ask a wise fox , however , when can i feed ?
+the robot is friendly , however , they are cautious and then a robot will answer and the robot is friendly and then i may help the strong cat , however , she is friendly .
+you are wise and i may explain , however , when may you explain the wise strong bird and is a insightful robot small ?
+is the robot strong ?
+a robot is strong , but am i wise and when will you answer you ?
+am i friendly ?
+am i friendly ?
+the robot is small , but then a insightful cautious dog may ask , but you will feed , but then you may explain , but then are you small ?
+you are wise and they may answer you , but you are wise , however , you can feed and then he is wise , however , when can you help a dog ?
+you are strong , but then are they insightful ?
+she is friendly , but i am wise , but then when will a fox ?
+they are small , however , you may help a dog and the fox is strong , but then they are strong and you may feed , however , when may you and where will you ?
+the fox is small .
+are you insightful ?
+you are strong , however , you may feed a robot , but the dog may feed a insightful cautious cat , but then is the robot friendly ?
+i will help him and the bird is cautious , but they can answer you , but a bird is insightful , but then are you strong and am i strong and why will they answer the dog ?
+when can you explain ?
+i may ask a cat , but then the small cautious bird is insightful and then i will ask and then you are insightful , but then how may they answer ?
+he will explain , but then am i friendly ?
+is she insightful ?
+a strong dog may answer and the fox may ask the dog and you are cautious , however , are you insightful ?
+how may you and is the cautious strong insightful bird insightful and where will you explain ?
+i may feed , but then i can explain a strong strong strong dog , but is a strong robot strong ?
+am i strong and where may i explain the fox ?
+you may help a fox , but you are insightful and he is wise , but the fox is friendly , however , she may ask and the fox is strong , but when can i help and when may the cat feed a strong friendly robot and am i insightful ?
+am i friendly ?
+how can they explain ?
+the robot will feed her and the small insightful wise insightful insightful robot is insightful , but then the strong bird can feed , but then are you wise and are you cautious ?
+i am friendly , but they can ask .
+they can answer me and a fox is strong .
+are you strong ?
+a robot is insightful , but then how may a strong strong insightful fox feed the wise robot ?
+a robot is strong , but then how can a fox explain ?
+is a bird strong ?
+are you strong and is the strong insightful robot cautious ?
+the cautious dog is small , however , are they strong and how may you ask me ?
+are you insightful and are you insightful ?
+the bird may feed , but am i cautious ?
+they may feed you and then the fox is insightful , however , you are insightful , but a insightful strong fox is insightful , however , you are strong , but he is strong , but then he is strong , but i may ask and then i am strong , but he may ask .
+a wise bird is strong , but then i am wise , but is she insightful and are they strong ?
+i will help the robot , but then are they cautious ?
+i may explain a strong fox , but then the robot may feed , however , a bird may answer the bird , but then is the friendly dog insightful and how may you feed a strong strong small strong insightful friendly strong robot ?
+i may feed a fox , but a bird is insightful , however , are you insightful ?
+you are strong , but a small fox is wise , however , am i insightful ?
+are they strong and are they strong ?
+i will answer the bird , but then am i wise ?
+you will feed , but then is a robot insightful ?
+are they insightful ?
+are you wise and is the insightful cat cautious ?
+a robot is insightful and he is friendly , but the bird is strong , however , a robot can answer the insightful small strong strong friendly fox and you may explain , however , where will you explain the strong strong bird ?
+they will explain a robot , however , where will you answer the friendly insightful robot and are you strong ?
+they may explain , however , where may the bird feed him ?
+when may you ask you ?
+you are wise , however , they may answer , but you are insightful .
+they will explain the robot , but then i am insightful , but then you can feed , but am i wise and why may i feed and how may you ask ?
+the bird is insightful , however , you are strong , but then are you insightful ?
+is the cat wise ?
+am i friendly ?
+i can feed the friendly strong cautious robot , but you can answer , but then where will they and is a fox friendly and am i strong ?
+when may i ask and where may they feed ?
+a fox can explain and they may ask her and then i am insightful and i am friendly and i may ask him and then you can answer , but then you can feed , but then is he insightful and where may i feed ?
+you can answer , but are they insightful and why will they explain her and am i insightful ?
+they are wise , but then are you strong ?
+a cat is insightful , but then i am strong and then i will explain , but then when will he answer the strong fox and am i friendly and are you wise ?
+–––––––––––––––––––––
+Code Sample
+–––––––––––––––––––––
+
+import nltk
+# NLTK includes an example corpus of 3914 tagged sentences
+mytaggedsentences=nltk.corpus.treebank.tagged_sents()
+myhmmtrainer=nltk.tag.hmm.HiddenMarkovModelTrainer()
+# Training using labeled and possibly also unlabeled data
+# unfortunately the unsupervised training seems to be buggy!
+mytrainedhmm = myhmmtrainer.train( \
+    labeled_sequences=mytaggedsentences,unlabeled_sequences=None)
+# Alternative: training using "labelled" data only
+mytrainedhmm = myhmmtrainer.train_supervised( \
+    labelled_sequences=mytaggedsentences)
+# Tag a sentence
+mytrainedhmm.tag(("The hope is that trained HMM states will " + \
+     "correspond to parts of speech.").split())
+
+
+
+%----------------
+
+
+
+pip install hmmlearn
+import numpy, hmmlearn, hmmlearn.hmm
+# HMMlearn expects the data to be provided 
+# as a (nsamples,1) 2D-array, where the 2nd dimension has just
+# one element, containing list of indices into a vocabulary, 
+# all documents concatenated together, and separately a 
+# list of lenghts of the individual documents.
+# Create concatenated index list from previously
+# crawled and processed documents
+concatenated_data=[]
+documentlengths=[]
+for k in range(len(myindices_in_unifiedvocabulary)):
+    concatenated_data.extend(myindices_in_unifiedvocabulary[k])
+    documentlengths.append(len(myindices_in_unifiedvocabulary[k]))
+concatenated_data=numpy.matrix(concatenated_data).T
+# Fit the model
+myhmm = hmmlearn.hmm.MultinomialHMM(n_components=10, n_iter=100, verbose=True)
+myhmm_fitted=myhmm.fit(concatenated_data,lengths=documentlengths)
+# Inspect start, transition, and emission probabilities
+myhmm_fitted.startprob_
+myhmm_fitted.emissionprob_
+myhmm_fitted.transmat_
+
+
+
+
+While equations are not natural language, they are featured in many scientific publications and are a
+useful example for grammars. Propose a context-free grammar that can create equations of the kind
+used in simple calculators: nonnegative integer numbers, a limited set of variables (x, y, z),
+operators (+, -, *, /, ^), parentheses, a limited set of functions (log, exp, sin, cos, tan). Example
+equations that your grammar should be able to generate:
+• 1+2*3^10
+• 24-(3*x-(z^y))/(3-x)
+• sin(2*x-cos(y))^(2-10)
+Then, show how an example equation is derived from your grammar: show the derivation tree of
+applying rules to arrive at the final equation.
+Note: in this exercise you do not need to assign probabilities to the rules of your grammar.
+Report the definition of your grammar, and the derivation of your example equation.
+
+
+
+The probabilistic context free grammar below is a simplified version of the one used to generate
+"hmm_sentences.txt" in exercise 8.1. Transform the grammar into Chomsky normal form, so that
+the possible sentences and their probabilities are the same as in the grammar below. Report the
+definition of your resulting Chomsky normal form grammar (rules and their probabilities).
+S --> STMANY  					1.0
+STMANY --> S1 . 				0.6
+STMANY --> S1 , but STMANY   	0.4
+S1 --> SUBJ QVERB1 QVERB2 OBJ   1.0
+SUBJ --> ARTICLE DESC NOUN      1.0
+DESC --> ADJECTIVE				0.7
+DESC --> ADJECTIVE DESC			0.3
+OBJ --> ARTICLE DESC NOUN		1.0
+QVERB1 --> can                  0.2
+QVERB1 --> will					0.5
+QVERB1 --> may                  0.3
+ARTICLE --> a                   0.6
+ARTICLE --> the                 0.4
+QVERB2 --> explain				0.4
+QVERB2 --> help					0.2
+QVERB2 --> answer				0.4
+ADJECTIVE --> wise				0.3
+ADJECTIVE --> friendly			0.5
+ADJECTIVE --> insightful		0.2
+NOUN --> cat 					0.7
+NOUN --> dog 					0.2
+NOUN --> fox					0.1
+
+
+
+
+
+
+
+
+
+
+
+
+
+Use the inside-outside algorithm for the Chomsky normal form grammar you produced in previous exercise
+ to calculate the probability of the sentence "a wise fox can help the friendly insightful cat".
+Report your computation and the resulting probability. Hint: the resulting probability should be the
+same as it is in the original grammar given in previous exercise
+
+
+
+
+
+
+
+
+

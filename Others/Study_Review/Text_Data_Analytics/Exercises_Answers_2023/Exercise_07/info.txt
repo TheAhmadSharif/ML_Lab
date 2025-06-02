@@ -1,0 +1,18 @@
+Hidden Markov Model k
+
+I: Hidden Markov models and the Viterbi and Baum-Welch algorithms are still important and
+needed in the age of neural large language models.
+
+
+Do you agree ?
+
+AI: Yes, HMMs and their associated algorithms, such as the Viterbi and Baum-Welch algorithms, are still important and needed in the age of neural large language models. They provide interpretability, are effective for limited data and time-series analysis, allow for model training from unlabeled data, and can serve as a baseline model or for data generation. Their relevance depends on the specific task requirements and available resources.
+
+
+
+I : Markov model is better because probability of an occurring event is dependent only on the current state of a system. 
+
+Are you still firm in your opinion
+
+
+Both Markov models and neural large language models have their own strengths and are useful for different tasks. Markov models excel in capturing dependencies between events based on the current state of the system, while neural large language models can capture complex patterns and long-range context. The choice depends on the specific task and data characteristics.

@@ -1,0 +1,6 @@
+Gamma Dsitributions
+Only positive
+https://www.probabilitycourse.com/chapter4/4_2_4_Gamma_distribution.php
+
+Beta Distributions
+Iterval, Between 0 and 1.

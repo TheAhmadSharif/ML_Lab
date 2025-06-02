@@ -1,0 +1,308 @@
+### Statistical Modeling 1 
+### Count Data Models
+### 2024
+
+############################
+### Example 5.1
+
+data<-read.table("species.txt", sep="\t", dec=".", header=TRUE)
+attach(data)
+
+coplot(Species~Biomass|pH)
+
+plot(Biomass,Species, pch=19)
+points(Biomass[pH=="high"], Species[pH=="high"], pch=19, col="red")
+points(Biomass[pH=="low"], Species[pH=="low"], pch=19, col="blue")
+
+## a)
+
+
+boxplot(Species~pH)
+
+model.2<-glm(Species~factor(pH), family=poisson(link="log"), data=data)
+summary(model.2)
+newdata<-data.frame(pH=c("high","mid","low"))
+predict(model.2, newdata=newdata, type="response")
+aggregate(Species~factor(pH), FUN=mean)
+
+anova(model.2, test="Chi")
+anova(model.2, test="Chi")$Deviance[2]
+
+model.0<-glm(Species~1, family=poisson(link="log"), data=data)
+anova(model.0, model.2, test="Chi")
+anova(model.0, model.2, test="Chi")$Deviance[2]
+
+
+## b)
+
+model.main<-glm(Species~Biomass+factor(pH), family=poisson(link="log"), data=data)
+summary(model.main)
+coef(model.main)[2]
+
+fit<-fitted(model.main, type="response")
+
+coplot(fitted(model.main, type="response")~Biomass | pH)
+
+plot(Biomass,Species, pch=19)
+points(Biomass[pH=="high"], Species[pH=="high"], pch=19, col="red")
+points(Biomass[pH=="low"], Species[pH=="low"], pch=19, col="blue")
+
+points(Biomass[pH=="high"], fit[pH=="high"], pch=15, cex=1, col="green")
+points(Biomass[pH=="mid"], fit[pH=="mid"], pch=15, cex=1,col="yellow")
+points(Biomass[pH=="low"], fit[pH=="low"], pch=15, cex=1,col="orange")
+
+
+## c)
+
+model.12<-glm(Species~Biomass*factor(pH), family=poisson(link="log"), data=data)
+summary(model.12)
+coplot(fitted(model.12, type="response")~Biomass | pH)
+
+fit<-fitted(model.12, type="response")
+
+plot(Biomass,Species, pch=19)
+points(Biomass[pH=="high"], Species[pH=="high"], pch=19, col="red")
+points(Biomass[pH=="low"], Species[pH=="low"], pch=19, col="blue")
+
+points(Biomass[pH=="high"], fit[pH=="high"], pch=15, cex=1, col="green")
+points(Biomass[pH=="mid"], fit[pH=="mid"], pch=15, cex=1,col="yellow")
+points(Biomass[pH=="low"], fit[pH=="low"], pch=15, cex=1,col="orange")
+
+anova(model.main, model.12, test="Chi")
+anova(model.main, model.12, test="Chi")$Deviance[2]
+anova(model.main, model.12, test="Chi")$"Pr(>Chi)"[2]
+
+modelQuasi.main<-glm(Species~factor(pH)+Biomass, family=quasipoisson(link="log"), data=data)
+summary(modelQuasi.main)
+modelQuasi.12<-glm(Species~factor(pH)*Biomass, family=quasipoisson(link="log"), data=data)
+summary(modelQuasi.12)
+summary(modelQuasi.12)$dispersion
+
+anova(modelQuasi.main, modelQuasi.12, test="F")
+anova(modelQuasi.main, modelQuasi.12, test="F")$"F"[2]
+anova(modelQuasi.main, modelQuasi.12, test="F")$"Pr(>F)"[2]
+
+plot(fitted(model.main, type="response"), fitted(modelQuasi.main, type="response"))
+
+## d)
+
+modelSqrt.12<-glm(Species~factor(pH)*Biomass, family=poisson(link="sqrt"), data=data)
+modelIdentity.12<-glm(Species~factor(pH)*Biomass, family=poisson(link="identity"), data=data)
+
+coplot(fitted(model.12, type="response")~Biomass | pH)
+coplot(fitted(modelSqrt.12, type="response")~Biomass | pH)
+coplot(fitted(modelIdentity.12, type="response")~Biomass | pH)
+
+par(mfrow=c(2,2))
+
+fit<-fitted(model.12, type="response")
+
+plot(Biomass,Species, pch=19)
+points(Biomass[pH=="high"], Species[pH=="high"], pch=19, col="red")
+points(Biomass[pH=="low"], Species[pH=="low"], pch=19, col="blue")
+
+points(Biomass[pH=="high"], fit[pH=="high"], pch=15, cex=1, col="green")
+points(Biomass[pH=="mid"], fit[pH=="mid"], pch=15, cex=1,col="yellow")
+points(Biomass[pH=="low"], fit[pH=="low"], pch=15, cex=1,col="orange")
+
+
+fit<-fitted(modelSqrt.12, type="response")
+
+plot(Biomass,Species, pch=19)
+points(Biomass[pH=="high"], Species[pH=="high"], pch=19, col="red")
+points(Biomass[pH=="low"], Species[pH=="low"], pch=19, col="blue")
+
+points(Biomass[pH=="high"], fit[pH=="high"], pch=15, cex=1, col="green")
+points(Biomass[pH=="mid"], fit[pH=="mid"], pch=15, cex=1,col="yellow")
+points(Biomass[pH=="low"], fit[pH=="low"], pch=15, cex=1,col="orange")
+
+
+fit<-fitted(modelIdentity.12, type="response")
+
+plot(Biomass,Species, pch=19)
+points(Biomass[pH=="high"], Species[pH=="high"], pch=19, col="red")
+points(Biomass[pH=="low"], Species[pH=="low"], pch=19, col="blue")
+
+points(Biomass[pH=="high"], fit[pH=="high"], pch=15, cex=1, col="green")
+points(Biomass[pH=="mid"], fit[pH=="mid"], pch=15, cex=1,col="yellow")
+points(Biomass[pH=="low"], fit[pH=="low"], pch=15, cex=1,col="orange")
+
+
+AIC(model.12)
+AIC(modelSqrt.12)
+AIC(modelIdentity.12)
+
+plot(fitted(model.12, type="response"), residuals(model.12, type="response")
+
+plot(fitted(modelIdentity.12, type="response"), residuals(modelIdentity.12, type="response")
+
+modelIdentityQuasi.12<-glm(Species~factor(pH)*Biomass, family=quasipoisson(link="identity"), data=data)
+summary(modelIdentityQuasi.12)
+
+
+modelIdentity.main<-glm(Species~factor(pH)+Biomass, family=poisson(link="identity"), data=data)
+
+anova(modelIdentity.main, modelIdentity.12, test="Chi")
+AIC(modelIdentity.main)
+
+
+## e)
+
+library(MASS)
+modelNB.1bar2<-glm.nb(Species~Biomass+factor(pH), data=data)
+summary(modelNB.1bar2)
+coef(modelNB.1bar2)[2]
+
+
+############################
+### Example 5.2
+
+data<-read.table("ratescancer.txt", sep="\t", dec=".", header=TRUE)
+attach(data)
+
+## a)
+
+z<-cases/pop
+interaction.plot(age,city,z)
+
+model.main<-glm(cases~offset(log(pop))+age+city, family=poisson(link="log"), data=data)
+summary(model.main)
+
+model.H0<-glm(cases~offset(log(pop))+age, family=poisson(link="log"), data=data)
+summary(model.H0)
+
+anova(model.H0, model.main, test="Chi")
+anova(model.H0, model.main, test="Chi")$Deviance[2]
+
+
+modelQuasi.main<-glm(cases~offset(log(pop))+age+city, family=quasipoisson(link="log"), data=data)
+summary(modelQuasi.main)
+
+modelQuasi.H0<-glm(cases~offset(log(pop))+age, family=quasipoisson(link="log"), data=data)
+summary(modelQuasi.H0)
+
+anova(modelQuasi.H0, modelQuasi.main, test="F")
+anova(modelQuasi.H0, modelQuasi.main, test="F")$F[2]
+
+## b)
+
+newdata<-data.frame(city=rep("Kolding",3), age=rep("70-74",3), pop=c(535, 650, 2000000) ) 
+pred<-predict(model.main, newdata=newdata, type="response")
+ratio.estimate<-pred/newdata$pop
+ratio.estimate
+
+newdata<-data.frame(city=rep("Kolding",3), age=c("40-54","70-74","75+"), pop=c(535,535,535) ) 
+pred<-predict(model.main, newdata=newdata, type="response")
+ratio.estimate<-pred/newdata$pop
+ratio.estimate
+
+eta<-predict(model.main, newdata=newdata, type="link", se.fit=TRUE)
+link.lowerbound<-eta$fit-qnorm(0.975)*eta$se.fit
+link.upperbound<-eta$fit+qnorm(0.975)*eta$se.fit
+
+lower<-exp(link.lowerbound) 
+upper<-exp(link.upperbound)
+lower
+upper
+
+ratio.lower<-lower/newdata$pop
+ratio.upper<-upper/newdata$pop
+ratio.lower
+ratio.upper
+
+
+############################
+### Example 5.3
+
+data<-read.table("ships.txt", sep="\t", dec=".", header=TRUE)
+attach(data)
+
+barplot(table(damage))
+plot(months, damage)
+plot(log(months), damage)
+plot(months[months<500], damage[months<500])
+
+# a)
+
+library(pscl)
+
+model<-zeroinfl(damage~offset(log(months))+factor(type)+factor(construction)+factor(operation) | log(months), data=data, dist="poisson")
+summary(model)
+
+newdata<-data.frame(months=1000, type="C", construction="1975-79", operation="1975-79")
+
+predict(model, newdata=newdata, type="response")  # mu.hat value
+predict(model, newdata=newdata, type="response")/newdata$months # ratio estimate
+
+newdata<-data.frame(months=200:1000, type="C", construction="1975-79", operation="1975-79")
+theta.hat<-predict(model, newdata=newdata, type="prob")[,1]
+pred.0<-predict(model, newdata=newdata, type="zero")
+
+plot(200:1000, theta.hat)
+plot(200:1000, pred.0)
+
+
+
+# b)
+
+model.H0<-zeroinfl(damage~offset(log(months))+factor(construction)+factor(operation) | log(months), data=data, dist="poisson")
+
+library(lmtest)
+
+waldtest(model.H0, model)
+lrtest(model.H0, model)
+
+# c)
+
+model.1<-glm(damage~offset(log(months))+type+construction+operation , data=data, family=poisson(link="log"))
+summary(model.1)
+
+model.2<-zeroinfl(damage~offset(log(months))+type+construction+operation | log(months), data=data, dist="poisson")
+summary(model.2)
+
+library(MASS)
+model.3<-zeroinfl(damage~offset(log(months))+type+construction+operation | log(months), data=data, dist="negbin")
+summary(model.3)
+
+MSE.M1<-sum((damage-fitted(model.1, type="response"))^2)/34
+MSE.M2<-sum((damage-fitted(model.2, type="response"))^2)/34
+MSE.M3<-sum((damage-fitted(model.3, type="response"))^2)/34
+
+MSE.M1
+MSE.M2
+MSE.M3
+
+
+############################
+### Example 5.4
+
+
+data<-read.table("ratescancer.txt", sep="\t", dec=".", header=TRUE)
+attach(data)
+
+model.main<-glm(cases~offset(log(pop))+age+city, family=poisson(link="log"), data=data)
+summary(model.main)
+
+newdata<-data.frame(city="Kolding", age="70-74", pop=1000) 
+pred<-predict(model.main, newdata=newdata, type="response")
+pred
+ratio.prediction<-pred/newdata$pop
+ratio.prediction
+
+xf<-t(cbind(1,0,0,0,1,0,0,1,0))
+
+Var.eYf<-pred*(1+pred*t(xf)%*%vcov(model.main)%*%xf)
+
+lower.Yf<-pred-qnorm(0.9)*sqrt(Var.eYf)
+upper.Yf<-pred+qnorm(0.9)*sqrt(Var.eYf)
+lower.Yf
+upper.Yf
+
+Var.eZf<-((1/newdata$pop)^2)*Var.eYf
+
+lower.Zf<-ratio.prediction-qnorm(0.9)*sqrt(Var.eZf)
+upper.Zf<-ratio.prediction+qnorm(0.9)*sqrt(Var.eZf)
+lower.Zf
+upper.Zf
+
+

@@ -1,0 +1,429 @@
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{amssymb} % To fix the \mathbb error
+\usepackage[margin=1in]{geometry} % Adjust the margins
+
+\begin{document}
+
+\section*{Bayesian Analysis I: Practice Problems}
+
+%##################  1 ################## %
+%######################################## %
+
+\subsection*{Question 1:}
+
+\[
+\begin{array}{|c|c|}
+\hline
+\text{Geological Activity} & \text{Number of Earthquakes} \\
+\hline
+\text{DB} & 6 \\
+\text{IAO} & 3 \\
+\text{MP} & 1 \\
+\hline
+\end{array}
+\]
+
+Past studies show the following probabilities for a major earthquake occurring:
+\[
+P(M | DB) = 0.6, \quad P(M | IAO) = 0.3, \quad P(M | MP) = 0.2
+\]
+
+\subsubsection*{a) Find the Probability that a Major Earthquake Will Occur in San Francisco}
+
+The Law of Total Probability:
+
+\[
+P(M) = P(M | DB)P(DB) + P(M | IAO)P(IAO) + P(M | MP)P(MP)
+\]
+
+Where:
+\[
+P(DB) = \frac{6}{10} = 0.6, \quad P(IAO) = \frac{3}{10} = 0.3, \quad P(MP) = \frac{1}{10} = 0.1
+\]
+
+Substitute the values:
+
+\[
+P(M) = (0.6)(0.5) + (0.3)(0.3) + (0.2)(0.2)
+\]
+\[
+P(M) = 0.3 + 0.09 + 0.04 = 0.43
+\]
+
+Thus, the probability that a major earthquake will occur is:
+\[
+\boxed{P(M) = 0.43}
+\]
+
+\subsubsection*{b) Find the Posterior Probability Distribution for Geological Activities}
+
+Using Bayes' Theorem, the posterior probabilities:
+
+\[
+P(DB | M) = \frac{P(M | DB)P(DB)}{P(M)}, \quad P(IAO | M) = \frac{P(M | IAO)P(IAO)}{P(M)}, \quad P(MP | M) = \frac{P(M | MP)P(MP)}{P(M)}
+\]
+
+Substitute the values:
+
+1. **For DB:**
+\[
+P(DB | M) = \frac{(0.6)(0.6)}{0.43} = \frac{0.36}{0.43} \approx 0.8372
+\]
+
+2. **For IAO:**
+\[
+P(IAO | M) = \frac{(0.3)(0.3)}{0.43} = \frac{0.09}{0.43} \approx 0.2093
+\]
+
+3. **For MP:**
+\[
+P(MP | M) = \frac{(0.2)(0.1)}{0.43} = \frac{0.02}{0.43} \approx 0.0465
+\]
+
+Thus, the posterior probabilities are:
+
+\[
+P(DB | M) \approx \frac{30}{41}, \quad P(IAO | M) \approx \frac{9}{41}, \quad P(MP | M) \approx \frac{2}{41}
+\]
+
+%##################  2 %################## %
+%######################################### %
+
+\subsection*{Question 2}
+
+A random sample \( X_i, i = 1, 2, \dots, 50 \) from a distribution
+
+\[
+f(x | \theta) = \frac{\theta}{x^2} e^{-\frac{\theta}{x}} \quad \text{for} \quad x, \theta > 0
+\]
+
+\subsubsection*{a) Find a Conjugate Prior Distribution for \( \theta \)}
+
+The likelihood function is:
+
+\[
+L(\theta | x) = \prod_{i=1}^{50} \frac{\theta}{x_i^2} e^{-\frac{\theta}{x_i}} = \theta^{50} \exp \left( -\theta \sum_{i=1}^{50} \frac{1}{x_i} \right) \prod_{i=1}^{50} \frac{1}{x_i^2}
+\]
+
+For the conjugate prior, **Gamma distribution** is chosen:
+
+\[
+p(\theta) = \frac{b^a}{\Gamma(a)} \theta^{a-1} e^{-b \theta}
+\]
+
+Thus, the conjugate prior is:
+
+\[
+\theta \sim \text{Gamma}(a, b)
+\]
+
+\subsubsection*{b) Identify its Resulting Posterior Distribution for \( \theta \)}
+
+Multiplying the likelihood by the prior:
+
+\[
+p(\theta | x) \propto \theta^{50} \exp \left( -\theta \sum_{i=1}^{50} \frac{1}{x_i} \right) \theta^{a-1} e^{-b \theta}
+\]
+
+This simplifies to:
+
+\[
+p(\theta | x) \propto \theta^{50 + a - 1} \exp \left( -\theta \left( \sum_{i=1}^{50} \frac{1}{x_i} + b \right) \right)
+\]
+
+Thus, the posterior distribution is:
+
+\[
+\theta | x \sim \text{Gamma}(50 + a, \sum_{i=1}^{50} \frac{1}{x_i} + b)
+\]
+
+\subsubsection*{c) Find the Posterior Mean Given the Sample}
+
+The mean of a Gamma distribution \( \text{Gamma}(\alpha, \beta) \) is:
+
+\[
+\mathbb{E}[\theta | x] = \frac{\alpha}{\beta}
+\]
+
+For the posterior distribution \( \text{Gamma}(50 + a, \sum_{i=1}^{50} \frac{1}{x_i} + b) \), the posterior mean is:
+
+\[
+\mathbb{E}[\theta | x] = \frac{50 + a}{\sum_{i=1}^{50} \frac{1}{x_i} + b}
+\]
+
+Thus, the posterior mean is:
+
+\[
+\boxed{\mathbb{E}[\theta | x] = \frac{50 + a}{\sum_{i=1}^{50} \frac{1}{x_i} + b}}
+\]
+
+%##################  3 ################## %
+%######################################## %
+
+\subsection*{Question 3}
+
+Given that \( Y \) follows a binomial distribution with parameters \( n = 3 \) and unknown parameter \( \theta \), which is assumed to have a prior distribution:
+
+\[
+p(\theta) = \frac{27 - 75(\theta - 0.4)^2}{22} \quad \text{for} \quad 0 \leq \theta \leq 1
+\]
+
+The posterior distribution when \( Y = 2 \).
+
+\subsubsection*{Likelihood and Prior}
+
+The likelihood for a binomial distribution is:
+
+\[
+p(y | \theta) = \binom{3}{y} \theta^y (1 - \theta)^{3 - y}
+\]
+
+Substituting \( y = 2 \):
+
+\[
+p(2 | \theta) = \binom{3}{2} \theta^2 (1 - \theta) = 3 \theta^2 (1 - \theta)
+\]
+
+Now, using Bayes' Theorem, the posterior distribution is proportional to the likelihood multiplied by the prior:
+
+\[
+p(\theta | 2) \propto p(2 | \theta) p(\theta)
+\]
+
+Substituting the expressions for the likelihood and prior:
+
+\[
+p(\theta | 2) \propto 3 \theta^2 (1 - \theta) \times \left( \frac{27 - 75(\theta - 0.4)^2}{22} \right)
+\]
+
+Expanding the quadratic term:
+
+\[
+(\theta - 0.4)^2 = \theta^2 - 0.8\theta + 0.16
+\]
+
+Now, substituting this into the prior expression:
+
+\[
+p(\theta | 2) \propto 3 \theta^2 (1 - \theta) \left( 27 - 75(\theta^2 - 0.8 \theta + 0.16) \right)
+\]
+
+This simplifies to:
+
+\[
+p(\theta | 2) \propto 3 \theta^2 (1 - \theta) \left( 15 - 75\theta^2 + 60\theta \right)
+\]
+
+Distribute \( \theta^2 (1 - \theta) \) to get the final form of the posterior expression:
+
+\[
+p(\theta | 2) \propto 3 \theta^2 (1 - \theta) \left( 15 - 75 \theta^2 + 60 \theta \right)
+\]
+
+\subsubsection*{Normalizing Constant}
+
+To normalize the posterior distribution,To compute the integral:
+
+\[
+N.C. = \int_0^1 \left( 15 \theta^2 - 75 \theta^4 + 60 \theta^3 - 15 \theta^3 + 75 \theta^5 \right) d\theta
+\]
+
+After solving the integral
+
+\[
+N.C. = \frac{15}{3} + \frac{45}{4} - 135 + 75 = \frac{4}{7}
+\]
+
+Thus, the posterior distribution is:
+
+\[
+p(\theta | 2) = \frac{4}{7} \theta^2 (1 - \theta) \left( 27 - 75 (\theta - 0.4)^2 \right)
+\]
+
+% ########### 4  #####################
+% ###################################
+
+
+
+
+
+
+\subsection*{Question 4}
+
+\subsubsection*{a) Posterior Distribution for \( \mu \)}
+
+\( n = 9 \) observations with a sample mean \( Y = 12 \), and observations are independent with the distribution:
+
+\[
+Y_i | \mu \sim \text{Normal}(\mu, \frac{1}{\psi})
+\]
+where \( \psi \) is the known precision. The prior distribution for \( \mu \) is assumed to be:
+
+\[
+\mu \sim \text{Normal}(\theta, \frac{\sigma^2}{m})
+\]
+
+The likelihood function for the sample mean is:
+
+\[
+p(Y | \mu) \propto \exp \left( - \frac{n}{2\psi} (Y - \mu)^2 \right)
+\]
+
+The prior distribution for \( \mu \) is:
+
+\[
+p(\mu) \propto \exp \left( - \frac{1}{2} \frac{(\mu - \theta)^2}{\frac{\sigma^2}{m}} \right)
+\]
+
+Now, applying Bayes' theorem:
+
+\[
+p(\mu | Y) \propto p(Y | \mu) p(\mu)
+\]
+
+Substituting the expressions for the likelihood and prior:
+
+\[
+p(\mu | Y) \propto \exp \left( - \frac{n}{2\psi} (Y - \mu)^2 \right) \exp \left( - \frac{1}{2} \frac{(\mu - \theta)^2}{\frac{\sigma^2}{m}} \right)
+\]
+
+This gives the posterior distribution for \( \mu \) as:
+
+\[
+\mu | Y \sim \text{Normal} \left( \frac{nY + m\theta / \sigma^2}{n + m / \sigma^2}, \frac{\sigma^2}{n + m / \sigma^2} \right)
+\]
+
+Thus, the posterior mean and variance are:
+
+- Posterior mean: \( \mathbb{E}[\mu | Y] = \frac{nY + m\theta / \sigma^2}{n + m / \sigma^2} \)
+- Posterior variance: \( \text{Var}[\mu | Y] = \frac{\sigma^2}{n + m / \sigma^2} \)
+
+\subsubsection*{b) 95\% Equal-Tailed Credible Interval for \( \mu \)}
+
+Given that \( \sigma^2 = 1 \), \( m = 0 \), and \( \psi = 1 \), the posterior distribution for \( \mu \) becomes:
+
+\[
+\mu | Y \sim \text{Normal} \left( Y, \frac{1}{n} \right)
+\]
+
+To find the 95\% equal-tailed credible interval for \( \mu \), The fact that the 95\% credible interval is given by:
+
+\[
+\mu \in \left[ Y \pm 1.96 \times \frac{1}{\sqrt{n}} \right]
+\]
+
+Substituting the values:
+
+\[
+\mu \in \left[ 12 \pm 1.96 \times \frac{1}{\sqrt{9}} \right] = \left[ 12 \pm 1.96 \times \frac{1}{3} \right] = \left[ 12 \pm 0.653 \right]
+\]
+
+Thus, the 95\% credible interval for \( \mu \) is:
+
+\[
+\mu \in [11.347, 12.653]
+\]
+
+\subsubsection*{c) Interpretation of the Credible Interval}
+
+The Bayesian credible interval has a straightforward interpretation: there is a 95\% probability that \( \mu \) lies within the interval. This means that, given the data and the prior, 95% confident that the true value of \( \mu \) is contained within this interval.
+
+The credible interval gives an estimate of the range in which the true value of \( \mu \) lies with 95% probability. This is different from a frequentist confidence interval, which is constructed to contain the true value of \( \mu \) 95% of the time if the procedure is repeated many times.
+
+
+%##################  15 ################## %
+%######################################## %
+\subsection*{Question 5}
+
+A random sample is given \( X_i, i = 1, \dots, n \) from a distribution with the probability density function:
+
+\[
+f(x | \theta) = \frac{\theta^{1/2}}{\sqrt{2\pi}} \exp \left( -\frac{\theta x^2}{2} \right) \quad \theta > 0
+\]
+
+\subsubsection*{Step 1: Likelihood Function}
+
+The likelihood function for the sample \( X_1, \dots, X_n \) is:
+
+\[
+L(\theta | x) = \prod_{i=1}^{n} \frac{\theta^{1/2}}{\sqrt{2\pi}} \exp \left( -\frac{\theta x_i^2}{2} \right)
+\]
+
+This simplifies to:
+
+\[
+L(\theta | x) \propto \theta^{n/2} \exp \left( -\frac{\theta}{2} \sum_{i=1}^{n} x_i^2 \right)
+\]
+
+\subsubsection*{Step 2: Prior Distribution}
+
+A Gamma distribution for the prior of \( \theta \):
+
+\[
+p(\theta) \propto \theta^{a/2 - 1} \exp \left( -\frac{b \theta}{2} \right)
+\]
+
+Where \( a \) and \( b \) are the shape and rate parameters of the Gamma distribution.
+
+\subsubsection*{Step 3: Posterior Distribution}
+
+The posterior distribution is proportional to the product of the likelihood and the prior:
+
+\[
+p(\theta | x) \propto L(\theta | x) p(\theta)
+\]
+
+Substitute the expressions for the likelihood and prior:
+
+\[
+p(\theta | x) \propto \theta^{n/2} \exp \left( -\frac{\theta}{2} \sum_{i=1}^{n} x_i^2 \right) \times \theta^{a/2 - 1} \exp \left( -\frac{b \theta}{2} \right)
+\]
+
+This simplifies to:
+
+\[
+p(\theta | x) \propto \theta^{(n + a)/2 - 1} \exp \left( -\frac{\theta}{2} \left( \sum_{i=1}^{n} x_i^2 + b \right) \right)
+\]
+
+Thus, the posterior distribution for \( \theta \) is:
+
+\[
+\theta | x \sim \text{Gamma}\left( \frac{n + a}{2}, \frac{\sum_{i=1}^{n} x_i^2 + b}{2} \right)
+\]
+
+\subsubsection*{Step 4: Predictive Distribution}
+
+To find the predictive distribution for a new observation \( y \) given \( X_1, \dots, X_n \), 
+
+\[
+p(y | x) = \int_0^\infty p(y | \theta) p(\theta | x) d\theta
+\]
+
+Substitute the likelihood function for \( y \) and the posterior for \( \theta \):
+
+\[
+p(y | x) = \int_0^\infty \frac{\theta^{1/2}}{\sqrt{2\pi}} \exp \left( -\frac{\theta y^2}{2} \right) \theta^{(n + a)/2 - 1} \exp \left( -\frac{\theta}{2} \left( \sum_{i=1}^{n} x_i^2 + b \right) \right) d\theta
+\]
+
+This simplifies to:
+
+\[
+p(y | x) \propto \int_0^\infty \theta^{(n + a)/2} \exp \left( -\frac{\theta}{2} \left( y^2 + \sum_{i=1}^{n} x_i^2 + b \right) \right) d\theta
+\]
+
+The integral is in the form of the Gamma distribution, and after solving, Get the predictive distribution:
+
+\[
+p(y | x) = \frac{\Gamma\left( \frac{n + a + 1}{2} \right)}{\Gamma\left( \frac{n + a}{2} \right)} \left( \frac{1}{n + a} \right)^{1/2} \left( y^2 + \sum_{i=1}^{n} x_i^2 + b \right)^{(n + a)/2}
+\]
+
+Thus, the predictive distribution for \( y \) is:
+
+\[
+p(y | x) = \frac{\Gamma\left( \frac{n + a + 1}{2} \right)}{\Gamma\left( \frac{n + a}{2} \right)} \left( \frac{1}{n + a} \right)^{1/2} \left( y^2 + \sum_{i=1}^{n} x_i^2 + b \right)^{(n + a)/2}
+\]
+
+
+
+\end{document}

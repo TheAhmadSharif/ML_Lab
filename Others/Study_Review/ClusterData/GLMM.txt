@@ -1,0 +1,13 @@
+Generalized Linear Mixed Model
+
+
+
+What is Generalized Linear Mixed Model (GLMM)
+Share a most naive example with data for GLMM
+
+
+
+
+A Generalized Linear Mixed Model (GLMM) is an extension of the Generalized Linear Model (GLM), which incorporates both fixed effects and random effects. The fixed effects represent the systematic influence of the variables on the dependent variable, while the random effects account for variability between different groups or subjects that are not explicitly modeled by the fixed effects.
+
+In GLMMs, the dependent variable is assumed to come from a distribution in the exponential family (like normal, Poisson, or binomial), which allows it to handle a wide range of data types (e.g., continuous, binary, count data). The model accounts for the correlation of observations within groups, which is useful when data are clustered or hierarchical.

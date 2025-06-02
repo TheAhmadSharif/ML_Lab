@@ -1,0 +1,63 @@
+
+https://github.com/shubhamlal11/Titanic-data-analysis/blob/master/titanic_data.csv
+
+https://medium.com/@petergylyscolwell/trying-different-model-architectures-on-titanic-dataset-3bb8a8f1854c
+
+Titanic.csv
+PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+1,0,3,"Braund, Mr. Owen Harris",male,22,1,0,A/5 21171,7.25,,S
+2,1,1,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,38,1,0,PC 17599,71.2833,C85,C
+3,1,3,"Heikkinen, Miss. Laina",female,26,0,0,STON/O2. 3101282,7.925,,S
+4,1,1,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,35,1,0,113803,53.1,C123,S
+5,0,3,"Allen, Mr. William Henry",male,35,0,0,373450,8.05,,S
+6,0,3,"Moran, Mr. James",male,,0,0,330877,8.4583,,Q
+
+
+
+
+Variable	Definition	Key
+survival	Survival	0 = No, 1 = Yes
+pclass	Ticket class	1 = 1st, 2 = 2nd, 3 = 3rd
+sex	Sex	
+Age	Age in years	
+sibsp	# of siblings / spouses aboard the Titanic	
+parch	# of parents / children aboard the Titanic	
+ticket	Ticket number	
+fare	Passenger fare	
+cabin	Cabin number	
+embarked	Port of Embarkation	C = Cherbourg, Q = Queenstown, S = Southampton
+Variable Notes
+pclass: A proxy for socio-economic status (SES)
+1st = Upper
+2nd = Middle
+3rd = Lower
+
+age: Age is fractional if less than 1. If the age is estimated, is it in the form of xx.5
+
+sibsp: The dataset defines family relations in this way...
+Sibling = brother, sister, stepbrother, stepsister
+Spouse = husband, wife (mistresses and fiancés were ignored)
+
+parch: The dataset defines family relations in this way...
+Parent = mother, father
+Child = daughter, son, stepdaughter, stepson
+Some children travelled only with a nanny, therefore parch=0 for them.
+
+
+import pandas as pd
+import os
+
+def load_data():
+
+    env_name = os.environ.get('KAGGLE_KERNEL_RUN_TYPE', 'Localhost')
+    if env_name == "Localhost":
+        df = pd.read_csv('../datasets/New/Titanic.csv', low_memory=False)
+    else:
+        df = pd.read_csv("/kaggle/input/Titanic/Titanic.csv")
+    return df
+
+
+Instructions: 
+1. List Total survivor based on their age, sex
+2. Use reuseable function
+3. Use bar chart Ploypy Library

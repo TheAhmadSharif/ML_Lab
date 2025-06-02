@@ -1,0 +1,132 @@
+————————————————————————
+Lecture 01
+————————————————————————
+
+Where Machine Intelligence Ends
+and Human Creativity Begins
+
+
+
+Text Analysis and Natural Language Processing
+
+
+Marginal Probability
+Conditional Probability
+Chain rule
+Bayes Rule
+
+
+Cloud Solution: Pre-installed software ready to use.
+
+Python 3.8
+
+
+Anaconda
+
+Can we get all NLP feature in mini-Anaconda
+
+
+————————————————————————
+Lecture 3:
+————————————————————————
+Prune the word
+
+Concordance
+
+Identifying Collocations:
+
+
+Two sample unpaired t-test
+
+
+Euclidean Distance
+Cosine Similarity
+
+
+Zipf's Law Explained
+
+https://www.youtube.com/watch?v=4dofBw9r0P4
+
+Lecture 4:
+————————————————————————
+
+Document Representation
+
+
+How many standard deviation
+
+
+TF-IDF
+
+
+Document Clustering
+
+
+Binary Vector
+
+
+
+
+TF-IDF
+
+It helps to find important words in a document
+
+https://www.learndatasci.com/glossary/tf-idf-term-frequency-inverse-document-frequency/#:~:text=Term%20Frequency%20%2D%20Inverse%20Document%20Frequency%20(TF%2DIDF)%20is,%2C%20relative%20to%20a%20corpus).
+
+What is TF-IDF?
+Term Frequency - Inverse Document Frequency (TF-IDF) is a widely used statistical method in natural language processing and information retrieval. It measures how important a term is within a document relative to a collection of documents (i.e., relative to a corpus). Words within a text document are transformed into importance numbers by a text vectorization process. There are many different text vectorization scoring schemes, with TF-IDF being one of the most common.
+
+
+Lecture 7:
+————————————————————————
+
+Hidden Markov Model
+
+
+
+Forward
+
+19 September 2023
+————————————————————————
+
+
+Prune vocabulary
+—————————————————
+ to cut off or cut back parts of for better shape or more fruitful growth. prune the branches. intransitive verb. : to cut away what is unwanted or superfluous.
+
+
+
+Zips Law
+
+
+————————————————————————
+Lecture 08
+————————————————————————
+
+probabilistic context-free grammar
+
+————————————————————————
+Lecture 11
+————————————————————————
+
+
+
+————————————————————————
+Lecture 12
+————————————————————————
+
+
+
+
+t-distributions Stochastic Neighbor Embedding
+
+Word embedding : Common in Neural Networking
+
+
+Continuous bag of words (CBOW) Model
+
+Skip-Gram-Model
+
+CBOW model
+
+Paragraph Vector Model

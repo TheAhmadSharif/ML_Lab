@@ -1,0 +1,12 @@
+Question: 3
+
+1. Interpretation of Models
+Model 1 (Nominal Model: fit.nb.color)
+
+
+The model coefficients for colors 2, 3, and 4 are not statistically significant no difference with reference and the other colors. The p-values for factor(color)2, factor(color)3, and factor(color)4 are greater than 0.05. That means no significance
+
+
+Model 2 (Quantitative Model: fit.nb.color2)
+
+The coefficient for color is -0.2689 and  p-value is 0.0282, which is significant at the 0.05 level. This suggests that there is a significant linear effect of color on the response variable (y)

@@ -1,0 +1,61 @@
+Expected value E(Y ) = µ = µ(x, β)
+Population Mean
+
+
+The probability density function (PDF) is a statistical expression that defines the probability that some outcome will occur.
+
+
+probability density function
+–––––––––––––––––––––––––––––––
+In probability theory, a probability density function, density function, or density of an absolutely continuous random variable, is a function whose value at any given sample in the sample space can be interpreted as providing a relative likelihood that the value of the random variable would be equal to that sample.
+
+
+Interaction effect
+–––––––––––––––––––––––––––––––
+Certainly! Let's consider a simple example to illustrate the interaction effect in a practical scenario. This will involve a hypothetical experiment on plant growth, where we look at the effects of sunlight and water, two common factors that influence plant growth.
+
+### Hypothetical Scenario:
+Suppose we want to understand how different amounts of sunlight and water affect the growth of plants. We set up an experiment with two variables:
+1. **Sunlight**: Two levels - "Low" and "High"
+2. **Water**: Two levels - "Low" and "High"
+
+We measure the growth of plants in centimeters after a fixed period under each combination of sunlight and water conditions.
+
+### Data:
+Here is what the experimental data might look like:
+
+| Sunlight | Water | Plant Growth (cm) |
+|----------|-------|-------------------|
+| Low      | Low   | 5                 |
+| Low      | High  | 15                |
+| High     | Low   | 10                |
+| High     | High  | 30                |
+
+### Analysis without Interaction:
+If we model this without considering the interaction between sunlight and water, we might conclude:
+- **Sunlight**: Plants generally grow more with high sunlight.
+- **Water**: Plants generally grow more with more water.
+
+### Adding Interaction:
+Now, let's consider the interaction. Notice that while each factor alone increases growth, the combination of "High" sunlight and "High" water seems to boost growth more than what would be expected by simply adding the effects of high sunlight and high water separately. The growth is not merely additive but multiplicative - plants in high sunlight and high water conditions grow to 30 cm, significantly more than in any other conditions.
+
+### Simple Linear Model Representation:
+Here's how we might set up a linear model for this, including an interaction term:
+
+\[ \text{Plant Growth} = \beta_0 + \beta_1(\text{Sunlight High}) + \beta_2(\text{Water High}) + \beta_3(\text{Sunlight High} \times \text{Water High}) + \epsilon \]
+
+### Model Coefficients (Hypothetical Values):
+- \( \beta_0 \) (Intercept, Low Sunlight & Low Water): 5 cm
+- \( \beta_1 \) (Effect of High Sunlight, no interaction): +5 cm
+- \( \beta_2 \) (Effect of High Water, no interaction): +10 cm
+- \( \beta_3 \) (Interaction effect of High Sunlight and High Water): +10 cm
+
+### Interpreting the Coefficients:
+- **Without Interaction**: Just adding High Sunlight or High Water results in expected growths of 10 cm (5 + 5) and 15 cm (5 + 10) respectively.
+- **With Interaction**: For High Sunlight and High Water, the expected growth is:
+  \[ 5 (\text{Base}) + 5 (\text{Sunlight}) + 10 (\text{Water}) + 10 (\text{Interaction}) = 30 \text{ cm} \]
+
+This interaction term indicates that the effect of having both high sunlight and high water is greater than the sum of their individual effects. The model shows that plants benefit disproportionately when both conditions are optimal, illustrating a significant interaction effect.
+
+### Conclusion:
+This example shows how interaction effects are crucial for understanding complex dependencies between variables in a model. Ignoring such interactions can lead to oversimplified interpretations and potentially misleading conclusions.

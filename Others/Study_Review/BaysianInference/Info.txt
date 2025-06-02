@@ -1,0 +1,104 @@
+Ahmad Sharif is inviting you to a scheduled Zoom meeting.
+
+Topic: Ahmad Sharif's Personal Meeting Room
+
+Join Zoom Meeting
+https://tuni.zoom.us/j/6017209789
+
+Meeting ID: 601 720 9789
+
+---
+
+One tap mobile
++46850539728,,6017209789# Sweden
++46844682488,,6017209789# Sweden
+
+---
+
+Dial by your location
+• +46 850 539 728 Sweden
+• +46 8 4468 2488 Sweden
+• +46 8 5016 3827 Sweden
+• +46 8 5050 0828 Sweden
+• +46 8 5050 0829 Sweden
+• +46 8 5052 0017 Sweden
+
+Meeting ID: 601 720 9789
+
+Find your local number: https://tuni.zoom.us/u/cdheBNIsGt
+
+---
+
+Join by SIP
+6017209789@109.105.112.236
+• 6017209789@109.105.112.235
+
+---
+
+Join by H.323
+• 109.105.112.236
+• 109.105.112.235
+
+Meeting ID: 601 720 9789
+
+
+
+
+
+https://moodle.tuni.fi/mod/lti/view.php?id=2657681
+
+
+Hi,
+
+How can I help you? Can you share your specifics?
+
+
+What is kernal
+What is conjugate prior
+
+What is kernels of distributions 
+
+In some contexts, the term "kernel" refers to the shape or mathematical expression that defines a probability distribution. 
+
+
+How to find a kernal of a distributin
+
+
+What is the kernal of Binomial distributions
+What is the kernal of Poisson distributions in Baysian statistics
+
+Does Kernal and probobility mass function are same
+
+
+
+Gamma Distribution
+Inverse Gamma Distribution
+Binomial Beta Distribution
+
+
+What is normalizing constant in Baysian Inference
+
+
+Share BUGS (or JAGS or STAN) codes
+
+
+1. Data from a 1991 Gallup opinion poll about the morality of President Bush’s not helping
+Iraqi rebel groups after the formal end of the Gulf War.
+Of the 751 adults responding, 150 thought the President’s actions were not moral. Suppose
+we assume a noninformative Beta(0.01, 0.01) prior on the probability π that a randomly
+sampled adults would respond ’immoral’.
+
+a) Run the samples more than 5000 iterations. Obtain the posterior mean and 95%
+posterior credible interval on π. Examine the posterior density estimate for π. Repeat
+with the uniform (0,1) prior. Set the initial values: π = 0.5.
+
+
+
+b) Suppose now our sample size was only 8 with 0 adults considering the Presidential
+action immoral. Using 3 different priors on π: Beta (0.01,0.01), uniform(0,1)=Beta(1,1),
+and Beta (0.5,0.5), compare posterior means and 95% posterior credible intervals on π.
+What do you find when the sample size is small?
+
+
+c) Use the model to predict the number of replying immoral in new survey. Then, compute
+the new probability for group responding ’immoral’.

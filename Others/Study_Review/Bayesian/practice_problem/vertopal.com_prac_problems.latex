@@ -1,0 +1,223 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\author{}
+\date{}
+
+\begin{document}
+
+\begin{quote}
+\textbf{Bayesian Analysis I}, PRACTICE problems
+
+1. A major earthquake (exceeding 6.7 on the Richter scale) occurs
+immediately after one of three geological activities: a degassing burst
+(DB), an episode of intense air ionisation (IAO), or a continuous wave
+of magnetic pulsations (MP), all of which can be considered disjoint
+events.
+
+The table below shows the number of recent major earthquakes in San
+Francisco that have occurred following each of these three geological
+activities:
+\end{quote}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.5000}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.5000}}@{}}
+\toprule()
+\begin{minipage}[b]{\linewidth}\raggedright
+Geological activity
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Number of earthquakes
+\end{minipage} \\
+\midrule()
+\endhead
+\begin{minipage}[t]{\linewidth}\raggedright
+\begin{quote}
+DB\\
+IAO\\
+MP
+\end{quote}\strut
+\end{minipage} & \begin{minipage}[t]{\linewidth}\raggedright
+\begin{quote}
+6\\
+3\\
+1
+\end{quote}\strut
+\end{minipage} \\
+\bottomrule()
+\end{longtable}
+
+\begin{quote}
+Past studies show that a major earthquake in San Francisco will occur
+with probability 0.5, 0.3 and 0.2 if DB, IAO and MP are observed
+(respectively).
+
+a) Find the probability that a major earthquake will occur in San
+Francisco.
+
+b) Suppose an earthquake of magnitude 7.1 occurs in San Francisco. Find
+the poste-rior probability distribution for the geological activities.
+Express your answers in the form \emph{l/}41\emph{, m/}41 and
+\emph{n/}41, where \emph{l, m} and \emph{n} are to be found.
+
+2. Suppose that we have a random sample \emph{Xi, i} = 1\emph{,}
+2\emph{, ...,} 50 from a distribution with the following probability
+density function:
+\end{quote}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.5000}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.5000}}@{}}
+\toprule()
+\begin{minipage}[b]{\linewidth}\raggedright
+\emph{f}(\emph{x\textbar θ}) =\emph{θx}2 \emph{e−θ/x}
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+\begin{quote}
+\emph{x, θ \textgreater{}} 0
+\end{quote}
+\end{minipage} \\
+\midrule()
+\endhead
+\bottomrule()
+\end{longtable}
+
+\begin{quote}
+a) Find a conjugate prior distribution for \emph{θ}.
+
+b) Identify its resulting posterior distribution for \emph{θ}.
+
+c) Find the posterior mean given the sample.
+
+3. Let \emph{Y} have binomial distribution with parameters \emph{n} = 3
+and \emph{θ}, and the unknown parameter \emph{θ} is assumed to follow a
+prior distribution
+
+\emph{p}(\emph{θ}) = 27 \emph{−}75(\emph{θ −}0\emph{.}4)2 22 0 \emph{≤θ
+≤}1
+
+Calculate the posterior distribution exactly when \emph{Y} = 2\emph{.}
+
+4. We have \emph{n} = 9 observations with sample mean \emph{Y} = 12 and
+are willing to assume that the observations are independent with
+\emph{Yi\textbar µ ∼}Normal(\emph{µ,} 1\emph{/ψ}), where \emph{ψ} is a
+known precision. The distribution for \emph{µ} is assumed to be
+Normal(\emph{θ, σ}2\emph{/m}) a priori.
+
+a) Derive the posterior distribution for \emph{µ} given \emph{Y}1\emph{,
+..., Yn}.
+
+b) Let \emph{ψ} = 1. Assuming an improper flat prior by setting
+\emph{σ}2= 1\emph{, m} = 0, give a posterior 95\% equal-tailed credible
+interval for \emph{µ}.
+
+c) How does a Bayesian credible interval for \emph{µ} differ from a
+frequentist 95\% confidence interval for \emph{µ}?
+\end{quote}
+
+1
+
+\begin{quote}
+5. Suppose that we have a random sample \emph{Xi, i} = 1\emph{, ..., n}
+from a distribution with the probability density function
+\end{quote}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 10\tabcolsep) * \real{0.1667}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 10\tabcolsep) * \real{0.1667}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 10\tabcolsep) * \real{0.1667}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 10\tabcolsep) * \real{0.1667}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 10\tabcolsep) * \real{0.1667}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 10\tabcolsep) * \real{0.1667}}@{}}
+\toprule()
+\begin{minipage}[b]{\linewidth}\raggedright
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+\emph{θ}
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+1\emph{/}2
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+\begin{quote}
+\emph{−θ} 2
+\end{quote}
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+\end{minipage} \\
+\midrule()
+\endhead
+\emph{f}(\emph{x\textbar θ}) = & 2\emph{π} & & exp &
+\begin{minipage}[t]{\linewidth}\raggedright
+\begin{quote}
+2\emph{x}
+\end{quote}
+\end{minipage} & \begin{minipage}[t]{\linewidth}\raggedright
+\begin{quote}
+\emph{θ \textgreater{}} 0\emph{.}
+\end{quote}
+\end{minipage} \\
+\bottomrule()
+\end{longtable}
+
+\begin{quote}
+Taking a Gamma(\emph{a/}2\emph{,} 2\emph{/b}) as a prior distribution,
+find the density of the predictive distribution of another independent
+observation \emph{y} given \emph{X}1\emph{, ..., Xn}.
+\end{quote}
+
+2
+
+\end{document}

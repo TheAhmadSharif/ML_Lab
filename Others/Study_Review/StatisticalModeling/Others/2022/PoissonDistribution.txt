@@ -1,0 +1,94 @@
+————————————————————————
+Poisson Distribution
+————————————————————————
+The Poisson distribution deals with frequency with which an event occurs in a specific interval.
+
+Only one parameter
+No of kids you have
+Mean is equal to the variance
+Poisson -> Low success with specific time
+Events are occuring independently.
+
+
+Image result for Poisson Distribution
+The Poisson distribution is a discrete distribution that measures the probability of a given number of events happening in a specified time period.
+
+Data are counts of events.
+All events are independent.
+The average rate of occurrence does not change during the period of interest.
+
+f(x) = P(X=x) = (e-λ λx )/x!
+
+mean = variance = λ
+
+Y ~ Poisson(λ)
+Properties
+To count the number of defects of a finished product
+To count the number of deaths in a country by any disease or natural calamity
+To count the number of infected plants in the field
+To count the number of bacteria in the organisms or the radioactive decay in atoms
+To calculate the waiting time between the events.
+
+Only one parameter
+No of kids you have
+Mean is equal to the variance
+Possion -> Low success with specific time
+Events are occuring independently.
+
+
+
+Example 1: In a cafe, the customer arrives at a mean rate of 2 per min. Find the probability of arrival of 5 customers in 1 minute using the Poisson distribution formula.
+
+Solution:
+
+Given: λ = 2, and x = 5.
+
+Using the Poisson distribution formula:
+
+P(X = x) = (e-λ λx )/x!
+
+P(X = 5) = (e-2 25 )/5!
+
+P(X = 6) = 0.036
+
+Answer: The probability of arrival of 5 customers per minute is 3.6%.
+https://www.cuemath.com/data/poisson-distribution/
+The average number of homes sold by the Acme Realty company is 2 homes per day. What is the probability that exactly 3 homes will be sold tomorrow?
+
+
+
+Example 1: A small business receives on average 12 customers a day
+
+a) What is the probabiltiy that the business will receive exactly 8 customers in one fay?
+
+
+Example 2: A student receives, 7 text messages in 2 hours perid.
+
+a) What is the probability that the student will recive exactly 9 messges in a 2 hours period?
+
+b) What is the probability that the student will recive exactly 24 messges in a 2 hours period?
+
+
+
+Somebody tried to commit suicide. MOst people do not try to commit suicide these are not normally distributed.
+
+
+
+Three component in GLM.
+1. Systemic Component  y = ax + b + e;
+2. Link function
+
+Link function is nothring but mathematical function
+y = x^2
+y = 1/(x+10)
+y = log(x)
+
+
+———————————————————————————————
+Cumulative Poisson Probability
+———————————————————————————————
+A cumulative Poisson probability refers to the probability that the Poisson random variable is greater than some specified lower limit and less than some specified upper limit.
+
+Cumulative Poisson Example
+
+Suppose the average number of lions seen on a 1-day safari is 5. What is the probability that tourists will see fewer than four lions on the next 1-day safari?

@@ -1,0 +1,35 @@
+
+# Lemmatize
+lemmatizer = WordNetLemmatizer()
+for word in book_word_list:
+    l = lemmatizer.lemmatize(word).lower()
+    nltk_text = nltk.Text(l)
+    crawled_lemmatize_word_list.append(l)
+
+
+# Find the vocabulary of each document
+for k in range(len(mycrawled_lemmatizedtexts)):
+    # Get unique words and where they occur
+    temptext=mycrawled_lemmatizedtexts[k]
+    uniqueresults=numpy.unique(temptext,return_inverse=True)
+    uniquewords=uniqueresults[0]
+    wordindices=uniqueresults[1]
+    # Store the vocabulary and indices of document words in it
+    myvocabularies.append(uniquewords)
+    myindices_in_vocabularies.append(wordindices)
+
+myvocabularies[0]
+
+
+
+my_vocabularies=[]
+my_indices_in_vocabularies=[]
+for k in range(len(crawled_lemmatize_word_list)):
+    temp_text = crawled_lemmatize_word_list[k]
+    unique_results = numpy.unique(temp_text,return_inverse = True)
+    unique_words = unique_results[0]
+    word_indices = unique_results[1]
+    my_vocabularies.append(unique_words)
+    my_indices_in_vocabularies.append(word_indices)
+
+my_vocabularies[0]

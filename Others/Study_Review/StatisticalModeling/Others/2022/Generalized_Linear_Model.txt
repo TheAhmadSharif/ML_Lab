@@ -1,0 +1,39 @@
+Generalized Linear Normal Model
+
+
+Exponential Model
+
+
+Gamma and Inverse Gaussian Generalized Linear Models
+
+
+Beta Distribution Models
+
+
+Beta distribution is suitable in modeling situations when the considered response variable can naturally habve valeus between ingerval (a, b)
+
+
+Newton-Raphson And Fisher
+
+
+Interaction Effects
+When relationship between one variable to another variable is depend on level of third variable
+
+
+Happiness and position
+
+Testing in Generalized Linear Models
+Wald Test Statistic
+
+The Wald test (a.k.a. Wald Chi-Squared Test) is a parametric statistical measure to confirm whether a set of independent variables are collectively 'significant' for a model or not.
+
+
+
+
+
+A variable is said to be ‘significant’ if that variable adds some incremental value to the model. Variables which fail to add value to the model, can be omitted without affecting the model in any meaningful way.
+
+The Wald test (also called the Wald Chi-Squared Test) is a way to find out if explanatory variables in a model are significant. “Significant” means that they add something to the model; variables that add nothing can be deleted without affecting the model in any meaningful way. The test can be used for a multitude of different models including those with binary variables or continuous variables.
+
+If the Wald test shows that the parameters for certain explanatory variables are zero, you can remove the variables from the model.
+If the test shows the parameters are not zero, you should include the variables in the model

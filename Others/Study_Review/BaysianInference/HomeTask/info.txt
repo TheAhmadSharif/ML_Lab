@@ -1,0 +1,83 @@
+In Olympic games there may be potential benefits that a host country may experience
+in terms of performance and support. We want to explore such an advantage by examining
+the rate of medals per participant in the host year compared to their previous Olympics.
+
+
+Host country		Year
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+Host country	Year	Medals Won Previous	Won Host	Participants Previous	Host
+Finland 	1952	24	22	129	258
+Australia	1956	11	35	81	294
+Italy	1960	25	36	135	280
+Japan	1964	18	29	162	328
+Mexico	1968	1	9	94	275
+West Germany	1972	26	40	275	423
+Canada	1976	5	11	208	385
+Soviet Union	1980	125	195	410	489
+United States	1984	94	174	396	522
+South Korea	1988	19	33	175	401
+Spain	1992	4	22	229	422
+United States	1996	108	101	545	647
+Australia	2000	41	58	417	617
+Greece	2004	13	16	140	426
+China	2008	63	100	384	599
+Great Britain	2012	47	65	304	530
+Brazil	2016	17	19	236	462
+Japan	2021	41	51	395	621
+
+Let Xi1 be the number of medals won by the host country during the Olympics i and Xi0
+be the number of medals won by the county in the previous Olympics. Similarly, let Ni0
+and Ni1 be the number of participants from the country in the corresponding Olympics.
+For example, Finland hosted the Olympics in 1952. They had N11 = 258 participants in
+1952 and N10 = 129 participants in the 1948; they won X11 = 22 medals in 1952 and
+X10 = 24 medals in the 1948.
+
+
+Let Xi1 be the number of medals won by the host country during the Olympics i and Xi0
+be the number of medals won by the county in the previous Olympics. Similarly, let Ni0
+and Ni1 be the number of participants from the country in the corresponding Olympics.
+For example, Finland hosted the Olympics in 1952. They had N11 = 258 participants in
+1952 and N10 = 129 participants in the 1948; they won X11 = 22 medals in 1952 and
+X10 = 24 medals in the 1948.
+a) To assess broadly for a host country advantage, first combine data across all years for
+P
+P18
+the host county in the host year, X1 = 18
+i=1 Xi1 and N1 =
+i=1 Ni1 .
+Conduct a Bayesian analysis of λ1 , the expected number of medals per participant in their
+home country, assuming a Poisson sampling model, Poisson(N1 λ1 ) and the prior distribu-
+tion Gamma(0.1, rate=0.1). (Note : Gamma(0.1, rate=0.1) = Gamma(0.1, scale=10) :
+parametrization used in our course.)
+P18
+Repeat this analysis using the data from the previous year, X0 =
+i=1 Xi0 and N0 =
+P18
+N
+to
+do
+analysis
+of
+λ
+.
+Compare
+these
+two
+posterior
+distributions
+in a figure.
+
+
+
+b) Conduct a Bayesian test of the hypothesis that there is a home-county advantage, λ1 >
+λ0 , i.e. compute the the posterior probability that λ1 > λ0 . (Direct sampling through
+Monte Carlo simulation with e.g. 100,000 sampling offers one easy method to approximate
+such a probability.)
+Are your results sensitive to the prior? Compute the posterior probability over (3-4) different
+sets of hyper-prior parameters.
+
+c) Choose 5 different countries and conduct an analysis separately by country by comparing
+the posterior distribution of the ratio r = λ1 /λ0 for each county. Is there evidence that the
+home-country advantage differs by country?
+(Combine the data across the two Olympics for Australia, Japan and USA. Then there are
+a total of 15 counties.)

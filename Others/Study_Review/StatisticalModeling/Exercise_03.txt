@@ -1,0 +1,124 @@
+##################### Exercise 03 #####################
+
+Alba<-read.table("Alba.txt", sep="\t", dec=".", header=TRUE)
+attach(Alba)
+head(Alba)
+
+plot(Dose, DryMatter)
+
+# a) Midentity : µi = β0 + β1 xi1 + αj + γj xi1 ,
+
+model_identity<-glm(DryMatter~Dose*factor(Herbicide), family=gaussian(link="identity"), data = Alba)
+model_log <- glm(DryMatter ~ Dose * factor(Herbicide), family = gaussian(link="log"), data = Alba)
+model_inverse <- glm(DryMatter ~ Dose * factor(Herbicide), family = gaussian(link="inverse"), data = Alba)
+model_mu2 <- glm(DryMatter ~ Dose * factor(Herbicide), family = gaussian(link="1/mu^2"), data = Alba)
+
+
+model.matrix(model_inverse)
+
+summary(model_identity)
+summary(model_log)
+summary(model_inverse)
+summary(model_mu2)
+
+MSE_1 <- mean(residuals(model_identity, type="response")^2)
+MSE_2 <- mean(residuals(model_log, type="response")^2)
+MSE_3 <- mean(residuals(model_inverse, type="response")^2)
+MSE_4 <- mean(residuals(model_mu2, type="response")^2)
+
+print(MSE_1)
+print(MSE_2)
+print(MSE_3)
+print(MSE_4)
+
+# Inverse is better as it is lowest 0.2693486
+
+
+##################### Exercise 3 > 1 > B #####################
+# b) Let us assume Yi ∼ N (µi , σ 2 ). Consider the model
+# M: g(µi ) = β0 + β1 xi1 + αj + γj xi1 .
+# Choose the link function g based on your solution to (a). Calculate the maximum likelihood estimate for the
+# expected value µi∗ when X1 = 50 and X2 = Glyphosate.
+
+
+newdata <- data.frame(Dose = 50, Herbicide = "Glyphosate")
+newdata
+
+pred <- predict(model_inverse, newdata = newdata, type="response")
+pred # 2.617399
+
+##################### Exercise 3 > 1 > C #####################
+ Choose the link function g based on your solution to (a). Calculate the 95% confidence interval estimate for the expected value
+# µi∗ when X1 = 50 and X2 = Glyphosate. Particularly, what is your obtained lower bound of the confidence interval?
+# model_inverse <- glm(DryMatter ~ Dose * factor(Herbicide), family = gaussian(link="inverse"), data = data)
+
+newdata <- data.frame(Dose = 50, Herbicide = "Glyphosate")
+pred <- predict(model_inverse, newdata = newdata, type = "link", se.fit = TRUE)
+lower <- pred$fit - 1.96 * pred$se.fit
+lower
+lower_ <- 1/lower
+lower_ # 2.905725
+
+##################### Exercise 3 > 1 > D #####################
+
+
+# Var.ef # Variance of Effect
+
+
+model.matrix(model_inverse)
+xf <- t(t(c(1,50,1,50)))
+phi <- summary(model_inverse)$dispersion
+DF <- -(pred^2)
+variance_effect <- phi +(DF^2)*t(xf) %*% vcov(model_inverse) %*% xf
+
+lower.yf <- pred - qnorm(0.9) * sqrt(variance_effect)
+
+
+
+Lower Bound = Predicted Value − Z × √Variance of the Effect
+
+###############################################################
+
+
+data <- read.csv("ratstime.txt", header = TRUE, sep = "\t")
+attach(data)
+head(data)
+
+model_identity <- glm(time ~ poison + treat, family = gaussian(link="identity"), data = data)
+model_log <- glm(time ~ poison + treat, family = gaussian(link="log"), data = data)
+model_inverse <- glm(time ~ poison + treat, family = gaussian(link="inverse"), data = data)
+
+MSE_1 <- mean(residuals(model_identity)^2)
+MSE_2 <- mean(residuals(model_log)^2)
+MSE_3 <- mean(residuals(model_inverse)^2)
+
+MSE_1 # 0.02189297
+MSE_2 # 0.0187694
+MSE_3 # 0.01866069 ***
+
+interaction.plot(poison,treat, fitted(model_identity))
+interaction.plot(poison,treat, fitted(model_log))
+interaction.plot(poison,treat, fitted(model_inverse))
+
+
+# c) ###############
+
+
+model_log <- glm(time ~ poison + treat, family = gaussian(link="log"), data = data)
+newdata <- data.frame(poison = "II", treat = "B")
+
+pred <- predict(model_log, newdata = newdata, type="link", se.fit =TRUE)
+lower <- pred$fit - 1.96 * pred$se.fit
+exp(lower) # 0.6847237 Becuase its log model family
+
+
+# d) ###############
+
+newdata <- data.frame(poison = "II", treat = "B")
+pred <- predict(model_inverse, newdata = newdata, type="link", se.fit =TRUE)
+pred
+pred <- pred$fit - qnorm(.9) * pred$se.fit
+pred
+mu <- 1/pred
+mu # 0.9033017 # Correct is 1.911119
+highter_mu #  3.3236

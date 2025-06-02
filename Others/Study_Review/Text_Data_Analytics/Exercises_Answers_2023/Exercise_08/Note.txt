@@ -1,0 +1,7 @@
+Hidden Markov Model
+
+Markov: Russian Mathematician
+
+Forward Backward Algorithm
+Viterbi Algorithm
+Baum-Welch Algorithm

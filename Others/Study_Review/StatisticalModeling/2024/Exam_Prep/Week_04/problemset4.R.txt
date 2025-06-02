@@ -1,0 +1,246 @@
+### Statistical Modeling 1
+### Problem set 4
+### 2024
+
+############################
+### Question 1
+
+
+data<-read.table("ozone.txt", sep="\t", dec=".", header=TRUE)
+attach(data)
+
+plot(rad, ozone)
+plot(temp, ozone)
+plot(wind,ozone)
+
+## a)
+
+model<-glm(ozone~rad+temp+wind, family=gaussian(link="identity"), data=data)
+summary(model)
+plot(fitted(model,type="response"),ozone)
+lines(c(-100,200),c(-100,200))
+
+
+model.l<-glm(ozone~rad+temp+wind, family=gaussian(link="log"), data=data)
+summary(model.l)
+plot(fitted(model.l,type="response"),ozone)
+lines(c(-100,200),c(-100,200))
+
+
+model.i<-glm(ozone~rad+temp+wind, family=gaussian(link="inverse"), data=data)
+summary(model.i)
+plot(fitted(model.i,type="response"),ozone)
+lines(c(-100,200),c(-100,200))
+
+model.e<-glm(ozone~log(rad)+log(temp)+log(wind), family=gaussian(link="log"), data=data)
+summary(model.e)
+plot(fitted(model.e,type="response"),ozone)
+lines(c(-100,200),c(-100,200))
+
+
+AIC(model)
+AIC(model.l)
+AIC(model.i)
+AIC(model.e)
+
+
+## b)
+
+model.n<-glm(ozone~rad+temp+wind, family=gaussian(link="log"), data=data)
+model.g<-glm(ozone~rad+temp+wind, family=Gamma(link="log"), data=data)
+model.ig<-glm(ozone~rad+temp+wind, family=inverse.gaussian(link="log"), data=data)
+
+model0<-glm(ozone~rad, family=gaussian(link="log"), data=data)
+
+
+plot(fitted(model.n, type="response"),residuals(model.n, type="response"))
+
+plot(fitted(model0, type="response"),residuals(model0, type="response"))
+
+
+
+phi.n<-summary(model.n)$dispersion
+phi.g<-summary(model.g)$dispersion
+phi.ig<-summary(model.ig)$dispersion
+
+
+plot(fitted(model.n, type="response"),(1/phi.n)*residuals(model.n, type="pearson")^2)
+plot(fitted(model.g, type="response"),(1/phi.g)*residuals(model.g, type="pearson")^2)
+plot(fitted(model.ig, type="response"),(1/phi.ig)*residuals(model.ig, type="pearson")^2)
+
+o2<-(1/phi.n)*residuals(model.n, type="pearson")^2
+mu<-fitted(model.n, type="response")
+pearson.n<-lm(o2~mu)
+summary(pearson.n)
+
+o2<-(1/phi.g)*residuals(model.g, type="pearson")^2
+mu<-fitted(model.g, type="response")
+pearson.g<-lm(o2~mu)
+summary(pearson.g)
+
+o2<-(1/phi.ig)*residuals(model.ig, type="pearson")^2
+mu<-fitted(model.ig, type="response")
+pearson.ig<-lm(o2~mu)
+summary(pearson.ig)
+
+MSE.n<-mean(residuals(model.n, type="response")^2)
+MSE.g<-mean(residuals(model.g, type="response")^2)
+MSE.ig<-mean(residuals(model.ig, type="response")^2)
+
+
+MSE.n
+MSE.g
+MSE.ig
+
+
+## Both Normal and Gamma are justifiable. 
+
+
+## c)
+
+model.gH0<-glm(ozone~rad+temp, family=Gamma(link="log"), data=data)
+anova(model.gH0, model.g, test="F")
+
+## d)
+
+library(multcomp)
+
+summary(model.g)
+X<-model.matrix(model.g)
+head(X)
+
+k<-c(0,0,1,1)
+k<-t(t(k))
+
+testing<-glht(model.g, linfct = t(k))
+summary(testing)
+summary(testing, Chisqtest())
+
+par(mfrow=c(2,2))
+plot(model.g,which=1:4)
+
+
+############################
+### Question 2
+
+
+data<-read.table("denim.txt", sep="\t", dec=".", header=TRUE)
+attach(data)
+
+library(rgl)
+plot3d(Laundry, Denim, Abrasion, type = "s", size = 0.75, lit = FALSE)
+
+## a)
+
+model1<-glm(Abrasion~Laundry+factor(Denim), family=gaussian(link="identity"), data=data)
+model2<-glm(Abrasion~Laundry*factor(Denim), family=gaussian(link="identity"), data=data)
+model3<-glm(Abrasion~Laundry+factor(Denim), family=gaussian(link="log"), data=data)
+model4<-glm(Abrasion~Laundry*factor(Denim), family=gaussian(link="log"), data=data)
+model5<-glm(Abrasion~Laundry+factor(Denim), family=gaussian(link="inverse"), data=data)
+model6<-glm(Abrasion~Laundry*factor(Denim), family=gaussian(link="inverse"), data=data)
+
+AIC(model1)
+AIC(model2)
+AIC(model3)
+AIC(model4)
+AIC(model5)
+AIC(model6)
+
+## b)
+
+
+model.n<-glm(Abrasion~Laundry+factor(Denim), family=gaussian(link="inverse"), data=data)
+model.g<-glm(Abrasion~Laundry+factor(Denim), family=Gamma(link="inverse"), data=data)
+model.ig<-glm(Abrasion~Laundry+factor(Denim), family=inverse.gaussian(link="inverse"), data=data)
+
+plot(fitted(model.n, type="response"),residuals(model.n, type="response"))
+
+phi.n<-summary(model.n)$dispersion
+phi.g<-summary(model.g)$dispersion
+phi.ig<-summary(model.ig)$dispersion
+
+plot(fitted(model.n, type="response"),(1/phi.n)*residuals(model.n, type="pearson")^2)
+plot(fitted(model.g, type="response"),(1/phi.g)*residuals(model.g, type="pearson")^2)
+plot(fitted(model.ig, type="response"),(1/phi.ig)*residuals(model.ig, type="pearson")^2)
+
+o2<-(1/phi.n)*residuals(model.n, type="pearson")^2
+mu<-fitted(model.n, type="response")
+pearson.n<-lm(o2~mu)
+summary(pearson.n)
+
+o2<-(1/phi.g)*residuals(model.g, type="pearson")^2
+mu<-fitted(model.g, type="response")
+pearson.g<-lm(o2~mu)
+summary(pearson.g)
+
+o2<-(1/phi.ig)*residuals(model.ig, type="pearson")^2
+mu<-fitted(model.ig, type="response")
+pearson.ig<-lm(o2~mu)
+summary(pearson.ig)
+
+MSE.n<-mean(residuals(model.n, type="response")^2)
+MSE.g<-mean(residuals(model.g, type="response")^2)
+MSE.ig<-mean(residuals(model.ig, type="response")^2)
+
+MSE.n
+MSE.g
+MSE.ig
+
+## Normal Distribution 
+
+## c)
+
+newdata<-data.frame(Laundry=c(0,25),Denim=c(1,3))
+pred<-predict(model.n, newdata=newdata, type="response")
+pred
+
+summary(model.n)
+
+x1f<-cbind(c(1,0,0,0)) ### 
+x2f<-cbind(c(1,25,0,1)) ## 
+
+Xf<-t(cbind(x1f,x2f))
+
+k<-cbind(c(-1,1))
+
+phi<-summary(model.n)$dispersion
+Var.Y1f<-phi
+Var.Y2f<-phi
+
+D.f<-diag(-(pred^2))   ####!!!!!!!!!
+
+Var.ef<-Var.Y1f+Var.Y2f+t(k)%*%D.f%*%Xf%*%vcov(model.n)%*%t(Xf)%*%D.f%*%k
+
+Q<-(pred[2]-pred[1])/sqrt(Var.ef)
+Q
+d<-2*pnorm(abs(Q), lower.tail = FALSE)
+d
+
+## d)
+
+
+
+model.nH0<-glm(Abrasion~Laundry, family=gaussian(link="inverse"), data=data)
+anova(model.nH0, model.n, test="F")
+
+
+############################
+### Question 3
+
+
+
+phi<-0.05
+betahat<-t(t(c(1,0.5)))
+X<-cbind(1,log(rep(c(3,6,9), each=3)))
+link.hat<-X%*%betahat
+mu.hat<-exp(link.hat)
+D<-diag(as.numeric(mu.hat))
+Var.Y<-phi*mu.hat^3
+V<-diag(as.numeric(Var.Y))
+W<-D%*%solve(V)%*%D
+W
+cov.betahat<-solve(t(X)%*%W%*%X)
+cov.betahat
+
+
+

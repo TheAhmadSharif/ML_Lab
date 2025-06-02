@@ -1,0 +1,217 @@
+### Statistical Modeling 1
+### Problem set 2
+### 2024
+
+############################
+### Question 1
+
+data<-read.table("makiwaraboard.txt", sep="\t", dec=".", header=TRUE)
+attach(data)
+
+oldvals<-unique(WoodType)
+x1<-match(WoodType, oldvals)
+
+oldvals<-unique(BoardType)
+x2<-match(BoardType, oldvals)
+
+# a)
+
+model.main<-lm(Deflection~factor(WoodType)+factor(BoardType))
+summary(model.main)
+interaction.plot(WoodType, BoardType, fitted(model.main))
+
+betahat<-coef(model.main)
+
+k1<-c(0,1,0,0,0)
+k2<-c(0,0,0,1,0)
+K<-cbind(k1,k2)
+
+q<-2
+Wald<-(t(t(K)%*%betahat)%*%solve(t(K)%*%vcov(model.main)%*%K)%*%t(K)%*%betahat)/q
+Wald
+p.value<-pf(Wald, q, summary(model.main)$df[2], lower.tail = FALSE)
+p.value
+
+
+# b)
+
+newdata<-data.frame(WoodType=c("Oak","Cherry"), BoardType=c("Tapered","Stacked"))
+predict(model.main, newdata=newdata)
+
+x1<-cbind(c(1,1,0,0,0)) ### Cherry and Stacked
+x2<-cbind(c(1,0,0,1,1)) ## Oak and Tapered
+betahat<-cbind(coef(model.main))
+
+pred<-(t(x2)-t(x1))%*%betahat
+pred
+
+sigma2<-sigma(model.main)^2
+X<-model.matrix(model.main)
+
+# Predictive hypothesis testing - d-value
+
+T<-pred/sqrt(sigma2*(2+(t(x2)-t(x1))%*%solve(t(X)%*%X)%*%(x2-x1)))     
+
+d<-2*pt(abs(T),df=summary(model.main)$df[2], lower.tail = FALSE)
+d
+
+# Wald test for mean difference
+
+k1<-(t(x2)-t(x1))
+
+K<-t(cbind(k1))
+
+q<-1
+Wald<-(t(t(K)%*%betahat)%*%solve(t(K)%*%vcov(model.main)%*%K)%*%t(K)%*%betahat)/q
+Wald
+p.value<-pf(Wald, q, summary(model.main)$df[2], lower.tail = FALSE)
+p.value
+
+
+# c)
+
+newdata<-expand.grid(WoodType=levels(factor(WoodType)),BoardType=levels(factor(BoardType)))
+
+Xc<-model.matrix(~factor(WoodType)+factor(BoardType), data=newdata)
+
+betahat<-coef(model.main)
+
+x1mean<-(Xc[1,]+Xc[2,]+Xc[3,]+Xc[4,])/4
+x2mean<-(Xc[5,]+Xc[6,]+Xc[7,]+Xc[8,])/4
+
+x1mean%*%betahat
+x2mean%*%betahat
+
+kt<-x1mean-x2mean
+kt%*%betahat
+
+K<-cbind(kt)
+
+q<-1
+Wald<-(t(t(K)%*%betahat)%*%solve(t(K)%*%vcov(model.main)%*%K)%*%t(K)%*%betahat)/q
+Wald
+p.value<-pf(Wald, 1, summary(model.main)$df[2], lower.tail = FALSE)
+p.value
+
+
+
+############################
+### Question 2
+
+
+data<-read.table("canoladiesel.txt", sep="\t", dec=".", header=TRUE)
+attach(data)
+
+plot(Time, Yield)
+plot(Temp, Yield)
+plot(Methanol, Yield)
+
+# a)
+
+modelA<-lm(Yield~Time+Temp+Methanol,data=data)
+summary(modelA)
+
+x1<-cbind(c(1,15,240,1)) 
+x2<-cbind(c(1,45,270,2)) 
+betahat<-cbind(coef(modelA))
+
+pred<-(t(x2)-t(x1))%*%betahat
+pred
+
+sigma2<-sigma(modelA)^2
+X<-model.matrix(modelA)
+
+# Predictive hypothesis testing - d-value
+
+T<-pred/sqrt(sigma2*(2+(t(x2)-t(x1))%*%solve(t(X)%*%X)%*%(x2-x1)))     
+
+d<-2*pt(abs(T),df=summary(modelA)$df[2], lower.tail = FALSE)
+d
+
+
+
+
+# b)
+
+x6<-Time*Temp*Methanol
+
+modelB<-lm(Yield~Time*Temp*Methanol,data=data)
+summary(modelB)
+coef(modelB)[8]
+
+# c)
+
+betahat<-coef(modelB)
+
+k1<-c(0,0,0,0,1,0,0,0)
+k2<-c(0,0,0,0,0,1,0,0)
+k3<-c(0,0,0,0,0,0,1,0)
+k4<-c(0,0,0,0,0,0,0,1)
+K<-cbind(k1,k2,k3,k4)
+
+q<-4
+Wald<-(t(t(K)%*%betahat)%*%solve(t(K)%*%vcov(modelB)%*%K)%*%t(K)%*%betahat)/q
+Wald
+p.value<-pf(Wald, q, summary(modelB)$df[2], lower.tail = FALSE)
+p.value
+
+
+anova(modelA,modelB,test="F")
+
+# d)
+
+plot(fitted(modelA),residuals(modelA))
+plot(fitted(modelB),residuals(modelB))
+
+plot(Time, Yield)
+points(Time, fitted(modelA), col="red", pch=19)
+points(Time, fitted(modelB), col="blue", pch=19)
+
+plot(fitted(modelB), Yield, type="n")
+points(fitted(modelA),Yield, col="red", pch=19)
+points(fitted(modelB),Yield, col="blue", pch=19)
+lines(c(-10,110),c(-10,110))
+
+
+
+
+
+muA<-10
+delta<-3 # You should change this value
+muB<-muA+delta
+x<-rep(c("A","B"),each=100000)
+yA<-rnorm(100000, mean=muA, sd=1)
+yB<-rnorm(100000, mean=muB, sd=1)
+y<-c(yA,yB)
+model<-lm(y~factor(x))
+betahat<-coef(model)
+
+k1<-c(0,1)
+K<-cbind(k1)
+q<-1
+Wald<-(t(t(K)%*%betahat)%*%solve(t(K)%*%vcov(model)%*%K)%*%t(K)%*%betahat)/q
+Wald
+p.value<-pf(Wald, 1, 199998, lower.tail = FALSE)
+p.value
+
+x1<-cbind(c(1,0))
+x2<-cbind(c(1,1))
+pred<-(t(x2)-t(x1))%*%betahat
+sigma2<-sigma(model)^2
+X<-model.matrix(model)
+T<-pred/sqrt(sigma2*(2+(t(x2)-t(x1))%*%solve(t(X)%*%X)%*%(x2-x1)))
+d.value<-2*pt(abs(T),df=19998, lower.tail = FALSE)
+d.value
+
+hist(yA, xlim=c(5,20), col="grey", main="", freq=FALSE, xlab="y")
+hist(yB, xlim=c(5,20),add=TRUE, col="yellow", freq=FALSE)
+lines(seq(5,20,0.1),dnorm(seq(5,20,0.1), mean=betahat[1],sd=sigma(model)),
+col="black",lwd=3)
+lines(seq(5,20,0.1),dnorm(seq(5,20,0.1), mean=betahat[1]+betahat[2],sd=sigma(model)),
+col="red",lwd=3)
+
+
+sum(yA<yB)/100000
+
+
+

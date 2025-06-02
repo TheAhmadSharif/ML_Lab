@@ -1,0 +1,47 @@
+setwd("/home/ahmad/Desktop/2023_2024/2024/StatisticalModeling/Datasets")
+
+
+############################ Exercise 4 > 1 > a ############################
+
+# a)
+
+ozone <- read.csv("ozone.txt", header = TRUE, sep="\t")
+attach(ozone)
+head(ozone)
+
+model_identity <- glm(ozone ~ rad + temp + wind, data = ozone, family = gaussian(link="identity"))
+model_log <- glm(ozone ~ rad + temp + wind, data = ozone, family = gaussian(link="log"))
+model_inverse <- glm(ozone ~ rad + temp + wind, data = ozone, family = gaussian(link="inverse"))
+model_exponential <- glm(ozone ~ log(rad) + log(temp) + log(wind), data = ozone, family = gaussian(link="log"))
+
+
+AIC(model_identity) #  998.6276
+AIC(model_log) #  972.5169    *****
+AIC(model_inverse) # 999.0104
+AIC(model_exponential) #  974.9654
+
+plot(model_identity)
+plot(model_log)
+plot(model_exponential)
+plot(model_inverse)
+
+############################ Exercise 4 > 1 > b ############################
+
+model_identity_4_1_b <- glm(ozone ~ rad + temp + wind, data = ozone, family = gaussian(link="log"))
+model_identity_4_1_b <- glm(ozone ~ rad + temp + wind, data = ozone, family = Gamma(link="log"))
+model_identity_4_1_b <- glm(ozone ~ rad + temp + wind, data = ozone, family = inverse.gaussian(link="log"))
+
+MSE_identity <- mean(residuals(model_identity)^2)
+MSE_log <- mean(residuals(model_log)^2)
+MSE_inverse <- mean(residuals(model_inverse)^2)
+
+
+print(MSE_identity) # 432.1092
+print(MSE_log) # 341.5338   ****
+print(MSE_inverse) # 433.6018
+############################ Exercise 4 > 1 > c ############################
+model_log_4_1_c <- glm(ozone ~ rad + temp + wind, data = ozone, family = gaussian(link="log"))
+
+############################ Exercise 4 > 1 > c ############################
+
+head(ozone)

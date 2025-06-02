@@ -1,0 +1,19 @@
+setwd("/home/ahmad/Desktop/2023_2024/2024/StatisticalModeling/Datasets")
+
+
+############################ Exercise 5 > 1 > a ############################
+
+# a)
+
+galapagos <- read.csv("galapagos.txt", header = TRUE, sep="\t")
+attach(galapagos)
+head(galapagos)
+
+model_log <- glm(Species ~ Area + Elevation + Nearest + Scruz + Adjacent, data = galapagos, family = poisson(link="log"))
+
+summary(model_log)
+
+newdata <- data.frame(Area = 58.27, Elevation = 198, Nearest = 1.1, Scruz = 88.3, Adjacent = 0.57)
+pred <- predict(model_log, newdata = newdata, type = "response")
+pred # 27.86135
+############################ Exercise 5 > 1 > a ############################

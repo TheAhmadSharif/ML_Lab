@@ -1,0 +1,61 @@
+––––––– 31 August 2024
+
+https://andor.tuni.fi/discovery/login?vid=358FIN_TAMPO:VU1&lang=en&loginId=10176887700005973_SkwVnDuX0TIszj6
+
+
+–––– Reference Book
+1. Agresti, Alan: Foundations of linear and generalized linear models, 2015. This book is available as an e-book in our library.
+
+2. Especially Chapter 9, Modeling Correlated Responses is central for the contents of the course.
+
+3.Faraway, Julian J: Extending the linear model with R : generalized linear, mixed effects and nonparametric regression models (1st or 2nd Edition).
+
+3. Especially Chapters 10:Random Effects, 11: Repeated Measures and Longitudinal Data and 13. Mixed Effect Models for Nonnormal Responses are relevant.
+
+
+https://www.tuni.fi/studentsguide/curriculum/course-units/uta-ykoodi-48008?year=2024
+Learning Outcomes
+
+After the course, the student can apply modern statistical modeling tools especially for longitudinal data analysis and clustered data problems. The student understands the theory of linear and generalized linear mixed models and can form nonlinear mixed models under normal distribution.
+
+Longitudinal data analysis 
+Linear and generalized linear mixed models
+––––––––––––––––––––––––––––––––––––
+
+Topic: CLUSTERED DATA MODELS
+What is clustered Data in terms of Statistical Modeling?
+
+Tulen noutamaan ruoan alaovelta
+hakemaan
+
+
+–––––––– 12 October 2024k
+Longitudinal লংঙ্গি  চু ই ডু নাল  
+Placed or running lengthwise
+
+
+setwd("/home/ahmad/Desktop/2023_2024/ClusterData/Datasets")
+if (!require("nlme")) {
+  install.packages("nlme", dependencies = TRUE)
+  library(nlme)
+}
+plot(Rail)
+Rail
+
+
+plot(Orthodont)
+Orthodont
+
+
+Quasi-Likelihood Methods
+
+
+1. Can you share any project idea with Longitudinal research study ?
+2. How kinds of data do I need for R in that case?
+3. What kinds of methods are available in that case ?
+
+
+––––––––––––––––––––– 
+Explain with an example for simple Linear mixed models
+
+model <- lmer(ExamScore ~ StudyHours + (1 | School), data = your_data)

@@ -1,0 +1,197 @@
+### Statistical Modeling 1
+### Problem set 6
+### 2024
+
+############################
+### Question 1
+
+
+data<-read.table("chromoabnormal.txt", sep="\t", dec=".", header=TRUE)
+attach(data)
+
+## a)
+
+plot(ca/cells~doseamt)
+plot(ca/cells~doserate)
+coplot(ca/cells~doseamt| doserate)
+
+model.main<-glm(ca~offset(log(cells))+doseamt+doserate, family=poisson(link="log"), data=data)
+summary(model.main)
+model<-glm(ca~offset(log(cells))+doseamt+doserate+doseamt:doserate, family=poisson(link="log"), data=data)
+summary(model)
+
+model.e<-glm(ca~offset(log(cells))+log(doseamt)+log(doserate), family=poisson(link="log"), data=data)
+summary(model.e)
+
+
+
+AIC(model.main)
+AIC(model)
+
+model.matrix(model)
+
+newdata<-data.frame(cells=64070,doseamt=4, doserate=0.75)
+mu.hat<-predict(model, newdata=newdata, type="response")
+mu.hat
+
+ratio.estimate<-mu.hat/newdata$cells
+ratio.estimate
+
+xf<-t(cbind(1,4,0.75,4*0.75))
+exp(log(64070)+t(xf)%*%coef(model))
+
+exp(log(64070)+t(xf)%*%coef(model))/64070
+
+## b)
+
+newdata<-data.frame(cells=64070,doseamt=4, doserate=0.75)
+pred<-predict(model, newdata=newdata, type="response")
+pred
+
+xf<-t(cbind(1,4,0.75,4*0.75))
+
+Var.eYf<-pred*(1+pred*t(xf)%*%vcov(model)%*%xf)
+
+lower.Yf<-pred-qnorm(0.9)*sqrt(Var.eYf)
+upper.Yf<-pred+qnorm(0.9)*sqrt(Var.eYf)
+lower.Yf
+upper.Yf
+
+## c)
+
+ratio.prediction<-pred/newdata$cells
+ratio.prediction
+
+Var.eZf<-((1/newdata$cells)^2)*Var.eYf
+
+lower.Zf<-ratio.prediction-qnorm(0.9)*sqrt(Var.eZf)
+upper.Zf<-ratio.prediction+qnorm(0.9)*sqrt(Var.eZf)
+lower.Zf
+upper.Zf
+
+
+## d)
+
+model.H0<-glm(ca~offset(log(cells))+doseamt, family=poisson(link="log"), data=data)
+model.H1<-glm(ca~offset(log(cells))+doseamt*doserate, family=poisson(link="log"), data=data)
+summary(model.H1)
+anova(model.H0, model.H1, test="Chi")
+anova(model.H0, model.H1, test="Chi")$Deviance[2]
+
+## e)
+
+model.quasi<-glm(ca~offset(log(cells))+doseamt*doserate, family=quasipoisson(link="log"), data=data)
+summary(model.quasi)
+library(MASS)
+model.NB<-glm.nb(ca~offset(log(cells))+doseamt*doserate, data=data)
+summary(model.NB)
+
+MSE.i<-mean((ca-predict(model, newdata=data, type="response"))^2)
+MSE.ii<-mean((ca-predict(model.quasi, newdata=data, type="response"))^2)
+MSE.iii<-mean((ca-predict(model.NB, newdata=data, type="response"))^2)
+
+MSE.i
+MSE.ii
+MSE.iii
+
+
+plot(fitted(model, type="response"), ca)
+
+plot(fitted(model, type="response"), residuals(model, type="response"))
+
+plot(fitted(model.e, type="response"), residuals(model.e, type="response"))
+
+library(AER)
+dispersiontest(model)
+
+
+dispersiontest(model.e)
+
+model.quasi<-glm(ca~offset(log(cells))+log(doseamt)+log(doserate), family=quasipoisson(link="log"), data=data)
+
+
+############################
+### Question 2
+
+
+betablocker<-read.table("betablocker.txt", sep="\t", header=TRUE, dec=".")
+A<-cbind(betablocker[,1],betablocker[,2]-betablocker[,1]) 
+
+### a)
+
+model<-glm(A~Treatment+factor(Center), data=betablocker, family=binomial(link="logit"))
+summary(model)
+
+newdata<-data.frame(Treatment="Treated", Center=10)
+predict(model, newdata=newdata,type="response")
+
+
+### b)
+
+newdata<-data.frame(Treatment="Treated", Center=10)
+eta<-predict(model, newdata=newdata, type="link", se.fit = TRUE) 
+lowerbound<-exp(eta$fit-qnorm(0.975)*eta$se.fit)/(1+exp(eta$fit-qnorm(0.975)*eta$se.fit))
+upperbound<-exp(eta$fit+qnorm(0.975)*eta$se.fit)/(1+exp(eta$fit+qnorm(0.975)*eta$se.fit))
+lowerbound
+upperbound
+
+### c)
+
+newdata<-data.frame(Treatment=c("Treated","Control"), Center=c(10,10))
+
+
+pred<-predict(model, newdata=newdata,type="response")
+odds1<-pred[1]/(1-pred[1])
+odds2<-pred[2]/(1-pred[2])
+
+odds.ratio<-odds1/odds2
+odds.ratio
+
+odds.ratio<-odds2/odds1
+odds.ratio
+
+
+### d)
+
+newdata<-data.frame(Treatment="Treated", Center=10)
+mu.f<-predict(model, newdata=newdata, type="response")
+YS.pred<-100*mu.f
+
+data<-betablocker
+mu.hat<-predict(model, newdata=data, type="response")
+index<-dim(data)[1]
+n<-data$Total
+
+e.b<-numeric()
+
+for(b in 1:1000){
+
+sum.yb<-numeric()
+for(i in 1:index){
+
+sum.yb[i]<-sum(sample(0:1,n[i], replace=TRUE,prob=c(1-mu.hat[i],mu.hat[i])))
+
+}
+
+Ab<-cbind(sum.yb, n-sum.yb)
+
+model.B<-glm(Ab~Treatment+factor(Center), family=binomial(link="logit"), data=data)
+newdata<-data.frame(Treatment="Treated", Center=10)
+mu.fB<-predict(model.B, newdata=newdata, type="response")
+YS.predB<-100*mu.fB
+
+yf.b<-sample(0:1,100,prob=c(1-mu.f,mu.f), replace=TRUE)
+
+e.b[b]<-sum(yf.b)-YS.predB
+
+}
+
+var.error<-var(e.b)
+var.error
+
+z<-qnorm(c(0.9))
+lower.bound<-YS.pred-z*sqrt(var.error)
+upper.bound<-YS.pred+z*sqrt(var.error)
+lower.bound
+upper.bound
+

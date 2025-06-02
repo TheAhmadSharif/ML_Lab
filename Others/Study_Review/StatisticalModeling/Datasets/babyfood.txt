@@ -1,0 +1,7 @@
+disease	nondisease	sex	food
+77	381	Boy	Bottle
+19	128	Boy	Suppl
+47	447	Boy	Breast
+48	336	Girl	Bottle
+16	111	Girl	Suppl
+31	433	Girl	Breast

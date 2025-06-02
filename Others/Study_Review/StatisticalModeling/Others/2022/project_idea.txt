@@ -1,0 +1,32 @@
+Speed vs Accident
+Accident Time
+Age Vs Accident
+Gender Vs Accident
+Speed Vs stopping Distance
+Age Vs Particular Disease reason
+Temperature Vs Accident
+
+height <- y <- c(64,66,68,62,60)
+weight <- x <- c(67,70,72,66,64)
+
+Age Vs Glucose Level
+Age Vs Diabetes
+Age Vs Blood Pressure
+Age Vs Cancer
+Life Expectancy Vs Income
+Education Vs Income
+
+
+
+
+
+
+
+# height independent as it immutable or can not change
+
+For example people's weight (dependent variable) might depend on their height (independent variable)
+
+model <- lm(y~x)
+model
+
+Exam score = 65.4 + 2.67(hours)

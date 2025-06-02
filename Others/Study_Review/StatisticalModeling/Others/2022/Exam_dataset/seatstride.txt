@@ -1,0 +1,37 @@
+Position	Combo	Length
+Light seat	1	3.5549
+Light seat	1	3.7619
+Light seat	1	3.682
+Light seat	2	3.3903
+Light seat	2	3.5281
+Light seat	2	3.6501
+Light seat	3	3.2645
+Light seat	3	3.1117
+Light seat	3	3.0165
+Light seat	4	3.2473
+Light seat	4	3.3522
+Light seat	4	3.4205
+Light seat	5	3.5519
+Light seat	5	3.3764
+Light seat	5	3.522
+Light seat	6	3.3667
+Light seat	6	3.5643
+Light seat	6	3.5587
+Normal	1	3.25
+Normal	1	3.0316
+Normal	1	3.0895
+Normal	2	3.3116
+Normal	2	3.266
+Normal	2	3.1209
+Normal	3	2.9506
+Normal	3	3.1416
+Normal	3	3.1882
+Normal	4	3.0235
+Normal	4	3.1732
+Normal	4	2.9532
+Normal	5	3.069
+Normal	5	2.8428
+Normal	5	2.9108
+Normal	6	3.3518
+Normal	6	3.5758
+Normal	6	3.4497

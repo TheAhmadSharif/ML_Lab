@@ -1,0 +1,188 @@
+Instructions: Share code with R
+––––––––––––––
+
+data <- read.table("chromoabnormal.txt", sep="\t", dec=".", header=TRUE)
+
+
+Consider the dataset in the file chromoabnormal.txt
+
+No	cells	ca	doseamt	doserate
+1	47800	25	1	0.1
+2	190700	102	1	0.25
+3	225800	149	1	0.5
+4	232900	160	1	1
+5	123800	75	1	1.5
+6	149100	100	1	2
+
+
+
+An experimkent was conducted to determine the effect of gamma radiation
+on the numbers of chromosomal abnormalities observed
+
+A data frame with 27 observations on the following 4 variables.
+cells - Number of cells
+ca - Number of chromosomal abnormalities
+doseamt - amount of dose in Grays
+doserate - rate of dose in Grays/hour
+
+Purott R. and Reeder E. (1976)
+The effect of changes in dose rate on the yield of chromosome
+aberrations in human lymphocytes exposed to gamma radiation.
+Mutation Research. 35, 437-444.
+
+Focus in the study is to model how the ratio between variables Y =ca and t=cells
+Z =Y/t = ca/cells
+depends on the explanatory variables X1 =doseamt and X2 =doserate. Let us also
+first assume that Yi ∼ Poi(µi ).
+
+
+––––––––––––––––––––––––––––––––––––––––––––––
+(a) Consider the log link model with interaction term
+
+M12 : log (µi/ti) = β0 + β1 xi1 + β2 xi2 + β3 xi1 xi2 .
+
+Calculate the maximum likelihood estimate for the expected value of the
+ratio E(Zi ) = µi*/ti when xi∗ 1 = 4, xi∗ 2 = 0.75.
+
+––––––––––––––––––––––––––––––––––––––––––––––
+(b) Create 80 % prediction interval for new observation Yf , when xf 1 = 4,
+xf 2 = 0.75, and tf = 64070. Particularly, what is your obtained lower bound
+of the prediction interval?
+
+––––––––––––––––––––––––––––––––––––––––––––––
+c) Create 80 % prediction interval for new ratio variable Zf = Yf/tf , when xf 1 =
+4, xf 2 = 0.75, and tf = 64070. Particularly, what is your obtained lower
+bound of the prediction interval?
+
+
+––––––––––––––––––––––––––––––––––––––––––––––
+d) Test at 5% significance level, is the explanatory variable X2 =doserate statistically significant variable in the model
+
+M12 : log (µi/ti) = β0 + β1 xi1 + β2 xi2 + β3 xi1 xi2 .
+
+Calculate the value of the test statistic.
+––––––––––––––––––––––––––––––––––––––––––––––
+e) Consider the model
+M12 : log (µi/ti) = β0 + β1 xi1 + β2 xi2 + β3 xi1 xi2 .
+
+
+Under which distribution, the model M12 fits best on data in your opinion?
+i. Yi follows Poisson distribution with the variance Var(Yi ) = µi ,
+ii. Yi follows quasi-Poisson distribution with the variance Var(Yi ) = ϕµi ,
+iii. Yi follows negative binomial distribution Yi ∼ N egBin(µi , θ).
+
+––––––––––––––––––––––––––––––––––––––––––––––
+d)
+
+
+
+––––––––––––––––––––––––––––––––––––––––––––––
+––––––––––––––––––––––––––––––––––––––––––––––
+2) 
+
+
+
+
+data <- read.table("betablocker.txt", sep="\t", dec=".", header=TRUE)
+
+
+betablocker.txt
+––––––––––––––––––––––––––––––––––––––––––––––
+No	Deaths	Total	Center	Treatment
+1	3	39	1	Control
+2	14	116	2	Control
+3	11	93	3	Control
+4	127	1520	4	Control
+5	27	365	5	Control
+6	6	52	6	Control
+
+
+
+
+
+22-centre clinical trial of beta-blockers for
+reducing mortality after myocardial infarction.
+A data frame with 44 observations on the following 4 variables.
+Deaths
+Number of deaths.
+Total
+Total number of patients.
+Center
+Number of clinical centre.
+Treatment
+A factor with levels Control and Treated
+
+
+M. Aitkin.
+Meta-analysis by random effect modelling in generalized linear models.
+Statistics in Medicine, 18, 2343-2351, 1999.
+S. Yusuf, R. Peto, J. Lewis, R. Collins and P. Sleight.
+Beta blockade during and after myocardial infarction: an overview of the randomized trials.
+Progress in Cardiovascular Diseases, 27, 335-371, 1985.
+
+
+
+Data is in "grouped data" form, where the response variable Y can have out-
+comes
+
+Y = {
+1, dead,
+0, alive.
+}
+The column Deaths measures frenquencies of the outcome dead, and the column
+Total measures the sum of frequencies of the outcomes dead and alive. Each row
+gives a unique combination of the explanatory variables, under which condi-
+tions the frequencies of the outcomes dead and alive have occurred.
+Denote P (Yi = 1) = µi . Consider the logistic model
+M: logit(µi ) = β0 + βj + αh
+
+where βj are parameters related to the categories of X1 = Treatment variable
+and αh are parameters related to X2 = Center variable.
+
+(a) Under the model M, calculate the maximum likelihood estimate µ̂i∗ for the
+expected value µi∗ when xi∗ 1 = Treated and xi∗ 2 = 10.
+
+
+(b) Under the model M, calculate 95% confidence interval for the expected
+value µi∗ when xi∗ 1 = Treated and xi∗ 2 = 10
+
+
+(c) Under the model M, calculate the estimate for the odds ratio
+ψTreated,10 Control,10
+
+(d) Let us assume that there are 100 (new) patients with explanatory variables
+are set on values xif 1 P
+= Treated and xif 2 = 10. Create 80% prediction interval for sum YS = 100 i=1 yif .
+––––––––––––––––––––––––––––––––––––––––––––––
+––––––––––––––––––––––––––––––––––––––––––––––
+3)
+––––––––––––––––––––––––––––––––––––––––––––––
+3) a) Let Yi ∼ Cat(θi1 , θi2 , θi3 ), and consider the multinomial logit models
+
+log (θi2/θi1) = x′i β 2 ,
+log (θi3/θi1) = x′i β 3 ,
+where θi1 + θi2 + θi3 = 1. Show that
+
+θi1 = 1/1 + e^x'i β2 + e^x'i β3,
+θi2 = e^x'i β2/1 + e^x'i β2 + e^x'i β3,
+θi3 = e^x'i β3/1 + e^x'i β2 + e^x'i β3,
+
+ 
+b) Let the random variable Yi be defined on ordinal scale with m distinctive
+possible outcomes. Let the possible outcomes have natural order ”1” <
+”2′′ < ”3”. Consider cumulative proportional odds logit model
+
+
+= logit (
+P(Yi ≤ k) 
+1 − P (Yi ≤ k) = logit(P (Yi ≤ k) )= β0k + β1 xi1 , k = 1, 2.
+
+
+Solve the probabilities P (Yi = 1), P (Yi = 2), P (Yi = 3) as functions of parameters β0k , β1 .
+
+
+c) Let Yi be such a random variable that for known ni value, the product niYi
+follows the binomial distribution niYi ∼ Bin(ni, µi). Derive with help of
+the properties of the binomial distribution what are the expected value
+E(Yi) and the variance Var(Yi) of the random variable Yi
+.

@@ -1,0 +1,219 @@
+chromoabnormal.txt
+
+ozone
+–––––––––––––––––––
+rad temp wind ozone
+1 	190 	67	 7.4 	41
+2 	118 	72	 8.0 	36
+3 	149 	74 	 12.6 	12
+4 	313 	62 	 11.5 	18
+5 	299 	65 	 8.6 	23
+6 	99 		59 	 13.8 	19
+7 	19 		61 	 20.1 	 8
+8 	256 	69 	 9.7 	16
+9 	290 	66 	 9.2 	11
+10 	274 	68 	 10.9 	14
+
+> data<-read.table("data.txt", sep="\t", dec=".", header=TRUE)
+> head(data)
+
+
+chromoabnormal.txt
+
+
+Instructions:
+–––––––––––––––––––
+Share code with R
+
+
+
+
+Denote the variables as following
+Y = ozone, X1 = rad, X2 = temp, X3 = wind.
+Note that the response variable Y = ozone is continuous random variable where
+measurement accuracy happens to be in integer level.
+
+
+(a) Let us assume Yi ∼ N(µi, σ2). Consider the models
+
+Midentity : µi = β0 + β1xi1 + β2xi2 + β3xi3,
+Mlog : log(µi) = β0 + β1xi1 + β2xi2 + β3xi3,
+Minverse : 1/µi = β0 + β1xi1 + β2xi2 + β3xi3,
+Mexponential : log(µi) = β0 + β1 log(xi1) + β2 log(xi2) + β3 log(xi3).
+Which model fits the best to the data if the choice of model is done based on the AIC value?
+i. Midentity,
+ii. Minverse,
+iii. Mlog,
+iv. Mexponential.
+
+
+
+(b) Choose the model based on your solution to (a). Study under different
+distributional assumptions how Pearson’s residuals are behaving. That is,
+consider the following linear models for Pearson residuals oi
+
+oi² = α0 + α1µˆi + εi
+in case of normal, Gamma, and Inverse Gaussian distribution. For each
+distribution, test the null hypothesis H0 : α1 = 0. Based on these Pearson’s residuals testing results, which distributional assumption is the most
+suitable one?
+i. Yi ∼ N(µi, σ2),
+ii. Yi ∼ Gamma(µi, ϕ),
+iii. Yi ∼ IG(µi, ϕ).
+
+
+(c) Regardless of your solutions to (a) and (b), let us assume Yi ∼ Gamma(µi, ϕ).
+Test at 5% significance level, is the explanatory variable X3 = wind statistically significant variable in the model
+M : log(µi) = β0 + β1xi1 + β2xi2 + β3xi3.
+Select appropriate test statistic to test the significance of the variable X3 =
+wind. Calculate the value of the test statistic, and return it as your answer
+to the question.
+
+
+15.38347
+d) Regardless of your solutions to (a) and (b), let us assume Yi ∼ Gamma(µi, ϕ) and
+M : log(µi) = β0 + β1xi1 + β2xi2 + β3xi3.
+Test the hypotheses
+H0 : β2 + β3 = 0,
+H1 : β2 + β3 ̸= 0.
+Select appropriate test statistic to test the above hypotheses. Calculate the
+value of the test statistic, and return it as your answer to the question
+
+
+2)
+–––––––––––––––––––––––––––––
+denim.txt
+–––––––––––––––––––––––––––––
+
+> data<-read.table("denim.txt", sep="\t", dec=".", header=TRUE)
+> head(data)
+
+
+Laundry	Denim	Abrasion
+0		1		3.2218
+0		1		3.3547
+0		1		3.1334
+0		1		2.6289
+0		1		3.8816
+
+
+Effects of Laundering Cycles and denim treatment on edge abrasion of denim jeans
+
+a) Let us assume Yi ∼ N (µi , σ 2 ). Consider the models
+M1|2identity :µi = β0 + β1 xi1 + αj ,
+M12identity :µi = β0 + β1 xi1 + αj + γj xi1 ,
+M1|2log : log(µi ) = β0 + β1 xi1 + αj ,
+M12log : log(µi ) = β0 + β1 xi1 + αj + γj xi1 ,
+M1|2inverse : 1/µi = = β0 + β1 xi1 + αj ,
+M12inverse : = β0 + β1 xi1 + αj + γj xi1 .
+
+Which model you feel is fitting the best to the data?
+i. M1|2identity ,
+ii. M12identity ,
+iii. M1|2log ,
+iv. M12log ,
+v. M1|2inverse ,
+vi. M12inverse .
+
+
+(b) Choose the model based on your solution to (a). Which distributional as-
+sumption you feel is the most suitable one?
+i. Yi ∼ N (µi , σ 2 ),
+ii. Yi ∼ Gamma(µi , ϕ),
+iii. Yi ∼ IG(µi , ϕ).
+
+(c) Choose the model and the distributional assumption based on your solu-
+tion to (a) and (b). After you have chosen your model, calculate the d-
+value for the predictive effect size difference Y2f − Y1f when explanatory
+variables are changed from the values
+x1f 1 = 0,
+x1f 2 = 1 = pre-washed
+to the values
+x2f 1 = 25,
+x2f 2 = 3 = enzyme washed
+
+
+> print(d_value)
+          1 
+-0.08992886 
+
+
+(d) Choose the model and the distributional assumption based on your solu-
+tion to (a) and (b). Test at 5% significance level, is the explanatory variable
+X2 = Denim statistically significant variable. Select appropriate test statis-
+tic to test the significance of X2 = Denim. Calculate the value of the test
+statistic, and return it as your answer to the question.
+
+––––––––––––––––––––––––
+
+
+3) a) 
+Let us assume Yi ∼ IG(µi, ϕ). Consider the model
+log(µi) = β0 + β1 log(xi).
+
+Let the estimates of the parameters β0, β1, ϕ be as βˆ0 = 1, βˆ1 = 0.5, ϕ˜ = 0.05,
+when
+
+
+(1 log(3)
+1 log(3)
+1 log(3)
+1 log(6)
+1 log(6)
+1 log(6)
+1 log(9)
+1 log(9)
+1 log(9)
+)
+
+Calculate the estimated covariance matrix Cov( d βˆ) = (X′WX c )
+
+
+
+b) Let Yi ∼ P oi(µi). Then the probability density function of the random
+variable Yi is f(yi|µi) = e^−µi µi^yi/yi!
+
+Show first that Yi belongs to the exponential family of distributions, and
+then show that
+E(Yi) = µi,
+Var(Yi) = µi
+Hint! There is no dispersion parameter ϕ in Poisson distribution and hence
+you may consider it as ϕ = 1.
+
+________________________________________________________________
+
+Given that Yi ~ Poisson(µi), the probability density function of the random variable Yi is:
+
+f(yi|µi) = e^−µi * (µi)^yi / yi!
+
+
+
+f(yi|µi) = exp{yi * log(µi) - log(yi!) - µi} = exp{ T(yi) ∙ α - β(µi) + γ(yi) }
+
+where:
+T(yi) = yi
+α = log(µi)
+β(µi) = µi
+γ(yi) = -log(yi!)
+
+Therefore, Yi indeed belongs to the exponential family of distributions.
+
+To show that E(Yi) = µi and Var(Yi) = µi, we need to use the properties of the Poisson distribution. The mean and variance of a Poisson random variable are both equal to the parameter λ of the Poisson distribution:
+
+E(Yi) = λ = µi
+Var(Yi) = λ = µi
+
+
+Thus, E(Yi) = µi and Var(Yi) = µi for the Poisson distribution with parameter µi.
+________________________________
+
+(c) Consider the simple Gamma model with
+Yi ∼ Gamma(µi, ϕ),
+µi = ηi = β0. Construct the 100(1 − α)% prediction interval for the new observation Yf .
+
+
+Following steps can be followed to construct a prediction interval for a new observation:
+
+1. Fit the Gamma Model β0 and ϕ
+2. Calculate the point estimate of the response variable Yf using the estimated parameters.
+3. Compute the standard error of prediction (σ_pred) for Yf.
+4. Determine the quantiles of the Gamma distribution to construct the prediction interval.

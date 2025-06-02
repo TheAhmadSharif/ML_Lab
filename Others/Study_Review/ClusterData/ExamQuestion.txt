@@ -1,0 +1,98 @@
+01.
+What is Conditional and Marginal Model
+When are they used
+Compare its advantages and disadvantages 
+When Numerical method used to fit into models
+
+
+
+02. 
+
+Brood 
+Live
+Total
+Conc
+
+Brood Live nitrogen Model R
+
+
+
+Comment the trend
+Interpret
+
+03. 
+GELM
+GEE
+
+
+04. rat.dat
+
+
+
+
+What is marginal probability? share a most naive example with data
+
+
+––––––––––––––––––––––– 
+
+What is Conditional and Marginal Model
+When are they used
+Compare its advantages and disadvantages 
+When Numerical method used to fit into models
+
+
+
+brood nitrogen Live Total graph and trend
+
+
+Proving Linear Estimator (beta) is BLUE?
+
+
+glmm
+
+Generalized estimation equations GEE :beta is BLUE: prove it
+Generalized estimation equations GEE :beta is BLUE: prove it
+
+
+Generalized linear mixed-effect model :beta is BLUE: prove it
+
+
+––––––––––––––––––– 
+3: a) 1.5: Try to chararacterize the trends of different brands in relation to the overall trend shown in the first figure. b) 1: Try to be more specific. For example, how does the expected number of live animals change (percentage change) for different broods when the concentration of the pesticide increases by one unit.  c) 1: You could also compare the estimates and their standard errors.
+
+
+–––––––––––––––––––––––––––––––––––––––––
+
+
+What is Generalized Linear Model ? Advantages and Disadvantages. Provide Example
+
+
+Matrix form is Zu + e 
+
+Show that B is unbiased estimates
+
+y = Xβ + Zu + ǫ
+
+
+Q.3 
+
+library(boot)
+head(nitrofen)
+
+
+Faraways extending linear model  Model R
+
+
+Generalized linear mixed-effect model (GLMM).
+
+GEE Generalized estimating equations
+
+
+
+
+What does Concentration mean
+
+
+
+
+y = Xβ + Zu + ǫ

@@ -1,0 +1,316 @@
+–––––––––– 14 April 2024 ––––––––––
+
+
+–––––––––– Lecture 4
+TF, IDF
+
+
+Document Clustering
+
+Expectation maximization
+
+
+https://www.youtube.com/watch?v=REypj2sy_5U
+
+–––––––––– Latent variable
+A latent variable in a statistical model is a random variable that is unmeasured
+
+Concepts like self-esteem, depression, and job satisfaction are just a few of numerous examples.
+
+–––––––––– Expectation-Maximization Algorithm
+It can be used to fill in the missing data in a sample.
+It can be used as the basis of unsupervised learning of clusters.
+It can be used for the purpose of estimating the parameters of the Hidden Markov Model (HMM).
+It can be used for discovering the values of latent variables.
+
+
+
+Clustering Document Text Python
+
+–––––––––– Lecture 5
+N-Gram
+The bigram model is the simplest n-gram model where words not independent.
+
+
+––––––– Markov Model
+Probability of next state depends on the current state or value.
+
+
+–––––––––– Lecture 6 ––––––––––
+
+
+–––––––––– Latent Semantic Analysis:
+
+Latent Semantic Analysis is a natural language processing method that uses the statistical approach to identify the association among the words in a document. LSA deals with the following kind of issue:
+
+
+
+
+Latent Dirichlet Allocation
+
+
+–––––––––– Lecture 7 ––––––––––
+–––––––––– Hidden Markov Models
+An HMM model is a graph where nodes are probability distributions over labels and edges give the probability of transitioning from one node to the other.
+
+
+Hidden Markov Model is done by three algorithms
+–––––– Forward-Backward Algorithm:
+comutes the probability of a sequence of obserbations, given the current parameters values.
+
+–––––– Viterbi Algorithm
+Computes the most likely sequence of hidden states that could have generated a sequence of observations
+
+–––––– Baum-Welch Algorithm: Maximum likelihood optimization of the parameters of the HMM. It is a special case of Expectation Maximization Algorithm.
+
+
+N-grams model type Hidden Markov Model
+
+
+HMM can be usedd for parts of speech tagging of sentncces.
+
+
+–––––––––– Lecture 8 ––––––––––
+
+Probabilistic context free grammar
+
+
+Sentence  -  Article Noun Verb Article Noun
+Article   -  A           0.7 
+Article      The		 0.3			
+Noun		 Robot       0.6
+Noun		 Dog         0.4
+Verb         Bit         0.1
+Verb         Fed         0.2
+Verb         Walked      0.4
+Verb         Petted      0.3
+
+The robot walked a dog.k
+
+1 x 0.3 x 0.6 x 0.7 x 0.4 = 0.02016
+
+A Robot Walked a dog.
+
+
+Chmosky Normal From PCG
+
+
+–––––––––– Lecture 9 ––––––––––
+Information Retrival  
+
+
+
+–––––––––– Lecture 10 –– Nov 14  ––––––––––
+Simple Dirichlet smoothing
+
+Jeline-Mercer Smoothinkk
+
+–––––––––– Lecture 11 –– Nov 21 ––––––––––
+
+Word Embedding
+Continous bag of words
+Continous bag of words Model
+Skim Gram Model
+Negative Sampling Based Skim gram model
+
+
+Word2Vec
+
+import gensim
+
+What is the center word
+
+Retrieval Model
+
+–––––––––– Lecture 12 –– Nov 28 ––––––––––
+Paragraph Vector Model: Helps to predict central word
+
+
+What is the central word of a sentence
+
+
+Aragra H Vector Model
+
+–––––––––– Lecture 13 –– Dec 5 ––––––––––
+LSTM  Long Short Term Memory
+
+
+
+Other Neural Network
+
+–––––––––– Lecture 14 –– Dec 5 ––––––––––
+Transformer Model
+
+Encoder
+Decoder
+Transformers
+BERT Models
+
+
+
+––––––––––––––––––––––––––––––
+Stochastic model Vs Time series
+Latent Semantic Analysis
+
+
+
+––––––––– Exam Link
+
+In Natural Language Processing
+
+
+Which one is correct
+
+1.1 (D) "High"
+1.2 (E) "High"
+1.3 (B) "High"
+1.4 (C) "High"
+1.5 (E) "High"
+
+
+
+Which one is correct ?
+
+
+Which one is correct ?
+
+Question 1.3:
+A) The LSTM neuron computes its output as the multiplication of three gate functions.
+B) These probabilities are possible in a bigram model: p(w1='weekly')=0.01, p(w2='meeting')=0.005, p(w2='meeting'|w1='weekly')=0.4. // Correct
+C) Latent Semantic Analysis can be done by eigendecomposition of the document-term matrix. 
+D) It is possible to cleanly delineate correct from incorrect language using a deep neural network as long as it contains sufficiently many LSTM layers.
+E) In paragraph embedding, the paragraph vector is the average word vector of words in the paragraph.
+
+
+Which one is correct ?
+Question 1.4:
+A) An n-gram model predicts the next word based on the n previous words.
+B) A lexical dispersion plot plots the variance of word counts over the collection for each word.
+C) Two documents with different text can have cosine similarity 1 in a vector space model. // Correct
+D) Every PCFG has a strongly equivalent version in Chomsky normal form.
+E) Expectation-Maximization always increases the likelihood in every iteration. // Correct
+
+
+Any one of them is incorrect?
+C) Two documents with different text can have cosine similarity 1 in a vector space model. 
+E) Expectation-Maximization always increases the likelihood in every iteration. 
+
+
+Which one is correct ?
+Question 1.5: 
+A) In a mixture of Gaussians model for TF-IDF documents, each Gaussian models the distribution of one of the top words.
+B) The F1 score is the average of precision and recall.
+C) The unigram model samples the length of the document from a multinomial distribution.
+D) Stop words are the terminal symbols in a grammar.
+E) In a PCFG, both Inside and Outside probabilities are needed to compute the probability of a sentence.
+
+
+How much elaborate would I answere
+How much 
+
+
+
+––––– Question 2.1:  –––––
+––––––––––––––––––––––––––
+Latent Semantic Analysis
+––––– Latent semantic analysis is a technique in natural language processing, in particular distributional semantics, of analyzing relationships between a set of documents and the terms they contain by producing a set of concepts related to the documents and terms.
+
+––––– Probabilistic latent semantic analysis
+Probabilistic Latent Semantic Analysis (pLSA) is a technique from the category of
+topic models. Its main goal is to model cooccurrence information under a probabilistic
+framework in order to discover the underlying semantic structure of the data.
+
+––––– Latent Dirichlet  allocation
+Latent Dirichlet Allocation (LDA) is a popular topic modeling technique to extract topics from a given corpus. The term latent conveys something that exists but is not yet developed. In other words, latent means hidden or concealed. Now, the topics that we want to extract from the data are also “hidden topics”.
+
+
+These all are used for topic modeling and It is is used to explain/relationshop between words and document. Latent Semantic Analysis is based on algebra. In contrast, PLSA and LDA are probabilistic latent topic modeling
+
+
+Question 2.2 –––––
+––––––––––––––––––––––––––
+––––– Discuss the similarities and differences between a hidden Markov model and a probabilistic context-free grammar. (2 points)
+HMM and PCFG both are probabilistic model. 
+
+
+HMM is based on state, while PCFG is based on grammar. HMM is used on speech recognition, while PCGF is used on NLP. Additionally, HMM calculation is costly comapre to PCGF 
+
+
+Question 2.3: 
+Suppose an n-gram model with n=10 has been trained, but when it is used  to generate new documents, it only produces copies of existing pieces of  text from the training data. Explain why this can happen. (2 points)
+
+
+
+Training data might not have good pattern, thats why it could not produce new text. Additionally, Following might also impact: Text are too similar, no variation, training data is small.
+
+
+
+
+Question 2.4 –––––
+Explain  how representative documents can be extracted in mixture model based  document clustering, and what are the limitations of different  approaches. (3 points)
+We can use unsupevisedd machine learning algorithm for this: K-Means or Hierarchical Clustering
+
+Limitations: 
+–––––
+There is a chance of selection of outliers and noise documents. Additionally, it might select a document that does not represent the cluster
+
+
+
+
+
+Problem 3: HMM computation (10 points)
+
+Consider a hidden Markov model with the following vocabulary of five words: 
+{may, plan, work, then, that}
+and  three states (z=1, z=2, z=3), where the states have the initial state  distribution, emission distributions, and transition probabilities given  below.
+
+Compute the probability of the observed word sequence: 
+"that plan may work". Report your computation steps and your answer. (10 points)
+
+
+phai_1 = 0.5, phai_2 = 0.25, phai_3 = 0.25
+			may 	plan 	work 	then 	that
+b1(w)		0.5		0.2		0		0.1		.25
+b2(w)		0.3		0.4		0.3		0		  0
+b3(w)		0.5		0.2		0		0.1		.25
+
+
+
+Vocabulary: {may, plan, work, then, that}
+
+States: z=1, z=2, z=3
+Initial state distribution: π = [0.5, 0.25, 0.25]
+
+
+Emission distributions:
+b1(w) = [0.5, 0.2, 0, 0.1, 0.25]
+b2(w) = [0.3, 0.4, 0.3, 0, 0]
+b3(w) = [0.5, 0.2, 0, 0.1, 0.25]
+
+Transition probabilities:
+P(z=1 → z=1) = 0
+P(z=1 → z=2) = 1
+P(z=1 → z=3) = 0
+P(z=2 → z=1) = 0
+P(z=2 → z=2) = 1
+P(z=2 → z=3) = 0
+P(z=3 → z=1) = 0
+P(z=3 → z=2) = 1
+P(z=3 → z=3) = 0
+
+
+
+01.  π(1) = 0.5, π(2) = 0.25, π(3) = 0.25
+
+β(T,z=2) ≈ 0.0189
+
+
+β3 (1) = 0×0.2×0.3+1×0.4×0.3+0×0.2×0 = 0.12
+β3 (2) = 1×0.2×0.3+0×0.4×0.3+0×0.2×0 = 0.06
+β3 (1) = 0×0.2×0.3+0×0.4×0.3+1×0.2×0 = 0
+β2 (1) = 0×0.5×0.12+1×0.3×0.06+0×0.5×0 = 0.018
+
+
+P("that plan may work") = 0.5×0.25×0.125+0.25×0×0.075+0.25×0.25×0.125 = 0.015625+0+0.0078125 = 0.0234375
+
+

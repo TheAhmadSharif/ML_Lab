@@ -1,0 +1,89 @@
+
+Parameter
+––––––––––––––––––––––––––
+A parameter is a number describing a whole population (e.g., population mean), while a statistic is a number describing a sample
+
+
+Conditional Probability:
+––––––––––––––––––––––––––
+Weather Events:
+Suppose the probability of rain on any given day is 
+P(Rain) = 0.3
+P(Cloudy) = 0.6
+Assuming independence (which might not be accurate in reality as weather conditions can be correlated), the probability of a day being both rainy and cloudy would be calculated by multiplying the individual probabilities:
+P(Rain and Cloudy)=P(Rain)×P(Cloudy)=0.3×0.6=0.18
+
+
+Example 1: A bag contains 5 red balls and 7 blue balls. Two balls are drawn without replacement. What is the probability that the second ball drawn is red, given that the first ball drawn was red?
+
+P(A) = 5/12 
+
+and P(B) = 4/11
+
+9. Markov Chains: Transition probabilities between states in a sequence.
+
+https://www.khanacademy.org/math/ap-statistics/probability-ap/stats-conditional-probability/a/check-independence-conditional-probability
+
+
+Bayes Theorem
+–––––––––––––––––––––––
+https://www.youtube.com/watch?v=cqTwHnNbc8g&t=3s
+
+https://www.youtube.com/watch?v=bUI8ovd07uI
+https://www.youtube.com/watch?v=vnhfJKkL2IU
+It is nothing but applicatkkion of conditional probabiltiy.
+
+
+
+Internet speed fluctuates for last 2-3 weeks so frequently in my connection? Does anyone have the same expereince  
+
+My Internet connection fluctuated frequently the past 2-3 weeks. Has anyone else faced a similar experience?
+
+My Internet connection has been up and down a lot in the last few weeks. Does anyone have the same expereince?
+
+
+
+Likelihood function : how do we form a likelihood given observed data?
+- kernel and normalizing constant
+- In Bayesian statistics spotting kernels of distributions can be very
+useful in deriving posterior distributions.
+
+
+
+
+In simpler terms, a kernel is like a lens through which you look at your data. It helps you understand relationships between points, how they influence each other, or how they might change. 
+
+
+Topics: Bayesian Inference
+
+
+
+What is kernal in Bayesian
+
+Bayesian statistics spotting kernels of distributions can be very
+useful in deriving posterior distributions
+
+What is conjugate priors 
+
+
+What is prior probability
+
+What is likelihood function
+
+
+What is Probability Mass or Probability Density Function
+Is PDF or PDF same as likelihood function
+What is  Function
+
+
+
+
+In Bayesian inference, the beta distribution is the conjugate prior probability distribution for the Bernoulli, binomial, negative binomial and geometric distributions.
+
+
+In Bayesian inference, the beta distribution is the conjugate prior probability distribution for the Bernoulli, binomial, negative binomial and geometric distributions.
+
+
+I'll try for a session on Friday at 10:00, but I'll confirm tomorrow night.
+
+You mentioned a couple of topics - Regression Analysis and OLS. Can you share any others if I've missed any? It'll help me prepare for the lecture.

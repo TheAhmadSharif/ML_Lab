@@ -1,0 +1,113 @@
+Probabilistic latent semantic analysis
+————————————————————————
+
+Code Hints/Inspiration:
+————————————————————————
+#%% Try PLSA on a very small data set
+# Let's take the same 500 features as in LSI, 
+# and the same 1000 baseball documents but use
+# the term-frequency (TF) values for the features
+dimensiontotals=numpy.squeeze( \
+    numpy.array(numpy.sum(tfidfmatrix,axis=0)))
+highesttotals=numpy.argsort(-1*dimensiontotals)
+Xsmall=tfmatrix[:,highesttotals[0:500]]
+Xsmall=Xsmall[9000:10000,:].todense()
+
+# Run PLSA
+n_topics=10
+n_iterations=200
+pi,psi,theta=plsa(Xsmall, n_topics, n_iterations)
+
+
+
+#---------------------------------
+
+
+
+# Examine the factor probabilities p(t) = sum_d p(t|d) p(d)
+print(numpy.sum(psi*numpy.matlib.repmat(pi,n_topics,1),axis=1))
+
+# Examine a factor (here the one with largest probability, factor 1)
+print(theta[:,1])
+
+# Words with largest absolute weights in the factor
+topweights_indices=numpy.argsort(-1*numpy.abs(theta[:,1]))
+print(remainingvocabulary[highesttotals[topweights_indices[0:20]]])
+
+# Same for the next biggest factor (here factor 4)
+topweights_indices=numpy.argsort(-1*numpy.abs(theta[:,4]))
+print(remainingvocabulary[highesttotals[topweights_indices[0:20]]])
+
+
+
+#---------------------------------
+
+
+
+import gensim
+# Create a dictionary from the documents
+startdoc=9000     # We will use the baseball n.g.
+enddoc=10000      # again, but all features
+gensim_docs=mycrawled_prunedtexts[startdoc:enddoc]
+gensim_dictionary=gensim.corpora.Dictionary(gensim_docs)
+# Create the document-term vectors
+gensim_docvectors=[]
+for k in range(len(gensim_docs)):     
+    docvector=gensim_dictionary.doc2bow(gensim_docs[k])
+    gensim_docvectors.append(docvector)
+
+
+
+#---------------------------------
+
+
+
+# Run the LDA optimization
+numtopics=10
+randomseed=124574527
+numiters=10000
+ninits=10
+gensim_ldamodel=gensim.models.ldamodel.LdaModel( \
+    gensim_docvectors, \
+    id2word=gensim_dictionary,num_topics=numtopics, \
+    iterations=numiters,random_state=randomseed)
+
+
+
+#---------------------------------
+
+
+
+# Get topic content: term-topic probabilities
+gensim_termtopicprobabilities=gensim_ldamodel.get_topics()
+# Get topic prevalences per document, and overall topic prevalences
+# (expected amount of documents per topic)
+overallstrengths=numpy.zeros((numtopics,1))
+documentstrengths=numpy.zeros((len(gensim_docvectors),numtopics))
+for k in range(len(gensim_docvectors)):
+    topicstrengths=gensim_ldamodel.get_document_topics(\
+        gensim_docvectors[k],minimum_probability=0)
+    for m in range(len(topicstrengths)):
+        documentstrengths[k][topicstrengths[m][0]]=topicstrengths[m][1]
+        overallstrengths[topicstrengths[m][0]]=\
+        overallstrengths[topicstrengths[m][0]]+topicstrengths[m][1]
+
+
+
+#---------------------------------
+
+
+
+# Show top-10 words of the top topic (number 5 here)
+print(gensim_ldamodel.show_topic(5,topn=10))
+
+# Show top-10 words of the next strongest topic (number 4 here)
+print(gensim_ldamodel.show_topic(5,topn=10))
+
+
+
+#---------------------------------
+
+Instruction:
+————————————————————————
+create a term frequency matrix of raw term counts for the documents.

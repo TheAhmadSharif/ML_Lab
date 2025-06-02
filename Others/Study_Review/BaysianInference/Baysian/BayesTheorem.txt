@@ -1,0 +1,114 @@
+
+Give an example of 
+How to calculate A 95% highest density interval based on the experts prior beliefs alone is:
+
+
+
+
+
+
+Define "improper term" give an example such a prior, and explain when it can be used for Bayesian Inference
+
+
+Briefly discuss advantage of Bayesian compare to frequency approach to estimate unknown parameter 
+
+Bayesian Vs frequency approach
+
+The Examples of Beta DistributionThe Beta Distribution can be used for representing the different probabilities as follows.
+1. The likelihood of the audience rating the new movie release.
+2. The click-through rate of the website, which is the proportion of visitors.
+3. The conversion rate for buyers actually purchasing from your website.What is the survival chance of a person having blood cancer.
+
+
+Questions
+––––––––––––––––––––––
+
+what we do with probability density function
+why we need probability distribution in Bayesian
+
+
+Montell hall Problem
+
+
+https://homepage.divms.uiowa.edu/~mbognar/applets/beta.html
+
+
+https://medium.com/@madhuri15/7-bayesian-inference-7-days-of-statistics-for-data-science-3c45280277d#:~:text=The%20Bayesian%20inference%20begins%20with,expert%20knowledge%2C%20or%20previous%20experiments.
+
+
+
+
+The probability density function (PDF) in statistics is used to describe the probability distribution of a continuous random variable. It specifies the likelihood of the variable taking on a particular value within a given range. Here are some common ways in which the PDF is utilized:
+
+1. **Probability Calculation**: The primary use of the PDF is to calculate probabilities associated with specific events or ranges of values. For a continuous random variable, the probability of it falling within a certain range is given by the integral of the PDF over that range.
+
+2. **Expected Value and Moments**: The PDF can be used to calculate moments of a distribution, such as the mean, variance, skewness, and kurtosis. These moments provide information about the central tendency, spread, and shape of the distribution.
+
+3. **Distribution Characterization**: The shape of the PDF provides information about the characteristics of the distribution. For example, a symmetric PDF with a single peak indicates a unimodal distribution, while a skewed PDF suggests asymmetry in the data.
+
+4. **Inference and Estimation**: PDFs are often used in statistical inference and estimation. For example, in maximum likelihood estimation, the likelihood function (which is related to the PDF) is maximized to estimate the parameters of a distribution that best fit the observed data.
+
+5. **Modeling and Simulation**: PDFs are used to model real-world phenomena and simulate data. By specifying the PDF, statisticians can generate synthetic data that mimics the behavior of the observed process.
+
+6. **Hypothesis Testing**: PDFs are used in hypothesis testing to calculate probabilities associated with test statistics. The PDF of the test statistic under the null hypothesis is compared to the observed value to assess the likelihood of obtaining the observed result by chance.
+
+Overall, the probability density function is a fundamental concept in statistics, providing a framework for understanding and analyzing continuous random variables and their distributions.
+
+
+Prior Probability Distribution
+––––––––––––––––––––––––––––––––––––
+The Bayesian inference begins with a prior probability distribution that represents your initial beliefs (nothing but the assumptions) or knowledge about an event or parameter before any data is observed.
+
+It is often based on historical data, expert knowledge, or previous experiments.
+
+Likelihood Probability
+––––––––––––––––––––––––––––––––––––
+The likelihood quantifies, how likely the observed data or evidence is under different hypotheses or parameter values. It essentially measures how well your model explains the observed data.
+
+
+
+
+
+
+A certain disease has an incidence rate of 0.8%. If the false negative rate is 5% and the false positive rate is 3%, compute the probability that a person who tests positive actually has the disease.
+
+
+			Disease   		No Disease
+Test +ve    True Positive   False Positive
+Test -ve    True Negative   False Negative
+
+
+P(Disease/Test + ve) = P(Disease) x P(Test+ve/ Disease)/ True Positve + False Positive
+
+Binomial Vs Uniform
+–––––––––––––––––––––––––––––––––––––––––––––
+
+A uniform distribution is where the probabilities are uniformly distributed, or to put it another way, each event has the same probability as each other event. A single fair die being rolled, each face (1, 2, 3, 4, 5, 6) has the same probability.
+
+
+
+
+What makes the Beta distribution so special?
+The Beta distribution is the conjugate prior for the Bernoulli, binomial, negative binomial and geometric distributions (seems like those are the distributions that involve success and failure) in Bayesian inference.
+
+
+–––––––––––––––––––––––––––––––––––––––––––––
+
+
+In the example above, the beta distribution is a conjugate prior for the binomial likelihood. What does this mean?
+
+
+
+3. How does the Conjugate Prior help?
+When you know that your prior is a conjugate prior, you can skip the posterior = likelihood * prior computation. Moreover, if your prior distribution has a closed-form form expression, you can determine the maximum posterior directly.
+
+–––––––––––––––––––––––––––––––––––––––––––––
+And this seems like a classical binomial distribution problem, since we are calculating the probability of a specific number of successful events (claps).
+
+–––––––––––––––––––––––––––––––––––––––––––––
+What is Hypothesis Testing?
+Hypothesis testing is a statistical analysis that looks at samples and sees if the test results from the samples can be applied to the whole population.
+
+–––––––––––––––––––––––––––––––––––––––––––––
+1. Why did we invent Gamma distribution?
+Answer: To predict the wait time until future events.

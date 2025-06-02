@@ -1,0 +1,80 @@
+setwd("/home/ahmad/Desktop/2023_2024/2024/StatisticalModeling/Datasets")
+############################ Exercise 1 > 1 > a ############################
+
+if (!require("nlme")) {
+  install.packages("nlme", dependencies = TRUE)
+  library(nlme)
+}
+
+
+# a)
+
+paper <- read.csv("paper.txt", sep = "\t", dec = ".")
+attach(paper)
+head(paper)
+model_1_1_a <- lm (strength ~ hardwood + pressure, data = paper)
+coef(model_1_1_a)[3] # 0.006399123
+
+# b)
+sigma(model_1_1_a)^2 #  1.328534
+
+# c)
+
+newdata = data.frame(hardwood = 2, pressure = 400)
+pred <- predict(model_1_1_a, newdata = newdata, type = "response")
+print(pred) # 197.7772
+
+# d)
+newdata = data.frame(hardwood = 7, pressure = 500)
+pred_1_1_d <- predict(model_1_1_a, newdata = newdata, type = "response")
+print(pred_1_1_d) # 197.5392
+
+# e)
+pred_1_1_e <- predict(model_1_1_a, newdata = newdata, interval  = "confidence", level = 0.80)
+pred_1_1_e # 197.1928
+
+# f)
+model_1_1_c <- lm (strength ~ hardwood, data = paper)
+anova (model_1_1_a, model_1_1_c, test = "F")$F[2] # 11.71256
+
+###############################################################
+###############################################################
+
+############################ Exercise 1 > 2 > a ############################
+
+makiwaraboard <- read.csv("makiwaraboard.txt", sep = "\t", dec = ".")
+attach(makiwaraboard)
+head(makiwaraboard)
+model_1_2_a <- lm (Deflection ~ factor(WoodType) + factor(BoardType), data = makiwaraboard)
+
+newdata <- data.frame(WoodType = "Oak", BoardType = "Tapered")
+pred_1_2_a <- predict(model_1_2_a, newdata = newdata)
+print(pred_1_2_a) # 51.3127
+
+############################ Exercise 1 > 2 > b ############################
+
+# b)
+
+model_1_2_b <- lm (Deflection ~ factor(WoodType) + factor(BoardType), data = makiwaraboard)
+summary(model_1_2_b) # Cherry
+
+# factor(WoodType)Cherry      6.537      8.670   0.754   0.4514
+# factor(WoodType)Fir       -17.022      8.853  -1.923   0.0554 .
+# factor(WoodType)Oak       -21.412      8.581  -2.495   0.0131 *
+# factor(BoardType)Tapered  -37.363
+
+
+############################ Exercise 1 > 2 > c ############################
+model_1_2_b <- lm (Deflection ~ factor(WoodType) + factor(BoardType) + factor(WoodType):factor(BoardType), data = makiwaraboard)
+newdata <- data.frame(WoodType = "Oak", BoardType = "Tapered")
+
+pred_1_2_b <- predict(model_1_2_b, newdata = newdata)
+pred_1_2_b # 49.99333
+
+############################ Exercise 1 > 2 > d ############################
+
+t <- (residuals(model_1_2_b))[336]
+t # 5.093333
+
+############################ Exercise 1 > 2 > e ############################
+anova(model_identity_1_2_a, model_identity_1_2_c, test = "F")$F[2] # 0.1522

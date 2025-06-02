@@ -1,0 +1,392 @@
+### Statistical Modeling 1 
+### Categorical Data Models
+### 2024
+
+############################
+### Example 6.1
+
+data<-read.table("malaria.txt", sep="\t", dec=".", header=TRUE)
+attach(data)
+
+plot(ab,jitter(mal, amount=0.03))
+plot(age,jitter(mal, amount=0.03))
+coplot(jitter(mal, amount=0.03)~ab| age)
+
+## Y_i=1, then person have had symptoms of malaria.
+## Y_i=0, then person have not had symptoms of malaria.
+## Y_i ~ Ber(mu_i), P(Y_i=1)=mu_i
+
+# a)
+
+model.main<-glm(mal~age+ab, family=binomial(link="logit"), data=data)
+summary(model.main)
+
+model.mainP<-glm(mal~age+ab, family=binomial(link="probit"), data=data)
+summary(model.mainP)
+
+newdata<-data.frame(age=10, ab=100)
+predict(model.main, newdata=newdata, type="response")
+
+newdata<-data.frame(age=10, ab=0:2000)
+pred<-predict(model.main, newdata=newdata, type="response")
+
+plot(0:2000, pred, type="n")
+lines(0:2000, pred, col="red", cex=1.5)
+
+newdata<-data.frame(age=5, ab=0:2000)
+pred<-predict(model.main, newdata=newdata, type="response")
+lines(0:2000, pred, col="blue", cex=1.5)
+
+
+
+# b)
+
+model.12<-glm(mal~age*ab, family=binomial(link="logit"), data=data)
+summary(model.12)
+
+plot(0:2000, pred, type="n")
+lines(0:2000, pred, col="blue", cex=1.5)
+pred2<-predict(model.12, newdata=newdata, type="response")
+lines(0:2000, pred2, col="red", cex=1.5)
+
+anova(model.main,model.12, test="Chi")
+
+model.mainLOG<-glm(mal~log(age)+log(ab), family=binomial(link="logit"), data=data)
+summary(model.mainLOG)
+
+plot(0:2000, pred, type="n")
+lines(0:2000, pred, col="blue", cex=1.5)
+pred3<-predict(model.mainLOG, newdata=newdata, type="response")
+lines(0:2000, pred2, col="red", cex=1.5)
+lines(0:2000, pred3, col="green", cex=1.5)
+
+probit.mainLOG<-glm(mal~log(age)+log(ab), family=binomial(link="probit"), data=data)
+summary(probit.mainLOG)
+
+cloglog.mainLOG<-glm(mal~log(age)+log(ab), family=binomial(link="cloglog"), data=data)
+summary(cloglog.mainLOG)
+
+plot(0:2000, pred, type="n")
+lines(0:2000, pred, col="blue", cex=1.5)
+pred4<-predict(probit.mainLOG, newdata=newdata, type="response")
+pred5<-predict(cloglog.mainLOG, newdata=newdata, type="response")
+lines(0:2000, pred2, col="red", cex=1.5)
+lines(0:2000, pred3, col="green", cex=1.5)
+lines(0:2000, pred4, col="black", cex=1.5)
+lines(0:2000, pred5, col="violet", cex=1.5)
+
+
+AIC(model.main)
+AIC(model.12)
+AIC(model.mainLOG)
+AIC(probit.mainLOG)
+AIC(cloglog.mainLOG)
+
+
+############################
+### Example 6.2
+
+
+data<-read.table("babyfood.txt", sep="\t", dec=".", header=TRUE)
+attach(data)
+
+ratio<-disease/(disease+nondisease)
+boxplot(ratio~sex+food)
+
+### Y_i=1=disease
+### Y_i=0=nondisease
+
+# a)
+
+model.main<-glm(cbind(disease, nondisease)~sex+food, family=binomial(link="logit"), data=data)
+summary(model.main)
+
+
+model.full<-glm(cbind(disease, nondisease)~sex*food, family=binomial(link="logit"), data=data)
+fitted(model.full, type="response")
+
+
+interaction.plot(sex,food, fitted(model.main, type="response"))
+interaction.plot(sex,food, fitted(model.full, type="response"))
+
+anova(model.main, model.full, test="Chi")
+
+newdata<-data.frame(sex="Boy", food="Breast")
+predict(model.main,newdata=newdata, type="response")
+
+model.H0<-glm(cbind(disease, nondisease)~sex, family=binomial(link="logit"), data=data)
+summary(model.H0)
+
+anova(model.H0, model.main, test="Chi")
+anova(model.H0, model.main, test="Chi")$Deviance[2]
+
+
+model.H0<-glm(cbind(disease, nondisease)~food, family=binomial(link="logit"), data=data)
+summary(model.H0)
+
+anova(model.H0, model.main, test="Chi")
+anova(model.H0, model.main, test="Chi")$Deviance[2]
+
+
+
+
+# b)
+
+model.mainQuasi<-glm(cbind(disease, nondisease)~sex+food, family=quasibinomial(link="logit"), data=data)
+summary(model.mainQuasi)
+
+model.H0Quasi<-glm(cbind(disease, nondisease)~sex, family=quasibinomial(link="logit"), data=data)
+
+anova(model.H0Quasi, model.mainQuasi, test="F")
+anova(model.H0Quasi, model.mainQuasi, test="F")$F[2]
+
+# c)
+
+newdata<-data.frame(sex=c("Boy", "Girl"), food=c("Breast", "Suppl"))
+pred<-predict(model.main, newdata=newdata, type="response")
+
+predict.data<-data.frame(newdata,pred)
+
+OR<-(0.09262485/(1-0.09262485))/(0.10931093/(1-0.10931093))
+
+
+############################
+### Example 6.3
+
+data<-read.table("laserscanning.txt", sep="\t", dec=".", header=TRUE)
+attach(data)
+library(nnet)
+
+## a)
+
+model<-multinom(species~height+width, data=data)
+summary(model)
+
+newdata<-data.frame(height=18, width=1.4)
+predict(model, newdata=newdata, type="probs")
+round(predict(model, newdata=newdata, type="probs"),3)
+
+## b)
+
+sum(predict(model, newdata=newdata, type="probs")[3:4])
+
+newdata<-expand.grid(height=0:40, width=1)
+pred<-predict(model, newdata=newdata, type="probs")
+coplot(pred[,2]~newdata$height|newdata$width)
+
+fit.data<-data.frame(newdata, round(pred,3))
+
+plot(c(0,20),c(0,1), type="n")
+lines(newdata$height, pred[,1], col="black")
+lines(newdata$height, pred[,2], col="blue")
+lines(newdata$height, pred[,3], col="red")
+lines(newdata$height, pred[,4], col="violet")
+
+
+
+
+## c)
+
+model.H0<-multinom(species~height, data=data)
+anova(model.H0, model, test="Chi")
+anova(model.H0, model, test="Chi")$"LR stat"[2]
+
+
+
+############################
+### Example 6.4
+
+data<-read.table("Housing.txt", sep="\t", dec=".", header=TRUE)
+attach(data)
+
+library(ordinal)
+
+## a)
+
+data$Sat<-factor(data$Sat)
+levels(data$Sat)
+data$Sat<-relevel(data$Sat, "Medium")
+data$Sat<-relevel(data$Sat, "Low")
+data$Sat<-ordered(data$Sat)
+levels(data$Sat)
+
+model.main<-clm(Sat~Infl+Type+Cont, weights=Freq, data=data)
+summary(model.main)
+
+## b)
+
+newdata<-data.frame(Infl="High", Type="Apartment", Cont="Low")
+predict(model.main, newdata=newdata, type="prob")
+
+newdata<-expand.grid(Infl="High", Type=levels(factor(data$Type)), Cont="Low")
+pred<-predict(model.main, newdata=newdata, type="prob")
+
+data.frame(newdata,pred)
+
+## c)
+
+model.H0<-clm(Sat~Infl+Cont, weights=Freq, data=data)
+
+anova(model.H0, model.main, test="Chi")
+anova(model.H0, model.main, test="Chi")$LR.stat[2]
+
+
+
+############################
+### Example 6.5
+
+data<-read.table(file="customersurvey.txt", sep="\t", dec=".", header=TRUE)
+attach(data)
+T<-table(satisfaction,location)
+
+library(nnet)
+
+modelM<-multinom(satisfaction~factor(location), data=data)
+summary(modelM)
+
+newdata<-data.frame(location=levels(factor(location)))
+predict(modelM, newdata=newdata, type="probs")
+sum(predict(modelM, newdata=newdata, type="probs")[1,4:5])
+
+library(ordinal)
+data$satisfaction<-factor(data$satisfaction)
+data$satisfaction<-ordered(data$satisfaction)
+
+modelC<-clm(satisfaction~location,data=data)
+summary(modelC)
+
+predict(modelC, newdata=newdata, type="cum.prob")
+predict(modelC, newdata=newdata, type="prob")
+sum(predict(modelM, newdata=newdata, type="probs")[2,4:5])
+
+plot(c(0,6),c(0,1), type="n")
+lines(1:5,predict(modelM, newdata=newdata, type="probs")[1,], col="blue")
+lines(1:5,predict(modelM, newdata=newdata, type="probs")[2,], col="red")
+lines(1:5,predict(modelC, newdata=newdata, type="prob")$fit[1,], col="green")
+lines(1:5,predict(modelC, newdata=newdata, type="prob")$fit[2,], col="violet")
+
+plot(c(0,6),c(0,1), type="n")
+lines(1:5,cumsum(predict(modelM, newdata=newdata, type="probs")[1,]), col="blue")
+lines(1:5,cumsum(predict(modelM, newdata=newdata, type="probs")[2,]), col="red")
+lines(1:5,predict(modelC, newdata=newdata, type="cum.prob")$cprob1[1,], col="green")
+lines(1:5,predict(modelC, newdata=newdata, type="cum.prob")$cprob1[2,], col="violet")
+
+y1<-satisfaction==1
+y2<-satisfaction==2
+y3<-satisfaction==3
+y4<-satisfaction==4
+y5<-satisfaction==5
+
+Y<-cbind(as.numeric(y1),as.numeric(y2),as.numeric(y3),as.numeric(y4),as.numeric(y5))
+
+fittedM<-predict(modelM, newdata=data, type="probs")
+eM<-Y-fittedM
+MSE.m<-mean(diag(eM%*%t(eM)))
+
+fittedC<-predict(modelC, newdata=data, type="prob")$fit
+eC<-Y-fittedC
+MSE.c<-mean(diag(eC%*%t(eC)))
+
+
+
+
+############################
+### Example 6.6
+
+data<-read.table("christmastree.txt", sep="\t", dec=".", header=TRUE)
+sample.data<-data[1:150,]
+unknown.data<-data[-(1:150),]
+
+## a)
+
+model<-glm(disease~distance+age, family=binomial(link="logit"), data=sample.data)
+summary(model)
+
+newdata<-data.frame(distance=242, age="old")
+predict(model, newdata=newdata, type="response") 
+
+eta<-predict(model, newdata=newdata, type="link", se.fit=TRUE)
+
+xf<-rbind(1,242,1,0)
+eta<-t(xf)%*%coef(model)
+cov.eta<-t(xf)%*%vcov(model)%*%xf
+
+link.lowerbound<-eta$fit-qnorm(0.975)*eta$se.fit
+link.upperbound<-eta$fit+qnorm(0.975)*eta$se.fit
+
+mu.lowerbound<-exp(link.lowerbound)/(1+exp(link.lowerbound))
+mu.upperbound<-exp(link.upperbound)/(1+exp(link.upperbound))
+mu.lowerbound
+mu.upperbound
+
+plogis(link.lowerbound)
+plogis(link.upperbound)
+
+##
+
+model<-glm(disease~distance+age, family=binomial(link="probit"), data=sample.data)
+summary(model)
+
+newdata<-data.frame(distance=242, age="old")
+predict(model, newdata=newdata, type="response") 
+
+eta<-predict(model, newdata=newdata, type="link", se.fit=TRUE)
+
+link.lowerbound<-eta$fit-qnorm(0.975)*eta$se.fit
+link.upperbound<-eta$fit+qnorm(0.975)*eta$se.fit
+
+pnorm(link.lowerbound)
+pnorm(link.upperbound)
+
+
+
+
+## b)
+
+YS.pred<-sum(predict(model, newdata=unknown.data, type="response"))
+
+Total.pred<-sum(sample.data$disease)+YS.pred
+Total.pred
+## c)
+
+mu.hat<-predict(model, newdata=data, type="response")
+N<-dim(data)[1]
+n<-150
+
+e.b<-numeric()
+
+for(b in 1:100){
+
+yb<-numeric()
+for(i in 1:N){
+
+yb[i]<-sample(0:1,1,prob=c(1-mu.hat[i],mu.hat[i]))
+
+}
+
+model.b<-glm(yb[1:n]~distance+age, family=binomial(link="logit"), data=sample.data)
+YS.sumB<-sum(predict(model.b, newdata=unknown.data, type="response"))
+
+e.b[b]<-sum(yb[-(1:150)])-YS.sumB
+
+}
+
+var.error<-var(e.b)
+var.error
+
+## d)
+
+
+z<-qnorm(0.9)
+lower.bound<-YS.pred-z*sqrt(var.error)
+upper.bound<-YS.pred+z*sqrt(var.error)
+lower.bound
+upper.bound
+
+
+z<-qnorm(0.9)
+lower.bound<-Total.pred-z*sqrt(var.error)
+upper.bound<-Total.pred+z*sqrt(var.error)
+lower.bound
+upper.bound
+

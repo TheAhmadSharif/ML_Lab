@@ -1,0 +1,29 @@
+Beta distribution is continuous probability distribution.
+
+
+Example: People click through advertisement.
+How likely readers will clap or like your content.
+How likely it is that Modi will win a third time
+The 5-year survival chance for women with breast cancer. 
+
+
+
+Tilde  ~
+
+ 
+Possion -> Low success with specific time
+
+Limited numbers 
+
+
+Mean 
+Variance How far away from mean. How spread out the data is
+
+
+
+
+Poisson Distribution
+
+The number of car accidents in a day.
+
+Events are occuring independently.

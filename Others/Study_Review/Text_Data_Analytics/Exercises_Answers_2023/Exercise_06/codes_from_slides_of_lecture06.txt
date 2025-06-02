@@ -1,0 +1,192 @@
+#%% Try LSA on a very small data set
+# Let's take the top-500 TF-IDF features, 
+# and 1000 documents of 20 Newsgroups 
+# (the rec.sport.baseball newsgroup)
+dimensiontotals=numpy.squeeze( \
+    numpy.array(numpy.sum(tfidfmatrix,axis=0)))
+highesttotals=numpy.argsort(-1*dimensiontotals)
+Xsmall=tfidfmatrix[:,highesttotals[0:500]]
+Xsmall=Xsmall[9000:10000,:].todense()
+
+# Compute 10 factors from LSA
+n_low_dimensions=10
+Uleft,D,UrightT=scipy.sparse.linalg.svds(\ 
+    Xsmall,k=n_low_dimensions)
+
+
+
+#---------------------------------
+
+
+
+# Examine the singular values
+print(D)
+
+# Examine a factor (here the one with largest singular value)
+print(UrightT[9,:])
+
+# 20 words with largest absolute weights in the factor
+topweights_indices=numpy.argsort(-1*numpy.abs(UrightT[9,:]))
+print(remainingvocabulary[highesttotals[topweights_indices[0:20]]])
+
+# Same for the next highest factor
+topweights_indices=numpy.argsort(-1*numpy.abs(UrightT[8,:]))
+print(remainingvocabulary[highesttotals[topweights_indices[0:20]]]) 
+
+
+
+#---------------------------------
+
+
+
+import numpy, numpy.matlib, scipy, scipy.stats
+def plsa(document_to_word_matrix, n_topics, n_iterations):    
+    n_docs=numpy.shape(document_to_word_matrix)[0]            # Number of documents and vocabulary words
+    n_vocab=numpy.shape(document_to_word_matrix)[1]       
+    theta = scipy.stats.uniform.rvs(size=(n_vocab,n_topics))  # Prob of words per topic: random init
+    theta = theta/numpy.matlib.repmat(numpy.sum(theta,axis=0),n_vocab,1)    
+    psi = scipy.stats.uniform.rvs(size=(n_topics,n_docs))     # Probs topics per document: random init
+    psi = psi/numpy.matlib.repmat(numpy.sum(psi,axis=0),n_topics,1)    
+    n_words_in_docs = numpy.squeeze(numpy.array(\             # Numbers of words in documents: computed once
+        numpy.sum(document_to_word_matrix,axis=1)))    
+    n_totalwords = numpy.sum(n_words_in_docs)                 # Total number of words: computed once    
+    pi = n_words_in_docs/n_totalwords                         # Document probs: computed once        
+    for myiter in range(n_iterations):                        # Perform Expectation-Maximization iterations
+        # ===Perform E-step====
+        doc_word_to_topics = []               # Compute theta_{v|t}psi_{t|d}/sum_t' theta_{v|t'}psi_{t'|d} 
+        doc_word_to_topic_sum = numpy.zeros((n_docs,n_vocab))               
+        for t in range(n_topics):
+            doc_word_to_topict = \
+                numpy.matlib.repmat(theta[:,t],n_docs,1) * \
+                numpy.matlib.repmat(psi[t,:],n_vocab,1).T             
+            myepsilon=1e-14           # Add a positive number to avoid divisions by zero
+            doc_word_to_topict += myepsilon 
+            doc_word_to_topics.append(doc_word_to_topict)
+            doc_word_to_topic_sum += doc_word_to_topict
+        for t in range(n_topics):
+            doc_word_to_topics[t] /= doc_word_to_topic_sum 
+        # =======Perform M-step=======                        
+        # Add a small number to word counts to avoid divisions by zero
+        for t in range(n_topics):                            # Compute document-to-topic probabilities.
+            psi[t,:] = numpy.squeeze(numpy.array(numpy.sum( \
+               numpy.multiply(document_to_word_matrix+myepsilon,doc_word_to_topics[t]),axis=1)))        
+        psi /= numpy.matlib.repmat(numpy.sum(psi,axis=0),n_topics,1)        
+        for t in range(n_topics):                            # Compute topic-to-word probabilities
+            theta[:,t]= numpy.squeeze(numpy.array(numpy.sum( \
+                 numpy.multiply(document_to_word_matrix,doc_word_to_topics[t]),axis=0).T))       
+        theta /= numpy.matlib.repmat(numpy.sum(theta,axis=0),n_vocab,1)
+    return(pi,psi,theta)
+
+
+
+#---------------------------------
+
+
+
+#%% Try PLSA on a very small data set
+# Let's take the same 500 features as in LSI, 
+# and the same 1000 baseball documents but use
+# the term-frequency (TF) values for the features
+dimensiontotals=numpy.squeeze( \
+    numpy.array(numpy.sum(tfidfmatrix,axis=0)))
+highesttotals=numpy.argsort(-1*dimensiontotals)
+Xsmall=tfmatrix[:,highesttotals[0:500]]
+Xsmall=Xsmall[9000:10000,:].todense()
+
+# Run PLSA
+n_topics=10
+n_iterations=200
+pi,psi,theta=plsa(Xsmall, n_topics, n_iterations)
+
+
+
+#---------------------------------
+
+
+
+# Examine the factor probabilities p(t) = sum_d p(t|d) p(d)
+print(numpy.sum(psi*numpy.matlib.repmat(pi,n_topics,1),axis=1))
+
+# Examine a factor (here the one with largest probability, factor 1)
+print(theta[:,1])
+
+# Words with largest absolute weights in the factor
+topweights_indices=numpy.argsort(-1*numpy.abs(theta[:,1]))
+print(remainingvocabulary[highesttotals[topweights_indices[0:20]]])
+
+# Same for the next biggest factor (here factor 4)
+topweights_indices=numpy.argsort(-1*numpy.abs(theta[:,4]))
+print(remainingvocabulary[highesttotals[topweights_indices[0:20]]])
+
+
+
+#---------------------------------
+
+
+
+import gensim
+# Create a dictionary from the documents
+startdoc=9000     # We will use the baseball n.g.
+enddoc=10000      # again, but all features
+gensim_docs=mycrawled_prunedtexts[startdoc:enddoc]
+gensim_dictionary=gensim.corpora.Dictionary(gensim_docs)
+# Create the document-term vectors
+gensim_docvectors=[]
+for k in range(len(gensim_docs)):     
+    docvector=gensim_dictionary.doc2bow(gensim_docs[k])
+    gensim_docvectors.append(docvector)
+
+
+
+#---------------------------------
+
+
+
+# Run the LDA optimization
+numtopics=10
+randomseed=124574527
+numiters=10000
+ninits=10
+gensim_ldamodel=gensim.models.ldamodel.LdaModel( \
+    gensim_docvectors, \
+    id2word=gensim_dictionary,num_topics=numtopics, \
+    iterations=numiters,random_state=randomseed)
+
+
+
+#---------------------------------
+
+
+
+# Get topic content: term-topic probabilities
+gensim_termtopicprobabilities=gensim_ldamodel.get_topics()
+# Get topic prevalences per document, and overall topic prevalences
+# (expected amount of documents per topic)
+overallstrengths=numpy.zeros((numtopics,1))
+documentstrengths=numpy.zeros((len(gensim_docvectors),numtopics))
+for k in range(len(gensim_docvectors)):
+    topicstrengths=gensim_ldamodel.get_document_topics(\
+        gensim_docvectors[k],minimum_probability=0)
+    for m in range(len(topicstrengths)):
+        documentstrengths[k][topicstrengths[m][0]]=topicstrengths[m][1]
+        overallstrengths[topicstrengths[m][0]]=\
+        overallstrengths[topicstrengths[m][0]]+topicstrengths[m][1]
+
+
+
+#---------------------------------
+
+
+
+# Show top-10 words of the top topic (number 5 here)
+print(gensim_ldamodel.show_topic(5,topn=10))
+
+# Show top-10 words of the next strongest topic (number 4 here)
+print(gensim_ldamodel.show_topic(5,topn=10))
+
+
+
+#---------------------------------
+
+
+

@@ -1,0 +1,24 @@
+import pandas as pd
+import plotly.express as px
+
+import numpy as np
+import os 
+
+cwd = os.getcwd() 
+env_name = os.environ.get('KAGGLE_KERNEL_RUN_TYPE', 'Localhost')
+
+
+if(env_name == "Localhost"):
+    df = pd.read_csv('../datasets/New/Earthquake.csv')
+else: 
+    df = pd.read_csv("/kaggle/input/sports-football-1872-2025/Sports_Football_1872_2025.csv")
+
+
+–––––––––– Instructions
+
+1. List top_n = 20 nation which has highest External_debt_per_capita in a bar chart
+2. include_countries=["Finland", "Sweden", "Denmark", "Israel", "Norway"] Use as parameter and include these countries even they might not in top_n countries
+3. Use k-means cluster : x- axis : GDP per capita latest year from gdp_per_capita.csv
+y-axis : External_debt_per_capita
+4. Use Python code, and reuseable code I mean use function for every requirement 
+5. Use plotly Python Library

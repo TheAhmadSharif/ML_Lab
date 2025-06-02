@@ -1,0 +1,6 @@
+Assume that the probability of having such disease in general is about
+0.0001. You decide to get tested, and suppose that the testing methods for
+this disease are correct 90 percent of the time. However, it also give false
+positive results with 0.01 probability.
+- What is the probability that you really have the disease when the test gives
+positive result?

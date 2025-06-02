@@ -1,0 +1,13 @@
+age	cohort	bcdeaths	pyr
+50-54	Study gr.	9	64144
+55-59	Study gr.	34	92734
+60-64	Study gr.	43	83510
+65-69	Study gr.	53	87408
+70-74	Study gr.	56	77427
+75-79	Study gr.	28	25600
+50-54	Nat.ctr.	89	767111
+55-59	Nat.ctr.	434	1067778
+60-64	Nat.ctr.	516	906943
+65-69	Nat.ctr.	535	826254
+70-74	Nat.ctr.	545	635385
+75-79	Nat.ctr.	214	192946

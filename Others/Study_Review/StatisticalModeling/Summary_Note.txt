@@ -1,0 +1,125 @@
+
+Maximum Likelihood Estimation
+–––––––––––––––––––––––––––––––––
+Maximum Likelihood Estimation, or MLE for short, is a probabilistic framework for estimating the parameters of a model.
+
+Residual
+–––––––––––––––––––––––––––––––––
+In statistical models, a residual is the difference between the observed value and the mean value that the model predicts for that observation.
+
+Interaction Model
+–––––––––––––––––––––––––––––––––
+µjh = β0 + βj + αh + γjh
+
+
+Mean square error
+–––––––––––––––––––––––––––––––––
+It provides a summary of the difference between values predicted by a model and the values actually observed from the environment that is being modeled.
+
+
+      ActualValue       Predicted Value(y)
+1         3               2.5
+2         6               5.5
+
+
+
+e1 = y−y^ = 3 − 2.5 = 0.5
+e1 = y−y^ = 6 − 5.5 = 0.5
+
+e1² = (0.5)² = 0.25
+e2² = (0.5)² = 0.25
+
+MSE = 0.25 + 0.25 / 2 = 0.25
+
+
+# Define the actual and predicted values
+actual <- c(3, 6)
+predicted <- c(2.5, 5.5)
+
+# Calculate MSE
+mse <- mean((predicted - actual)^2)
+
+# Print the result
+print(mse)
+
+_____________________________
+Difference between Mean square error and Residual
+
+Testing in Generalized Linear Models
+Wald Test Statistic
+count data models
+
+
+Counts are non-negative integers. They represent the number of
+occurrences of an event within a fixed period.
+
+Note: We have rare events, in general, far from normal distributed data.
+
+
+Dichotomous variables
+–––––––––––––––––––––––––––––––––
+Dichotomous (outcome or variable) means "having only two possible values", e.g. "yes/no", "male/female", "head/tail", "age > 35 / age <= 35" etc.
+
+
+A variable that can have only one of two values (typically, 0 or 1) to designate membership in one of two possible categories, such as female versus male or Republican versus Democrat. Also called binary variable.
+
+
+
+Example:
+
+The number of products that a consumer buys on Amazon.
+The number of kids a couple has
+
+https://www.youtube.com/watch?v=T6cv8n9xBGQ
+The poisson model predicts the no of occurences of an event.
+
+
+Zero-Inflated Models
+–––––––––––––––––––––––––––––––––
+– In count data models, there may be situations where the number of zero occurs sig-
+nificantly more frequently than it should occur under Poisson or negative binomial
+distribution.
+
+
+Models for Binary Variable
+–––––––––––––––––––––––––––––––––
+Logit Models for Binary Variable
+– Consider the situation where the realization of the random variable Yi can have only
+two different outcomes. Every binary outcome situations outcomes can be coded as
+values 0 and 1.
+
+
+————————————————————————
+Survival Time Analysis
+————————————————————————
+
+A group of statistical methods n which the variable studied is the time until an an event occurs.
+https://www.youtube.com/watch?v=Wo9RNcHM_bs
+একজন রোগী সুস্থ হওয়ার পর আবার সংক্রমণের সময়কাল
+
+Time until death after an illness.
+Time to recover after burn out
+
+
+p value is greater than 0.05. Null hypothesis is accepted. (retain)
+
+
+Hazards Function
+The most common use of the function is to model a participant’s chance of death as a function of their age.
+
+Hazards and Survival Functions
+
+The hazard function is λ(t) = f(t)/S(t). It is the probability that the person or machine or business dies in the next instant, given that it survived to time t.
+
+
+
+Relapse === পুনরায় সংক্রমণ
+
+Cox Regression Model
+–––––––––––––––––––––––––––––––––
+In survival analysis, the relationship of the hazard function to the explanatory vari-
+ables is typically examined.
+
+
+
+Cox regression (or proportional hazards regression) is method for investigating the effect of several variables upon the time a specified event takes to happen. In the context of an outcome such as death this is known as Cox regression for survival analysis

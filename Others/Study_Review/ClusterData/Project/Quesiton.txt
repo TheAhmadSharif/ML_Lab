@@ -1,0 +1,65 @@
+ summary(model)
+Generalized linear mixed model fit by maximum likelihood (Laplace Approximation) ['glmerMod']
+ Family: poisson  ( log )
+Formula: total ~ gdp_std + population_std + (1 | country_code)
+   Data: df
+
+     AIC      BIC   logLik deviance df.resid 
+   580.3    590.3   -286.1    572.3       86 
+
+Scaled residuals: 
+     Min       1Q   Median       3Q      Max 
+-1.17531 -0.31231 -0.02998  0.22118  0.41578 
+
+Random effects:
+ Groups       Name        Variance Std.Dev.
+ country_code (Intercept) 0.8531   0.9236  
+Number of obs: 90, groups:  country_code, 90
+
+Fixed effects:
+               Estimate Std. Error z value Pr(>|z|)    
+(Intercept)      1.7339     0.1116  15.530  < 2e-16 ***
+gdp_std          0.5062     0.1085   4.666 3.07e-06 ***
+population_std   0.3657     0.1033   3.542 0.000397 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr) gdp_st
+gdp_std     -0.069       
+popultn_std -0.041  0.120
+---------------------------------------------------------
+Can you interpret the result In this text format for Latex ?????????????
+
+
+
+
+\begin{itemize}
+    \item \textbf{Gold Medals:} The estimate for gold medals is 0.0605 (p = 0.00726). This suggests that for each additional gold medal won by a country, the expected total medal count increases by approximately 6.05\%. This effect is statistically significant.
+    \item \textbf{Silver Medals:} The estimate for silver medals is -0.0106 (p = 0.73796), suggesting that silver medals do not significantly affect the total medal count.
+    \item \textbf{Bronze Medals:} The estimate for bronze medals is 0.0776 (p = 0.00698), indicating that each additional bronze medal increases the total medal count by 7.76\%. This effect is statistically significant.
+    \item \textbf{GDP Per Capita:} The estimate for GDP Per Capita is 0.000003158 (p = 0.30758), which is not statistically significant. This suggests that GDP Per Capita is not a strong predictor of total medals.
+    \item \textbf{Population:} The estimate for population is -0.0003756 (p = 0.31368), indicating that population size is not significantly associated with total medals.
+    \item \textbf{Random Intercept (Country):} The random effect variance is 0.2384 with a standard deviation of 0.4883. This indicates some variability in total medal counts across countries that is not explained by the fixed effects.
+\end{itemize}
+
+
+
+\subsection{Model Diagnostics}
+
+\begin{itemize}
+    \item \textbf{AIC/BIC:} The AIC of the model is 507.8, and the BIC is 525.3. These values can be used to compare the fit of this model to alternative models.
+    \item \textbf{Residuals:} The scaled residuals are fairly well-distributed, with no extreme outliers.
+    \item \textbf{Convergence Warning:} The model did not fully converge, showing a degenerate Hessian with one negative eigenvalue. This suggests potential instability in the estimates, and rescaling some predictor variables or modifying the model might be necessary.
+\end{itemize}
+
+
+\section{Conclusion}
+
+The analysis indicates that GDP Per Capita and population size do not have a significant impact on a country's total medal count in the 2024 Olympic Games. While GDP Per Capita shows a positive but weak relationship, and population has a slight negative effect, neither is statistically significant.
+\newline
+Gold and bronze medals are strong predictors of total medal count, with positive and significant effects. In contrast, silver medals show a weak and uncertain negative trend.
+\newline
+Additionally, regional differences suggest that cultural, historical, or infrastructural factors might influence Olympic performance beyond economic indicators.
+\newline
+Overall, predicting Olympic success is complex, with gold and bronze medals playing a key role, while GDP Per Capita and population have weaker and less certain effects.

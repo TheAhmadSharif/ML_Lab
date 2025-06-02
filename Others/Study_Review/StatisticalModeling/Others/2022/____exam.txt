@@ -1,0 +1,99 @@
+Melanooma
+
+
+
+main.normal<-glm(time~poison+treat, family=gaussian(link="identity"), data=rats)
+main.normalL<-glm(time~poison+treat, family=gaussian(link="log"), data=rats)
+main.normalI<-glm(time~poison+treat, family=gaussian(link="inverse"), data=rats)
+
+par(mfrow=c(2,2))
+interaction.plot(poison, treat, time)
+interaction.plot(poison, treat, fitted(main.normal, type="response"))
+interaction.plot(poison, treat, fitted(main.normalL, type="response"))
+interaction.plot(poison, treat, fitted(main.normalI, type="response"))
+————————————————————————
+
+#1.a
+model.ber <- glm(status ~ sex+age+thickness+ulcer, family = binomial(link="logit"), data=data)
+summary(model.ber)
+newdata <- data.frame(sex=1, age=50, thickness=7, ulcer=1)
+mu.i <- predict(model.ber, newdata = newdata, type = "response")
+mu.i # 0.6330488
+
+#1.b
+
+library(survival)
+model.c <- coxph(Surv(time, status)~sex+age+thickness+ulcer, data = data)
+summary(model.c)
+sf.c <- survfit(model.c, newdata = newdata)
+summary(sf.c, times=5000)# 0.224
+
+# Hence the survival probability for the given value is 0.224
+
+# 1.c
+library(eha)
+model.wph<-phreg(Surv(time, status)~sex+age+thickness+ulcer, data=data, dist="weibull")
+summary(model.wph)
+coef(model.wph)
+p<-exp(coef(model.wph)[6])
+lambda<-exp(coef(model.wph)[5])
+beta<-coef(model.wph)[1:4]
+x<-t(t(c(1,50,7,1)))
+lambda.star<-lambda/exp((t(x)%*%beta)/p)
+
+qweibull(0.1, shape=p, scale=lambda.star) # 377.3103
+qweibull(0.9, shape=p, scale=lambda.star) # 4823.555
+
+
+mammography
+
+
+
+
+
+
+
+
+
+
+2.a
+model.logmain<-glm(bcdeaths~offset(log(pyr))+age+factor(cohort), family=poisson(link="log"), data=data)
+summary(model.logmain)
+
+model.h0 <- glm(bcdeaths~offset(log(pyr))+age, family=poisson(link="log"), data=data)
+summary(model.h0)
+
+anova(model.h0, model.logmain, test = "Chi")
+# From the test we cannot reject the null hypothesis considering the
+# significance level 0.1941. However due to the simplicity of the model 
+# and further considering the other factors such as cohort, let's us
+# take the main model for the consideration.
+
+newdata<-data.frame(age= "75-79", cohort="Study gr.", pyr= 25000 )
+pred<-predict(model.logmain, newdata=newdata, type="response")
+pred # 25.55821 the maximum likely hood estimate.
+
+#2.b
+
+#for the ratio estimate we have
+ratio.estimate<-pred/newdata$pyr
+ratio.estimate # 0.001022328 the is the ratio estimate.
+
+# 2.c
+
+
+xf<-t(cbind(1,0,0,0,1,0,1))
+
+Var.eYf<-pred*(1+pred*t(xf)%%vcov(model.logmain)%%xf)
+
+lower.Yf<-pred-qnorm(0.9)*sqrt(Var.eYf)
+upper.Yf<-pred+qnorm(0.9)*sqrt(Var.eYf)
+lower.Yf
+upper.Yf
+
+Var.eZf<-((1/newdata$pyr)^2)*Var.eYf
+
+lower.Zf<-ratio.estimate-qnorm(0.9)*sqrt(Var.eZf)
+upper.Zf<-ratio.estimate+qnorm(0.9)*sqrt(Var.eZf)
+lower.Zf # 0.0007450952
+upper.Zf # 0.001299561

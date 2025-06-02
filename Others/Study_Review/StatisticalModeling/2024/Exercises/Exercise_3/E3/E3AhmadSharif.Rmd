@@ -1,0 +1,109 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+# ---
+# title: "E3"
+# author: "AhmadSharif"
+# date: "2023-02-08"
+# output: pdf_document
+# ---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r, simple, echo=TRUE}
+# data<-read.table("ozone.txt", header=TRUE, sep="", dec=".")
+names(data) 
+attach(data)
+data
+```
+
+##1) a) Which model fits the best to the data if the choice of model is done based
+## on the AIC value?
+ 
+# i. identity
+
+
+```{r, simple, echo=TRUE}
+
+gaussian.model <- glm(data$ozone~ rad + temp + wind, family=gaussian(link="identity"), data=data)
+pearson_residuals <- residuals(gaussian.model, type = "pearson")
+pearson_residuals
+plot(qnorm(ppoints(length(pearson_residuals))), sort(pearson_residuals), 
+     xlab = "Expected Normal Quantiles", ylab = "Ordered Pearson Residuals")
+abline(0, 1, col = "red")
+
+gaussian_test
+```
+
+
+```{echo=TRUE}
+###############################
+########## Inverse Gaussian
+###############################
+inverse_gaussian.model <- glm(data$ozone~ rad + temp + wind, family = inverse.gaussian(link = "identity"), data = data)
+inverse_gaussian.model 
+inverse_gaussian_pearson_residuals <- residuals(inverse_gaussian.model, type = "pearson")
+
+```
+
+
+```{echo=TRUE}
+###############################
+########## Gamma 
+##############################
+
+
+gama.model <- glm(data$ozone~ rad + temp + wind, family=Gamma(link="log"), data=data)
+gama.model 
+gamma_pearson_residuals <- residuals(gama.model, type = "pearson")
+
+```
+
+```{echo=TRUE}
+summary(gaussian.model)
+summary(gama.model)
+summary(inverse_gaussian.model)
+
+```
+## ii. Yi ∼ Gamma(µi, φ) Gamma is better. 
+
+
+### c)  Regardless of your solutions to (a) and (b), let us assume Yi ∼ Gamma(µi, φ)
+
+```{echo=TRUE}
+# Fit the GLM model
+gama.model <- glm(data$ozone~ rad + temp + wind, data = data, family = gaussian(link = "log"))
+coef_sum <- coef(gama.model)[2] + coef(gama.model)[3]
+coef_sum
+
+se_sum <- sqrt(vcov(gama.model)[2,2] + vcov(gama.model)[3,3] - 2 * vcov(gama.model)[2,3])
+se_sum
+```
+
+
+```{echo=TRUE}
+# Calculate the t-statistic
+t_statistic <- coef_sum / se_sum
+t_statistic
+
+# Calculate the p-value
+p_value <- 2 * (1 - pt(abs(t_statistic), df = df.residual(gama.model)))
+p_value
+
+## Reject null hypothesis as it is less 
+```
+########################################
+# 02
+########################################
+```{echo=TRUE}
+# weld_data<-read.table("weld.txt", sep="\t", dec=".", header=TRUE)
+# weld_data
+# names(weld_data)
+# glimpse(weld_data)
+```
+

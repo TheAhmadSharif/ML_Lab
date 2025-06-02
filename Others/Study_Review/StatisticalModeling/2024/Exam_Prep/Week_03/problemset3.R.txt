@@ -1,0 +1,258 @@
+### Statistical Modeling 1
+### Problem set 3
+### 2024
+
+############################
+### Question 1
+
+data<-read.table("Alba.txt", sep="\t", dec=".", header=TRUE)
+attach(data)
+
+plot(Dose, DryMatter)
+coplot(DryMatter~Dose| Herbicide)
+
+plot(Dose, DryMatter)
+points(Dose[Herbicide=="Bentazone"], DryMatter[Herbicide=="Bentazone"], pch=19, col="blue")
+points(Dose[Herbicide=="Glyphosate"], DryMatter[Herbicide=="Glyphosate"], pch=19, col="red")
+
+### a)
+
+model.identity<-glm(DryMatter~Dose*factor(Herbicide), family=gaussian(link="identity"), data=data)
+summary(model.identity)
+
+model.log<-glm(DryMatter~Dose*factor(Herbicide), family=gaussian(link="log"), data=data)
+summary(model.log)
+
+model.inverse<-glm(DryMatter~Dose*factor(Herbicide), family=gaussian(link="inverse"), data=data)
+summary(model.inverse)
+
+model.1mu2<-glm(DryMatter~Dose*factor(Herbicide), family=gaussian(link="1/mu^2"), data=data)
+summary(model.1mu2)
+
+newdata<-expand.grid(Dose=0:700, Herbicide=levels(factor(Herbicide)))
+plot(Dose, DryMatter)
+points(Dose[Herbicide=="Bentazone"], DryMatter[Herbicide=="Bentazone"], pch=19, col="blue")
+points(Dose[Herbicide=="Glyphosate"], DryMatter[Herbicide=="Glyphosate"], pch=19, col="red")
+
+lines(newdata$Dose[newdata$Herbicide=="Bentazone"], predict(model.identity, newdata=newdata[newdata$Herbicide=="Bentazone",], type="response"), col="blue")
+lines(newdata$Dose[newdata$Herbicide=="Glyphosate"], predict(model.identity, newdata=newdata[newdata$Herbicide=="Glyphosate",], type="response"), col="red")
+
+lines(newdata$Dose[newdata$Herbicide=="Bentazone"], predict(model.log, newdata=newdata[newdata$Herbicide=="Bentazone",], type="response"), col="blue")
+lines(newdata$Dose[newdata$Herbicide=="Glyphosate"], predict(model.log, newdata=newdata[newdata$Herbicide=="Glyphosate",], type="response"), col="red")
+
+lines(newdata$Dose[newdata$Herbicide=="Bentazone"], predict(model.inverse, newdata=newdata[newdata$Herbicide=="Bentazone",], type="response"), col="blue")
+lines(newdata$Dose[newdata$Herbicide=="Glyphosate"], predict(model.inverse, newdata=newdata[newdata$Herbicide=="Glyphosate",], type="response"), col="red")
+
+lines(newdata$Dose[newdata$Herbicide=="Bentazone"], predict(model.1mu2, newdata=newdata[newdata$Herbicide=="Bentazone",], type="response"), col="blue")
+lines(newdata$Dose[newdata$Herbicide=="Glyphosate"], predict(model.1mu2, newdata=newdata[newdata$Herbicide=="Glyphosate",], type="response"), col="red")
+
+MSE.1<-mean(residuals(model.identity, type="response")^2) 
+MSE.2<-mean(residuals(model.log, type="response")^2) 
+MSE.3<-mean(residuals(model.inverse, type="response")^2) 
+MSE.4<-mean(residuals(model.1mu2, type="response")^2) 
+
+MSE.1
+MSE.2
+MSE.3
+MSE.4
+
+
+### b)
+
+newdata<-data.frame(Dose=50, Herbicide="Glyphosate")
+pred<-predict(model.inverse, newdata=newdata, type="response")
+pred
+
+### c)
+
+eta<-predict(model.inverse, newdata=newdata, type="link", se.fit=TRUE)
+link.lowerbound<-eta$fit-qnorm(0.975)*eta$se.fit
+link.upperbound<-eta$fit+qnorm(0.975)*eta$se.fit
+link.lowerbound
+link.upperbound
+
+lower.mu<-1/link.upperbound   # change!
+upper.mu<-1/link.lowerbound   # change! 
+
+lower.mu
+upper.mu
+
+##
+
+newdata<-expand.grid(Dose=0:700, Herbicide=levels(factor(Herbicide)))
+eta<-predict(model.inverse, newdata=newdata, type="link", se.fit=TRUE)
+link.lowerbound<-eta$fit-qnorm(0.975)*eta$se.fit
+link.upperbound<-eta$fit+qnorm(0.975)*eta$se.fit
+lower.mu<-1/link.upperbound
+upper.mu<-1/link.lowerbound
+
+plot(Dose, DryMatter)
+points(Dose[Herbicide=="Bentazone"], DryMatter[Herbicide=="Bentazone"], pch=19, col="blue")
+points(Dose[Herbicide=="Glyphosate"], DryMatter[Herbicide=="Glyphosate"], pch=19, col="red")
+lines(newdata$Dose[newdata$Herbicide=="Bentazone"], predict(model.inverse, newdata=newdata[newdata$Herbicide=="Bentazone",], type="response"), col="blue",lwd=3)
+lines(newdata$Dose[newdata$Herbicide=="Glyphosate"], predict(model.inverse, newdata=newdata[newdata$Herbicide=="Glyphosate",], type="response"), col="red", lwd=3)
+
+lines(newdata$Dose[newdata$Herbicide=="Bentazone"], lower.mu[newdata$Herbicide=="Bentazone"], col="blue",lwd=1)
+lines(newdata$Dose[newdata$Herbicide=="Glyphosate"], lower.mu[newdata$Herbicide=="Glyphosate"], col="red",lwd=1)
+lines(newdata$Dose[newdata$Herbicide=="Bentazone"], upper.mu[newdata$Herbicide=="Bentazone"], col="blue",lwd=1)
+lines(newdata$Dose[newdata$Herbicide=="Glyphosate"], upper.mu[newdata$Herbicide=="Glyphosate"], col="red",lwd=1)
+
+
+### d)
+
+model.matrix(model.inverse)
+xf<-t(t(c(1,50,1,50)))
+
+phi<-summary(model.inverse)$dispersion
+Var.Yf<-phi
+D.f<--(pred^2)
+Var.ef<-Var.Yf+(D.f^2)*t(xf)%*%vcov(model.inverse)%*%xf
+
+lower.yf<-pred-qnorm(0.9)*sqrt(Var.ef)
+upper.yf<-pred+qnorm(0.9)*sqrt(Var.ef)
+
+lower.yf
+upper.yf
+
+###
+
+newdata<-expand.grid(Dose=0:700, Herbicide=levels(factor(Herbicide)))
+pred<-predict(model.inverse, newdata=newdata, type="response")
+
+Xf<-model.matrix(~Dose*factor(Herbicide), data=newdata)
+Xf
+
+phi<-summary(model.inverse)$dispersion
+Var.Yf<-phi
+D.f<--(pred^2)
+Var.ef<-Var.Yf+(D.f^2)*diag(Xf%*%vcov(model.inverse)%*%t(Xf))
+
+lower.yf<-pred-qnorm(0.9)*sqrt(Var.ef)
+upper.yf<-pred+qnorm(0.9)*sqrt(Var.ef)
+
+plot(Dose, DryMatter)
+points(Dose[Herbicide=="Bentazone"], DryMatter[Herbicide=="Bentazone"], pch=19, col="blue")
+points(Dose[Herbicide=="Glyphosate"], DryMatter[Herbicide=="Glyphosate"], pch=19, col="red")
+lines(newdata$Dose[newdata$Herbicide=="Bentazone"], predict(model.inverse, newdata=newdata[newdata$Herbicide=="Bentazone",], type="response"), col="blue",lwd=3)
+lines(newdata$Dose[newdata$Herbicide=="Glyphosate"], predict(model.inverse, newdata=newdata[newdata$Herbicide=="Glyphosate",], type="response"), col="red", lwd=3)
+
+lines(newdata$Dose[newdata$Herbicide=="Bentazone"], lower.mu[newdata$Herbicide=="Bentazone"], col="blue",lwd=1)
+lines(newdata$Dose[newdata$Herbicide=="Glyphosate"], lower.mu[newdata$Herbicide=="Glyphosate"], col="red",lwd=1)
+lines(newdata$Dose[newdata$Herbicide=="Bentazone"], upper.mu[newdata$Herbicide=="Bentazone"], col="blue",lwd=1)
+lines(newdata$Dose[newdata$Herbicide=="Glyphosate"], upper.mu[newdata$Herbicide=="Glyphosate"], col="red",lwd=1)
+
+lines(newdata$Dose[newdata$Herbicide=="Bentazone"], lower.yf[newdata$Herbicide=="Bentazone"], col="blue",lwd=1,lty=2)
+lines(newdata$Dose[newdata$Herbicide=="Glyphosate"], lower.yf[newdata$Herbicide=="Glyphosate"], col="red",lwd=1,lty=2)
+lines(newdata$Dose[newdata$Herbicide=="Bentazone"], upper.yf[newdata$Herbicide=="Bentazone"], col="blue",lwd=1,lty=2)
+lines(newdata$Dose[newdata$Herbicide=="Glyphosate"], upper.yf[newdata$Herbicide=="Glyphosate"], col="red",lwd=1,lty=2)
+
+
+
+############################
+### Question 2
+
+
+rats<-read.table("ratstime.txt", sep="\t", dec=".", header=TRUE)
+attach(rats)
+
+boxplot(time~poison+treat)
+interaction.plot(poison,treat, time)
+
+### a)
+
+model.identity<-glm(time~poison+treat, family=gaussian(link="identity"), data=rats)
+summary(model.identity)
+
+model.log<-glm(time~poison+treat, family=gaussian(link="log"), data=rats)
+summary(model.log)
+
+model.inverse<-glm(time~poison+treat, family=gaussian(link="inverse"), data=rats)
+summary(model.inverse)
+
+MSE.1<-mean(residuals(model.identity, type="response")^2) 
+MSE.2<-mean(residuals(model.log, type="response")^2) 
+MSE.3<-mean(residuals(model.inverse, type="response")^2) 
+MSE.1
+MSE.2
+MSE.3
+
+interaction.plot(poison,treat, fitted(model.identity))
+interaction.plot(poison,treat, fitted(model.log))
+interaction.plot(poison,treat, fitted(model.inverse))
+
+### b)
+
+modelG<-glm(time~poison+treat, family=Gamma(link="inverse"), data=rats)
+summary(modelG)
+modelIG<-glm(time~poison+treat, family=inverse.gaussian(link="inverse"), data=rats)
+summary(modelIG)
+
+MSE.3<-mean(residuals(model.inverse, type="response")^2) 
+MSE.G<-mean(residuals(modelG, type="response")^2) 
+MSE.IG<-mean(residuals(modelIG, type="response")^2) 
+MSE.3
+MSE.G
+MSE.IG
+
+interaction.plot(poison,treat, fitted(model.inverse))
+interaction.plot(poison,treat, fitted(modelG))
+interaction.plot(poison,treat, fitted(modelIG))
+
+plot(fitted(model.inverse), residuals(model.inverse, type="response"))
+
+plot(fitted(modelG), residuals(modelG, type="response"))
+
+
+plot(fitted(model.inverse), residuals(model.inverse, type="response")/sqrt(summary(model.inverse)$dispersion))
+plot(fitted(modelG), residuals(modelG, type="response")/sqrt(summary(modelG)$dispersion*(fitted(modelG)^2)))
+plot(fitted(modelIG), residuals(modelIG, type="response")/sqrt(summary(modelIG)$dispersion*(fitted(modelIG)^3)))
+
+modelG.full<-glm(time~poison*treat, family=Gamma(link="inverse"), data=rats)
+anova(modelG, modelG.full, test="F")
+
+### c)
+
+modelIG.log<-glm(time~poison+treat, family=inverse.gaussian(link="log"), data=rats)
+summary(modelIG.log)
+
+newdata<-data.frame(poison="II",treat="B")
+
+eta<-predict(modelIG.log, newdata=newdata, type="link", se.fit=TRUE)
+link.lowerbound<-eta$fit-qnorm(0.975)*eta$se.fit
+link.upperbound<-eta$fit+qnorm(0.975)*eta$se.fit
+link.lowerbound
+link.upperbound
+
+lower.mu<-exp(link.lowerbound)
+upper.mu<-exp(link.upperbound)
+
+lower.mu
+upper.mu
+
+
+### d)
+
+
+modelG.log<-glm(time~poison+treat, family=Gamma(link="log"), data=rats)
+summary(modelG.log)
+
+newdata<-data.frame(poison="II",treat="B")
+pred<-predict(modelG.log, newdata=newdata, type="response")
+
+model.matrix(modelG.log)
+xf<-t(t(c(1,1,0,1,0,0)))
+
+phi<-summary(modelG.log)$dispersion
+Var.Yf<-phi*(pred^2)
+D.f<-pred
+Var.ef<-Var.Yf+(D.f^2)*t(xf)%*%vcov(modelG.log)%*%xf
+
+lower.yf<-pred-qnorm(0.9)*sqrt(Var.ef)
+upper.yf<-pred+qnorm(0.9)*sqrt(Var.ef)
+
+lower.yf
+upper.yf
+
+
+
+

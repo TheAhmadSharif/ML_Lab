@@ -1,0 +1,200 @@
+Topics:  Statistical Modeling: Linear Models
+
+
+data.txt
+–––––––––––––––––––
+strength	hardwood	pressure
+196.60	2.00	400.00
+197.70	2.00	500.00
+199.80	2.00	650.00
+198.40	2.00	400.00
+199.60	2.00	500.00
+200.60	2.00	650.00
+196.00	2.00	400.00
+196.00	2.00	500.00
+199.40	2.00	650.00
+198.60	2.00	400.00
+
+
+
+
+X1 = hardwood
+x2 = pressure
+Y = strength
+
+m1: Yi = a + b1x1 + e
+m1/2: Yi = a + b1x1 + b2x2 + e
+
+
+Where in each model the random error term ei, is assumed to follow normal distribution
+
+a) Under the model m1/2, calculate maximum likelihood estimate for the parameter b2
+
+b) Under the model, m1/2 find the restricted maximum likelihood estimate, na unbiased estimate σ² sigma square for the variance sigma square σ²
+
+c) Under the model m1/2, calculate the fitted value µˆ1 for the first observation
+i = 1 in the data set.
+
+d) Under the model m1|2, calculate maximum likelihood estimate for the expected value µi∗
+, when xi∗1 = 7 and xi∗2 = 500.
+
+
+e) Under the model M1|2, calculate the 80% prediction interval for the new
+observation Yi∗, when xi∗1 = 7 and xi∗2 = 500. Particularly, what is your
+estimate for lower bound of the prediction interval?
+
+
+f) Consider the following hypotheses
+H0 : Model M1 is the true model,
+H1 : Model M1|2 is the true model.
+Select the appropriate test statistic to test the above hypotheses. Calculate
+the value of the test statistic.
+
+
+
+Instructions:
+––––––––––––––––––
+Share code with R
+
+
+–––––––––––––––––––––––––––––––––––––––––––
+
+data.txt
+
+WoodType	BoardType	Deflection
+Cherry	Stacked	144.3
+Cherry	Stacked	125.9
+Cherry	Stacked	263.2
+Cherry	Stacked	114.6
+Cherry	Stacked	242.5
+Cherry	Stacked	141.9
+Cherry	Stacked	76
+Cherry	Stacked	86.5
+Cherry	Stacked	139.6
+Cherry	Stacked	147.1
+Cherry	Stacked	22.7
+Cherry	Stacked	158.9
+Cherry	Stacked	103.8
+Cherry	Stacked	51
+
+
+
+data<-read.table("data.txt", sep="\t", dec=".", header=TRUE)
+
+
+Denote explanatory variables as X1=WoodType and X2=BoardType. Consider
+modeling the response variable Y =Deection by following two different models:
+
+Yi ∼ N(µjh, σ2),
+µjh = β0 + βj + αh,
+
+M12 : Yi ∼ N(µjh, σ2)
+µjh = β0 + βj + αh + γjh,
+
+
+where index j is related to the categories of the variable X1=WoodType and index h is related to the categories of the variable X2=BoardType.
+
+
+
+a) Under the model M1|2, calculate the maximum likelihood estimate for the expected value µjh, when the explanatory variables X1, X2 are set  on values.
+
+
+X1 = Oak = 4
+X2 = Tappered = 42
+
+That is, find the maximum likelihood estimate for the expected value µ42.
+
+
+b) Let us assume that the modelM1|2 fits sufficiently enough to the given data set. In which tree species the estimate of expected value µjh is in highest level?
+
+
+i) Cherry,
+ii) Ash,
+iii) Fir,
+iv) Oak,
+
+
+
+M12 : Yi ∼ N (µjh , σ 2 )
+µjh = β0 + βj + αh + γjh
+
+c) Under the model M12, calculate the maximum likelihood estimate for the parameter γ32
+
+d)  Under the model M12, calculate the residual ei for the last observation i = 336 in the dataset
+
+
+e) Under the model M12. Consider the following hypotheses
+H0 : γjh = 0, H1 : γjh ̸= 0.
+
+Select the appropriate test statistic to test the above hypotheses. Calculate the value of the test statistic
+
+
+b) Let us assume that the modelM1|2 fits sufficiently enough to the given data set. In which tree species the estimate of expected value µjh is in highest level?
+
+
+i) Cherry,
+ii) Ash,
+iii) Fir,
+iv) Oak,
+
+
+Output
+––––––––––––––––––––
+
+
+                                                    Interaction Coefficient
+WoodTypeCherry                                   WoodTypeCherry   12.005556
+WoodTypeFir                                         WoodTypeFir  -11.997386
+WoodTypeOak                                         WoodTypeOak  -15.998889
+BoardTypeTapered                               BoardTypeTapered  -29.994444
+WoodTypeCherry:BoardTypeTapered WoodTypeCherry:BoardTypeTapered   -9.996667
+WoodTypeFir:BoardTypeTapered       WoodTypeFir:BoardTypeTapered   -9.002614
+WoodTypeOak:BoardTypeTapered       WoodTypeOak:BoardTypeTapered  -10.007778
+
+
+
+
+residual_last_observation <- residuals(model_M1_2)[nrow(data)]
+residual_last_observation
+
+Output
+
+336
+-5.093333
+
+
+# e)
+F_statistic <- summary(model_M1_2)
+F_statistic
+
+F-statistic: 7.367 on 7 and 328 DF,  p-value: 3.175e-08
+
+
+––––––––––––––––––––––––––––––––––––––––––––
+
+data.txt
+––––––––––––––––––––––––––––
+
+X1 X2 Y
+3  a  46.0
+3  b  55.4
+3  c  57.9
+6  a  55.5
+
+
+3. (a) Consider the following small data, where X1 is a numerical explanatory
+variable and X2 is categorical explanatory variable having class values {a, b, c}.
+
+
+Consider modeling the response variable Y by the following linear model:
+
+M12 : Yi = β0 + β1xi1 + αj + γjxi1 + εi
+
+where index j is related to the categories of X2. The model M1|2 can be
+written in matrix form as
+
+M1|2 : y = Xβ + ε, Cov(y) = σI
+
+
+Write in details what kind forms the model matrix X and parameter vector
+β have in case of given data is modeled by the model M12.

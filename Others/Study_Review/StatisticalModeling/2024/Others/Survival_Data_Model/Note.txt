@@ -1,0 +1,35 @@
+Survival analysis
+Hazard Rate
+
+Weibull Model
+
+
+Kaplan-Meier survival curve analysis
+
+
+
+
+Survival analysis
+–––––––––––––––––––––––––––––––––
+Survival analysis is a branch of statistics that deals with the prediction of the time until an event of interest occurs.
+
+
+Survival analysis is a branch of statistics that deals with the prediction of the time until an event of interest occurs. It is used to analyze and model the time to event data, such as death, recurrence of a disease, or failure of a mechanical system. Survival analysis takes into account the fact that not all individuals in a study may experience the event of interest, and that the event may happen at different points in time for different individuals. It is widely used in various fields such as medicine, biology, engineering, and social sciences to study and analyze the factors that influence the time to event data.
+
+physiological data
+
+Hazard Rate
+–––––––––––––––––––––––––––––––––
+The risk of an individual experiencing the event at a given time point, assuming they had not already experienced it, is known as Hazard Rate.
+
+
+Probability of individuals to survival past a certain time period.
+
+
+
+In summary, the hazard function in survival analysis provides valuable information about the risk of an event occurring at any given time point, and is essential for studying and modeling time-to-event data.
+
+Cox Regression Model
+––––––––––––––––––––––––––––––––
+
+The model estimates the hazard ratio, which represents the change in the hazard of an event occurring for a one-unit change in a co-variate, assuming that this change in hazard ratio is constant over time.

@@ -1,0 +1,471 @@
+1. What is log likelihood ? 
+2. What is linear mixed-effect model (LME)? 
+3. What is  generalized linear mixed-effect model (GLMM).
+
+
+
+
+
+Examples of clustered data
+Likelihood inference
+Quasi-likelihood methods
+Linear mixed effect models
+Mixed effect model for non normal responses
+Generalized estimation equations
+Missing data
+
+
+The exam will be an electronic exam (for instructions, see https://sites.tuni.fi/exam-en/), which will open in the exam week. 
+
+There will be 4 questions which are similar to the weekly exercises, containing both theoretical problems and empirical data analysis. In addition, there may be essay questions and definitions of statistical concepts. You can use Wacom drawing screens to write solutions that contain mathematical formulas.    
+
+
+What is  restricted model
+Poisson variates ?
+
+Share a most simple example with naive data to understand the concept The likelihood ratio test
+
+
+What is the difference between classical Hypothesis text with likelihood ratio test
+
+
+
+
+–––––––––––––––––––––––––––––
+
+
+There are four coefficients. How do I know which one to take into account  ?
+
+weight width color spine
+
+
+What is zero-inflated negtive binomial model
+
+
+What is beta-binomial distribution ? When is it used ?
+
+What is homicide?
+Homicide is the act of one person killing another person.
+
+What is quasi-score?
+Quasi-likelihood methods
+
+
+Quasi-Likelihood Models:
+
+Quasi-likelihood models are used when we know the mean and variance of the data but not the full distribution (e.g., overdispersed Poisson data).
+
+
+What is robust in statistics ? 
+Share with example
+
+A method is robust if it performs well even when assumptions are violated or when the data contains outliers. Robust techniques ensure stable and reliable results in real-world data, which often deviates from ideal assumptions.
+
+
+কারো কাছে old version Adobe Illustrator Like CS3, CS4 with License আছে . I will pay for it.
+
+
+Explain the likelihood test ratio whole concept simply with analogy
+
+Explain the concept Maximum Likelihood Estimate ?
+
+Does parameter refer mean, variance
+
+
+Share statistical/probability distribution concept
+Is it both same statistical/probability
+
+Share a simple and naive problem that solved by MLE
+
+
+What does AIC do what what does it value refer?
+
+
+Why do we reject null hypothesis when p value is less than 0.005
+
+
+
+Now share the concept Quasi-likelihood methods in most simple words with analogy ?
+
+
+
+Share most 10 common distribution 
+
+
+
+Why we reject null hypothesis when p test statistic is less than 0.05
+
+
+Gamma
+Beta
+Uniform
+Chi-square
+
+
+––––––––––––––
+
+Share some most naive example of likelihood ratio test to understand the concept
+
+0.0439453125
+45 * 0.5⁷ * 0.5² = 0.087890625
+45 * 0.7⁷ * 0.3² = 0.333534915
+
+0.087890625 / 0.333534915 = 0.26351251712  = 0.2334666175
+
+
+Summary:
+Likelihood under 
+𝐻
+0
+H 
+0
+​
+ : 0.0439453125
+Likelihood under 
+𝐻
+1
+H 
+1
+​
+ : 0.2334666175
+Likelihood Ratio (
+𝜆
+λ): 0.188
+Since 
+𝜆
+λ is much less than 1, we conclude that the data is much more likely under the alternative hypothesis that the coin is biased
+
+
+
+Galaxy A15 5G 128 Gt 
+Bought from Elisa. Ratina 
+3 Years Warranty Left
+Used for a few Days Only With a Box
+
+Galaxy A15 5G 128 Gt
+Ostettu Elisalta. Ratina
+3 vuoden takuu jäljellä
+Käytetty muutaman päivän vain laatikon kanssa
+
+––––––––––––– 
+Crabs <- read.csv("Crabs.dat.txt", )
+
+
+
+
+The null hypothesis would state that both models are equally good at explaining the data — that is, there is no significant difference between the models.
+
+
+The p-value from the test is 0.8256, which is much greater than 0.05.
+This means that we fail to reject the null hypothesis. There is no significant difference between model_1 (with factor(color)) and model_2 (with continuous color). Both models are essentially equally good at explaining the data.
+
+
+And what is alternative hypothesis in my case of example?
+
+
+There is a significant difference between the two models, meaning that one model provides a significantly better fit to the data than the other.
+
+
+
+
+The p-value from the test is 0.8256, which is much greater than 0.05.
+This means that we fail to reject the null hypothesis. There is no significant difference between model_1 (with factor(color)) and model_2 (with continuous color). Both models are essentially equally good at explaining the data.
+
+
+
+In a case, If model_1 and model_2 both cases, coefficients p-vlaue is less than 0.05. In that what does that refer ? 
+
+
+
+
+
+What does Null deviance and Residual deviance refers ?
+
+
+The reduction in deviance (199.23 - 194.00 = 5.23) indicates that the model with predictors explains 5.23 units more of the variation in the outcome variable compared to the null model.
+
+
+––––––––––––––––––––––– 
+
+The ZINB model suggests that color is significantly associated with the probability of zero inflation (excess zeros), and the Negative Binomial part suggests overdispersion.
+Likelihood Ratio Test cannot be performed between the ZINB and NB2 models because they are non-nested.
+You can compare the models using AIC/BIC to determine which provides a better fit to the data.
+
+
+
+
+What is zero-inflated negtive binomial model
+
+
+ crab  y weight width color spine
+    1  8  3.050  28.3     2     3
+    2  0  1.550  22.5     3     3
+    3  9  2.300  26.0     1     1
+    4  0  2.100  24.8     3     3
+    5  4  2.600  26.0     3     3
+
+
+model_1 <- glm(y ~ weight, family = poisson, data = Crabs)
+model_2 <- glm(y ~ weight + factor(color), family = poisson, data = Crabs)
+
+–––––––––––––––
+
+> anova(model_1, model_2)
+Likelihood ratio tests of Negative Binomial Models
+
+Response: y
+          Model     theta Resid. df    2 x log-lik.   Test    df LR stat.   Pr(Chi)
+1         color 0.7985728       171       -762.6794                                
+2 factor(color) 0.8018786       169       -762.2960 1 vs 2     2 0.383383 0.8255615
+
+
+
+
+
+
+> anova(model_2, model_1)
+Analysis of Deviance Table
+
+Model 1: y ~ weight + factor(color)
+Model 2: y ~ weight
+  Resid. Df Resid. Dev Df Deviance Pr(>Chi)  
+1       168     551.80                       
+2       171     560.87 -3  -9.0615  0.02848 *
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+––––––––––––––––––––––––––––––––––––––––––
+
+Crabs <- read.csv("Crabs.dat.txt", )
+
+
+
+
+The null hypothesis would state that both models are equally good at explaining the data — that is, there is no significant difference between the models.
+
+
+The p-value from the test is 0.8256, which is much greater than 0.05.
+This means that we fail to reject the null hypothesis. There is no significant difference between model_1 (with factor(color)) and model_2 (with continuous color). Both models are essentially equally good at explaining the data.
+
+
+
+–––––––––––––––––––––––––––––––––
+
+
+What is zero-inflated negtive binomial
+
+
+color: -0.2689 (NB2)
+This negative coefficient for color indicates that higher color scores are associated with lower counts of crabs. This is opposite to the result in the ZINB model, where a higher color score increases the probability of observing a zero count
+
+
+The AIC for the NB2 model is 768.68.
+The AIC for the zero-inflated model is calculated as:
+AIC = − 2 ×(−363) + 2 × 4 = 734
+AIC=−2×(−363)+2×4=734
+Here, the zero-inflated model has a lower AIC of 734, which indicates that the zero-inflated model provides a better fit to the data.
+
+
+
+Can we say that Response variable y negatively associated with color 
+
+
+––––––––––––––––––
+
+library(pscl)
+summary(zeroinfl(y ~ 1 | color, dist = "negbin", data = Crabs))
+##
+## Call:
+## zeroinfl(formula = y ~ 1 | color, data = Crabs, dist = "negbin")
+##
+## Pearson residuals:
+##
+Min
+1Q Median
+3Q
+Max
+## -1.2246 -0.8186 -0.1712 0.5465 3.7220
+##
+3## Count model coefficients (negbin with log link):
+##
+Estimate Std. Error z value Pr(>|z|)
+## (Intercept) 1.46324
+0.06892 21.231 < 2e-16 ***
+## Log(theta)
+1.47997
+0.35114
+4.215 2.5e-05 ***
+##
+## Zero-inflation model coefficients (binomial with logit link):
+##
+Estimate Std. Error z value Pr(>|z|)
+## (Intercept) -2.7520
+0.6658 -4.133 3.58e-05 ***
+## color
+0.8023
+0.2389
+3.358 0.000785 ***
+## ---
+## Signif. codes: 0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+##
+## Theta = 4.3928
+## Number of iterations in BFGS optimization: 14
+## Log-likelihood: -363 on 4 Df
+
+–––––––––––––
+
+In here, what is the AIC 
+
+
+AIC = 2k - 2log(L)
+   k ?
+
+
+–––––––––––––––– 
+This means that for one-unit increase in weight, the response variable increase by 1.6531 units, assuming color is constant.
+
+
+––––––––––––––––––––
+model1 <- glm(y2 ~ weight + color, family = binomial, data = Crabs)
+model1b <- glm(y2 ~ weight + factor(color), family = binomial, data = Crabs)
+model2 <- glm(y2 ~ weight*color, family = binomial, data = Crabs)
+model2b <- glm(y2 ~ weight*factor(color), family = binomial, data = Crabs)
+
+
+What is interaction effect ?
+
+–––––––––––––––––––––––
+
+
+Crabs <- read.table("~/tyo/opetus/clustered/data/Crabs.dat", header=TRUE)
+Crabs$y2 <- ifelse(Crabs$y==0, 0, 1)
+model1 <- glm(y2 ~ weight + color, family = binomial, data = Crabs)
+summary(model1)
+##
+## Call:
+## glm(formula = y2 ~ weight + color, family = binomial, data = Crabs)
+##
+## Coefficients:
+##
+Estimate Std. Error z value Pr(>|z|)
+## (Intercept) -2.0316
+1.1161 -1.820
+0.0687 .
+## weight
+1.6531
+0.3825
+4.322 1.55e-05 ***
+## color
+-0.5142
+0.2234 -2.302
+0.0213 *
+## ---
+## Signif. codes: 0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+##
+## (Dispersion parameter for binomial family taken to be 1)
+##
+##
+Null deviance: 225.76 on 172 degrees of freedom
+## Residual deviance: 190.27 on 170 degrees of freedom
+4## AIC: 196.27
+##
+## Number of Fisher Scoring iterations: 4
+model1b <- glm(y2 ~ weight + factor(color), family = binomial, data = Crabs)
+anova(model1b)
+## Analysis of Deviance Table
+##
+## Model: binomial, link: logit
+##
+## Response: y2
+##
+## Terms added sequentially (first to last)
+##
+##
+##
+Df Deviance Resid. Df Resid. Dev Pr(>Chi)
+## NULL
+172
+225.76
+## weight
+1 30.0214
+171
+195.74 4.273e-08 ***
+## factor(color) 3
+7.1949
+168
+188.54
+0.06594 .
+## ---
+## Signif. codes: 0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+model2 <- glm(y2 ~ weight*color, family = binomial, data = Crabs)
+model2b <- glm(y2 ~ weight*factor(color), family = binomial, data = Crabs)
+anova(model2b)
+## Analysis of Deviance Table
+##
+## Model: binomial, link: logit
+##
+## Response: y2
+##
+## Terms added sequentially (first to last)
+##
+##
+##
+Df Deviance Resid. Df Resid. Dev Pr(>Chi)
+## NULL
+172
+225.76
+## weight
+1 30.0214
+171
+195.74 4.273e-08 ***
+## factor(color)
+
+7.1949
+168
+188.54
+0.06594 .
+## weight:factor(color) 3
+6.8860
+165
+181.66
+0.07562 .
+## ---
+## Signif. codes: 0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+anova(model2)
+## Analysis of Deviance Table
+##
+## Model: binomial, link: logit
+##
+## Response: y2
+##
+## Terms added sequentially (first to last)
+##
+##
+##
+Df Deviance Resid. Df Resid. Dev
+## NULL
+172
+225.76
+5
+Pr(>Chi)## weight
+1 30.0214
+171
+195.74 4.273e-08 ***
+## color
+1
+5.4684
+170
+190.27
+0.01936 *
+## weight:color 1
+0.0791
+169
+190.19
+0.77851
+## ---
+## Signif. codes: 0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+The color is a significant predictor when it is considered quantitative. Interpretation: the odds ratio for
+a female crab for her having at least one male satellite is exp(1.6531) = 5.2231 when the comparison is
+made with a crab that weighs 1 kg less. Further, the odds ratio is exp(−0.5142) = 0.5980 when the crab is
+compared with a crab belonging to the closest lower darkness category.
+The interaction effect is not significant, irrespective of whether the color is modeled as categorical or
+quantitative.

@@ -1,0 +1,29 @@
+> print(c(lower_bound, upper_bound))
+[1]  9.741458 10.858542
+
+
+> print(prediction_interval)
+   lower    upper
+8.265036 9.334964 
+
+M : y ~ N(XB, Iσ2)
+Let us consider the estimation of B,
+show or explain in details, one way or another way, how the maximum likelihood estimator
+B = (X'X)⁻1 X'y is obtained
+
+
+
+2. In generalized linear models, the likelihood equations can written in form
+\[
+\frac{\partial l(\boldsymbol{\beta}, \phi)}{\partial \beta_{j}}=\sum_{i=1}^{n} \frac{\left(y_{i}-\mu_{i}\right)}{\operatorname{Var}\left(Y_{i}\right)} \cdot x_{i j} \cdot\left(\frac{\partial \mu_{i}}{\partial \eta_{i}}\right)=0, \quad j=0,1,2 \ldots p .
+\]
+
+Consider now the simple log-linear Inverse Gaussian model with
+\[
+\begin{aligned}
+Y_{i} & \sim I G\left(\mu_{i}, \phi\right), \\
+\log \left(\mu_{i}\right) & =\eta_{i}=\beta_{0} .
+\end{aligned}
+\]
+
+What kind of more simplified form the likelihood equations have in this case? That is, what form \( \frac{\partial l\left(\beta_{0}\right)}{\partial \beta_{0}} \) has in the simple Inverse Gaussian model? By using the likelihood equations, find the maximum likelihood estimator \( \hat{\beta}_{0} \).

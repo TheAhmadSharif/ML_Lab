@@ -1,0 +1,185 @@
+Linear Model
+General Linear Model
+Count
+
+##  ________________________ ## ________________________
+# (a) Under the model M1|2 , calculate the maximum likelihood estimate for the parameter β2 .  # 0.006399
+model.main<-lm(strength~hardwood+pressure)
+summary(model.main)
+coef(model.main)
+coef(model.main)[3]
+
+
+##  ________________________ ## ________________________
+# b) Under the model, m1/2 find the restricted maximum likelihood estimate, an unbiased estimate σ² sigma square for the variance sigma square σ²
+
+sigma = sigma(model)^2 # 1.328534
+##  ________________________ ## ________________________
+# c) Under the model m1/2, calculate the fitted value µˆ1 for the first observation i = 1 in the data set.
+head(data)
+
+
+A fitted value is a statistical model's prediction of the mean response value when you input the values of the predictors, factor levels, or components into the model. Suppose you have the following regression equation: y = 3X + 5. If you enter a value of 5 for the predictor, the fitted value is 20.
+
+
+
+d) Under the model m1|2, calculate maximum likelihood estimate for the expected value µi∗
+, when xi∗1 = 7 and xi∗2 = 500.
+
+newdata <- data.frame(hardwood = 7, pressure = 500)
+pred <- predict(model, data = newdata)
+
+
+––––––––––––––––––––––––––––––––––––––––––––––––
+––––––––––––––––––––––––––––––––––––––––––––––––
+
+
+Linear model main effect vs  Interaction effect
+–––––––––––––––––––––––––––––––––––––––––––––––
+
+Main Effect:
+––––––––––––
+Study time (independent variable) on exam scores (dependent variable). I
+
+
+Interaction effect:
+––––––––––––––––––
+
+The type of study material used (textbook vs. online resources). The interaction effect might reveal that the benefit of increased study time on exam scores is more pronounced for students using online resources than for those sticking with textbooks.
+
+
+
+Coffee: One might find that moderate coffee consumption increases concentration levels significantly in a library setting but has a lesser effect in a café. Here, the effectiveness of coffee on concentration depends on the study environment, showcasing a classic interaction effect.
+
+
+1.3 Linear Models with Matrix
+–––––––––––––––––––––––––––––––––––––––––––––––
+
+
+
+What is joint density function
+–––––––––––––––––––––––––––––––––––––––––––––––
+
+
+Multivariate distribution
+–––––––––––––––––––––––––––––––––––––––––––––––
+
+
+Generalized Linear Model
+–––––––––––––––––––––––––––––––––––––––––––––––
+
+what is link function in generalized linear model
+
+Generalized Linear Model
+
+
+
+What is link function
+
+https://www.youtube.com/watch?v=xDJXuoM6ZCI
+
+
+
+
+
+10 degree temperature decrease would lead to 1,000 fewer people visiting the beach. This model is unlikely to generalize well over different sized beaches. More specifically, the problem is that if you use the model to predict the new attendance with a temperature drop of 10 for a beach that regularly receives 50 beachgoers, you would predict an impossible attendance value of −950.
+–––––––––––––––––––––––––––––––––––––––––––––––
+
+
+Dose  Herbicide DryMatter
+1    1 Glyphosate       4.7
+2    1 Glyphosate       4.6
+3    1 Glyphosate       4.1
+4    1 Glyphosate       4.4
+5    1 Glyphosate       3.2
+6    1 Glyphosate       3.0
+
+
+
+data<-read.table("Alba.txt", sep="\t", dec=".", header=TRUE)
+attach(data)
+head(data)
+
+
+model_identity<-glm(DryMatter~Dose*factor(Herbicide), family=gaussian(link="identity"), data = data)
+model_log <- glm(DryMatter ~ Dose * factor(Herbicide), family = gaussian(link="log"), data = data)
+model_inverse <- glm(DryMatter ~ Dose * factor(Herbicide), family = gaussian(link="inverse"), data = data)
+model_mu2 <- glm(DryMatter ~ Dose * factor(Herbicide), family = gaussian(link="1/mu^2"), data = data)
+
+
+
+(c) Let us assume Yi ∼ N (µi , σ 2 ). Consider the model
+M:
+g(µi ) = β0 + β1 xi1 + αj + γj xi1 .
+Choose the link function g based on your solution to (a). Calculate the 95%
+confidence interval estimate for the expected value µi∗ when X1 = 50 and
+X2 = Glyphosate. Particularly, what is your obtained lower bound of the
+confidence interval?
+
+
+Exercise 03
+_______________________________________
+
+
+time poison treat
+1 0.31      I     A
+2 0.82      I     B
+3 0.43      I     C
+4 0.45      I     D
+5 0.45      I     A
+6 1.10      I     B
+
+
+
+(a) Let us assume Yi ∼ N (µjh , σ 2 ) and let us model the data with the main
+effect model
+g(µjh ) = β0 + βj + αh .
+Based on the mean square error value MSE = (yi −µ̂jh )²/n
+
+, which link function fits best to the data
+i. µjh = β0 + βj + αh ,
+ii. log(µjh ) = β0 + βj + αh ,
+iii. µ1jh = β0 + βj + αh ?
+
+Hints:
+––––––––––––––
+data <- read.csv("ratstime.txt", header = TRUE, sep = "\t")
+attach(data)
+head(data)
+
+model_identity <- glm(time ~ poison + treat, family = gaussian(link="identity"), data = data)
+model_log <- glm(time ~ poison + treat, family = gaussian(link="log"), data = data)
+model_inverse <- glm(time ~ poison + treat, family = gaussian(link="inverse"), data = data)
+
+MSE_1 <- mean(residuals(model_identity)^2)
+MSE_2 <- mean(residuals(model_log)^2)
+MSE_3 <- mean(residuals(model_inverse)^2)
+
+MSE_1 # 0.02189297
+MSE_2 # 0.0187694
+MSE_3 # 0.01866069 ***
+
+
+b)
+
+(b) Distributional assumption could be either Yi ∼ N (µjh , σ 2 ), Yi ∼ Gamma(µjh , ϕ),
+or Yi ∼ IG(µjh , ϕ). Choose the link function g based on your solution to
+(a). Based on your analysis, which one is most suitable in this case?
+i. Yi ∼ N (µjh , σ 2 ),
+ii. Yi ∼ Gamma(µjh , ϕ),
+iii. Yi ∼ IG(µjh , ϕ).
+
+
+(c) Regardless what was your solution to the question (a) and (b), let us assume Yi ∼ IG(µjh,ϕ) and consider the model
+log(µjh ) = β0 + βj + αh .
+Create 95 % confidence interval for µjh , when
+xi∗ 1 = II,
+xi∗ 2 = B.
+Particularly, what is your obtained lower bound of the confidence interval?
+
+
+model_log <- glm(time ~ poison + treat, family = gaussian(link="log"), data = data)
+newdata <- data.frame(poison = "II", treat = "B")
+
+pred <- predict(model_log, newdata = newdata, type="link", se.fit =TRUE)
+lower <- pred - 1.96 * pred$se.fit

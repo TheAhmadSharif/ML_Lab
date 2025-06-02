@@ -1,0 +1,33 @@
+15 September 2023
+————————————————————————
+
+
+Herdan’s Law
+
+2.4 Text Normalization  16, 24
+
+BPE algorithm
+
+
+Word normalization is the task of putting words/tokens in a standard format,
+
+Case folding is another kind of normalization.
+
+Case folding is another kind of normalization.
+
+
+The Porter Stemmer
+
+
+Sentence Segmentation
+
+corpus
+
+Kneser-Ney Discounting
+
+20 October 2023
+————————————————————————
+
+Naive Bayes for other text classification tasks
+
+Spam detection

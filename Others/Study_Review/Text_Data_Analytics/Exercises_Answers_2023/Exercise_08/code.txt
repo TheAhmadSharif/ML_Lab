@@ -1,0 +1,47 @@
+from hmmlearn import hmm
+import numpy as np
+
+# Load sentences from the file
+with open('sentences.txt', 'r') as file:
+    sentences = file.readlines()
+
+# Tokenize the sentences
+tokenized_sentences = [sentence.strip().split() for sentence in sentences]
+
+# Create a vocabulary
+vocab = set(word for sentence in tokenized_sentences for word in sentence)
+word2idx = {word: idx for idx, word in enumerate(sorted(vocab))}
+idx2word = {idx: word for word, idx in word2idx.items()}
+
+# Convert tokenized sentences to index sequences
+indexed_sentences = [[word2idx[word] for word in sentence] for sentence in tokenized_sentences]
+
+# Create concatenated index list and lengths of individual sentences
+concatenated_data = np.concatenate(indexed_sentences)
+sentence_lengths = [len(sentence) for sentence in indexed_sentences]
+
+# Fit the Hidden Markov Model
+n_states = 5  # Number of hidden states
+hmm_model = hmm.MultinomialHMM(n_components=n_states, n_iter=100, verbose=True)
+hmm_model.fit(np.atleast_2d(concatenated_data).T, lengths=sentence_lengths)
+
+# Inspect start, transition, and emission probabilities
+start_probabilities = hmm_model.startprob_
+transition_matrix = hmm_model.transmat_
+emission_probabilities = hmm_model.emissionprob_
+
+# Print or analyze the probabilities as needed
+print("Start Probabilities:")
+print(start_probabilities)
+print("\nTransition Matrix:")
+print(transition_matrix)
+print("\nEmission Probabilities:")
+print(emission_probabilities)
+
+
+
+---> 29 hmm_model.fit(np.atleast_2d(concatenated_data).T, lengths=sentence_lengths)
+
+ValueError                                Traceback (most recent call last)
+Cell In[12], line 29
+

@@ -1,0 +1,1 @@
+The exponential distribution predicts the wait time until the *very first* event. The gamma distribution, on the other hand, predicts the wait time until the *k-th* event occurs.

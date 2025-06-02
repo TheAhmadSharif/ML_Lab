@@ -1,0 +1,101 @@
+The populations, ni and the number of cases, Xi of a disease in a year in each of six districts
+are given in the table below
+
+
+Population ni    Cases Xi
+120342				2
+235967				5
+243745				3
+197452				5
+276935				3
+157222				1
+
+
+
+We suppose that the number Xi in a district with population ni is a Poisson random variable
+with mean ni θ/10000. The number in each district is independent of the numbers in other
+districts, given the value of θ. Our prior distribution for θ is a Gamma distribution with
+mean 3.0 and standard deviation 2.0.
+a) Find the parameters of the prior distribution.
+b) Find the prior probability that θ < 2.0.
+c) Find the likelihood.
+d) Find the posterior distribution of θ.
+e) Find the posterior mean and posterior standard deviation of θ.
+f) Plot a graph showing the prior and posterior density functions of θ on the same axes.
+g) Find the posterior probability that θ < 2.0.
+
+
+
+
+2. The following data give the supine systolic blood pressures (mm Hg) for fifteen patients with
+moderate essential hypertension. The measurements were taken immediately before and two
+hours after taking a drug.
+
+
+
+Patient 	 1		 2		 3		 4		 5		 6		 7		 8		 9		 10		 11		12		13		14		15   
+Before		210		169		187		160		167		176		185		206		173		146		174 	201		198		148		154		
+After		201		165		166		157		147		145		168		180		147		136		151 	168		179		129		131		
+
+
+We are interested in the effect of the drug on blood pressure. We assume that, given parameters µ, τ , the changes in blood pressure, from before to after, in the n patients are independent
+and normally distributed with unknown mean µ and unknown precision ψ = 1/τ : The 15 differences are as follows.
+-9 -4 -21 -3 -20 -31 -17 -26 -26 -10 -23 -33 -19 -19 -23
+
+
+Our prior distribution for ψ is a gamma(0.35, rate=1.01) distribution. Our conditional prior
+distribution for µ given τ is a Normal N(0, [0.003ψ]−1 ) distribution.
+a) Using McMC, obtain the marginal posterior distribution of ψ.
+b) Obtain the marginal posterior distribution of µ.
+c) Give the marginal posterior 95% hpd interval for µ.
+d) Comment on what you can conclude about the effect of the drug.
+
+Instructions: Share Code in R If necessary 
+
+
+3. A study was conducted on 32 cars to explore the relationship of the gasoline consumption on
+the the weight of the car and engine sizes in cylinders.
+For each car we have observations on how many miles that car can travel on a gallon of
+gasoline (mpg), the weight of the car (weight) and two dummy variables that indicates if
+the car’s engine has four cylinders (sixcyl=0 and eightcyl=0) six cylinders (sixcyl=1 and
+eightcyl=0) or eigth cylinders (sixcyl=0 and eightcyl=1).
+
+
+
+mpg: 21.0, 21.0, 22.8, 21.4,18.7,18.1,14.3, 24.4, 22.8,19.2,17.8,16.4,17.3,15.2,10.4,10.4,14.7,
+32.4, 30.4, 33.9, 21.5, 15.5,15.2,13.3,19.2, 27.3, 26.0, 30.4,15.8,19.7,15.0, 21.4
+
+weight: 2.620, 2.875, 2.320,3.215,3.440, 3.460, 3.570, 3.190, 3.150, 3.440, 3.440, 4.070, 3.730,
+3.780, 5.250, 5.424, 5.345, 2.200, 1.615, 1.835, 2.465, 3.520, 3.435, 3.840, 3.845, 1.935, 2.140,
+1.513, 3.170, 2.770, 3.570, 2.780
+
+sixcyl: 1, 1, 0, 1, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0
+
+eightcyl: 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 1, 0, 1, 0
+
+We want to sample from the joint posterior distribution in the Gaussian linear regression
+mpg = β0 + β1 ∗ weight + β2 ∗ sixcyl + β3 ∗ eightcyl + error,
+error ∼ N (0, σ 2 )
+with conjugate priors
+βi ∼ N (0, 10000), i = 0, ..., 3
+1/σ 2 ∼ Gamma(0.01, rate = 0.01)
+
+
+
+a) Give the plots of the marginal distributions for each parameter.
+b) Construct 95% equal tail probability intervals for each parameter and interpret couple of
+them.
+c) Investigate if the effect on mpg is different in cars with six cylinders compared to cars with
+8 cylinders.
+d) Estimate the predictive distribution for a new 4 cylinder car with weight = 3.5.
+
+Instructions: Share Code in R If necessary
+
+
+
+theahmadsharif@gmail.com
+
+AHMAD SHARIF
+4569 3349 0846 4264
+
+4920-1700-3161-0553

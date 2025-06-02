@@ -1,0 +1,166 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+
+1) b) 
+
+```{r}
+pbeta(0.6, 3.5, 3.5)
+
+```
+
+
+```{r}
+# R Code for Plotting  # 1 ) E)
+curve(dbeta(x, 3.5, 3.5), from=0, to=1, col="blue", lwd=2, ylab="Density", xlab="θ",
+      main="Prior and Posterior Distributions")
+curve(dbeta(x, 40.5, 16.5), from=0, to=1, col="red", lwd=2, add=TRUE)
+legend("topright", legend=c("Prior", "Posterior"), col=c("blue", "red"), lwd=2)
+
+```
+
+
+
+
+
+# 1) F) 
+
+```{r}
+pbeta(0.6, 40.5, 16.5)
+```
+
+
+
+```{r}
+theta_values <- seq(0, 0.1, length.out = 50)
+print(theta_values)
+```
+
+```{r}
+plot(theta_values, prior_pdf, type="l", col="blue", lwd=2, 
+     ylab="Density", xlab="θ", main="Prior and Posterior Distributions")
+lines(theta_values, posterior_pdf, col="red", lwd=2)
+legend("topright", legend=c("Prior", "Posterior"), col=c("blue", "red"), lwd=2)
+```
+
+
+
+
+
+# 2 ) c) 
+```{r}
+# R Code for Plotting
+# Prior
+curve(dnorm(x, mean=70, sd=sqrt(24.01)), from=60, to=90, col="blue", lwd=2,
+      ylab="Density", xlab="μ", main="Prior, Likelihood, and Posterior")
+# Likelihood
+curve(dnorm(x, mean=82.2, sd=9/sqrt(5)), from=60, to=90, col="green", lwd=2, add=TRUE)
+# Posterior
+curve(dnorm(x, mean=72.2, sd=sqrt(9.04)), from=60, to=90, col="red", lwd=2, add=TRUE)
+legend("topright", legend=c("Prior", "Likelihood", "Posterior"),
+       col=c("blue", "green", "red"), lwd=2)
+
+```
+
+# 3 ) a)
+```{r}
+# R Code for Prior Density
+curve(dgamma(x, shape=400, rate=80), from=0, to=10, col="blue", lwd=2,
+      ylab="Density", xlab="λ", main="Prior Density of λ")
+
+```
+
+# 3) b)
+
+```{r}
+pgamma(7, shape=400, rate=80)
+
+```
+
+# 3) c)
+```{r}
+# R Code for Prior, Likelihood, and Posterior
+curve(dgamma(x, shape=400, rate=80), from=0, to=10, col="blue", lwd=2,
+      ylab="Density", xlab="λ", main="Prior, Likelihood, and Posterior")
+curve(x^49 * exp(-6*x), from=0, to=10, col="green", lwd=2, add=TRUE)
+curve(dgamma(x, shape=449, rate=86), from=0, to=10, col="red", lwd=2, add=TRUE)
+legend("topright", legend=c("Prior", "Likelihood", "Posterior"),
+       col=c("blue", "green", "red"), lwd=2)
+
+```
+
+# 4) b)
+```{r}
+# R Code for Gamma PDFs
+theta_values <- seq(0, 0.1, length.out = 50)
+prior_pdf <- dgamma(theta_values, shape=1, rate=1)
+posterior_pdf <- dgamma(theta_values, shape=13, rate=760)
+
+# Plotting the prior and posterior
+plot(theta_values, prior_pdf, type="l", col="blue", lwd=2, 
+     ylab="Density", xlab="θ", main="Prior and Posterior Distributions")
+lines(theta_values, posterior_pdf, col="red", lwd=2)
+legend("topright", legend=c("Prior", "Posterior"), col=c("blue", "red"), lwd=2)
+
+```
+
+# 4) e)
+```{r}
+# R Code for Updated Posterior
+posterior_pdf_updated <- dgamma(theta_values, shape=25, rate=3963)
+
+# Plotting prior and updated posterior
+plot(theta_values, prior_pdf, type="l", col="blue", lwd=2, 
+     ylab="Density", xlab="θ", main="Prior and Updated Posterior Distributions")
+lines(theta_values, posterior_pdf_updated, col="green", lwd=2)
+legend("topright", legend=c("Prior", "Updated Posterior"), col=c("blue", "green"), lwd=2)
+
+```
+
+# 5) a)
+```{r}
+# R Code for Prior
+theta <- seq(0, 1, length.out = 50)
+prior_pdf <- dbeta(theta, shape1 = 2, shape2 = 3)
+
+# Plot
+plot(theta, prior_pdf, type = "l", col = "blue", lwd = 2, ylab = "Density", xlab = "θ",
+     main = "Prior Probability Density Function")
+
+```
+
+# 5) b)
+
+```{r}
+# R Code for Likelihood
+likelihood <- theta^7 * (1 - theta)^3
+
+# Plot
+plot(theta, likelihood, type = "l", col = "green", lwd = 2, ylab = "Likelihood",
+     xlab = "θ", main = "Likelihood Function")
+
+```
+
+# 5) C)
+```{r}
+# R Code for Joint Density
+joint_density <- dbeta(theta, shape1 = a + x, shape2 = b + n - x)
+
+# Plot
+plot(theta, joint_density, type = "l", col = "purple", lwd = 2, ylab = "Density",
+     xlab = "θ", main = "Joint Density (Prior x Likelihood)")
+
+```
+
+# 5) d)
+```{r}
+# R Code for Posterior
+posterior_pdf <- dbeta(theta, shape1 = 9, shape2 = 6)
+
+# Plot
+plot(theta, posterior_pdf, type = "l", col = "red", lwd = 2, ylab = "Density",
+     xlab = "θ", main = "Posterior Probability Density Function")
+
+```

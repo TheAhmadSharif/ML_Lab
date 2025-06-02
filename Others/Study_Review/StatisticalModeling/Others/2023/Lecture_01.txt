@@ -1,0 +1,101 @@
+Is it assumed that the variance of Y and the random error are same? 
+
+
+Average value 
+
+
+variance of y and variance of random error
+
+lm means linear model
+
+Coefficient == A numerical or constant quantity placed before and multiplying the variable in an algebraic expression (e.g. 4 in 4x y).
+
+ax + b + 2  = 0
+
+a is coefficient
+
+
+A residual is a measure of how far away a point is vertically from the regression line.
+
+lmHeight2 = lm(height~age + no_siblings, data = ageandheight) #Create a linear regression with two variables
+
+https://www.datacamp.com/tutorial/linear-regression-R
+
+
+
+
+Add Straight Lines to a Plot
+abline(lm(x~y)),cex = 1.3,pch = 16,xlab = "Weight in Kg",ylab = "Height in cm")
+
+
+https://www.tutorialspoint.com/r/r_linear_regression.htm
+
+
+
+https://www.scribbr.com/statistics/coefficient-of-determination/#:~:text=The%20coefficient%20of%20determination%20(R%C2%B2)%20is%20a%20number%20between%200,predicted%20by%20the%20statistical%20model.
+
+
+The coefficient of determination (R²) is a number between 0 and 1 that measures how well a statistical model predicts an outcome. 
+
+The coefficient of determination is often written as R2, which is pronounced as “r squared.” For simple linear regressions, a lowercase r is usually used instead (r2).
+
+
+
+Exam score = 58.4 + 2.23(hours) + 1.34(# prep exams)
+
+The value for the intercept term in this model is 58.4. This means the average exam score is 58.4 when the number of hours studied and the number of prep exams taken are both equal to zero.
+
+
+A T-test will tell you if a single variable is statistically significant and an F test will tell you if a group of variables are jointly significant.
+
+
+maximum likelihood estimate in linear regression
+
+
+
+
+
+
+Ordinary Least Square
+
+
+Maximum Likelihood Estimation
+Maximum Likelihood Estimation, or MLE for short, is a probabilistic framework for estimating the parameters of a model.
+
+
+Maximum Likelihood, clearly explained!!!
+https://www.youtube.com/watch?v=XepXtl9YKwc
+
+
+Probability Vs Likelihood
+
+
+
+
+Residual = Observed value - Predicted value.
+
+
+The R^2 is called the coefficient of determination
+
+
+https://www.learnbymarketing.com/tutorials/linear-regression-in-r/
+
+
+
+
+
+
+————————————————————————
+27 January 2023
+————————————————————————
+
+special case of 
+
+density function
+
+
+Simple Linear regression Model
+
+Normal distribution
+
+

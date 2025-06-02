@@ -1,0 +1,50 @@
+Code Template: 
+––––––––––––––––––––––––––––––––––––
+
+import nltk
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.decomposition import TruncatedSVD
+from sklearn.datasets import fetch_20newsgroups
+from sklearn.cluster import KMeans
+from sklearn.model_selection import train_test_split
+from sklearn.svm import SVC  
+import matplotlib.pyplot as plt
+import sklearn
+import sklearn.decomposition  
+import sklearn.manifold
+nltk.download('stopwords')
+import gensim
+import numpy, hmmlearn, hmmlearn.hmm
+
+categories = ['rec.autos', 'rec.motorcycles', 'rec.sport.baseball', 'rec.sport.hockey']
+
+newsgroups_data = fetch_20newsgroups(subset='train', categories=categories, remove=('headers', 'footers', 'quotes'))
+
+
+––––––––––––––––––––––––––––––––––––
+ Python's gensim library includes learning of paragraph vector models
+(there called "doc2vec")
+● They use a "hierarchical softmax" to compute log-likelihood over the
+output vocabulary, or a negative sampling model (unclear what
+exactly that means for the paragraph vector case)
+import gensim
+# We need to create a tagged version of each document
+gensim_tagged_docs=[]
+for k in range(len(mycrawled_prunedtexts)):
+ doctag='doc'+str(k)
+ tagged_document= \
+ gensim.models.doc2vec.TaggedDocument( \
+ mycrawled_prunedtexts[k],[doctag])
+ gensim_tagged_docs.append(tagged_document)
+# Create a dictionary from the documents
+gensim_dictionary = gensim.corpora.Dictionary(gensim_docs)
+
+
+
+Instructions:
+––––––––––––––––––––––––
+
+
+Find, by Euclidean distance, the closest other documents for the following documents: 101551
+(part of rec.autos), 103118 (part of rec.motorcycles), 98657 (part of rec.sport.baseball) and 52550
+(part of rec.sport.hockey). Are the closest documents from the same newsgroup?

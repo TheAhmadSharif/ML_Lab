@@ -1,0 +1,16 @@
+"flagCode","country","NuclearWeapons_TotalNuclearWarheads_num_2024","NuclearWeapons_RetiredNuclearWarheads_num_2024","NuclearWeapons_DeployedStrategicNuclearWarheads_num_2024","NuclearWeapons_ReservedNuclearWarheads_num_2024","CountriesWithNuclearWeapons_OwnerOrHost_2024","countriesWithNuclearWeapons_yearFirstTest"
+"RU","Russia",5580,1200,1710,2670,"Owner",1949
+"US","United States",5044,1336,1670,1938,"Owner",1945
+"CN","China",500,,24,476,"Owner",1964
+"FR","France",290,,280,10,"Owner",1960
+"GB","United Kingdom",225,,120,105,"Owner",1952
+"IN","India",172,,,172,"Owner",1974
+"PK","Pakistan",170,,,170,"Owner",1998
+"IL","Israel",90,,,90,"Owner",
+"KP","North Korea",50,,,50,"Owner",2006
+"TR","Turkey",,,,,"Host - 20 US weapons",
+"DE","Germany",,,,,"Host - 15 US weapons",
+"IT","Italy",,,,,"Host - 35 US weapons",
+"NL","Netherlands",,,,,"Host - 15 US weapons",
+"BE","Belgium",,,,,"Host - 15 US weapons",
+"BY","Belarus",,,,,"Host - Russia (number undetermined 2023)",

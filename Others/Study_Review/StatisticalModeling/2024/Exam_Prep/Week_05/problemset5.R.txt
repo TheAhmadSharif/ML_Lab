@@ -1,0 +1,177 @@
+### Statistical Modeling 1
+### Problem set 5
+### 2024
+
+############################
+### Question 1
+
+data<-read.table("galapagos.txt", sep="\t", dec=".", header=TRUE)
+attach(data)
+
+## a)
+
+plot(Area, Species)
+plot(Area, log(Species))
+plot(log(Area), log(Species))
+
+library(rgl)
+plot3d(Area, Elevation, Species, type = "s", size = 0.75, lit = FALSE)
+
+model<-glm(Species~Area+Elevation+Nearest+Scruz+Adjacent, family=poisson(link="log"),data=data)
+summary(model)
+
+plot(fitted(model, type="response"), Species, type="n", xlim=c(0,450), ylim=c(0,450))
+points(fitted(model, type="response"), Species)
+abline(0,1)
+
+newdata<-data.frame(Area=58.27,Elevation=198,Nearest=1.1,Scruz=88.3,Adjacent=0.57)
+mu.hat<-predict(model, newdata=newdata, type="response")
+mu.hat
+
+x1<-seq(min(Area),max(Area),length.out=100)
+x2<-seq(min(Elevation),max(Elevation),length.out=100)
+newdata<-expand.grid(Area=x1,Elevation=x2,Nearest=1.1,Scruz=88.3,Adjacent=0.57)
+mu.hat<-predict(model, newdata=newdata, type="response")
+MU.hat<-matrix(mu.hat, nrow=100, ncol=100)
+persp3d(x1,x2, MU.hat)
+points3d(Area, Elevation, Species, col="red", size=4)
+
+## b)
+
+newdata<-data.frame(Area=58.27,Elevation=198,Nearest=1.1,Scruz=88.3,Adjacent=0.57)
+mu.hat<-predict(model, newdata=newdata, type="response")
+mu.hat
+
+eta<-predict(model, newdata=newdata, type="link", se.fit=TRUE)
+link.lowerbound<-eta$fit-qnorm(0.975)*eta$se.fit
+link.upperbound<-eta$fit+qnorm(0.975)*eta$se.fit
+
+lower<-exp(link.lowerbound) 
+upper<-exp(link.upperbound)
+lower
+upper
+
+## c)
+
+newdata<-data.frame(Area=58.27,Elevation=198,Nearest=1.1,Scruz=88.3,Adjacent=0.57)
+pred<-predict(model, newdata=newdata, type="response")
+
+xf<-t(model.matrix(~Area+Elevation+Nearest+Scruz+Adjacent, data=newdata))
+
+Var.eYf<-pred*(1+pred*t(xf)%*%vcov(model)%*%xf)
+
+lower.Yf<-pred-qnorm(0.9)*sqrt(Var.eYf)
+upper.Yf<-pred+qnorm(0.9)*sqrt(Var.eYf)
+lower.Yf
+upper.Yf
+pred
+
+
+## d)
+
+model.H0<-glm(Species~Area, family=poisson(link="log"))
+
+newdata<-data.frame(Area=x1)
+pred.H0<-predict(model.H0,newdata=newdata, type="response")
+
+plot(Area, fitted(model.H0, type="response"))
+points(Area, Species)
+lines(x1,pred.H0, lwd=4, col="red")
+
+anova(model.H0, model, test="Chi")
+anova(model.H0, model, test="Chi")$Deviance[2]
+
+## e)
+
+
+model.q<-glm(Species~Area+Elevation+Nearest+Scruz+Adjacent, family=quasipoisson(link="log"),data=data)
+summary(model.q)
+summary(model.q)$dispersion
+
+
+plot(fitted(model, type="response"),fitted(model.q, type="response"))
+
+library(AER)
+dispersiontest(model)
+
+model.qH0<-glm(Species~Area, family=quasipoisson(link="log"))
+anova(model.qH0, model.q, test="F")
+
+## f)
+
+model.sq<-glm(Species~Area+Elevation+Nearest+Scruz+Adjacent, family=quasipoisson(link="sqrt"),data=data)
+summary(model.sq)
+
+model.sqH0<-glm(Species~Area, family=quasipoisson(link="sqrt"))
+anova(model.sqH0, model.sq, test="F")
+anova(model.sqH0, model.sq, test="F")$F[2]
+
+
+############################
+### Question 2
+
+
+data<-read.table("applejuiceCRA7152.txt", sep="\t", dec=".", header=TRUE)
+attach(data)
+
+## a) 
+
+model<-glm(Growth~pH+Nisin+Temperature+Brix, data=data, family=binomial(link="logit"))
+summary(model)
+
+newdata<-data.frame(pH=4.5,Nisin=20,Temperature=30,Brix=17)
+predict(model, newdata=newdata, type="response")
+
+## b)
+
+newdata<-data.frame(pH=4.5,Nisin=20,Temperature=30,Brix=17)
+eta<-predict(model, newdata=newdata, type="link", se.fit = TRUE) 
+link.lowerbound<-eta$fit-qnorm(0.975)*eta$se.fit
+link.upperbound<-eta$fit+qnorm(0.975)*eta$se.fit
+
+lowerbound<-exp(link.lowerbound)/(1+exp(link.lowerbound))
+upperbound<-exp(link.upperbound)/(1+exp(link.upperbound))
+lowerbound
+upperbound
+
+plogis(link.lowerbound)
+plogis(link.upperbound)
+
+
+## c)
+
+model.H0<-glm(Growth~pH+Nisin, data=data, family=binomial(link="logit"))
+anova(model.H0,model, test="Chi")
+anova(model.H0,model, test="Chi")$Deviance[2]
+
+step(model)
+
+step(model, direction = c("both"))
+
+
+model.1<-glm(Growth~1, data=data, family=binomial(link="logit"))
+
+
+direction = c("both", "backward", "forward")
+
+model.b<-glm(Growth~pH+Nisin+Temperature, data=data, family=binomial(link="logit"))
+
+model.bt<-glm(Growth~pH+Nisin, data=data, family=binomial(link="logit"))
+
+
+
+
+
+## d)
+
+model.p<-glm(Growth~pH+Nisin+Temperature+Brix, data=data, family=binomial(link="probit"))
+model.c<-glm(Growth~pH+Nisin+Temperature+Brix, data=data, family=binomial(link="cauchit"))
+model.cl<-glm(Growth~pH+Nisin+Temperature+Brix, data=data, family=binomial(link="cloglog"))
+
+
+plot(fitted(model, type="response"), jitter(Growth))
+
+plot(fitted(model.c, type="response"), jitter(Growth))
+
+
+

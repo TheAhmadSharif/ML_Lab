@@ -1,0 +1,33 @@
+Exercise 1.1: Types of text data. List five types of text data that are not already covered by the
+list on slides 18-20 of the lecture. For each of the data types, suggest what a question that could be
+analyzed based on a collection of such data
+
+
+
+01. Movie/Drame Scripts
+We can find out genre of the following movies/Drama. Dominanat Character
+
+
+02. Company Advertisement
+What they offer and company focus point
+
+
+03. Product Mannaual
+We can find out Product features
+
+
+04. Restaurant Menu
+We can find out popular foods
+
+
+05. Promotional offer mobile Text
+We can find out what are trying to sell more to the customers.
+
+06. Lecture notes
+Main keypoints of a course
+
+07. Invoice
+Cusotomer deamnd/Popular product or service
+
+
+02. theahmadsharif@gmail.com

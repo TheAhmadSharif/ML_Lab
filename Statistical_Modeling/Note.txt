@@ -1,0 +1,22 @@
+Share a most simple example of Linear 
+
+
+What is the difference between Linear regression and Statistical Modeling?
+
+
+––––––––––––– Examples of statistical models:
+Linear regression
+Logistic regression
+Poisson regression
+Time series models (ARIMA, GARCH)
+Survival models (Cox proportional hazards)
+Bayesian models
+
+
+
+Can you Share a most naive example with generated data of Statistical Modeling?
+
+Can you share a naive example of Poisson regression with generated data?
+Can you share a naive example of Bayesian models with generated data?
+
+

@@ -1,0 +1,101 @@
+What does Bayesian Inference do ? Explain with simple analogy 
+
+
+
+Show a simple example of problem that Bayesian inference solved? 
+
+What is kernel in Bayesian inference?
+Why is it important to know kernel
+
+what is  likelihood function 
+
+
+Share some real-world use case of Beta distribution
+
+
+What is normalizing constant 
+
+
+
+21.10.24 Introduction: Bayes’ Theorem, Frequentists vs. Bayesian school
+23.10.24 Likelihood, kernel of a density, Normalizing constants Lab 0
+28.10.24 Conjugate priors and updates
+30.10.24 Choice of priors, posterior inference Lab 1
+04.11.24 Normal samples (one parameter inference)
+06.11.24 Posterior summaries (R examples) Lab 2
+11.11.24 Predictive distributions/inference
+13.11.24 Mixture of conjugate priors Lab 3 (R)
+18.11.24 Normal sample with two unknown parameters
+20.11.24 Introduction to BUGS (RJAGS) ** Lab 4
+25.11.24 Two Normal samples/Linear Models
+27.11.24 Multiparameter distributions Lab 5(BUGS)
+02.12.24 Hierarchical models, Empirical Bayes
+
+
+What are some most common  term that has been used in Bayesian Inference. For example: Kernel, Conjugate priors, likelihood
+Share the concept with analogy 
+
+
+
+
+         Orange
+Red  :      2               5 
+Blue :      4               1
+
+i) What is the probability of getting an orange if the bowl is red?
+
+
+Brief  Kernel & Normalizing Constant
+
+
+
+share the kernel and Normalizing Constant: with a naive analogy ?
+
+
+
+Share most common pair conjugate prior distribution
+
+
+––––––––––– Conjugate Prior 
+
+Poisson Distribution with Gamma Prior:
+
+Binomial and Beta
+
+
+Inverse Gamma
+
+
+Combine Prior & Likelihood
+
+
+
+Plots of prior, likelihood & posterior
+
+
+What kinds of Quiz can be asked by the following plots 
+
+
+Share example Inverse Gamma as prior 
+
+
+Share some distribution and detect kernel 
+
+–––––––––––––
+
+Brief the following concept with simple analogy
+
+
+
+Predictive Distribution
+Want to predict a future observation y given that we have observed
+X = (X1 , ..., Xn ). Assume that X1 , ..., Xn are independent given θ.
+Bayesian inference about y is based on its posterior predictive distribution:
+
+
+–––––––––––––––––––––––
+Brief the following concept with simple analogy : Hierarchical Models
+
+Hierarchical Models
+Hierarchical modeling is used when information is available on several
+different levels of observational units.

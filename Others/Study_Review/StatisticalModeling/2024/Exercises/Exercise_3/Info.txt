@@ -1,0 +1,58 @@
+> data<-read.table("Alba.txt", sep="\t", dec=".", header=TRUE)
+> head(data)
+	Dose 		Herbicide 		DryMatter
+1	1 			Glyphosate		4.7
+2	1 			Glyphosate		4.6
+3	1 			Glyphosate		4.1
+4	1 			Glyphosate		4.4
+
+
+Data are from an experiment, comparing the potency of the two herbicides
+glyphosate and bentazone in white mustard Sinapis alba.
+Dose - a numeric vector containing the dose in g/ha.
+Herbicide - a factor with levels Bentazone Glyphosate (the two herbicides applied).
+DryMatter - a numeric vector containing the response (dry matter in g/pot).
+Christensen, M. G. and Teicher, H. B., and Streibig, J. C. (2003)
+Linking fluorescence induction curve and biomass in herbicide screening,
+Pest Management Science, 59, 1303?1310.
+
+
+Denote the variables as Y = DryMatter, X1 = Dose, and X2 = Herbicide.
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+(a) Let us assume Yi ∼ N (µi , σ 2 ). Consider the models
+Midentity : µi = β0 + β1 xi1 + αj + γj xi1 ,
+Mlog : log(µi ) = β0 + β1 xi1 + αj + γj xi1 ,
+Minverse :	1/µi	= β0 + β1 xi1 + αj + γj xi1 ,
+
+M 1/µi² : 1/µi²  = β0 + β1 xi1 + αj + γj xi1 ,
+
+where index j is related to the categories of X2 . Which model fits
+the best to the data? to the data? You may use the mean square error value MSE = (y −µ̂ )²/n
+as one method of choosing the model. Return the maximum likelihood
+estimate β̂1 of your chosen model as your solution for this question.
+
+
+b) Let us assume Yi ∼ N (µi , σ 2 ). Consider the model
+M:g(µi ) = β0 + β1 xi1 + αj + γj xi1 .
+Choose the link function g based on your solution to (a). Calculate the
+maximum likelihood estimate for the expected value µi∗ when X1 = 50
+and X2 = Glyphosate.
+
+
+c) 
+Let us assume Yi ∼ N (µi , σ 2 ). Consider the model
+M: g(µi ) = β0 + β1 xi1 + αj + γj xi1 .
+Choose the link function g based on your solution to (a). Calculate the 95%
+confidence interval estimate for the expected value µi∗ when X1 = 50 and
+X2 = Glyphosate. Particularly, what is your obtained lower bound of the
+confidence interval?
+
+
+d) Let us assume Yi ∼ N (µi , σ 2 ). Consider the model
+M: g(µi ) = β0 + β1 xi1 + αj + γj xi1 .
+Choose the link function g based on your solution to (a). Create 80 % pre-
+diction interval for new observation Yf , when X1 = 50 and X2 = Glyphosate.
+Particularly, what is your obtained lower bound of the prediction interval?
+
+
+Instructions: Share code with R

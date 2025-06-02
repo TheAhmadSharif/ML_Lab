@@ -1,0 +1,166 @@
+﻿Table,Field,Description
+peaks,,
+peaks,peakid,Peak ID (primary key)
+peaks,pkname,Foreign (common) name of the peak
+peaks,pkname2,Local name of the peak
+peaks,location,Location of the climbing area
+peaks,heightm,Height (meters)
+peaks,heightf,Height (feet)
+peaks,himal,Mountain range or Himal (slightly broader than location)
+peaks,region,Broad mountain regions grouping several Himals/ranges together
+peaks,open,The peak is on the Nepal government’s approved list of peaks open to mountaineering expeditions (Y/N)
+peaks,unlisted,The peak is not on any Nepal government list of approved peaks and thus is not legally open for mountaineering. The database contains several such peaks either because they were climbed illegally or were climbed long ago when mountaineering was less regulated. Unlisted peaks are included in the statistical reports and analyses. (Y/N)
+peaks,trekking,The peak is on the Nepal government’s approved list of trekking peaks. Trekking peaks are not included in the statistical reports and analyses after the year they were listed (see trekyear). A few peaks such as Cholatse and Langshisa Ri that were once open have now been reclassified as trekking peaks. (Y/N)
+peaks,trekyear,The year that the peak was added to the Nepal government’s list of trekking peaks
+peaks,restrict,Peak restrictions
+peaks,phost,"The international location of the peak (inside or outside of Nepal, or on the border)"
+peaks,pstatus,Peak climbing status
+peaks,pyear,First ascent year
+peaks,pseason,First ascent season
+peaks,pmonth,First ascent month
+peaks,pday,First ascent day
+peaks,pexpid,First ascent expedition ID (foreign key)
+peaks,pcountry,First ascent country
+peaks,psummiters,Frist ascent summiters
+peaks,psmtnote,First ascent comments
+exped,,
+exped,expid,Expedition ID (primary key)
+exped,peakid,Peak ID (foreign key)
+exped,year,Year
+exped,season,Season
+exped,host,Host country
+exped,route1,Climbing route 1
+exped,route2,Climbing route 2
+exped,route3,Climbing route 3
+exped,route4,Climbing route 4
+exped,nation,Principle nationality
+exped,leaders,Leadership
+exped,sponsor,Expedition sponsor / name
+exped,success1,Success on route 1 (Y/N)
+exped,success2,Success on route 2 (Y/N)
+exped,success3,Success on route 3 (Y/N)
+exped,success4,Success on route 4 (Y/N)
+exped,ascent1,"The team ascent number(s) for this expedition. These numbers are not maintained for recent ascents of Ama Dablam, Cho Oyu, and Everest as they have lost their significance since many teams are now summiting together"
+exped,ascent2,Ascent numbers for route 2
+exped,ascent3,Ascent numbers for route 3
+exped,ascent4,Ascent numbers for route 4
+exped,claimed,The expedition’s claim of success has been disproved or is not generally recognized by the mountaineering community. Claimed successes are not counted as successes in the statistical reports and analyses. (Y/N)
+exped,disputed,"The expedition’s claim of success is either unverified, has been disputed by another party (but the evidence is insufficient to not recognize the ascent), or is of a controversial style (such as using a helicopter during the ascent). In some cases, the ascent has been marked as disputed because the summit party disappeared and thus the ascent cannot be verified. Disputed successes are counted as successes in the statistical reports and analyses. (Y/N)"
+exped,countries,Other countries
+exped,approach,Approach march
+exped,bcdate,Date arrived at base camp
+exped,smtdate,The date that the expedition summited the peak the first time or reached its high point
+exped,smttime,The time of day that the expedition summited the peak for the first time. The time is given in or converted to Nepal Standard Time (NST) when known. Chinese Standard Time (CST) is two hours and fifteen minutes (2:15) ahead of NST. Indian Standard Time (IST) is fifteen minutes (0:15) behind NST. This treatment of time is used for all time-based fields in the database.
+exped,smtdays,Number of days from base camp to summit / high point (calculated)
+exped,totdays,Total number of days from base camp to the termination of the expedition (calculated)
+exped,termdate,Date terminated
+exped,termreason,The primary reason that the expedition was terminated (there also may be other reasons as indicated in the termnote field)
+exped,termnote,Termination details
+exped,highpoint,Expedition high-point (meters)
+exped,traverse,Traverse (Y/N)
+exped,ski,"Skis or a snowboard was used during part of the descent of the peak by at least one member of the expedition (can be anywhere, not just from the summit) (Y/N)"
+exped,parapente,"A parapente or hang-glider was used during part of the descent of the peak by at least one member of the expedition (can be anywhere, not just from the summit) (Y/N)"
+exped,camps,Number of high camps above base camp (BC)
+exped,rope,Amount of fixed rope (meters)
+exped,totmembers,"The number of members on the expedition. For expeditions in Nepal, this is usually the number of foreign members listed on the permit or, in the case of Nepali expeditions, the number of members who are not hired. For expeditions in China (for which the permit total includes hired members), this number excludes hired members where known, except in a few cases of very large Chinese military expeditions, for which the number is inclusive of both hired and non-hired members."
+exped,smtmembers,The number of members who summited the main peak. This excludes those expeditions marked as CLAIMED but does include those marked as DISPUTED.
+exped,mdeaths,Number of member deaths
+exped,tothired,The number of hired personnel who went above base camp or advanced base camp
+exped,smthired,The number of hired members who summited the main peak. This excludes those expeditions marked as CLAIMED but does include those marked as DISPUTED.
+exped,hdeaths,Number of hired personnel deaths
+exped,nohired,"There were no hired personnel above base camp. This field is needed to indicate that a value of zero in the tothired field is a true zero, not missing data. (Y/N)"
+exped,o2used,Oxygen was used by at least one member of the expedition (Y/N)
+exped,o2none,Oxygen was not used by any members of the expedition (Y/N)
+exped,o2climb,Oxygen was used for climbing by at least one member of the expedition (Y/N)
+exped,o2descent,"Oxygen was not used for climbing, but was used only in descent on part of the route by at least one member of the expedition (Y/N)"
+exped,o2sleep,Oxygen was used for sleeping by at least one member of the expedition (Y/N)
+exped,o2medical,Oxygen was used for medical purposes by at least one member of the expedition (Y/N)
+exped,o2taken,"Oxygen was brought for emergency use, but was not used by any members of the expedition (Y/N)"
+exped,o2unkwn,The use of oxygen is unknown for this expedition (Y/N)
+exped,othersmts,Other summits
+exped,campsites,Campsite details
+exped,accidents,Accidents
+exped,achievment,Achievements
+exped,agency,Trekking agency
+exped,comrte,Commercial route (Y/N)
+exped,stdrte,8000m standard route (Y/N)
+exped,primrte,Route info with primary exp (Y/N)
+exped,primmem,Member info with primary exp (Y/N)
+exped,primref,Literature info with primary exp (Y/N)
+exped,primid,Primary expedition ID (if any)
+exped,chksum,Internal consistency check
+members,,
+members,expid,Expedition ID (foreign key)
+members,membid,Expedition member ID
+members,peakid,Peak ID
+members,myear,Year
+members,mseason,Season
+members,fname,First (given) name
+members,lname,Last (family) name
+members,sex,Sex
+members,yob,The year of birth for this member
+members,citizen,Citizenship
+members,status,Status
+members,residence,Residence (city / country)
+members,occupation,Ocucpation
+members,leader,Leader (Y/N)
+members,deputy,Deputy leader (Y/N)
+members,bconly,The member did not climb above base camp (or advanced base camp in cases where the path from base camp does not require technical climbing skills) (Y/N)
+members,nottobc,The member did not reach base camp (Y/N)
+members,support,The member went above base camp only in a support role (often used for photographers and advisors for women’s expeditions) (Y/N)
+members,disabled,The member is physically disabled (Y/N)
+members,hired,"The person was hired by the expedition. For expeditions in Nepal, hired personnel are not listed on the permit; for expeditions in China, hired personnel are listed on the permit. (Y/N)"
+members,sherpa,Sherpa (Y/N)
+members,tibetan,Tibetan (Y/N)
+members,msuccess,Success (Y/N)
+members,mclaimed,The member’s claim of success has been disproved or is not generally recognized by the mountaineering community. Claimed successes are not counted as successes in the statistical reports and analyses.
+members,mdisputed,"The member’s claim of success is either unverified or has been disputed by another party, but the evidence is insufficient to not recognize the ascent. In some cases, the ascent has been marked as disputed because the summit party disappeared and thus the ascent cannot be verified. Disputed successes are counted as successes in the statistical reports and analyses."
+members,msolo,Solo (Y/N)
+members,mtraverse,Traverse (Y/N)
+members,mski,"The member used skis or a snowboard during part of the descent of the peak (can be anywhere, not just from the summit)"
+members,mparapente,"The member used a parapente or hang glider during part of the descent of the peak (can be anywhere, not just from the summit)"
+members,mspeed,Speed ascent (Y/N)
+members,mhighpt,Expedition high-point reached (Y/N)
+members,mperhighpt,Personal high-point (meters)
+members,msmtdate1,The date that the member summited the peak the first time or reached a personal high point
+members,msmtdate2,The date that the member summited the peak the second time on this same expedition. A second or third ascent is counted only if the climber descended all the way to base camp or advanced base before re-ascending to the summit.
+members,msmtdate3,The date that the member summited the peak the third time on this same expedition.
+members,msmttime1,The time of day that the member summited the peak. The time is given in or converted to Nepal Standard Time (NST)
+members,msmttime2,2nd summit time
+members,msmttime3,3rd summit time
+members,mroute1,1st ascent route
+members,mroute2,2nd ascent route
+members,mroute3,3rd ascent route
+members,mascent1,"The team ascent number for this summit. These numbers are not maintained for recent ascents of Ama Dablam, Cho Oyu, and Everest as they have lost their significance since many teams are now summiting together."
+members,mascent2,2nd ascent route
+members,mascent3,3rd ascent route
+members,mo2used,Oxygen was used by this member (Y/N)
+members,mo2none,Oxygen was not used by this member (Y/N)
+members,mo2climb,Oxygen was used for climbing by this member (Y/N)
+members,mo2descent,"Oxygen was not used for climbing, but used only in descent on part of the route by this member (Y/N)"
+members,mo2sleep,Oxygen was used for sleeping by this member (Y/N)
+members,mo2medical,Oxygen was used for medical purposes by this member (Y/N)
+members,mo2note,Oxygen use reason
+members,death,Death (Y/N)
+members,deathdate,Date of death
+members,deathtime,Time of death
+members,deathtype,The primary cause of death
+members,deathhgtm,"The altitude at which the death or the accident leading to the death occurred (meters). For example, if the member died at base camp from injuries resulting from a fall at 7000 meters, the death height would be recorded as 7000."
+members,deathclass,The classification of death
+members,msmtbid,Summit bid
+members,msmtterm,Summit bid termination reason
+members,hcn,Himalayn Club number
+members,mchksum,Internal consistency check
+refer,,
+refer,expid,Expedition ID (foreign key)
+refer,refid,Expedition Refererence ID
+refer,ryear,Reference type
+refer,rtype,Journal / magazine type
+refer,rjrnl,Author(s)
+refer,rauthor,Title/URL
+refer,rtitle,Book publisher
+refer,rpublisher,Book publication date
+refer,rpubdate,The language for a non-English publication or the original language of the publication if transcribed to English
+refer,rlanguage,Journal / magazine citation
+refer,rcitation,"The catalog number from the Catalogue of the Himalayan Literature, Yoshimi Yakushi, Hakusuisha Publishing Co., Tokyo, 1994 (often referred to as the “Yakushi number” of the publication)."
+refer,ryak94,Reference notes

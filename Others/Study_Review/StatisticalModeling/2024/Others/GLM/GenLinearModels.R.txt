@@ -1,0 +1,694 @@
+### Statistical Modeling 1
+### Generalized Linear Models
+### 2024
+
+############################
+### Example 3.1
+
+data<-read.table("tetrahymena.txt", sep="\t", dec=".", header=TRUE)
+attach(data)
+
+##
+
+plot(conc,diameter)
+points(conc[glucose=="yes"],diameter[glucose=="yes"], pch=19, col="red")
+coplot(diameter~conc| glucose)
+
+model.log<-glm(diameter~conc+factor(glucose), family=gaussian(link="log"), data=data)
+summary(model.log)
+
+newdata<-data.frame(conc=90000, glucose="yes")
+predict(model.log, newdata=newdata, type="response")
+
+fitted(model.log, type="response")
+
+plot(conc,diameter)
+points(conc[glucose=="yes"],diameter[glucose=="yes"], pch=19, col="red")
+lines(conc[glucose=="yes"],fitted(model.log, type="response")[glucose=="yes"], col="red")
+lines(conc[glucose=="no"],fitted(model.log, type="response")[glucose=="no"], col="blue")
+
+##
+
+model.exponential<-glm(diameter~log(conc)+factor(glucose), family=gaussian(link="log"), data=data)
+summary(model.exponential)
+
+plot(conc,diameter)
+points(conc[glucose=="yes"],diameter[glucose=="yes"], pch=19, col="red")
+lines(conc[glucose=="yes"],fitted(model.exponential, type="response")[glucose=="yes"], col="red")
+lines(conc[glucose=="no"],fitted(model.exponential, type="response")[glucose=="no"], col="blue")
+
+newdata<-data.frame(conc=90000, glucose="yes")
+predict(model.exponential, newdata=newdata, type="response")
+
+
+############################
+### Example 3.2
+
+data<-read.table("canoladiesel.txt", sep="\t", dec=".", header=TRUE)
+attach(data)
+
+plot(Time, Yield)
+
+model.identity<-glm(Yield~Time, family=Gamma(link="identity"), data=data)
+coef(model.identity)
+model.inverse<-glm(Yield~Time, family=Gamma(link="inverse"), data=data)
+coef(model.inverse)
+model.log<-glm(Yield~Time, family=Gamma(link="log"), data=data)
+coef(model.log)
+model.IG<-glm(Yield~Time, family=inverse.gaussian(link="log"), data=data)
+
+plot(Time, Yield)
+lines(seq(15,45,1), predict(model.identity,newdata=data.frame(Time=seq(15,45,1)), type="response"), col="blue")
+lines(seq(15,45,1), predict(model.inverse,newdata=data.frame(Time=seq(15,45,1)), type="response"), col="black")
+lines(seq(15,45,1), predict(model.log,newdata=data.frame(Time=seq(15,45,1)), type="response"), col="red")
+lines(seq(15,45,1), predict(model.IG,newdata=data.frame(Time=seq(15,45,1)), type="response"), col="green")
+
+AIC(model.identity)
+AIC(model.inverse)
+AIC(model.log)
+
+# MSE values
+
+mean(residuals(model.identity, type="response")^2)
+mean(residuals(model.inverse, type="response")^2)
+mean(residuals(model.log, type="response")^2)
+
+
+############################
+### Example 3.3
+
+data<-read.table("coffeerating.txt", sep="\t", dec=".", header=TRUE)
+attach(data)
+
+a<-0
+b<-100
+Y<-(rating-a)/(b-a)
+
+coplot(Y~age|gender*flavor)
+
+library(betareg)
+
+### Main effect model
+
+model.main<-betareg(Y~age+factor(gender)+factor(flavor), data=data, link=c("logit"))
+summary(model.main)
+
+coplot(fitted(model.main, type="response")~age|gender*flavor)
+
+model.age<-betareg(Y~age, data=data, link=c("logit"))
+plot(age,fitted(model.age, type="response"))
+plot(10:90,predict(model.age, newdata=data.frame(age=10:90), type="response"), type="l")
+plot(age,fitted(model.age, type="response"))
+plot(-100:200,predict(model.age, newdata=data.frame(age=-100:200), type="response"), type="l")
+
+
+newdata<-expand.grid(age=20:70,gender=levels(factor(gender)), flavor=levels(factor(flavor)))
+pred<-predict(model.main, newdata=newdata, type="response")
+prediction.data<-data.frame(newdata, pred)
+prediction.dark<-prediction.data[newdata$flavor=="dark",]
+prediction.dark$pred
+coplot(prediction.dark$pred~prediction.dark$age| prediction.dark$gender)
+
+
+############################
+### Example 3.6
+
+
+age: age in years
+sex: 0 for male; 1 for female
+height: height (cm)
+weight: weight (kg)
+bmp: body mass (% of normal)
+fev1: forced expiratory volume
+rv: residual volume
+frc: functional residual capacity
+tlc: total lung capacity
+pemax: maximum expiratory pressure
+
+data<-read.table("cysticfibrosis.txt", sep="\t", dec=".", header=TRUE)
+attach(data)
+
+plot(weight,pemax)
+plot(height,pemax)
+
+model.exponential<-glm(pemax~log(height)+log(weight)+factor(sex), family=gaussian(link="log"), data=data)
+summary(model.exponential)
+
+newdata<-data[1,]
+pred<-predict(model.exponential, newdata=newdata, type="response")
+pred
+
+## confidence interval
+
+eta<-predict(model.exponential, newdata=newdata, type="link", se.fit=TRUE)
+link.lowerbound<-eta$fit-qnorm(0.975)*eta$se.fit
+link.upperbound<-eta$fit+qnorm(0.975)*eta$se.fit
+
+lower.mu<-exp(link.lowerbound)
+upper.mu<-exp(link.upperbound)
+
+lower.mu
+upper.mu
+
+## prediction interval
+
+newdata<-data[1,]
+pred<-predict(model.exponential, newdata=newdata, type="response")
+pred
+
+xf<-cbind(model.matrix(model.exponential)[1,])
+xf
+
+
+phi<-summary(model.exponential)$dispersion
+Var.Yf<-phi     ## Depend on distribution
+D.f<-pred         ## Depend on the link function
+Var.ef<-Var.Yf+(D.f^2)*t(xf)%*%vcov(model.exponential)%*%xf
+
+lower.yf<-pred-qnorm(0.9)*sqrt(Var.ef)
+upper.yf<-pred+qnorm(0.9)*sqrt(Var.ef)
+
+lower.yf
+upper.yf
+
+
+## simulated prediction interval
+
+library(ciTools)
+
+add_pi(newdata, model.exponential, alpha = 0.2, nSims=2000)
+
+
+
+############################
+### Assignment 3.3
+
+data<-read.table("canoladiesel.txt", sep="\t", dec=".", header=TRUE)
+attach(data)
+
+plot(Time, Yield)
+
+model.identity<-glm(Yield~Time, family=Gamma(link="identity"), data=data)
+coef(model.identity)
+model.inverse<-glm(Yield~Time, family=Gamma(link="inverse"), data=data)
+coef(model.inverse)
+model.log<-glm(Yield~Time, family=Gamma(link="log"), data=data)
+coef(model.log)
+model.IG<-glm(Yield~Time, family=inverse.gaussian(link="log"), data=data)
+
+plot(Time, Yield)
+lines(seq(15,45,1), predict(model.identity,newdata=data.frame(Time=seq(15,45,1)), type="response"), col="blue")
+lines(seq(15,45,1), predict(model.inverse,newdata=data.frame(Time=seq(15,45,1)), type="response"), col="black")
+lines(seq(15,45,1), predict(model.log,newdata=data.frame(Time=seq(15,45,1)), type="response"), col="red")
+lines(seq(15,45,1), predict(model.IG,newdata=data.frame(Time=seq(15,45,1)), type="response"), col="green")
+
+AIC(model.identity)
+AIC(model.inverse)
+AIC(model.log)
+
+
+plot(Time, Yield)
+lines(seq(15,45,1), predict(model.log,newdata=data.frame(Time=seq(15,45,1)), type="response"), col="red")
+
+newdata<-data.frame(Time=seq(15,45,1))
+pred<-predict(model.log, newdata=newdata, type="response")
+pred
+
+Xf<-cbind(1,newdata$Time)
+Xf
+
+
+### log link - Gamma
+
+phi<-summary(model.log)$dispersion
+Var.Yf<-phi*(pred^2)
+D.f<-pred
+Var.ef<-Var.Yf+(D.f^2)*diag(Xf%*%vcov(model.log)%*%t(Xf))
+
+lower.yf<-pred-qnorm(0.9)*sqrt(Var.ef)
+upper.yf<-pred+qnorm(0.9)*sqrt(Var.ef)
+
+lower.yf
+upper.yf
+
+
+plot(c(15,45), c(-30,130), type="n")
+points(Time, Yield)
+lines(seq(15,45,1), predict(model.log,newdata=data.frame(Time=seq(15,45,1)), type="response"), col="red")
+lines(seq(15,45,1), lower.yf, col="blue")
+lines(seq(15,45,1), upper.yf, col="blue")
+lines(seq(15,45,1), lower.yfN, col="black")
+lines(seq(15,45,1), upper.yfN, col="black")
+lines(seq(15,45,1), lower.yfIG, col="yellow")
+lines(seq(15,45,1), upper.yfIG, col="yellow")
+lines(seq(15,45,1), predict(model.n,newdata=data.frame(Time=seq(15,45,1)), type="response"), col="red")
+lines(seq(15,45,1), predict(model.ig,newdata=data.frame(Time=seq(15,45,1)), type="response"), col="red")
+lines(seq(15,45,1), predict(model.inverse,newdata=data.frame(Time=seq(15,45,1)), type="response"), col="violet")
+lines(seq(15,45,1), lower.yfI, col="violet", cex=4)
+lines(seq(15,45,1), upper.yfI, col="violet", cex=4)
+
+
+### log link - Inverse Gaussian
+
+model.ig<-glm(Yield~Time, family=inverse.gaussian(link="log"), data=data)
+
+pred<-predict(model.ig, newdata=newdata, type="response")
+phi<-summary(model.ig)$dispersion
+Var.Yf<-phi*(pred^3)
+D.f<-pred
+Var.ef<-Var.Yf+(D.f^2)*diag(Xf%*%vcov(model.ig)%*%t(Xf))
+
+lower.yfIG<-pred-qnorm(0.9)*sqrt(Var.ef)
+upper.yfIG<-pred+qnorm(0.9)*sqrt(Var.ef)
+
+lower.yfG
+upper.yfG
+
+
+### log link - Normal
+
+model.n<-glm(Yield~Time, family=gaussian(link="log"), data=data)
+
+pred<-predict(model.n, newdata=newdata, type="response")
+phi<-summary(model.n)$dispersion
+Var.Yf<-phi
+D.f<-pred
+Var.ef<-Var.Yf+(D.f^2)*diag(Xf%*%vcov(model.n)%*%t(Xf))
+
+lower.yfN<-pred-qnorm(0.9)*sqrt(Var.ef)
+upper.yfN<-pred+qnorm(0.9)*sqrt(Var.ef)
+
+lower.yfN
+upper.yfN
+
+
+### inverse link - Gamma
+
+pred<-predict(model.inverse, newdata=newdata, type="response")
+phi<-summary(model.inverse)$dispersion
+Var.Yf<-phi*(pred^2)
+D.f<--(pred^2)
+Var.ef<-Var.Yf+(D.f^2)*diag(Xf%*%vcov(model.inverse)%*%t(Xf))
+
+lower.yfI<-pred-qnorm(0.75)*sqrt(Var.ef)
+upper.yfI<-pred+qnorm(0.75)*sqrt(Var.ef)
+
+lower.yfI
+upper.yfI
+
+
+
+############################
+### Assignment 3.4
+
+
+data<-read.table("coffeerating.txt", sep="\t", dec=".", header=TRUE)
+attach(data)
+
+a<-0
+b<-100
+Y<-(rating-a)/(b-a)
+
+coplot(Y~age|gender*flavor)
+
+library(betareg)
+
+### Main effect model
+
+model.main<-betareg(Y~age+factor(gender)+factor(flavor), data=data, link=c("logit"))
+summary(model.main)
+
+coplot(fitted(model.main, type="response")~age|gender*flavor)
+
+model.age<-betareg(Y~age, data=data, link=c("logit"))
+plot(age,fitted(model.age, type="response"))
+plot(10:90,predict(model.age, newdata=data.frame(age=10:90), type="response"), type="l")
+plot(age,fitted(model.age, type="response"))
+plot(-100:200,predict(model.age, newdata=data.frame(age=-100:200), type="response"), type="l")
+
+library(mvtnorm)
+
+model<-betareg(Y~age*factor(gender)+age*factor(flavor)+factor(gender)*factor(flavor), data=data, link=c("logit"))
+newdata<-data.frame(age=35,gender="female", flavor="dark")
+pred<-predict(model, newdata=newdata, type="response")
+pred
+eta.f<-predict(model, newdata=newdata, type="link")
+phi.hat<-coef(model)[11]
+
+modeldata<-expand.grid(age=35,gender=c("female","male"), flavor=c("dark", "light", "medium"))
+X<-model.matrix(~age*factor(gender)+age*factor(flavor)+factor(gender)*factor(flavor), data=modeldata)
+xf<-t(t(X[1,]))
+etarow<-c(t(xf),0)
+phirow<-c(rep(0,length(xf)),1)
+A<-rbind(etarow,phirow)
+
+cov.etaphi<-A%*%vcov(model)%*%t(A)
+etaphi.star<-rmvnorm(1000, mean = c(eta.f,phi.hat), sigma = cov.etaphi)
+
+muf.star<-exp(etaphi.star[,1])/(1+exp(etaphi.star[,1]))
+phi.star<-etaphi.star[,2]
+
+p.star<-muf.star*phi.star
+q.star<-phi.star*(1-muf.star)
+
+yf.star<-rbeta(1000, shape1=p.star, shape2=q.star)
+
+lower.bound<-quantile(yf.star, c(0.1))
+upper.bound<-quantile(yf.star, 1-c(0.1))
+lower.bound
+upper.bound
+
+
+
+############################
+### Example 4.1
+
+
+data<-read.table("butterfat.txt", sep="\t", dec=".", header=TRUE)
+attach(data)
+
+plot(as.numeric(factor(Breed)), Butterfat, type="n", xlab="", axes=FALSE)
+axis(1, 1:5,label=levels(factor(Breed)))
+axis(2, seq(3,7,0.5))
+points(as.numeric(factor(Breed)), Butterfat, pch=19)
+points(as.numeric(factor(Breed))[Age=="2year"], Butterfat[Age=="2year"], pch=19, col="red")
+
+aggregate(Butterfat~factor(Breed)+factor(Age), FUN=mean)
+aggregate(Butterfat~factor(Breed)+factor(Age), FUN=var)
+
+normal.1<-glm(Butterfat~factor(Breed)+factor(Age), family=gaussian(link="identity"), data=data)
+summary(normal.1)
+normal.2<-glm(Butterfat~factor(Breed)+factor(Age), family=gaussian(link="log"), data=data)
+summary(normal.2)
+normal.3<-glm(Butterfat~factor(Breed)+factor(Age), family=gaussian(link="inverse"), data=data)
+summary(normal.3)
+normal.4<-glm(Butterfat~factor(Breed)*factor(Age), family=gaussian(link="inverse"), data=data)
+summary(normal.4)
+
+interaction.plot(Breed, Age, fitted(normal.1, type="response"))
+interaction.plot(Breed, Age, fitted(normal.2, type="response"))
+interaction.plot(Breed, Age, fitted(normal.3, type="response"))
+interaction.plot(Breed, Age, fitted(normal.4, type="response"))
+
+
+AIC(normal.1)
+AIC(normal.2)
+AIC(normal.3)
+AIC(normal.4)
+
+gamma.1<-glm(Butterfat~factor(Breed)+factor(Age), family=Gamma(link="identity"), data=data)
+summary(gamma.1)
+gamma.2<-glm(Butterfat~factor(Breed)+factor(Age), family=Gamma(link="log"), data=data)
+gamma.3<-glm(Butterfat~factor(Breed)+factor(Age), family=Gamma(link="inverse"), data=data)
+
+interaction.plot(Breed, Age, fitted(gamma.1, type="response"))
+interaction.plot(Breed, Age, fitted(gamma.2, type="response"))
+interaction.plot(Breed, Age, fitted(gamma.3, type="response"))
+
+AIC(gamma.1)
+AIC(gamma.2)
+AIC(gamma.3)
+
+ig.1<-glm(Butterfat~factor(Breed)+factor(Age), family=inverse.gaussian(link="identity"), data=data)
+ig.2<-glm(Butterfat~factor(Breed)+factor(Age), family=inverse.gaussian(link="log"), data=data)
+ig.3<-glm(Butterfat~factor(Breed)+factor(Age), family=inverse.gaussian(link="inverse"), data=data)
+
+AIC(ig.1)
+AIC(ig.2)
+AIC(ig.3)
+
+## MSE
+
+mean(residuals(normal.3, type="response")^2)
+mean(residuals(gamma.3, type="response")^2)
+mean(residuals(ig.3, type="response")^2)
+
+plot(fitted(normal.3, type="response"), residuals(normal.3, type="response"))
+
+phi.n<-summary(normal.3)$dispersion
+phi.g<-summary(gamma.3)$dispersion
+phi.ig<-summary(ig.3)$dispersion
+
+plot(fitted(normal.3, type="response"), (1/phi.n)*residuals(normal.3, type="pearson")^2)
+plot(fitted(gamma.3, type="response"), (1/phi.g)*residuals(gamma.3, type="pearson")^2)
+plot(fitted(ig.3, type="response"), (1/phi.ig)*residuals(ig.3, type="pearson")^2)
+
+o2<-(1/phi.n)*residuals(normal.3, type="pearson")^2
+mu<-fitted(normal.3, type="response")
+model.pearsonN<-lm(o2~mu)
+summary(model.pearsonN)
+
+o2<-(1/phi.g)*residuals(gamma.3, type="pearson")^2
+mu<-fitted(gamma.3, type="response")
+model.pearsonG<-lm(o2~mu)
+summary(model.pearsonG)
+
+o2<-(1/phi.ig)*residuals(ig.3, type="pearson")^2
+mu<-fitted(ig.3, type="response")
+model.pearsonIG<-lm(o2~mu)
+summary(model.pearsonIG)
+
+gammaH0<-glm(Butterfat~factor(Age), family=Gamma(link="inverse"), data=data)
+anova(gammaH0, gamma.3, test="F")
+
+igH0<-glm(Butterfat~factor(Age), family=inverse.gaussian(link="inverse"), data=data)
+anova(igH0, ig.3, test="F")
+
+normalH0<-glm(Butterfat~factor(Age), family=gaussian(link="inverse"), data=data)
+anova(normalH0, normal.3, test="F")
+
+plot(fitted(normal.3, type="response"), sqrt((1/phi.n))*residuals(normal.3, type="pearson"))
+plot(fitted(gamma.3, type="response"), sqrt((1/phi.g))*residuals(gamma.3, type="pearson"))
+plot(fitted(ig.3, type="response"), sqrt((1/phi.ig))*residuals(ig.3, type="pearson"))
+
+
+
+
+############################
+### Example 4.2
+
+data<-read.table("makiwaraboard.txt", sep="\t", dec=".", header=TRUE)
+attach(data)
+
+interaction.plot(WoodType, BoardType, Deflection)
+
+main.gamma<-glm(Deflection~factor(WoodType)+factor(BoardType), family=Gamma(link="log"), data=data)
+summary(main.gamma)
+
+interaction.plot(WoodType, BoardType, fitted(main.gamma, type="response"))
+
+newdata<-expand.grid(WoodType=levels(factor(WoodType)), BoardType=levels(factor(BoardType)))
+X<-model.matrix(~factor(WoodType)+factor(BoardType), data=newdata)
+
+kt<-X[2,]-X[1,]
+library(multcomp)
+
+kt<-t(kt)
+result<-glht(main.gamma, linfct = kt)
+
+
+K<-cbind(
+t(X[-1,])-X[1,],
+t(X[-(1:2),])-X[2,],
+t(X[-(1:3),])-X[3,],
+t(X[-(1:4),])-X[4,],
+t(X[-(1:5),])-X[5,],
+t(X[-(1:6),])-X[6,],
+t(t(X[-(1:7),]))-X[7,]
+)
+
+pairwise<-glht(main.gamma, linfct = t(K))
+
+summary(pairwise)
+
+data.frame(t(K),summary(pairwise)$test$pvalues)
+
+summary(pairwise, test=Chisqtest())
+
+summary(pairwise, test=Ftest())
+
+model0<-glm(Deflection~1, family=Gamma(link="log"), data=data)
+anova(model0,main.gamma, test="F")
+
+
+
+############################
+### Example 4.3
+
+
+data<-read.table("makiwaraboard.txt", sep="\t", dec=".", header=TRUE)
+attach(data)
+
+interaction.plot(WoodType, BoardType, Deflection)
+
+main.gamma<-glm(Deflection~factor(WoodType)+factor(BoardType), family=Gamma(link="log"), data=data)
+summary(main.gamma)
+
+newdata<-data.frame(WoodType=c("Cherry","Oak"), BoardType=c("Stacked","Tapered"))
+pred<-predict(main.gamma, newdata=newdata, type="response")
+pred
+
+x1f<-cbind(c(1,1,0,0,0)) ### Cherry and Stacked
+x2f<-cbind(c(1,0,0,1,1)) ## Oak and Tapered
+Xf<-t(cbind(x1f,x2f))
+
+k<-cbind(c(-1,1))
+
+phi<-summary(main.gamma)$dispersion
+Var.Y1f<-phi*(pred[1]^2)
+Var.Y2f<-phi*(pred[2]^2)
+
+D.f<-diag(pred)   ####!!!!!!!!!
+
+Var.ef<-Var.Y1f+Var.Y2f+t(k)%*%D.f%*%Xf%*%vcov(main.gamma)%*%t(Xf)%*%D.f%*%k
+
+lower.diff<-(pred[2]-pred[1])-qnorm(0.9)*sqrt(Var.ef)
+upper.diff<-(pred[2]-pred[1])+qnorm(0.9)*sqrt(Var.ef)
+lower.diff
+upper.diff
+
+Q<-(pred[2]-pred[1])/sqrt(Var.ef)
+d<-2*pnorm(abs(Q), lower.tail = FALSE)
+
+
+############################
+### Example 4.4
+
+data<-read.table("canoladiesel.txt", sep="\t", dec=".", header=TRUE)
+attach(data)
+
+model.log<-glm(Yield~Time, family=Gamma(link="log"), data=data)
+model.logN<-glm(Yield~Time, family=gaussian(link="log"), data=data)
+model.logIG<-glm(Yield~Time, family=inverse.gaussian(link="log"), data=data)
+
+
+phi.g<-summary(model.log)$dispersion
+phi.n<-summary(model.logN)$dispersion
+phi.ig<-summary(model.logIG)$dispersion
+
+
+o2<-(1/phi.n)*residuals(model.logN, type="pearson")^2
+mu<-fitted(model.logN, type="response")
+model.pearsonN<-lm(o2~mu)
+summary(model.pearsonN)
+
+o2<-(1/phi.g)*residuals(model.log, type="pearson")^2
+mu<-fitted(model.log, type="response")
+model.pearsonG<-lm(o2~mu)
+summary(model.pearsonG)
+
+plot(fitted(model.log, type="response"),o2)
+
+o2<-(1/phi.ig)*residuals(model.logIG, type="pearson")^2
+mu<-fitted(model.logIG, type="response")
+model.pearsonIG<-lm(o2~mu)
+summary(model.pearsonIG)
+
+plot(fitted(model.logN, type="response"),residuals(model.logN, type="pearson"))
+plot(fitted(model.log, type="response"),residuals(model.log, type="pearson"))
+plot(fitted(model.logIG, type="response"),residuals(model.logIG, type="pearson"))
+
+newdata<-data.frame(Time=seq(15,45,1))
+pred<-predict(model.log, newdata=newdata, type="response")
+pred
+
+Xf<-cbind(1,newdata$Time)
+Xf
+
+phi<-summary(model.log)$dispersion
+Var.Yf<-phi*(pred^2)
+D.f<-pred
+Var.ef<-Var.Yf+(D.f^2)*diag(Xf%*%vcov(model.log)%*%t(Xf))
+
+lower.yf<-pred-qnorm(0.75)*sqrt(Var.ef)
+upper.yf<-pred+qnorm(0.75)*sqrt(Var.ef)
+
+lower.yf
+upper.yf
+
+plot(c(15,45), c(-30,130), type="n")
+points(Time, Yield)
+lines(seq(15,45,1), predict(model.log,newdata=data.frame(Time=seq(15,45,1)), type="response"), col="red")
+lines(seq(15,45,1), lower.yf, col="blue")
+lines(seq(15,45,1), upper.yf, col="blue")
+
+### Prediction Coverage
+
+newdata<-data.frame(Time=data$Time)
+pred<-predict(model.log, newdata=newdata, type="response")
+pred
+
+Xf<-cbind(1,newdata$Time)
+Xf
+
+phi<-summary(model.log)$dispersion
+Var.Yf<-phi*(pred^2)
+D.f<-pred
+Var.ef<-Var.Yf+(D.f^2)*diag(Xf%*%vcov(model.log)%*%t(Xf))
+
+lower.yf<-pred-qnorm(0.75)*sqrt(Var.ef)
+upper.yf<-pred+qnorm(0.75)*sqrt(Var.ef)
+
+coverage<-lower.yf<=Yield & Yield<=upper.yf
+
+mean(coverage)
+
+data.frame(fitted(model.log, type="response"), coverage)
+
+g<-(mean(coverage[1:6])-0.5)^2+(mean(coverage[7:13])-0.5)^2+(mean(coverage[14:19])-0.5)^2
+g
+
+#
+
+newdata<-data.frame(Time=data$Time)
+pred<-predict(model.logN, newdata=newdata, type="response")
+pred
+
+Xf<-cbind(1,newdata$Time)
+Xf
+
+phi<-summary(model.logN)$dispersion
+Var.Yf<-phi
+D.f<-pred
+Var.ef<-Var.Yf+(D.f^2)*diag(Xf%*%vcov(model.log)%*%t(Xf))
+
+lower.yf<-pred-qnorm(0.75)*sqrt(Var.ef)
+upper.yf<-pred+qnorm(0.75)*sqrt(Var.ef)
+
+coverage<-lower.yf<=Yield & Yield<=upper.yf
+
+mean(coverage)
+
+data.frame(fitted(model.log, type="response"), coverage)
+
+n<-(mean(coverage[1:6])-0.5)^2+(mean(coverage[7:13])-0.5)^2+(mean(coverage[14:19])-0.5)^2
+n
+
+
+
+
+newdata<-data.frame(Time=seq(15,45,1))
+pred<-predict(model.log, newdata=newdata, type="response")
+pred
+
+pred<-predict(model.logN, newdata=newdata, type="response")
+pred
+
+Xf<-cbind(1,newdata$Time)
+Xf
+
+phi<-summary(model.logN)$dispersion
+Var.Yf<-phi
+D.f<-pred
+Var.ef<-Var.Yf+(D.f^2)*diag(Xf%*%vcov(model.log)%*%t(Xf))
+
+lower.yf<-pred-qnorm(0.75)*sqrt(Var.ef)
+upper.yf<-pred+qnorm(0.75)*sqrt(Var.ef)
+
+
+
+plot(c(15,45), c(-30,130), type="n")
+points(Time, Yield)
+lines(seq(15,45,1), predict(model.logN,newdata=data.frame(Time=seq(15,45,1)), type="response"), col="red")
+lines(seq(15,45,1), lower.yf, col="blue")
+lines(seq(15,45,1), upper.yf, col="blue")

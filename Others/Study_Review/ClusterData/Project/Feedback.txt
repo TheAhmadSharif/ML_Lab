@@ -1,0 +1,37 @@
+Hi
+
+Thank you for your project work. However, it has some issues, and I ask you to revise it as follows:
+
+Figure 1 looks strange. There are two countries with large GDP:s and small Total Medals. Further, the scale indicates that their GDP is about 100000 billion dollars, which is about the world GDP!
+
+
+The figures are usually named so that the response variable (on the y axis) is mentioned first: Total Medals vs. GDP (not GDP vs. Total Medals). This applies to the other figures of your report as well. 
+A model where you have Total Medals on the left hand side and Gold, Silver and Pronze on the right side is not very meaninful, because there is a simple exact formula: Total Medals = Gold + Silver + Pronze. 
+
+
+I advise you to remove Gold, Silver and Pronze from the predictors. Then the variables GDP and Population might become significant. If you like you can also fit separate models for  Gold, Silver and Pronze (having them as response variables). 
+The distributions of GDP and Population are skewed to the right. You might have a  better model fit if you use their log-transforms as predictors.   
+You have fitted a model that does not include a residual error term (epsilon)  in formula (1)
+Could you please also attach your R code or add it as an appendix, so that I can compare with it if there are some strange results?
+BR, Arto
+
+
+
+---------------------------
+Task 
+
+1. Correction: Remove Gold, Silver and Pronze from the predictors. Then the variables GDP and Population might become significant. 
+
+model <- glmer(total ~ gdp_std + population_std + (1 | country_code), data = df, family = poisson)
+log(E(Total Medals)) = β₀ + β₁ × GDP + β₂ × Population + u_Country + ε
+
+
+2. Make a separate models for  Gold, Silver and Pronze (having them as response variables). 
+Fit Model with  log-transforms as predictors.   
+
+
+Can you share other naive example with data of Mixed Effect Model ?
+
+
+
+

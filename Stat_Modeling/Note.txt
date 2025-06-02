@@ -1,8 +1,0 @@
-In statistical modeling, the aim is often to model the relationship between several ex-
-planatory variables X1, X2, . . . , Xp and one response variable Y .
-– The response variable Y is assumed to be a random variable with the probability dis-
-tribution defined by the density function fY (y|x, β), where x = (X1, X2, . . . , Xp)′ and
-β = (β0, β1, . . . , βp)′ is unknown parameter vector, β ∈ Rp+1.
-
-
-where ϵ is the error term, typically assumed to be normally distributed with mean 0 and constant variance 

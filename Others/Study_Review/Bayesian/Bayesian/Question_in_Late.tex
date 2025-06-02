@@ -1,0 +1,179 @@
+\documentclass{article}
+
+\usepackage{amsmath}
+
+\begin{document}
+
+\title{Bayesian Analysis I, FALL 2024}
+\author{Lab Exercise 4: on Thursday Nov. 20, 14-16}
+\date{}
+
+\maketitle
+
+\section{Exercise 1}
+
+Suppose that I have 3 coins in my pocket:
+\begin{itemize}
+    \item coin 1 is biased 1:3 in favor of heads,
+    \item coin 2 is a fair coin,
+    \item coin 3 is biased 1:3 in favor of tails.
+\end{itemize}
+
+Let $\theta$ denote the probability of a head; $\theta \in \{0.25, 0.5, 0.75\}$ for coin 1, coin 2, and coin 3.
+
+Prior: $P(\theta = 0.25) = P(\theta = 0.5) = P(\theta = 0.75) = 0.33$.
+
+\subsection{Part a}
+I randomly select one coin and toss it once, observing a head. What is the probability that I have chosen coin 3, given this information? Using the above prior beliefs, calculate the posterior probability that I have chosen coin 3. 
+
+\subsection{Part b}
+Suppose we want to predict the probability that the next toss is a head. Determine the predictive probability for $Y$.
+
+\subsection{Part c}
+Suppose we observe $X$ total responses out of $n$ tosses. Before taking account of this evidence, suppose that we believe all values for $\theta$ are equally likely. So we take Uniform(0,1) prior for $\theta$.
+
+Obtain the posterior distribution of $\theta$ and the posterior predictive distribution of the next toss being a head.
+
+
+
+\section{Exercise 2}
+
+Five machines are put on test for at most one hundred hours. Three of them fail at 65, 89, and 95 hours. The remaining two machines are still working at one hundred hours.
+
+Assuming the lifetime of the machines has an exponential distribution with mean $1/\theta$, the derived likelihood is $x\theta^3 \exp(-449\theta)$.
+
+\subsection{Part a}
+
+If the prior distribution for $\theta$ is a Gamma$(2,1/180)$ distribution, what is the posterior distribution of $\theta$?
+
+\subsection{Part b}
+
+Find the predictive distribution of the life time of another similar machine.
+
+\subsection{Part c}
+
+What is the (predictive) probability that it works for more than 100 hours? 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+
+
+
+
+\section{Exercise 3}
+
+Let $X_1,...,X_n$ (independent given $\lambda$) be from a Poisson($\lambda$). Suppose we judge that $\lambda \sim \operatorname{Gamma}(\alpha, 1/\beta)$.
+
+Let $Z$ be a future (unobserved) observation. Find the mean and variance of the predictive distribution $p(Z|X), X = (X_1,...,X_n)$ using the theorem $E[X] = E[E(X|Y)]$ and $\operatorname{Var}[X] = E[\operatorname{Var}(X|Y)] + \operatorname{Var}[E(X|Y)]$.
+
+\section{Exercise 4}
+
+A coin, believed to be biased, is tossed until the first head appears. Let $\theta$ be the chance the coin lands heads. Let $x_i$ be the number of tails before the first head so that $x_i$ can take the values 0, 1, 2,.... This procedure is repeated $n = 5$ times and $\sum_{i=1}^5 x_i = 17$. Thus, the likelihood follows a Negative Binomial $\propto \theta^5(1-\theta)^{17}$.
+
+Suppose the prior for $\theta$ is taken as a mixture of two beta priors:
+
+\[
+p(\theta) = 0.5\frac{\Gamma(12)}{\Gamma(3)\Gamma(9)}\theta^2(1-\theta)^8 + 0.5\frac{\Gamma(12)}{\Gamma(9)\Gamma(3)}\theta^8(1-\theta)^2.
+\]
+
+Find the posterior distribution of $\theta$.
+
+\section{Exercise 5}
+
+Assume the model $Y_i \sim N(\mu, \tau)$, independent $i = 1,...,n$ with prior where the probability density function is:
+
+\[
+p(y|\mu, \tau) = \frac{1}{\sqrt{2\pi\tau}} \exp\left(-\frac{(y-\mu)^2}{2\tau}\right), \quad \tau > 0.
+\]
+
+Assume the prior:
+
+\[
+p(\mu, \tau) \propto \exp\left(-\frac{1}{2C}(\mu-m)^2\right) (\tau)^{-a-1} e^{-b/\tau}
+\]
+
+with $a > 0, b > 0$, and $C > 0$. Let $y = (y_1,...,y_n)$.
+
+a) Derive the conditional posterior for $\mu$, i.e., $p(\mu|\tau, y)$. Identify the name of the distribution and give the parameters that characterize the distribution.
+
+b) Derive the conditional posterior for $\tau$, i.e., $p(\tau|\mu, y)$.
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+
+\section{Exercise 1}
+
+\subsection{Part a}
+Let $\theta$ denote the probability of a head; $\theta \in \{0.25, 0.5, 0.75\}$.
+
+Toss a randomly selected coin once, observing a head: $X \sim Bernoulli(\theta)$ and the observed data, $x = 1 \Rightarrow Likelihood: L(\theta) = \theta^x(1-\theta)^{1-x}$.
+
+\begin{table}
+\begin{tabular}{|c|c|c|c|c|}
+\hline
+Coin & $\theta$ & $p(\theta)$ (prior) & $p(x=1|\theta)$ (lkhd) & $p(x=1|\theta)p(\theta)$ (lkhd x prior) & $p(\theta|x=1)$ (posterior) \\ \hline
+1 & 0.25 & $\frac{1}{3}$ & $\frac{1}{4}$ & $\frac{1}{12}$ & $\frac{1}{6}$ \\ \hline
+2 & 0.5 & $\frac{1}{3}$ & $\frac{1}{2}$ & $\frac{1}{6}$ & $\frac{1}{3}$ \\ \hline
+3 & 0.75 & $\frac{1}{3}$ & $\frac{3}{4}$ & $\frac{3}{12}$ & $\frac{1}{2}$ \\ \hline
+\end{tabular}
+\end{table}
+
+$\Rightarrow$ Probability to choose coin 3 given one head observed: $P(\theta=0.75|x=1) = 0.5$.
+
+\subsection{Part b}
+Predictive distribution for $Y$ given that one head was observed:
+
+\[
+P(Y=y|X=1) = \sum_{\theta=\frac{1}{4},\frac{1}{2},\frac{3}{4}}P(Y=y|\theta)P(\theta|X=1)
+\]
+
+\[
+= \left(\frac{1}{4}\right)^y\left(\frac{3}{4}\right)^{1-y}\times\frac{1}{6} + \left(\frac{1}{2}\right)^y\left(\frac{1}{2}\right)^{1-y}\times\frac{1}{3} + \left(\frac{3}{4}\right)^y\left(\frac{1}{4}\right)^{1-y}\times\frac{1}{2}
+\]
+
+Predictive probability that next toss is a head:
+
+\[
+P(Y=1|X=1) = \left(\frac{1}{4}\right)\times\frac{1}{6} + \left(\frac{1}{2}\right)\times\frac{1}{3} + \left(\frac{3}{4}\right)\times\frac{1}{2} = \frac{7}{12}
+\]
+
+\subsection{Part c}
+Now suppose that we observe $X$ total responses out of $n$ tossings: $X \sim Binom(n, \theta)$
+
+Posterior: $p(\theta|x) \propto p(x|\theta)p(\theta) \propto \theta^x(1-\theta)^{n-x} \Rightarrow \theta \sim Beta(\alpha+1, n-x+1)$
+
+Posterior predictive probability of the next toss being a head: $Y \sim Bernoulli(\theta)$
+
+\[
+P(Y=1|x) = \int_{0}^{1}P(Y=1|\theta)p(\theta|x)d\theta
+\]
+
+\[
+= \int_{0}^{1} \theta \frac{\Gamma(n+2)}{\Gamma(x+1)\Gamma(n-x+1)}\theta^x(1-\theta)^{n-x}d\theta
+\]
+
+\[
+= \frac{x+1}{n+2}
+\]
+
+(Probability of a head + density of Beta(x+1, n-x+1))
+
+
+
+
+
+
+
+
+
+\end{document}

@@ -1,0 +1,380 @@
+### Statistical Modeling 1
+### Linear Models
+### 2024
+
+############################
+### Example 1.1
+
+data<-read.table("satsuma.txt", sep="\t", dec=".", header=TRUE)
+attach(data)
+
+model<-lm(VitaminC~Time)
+summary(model)
+coef(model)
+sigma(model)^2
+
+plot(Time, VitaminC, type="n")
+points(Time, VitaminC, pch=19)
+lines(Time, fitted(model), col="lightblue", lwd=3)
+
+############################
+### Example 1.2
+
+data<-read.table("heliconia.txt", sep="\t", dec=".", header=TRUE)
+attach(data)
+
+model<-lm(length~factor(variety))
+summary(model)
+model0<-lm(length~1)
+anova(model0, model, test="F")
+
+plot(variety, length, type="n")
+points(variety, length, pch=19)
+lines(variety, fitted(model), col="lightblue", lwd=3)
+points(variety, fitted(model), col="lightblue", pch=15, cex=1.5)
+points(variety, fitted(model0), col="red", pch=15, cex=1.5)
+lines(variety, fitted(model0), col="red", lwd=3)
+
+############################
+### Example 1.3
+
+data<-read.table("blackcherry.txt", sep="\t", dec=".", header=TRUE)
+attach(data)
+
+library(rgl)
+
+plot3d(Girth, Height, Volume, type = "s", size = 0.75, lit = FALSE)
+rgl.snapshot("Volume.png", fmt="png", top=TRUE )
+
+plot(Girth, Volume)
+plot(Height, Volume)
+
+model<-lm(Volume~Girth+Height)
+summary(model)
+
+newdata<-expand.grid(Girth=12, Height=80)
+fit<-predict(model, newdata=newdata)
+fitted<-matrix(fit, nrow=length(seq(8,22,1)), ncol=length(seq(60,90,1)))
+
+newdata<-expand.grid(Girth=seq(8,22,1), Height=seq(60,90,1))
+fit<-predict(model, newdata=newdata)
+fitted<-matrix(fit, nrow=length(seq(8,22,1)), ncol=length(seq(60,90,1)))
+
+girth<-seq(8,22,1)
+height<-seq(60,90,1)
+persp(x=girth, y=height, fitted, theta = -45, col="lightblue")
+
+############################
+### Example 1.4
+
+data<-read.table("teethpig.txt", sep="\t", dec=".", header=TRUE)
+attach(data)
+
+model.main<-lm(growth~level+factor(dose))
+summary(model.main)
+model.full<-lm(growth~level+factor(dose)+level:factor(dose))
+summary(model.full)
+
+plot(level, growth, type="n", main="Main effect model")
+points(level[dose=="VC"], growth[dose=="VC"], col="red", pch=19)
+points(level[dose=="OJ"], growth[dose=="OJ"], col="blue", pch=19)
+lines(level[dose=="VC"], fitted(model.main)[dose=="VC"], col="red", lwd=3)
+lines(level[dose=="OJ"], fitted(model.main)[dose=="OJ"], col="blue", lwd=3)
+legend(1.5,10, col=c("red","blue"), lty=c(1,1),pch=c(19,19), legend=c("VC", "OJ"))
+
+plot(level, growth, type="n", main="Model with interaction effect")
+points(level[dose=="VC"], growth[dose=="VC"], col="red", pch=19)
+points(level[dose=="OJ"], growth[dose=="OJ"], col="blue", pch=19)
+lines(level[dose=="VC"], fitted(model.full)[dose=="VC"], col="red", lwd=3)
+lines(level[dose=="OJ"], fitted(model.full)[dose=="OJ"], col="blue", lwd=3)
+legend(1.5,10, col=c("red","blue"), lty=c(1,1),pch=c(19,19), legend=c("VC", "OJ"))
+
+
+
+############################
+### Example 1.5
+
+data<-read.table("ratsRBGH.txt", sep="\t", dec=".", header=TRUE)
+attach(data)
+
+model.main<-lm(weightgain~factor(rbGH)+factor(gender))
+model.full<-lm(weightgain~factor(rbGH)*factor(gender))
+model.full<-lm(weightgain~factor(rbGH)+factor(gender)+factor(rbGH):factor(gender))
+
+anova(model.main, model.full, test="F")
+
+plot(rbGH, weightgain, type="n", main="Main effect model")
+points(rbGH[gender==1], weightgain[gender==1], pch=19, col="red")
+points(rbGH[gender==2], weightgain[gender==2], pch=19, col="blue")
+lines(rbGH[gender==1],fitted(model.main)[gender==1], col="red", lwd=3)
+lines(rbGH[gender==2],fitted(model.main)[gender==2], col="blue", lwd=3)
+points(rbGH[gender==1], fitted(model.main)[gender==1], pch=15, col="black", cex=1.5)
+points(rbGH[gender==2], fitted(model.main)[gender==2], pch=15, col="black", cex=1.5)
+legend(4.5,480, col=c("red","blue"), lty=c(1,1),pch=c(19,19), legend=c("Gender=1", "Gender=2"))
+
+
+plot(rbGH, weightgain, type="n", main="Model with interaction effect")
+points(rbGH[gender==1], weightgain[gender==1], pch=19, col="red")
+points(rbGH[gender==2], weightgain[gender==2], pch=19, col="blue")
+lines(rbGH[gender==1],fitted(model.full)[gender==1], col="red", lwd=3)
+lines(rbGH[gender==2],fitted(model.full)[gender==2], col="blue", lwd=3)
+points(rbGH[gender==1], fitted(model.full)[gender==1], pch=15, col="black", cex=1.5)
+points(rbGH[gender==2], fitted(model.full)[gender==2], pch=15, col="black", cex=1.5)
+legend(4.5,480, col=c("red","blue"), lty=c(1,1),pch=c(19,19), legend=c("Gender=1", "Gender=2"))
+
+plot(gender, weightgain)
+
+
+############################
+### Assignment 1.1
+
+data<-read.table("blackcherry.txt", sep="\t", dec=".", header=TRUE)
+attach(data)
+plot(Girth, Volume)
+plot(Height, Volume)
+
+model<-lm(Volume~Girth+Height)
+summary(model)
+
+model<-lm(Volume~Girth)
+summary(model)
+points(Girth, fitted(model), col="red", pch=19)
+
+
+coef(model)
+
+summary(model)$sigma^2
+
+
+# a)
+
+fitted(model)
+residuals(model)
+
+fitted(model)[31]
+residuals(model)[31]
+
+plot(fitted(model), Volume)
+
+plot(fitted(model), residuals(model))
+
+# b)
+
+new.data<-data.frame(Girth=c(30), Height=c(22))
+mu.hat<-predict(model, newdata=new.data, interval="confidence", level=0.95)
+
+mu.hat[1] # maximum likelihood point estimate
+mu.hat[2] # lower bound of the 95% confidence interval
+mu.hat[3] # upper bound of the 95% confidence interval
+
+# c)
+
+new.data<-data.frame(Girth=c(30), Height=c(22))
+y.hat<-predict(model, newdata=new.data, interval="prediction", level=0.8)
+
+y.hat[1] # best linear unbiased point prediction
+y.hat[2] # lower bound of the 80% prediction interval
+y.hat[3] # upper bound of the 80% prediction interval
+
+# f)
+
+model.H0<-lm(Volume~Girth)
+summary(model.H0)
+
+anova(model.H0, model, test="F")
+anova(model.H0, model, test="F")$"F"[2] # the value of the test statistic
+anova(model.H0, model, test="F")$"Pr(>F)"[2]  # p-value
+
+
+x3<-Girth*Height
+
+model.12<-lm(Volume~Girth+Height+x3)
+summary(model.12)
+
+model.12<-lm(Volume~Girth+Height+Girth:Height)
+summary(model.12)
+
+anova(model, model.12, test="F")
+
+############################
+### Assignment 1.2
+
+data<-read.table("teethpig.txt", sep="\t", dec=".", header=TRUE)
+attach(data)
+
+interaction.plot(level, dose, growth, mean)
+
+plot(level, growth, type="n")
+points(level[dose=="VC"], growth[dose=="VC"], col="red", pch=19)
+points(level[dose=="OJ"], growth[dose=="OJ"], col="blue", pch=19)
+
+model.12<-lm(growth~level+factor(dose)+level:factor(dose))
+summary(model.12)
+
+X<-model.matrix(model.12)
+
+plot(level, growth, type="n")
+lines(level[dose=="VC"], fitted(model.12)[dose=="VC"], col="red")
+lines(level[dose=="OJ"], fitted(model.12)[dose=="OJ"], col="blue")
+
+# a)
+
+coef(model.12)
+
+new.data<-data.frame(level=2, dose="VC")
+predict(model.12, newdata=new.data, interval="prediction", level=0.80)
+
+prediction<-predict(model.12, newdata=data, interval="prediction", level=0.95)
+estimation<-predict(model.12, newdata=data, interval="confidence", level=0.95)
+
+plot(level, growth, type="n")
+points(level[dose=="VC"], growth[dose=="VC"], col="red", pch=19)
+points(level[dose=="OJ"], growth[dose=="OJ"], col="blue", pch=19)
+lines(level[dose=="VC"], prediction[dose=="VC",1], col="red")
+lines(level[dose=="VC"], prediction[dose=="VC",2], col="green")
+lines(level[dose=="VC"], prediction[dose=="VC",3], col="green")
+lines(level[dose=="OJ"], prediction[dose=="OJ",1], col="blue")
+lines(level[dose=="OJ"], prediction[dose=="OJ",2], col="black")
+lines(level[dose=="OJ"], prediction[dose=="OJ",3], col="black")
+
+plot(level, growth, type="n")
+points(level[dose=="VC"], growth[dose=="VC"], col="red", pch=19)
+points(level[dose=="OJ"], growth[dose=="OJ"], col="blue", pch=19)
+lines(level[dose=="VC"], estimation[dose=="VC",1], col="red")
+lines(level[dose=="VC"], estimation[dose=="VC",2], col="green")
+lines(level[dose=="VC"], estimation[dose=="VC",3], col="green")
+lines(level[dose=="OJ"], estimation[dose=="OJ",1], col="blue")
+lines(level[dose=="OJ"], estimation[dose=="OJ",2], col="black")
+lines(level[dose=="OJ"], estimation[dose=="OJ",3], col="black")
+
+# b)
+
+model.main<-lm(growth~level+factor(dose))
+summary(model.main)
+model.1<-lm(growth~level)
+
+anova(model.1,model.main, test="F")
+anova(model.1,model.main, test="F")$F[2]
+
+# c)
+
+anova(model.main,model.12, test="F")
+
+
+############################
+### Assignment 2.1
+
+data<-read.table("ratsRBGH.txt", sep="\t", dec=".", header=TRUE)
+attach(data)
+
+model.12<-lm(weightgain~factor(rbGH)+factor(gender)+factor(rbGH):factor(gender), data=data)
+summary(model.12)
+
+model.12<-lm(weightgain~factor(rbGH)*factor(gender), data=data)
+summary(model.12)
+
+betahat<-coef(model.12)
+
+k1<-c(0,0,0,0,0,0,0,1,0,0,0,0)
+k2<-c(0,0,0,0,0,0,0,0,1,0,0,0)
+k3<-c(0,0,0,0,0,0,0,0,0,1,0,0)
+k4<-c(0,0,0,0,0,0,0,0,0,0,1,0)
+k5<-c(0,0,0,0,0,0,0,0,0,0,0,1)
+
+K<-cbind(k1,k2,k3,k4,k5)
+
+q<-5
+Wald<-(t(t(K)%*%betahat)%*%solve(t(K)%*%vcov(model.12)%*%K)%*%t(K)%*%betahat)/q
+Wald
+p.value<-pf(Wald, 5, 48, lower.tail = FALSE)
+p.value
+
+X<-model.matrix(model.12)
+
+############################
+### Assignment 2.2
+
+data<-read.table("teethpig.txt", sep="\t", dec=".", header=TRUE)
+attach(data)
+
+model.12<-lm(growth~level+factor(dose)+level:factor(dose))
+summary(model.12)
+
+betahat<-cbind(coef(model.12))
+
+x1<-cbind(c(1,0.5,0,0)) ### OJ
+x2<-cbind(c(1,0.5,1,0.5)) ## VC
+
+pred<-(t(x2)-t(x1))%*%betahat
+sigma2<-sigma(model.12)^2
+X<-model.matrix(model.12)
+
+# 80% prediction inteval, lower and upper limits
+
+lower<-pred-qt(0.9,df=56)*sqrt(sigma2*(2+(t(x2)-t(x1))%*%solve(t(X)%*%X)%*%(x2-x1)))
+upper<-pred+qt(0.9,df=56)*sqrt(sigma2*(2+(t(x2)-t(x1))%*%solve(t(X)%*%X)%*%(x2-x1)))
+
+# predictive hypothesis testing
+
+T<-pred/sqrt(sigma2*(2+(t(x2)-t(x1))%*%solve(t(X)%*%X)%*%(x2-x1)))
+
+d<-2*pt(abs(T),df=56, lower.tail = FALSE)
+d
+
+
+############################
+### Assignment 2.4
+
+data<-read.table("ratsRBGH.txt", sep="\t", dec=".", header=TRUE)
+attach(data)
+
+model<-lm(weightgain~factor(rbGH)+factor(gender), data=data)
+summary(model)
+
+plot(rbGH, weightgain, type="n", main="Main effect model")
+points(rbGH[gender==1], weightgain[gender==1], pch=19, col="red")
+points(rbGH[gender==2], weightgain[gender==2], pch=19, col="blue")
+lines(rbGH[gender==1],fitted(model)[gender==1], col="red", lwd=3)
+lines(rbGH[gender==2],fitted(model)[gender==2], col="blue", lwd=3)
+points(rbGH[gender==1], fitted(model)[gender==1], pch=15, col="black", cex=1.5)
+points(rbGH[gender==2], fitted(model)[gender==2], pch=15, col="black", cex=1.5)
+legend(4.5,480, col=c("red","blue"), lty=c(1,1),pch=c(19,19), legend=c("Gender=1", "Gender=2"))
+
+###
+
+newdata<-expand.grid(rbGH=1:6,gender=c(1,2))
+
+Xc<-model.matrix(~factor(rbGH)+factor(gender), data=newdata)
+
+betahat<-coef(model)
+
+x1mean<-(Xc[1,]+Xc[2,]+Xc[3,]+Xc[4,]+Xc[5,]+Xc[6,])/6
+x2mean<-(Xc[7,]+Xc[8,]+Xc[9,]+Xc[10,]+Xc[11,]+Xc[12,])/6
+
+x1mean%*%betahat
+x2mean%*%betahat
+
+kt<-x1mean-x2mean
+kt%*%betahat
+
+K<-cbind(kt)
+
+q<-1
+Wald<-(t(t(K)%*%betahat)%*%solve(t(K)%*%vcov(model)%*%K)%*%t(K)%*%betahat)/q
+Wald
+p.value<-pf(Wald, 1, 53, lower.tail = FALSE)
+p.value
+
+#####
+
+kt<-t(x1mean-x2mean)
+pred<-kt%*%betahat
+sigma2<-sigma(model)^2
+X<-model.matrix(model)
+
+# predictive hypothesis testing
+
+T<-pred/sqrt(sigma2*(2+(kt)%*%solve(t(X)%*%X)%*%t(kt)))
+
+d.value<-2*pt(abs(T),df=53, lower.tail = FALSE)
+d.value

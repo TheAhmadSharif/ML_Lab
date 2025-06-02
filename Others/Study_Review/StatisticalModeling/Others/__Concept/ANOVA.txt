@@ -1,0 +1,53 @@
+Tests if groups differ more than expected by chance
+
+Compare level of expression between 6 genes
+
+
+
+
+https://www.youtube.com/watch?v=0Vj2V2qRU10
+
+https://www.youtube.com/watch?v=qV-WoquC4dA
+
+
+https://www.youtube.com/watch?v=r1ueoHA_KCQ
+
+
+
+
+
+https://instructory.net/courses/freelancing-with-statistical-data-analysis-2
+T test
+We can compare only to groups.
+
+https://bookdown.org/steve_midway/DAR/understanding-anova-in-r.html
+
+The one-way analysis of variance (ANOVA) is used to determine whether there are any statistically significant differences between the means of three or more independent (unrelated) groups.
+
+
+
+Types of ANOVA
+1. Onw way ANOVa
+2. N way ANOVA
+
+
+The simultaneous comparison of several population means (to or more) is called Analysis of variance(ANOVA)
+
+Assumption
+
+01. The population follow the normal distribution
+02. The population have equal standard deviations
+03. The populations are independent.
+
+
+
+Relation between  Income and salary
+
+
+Income  High         CGPA
+		Medium       CGPA
+		Low 		 CGPA
+
+
+
+Null Hypothesis: No Difference between CGPA and salary.

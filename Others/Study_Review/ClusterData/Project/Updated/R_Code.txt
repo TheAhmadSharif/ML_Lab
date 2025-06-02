@@ -1,0 +1,101 @@
+
+##################################################
+##################################################
+
+########## Gold, Silver and Bronze Model ##########
+
+setwd("/home/ahmad/Desktop/2023_2024/ClusterData/Project")
+
+# Load necessary library
+library(dplyr)
+
+# Load the dataset
+data <- read.csv("olympics-economics.csv")
+data
+# Log-transform GDP and Population
+data <- data %>%
+  mutate(log_gdp = log(gdp),
+         log_population = log(population))
+
+# Fit Poisson regression models
+gold_model <- glm(gold ~ log_gdp + log_population, data = data, family = poisson(link = "log"))
+silver_model <- glm(silver ~ log_gdp + log_population, data = data, family = poisson(link = "log"))
+bronze_model <- glm(bronze ~ log_gdp + log_population, data = data, family = poisson(link = "log"))
+
+# Summarize the models
+summary(gold_model)
+summary(silver_model)
+summary(bronze_model)
+
+exp(coef(gold_model))   
+exp(coef(silver_model)) 
+exp(coef(bronze_model))  
+
+##################################################
+##################################################
+
+########## Total Model  ##########
+
+
+required_packages <- c("lmerTest", "MuMIn", "Matrix", "lme4")
+packages_to_install <- required_packages[!(required_packages %in% installed.packages()[,"Package"])]
+
+
+if (length(packages_to_install) > 0) {
+  install.packages(packages_to_install)
+}
+
+# Load all required packages
+lapply(required_packages, require, character.only = TRUE)
+
+########################################################
+########################################################
+
+
+library(Matrix)
+library(lme4)
+library(stats)
+
+
+
+df <- read.csv("olympics-economics.csv")
+attach(df)
+plot(df$population, df$gdp)
+
+
+plot(df$gold, df$gdp)
+
+
+head(df)
+
+
+# Standardize predictor variables
+df$gold_std <- scale(df$gold)
+df$silver_std <- scale(df$silver)
+df$bronze_std <- scale(df$bronze)
+df$gdp_std <- scale(df$gdp)
+df$population_std <- scale(df$population)
+
+# Fit the GLMM with standardized variables
+model <- glmer(total ~ gdp_std + population_std + (1 | country_code), 
+               data = df, family = poisson)
+
+summary(model)
+
+
+# Predicted values (response scale)
+predicted <- predict(model, type = "response")
+
+# Raw residuals
+raw_residuals <- df$total - predicted
+
+# Pearson residuals
+pearson_residuals <- raw_residuals / sqrt(predicted)
+
+# Deviance residuals
+deviance_residuals <- residuals(model, type = "deviance")
+
+# Summary of residuals
+summary(raw_residuals)
+summary(pearson_residuals)
+summary(deviance_residuals)

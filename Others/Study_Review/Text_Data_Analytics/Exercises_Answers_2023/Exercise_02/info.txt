@@ -1,0 +1,105 @@
+(a) Create a variant of the web crawler which is intended to download the top-k most
+downloaded ebooks of the last 30 days from Project Gutenberg in .TXT format.
+
+(b) Using the crawler, download the top-20 ebooks (k=20). Report the names and addresses of
+the books.
+
+(c) Use the processing pipeline described on the lecture to tokenize and lemmatize the
+downloaded books.
+
+(d) Create a unified vocabulary from the ebooks; report the top-100 words.
+
+
+https://www.gutenberg.org/browse/recent/last30
+
+
+
+
+
+
+
+Mikko Autio 
+
+Topic analysis: requirement ambiguity and requirement selection 
+
+
+Phu Nguyen 
+
+Topic analysis: requirement key concept, and research method literature review, tool selection, discussion & conclusion. 
+
+ 
+Ahmad Sharif
+Topic analysis: Prototype, Requirement Priority Set Install Software, 
+
+Minh Hoang 
+
+ 
+
+Topic analysis: method of Usage design and data collection & analysis 
+
+
+
+Top Downloaded
+https://gutenberg.org/ebooks/search/?sort_order=downloads
+
+https://gutenberg.org/browse/scores/top#books-last30
+
+
+
+https://www.gutenberg.org/files/1513/1513-0.txt
+
+
+# https://gutenberg.org/cache/epub/84/pg84.txt
+# https://www.gutenberg.org/files/1513/1513-0.txt
+
+crawled_lemmatize_word_list
+----------------------------------------------------------
+#%% Find the vocabulary, in a distributed fashion
+import numpy
+myvocabularies=[]
+myindices_in_vocabularies=[]
+# Find the vocabulary of each document
+for k in range(len(mycrawled_lemmatizedtexts)):
+    # Get unique words and where they occur
+    temptext=mycrawled_lemmatizedtexts[k]
+    uniqueresults=numpy.unique(temptext,return_inverse=True)
+    uniquewords=uniqueresults[0]
+    wordindices=uniqueresults[1]
+    # Store the vocabulary and indices of document words in it
+    myvocabularies.append(uniquewords)
+    myindices_in_vocabularies.append(wordindices)
+
+myvocabularies[0]
+
+
+
+# ----------------------------------------------------------
+
+
+
+# Unify the vocabularies.
+# First concatenate all vocabularies
+tempvocabulary=[]  
+for k in range(len(mycrawled_lemmatizedtexts)):
+    tempvocabulary.extend(myvocabularies[k])
+# Find the unique elements among all vocabularies
+uniqueresults=numpy.unique(tempvocabulary,return_inverse=True)
+unifiedvocabulary=uniqueresults[0]
+wordindices=uniqueresults[1]
+# Translate previous indices to the unified vocabulary.
+# Must keep track where each vocabulary started in 
+# the concatenated one.
+vocabularystart=0
+myindices_in_unifiedvocabulary=[]
+for k in range(len(mycrawled_lemmatizedtexts)):
+    # In order to shift word indices, we must temporarily
+    # change their data type to a Numpy array
+    tempindices=numpy.array(myindices_in_vocabularies[k])
+    tempindices=tempindices+vocabularystart
+    tempindices=wordindices[tempindices]
+    myindices_in_unifiedvocabulary.append(tempindices)
+    vocabularystart=vocabularystart+len(myvocabularies[k])
+
+
+
+# ----------------------------------------------------------

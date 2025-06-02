@@ -1,0 +1,15 @@
+# Call: survfit(formula = model, newdata = newdata)
+
+ time n.risk n.event survival std.err lower 95% CI upper 95% CI
+  800      8     163   0.0551  0.0224       0.0249        0.122
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+n.risk: This column represents the number of individuals "at risk" or still under observation at the given time point. In your case, there were 8 individuals still under observation at time 800.
+n.event: This column shows the number of events (such as deaths) that occurred up to the specified time point. Here, 163 events were observed by time 800.
+
+survival: This column displays the estimated survival probability at the specified time point. In your case, the estimated survival probability at time 800 is 0.0551, which means that approximately 5.51% of individuals are expected to survive up to time 800.
+
+std.err: This column represents the standard error associated with the estimated survival probability at the given time point. It indicates the precision of the estimate. In your case, the standard error is 0.0224.
+
+lower 95% CI: This column shows the lower bound of the 95% confidence interval for the estimated survival probability. It provides a range within which the true survival probability is likely to lie with 95% confidence. Here, the lower bound of the confidence interval for survival at time 800 is 0.0249.
+
+upper 95% CI: This column displays the upper bound of the 95% confidence interval for the estimated survival probability. Similar to the lower bound, it indicates a range within which the true survival probability is likely to lie with 95% confidence. In your case, the upper bound of the confidence interval for survival at time 800 is 0.122.

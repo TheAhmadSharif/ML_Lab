@@ -1,0 +1,43 @@
+olympics-economics.csv
+country,country_code,gold,silver,bronze,total,gdp,gdp_year,population
+United States,USA,40,44,42,126,81695.19,2023,334.9
+China,CHN,40,27,24,91,12614.06,2023,1410.7
+Japan,JPN,20,12,13,45,33834.39,2023,124.5
+Australia,AUS,18,19,16,53,64711.77,2023,26.6
+France,FRA,16,26,22,64,44460.82,2023,68.2
+Netherlands,NLD,15,7,12,34,62536.73,2023,17.9
+Great Britain,GBR,14,22,29,65,48866.6,2023,68.3
+South Korea,KOR,13,9,10,32,33121.37,2023,51.7
+Italy,ITA,12,13,15,40,38373.17,2023,58.8
+Germany,DEU,12,13,8,33,52745.76,2023,84.5
+New Zealand,NZL,10,7,3,20,48527.83,2023,5.2
+Canada,CAN,9,7,11,27,53371.7,2023,40.1
+Uzbekistan,UZB,8,2,3,13,2496.11,2023,36.4
+Hungary,HUN,6,7,6,19,22147.21,2023,9.6
+Spain,ESP,5,4,9,18,32676.98,2023,48.4
+Sweden,SWE,4,4,3,11,56305.25,2023,10.5
+
+
+
+import pandas as pd
+import os
+
+def load_everest_data():
+    """
+    Load Everest.csv from local or Kaggle environment.
+    Returns:
+        DataFrame: Everest expedition data.
+    """
+    env_name = os.environ.get('KAGGLE_KERNEL_RUN_TYPE', 'Localhost')
+    if env_name == "Localhost":
+        df = pd.read_csv('../datasets/New/olympics-economics.csv', low_memory=False)
+    else:
+        df = pd.read_csv("/kaggle/input/olympics/olympics-economics.csv")
+    return df
+
+
+
+Instructions: 
+1. List top_n = 10 countries that won most medals (Gold, Silver and Bronze)
+2. Use reuseable function
+3. Use bar chart Ploypy Library

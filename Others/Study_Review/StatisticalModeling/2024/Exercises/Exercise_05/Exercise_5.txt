@@ -1,0 +1,201 @@
+Instructions: Share code with R
+––––––––––––––
+
+The research group wanted to study the diversity of plants in the Galapagos
+Islands. The group measured the number of different plants in each island (total
+of 30 islands) Y = Species and measured the values of the different geographic
+variables for each island: X1 = Area - Surface area of island, hectares,
+X2 = Elevation - Elevation in m,
+X3 = Nearest- Distance to closest island, km,
+X4 = Scruz- Distance from Santa Cruz Island, km,
+X5 = Adjacent- Area of closest island, hectares
+
+
+name	    Species	Area 	Elevation	Nearest	    Scruz	Adjacent
+Baltra		58		25.09	346			0.6			0.6		1.84
+Bartolome	31		1.24	109			0.6			26.3	572.33
+Caldwell	3		0.21	114			2.8			58.7	0.78
+Champion	25		0.1		46			1.9			47.4	0.187
+Coamano		2		0.05	77			1.9			1.9		903.82
+
+
+
+
+(a) Let us assume that the random variable Yi follows the Poisson distribution
+Yi ∼ P oi(µi ). Consider modeling the expected value µi by the following
+model
+log(µi ) = β0 + β1 xi1 + β2 xi2 + · · · + β5 xi5 .
+Calculate the maximum likelihood estimate for the expected value µi∗ when
+the explanatory variables X1 , X2 , . . . X5 has the values
+
+Area 	Elevation 	Nearest 	Scruz 	Adjacent
+58.27 	198 		1.1 		88.3 	0.57
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+(b) Let us continue with the assumption Yi ∼ P oi(µi ) and the model
+log(µi ) = β0 + β1 xi1 + β2 xi2 + · · · + β5 xi5 .
+Calculate the 95% confidence interval estimate for the expected value µi∗
+when the explanatory variables X1 , X2 , . . . X5 has the values
+
+Area 		Elevation 		Nearest 		Scruz 		Adjacent
+58.27 		198 			1.1 			88.3 		0.57
+Particularly, what is your obtained lower bound of the confidence interval?
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+(c) Let us continue with the assumption Yi ∼ P oi(µi ) and the model
+log(µi ) = β0 + β1 xi1 + β2 xi2 + · · · + β5 xi5 .
+Calculate the 80% prediction interval for the new observation Yf when the
+explanatory variables X1 , X2 , . . . X5 has the values
+
+
+Area 		Elevation 		Nearest 		Scruz 		Adjacent
+58.27 		198 			1.1 			88.3 		0.57
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+d) 
+Assume Yi ∼ P oi(µi ). Consider the following hypotheses
+H0 : log(µi ) = β0 + β1 xi1 ,
+H1 : log(µi ) = β0 + β1 xi1 + β2 xi2 + · · · + β5 xi5 .
+Select the appropriate test statistic to test the above hypotheses. Calculate
+the value of the test statistic, and return it as your answer to the question.
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+e) Consider modeling the expected value µi by the following Quasi-Poisson model
+log(µi ) = β0 + β1 xi1 + β2 xi2 + · · · + β5 xi5 ,
+where we assume that for variance Var(Yi ) it holds Var(Yi ) = ϕµi . Calculate
+the unbiased estimate ϕ̂ for the dispersion parameter ϕ.
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+f) 
+Let us assume that the appropriate link function is square root link g(µi ) =
+√µi . Further, assume that Var(Yi ) = ϕµi . Consider the following hypotheses
+
+H0 : √µi = β0 + β1 xi1 ,
+H1 : √µi = β0 + β1 xi1 + β2 xi2 + · · · + β5 xi5 .
+Select the appropriate test statistic to test the above hypotheses. Calculate
+the value of the test statistic, and return it as your answer to the question.
+
+
+λ=106.111−28.425=77.686
+
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+2) Consider the data set appleCRA7152.txt, where it has been studied how the prob-
+ability of bacterial spores of Alicyclobacillus Acidoterrestris CRA7152 growing
+in apple juice depends on the properties of the apple juice.
+
+
+data <- read.table("appleCRA7152.txt", sep="\t", dec=".", header=TRUE)
+
+pH		Nisin	Temperature	Brix	Growth
+5.5		70		50			11		0
+5.5		70		43			19		0
+5.5		50		43			13		1
+5.5		50		35			15		1
+5.5		30		35			13		1
+
+
+
+Presence/Absence of growth of CRA7152 in apple juice
+as a function of pH (3.5-5.5), Brix (11-19), temperature (25-50C),
+and Nisin concentration (0-70)
+X1=pH
+X2=Nisin concentration
+X3=Temperature
+X4=Brix Concentration
+Y=Growth
+(1=Yes, 0=No)
+
+
+Denote the variables as following:
+Y = Growth,
+X1 = pH,
+X2 = Nisin,
+X3 = Temperature,
+X4 = Brix.
+
+(a) Consider modeling the expected value µi by the model
+M1|2|3|4 :	logit (µi ) = β0 + β1 xi1 + β2 xi2 + β3 xi3 + β4 xi4 .
+Calculate the maximum likelihood estimate for the expected value µi when
+the explanatory variables are set on values
+X1 = 4.5,
+X2 = 20,
+X3 = 30,
+X4 = 17.
+
+
+Hints: 
+data <- read.table("applejuiceCRA7152.txt", sep="\t", dec=".", header=TRUE)
+
+
+(b) Use the same model as at (a). Calculate the 95% confidence interval estimate for the expected value µi when the explanatory variables are set on
+values
+X1 = 4.5,
+X2 = 20,
+X3 = 30,
+X4 = 17.
+
+
+
+(c) Consider the hypotheses
+H0 : Model logit (µi ) = β0 + β1 xi1 + β2 xi2 is the true model,
+H1 : Model logit (µi ) = β0 + β1 xi1 + β2 xi2 + β3 xi3 + β4 xi4 is the true model.
+Select the appropriate test statistic to test the above hypotheses. Calculate
+the value of the test statistic.
+
+
+(d) Which link function fits best to data in your opinion, if you use the main
+effect model
+g(µjh ) = β0 + β1 xi1 + β2 xi2 + β3 xi3 + β4 xi4
+to model the data?
+i. Logit link g(µi ) = logit(µi ),
+ii. Probit link g(µi ) = Φ−1 (µi ),
+iii. Cauchy link g(µi ) = F−1cauchy(µi ),
+iv. Gumbel link (complementary log-log) g(µi ) = log (− log(1 − µi )).
+
+
+
+
+3. (a) In case of generalized linear model g(µi ) = β0 + β1 xi , the maximum like-
+lihood estimates for the parameters β0 and β1 are β̂0 = 1 and β̂1 = 0.5. At
+the value xi = 5, calculate the maximum likelihood estimate of µi , when
+the model is
+i. Yi ∼ P oi(µi ) and log(µi ) = β0 + β1 xi ,
+
+ii. Yi ∼ P oi(µi ) and √µi = β0 + β1 xi ,
+
+iii. Yi ∼ P oi(µi ) and log µtii = β0 + β1 xi , where ti = 10.
+
+
+
+b) 
+In generalized linear models, the likelihood equations can written in form
+
+n
+∂l(β, ϕ)/∂βj =  (yi − µi)xij * (∂µi/∂ηi) /Var(Yi)
+j = 0, 1, 2 . . . p.
+
+
+Consider now the most simplest Poisson model with the identity link function
+Yi ∼ P oi(µi ),
+µi = ηi = β0 .
+What kind of more simplified form the likelihood equations have in this case
+That is, what form ∂l(β0)/β0 has in the simplest Poisson model? 
+the likelihood equations, find the maximum likelihood estimator β̂0 .
+
+By using the likelihood equations, find the maximum likelihood estimator β̂0
+
+
+c) In generalized linear models, the likelihood equations can written in form
+
+∂l(β, ϕ)/∂βj =  (yi − µi)xij * (∂µi/∂ηi) /Var(Yi) = 0,  j = 0, 1, 2 . . . p.
+
+
+Consider now the simple logit model with
+
+Yi ∼ Ber(µi ),
+logit(µi ) = ηi = β0
+
+What kind of more simplified form the likelihood equations have in this case? That is, what form ∂l(β0)/∂β0
+has in the simple logit model? By using the likelihood equations, find the maximum likelihood estimator β̂0 .

@@ -1,0 +1,7 @@
+df <- read.csv("olympics-economics.csv")
+
+plot(df$gdp, df$gold)
+
+attach(df)
+
+How to 

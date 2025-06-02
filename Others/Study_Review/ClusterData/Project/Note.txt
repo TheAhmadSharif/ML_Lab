@@ -1,0 +1,94 @@
+Select Data
+Select Methoda
+
+
+After the course, the student can apply modern statistical modeling tools especially for longitudinal data analysis and clustered data problems. The student understands the theory of linear and generalized linear mixed models and can form nonlinear mixed models under normal distribution.
+
+
+Longitudinal Data Analysis 
+Generalized linear mixed models
+
+
+What is mixed effect method in clustered data or in longitudinal data
+
+What is Longitudinal data and clustered data?
+Are they same thing used interchangbly
+
+What are some methods use to analysis Longitudinal data?
+
+
+Are follwing names of some clustered methods?
+Quasi-likelihood methods
+Linear mixed effect model
+Generalized linear mixed model (GLMM)
+
+https://www.kaggle.com/code/plagal/generalized-linear-mixed-model
+
+Share me a project idea regarding the following method ?
+
+Generalized linear mixed model (GLMM)
+
+––––––––––––––––––––––
+What could be the project title and question based on this dataset?
+
+
+
+–––––– Project Title:
+"Assessing the Impact of Economic Indicators on Olympic Performance: A Generalized Linear Mixed Model Approach"
+
+–––––– Research Question:
+"How do a country's GDP and population size influence its total medal count in the 2024 Olympic Games, while accounting for regional differences?"
+
+
+
+
+Does GDP significantly predict the total number of medals won by a country in the 2024 Olympics?
+What is the effect of population size on Olympic performance, and does it amplify or weaken the influence of GDP?
+Are there significant regional variations in Olympic performance, even after accounting for economic factors?
+––––––––––––––––––––––
+
+
+How economic factors (e.g., GDP, population) influence Olympic performance (total medals won by each country).
+––––––––––––––––––––––
+log(E(total_medals)) = β0 + β1(GDP) + β2(population) + u(region) + e
+
+
+
+https://www.kaggle.com/datasets/mohamedyosef101/2024-olympics-medals-and-economic-status?resource=download
+
+Most suitable datasets for GLMM:
+
+
+Is this data suitable for GLMM project ???
+––– 2024 Olympics Medals and Economic Status
+country	country_code	gold	silver	bronze	total	gdp	gdp_year	population
+United States	USA	40	44	42	126	81695.19	2023	334.9
+China	CHN	40	27	24	91	12614.06	2023	1410.7
+Japan	JPN	20	12	13	45	33834.39	2023	124.5
+Australia	AUS	18	19	16	53	64711.77	2023	26.6
+France	FRA	16	26	22	64	44460.82	2023	68.2
+Netherlands	NLD	15	7	12	34	62536.73	2023	17.9
+Great Britain	GBR	14	22	29	65	48866.6	2023	68.3
+South Korea	KOR	13	9	10	32	33121.37	2023	51.7
+Italy	ITA	12	13	15	40	38373.17	2023	58.8
+Germany	DEU	12	13	8	33	52745.76	2023	84.5
+New Zealand	NZL	10	7	3	20	48527.83	2023	5.2
+Canada	CAN	9	7	11	27	53371.7	2023	40.1
+Uzbekistan	UZB	8	2	3	13	2496.11	2023	36.4
+Hungary	HUN	6	7	6	19	22147.21	2023	9.6
+Spain	ESP	5	4	9	18	32676.98	2023	48.4
+Sweden	SWE	4	4	3	11	56305.25	2023	10.5
+Kenya	KEN	4	2	5	11	1949.9	2023	55.1
+Norway	NOR	4	1	3	8	87961.78	2023	5.5
+Ireland	IRL	4	0	3	7	103684.88	2023	5.3
+Brazil	BRA	3	7	10	20	10043.62	2023	216.4
+Iran	IRN	3	6	3	12	4502.55	2023	89.2
+Ukraine	UKR	3	5	4	12	5181.36	2023	37
+Romania	ROU	3	4	2	9	18419.42	2023	19.1
+Georgia	GEO	3	3	1	7	8120.36	2023	3.8
+Belgium	BEL	3	1	6	10	53475.29	2023	11.8
+Bulgaria	BGR	3	1	3	7	15797.6	2023	6.4
+Serbia	SRB	3	1	1	5	11360.96	2023	6.6
+Czech Republic	CZE	3	0	2	5	30427.42	2023	10.9
+Denmark	DNK	2	2	5	9	67967.38	2023	5.9
+Azerbaijan	AZE	2	2	3	7	7155.08	2023	10.1

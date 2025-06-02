@@ -1,0 +1,23 @@
+(a) Download the 20 Newsgroups data set from http://qwone.com/~jason/20Newsgroups/
+
+
+(b) In this exercise we consider only four of the newsgroups: 
+rec.autos, 
+rec.motorcycles,
+rec.sport.baseball, 
+rec.sport.hockey
+
+Process the documents of the four newsgroups
+using the pipeline described on the lectures, including vocabulary pruning.
+
+
+
+https://github.com/Sameeksharajsb/20-Newsgroup-Dataset-Analysis
+https://github.com/Sameeksharajsb/20-Newsgroup-Dataset-Analysis/tree/main
+Latent semantic analysis
+
+
+Topic Modeling
+————————————————————————
+
+Latent Semantic Analysis

@@ -1,0 +1,174 @@
+setwd("/home/ahmad/Desktop/2023_2024/2024/StatisticalModeling/Datasets")
+
+
+
+requiredPackages = c('plyr','ggplot2','ggtern', 'rgl', 'plot3d')
+for(p in requiredPackages){
+  if(!require(p,character.only = TRUE)) install.packages(p)
+  library(p,character.only = TRUE)
+}
+library(rgl)
+library(plot3d)
+
+##  ____________________________________ ##
+data = read.table("paper.txt", header = TRUE, sep="\t")
+attach(data)
+hardwood
+pressure
+strength
+x1 <= hardwood
+x2 <= pressure
+y <=  strength
+# y = b1 + b1x1 + b2x2 + error
+
+
+model = lm(strength~hardwood+pressure)
+model
+summary(model)
+coef(model)
+
+
+##  ____________________________________ ## ____________________________________
+# (a) Under the model M1|2 , calculate the maximum likelihood estimate for the parameter β2 .  # 0.006399
+model.main<-lm(y~x1+x2)
+summary(model.main)
+coef(model.main)
+coef(model.main)[3]
+
+
+##  ____________________________________ ## ____________________________________
+# b) Under the model, m1/2 find the restricted maximum likelihood estimate, an unbiased estimate σ² sigma square for the variance sigma square σ²
+
+sigma = sigma(model)^2 # 1.328534
+##  ____________________________________ ## ____________________________________
+# c) Under the model m1/2, calculate the fitted value µˆ1 for the first observation i = 1 in the data set.
+head(data)
+
+model.main
+model
+fitted(model)[1]
+predict(model, newdata=data.frame(hardwood=2, pressure=400))
+
+##  ____________________________________ ## ____________________________________
+
+# d) Under the model m1|2, calculate maximum likelihood estimate for the expected value µi∗ , when xi∗1 = 7 and xi∗2 = 500.
+
+newdata = data.frame(hardwood=7, pressure=500)
+predict(model, data=newdata)
+predict(model, data=newdata, interval='confidence', level=0.95)
+
+
+##  ____________________________________ ## ____________________________________
+# e) Under the model M1|2, calculate the 80% prediction interval for the new
+# observation Yi∗, when xi∗1 = 7 and xi∗2 = 500. Particularly, what is your estimate for lower bound of the prediction interval?
+pred = predict(model, data=newdata, interval='confidence', level=0.80)
+pred
+pred[2]
+##  ____________________________________ ## ____________________________________
+
+model_1 = lm(strength ~hardwood)
+
+anova(model, model_1, test="F")$F[2]
+
+##  ____________________________________ ## ____________________________________
+##  ____________________________________ ## ____________________________________
+
+# 02
+# a) Under the model M1|2, calculate the maximum likelihood estimate for the expected value µjh, when the explanatory variables X1, X2 are set  on values.
+# X1 = Oak = 4
+# X2 = Tappered = 42
+
+# That is, find the maximum likelihood estimate for the expected value µ42.
+data<-read.table("makiwaraboard.txt", sep="\t", dec=".", header=TRUE)
+attach(data)
+head(data)
+
+
+# a)
+
+model <-lm(Deflection ~factor(WoodType) + factor(BoardType))
+model
+newdata <- data.frame(WoodType = "Oak", BoardType = "Tapered")
+pred <-predict(model, data=newdata)
+pred
+
+
+# b) Let us assume that the modelM1|2 fits sufficiently enough to the given data set. In which tree species the estimate of the expected value µjh is in highest
+# level?
+
+model <- lm(Deflection ~ factor(WoodType) + factor(BoardType), data=data)
+model
+summary(model)
+
+# Cherry
+
+# c) µjh = β0 + βj + αh + γjh
+# Under the model M12, calculate the maximum likelihood estimate for the parameter γ32
+
+
+model_32 <- lm(Deflection ~ factor(WoodType) + factor(BoardType) + (factor(WoodType):factor(BoardType)), data=data)
+summary(model_32)
+coef(model_32)[7] # -9.002614 Take the highest value
+interaction.plot(WoodType, BoardType, fitted(model_32))
+
+# factor(WoodType)Fir:factor(BoardType)Tapered      -9.003
+
+# d) Under the model M12 , calculate the residual ei for the last observation i = 336 in the data set.
+
+residuals((model_32))[336] # 5.0933333
+plot(fitted(model_32),residuals(model))
+
+# e) Under the model M12 . Consider the following hypotheses
+# H0 : γjh = 0,
+# H1 : γjh ̸= 0.
+# Select the appropriate test statistic to test the above hypotheses. Calculate the value of the test statistic.
+
+anova(model, model_32, test="F")$F[2] # 0.1522
+
+####################################################
+
+data<-read.table("Alba.txt", sep="\t", dec=".", header=TRUE)
+attach(data)
+head(data)
+
+plot(Dose, DryMatter)
+
+##################### Exercise 03 #####################
+# a) Midentity : µi = β0 + β1 xi1 + αj + γj xi1 ,
+
+model_identity<-glm(DryMatter~Dose*factor(Herbicide), family=gaussian(link="identity"), data = data)
+model_log <- glm(DryMatter ~ Dose * factor(Herbicide), family = gaussian(link="log"), data = data)
+model_inverse <- glm(DryMatter ~ Dose * factor(Herbicide), family = gaussian(link="inverse"), data = data)
+model_mu2 <- glm(DryMatter ~ Dose * factor(Herbicide), family = gaussian(link="1/mu^2"), data = data)
+
+summary(model_identity)
+summary(model_log)
+summary(model_inverse)
+summary(model_mu2)
+
+MSE_1 <- mean(residuals(model_identity, type="response")^2)
+MSE_2 <- mean(residuals(model_log, type="response")^2)
+MSE_3 <- mean(residuals(model_inverse, type="response")^2)
+MSE_4 <- mean(residuals(model_mu2, type="response")^2)
+
+print(MSE_1)
+print(MSE_2)
+print(MSE_3)
+print(MSE_4)
+
+# Inverse is better as it is lowest 0.2693486
+
+# b) Let us assume Yi ∼ N (µi , σ 2 ). Consider the model
+# M: g(µi ) = β0 + β1 xi1 + αj + γj xi1 .
+# Choose the link function g based on your solution to (a). Calculate the maximum likelihood estimate for the
+# expected value µi∗ when X1 = 50 and X2 = Glyphosate.
+
+
+newdata <- data.frame(Dose = 50, Herbicide = "Glyphosate")
+newdata
+
+pred <- predict(model_inverse, newdata = newdata, type="response")
+pred # 2.617399
+
+
+# c)

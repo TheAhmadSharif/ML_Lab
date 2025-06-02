@@ -1,0 +1,12 @@
+Generalized Estimation Equation
+
+
+
+What is Generalized Estimation Equation (GEE)
+Share a most naive example with data for GEE
+
+
+
+
+Generalized Estimating Equations (GEE) are a method used to estimate the parameters of a Generalized Linear Model (GLM) when the data are correlated or clustered. Unlike Generalized Linear Mixed Models (GLMMs), which account for random effects, GEEs account for correlation among observations by adjusting the estimation procedure. GEEs are particularly useful when you have repeated measurements or clustered data.
+
