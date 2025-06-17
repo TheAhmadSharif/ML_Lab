@@ -195,3 +195,5 @@ else:
 
 
 1. Which nationality : column name (nation) has more success. List top_n = 10 country in gradient style table
+2. Make 5 years time interval and count every interval Total Successful Summits
+3. Make a success/failure ratio by each country or nationality in a new table

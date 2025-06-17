@@ -1,0 +1,119 @@
+Roll a fair four-sided die twice, and let X be the maximum of the two outcomes. The
+outcome space for this experiment is S0 = {(d1 , d2 ) : d1 = 1, 2, 3, 4; d2 = 1, 2, 3, 4},
+where we assume that each of these 16 points has probability 1/16. Then P(X =
+1) = P[(1, 1)] = 1/16, P(X = 2) = P[{(1, 2), (2, 1), (2, 2)}] = 3/16, and similarly
+P(X = 3) = 5/16 and P(X = 4) = 7/16. That is, the pmf of X can be written simply
+as
+f (x) = P(X = x) =
+2x − 1
+,
+16
+x = 1, 2, 3, 4.
+(2.1-1)
+We could add that f (x) = 0 elsewhere; but if we do not, the reader should take f (x)
+to equal zero when x ∈
+/ S = {1, 2, 3, 4}.
+A better understanding of a particular probability distribution can often be
+obtained with a graph that depicts the pmf of X. Note that the graph of the pmf
+when f (x) > 0 would be simply the set of points {[x, f (x)] : x ∈ S}, where S is the
+space of X. Two types of graphs can be used to give a better visual appreciation of
+the pmf: a line graph and a probability histogram. A line graph of the pmf f (x) of
+the random variable X is a graph having a vertical line segment drawn from (x, 0) to
+[x, f (x)] at each x in S, the space of X. If X can assume only integer values, a proba-
+bility histogram of the pmf f (x) is a graphical representation that has a rectangle of
+height f (x) and a base of length 1, centered at x for each x ∈ S, the space of X. Thus,
+the area of each rectangle is equal to the respective probability f (x), and the total
+area of a probability histogram is 1.
+Figure 2.1-1 displays a line graph and a probability histogram for the pmf f (x)
+defined in Equation 2.1-1.
+Our next probability model uses the material in Section 1.2 on methods of enu-
+meration. Consider a collection of N = N1 +N2 similar objects, N1 of them belonging
+to one of two dichotomous classes (red chips, say) and N2 of them belonging to
+the second class (blue chips, say). A collection of n objects is selected from these
+N objects at random and without replacement. Find the probability that exactly x
+(where the nonnegative integer x satisfies x ≤ n, x ≤ N1 , and n − x ≤ N2 ) of these
+n objects belong to the first class and n − x belong to the second. Of course, we can
+ 
+N1
+select x objects from the first class in any one of
+ways and n−x objects from the
+x
+
+
+N2
+second class in any one of
+ways. By the multiplication principle, the prod-
+n
+−x
+
+ 
+N1
+N2
+equals the number of ways the joint operation can be performed.
+uct
+x
+n−xSection 2.1 Random Variables of the Discrete Type 45
+f (x)
+f (x)
+0.40.4
+0.30.3
+0.20.2
+0.10.1
+x
+x
+1
+2
+3
+4
+1
+2
+3
+4
+Figure 2.1-1 Line graph and probability histogram
+ 
+N
+If we assume that each of the
+ways of selecting n objects from N = N1 + N2
+n
+objects has the same probability, it follows that the desired probability is
+
+ 
+N2
+N1
+x
+n−x
+ 
+f (x) = P(X = x) =
+,
+N
+n
+where the space S is the collection of nonnegative integers x that satisfies the
+inequalities x ≤ n, x ≤ N1 , and n − x ≤ N2 . We say that the random variable X
+has a hypergeometric distribution.
+Example
+2.1-4Some examples of hypergeometric probability histograms are given in Figure 2.1-2.
+The values of N1 , N2 , and n are given with each figure.
+Example
+2.1-5In a small pond there are 50 fish, 10 of which have been tagged. If a fisherman’s
+catch consists of 7 fish selected at random and without replacement, and X denotes
+the number of tagged fish, the probability that exactly 2 tagged fish are caught is
+  
+10 40
+246,753
+(45)(658,008)
+2
+5
+=
+= 0.2964.
+P(X = 2) =   =
+50
+99,884,400
+832,370
+7
+Example
+2.1-6
+A lot (collection) consisting of 100 fuses is inspected by the following procedure:
+Five fuses are chosen at random and tested; if all five blow at the correct amperage,
+the lot is accepted. Suppose that the lot contains 20 defective fuses. If X is a random
+variable equal to the number of defective fuses in the sample of 5, the probability of
+accepting the lot is

@@ -1,167 +1,69 @@
-2ca02c
-ff7f0e
-1f77b4
-
-
-Just note This is the dataset 
-
-
-
-
-df = pd.read_csv("Datasets/Sports_Football_1872_2025.csv")
-
-Data Excerpt 
-Sports_Football_1872_2025.csv
-Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
-1872-11-30,Scotland,England,0,0,Friendly,Glasgow,Scotland,FALSE
-1873-03-08,England,Scotland,4,2,Friendly,London,England,FALSE
-1874-03-07,Scotland,England,2,1,Friendly,Glasgow,Scotland,FALSE
-1875-03-06,England,Scotland,2,2,Friendly,London,England,FALSE
+Electricity_Production_Finland_By_FinGrid.csv
+Start_Time,End_Time,Electricity_production_Finland
+2014-01-01T00:00:00.000Z,2014-01-01T01:00:00.000Z,7306
+2014-01-01T01:00:00.000Z,2014-01-01T02:00:00.000Z,7264
+2014-01-01T02:00:00.000Z,2014-01-01T03:00:00.000Z,7231
+2014-01-01T03:00:00.000Z,2014-01-01T04:00:00.000Z,7270
+2014-01-01T04:00:00.000Z,2014-01-01T05:00:00.000Z,7339
+2014-01-01T05:00:00.000Z,2014-01-01T06:00:00.000Z,7384
 
 
 
+from IPython.core.interactiveshell import InteractiveShell
+InteractiveShell.ast_node_interactivity = "all"
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+import os 
 
-def get_avg_and_std(df, team_1="Finland", opposite_teams=["Sweden", "Norway", "Denmark"], interval=10, start_year=1970, end_year=2024)
+# Data Source: https://data.fingrid.fi/en/datasets/74
+# https://data.fingrid.fi/en/datasets?search=Consumption
 
-
-
-get total goal score, average goal score by per match, std goal score and goal conceded same as well
-
-
-
-
-	1	2	
-	1	4	
-	1	1	
-	1	2	
-    0	2	
-    0	6	
-    1	2	
+cwd = os.getcwd() 
+env_name = os.environ.get('KAGGLE_KERNEL_RUN_TYPE', 'Localhost')
 
 
-
-![Description](https://i.imgur.com/cInISNA.png)
-![Description](https://i.imgur.com/R7qypQd.png)
-
-https://imgur.com/R7qypQd
-https://imgur.com/UqAHg89
+if(env_name == "Localhost"):
+    df = pd.read_csv("Datasets/Electricity_Production_Finland_By_FinGrid.csv")
+else: 
+    df = pd.read_csv("/kaggle/input/d/ahmadsharif/finland-electricity-production/Electricity_Production_Finland_By_FinGrid.csv")
 
 
 
 
-df = pd.read_csv("Datasets/Sports_Football_1872_2025.csv")
-
-Data Excerpt 
-Sports_Football_1872_2025.csv
-Date,Home_team,Away_team,home_score,away_score,Match_type,venue_city,venue_country,neutral_venue
-1872-11-30,Scotland,England,0,0,Friendly,Glasgow,Scotland,FALSE
-1873-03-08,England,Scotland,4,2,Friendly,London,England,FALSE
-1874-03-07,Scotland,England,2,1,Friendly,Glasgow,Scotland,FALSE
-1875-03-06,England,Scotland,2,2,Friendly,London,England,FALSE
+df_data = pd.DataFrame(df)
 
 
 
-Instructions:
-––––––––––––––––––––––––––
-1. Take consideration following features while cluster 
-Average goal difference
-2. Overall standard deviation 
-3. Win percentage
-
-
-
-def cluster_team_by_performance(df, top_n=60, start_year=2000, end_year=2022,
-                                 include_team=None, team_list=None, n_clusters=4):
-    df['Date'] = pd.to_datetime(df['Date'])
-    df['Year'] = df['Date'].dt.year
-    df = df[df['Year'].between(start_year, end_year)]
-
-    all_teams = pd.unique(df[['Home_team', 'Away_team']].values.ravel())
-    stats = []
-
-    for team in all_teams:
-        team_matches = df[(df['Home_team'] == team) | (df['Away_team'] == team)]
-        if team_matches.empty:
-            continue
-
-        goals_scored = 0
-        goals_conceded = 0
-        wins = 0
-        matches = len(team_matches)
-
-        for _, row in team_matches.iterrows():
-            if row['Home_team'] == team:
-                goals_scored += row['home_score']
-                goals_conceded += row['away_score']
-                if row['home_score'] > row['away_score']:
-                    wins += 1
-            else:
-                goals_scored += row['away_score']
-                goals_conceded += row['home_score']
-                if row['away_score'] > row['home_score']:
-                    wins += 1
-
-        stats.append({
-            'Team': team,
-            'Avg Goals Scored': goals_scored / matches,
-            'Avg Goals Conceded': goals_conceded / matches,
-            'Win Rate': wins / matches,
-            'Matches': matches
-        })
-
-    df_stats = pd.DataFrame(stats)
-
-    # Filter logic: use team_list or top_n
-    if team_list:
-        selected_teams = set(team_list)
-    else:
-        selected_teams = set(df_stats.sort_values(by='Matches', ascending=False).head(top_n)['Team'])
-
-    if include_team:
-        selected_teams.update(include_team)
-
-    df_stats = df_stats[df_stats['Team'].isin(selected_teams)].reset_index(drop=True)
-
-    # Normalize for clustering
-    features = df_stats[['Avg Goals Scored', 'Avg Goals Conceded', 'Win Rate']]
-    scaler = MinMaxScaler()
-    normalized = scaler.fit_transform(features)
-
-    # K-Means clustering
-    kmeans = KMeans(n_clusters=n_clusters, random_state=42)
-    df_stats['Cluster'] = kmeans.fit_predict(normalized)
-
-    # Gradient-style display
-    styled_df = df_stats[['Team', 'Avg Goals Scored', 'Avg Goals Conceded', 'Win Rate', 'Cluster']].sort_values(by='Cluster')
-    display(styled_df.style.background_gradient(cmap='coolwarm', subset=['Avg Goals Scored', 'Avg Goals Conceded', 'Win Rate']))
-
-    # 3D plot
-    fig = plt.figure(figsize=(10, 7))
-    ax = fig.add_subplot(111, projection='3d')
-    scatter = ax.scatter(
-        df_stats['Avg Goals Scored'], df_stats['Avg Goals Conceded'], df_stats['Win Rate'],
-        c=df_stats['Cluster'], cmap='tab10', s=60
-    )
-
-    for _, row in df_stats.iterrows():
-        ax.text(row['Avg Goals Scored'], row['Avg Goals Conceded'], row['Win Rate'], row['Team'],
-                size=8, zorder=1, color='black')
-
-    ax.set_xlabel('Avg Goals Scored', labelpad=10)
-    ax.set_ylabel('Avg Goals Conceded', labelpad=10)
-    ax.set_zlabel('Win Rate', labelpad=10)
-    ax.set_title('Team Clustering Based on Performance (K-Means)', fontsize=14)
-    ax.view_init(elev=25, azim=135)
-    plt.tight_layout()
-    plt.show()
+df_data['Start_Time'] = pd.to_datetime(df_data['Start_Time'])
+df_data['Year'] =  df_data['Start_Time'].dt.year
+df_data['Month'] =  df_data['Start_Time'].dt.month
+df_data['Day'] =  df_data['Start_Time'].dt.day
+df_data
 
 
 
 
-teams = [
-    "Finland", "Norway", "Sweden", "Germany", "Hungary", "Estonia", "Turkey", 
-    "Greece", "Italy", "France", "Netherlands", "Malta", "Poland", "Brazil", 
-    "Austria", "Spain", "Portugal", "Morocco", "Argentina", "Israel", "Bangladesh"
-]
+monthly_stats = df_data.groupby('Month')['Electricity_production_Finland'].agg(['mean', 'std']).reset_index()
 
-cluster_team_by_performance(df, start_year=get_start_year, end_year=get_end_year, include_team=['Finland'], top_n = 30)
+# Rename the Month column to month names for better readability
+monthly_stats['Month'] = monthly_stats['Month'].map({
+    1: 'January', 2: 'February', 3: 'March', 4: 'April', 5: 'May', 6: 'June',
+    7: 'July', 8: 'August', 9: 'September', 10: 'October', 11: 'November', 12: 'December'
+})
+
+
+
+plt.figure(figsize=(10, 6))
+plt.bar(monthly_stats['Month'], monthly_stats['mean'], yerr=monthly_stats['std'], capsize=5, color='skyblue', alpha=0.7)
+plt.title('Monthly Electricity Production (Mean ± Std)')
+plt.xlabel('Month')
+plt.ylabel('Electricity Production')
+plt.grid(True, axis='y', linestyle='--', alpha=0.7)
+plt.show();
+
+
+–––––––––––––––––––––––
+Instruction––––––––––
+1. Print table and use gradient style
