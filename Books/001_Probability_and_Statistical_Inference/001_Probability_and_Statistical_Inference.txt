@@ -1,0 +1,42 @@
+I am reading following book. I will share some paragraphs. And you will interpret or summarize the paragraphs briefly with naive examples
+
+Probability_and_Statistical_Inference 
+Robert V. Hogg
+Elliot A. Tanis
+
+
+
+Most distributions model real-world outcomes directly:
+✅ Binomial: count of successes
+✅ Exponential: time until first event
+✅ Normal: real-valued measurements
+✅ Gamma: total time until multiple events
+✅ Beta: probability distributions on [0, 1]
+
+
+
+
+–––––––––––––––––––––––––––––––––
+Bi-variate Normal Distribution
+
+Topic: Bi-variate Normal Distribution
+
+What is Bi-variate Normal Distribution
+What is the purpose and use of it
+When is it used
+
+
+
+In Binomial distribution , There are two possible out comes from n trials.
+
+In Exponential distribution, how long will it take to happen first event 
+
+
+Beta ....
+
+and so on.
+
+But for F-distribution, why when comparing two variances ? It does not similar with other probability distribution. 
+
+Can you explain ?
+

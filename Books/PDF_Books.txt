@@ -1,1 +1,10 @@
 https://github.com/linux08/machine-learning-books/tree/master
+
+https://www.youtube.com/watch?v=eE6yvtKLwvk
+https://www.kaggle.com/discussions/general/205585
+
+Practical Statistics for Data Scientists
+Mathematics for Machine Learning
+Intro to Large Language Models - By Andrej Karpathy
+Neural Networks: Zero to Hero  - By Andrej Karpathy
+Hands on Large Language Modeks By Jay Alammar

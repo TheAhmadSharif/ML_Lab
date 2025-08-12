@@ -5,3 +5,11 @@ Ian Goodfellow, Yoshua Bengio
 and Aaron Courville
 
 https://chatgpt.com/c/684a6c5c-0930-8010-9249-56763741f87a
+
+
+
+
+Eigen value and Eigen vectors
+
+
+Share the concept use, with naive example and analogy with data
