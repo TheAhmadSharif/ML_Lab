@@ -13,3 +13,48 @@ Eigen value and Eigen vectors
 
 
 Share the concept use, with naive example and analogy with data
+
+
+I am reading following book. I will share some paragraphs. And you will interpret or summarize the paragraphs briefly with naive examples
+
+Deep Learning
+Ian Goodfellow, Yoshua Bengio
+and Aaron Courville
+
+https://chatgpt.com/c/684a6c5c-0930-8010-9249-56763741f87a
+
+
+
+
+Eigen value and Eigen vectors
+
+
+Share the concept use, with naive example and analogy with data
+
+
+–––––––– 15 February 2026
+
+Page 73
+
+∀ (the upside-down A) → "for all" / "for every" / sometimes just "forall" (as one word in very informal tech/math talks)
+
+
+–––––––––– 18 February 
+
+Information Theory (in very simple English)
+Information theory is basically a math way to measure how much "surprise" or how much new knowledge is carried inside a message, signal, or any piece of data.
+It doesn't care what the message means emotionally or semantically — it only cares about how unpredictable or how rare the symbols (letters, bits, words, sounds) are.
+The more unpredictable something is, the more information it contains.
+Super simple analogy: The guessing game
+Imagine you're playing "20 Questions" with a friend who is thinking of an animal.
+
+If they say "It's a dog" → very little surprise → little information (dogs are common).
+If they say "It's a platypus" → huge surprise → lots of information (platypus is rare and weird).
+
+
+Rounding error (also called round-off error) is a tiny inaccuracy that happens in computers because they can't store or calculate most real numbers (like 0.1 or π) exactly — they have to approximate them using a limited number of bits.
+
+What is the softmax function? (simple English + analogy)
+The softmax function is a mathematical trick used in machine learning (especially neural networks) to turn a list of raw numbers (called logits or scores) into a list of probabilities that add up to exactly 1.
+Formula (for the i-th position):
+softmax(x)_i = exp(x_i) / (exp(x_1) + exp(x_2) + ... + exp(x_n))
